@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 16:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 21:05:53 GMT</lastBuildDate>
     <item>
-      <title>Rustls TLS 库现在利用 AWS Libcrypto for Rust (aws-lc-rs) 进行加密，并 [...]</title>
-      <link>https://t.me/hn_summary/76831</link>
-      <description><![CDATA[内存安全 TLS 库现在具有 AWS Crypto 和 FIPS 
-Rustls TLS 库现在利用 AWS Libcrypto for Rust (aws-lc-rs) 进行加密，并可以选择启用 FIPS 支持，从而使 TLS 对于许多组织来说更加安全。可插拔加密允许在构建时选择加密后端，选项包括 aws-lc-rs、ring、Rust Crypto、Mbed TLS 和 BoringSSL。由于其高质量的实施和 FIPS 支持，AWS 被选为默认选择。 Adolfo Ochagavía 进行的基准测试可确保性能优化以及与其他库的比较。下一阶段包括 OpenSSL 兼容层，使 Rustls 成为许多 OpenSSL 用户的直接替代品。资金来自 AWS、Sovereign Tech Fund、Google、Fly.io、 OpenSSF 支持这项重要工作。]]></description>
-      <guid>https://t.me/hn_summary/76831</guid>
-      <pubDate>Thu, 29 Feb 2024 16:09:47 GMT</pubDate>
+      <title>[媒体]开发人员可以使用 Dagger 来简化他们的 CI 脚本，使它们更干净、更快，[...]</title>
+      <link>https://t.me/hn_summary/76886</link>
+      <description><![CDATA[匕首功能
+开发人员可以使用 Dagger 来简化他们的 CI 脚本，使它们更干净、更快、更可靠。借助 Dagger 0.10 中提供的新功能 Dagger Functions，开发人员可以编写自己的函数，将它们打包到可重用模块中，并直接从 CLI 调用它们。这些函数使用 Go、Python 和 Typescript 等熟悉的语言编写，可以使用 GraphQL API 将其链接在一起以创建动态管道。 Dagger 模块允许安全共享功能，而 Dagger CLI 则可以轻松调用函数，无需额外的基础设施。使用 Dagger Functions 的可能性超出了 CI 范围，开辟了潜在应用的世界。 （根据 93% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76886</guid>
+      <pubDate>Thu, 29 Feb 2024 21:05:53 GMT</pubDate>
     </item>
     <item>
-      <title>您刚刚继承了遗留的 C++ 代码库，现在怎么办？</title>
-      <link>https://t.me/hn_summary/76830</link>
-      <description><![CDATA[您刚刚继承了旧版 C++ 代码库，现在怎么办？&lt; /a&gt;
-您刚刚继承了旧版 C++ 代码库，现在面临着修复错误、添加功能、甚至可能重写部分代码的挑战。本指南提供了处理代码库的分步方法，强调小的增量更改，获得利益相关者的支持，并确保代码在所有支持的平台上可靠地构建和测试。目标是以最少的努力提高安全性、开发人员体验、正确性和性能。通过遵循这些策略，您可以驾驭遗留 C++ 代码库的复杂性并做出有意义的改进。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76830</guid>
-      <pubDate>Thu, 29 Feb 2024 16:05:41 GMT</pubDate>
+      <title>[媒体] 在论文“Defcon：通过优雅的功能降级防止过载”中，Meta int [...]</title>
+      <link>https://t.me/hn_summary/76885</link>
+      <description><![CDATA[Defcon：Meta 的系统，用于通过优雅的功能降级来防止过载
+在论文《Defcon：通过优雅的功能降级防止过载》中，Meta 介绍了一个名为 Defcon 的系统，用于防止系统过载导致的严重中断。通过根据业务重要性对产品功能进行分类，Defcon 允许事件响应人员以优雅的方式关闭功能，从而减少对用户的影响。该论文详细介绍了 Defcon 在 Meta 产品（包括 Facebook、Messenger、Instagram 和 Whatsapp）中的设计、实现和部署。通过测试和事件响应，Defcon 被证明可以有效减少资源使用和缓解过载情况。还讨论了维护旋钮和未来自动化可能性方面的挑战。]]></description>
+      <guid>https://t.me/hn_summary/76885</guid>
+      <pubDate>Thu, 29 Feb 2024 21:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大家好！</title>
-      <link>https://t.me/hn_summary/76829</link>
-      <description><![CDATA[Draw 现已开源
-大家好！在完成《Draw!》之后，我很高兴地宣布这一消息！一段时间以来，我决定在 MIT 许可证下在 GitHub 上开源代码。该代码并不完美，但它达到了帮助我学习 C 编程和 raylib 的目的。我还成功地为多个平台构建了游戏。在其他新闻中，@raysan5 获得了 Epic Games MegaGrant，这是当之无愧的。我希望通过开源我的代码，它可以成为其他学习 C 或 raylib 的人的有用资源。请继续关注我的下一个项目，可能是带有一些独特曲折的 RPG/Roguelike！]]></description>
-      <guid>https://t.me/hn_summary/76829</guid>
-      <pubDate>Thu, 29 Feb 2024 16:01:38 GMT</pubDate>
+      <title>[媒体]在编程语言的世界里，C和C++长期以来因其l [...]</title>
+      <link>https://t.me/hn_summary/76884</link>
+      <description><![CDATA[白宫内存安全呼吁是转移注意力 
+在编程语言领域，C 和 C++ 长期以来因缺乏内存安全而受到批评。美国白宫最近关于这些语言的内存安全问题的报告引发了争议，许多人质疑该说法的有效性。该报告未能解决由其他因素（例如输入验证错误）引起的 CVE 的严重性。 Ada 是一种以其强类型系统和并发处理而闻名的语言，但它显然没有出现在讨论中。尽管面临挑战，C++ 仍然可以通过 RAII 和使用 STL 等适当的实践来实现内存安全。该报告对内存安全的关注忽视了网络安全和编程学科中更广泛的问题。]]></description>
+      <guid>https://t.me/hn_summary/76884</guid>
+      <pubDate>Thu, 29 Feb 2024 20:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]白宫为办公楼改建提供资金的计划遇到了障碍，因为我 [...]</title>
-      <link>https://t.me/hn_summary/76828</link>
-      <description><![CDATA[为什么白宫计划为办公楼改建提供资金不工作
-白宫为办公楼改建提供资金的计划遇到了障碍，因为许多城市发现很难实现这一转变。虽然将空置办公空间改造成经济适用房的想法很有希望，但地方层面缺乏资金和支持阻碍了进展。一些批评者认为，该计划没有解决住房危机的根本原因，例如分区法规和缺乏经济适用房选择。尽管意图良好，但似乎需要更全面的解决方案才能真正解决住房短缺问题。]]></description>
-      <guid>https://t.me/hn_summary/76828</guid>
-      <pubDate>Thu, 29 Feb 2024 15:57:32 GMT</pubDate>
+      <title>[媒体] Refeed 正在通过其开源 RSS 阅读器彻底改变您消费内容的方式。</title>
+      <link>https://t.me/hn_summary/76883</link>
+      <description><![CDATA[显示 HN：Refeed – 开源 RSS 阅读器&lt; br/&gt;
+Refeed 正在彻底改变您通过其开源 RSS 阅读器消费内容的方式。告别杂乱的新闻提要，向一处的一切问好。通过 Refeed，您可以快速高效地访问高质量内容。加入我们，共同迈向更好的内容消费。]]></description>
+      <guid>https://t.me/hn_summary/76883</guid>
+      <pubDate>Thu, 29 Feb 2024 20:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>了解飞机转弯背后的空气动力学原理以及为什么增加背压和功率是[...]</title>
-      <link>https://t.me/hn_summary/76827</link>
-      <description><![CDATA[转弯的空气动力学：飞机如何转弯 
-了解飞机转弯背后的空气动力学原理以及为什么增加背压和功率至关重要。了解转弯过程中力如何变化、为什么需要背压来保持高度，以及增加机翼负载的风险。了解改变升力方向以成功转弯并保持空中安全的重要性。订阅以获取最新信息并成为一名更聪明、更安全的飞行员。]]></description>
-      <guid>https://t.me/hn_summary/76827</guid>
-      <pubDate>Thu, 29 Feb 2024 15:53:28 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我回应 Rob 的说法，即不可能成为一名优秀的 .NET 开发人员 [...]</title>
+      <link>https://t.me/hn_summary/76882</link>
+      <description><![CDATA[回复：你不可能成为一名优秀的 .NET 开发人员 (2016 )
+在这篇文章中，我回应了 Rob 的说法，即由于迎合开发团队的最低公分母，不可能成为一名优秀的 .NET 开发人员。我认为这仅适用于某些地方，而不适用于所有 .NET 商店。我重点介绍了 .NET 社区中正在进行的创新工作，并强调持续学习和经验对生产力的重要性。我还讨论了软件开发中保守决策的影响以及驾驭行业变革的经验价值。最终，我挑战“一个人不可能成为一名优秀的 .NET 开发人员”的观念，并主张采用平衡的方法来拥抱新技术。]]></description>
+      <guid>https://t.me/hn_summary/76882</guid>
+      <pubDate>Thu, 29 Feb 2024 20:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲媒体组织联盟已对谷歌提起法律诉讼，寻求 [...]</title>
-      <link>https://t.me/hn_summary/76826</link>
-      <description><![CDATA[欧洲媒体组织对 Google 采取法律行动
-欧洲媒体组织联盟已对谷歌提起法律诉讼，要求其就广告技术行业的反竞争行为赔偿超过 20 亿欧元。据称，谷歌在市场上的主导地位通过操纵广告交易来支持自己的产品，从而损害了网站所有者和出版商的利益。该诉讼是在法国提起类似诉讼后在荷兰提起的。 Geradin Partners、Charles River Associates、Stek 和 Harbor 参与了此案，提供广告技术、反垄断经济学、竞争法和诉讼融资方面的专业知识。这一法律诉讼的结果可能会对在线广告行业产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/76826</guid>
-      <pubDate>Thu, 29 Feb 2024 15:49:25 GMT</pubDate>
+      <title>[媒体] Deepfake 色情应用程序 ClothOff 在 Almendralej 等小镇造成了混乱 [...]</title>
+      <link>https://t.me/hn_summary/76881</link>
+      <description><![CDATA[泄露：与 Deepfake 色情应用 ClothOff 相关的名称
+Deepfake 色情应用程序 ClothOff 在西班牙阿尔门德拉莱霍和新泽西州韦斯特菲尔德等小镇造成了混乱，那里的女学生成为了露骨图像的目标。该应用程序声称“使用人工智能脱掉任何人的衣服”，与白俄罗斯和俄罗斯的个人有联系，也与伦敦的企业有联系。调查揭示了创作者隐藏身份的程度，包括建立虚假企业和删除在线痕迹。围绕 ClothOff 的争议引发了美国两党努力禁止未经同意的深度伪造图像，但该应用程序在世界许多地方仍然可以访问。]]></description>
+      <guid>https://t.me/hn_summary/76881</guid>
+      <pubDate>Thu, 29 Feb 2024 20:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇 2008 年关于哈希函数的文章中，作者将乘法哈希函数与 [...]</title>
-      <link>https://t.me/hn_summary/76825</link>
-      <description><![CDATA[哈希函数：实证比较（2008）&lt; br/&gt;
-在这篇 2008 年关于哈希函数的文章中，作者将乘法哈希函数与更复杂的哈希函数进行了比较，讨论了速度和冲突解决之间的权衡。该基准测试包括用于各种应用的中等大小的哈希表，例如符号表和 IP 地址过滤。本文深入研究了哈希函数的内部工作原理，展示了示例以及不同函数之间的比较。根据 Pentium-M 和 Core i5 处理器上的测试结果，探讨了使用复杂函数是否会导致程序运行速度更快的问题。本文提供了不同哈希函数在各种场景下性能的详细结果和见解。 （根据 36% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76825</guid>
-      <pubDate>Thu, 29 Feb 2024 15:45:19 GMT</pubDate>
+      <title>[媒体]金融体系与文化规范（包括假期）深深交织在一起。</title>
+      <link>https://t.me/hn_summary/76880</link>
+      <description><![CDATA[金融系统放假
+金融体系与文化规范（包括假期）紧密相连。虽然大多数重要的计算机系统都力求近乎完美的正常运行时间，但许多金融系统却按照不同的时间表运行，通常会在节假日和周末休息。这可能会导致不便和混乱，尤其是在与遵守不同假期的国际同行打交道时。例如，日本银行可能根据其公司的成立日期有独特的假期。理解和驾驭这些文化差异对于确保金融界的顺利运营至关重要。此外，假期也会影响消费者行为，例如黑色星期五现象会导致交易激增。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76880</guid>
+      <pubDate>Thu, 29 Feb 2024 20:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]该项目是在 [...] 上发表的关于匿名系统攻击的演讲的记录。</title>
-      <link>https://t.me/hn_summary/76824</link>
-      <description><![CDATA[“匿名系统攻击：理论”的文字记录 (2003) 
-该项目是 Len Sassaman 和 Roger Dingledine 在 2003 年 Blackhat 会议上发表的关于匿名系统攻击的演讲的记录。该项目的目的是提供详细的演讲记录，重点关注高延迟系统，例如用于电子邮件转发器的 Mixmaster。它讨论了对手、威胁模型以及 Mixminion 的设计过程，Mixminion 是一个旨在改进以前设计的转发器。该项目旨在通过提供更容易访问和理解的文字记录来引起人们对演讲的关注，并通过提供原始演讲的详细而准确的文字记录来脱颖而出。 （根据故事文本的 15% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/76824</guid>
-      <pubDate>Thu, 29 Feb 2024 15:41:14 GMT</pubDate>
+      <title>vickiboykis.com 上的文章深入探讨了大型语言模型 (LLM) 的使用及其 [...]</title>
+      <link>https://t.me/hn_summary/76879</link>
+      <description><![CDATA[GGUF，漫漫长路
+vickiboykis.com 上的文章深入探讨了大型语言模型的使用（法学硕士）及其制品，探索它们的消费和访问方式。它引入了 GGUF（GPT 生成的统一格式）作为 LLM 推理引擎（如 llama.cpp）中使用的文件格式。然后，本文从 PyTorch 中的线性回归开始，详细解释机器学习模型。它分解了训练模型的过程，解释了特征值、损失函数和梯度下降优化等概念。文章提供了代码示例来说明 PyTorch 中线性回归模型的实现，为读者提供实用指南。 （根据 24% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76879</guid>
+      <pubDate>Thu, 29 Feb 2024 20:32:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]科学家发现了有记录以来最大规模的火山喷发——Kikai [...]</title>
-      <link>https://t.me/hn_summary/76823</link>
-      <description><![CDATA[7300年前的水下火山喷发是有记录以来最大规模的
-科学家们发现了有记录以来最大规模的火山喷发——7300年前的基凯-阿卡霍亚火山喷发，规模超过了印度尼西亚的坦博拉火山。日本九州岛附近的这次水下爆炸喷射出破纪录的 80 至 110 立方英里物质，使其成为全新世最大的一次喷发。研究人员利用地震数据和沉积物岩心来确定喷发的规模，此前由于喷发地点位于水下，这颇具挑战性。这一发现揭示了这一惊天动地的事件及其影响，凸显了自然的力量和我们星球历史的奥秘。]]></description>
-      <guid>https://t.me/hn_summary/76823</guid>
-      <pubDate>Thu, 29 Feb 2024 15:36:09 GMT</pubDate>
+      <title>问 HN：您今天遇到任何闰年错误吗？</title>
+      <link>https://t.me/hn_summary/76878</link>
+      <description><![CDATA[问 HN：您今天遇到任何闰年错误吗？有多糟糕？
+今天，我们的计费团队遇到了一个闰年错误，该错误向我们的每月订阅者收取额外的一天费用。经过一番疯狂的努力，错误已经被修复，所有测试套件都通过了。令人惊讶的是，在 QA 确认修复后，事后分析已安排在 2028 年进行。请继续关注任何其他闰年错误的更新！]]></description>
+      <guid>https://t.me/hn_summary/76878</guid>
+      <pubDate>Thu, 29 Feb 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年，欧盟启动了一项突破性举措，以增强其 cl [...]</title>
-      <link>https://t.me/hn_summary/76822</link>
-      <description><![CDATA[大力推动欧洲气候变化目标
-2023年，欧盟推出了一项突破性举措，通过制定碳价格来强化其气候政策，该碳价格适用于全球（而不仅仅是欧盟内部）重工业的排放。这种碳边境调整机制（CBAM）将对向欧盟进口目标产品的公司收取费用，从而激励全球公司减少排放。欧盟的目标是保持其产业与国际竞争对手的竞争力，同时收紧国内污染法规。 CBAM 的成功将取决于海外竞争对手严格的排放报告以及对消费者，特别是低收入家庭的影响。]]></description>
-      <guid>https://t.me/hn_summary/76822</guid>
-      <pubDate>Thu, 29 Feb 2024 15:32:05 GMT</pubDate>
+      <title>[媒体]美国电动汽车销售是灾难还是蓬勃发展？</title>
+      <link>https://t.me/hn_summary/76877</link>
+      <description><![CDATA[美国电动汽车销售是一场灾难还是一个蓬勃发展的细分市场？答案可能是两者兼而有之
+在关于美国电动汽车销售的持续争论中，答案可能既是一场灾难，又是一个蓬勃发展的细分市场。尽管电动汽车销量不断增长，但许多司机仍然犹豫是否要放弃内燃机汽车。尽管市场增长，但福特和通用汽车等汽车制造商却下调了产量预测，导致消费者感到困惑。充电基础设施扩张缓慢和政治障碍等挑战也阻碍了电动汽车的采用。不过，专家仍然乐观，预计销量和市场份额将稳步增长。电动汽车市场的现实是微妙的，预计未来几年将长期转向增加电动汽车的采用。]]></description>
+      <guid>https://t.me/hn_summary/76877</guid>
+      <pubDate>Thu, 29 Feb 2024 20:27:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
