@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 16:10:21 GMT</lastBuildDate>
+    <item>
+      <title>数据保护服务</title>
+      <link>https://www.reddit.com/r/editors/comments/1b33sqq/dcp_service/</link>
+      <description><![CDATA[大家好， 我最近受邀参加一个电影节，需要以 DCP 身份向他们发送我的短片，但是我声音有问题。我的电影是立体声混音，我读到不建议在剧院播放它，因为中心不会发出声音。这里有没有人可以和我一起从我的立体声文件中创建带有 LCR 混音的 DCP？ ​ 提前谢谢您！   由   提交 /u/parvusignis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b33sqq/dcp_service/</guid>
+      <pubDate>Thu, 29 Feb 2024 16:01:16 GMT</pubDate>
+    </item>
     <item>
       <title>DCP 电影节</title>
       <link>https://www.reddit.com/r/editors/comments/1b32oel/dcp_for_film_festival/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>有谁从公司上班变成个体户的吗？您是如何应对这一转变并寻找客户的？</title>
       <link>https://www.reddit.com/r/editors/comments/1b2yjz3/anyone_who_went_from_working_for_a_company_to/</link>
-      <description><![CDATA[我目前在一家公司全职编辑（UGC 内容和动态图形），我正在考虑明年成为自由职业者，然后可能会添加3D 动画符合我的技能。  我将能够使用我的作品集中的视频，但我有点担心如何寻找客户？今年我可以做些什么来为这种变化做好准备吗？ 我之前曾在不同的行业做过个体户，所以生活方式和商业方面不会是全新的。  非常感谢任何第一手经验和建议！   由   提交 /u/jaaambi   [链接] [评论]]]></description>
+      <description><![CDATA[我目前在一家公司全职编辑（UGC 内容和动态图形），我正在考虑明年成为自由职业者，然后可能会添加3D 动画符合我的技能。  我将能够使用我的作品集中的视频，但我有点担心如何寻找客户？今年我可以做些什么来为这一变化做好准备吗？ 我之前曾在不同的行业做过个体户，所以生活方式和商业方面的事情不会是全新的。  非常感谢任何第一手经验和建议！   由   提交 /u/jaaambi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b2yjz3/anyone_who_went_from_working_for_a_company_to/</guid>
       <pubDate>Thu, 29 Feb 2024 11:53:15 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>增加绿屏背景的深度</title>
       <link>https://www.reddit.com/r/editors/comments/1b2wg1f/adding_depth_to_green_screen_backdrops/</link>
-      <description><![CDATA[我制作会说话的学习视频。我们在绿屏上拍摄，并开始使用办公室等的各种照片作为说话头像的背景。 这很好用，但我很乐意为背景添加更多多样性和深度以供出售幻觉只是多了一点。  我想到的想法是：  - 使用 Photoshop 通过添加不同程度的模糊来添加更真实的景深 - 更进一步，将这些将图层导入 After Effects 以创建 3D 平面（带有 2D 图层） - 创建具有多个可用作背景的角度的完整 3D 办公室。  很想知道其他人是否有这方面的经验或者您会想到什么。   由   提交/u/Shreddedloops  [链接] [评论]]]></description>
+      <description><![CDATA[我制作会说话的学习视频。我们在绿屏上拍摄，并开始使用办公室等的各种照片作为说话头像的背景。 这很好用，但我很乐意为背景添加更多多样性和深度以供销售幻觉只是多了一点。  我想到的想法是：  - 使用 Photoshop 通过添加不同程度的模糊来添加更真实的景深 - 更进一步，将这些将图层导入 After Effects 以创建 3D 平面（带有 2D 图层） - 创建具有多个可用作背景的角度的完整 3D 办公室。  很想知道其他人是否有这方面的经验或者您会想到什么。   由   提交/u/Shreddedloops  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b2wg1f/adding_depth_to_green_screen_backdrops/</guid>
       <pubDate>Thu, 29 Feb 2024 09:35:09 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>数据库软件还是插件？</title>
       <link>https://www.reddit.com/r/editors/comments/1b2pjz8/database_software_or_plugin/</link>
-      <description><![CDATA[大家好， 我正在将项目和文件从服务器移动到 HDD，我想知道每个人都在使用什么创建可在 Excel 或 Google Sheets 甚至其他程序中完全搜索的数据库？粗略的想法是用特定的代码标记硬盘，然后它就是它自己的文档，您可以搜索并查看文件夹标题和项目文件名。谢谢！    由   提交/u/Canon_Cowboy   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在将项目和文件从服务器移至 HDD，我想知道每个人都在使用什么创建可在 Excel 或 Google Sheets 甚至其他程序中完全搜索的数据库？粗略的想法是用特定的代码标记硬盘，然后它就是它自己的文档，您可以搜索并查看文件夹标题和项目文件名。谢谢！    由   提交/u/Canon_Cowboy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b2pjz8/database_software_or_plugin/</guid>
       <pubDate>Thu, 29 Feb 2024 02:51:18 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿， 我刚刚开始接触这个，很快就遇到了问题向客户端获取文件/从客户端获取文件。我主要通过电子邮件或 Discord 与客户沟通，这两种方式在传输大文件时都效果不佳。  所以我的问题是如何向客户发送较大的文件/从客户获取文件？   由   提交/u/MAGA2233  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b2ou3k/getting_files_tofrom_clients/</guid>
       <pubDate>Thu, 29 Feb 2024 02:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人感觉不健康吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1b2nld9/does_anyone_else_feel_unhealthy/</link>
-      <description><![CDATA[我 22 岁，为客户制作叙事电影和各种社交媒体狗屎自由职业者……是的，我的职业生涯很好，但同时美丽的澳大利亚阳光正照耀着外面，我坐在一间黑暗的办公室里。这个屏幕时间并不健康。  我平衡运动和其他身体活动，也戴着我的蓝光眼镜，但没有什么能真正补偿我因为坐在办公椅上专心盯着像素而跳过的 8 个小时的日光:(它也确实会影响我的睡眠质量，因此我的健康和思维清晰度一直在滚雪球般下降。 想听听其他编辑是否也有这种感觉？通常不健康，为了赚大钱而工作，却达不到最好的自己? 请分享您如何战胜这种生活方式    提交者    /u/H_raw   [link]&lt; /a&gt; [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b2nld9/does_anyone_else_feel_unhealthy/</guid>
-      <pubDate>Thu, 29 Feb 2024 01:18:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

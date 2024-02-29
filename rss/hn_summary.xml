@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:32:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 16:09:47 GMT</lastBuildDate>
+    <item>
+      <title>Rustls TLS 库现在利用 AWS Libcrypto for Rust (aws-lc-rs) 进行加密，并 [...]</title>
+      <link>https://t.me/hn_summary/76831</link>
+      <description><![CDATA[内存安全 TLS 库现在具有 AWS Crypto 和 FIPS 
+Rustls TLS 库现在利用 AWS Libcrypto for Rust (aws-lc-rs) 进行加密，并可以选择启用 FIPS 支持，从而使 TLS 对于许多组织来说更加安全。可插拔加密允许在构建时选择加密后端，选项包括 aws-lc-rs、ring、Rust Crypto、Mbed TLS 和 BoringSSL。由于其高质量的实施和 FIPS 支持，AWS 被选为默认选择。 Adolfo Ochagavía 进行的基准测试可确保性能优化以及与其他库的比较。下一阶段包括 OpenSSL 兼容层，使 Rustls 成为许多 OpenSSL 用户的直接替代品。资金来自 AWS、Sovereign Tech Fund、Google、Fly.io、 OpenSSF 支持这项重要工作。]]></description>
+      <guid>https://t.me/hn_summary/76831</guid>
+      <pubDate>Thu, 29 Feb 2024 16:09:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您刚刚继承了遗留的 C++ 代码库，现在怎么办？</title>
+      <link>https://t.me/hn_summary/76830</link>
+      <description><![CDATA[您刚刚继承了旧版 C++ 代码库，现在怎么办？&lt; /a&gt;
+您刚刚继承了旧版 C++ 代码库，现在面临着修复错误、添加功能、甚至可能重写部分代码的挑战。本指南提供了处理代码库的分步方法，强调小的增量更改，获得利益相关者的支持，并确保代码在所有支持的平台上可靠地构建和测试。目标是以最少的努力提高安全性、开发人员体验、正确性和性能。通过遵循这些策略，您可以驾驭遗留 C++ 代码库的复杂性并做出有意义的改进。 （根据 38% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76830</guid>
+      <pubDate>Thu, 29 Feb 2024 16:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 大家好！</title>
+      <link>https://t.me/hn_summary/76829</link>
+      <description><![CDATA[Draw 现已开源
+大家好！在完成《Draw!》之后，我很高兴地宣布这一消息！一段时间以来，我决定在 MIT 许可证下在 GitHub 上开源代码。该代码并不完美，但它达到了帮助我学习 C 编程和 raylib 的目的。我还成功地为多个平台构建了游戏。在其他新闻中，@raysan5 获得了 Epic Games MegaGrant，这是当之无愧的。我希望通过开源我的代码，它可以成为其他学习 C 或 raylib 的人的有用资源。请继续关注我的下一个项目，可能是带有一些独特曲折的 RPG/Roguelike！]]></description>
+      <guid>https://t.me/hn_summary/76829</guid>
+      <pubDate>Thu, 29 Feb 2024 16:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]白宫为办公楼改建提供资金的计划遇到了障碍，因为我 [...]</title>
+      <link>https://t.me/hn_summary/76828</link>
+      <description><![CDATA[为什么白宫计划为办公楼改建提供资金不工作
+白宫为办公楼改建提供资金的计划遇到了障碍，因为许多城市发现很难实现这一转变。虽然将空置办公空间改造成经济适用房的想法很有希望，但地方层面缺乏资金和支持阻碍了进展。一些批评者认为，该计划没有解决住房危机的根本原因，例如分区法规和缺乏经济适用房选择。尽管意图良好，但似乎需要更全面的解决方案才能真正解决住房短缺问题。]]></description>
+      <guid>https://t.me/hn_summary/76828</guid>
+      <pubDate>Thu, 29 Feb 2024 15:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解飞机转弯背后的空气动力学原理以及为什么增加背压和功率是[...]</title>
+      <link>https://t.me/hn_summary/76827</link>
+      <description><![CDATA[转弯的空气动力学：飞机如何转弯 
+了解飞机转弯背后的空气动力学原理以及为什么增加背压和功率至关重要。了解转弯过程中力如何变化、为什么需要背压来保持高度，以及增加机翼负载的风险。了解改变升力方向以成功转弯并保持空中安全的重要性。订阅以获取最新信息并成为一名更聪明、更安全的飞行员。]]></description>
+      <guid>https://t.me/hn_summary/76827</guid>
+      <pubDate>Thu, 29 Feb 2024 15:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲媒体组织联盟已对谷歌提起法律诉讼，寻求 [...]</title>
+      <link>https://t.me/hn_summary/76826</link>
+      <description><![CDATA[欧洲媒体组织对 Google 采取法律行动
+欧洲媒体组织联盟已对谷歌提起法律诉讼，要求其就广告技术行业的反竞争行为赔偿超过 20 亿欧元。据称，谷歌在市场上的主导地位通过操纵广告交易来支持自己的产品，从而损害了网站所有者和出版商的利益。该诉讼是在法国提起类似诉讼后在荷兰提起的。 Geradin Partners、Charles River Associates、Stek 和 Harbor 参与了此案，提供广告技术、反垄断经济学、竞争法和诉讼融资方面的专业知识。这一法律诉讼的结果可能会对在线广告行业产生重大影响。]]></description>
+      <guid>https://t.me/hn_summary/76826</guid>
+      <pubDate>Thu, 29 Feb 2024 15:49:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这篇 2008 年关于哈希函数的文章中，作者将乘法哈希函数与 [...]</title>
+      <link>https://t.me/hn_summary/76825</link>
+      <description><![CDATA[哈希函数：实证比较（2008）&lt; br/&gt;
+在这篇 2008 年关于哈希函数的文章中，作者将乘法哈希函数与更复杂的哈希函数进行了比较，讨论了速度和冲突解决之间的权衡。该基准测试包括用于各种应用的中等大小的哈希表，例如符号表和 IP 地址过滤。本文深入研究了哈希函数的内部工作原理，展示了示例以及不同函数之间的比较。根据 Pentium-M 和 Core i5 处理器上的测试结果，探讨了使用复杂函数是否会导致程序运行速度更快的问题。本文提供了不同哈希函数在各种场景下性能的详细结果和见解。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76825</guid>
+      <pubDate>Thu, 29 Feb 2024 15:45:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]该项目是在 [...] 上发表的关于匿名系统攻击的演讲的记录。</title>
+      <link>https://t.me/hn_summary/76824</link>
+      <description><![CDATA[“匿名系统攻击：理论”的文字记录 (2003) 
+该项目是 Len Sassaman 和 Roger Dingledine 在 2003 年 Blackhat 会议上发表的关于匿名系统攻击的演讲的记录。该项目的目的是提供详细的演讲记录，重点关注高延迟系统，例如用于电子邮件转发器的 Mixmaster。它讨论了对手、威胁模型以及 Mixminion 的设计过程，Mixminion 是一个旨在改进以前设计的转发器。该项目旨在通过提供更容易访问和理解的文字记录来引起人们对演讲的关注，并通过提供原始演讲的详细而准确的文字记录来脱颖而出。 （根据故事文本的 15% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76824</guid>
+      <pubDate>Thu, 29 Feb 2024 15:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]科学家发现了有记录以来最大规模的火山喷发——Kikai [...]</title>
+      <link>https://t.me/hn_summary/76823</link>
+      <description><![CDATA[7300年前的水下火山喷发是有记录以来最大规模的
+科学家们发现了有记录以来最大规模的火山喷发——7300年前的基凯-阿卡霍亚火山喷发，规模超过了印度尼西亚的坦博拉火山。日本九州岛附近的这次水下爆炸喷射出破纪录的 80 至 110 立方英里物质，使其成为全新世最大的一次喷发。研究人员利用地震数据和沉积物岩心来确定喷发的规模，此前由于喷发地点位于水下，这颇具挑战性。这一发现揭示了这一惊天动地的事件及其影响，凸显了自然的力量和我们星球历史的奥秘。]]></description>
+      <guid>https://t.me/hn_summary/76823</guid>
+      <pubDate>Thu, 29 Feb 2024 15:36:09 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 2023 年，欧盟启动了一项突破性举措，以增强其 cl [...]</title>
       <link>https://t.me/hn_summary/76822</link>
@@ -12,80 +84,6 @@
 2023年，欧盟推出了一项突破性举措，通过制定碳价格来强化其气候政策，该碳价格适用于全球（而不仅仅是欧盟内部）重工业的排放。这种碳边境调整机制（CBAM）将对向欧盟进口目标产品的公司收取费用，从而激励全球公司减少排放。欧盟的目标是保持其产业与国际竞争对手的竞争力，同时收紧国内污染法规。 CBAM 的成功将取决于海外竞争对手严格的排放报告以及对消费者，特别是低收入家庭的影响。]]></description>
       <guid>https://t.me/hn_summary/76822</guid>
       <pubDate>Thu, 29 Feb 2024 15:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇博文中，我探讨了将我的博文作为 Linux 手册页提供服务的想法。</title>
-      <link>https://t.me/hn_summary/76821</link>
-      <description><![CDATA[将我的博客文章作为 Linux 手册页提供
-在这篇博文中，我探讨了将我的博文作为 Linux 手册页提供服务的想法。通过在 HTTP 请求中使用内容协商，用户现在可以请求博客文章的 roff 版本，并使用 man 命令将其作为手册页打开。我详细介绍了设计系统、用 roff 语法编写手册页以及设置 NGINX 配置来处理手册页请求的过程。该项目是对排版技术以及从命令行界面到现代软件的演变的有趣调查。特别感谢 Todd 关于设置 NGINX 配置的指导。]]></description>
-      <guid>https://t.me/hn_summary/76821</guid>
-      <pubDate>Thu, 29 Feb 2024 15:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]在一项开创性的裁决中，加州法官允许近 6,000 名黑人工人 [...]</title>
-      <link>https://t.me/hn_summary/76820</link>
-      <description><![CDATA[特斯拉将在工厂种族主义诉讼中面对近 6,000 名黑人工人
-在一项开创性的裁决中，加州法官允许特斯拉加州工厂的近 6,000 名黑人工人集体起诉这家汽车制造商的种族主义指控。这起诉讼由特斯拉工人马库斯·沃恩 (Marcus Vaughn) 于 2017 年提起，指控工厂生产车间是“种族主义行为的温床”，包括使用种族诽谤和向人力资源部门提出未得到解决的投诉。特斯拉最初否认有不当行为，但法官决定给予工人集体诉讼地位，这标志着案件可能发生转变。这场争议可能会对特斯拉的利润产生重大影响。请继续关注这个发展故事的更新。]]></description>
-      <guid>https://t.me/hn_summary/76820</guid>
-      <pubDate>Thu, 29 Feb 2024 15:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]埃克森美孚正在对推动更严格气候的投资者采取法律行动 [...]</title>
-      <link>https://t.me/hn_summary/76819</link>
-      <description><![CDATA[埃克森美孚正在起诉希望对气候变化采取更严厉行动的投资者
-埃克森美孚正在对推动更严格的气候变化政策的投资者采取法律行动，引发了企业和活动人士之间有争议的斗争。该诉讼凸显了倡导气候行动的公司和股东之间日益紧张的关系。尽管埃克森美孚声称此案涉及股东滥用行为，但批评者认为这是试图扼杀投资者的激进主义。该诉讼可能开创企业针对气候活动人士提起诉讼的先例。尽管企业应对气候变化的压力越来越大，但许多企业仍未实现减排目标。该案引发了人们对股东提案在制定公司气候变化政策方面的作用的质疑。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76819</guid>
-      <pubDate>Thu, 29 Feb 2024 15:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>www.shuttle.rs 上的 Async Rust in a Nutshell 解释了 Rust 中异步编程的概念。</title>
-      <link>https://t.me/hn_summary/76818</link>
-      <description><![CDATA[异步 Rust 简介
-www.shuttle.rs 上的异步 Rust 简介说明Rust 中异步编程的概念。它区分了并行执行和并发执行，强调了各自的优点和缺点。本文深入探讨了如何使用异步顺序编写代码，但同时执行代码而不管理线程。它介绍了像 Future 特征和 Poll 枚举这样的异步原语，解释了它们如何在异步运行时工作。本文还介绍了如何使用 async 和 wait 关键字来简化异步编程。此外，它还讨论了最近在 Rust 的特征中添加的定义异步方法，提供了对该功能的复杂性和局限性的见解。 （根据 89% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76818</guid>
-      <pubDate>Thu, 29 Feb 2024 15:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>该网页内容讨论了高性能无锁环的设计和实现 - [...]</title>
-      <link>https://t.me/hn_summary/76817</link>
-      <description><![CDATA[具有连续预留的无锁环形缓冲区（2019）&lt; /a&gt;
-此 Web 内容讨论了 Andrea Lattuada 和 James Munns 设计和实现的用于跨线程通信的高性能无锁环形缓冲区。这篇文章介绍了循环缓冲区的基础知识、维护连续数据写入/读取的挑战以及直接内存访问 (DMA) 在嵌入式系统中的重要性。该设计从 BipBuffer 中汲取灵感，但引入了一种无需显式锁定即可处理并发的新方法。通过将每个协调变量与单个线程相关联，该设计简化了推理并减少了写入器和读取器线程之间的协调。这篇文章还强调了 DMA 在提高嵌入式系统和数据中心的数据传输效率和 CPU 利用率方面的重要性。 （根据 68% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76817</guid>
-      <pubDate>Thu, 29 Feb 2024 15:11:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者分享了他们学习世界语、Toki Pona 的旅程，以及他们在 E [...]</title>
-      <link>https://t.me/hn_summary/76816</link>
-      <description><![CDATA[世界语、道本语、斯瓦希里语、印度尼西亚语
-作者分享了他们学习世界语、Toki Pona 的历程以及他们在世界语会议上的经历。他们对在世界语这种实际用途有限的语言上投入如此多的时间表示遗憾。他们还讨论了语言学家约翰·麦克沃特（John McWhorter）对斯瓦希里语和印度尼西亚语的赞扬，因为它们简单且广泛使用，是理想的语言。作者考虑将来学习其中一种语言或普通话，以便与更多母语人士交流。这个故事凸显了作者对语言的热情以及他们对有意义的沟通体验的追求。]]></description>
-      <guid>https://t.me/hn_summary/76816</guid>
-      <pubDate>Thu, 29 Feb 2024 15:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这项开创性的研究中，研究人员展示了虚幻引擎（一种视频游戏引擎）的使用 [...]</title>
-      <link>https://t.me/hn_summary/76815</link>
-      <description><![CDATA[使用虚幻引擎在原子级别渲染细胞内的蛋白质结构
-在这项开创性的研究中，研究人员展示了如何使用虚幻引擎（一种视频游戏引擎）来渲染细胞内原子水平的蛋白质结构。虽然 CryoET 可以识别细胞内的大分子，但在原子水平上可视化它们一直是一个挑战。通过利用这种创新方法，该团队展示了实时渲染复杂生物结构的能力，提供了一种独特的交互式方式来探索细胞环境。此外，他们还提供交互式导航工具和将 CryoET 数据转换为与游戏引擎兼容的格式的软件。这项研究为以前所未有的细节可视化细胞结构开辟了新的可能性。]]></description>
-      <guid>https://t.me/hn_summary/76815</guid>
-      <pubDate>Thu, 29 Feb 2024 15:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Show HN：猜骰子 – 哪一面获胜？</title>
-      <link>https://t.me/hn_summary/76814</link>
-      <description><![CDATA[显示 HN：猜骰子 – 哪一面获胜？
-标题：Show HN：猜骰子 – 哪一边落地？
-
-正在寻找一款有趣且简单的应用程序来打发时间？猜骰子就是最好的选择！该应用程序由 Indest 开发，允许用户猜测骰子的哪一面会落地。最好的部分？您的隐私受到保护，因为开发人员不会从应用程序收集任何数据。所以，现在就下载 Dice Guess 并开始测试您的运气吧！]]></description>
-      <guid>https://t.me/hn_summary/76814</guid>
-      <pubDate>Thu, 29 Feb 2024 14:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]纽约市有缓解交通拥堵的计划吗？</title>
-      <link>https://t.me/hn_summary/76813</link>
-      <description><![CDATA[纽约市有缓解交通拥堵的计划吗？曼哈顿司机 15 美元通行费
-纽约市正在考虑对进入中央公园以南曼哈顿的司机征收 15 美元的通行费，以减少交通拥堵、空气污染，并为公共交通提供资金。该计划将使纽约成为美国第一个实行拥堵收费计划的城市，但遭到公立学校教师、企业主和郊区通勤者的反对。支持者认为，纽约的本质取决于可靠的公共交通，而批评者则担心这会对低收入居民、残疾人和夜班工人产生影响。该计划包括对某些车辆的豁免以及对低收入居民的折扣。]]></description>
-      <guid>https://t.me/hn_summary/76813</guid>
-      <pubDate>Thu, 29 Feb 2024 14:52:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

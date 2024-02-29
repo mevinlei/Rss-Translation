@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:32:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 16:10:51 GMT</lastBuildDate>
+    <item>
+      <title>被解雇。现在去哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b33hu0/got_laid_off_where_to_go_now/</link>
+      <description><![CDATA[希望这符合此 Reddit 子版块的正确指导原则。如果没有，我提前道歉。我最近被解雇了，担任前端防御者的代理职位。我的职业生涯已经快三年了，但我现在不知道该去哪里。我正在积极申请我能找到的一切，但很难找到方向。我的主要关注点是 WordPress PHP 主题开发，但我也有 Craft 方面的经验，以及一点点 Vue 和 Angular 方面的经验。  我只是好奇是否有其他人遇到过同样的情况，并且可以分享一些关于现在该做什么/该去哪里的指导。将接受我能得到的任何帮助！   由   提交/u/stephen_darling  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b33hu0/got_laid_off_where_to_go_now/</guid>
+      <pubDate>Thu, 29 Feb 2024 15:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我要让他们知道我失业了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1b335do/do_i_let_them_know_im_unemployed/</link>
+      <description><![CDATA[大家好！当您与招聘人员谈论您感兴趣的职位时，您是否会透露您失业/下岗的事实？ 我的简历在我最新的职位下仍然显示为“当前”，因为我认为如果/当我协商要约时，目前没有工作会对我不利。   由   提交/u/_robert_neville_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1b335do/do_i_let_them_know_im_unemployed/</guid>
+      <pubDate>Thu, 29 Feb 2024 15:34:46 GMT</pubDate>
+    </item>
     <item>
       <title>网站加载帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1b331le/website_loading_help/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>有人知道一些好的多品牌网站吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</link>
-      <description><![CDATA[我正在寻找一些网站来为客户提供灵感，他们的母公司拥有多个不同的品牌，他们希望每个品牌都有一个不同的“风格”每个品牌的子页面。 例如： 主页：标准“通用”页面母公司品牌子页面：每个品牌都有不同的字体、颜色、布局 我发现的一个不错的例子是gap.com，Banana Republic 和 Athlea 的子页面略有变化以代表各自的品牌 - 不同的字体、颜色等。 还有人有其他好的例子吗？谢谢！   由   提交/u/Significant_Fig_6290   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些网站来为客户提供灵感，他们的母公司拥有多个不同的品牌，他们希望每个品牌都有一个不同的“风格”每个品牌的子页面。 例如： 主页：标准“通用”页面母公司品牌子页面：每个品牌都有不同的字体、颜色、布局 我发现的一个不错的例子是gap.com，Banana Republic 和 Athlea 的子页面略有变化，以代表各自的品牌 - 不同的字体、颜色等。 还有人有其他好的例子吗？谢谢！   由   提交/u/Significant_Fig_6290   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b314us/anyone_know_some_good_multibranded_websites/</guid>
       <pubDate>Thu, 29 Feb 2024 14:07:18 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我觉得他们是对精力的巨大浪费，为了达到任意目标而走捷径对我来说已经是一个破坏性的事情，更糟糕的是企业霸主窃取了你的想法或过程。无能和缺乏组织也是一个令人头疼的问题。我想免费食物和赠品很酷。 这些对某些人来说有趣吗？为什么？   由   提交 /u/ghostyx101   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1b2ze1s/are_hackathons_even_worth_it/</guid>
       <pubDate>Thu, 29 Feb 2024 12:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写工作流程文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</link>
-      <description><![CDATA[最近我看到一篇关于“万事通”的帖子学长以及如果他被公共汽车撞到该怎么办的问题。 我现在面临着类似的情况，并想开始记录我所做的事情，以便新人最终能够快速获得这些信息了解该机构的运作方式以及开发工作应如何执行。问题是 1. 我从来没有任何编写文档的经验，尤其是在工作流程方面； 2. 因为我们是一家网络机构，不同的客户有不同的需求，有时我需要发明一些以前没有做过的事情，比如无法实际记录。 我的问题是，是否有关于如何编写此类文档的良好资源，或者有任何工具可以帮助您这样做？如果我找不到任何东西，我可能会尝试使用某种 .md 文档。   由   提交 /u/MythicalTV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2z8a0/writing_workflow_documentation/</guid>
-      <pubDate>Thu, 29 Feb 2024 12:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个项目什么时候被认为是“全栈”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</link>
-      <description><![CDATA[我现在正在制作我的作品集网站。大多数情况下，它都是用 React 构建的前端。但是，我要添加一个联系表单，为此，我需要创建一个快速服务器来处理 HTTP 请求。  这个项目此时是否会被认为是全栈，仅仅因为它有一个简单的 Express 后端？对我来说，这不对，因为我没有创建任何类型的数据库或身份验证或其他任何内容。  你们觉得怎么样？   由   提交 /u/MeltaFlare   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1b2z5kt/at_what_point_is_a_project_considered_fullstack/</guid>
-      <pubDate>Thu, 29 Feb 2024 12:27:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
