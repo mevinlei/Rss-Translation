@@ -37,4 +37,4 @@
  - source024 [https://feed.indiehackers.world/posts.rss?q=productivity](https://feed.indiehackers.world/posts.rss?q=productivity) -> [indiehackers-productivity](rss/indiehackers-productivity.xml)
  - source025 [https://feed.indiehackers.world/posts.rss?group=Automation](https://feed.indiehackers.world/posts.rss?group=Automation) -> [indiehackers-Automation](rss/indiehackers-Automation.xml)
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
- - source027 [https://feed.indiehackers.world/posts.rss?group=No-Code](https://feed.indiehackers.world/posts.rss?group=No-Code) -> [indiehackers-No-Code](rss/indiehackers-No-Code.xml)
+ - source027 [http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml) -> [The New York Times](rss/The%20New%20York%20Times.xml)
