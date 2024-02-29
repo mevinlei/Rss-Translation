@@ -38,3 +38,4 @@
  - source025 [https://feed.indiehackers.world/posts.rss?group=Automation](https://feed.indiehackers.world/posts.rss?group=Automation) -> [indiehackers-Automation](rss/indiehackers-Automation.xml)
  - source026 [https://feed.indiehackers.world/posts.rss?group=ChatGPT](https://feed.indiehackers.world/posts.rss?group=ChatGPT) -> [indiehackers-ChatGPT](rss/indiehackers-ChatGPT.xml)
  - source027 [http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml](http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml) -> [The New York Times](rss/The%20New%20York%20Times.xml)
+ - source028 [http://feeds.bbci.co.uk/news/rss.xml](http://feeds.bbci.co.uk/news/rss.xml) -> [BBC-News](rss/BBC-News.xml)

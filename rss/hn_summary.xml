@@ -4,7 +4,47 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:32:05 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] 2023 年，欧盟启动了一项突破性举措，以增强其 cl [...]</title>
+      <link>https://t.me/hn_summary/76822</link>
+      <description><![CDATA[大力推动欧洲气候变化目标
+2023年，欧盟推出了一项突破性举措，通过制定碳价格来强化其气候政策，该碳价格适用于全球（而不仅仅是欧盟内部）重工业的排放。这种碳边境调整机制（CBAM）将对向欧盟进口目标产品的公司收取费用，从而激励全球公司减少排放。欧盟的目标是保持其产业与国际竞争对手的竞争力，同时收紧国内污染法规。 CBAM 的成功将取决于海外竞争对手严格的排放报告以及对消费者，特别是低收入家庭的影响。]]></description>
+      <guid>https://t.me/hn_summary/76822</guid>
+      <pubDate>Thu, 29 Feb 2024 15:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在这篇博文中，我探讨了将我的博文作为 Linux 手册页提供服务的想法。</title>
+      <link>https://t.me/hn_summary/76821</link>
+      <description><![CDATA[将我的博客文章作为 Linux 手册页提供
+在这篇博文中，我探讨了将我的博文作为 Linux 手册页提供服务的想法。通过在 HTTP 请求中使用内容协商，用户现在可以请求博客文章的 roff 版本，并使用 man 命令将其作为手册页打开。我详细介绍了设计系统、用 roff 语法编写手册页以及设置 NGINX 配置来处理手册页请求的过程。该项目是对排版技术以及从命令行界面到现代软件的演变的有趣调查。特别感谢 Todd 关于设置 NGINX 配置的指导。]]></description>
+      <guid>https://t.me/hn_summary/76821</guid>
+      <pubDate>Thu, 29 Feb 2024 15:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在一项开创性的裁决中，加州法官允许近 6,000 名黑人工人 [...]</title>
+      <link>https://t.me/hn_summary/76820</link>
+      <description><![CDATA[特斯拉将在工厂种族主义诉讼中面对近 6,000 名黑人工人
+在一项开创性的裁决中，加州法官允许特斯拉加州工厂的近 6,000 名黑人工人集体起诉这家汽车制造商的种族主义指控。这起诉讼由特斯拉工人马库斯·沃恩 (Marcus Vaughn) 于 2017 年提起，指控工厂生产车间是“种族主义行为的温床”，包括使用种族诽谤和向人力资源部门提出未得到解决的投诉。特斯拉最初否认有不当行为，但法官决定给予工人集体诉讼地位，这标志着案件可能发生转变。这场争议可能会对特斯拉的利润产生重大影响。请继续关注这个发展故事的更新。]]></description>
+      <guid>https://t.me/hn_summary/76820</guid>
+      <pubDate>Thu, 29 Feb 2024 15:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]埃克森美孚正在对推动更严格气候的投资者采取法律行动 [...]</title>
+      <link>https://t.me/hn_summary/76819</link>
+      <description><![CDATA[埃克森美孚正在起诉希望对气候变化采取更严厉行动的投资者
+埃克森美孚正在对推动更严格的气候变化政策的投资者采取法律行动，引发了企业和活动人士之间有争议的斗争。该诉讼凸显了倡导气候行动的公司和股东之间日益紧张的关系。尽管埃克森美孚声称此案涉及股东滥用行为，但批评者认为这是试图扼杀投资者的激进主义。该诉讼可能开创企业针对气候活动人士提起诉讼的先例。尽管企业应对气候变化的压力越来越大，但许多企业仍未实现减排目标。该案引发了人们对股东提案在制定公司气候变化政策方面的作用的质疑。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76819</guid>
+      <pubDate>Thu, 29 Feb 2024 15:19:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>www.shuttle.rs 上的 Async Rust in a Nutshell 解释了 Rust 中异步编程的概念。</title>
+      <link>https://t.me/hn_summary/76818</link>
+      <description><![CDATA[异步 Rust 简介
+www.shuttle.rs 上的异步 Rust 简介说明Rust 中异步编程的概念。它区分了并行执行和并发执行，强调了各自的优点和缺点。本文深入探讨了如何使用异步顺序编写代码，但同时执行代码而不管理线程。它介绍了像 Future 特征和 Poll 枚举这样的异步原语，解释了它们如何在异步运行时工作。本文还介绍了如何使用 async 和 wait 关键字来简化异步编程。此外，它还讨论了最近在 Rust 的特征中添加的定义异步方法，提供了对该功能的复杂性和局限性的见解。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/76818</guid>
+      <pubDate>Thu, 29 Feb 2024 15:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>该网页内容讨论了高性能无锁环的设计和实现 - [...]</title>
       <link>https://t.me/hn_summary/76817</link>
@@ -46,46 +86,6 @@
 纽约市正在考虑对进入中央公园以南曼哈顿的司机征收 15 美元的通行费，以减少交通拥堵、空气污染，并为公共交通提供资金。该计划将使纽约成为美国第一个实行拥堵收费计划的城市，但遭到公立学校教师、企业主和郊区通勤者的反对。支持者认为，纽约的本质取决于可靠的公共交通，而批评者则担心这会对低收入居民、残疾人和夜班工人产生影响。该计划包括对某些车辆的豁免以及对低收入居民的折扣。]]></description>
       <guid>https://t.me/hn_summary/76813</guid>
       <pubDate>Thu, 29 Feb 2024 14:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>FBI 一直在使用推送通知令牌来识别匿名用户，导致 ar [...]</title>
-      <link>https://t.me/hn_summary/76812</link>
-      <description><![CDATA[FBI 使用推送通知令牌来识别匿名用户&lt; br/&gt;
-联邦调查局一直在使用推送通知令牌来识别匿名用户，从而逮捕了与儿童性虐待材料和其他犯罪相关的案件中的嫌疑人。这项技术涉及从苹果和谷歌等科技公司获取推送代币，这些代币可用于追踪用户。虽然执法官员认为这种方法是打击犯罪的重要工具，但隐私倡导者担心滥用和监视的可能性。这种有争议的做法已被用于各种刑事案件，包括与恐怖主义、毒品，甚至国会大厦骚乱有关的案件。推送代币的使用引发了有关隐私和执法机构滥用的可能性的问题。]]></description>
-      <guid>https://t.me/hn_summary/76812</guid>
-      <pubDate>Thu, 29 Feb 2024 14:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在亚特兰大，三个企业房东拥有近 11% 的单户出租房屋，总计 [...]</title>
-      <link>https://t.me/hn_summary/76811</link>
-      <description><![CDATA[三家公司在佐治亚州亚特兰大拥有 19,000 套出租房屋 
-在亚特兰大，三个公司房东拥有近 11% 的单户出租房屋，总计超过 19,000 处房产。这种所有权的集中使这些公司对租户拥有巨大的市场影响力，从而导致了该市的经济适用房危机。有限责任公司复杂的所有权结构使得很难追踪财产与母公司之间的联系。由于管理层的层级关系，租户在与企业业主打交道时面临着挑战。在经济增长、经济适用房和宽松的租户保护的推动下，亚特兰大是美国最大的企业房东活动市场。佐治亚州立大学的研究人员旨在向公众公开他们的调查方法，以阐明这个问题。]]></description>
-      <guid>https://t.me/hn_summary/76811</guid>
-      <pubDate>Thu, 29 Feb 2024 14:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]谷歌正面临来自 30 多家欧洲媒体公司的 21 亿欧元诉讼，指控 [...]</title>
-      <link>https://t.me/hn_summary/76810</link>
-      <description><![CDATA[Google 因 30 多家欧洲媒体公司提起 2.1B 欧元诉讼
-谷歌正面临 30 多家欧洲媒体公司提起的 21 亿欧元诉讼，指控这家科技巨头存在不公平行为。这是在米斯特拉尔和微软之间达成一项有争议的人工智能协议的背景下发生的，突显了关于欧洲在科技行业中角色的持续争论。激烈的游说努力揭示了欧洲公司在不断变化的科技领域竞争所面临的挑战和机遇。]]></description>
-      <guid>https://t.me/hn_summary/76810</guid>
-      <pubDate>Thu, 29 Feb 2024 14:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV Plus 计划将威廉·吉布森 (William Gibson) 的标志性赛博朋克小说《神经漫游者》改编成 10 部 [...]</title>
-      <link>https://t.me/hn_summary/76809</link>
-      <description><![CDATA[苹果正在将威廉·吉布森的《神经漫游者》改编成电视剧 
-Apple TV Plus 计划将威廉·吉布森的标志性赛博朋克小说《神经漫游者》改编成 10 集连续剧。该剧由制片人格雷厄姆·罗兰和导演 JD·迪拉德加盟，讲述超级黑客凯斯和他的搭档莫莉应对数字间谍活动和高风险犯罪的故事。这并不是《神经漫游者》的第一次改编，该剧最初于 1984 年首次亮相，它加入了 Apple TV Plus 上不断增长的科幻内容阵容。这一消息引起了该类型粉丝的兴奋，他们渴望看到这个经典故事将如何搬上银幕。]]></description>
-      <guid>https://t.me/hn_summary/76809</guid>
-      <pubDate>Thu, 29 Feb 2024 14:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>news.ycombinator.com 上帖子的作者正在 Google 恢复出厂设置后寻求帮助 [...]</title>
-      <link>https://t.me/hn_summary/76808</link>
-      <description><![CDATA[问 HN：Google 变砖了我死去兄弟的手机&lt; br/&gt;
-news.ycombinator.com 上帖子的作者是在 Google 的恢复出厂设置保护功能将他们无法使用已故兄弟的 Google Pixel 6 手机后，他们寻求帮助。尽管提交了死亡证明等文件，但谷歌的支持只提供了有限的选择，并建议获得美国法院的命令来解锁手机。作者对谷歌在此过程中缺乏同理心和透明度表示失望，甚至诉诸法律帮助并尝试各种方法绕过保护但没有成功。作者衷心请求通过使用手机来纪念他们的兄弟，这突显了他们面临的情感和技术挑战。]]></description>
-      <guid>https://t.me/hn_summary/76808</guid>
-      <pubDate>Thu, 29 Feb 2024 14:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 15:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 15:31:08 GMT</lastBuildDate>
     <item>
       <title>寻找与 PDF 库交互的程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b31mi5/in_search_of_a_program_to_interact_with_a_library/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>希望开始人工智能项目</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2zuga/looking_to_get_started_with_ai_projects/</link>
-      <description><![CDATA[有没有好的完全离线（不需要访问互联网）的生成人工智能免费软件或开源项目？我希望开始学习整体使用人工智能，并寻找一个可以使用的系统，而无需使用 chatgpt 等。我还希望构建自己的人工智能数据集，而不是下载任何预制的数据集。我只寻找离线的原因是经常发生安全漏洞，这可能允许黑客等访问。因此，通过离线学习可以限制这个问题。想想类似于刚刚开始 PHP 编程，第一次尝试编码，向其他在线用户提供对 Web 服务器等的访问权限。对于我应该为此使用的任何项目有什么建议吗？   由   提交 /u/RequirementFuzzy4244   [链接] [评论]]]></description>
+      <description><![CDATA[有没有好的完全离线（不需要互联网接入）的生成人工智能免费软件或开源项目？我希望开始学习整体使用人工智能，并寻找一个可以使用的系统，而无需使用 chatgpt 等。我还希望构建自己的人工智能数据集，而不是下载任何预制的数据集。我只寻找离线的原因是经常发生安全漏洞，这可能允许黑客等访问。因此，通过离线学习可以限制这个问题。想想类似于刚刚开始 PHP 编程，第一次尝试编码，向其他在线用户提供对 Web 服务器等的访问权限。对于我应该为此使用的任何项目有什么建议吗？   由   提交 /u/RequirementFuzzy4244   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2zuga/looking_to_get_started_with_ai_projects/</guid>
       <pubDate>Thu, 29 Feb 2024 13:04:21 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>YOLOv9架构细节，新的SOTA目标检测器</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2vxfw/yolov9_architectural_details_new_sota_object/</link>
-      <description><![CDATA[YOLOv9 引入了两项新功能： 完整文章：https://medium.com/aiguys/yolov9-new-object-detection-king-6fc97b93dc9a GELAN 和PGI - GELAN 结合了 CSPNet（以其轻量级设计和效率而闻名）和 ELAN（专注于梯度路径管理以实现有效学习）的优势。 - 通过允许在网络中使用任何类型的计算块，而不仅仅是卷积层。这为设计高效的网络架构提供了更大的灵活性。 PGI 基本上解决了两个主要问题： - 信息瓶颈 - 深度监督限制：深度监督增加了网络的附加预测层有助于训练。然而，它有时会导致网络过于关注特定特征或对象而忽略其他特征或对象。为了解决深度监督问题，YOLOv9 提供了辅助可逆分支：该组件提供了另一种路径来确保梯度传播回来培训期间是可靠和完整的。    由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
+      <description><![CDATA[YOLOv9 引入了两项新功能： 完整文章：https://medium.com/aiguys/yolov9-new-object-detection-king-6fc97b93dc9a GELAN 和PGI - GELAN 结合了 CSPNet（以其轻量级设计和效率而闻名）和 ELAN（专注于梯度路径管理以实现有效学习）的优势。 - 通过允许在网络中使用任何类型的计算块，而不仅仅是卷积层。这为设计高效的网络架构提供了更大的灵活性。 PGI 基本上解决了两个主要问题： - 信息瓶颈 - 深度监督限制：深度监督增加了向网络添加额外的预测层以帮助训练。然而，它有时会导致网络过于关注特定特征或对象而忽略其他特征或对象。为了解决深度监督问题，YOLOv9 提供了辅助可逆分支：该组件提供了另一种路径来确保梯度传播回来培训期间是可靠和完整的。    由   提交 /u/Difficult-Race-1188   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2vxfw/yolov9_architectural_details_new_sota_object/</guid>
       <pubDate>Thu, 29 Feb 2024 08:58:45 GMT</pubDate>
     </item>
@@ -78,14 +78,14 @@
     <item>
       <title>每日一分钟人工智能新闻 2/​​28/2024</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2sdg4/oneminute_daily_ai_news_2282024/</link>
-      <description><![CDATA[ 阿里巴巴随着人工智能竞争的加剧，云计算大幅降价。[1]  Google 首席执行官告诉员工 Gemini AI 错误“不可接受”。[2] Google 推出 Genie strong&gt;，第一个可以从文本、图像生成视频游戏的 AI 模型。[3] StarCoder 2 是一种在大多数 GPU 上运行的代码生成 AI。 [4]  来源：https://bushaicave .com/2024/02/28/2-28-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <description><![CDATA[ 阿里巴巴随着人工智能竞争的加剧，云计算大幅降价。[1]  Google 首席执行官告诉员工 Gemini AI 错误“不可接受”。[2] Google 推出 Genie strong&gt;，这是有史以来第一个可以从文本、图像生成视频游戏的 AI 模型。[3] StarCoder 2 是一种可在大多数 GPU 上运行的代码生成 AI。 [4]  来源：https://bushaicave .com/2024/02/28/2-28-2024/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2sdg4/oneminute_daily_ai_news_2282024/</guid>
       <pubDate>Thu, 29 Feb 2024 05:15:39 GMT</pubDate>
     </item>
     <item>
       <title>公司称 ChatGPT 相当于 700 名员工</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1b2gp1x/company_says_chatgpt_is_equal_to_700_employees/</link>
-      <description><![CDATA[Klarna 正在扩大 AI 机器人在客户服务中的使用，声称 AI 的生产力相当于 700 个客服人员的生产力。但这一说法是在解雇 700 名员工之后发生的。 （来源）&lt; /p&gt; Klarna 的人工智能助手  到目前为止，基于应用程序的机器人处理了 2/3 的客户聊天。 客户满意度是与人类代理相同。 Klarna 表示，到 2024 年，机器人可以将利润增加 4000 万美元。 机器人现在可以在全球范围内处理退款等任务。  &lt; p&gt;裁员先于扩张  2022 年将裁员 700 名员工，约占员工总数的 10%。 将经济不确定性作为裁员的原因。  2022 年末将进一步裁员和冻结招聘。  PS：加入一个组织即可获取最新的人工智能开发、工具和用例增长最快的 AI 时事通讯。加入15000 多名专业人士，在 AI 领域变得更加聪明。 &lt; /div&gt;  由   提交 /u/saffronfan   [链接] [评论]]]></description>
+      <description><![CDATA[Klarna 正在扩大 AI 机器人在客户服务中的使用，声称 AI 的生产力相当于 700 个客服人员的生产力。但这一说法是在解雇 700 名员工之后发生的。 （来源）&lt; /p&gt; Klarna 的 AI 助手  到目前为止，基于应用程序的机器人处理了 2/3 的客户聊天。 客户满意度是与人类代理相同。 Klarna 表示，到 2024 年，机器人可以将利润增加 4000 万美元。 机器人现在可以在全球范围内处理退款等任务。  &lt; p&gt;裁员先于扩张  2022 年将裁员 700 名员工，约占员工总数的 10%。 将经济不确定性作为裁员的原因。  2022 年末将进一步裁员和冻结招聘。  PS：加入一个组织即可获取最新的人工智能开发、工具和用例增长最快的 AI 时事通讯。加入15000 多名专业人士，在 AI 领域变得更加聪明。 &lt; /div&gt;  由   提交 /u/saffronfan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1b2gp1x/company_says_chatgpt_is_equal_to_700_employees/</guid>
       <pubDate>Wed, 28 Feb 2024 20:37:05 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 28 Feb 2024 19:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
