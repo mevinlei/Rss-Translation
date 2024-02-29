@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 29 Feb 2024 16:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 18:12:14 GMT</lastBuildDate>
+    <item>
+      <title>netplus,旨在增强 .NET 应用程序开发的工具包,下载netplus的源码_GitHub_酷徒</title>
+      <link>https://www.reddit.com/r/opensource/comments/1b353qa/github_gsilvamartinnetplus_a_toolkit_designed_to/</link>
+      <description><![CDATA[    /u/gsilvamartin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1b353qa/github_gsilvamartinnetplus_a_toolkit_designed_to/</guid>
+      <pubDate>Thu, 29 Feb 2024 16:55:04 GMT</pubDate>
+    </item>
     <item>
       <title>VeraCrypt 包含 TrueCrypt 的专有代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1b2yqhw/veracrypt_includes_proprietary_code_from_truecrypt/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[已解决 我需要将大量 PDF 转换为 .odt 文件（但 .docx 也可以，因为 LibreOffice 可以读取 . docx），以及我发现的所有解决方案在某种程度上都严重混乱（Word，它有一个内置转换器，具有讽刺意味的是，显然是最糟糕的）。  &amp; #32；由   提交/u/L30N1337   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b24gv6/need_pdf_converter/</guid>
       <pubDate>Wed, 28 Feb 2024 12:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何加入项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b23jt3/how_to_join_a_project/</link>
-      <description><![CDATA[大家好，我是一名计算机工程专业的学生，​​我一直喜欢开源，现在我想尝试加入或至少帮助一个项目，请问有人有什么建议吗？我主要了解 c++。   由   提交 /u/Comfortable-Song6625    reddit.com/r/opensource/comments/1b23jt3/how_to_join_a_project/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b23jt3/how_to_join_a_project/</guid>
-      <pubDate>Wed, 28 Feb 2024 11:09:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
