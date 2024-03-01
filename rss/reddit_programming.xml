@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 01 Mar 2024 09:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 12:14:14 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 20 天内完成 20 个项目 HTML、CSS 和 JavaScript</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3s8q0/javascript_20_projects_in_20_days_html_css/</link>
+      <description><![CDATA[ 由   提交/u/ezsou  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3s8q0/javascript_20_projects_in_20_days_html_css/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>《卫报》使用无服务器、React 和 GraphQL 创建新闻编辑室协作工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3s5z7/the_guardian_creates_a_newsroom_collaboration/</link>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3s5z7/the_guardian_creates_a_newsroom_collaboration/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Stream 实现社交媒体活动源的坎坷之路</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3ry90/a_bumpy_road_to_social_media_activity_feed_with/</link>
+      <description><![CDATA[ 由   提交/u/mishioo2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3ry90/a_bumpy_road_to_social_media_activity_feed_with/</guid>
+      <pubDate>Fri, 01 Mar 2024 11:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理云端文件？</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3rjjh/how_to_process_files_in_the_cloud/</link>
+      <description><![CDATA[只是我的经验反馈，我所看到的关于我们在从本地迁移到 Azure 期间如何处理文件的内容  &lt; /div&gt;  由   提交/u/crono972  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3rjjh/how_to_process_files_in_the_cloud/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了审查代码？以下是如何让它变得更容易</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3rh6j/tired_of_reviewing_code_heres_how_to_make_it/</link>
+      <description><![CDATA[ 由   提交/u/basmamataha  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3rh6j/tired_of_reviewing_code_heres_how_to_make_it/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:51:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在迁移到 Kubernetes 11 周后，公司忘记了它们存在的原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3r8dx/company_forgets_why_they_exist_after_11week/</link>
+      <description><![CDATA[ 由   提交/u/sunher444  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3r8dx/company_forgets_why_they_exist_after_11week/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Tailwind CSS 和 Alpinejs 交叉观察器为对象设置动画</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3qyo9/how_to_animate_objects_with_tailwind_css_and/</link>
+      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   制作对象动画[评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3qyo9/how_to_animate_objects_with_tailwind_css_and/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:18:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python zrok SDK - 为您的应用程序提供疯狂的简单、安全的点对点入口。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3qrvu/python_zrok_sdk_crazy_sssimple_crazy_sssecure/</link>
+      <description><![CDATA[ 由   提交/u/PhilipLGriffiths88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3qrvu/python_zrok_sdk_crazy_sssimple_crazy_sssecure/</guid>
+      <pubDate>Fri, 01 Mar 2024 10:05:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOLID 原则：编写健壮且可维护的代码（带有 TypeScript 示例）</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3qmf3/solid_principles_writing_robust_maintainable_code/</link>
+      <description><![CDATA[ 由   提交/u/pepincho  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3qmf3/solid_principles_writing_robust_maintainable_code/</guid>
+      <pubDate>Fri, 01 Mar 2024 09:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>平台已死；平台万岁</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3qjv8/the_platform_is_dead_long_live_the_platform/</link>
+      <description><![CDATA[ 由   提交/u/allixsenos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3qjv8/the_platform_is_dead_long_live_the_platform/</guid>
+      <pubDate>Fri, 01 Mar 2024 09:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Spring Cloud Gateway、OAuth2 和 Keycloak 的微服务 - Piotr 的技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3q8pu/microservices_with_spring_cloud_gateway_oauth2/</link>
+      <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3q8pu/microservices_with_spring_cloud_gateway_oauth2/</guid>
+      <pubDate>Fri, 01 Mar 2024 09:29:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天只是闰年乐趣的一半</title>
+      <link>https://www.reddit.com/r/programming/comments/1b3q1v6/todays_only_half_of_the_leap_year_fun/</link>
+      <description><![CDATA[ 由   提交/u/R3D3-1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b3q1v6/todays_only_half_of_the_leap_year_fun/</guid>
+      <pubDate>Fri, 01 Mar 2024 09:15:33 GMT</pubDate>
+    </item>
     <item>
       <title>用于构建快速、可靠和可发展的网络服务的库。</title>
       <link>https://www.reddit.com/r/programming/comments/1b3pj35/a_library_for_building_fast_reliable_and/</link>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交/u/ablx0000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b3or6b/five_specialuse_features_of_google_cloud_spanner/</guid>
       <pubDate>Fri, 01 Mar 2024 07:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 挑战 25：域名查找器</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3oefn/python_challenge_25_domain_name_finder/</link>
-      <description><![CDATA[ 由   提交 /u/Ruthrina   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3oefn/python_challenge_25_domain_name_finder/</guid>
-      <pubDate>Fri, 01 Mar 2024 07:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序滑动力学 (Unity)</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3oaoi/procedural_sliding_mechanics_unity/</link>
-      <description><![CDATA[ 由   提交/u/kingIndian831  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3oaoi/procedural_sliding_mechanics_unity/</guid>
-      <pubDate>Fri, 01 Mar 2024 07:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>持续 API 交付管道</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3nkrq/continuous_api_delivery_pipelines/</link>
-      <description><![CDATA[ 由   提交/u/lungi_bass  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3nkrq/continuous_api_delivery_pipelines/</guid>
-      <pubDate>Fri, 01 Mar 2024 06:29:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>欺骗性弃用：关于 npm 弃用包的真相</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3m0z0/deceptive_deprecation_the_truth_about_npm/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3m0z0/deceptive_deprecation_the_truth_about_npm/</guid>
-      <pubDate>Fri, 01 Mar 2024 05:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3lawq/help/</link>
-      <description><![CDATA[我发现了一个可以观看付费课程视频的页面，但它只能让我每 400 分钟观看 3 个，如果我不想等待我可以支付但我不想支付，我已经尝试从隐身模式进入，但似乎仍然需要等待，有解决方案吗？任何建议都可以帮助我，谢谢！   由   提交/u/Thomas_ezequiel  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3lawq/help/</guid>
-      <pubDate>Fri, 01 Mar 2024 04:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有影响力的工程师不建立社交网络，而是建立社会资本</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3k5xz/influential_engineers_dont_network_they_build/</link>
-      <description><![CDATA[ 由   提交 /u/CalebMellas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3k5xz/influential_engineers_dont_network_they_build/</guid>
-      <pubDate>Fri, 01 Mar 2024 03:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>K&R 中的闰年测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3esnz/leap_year_test_in_kr/</link>
-      <description><![CDATA[ 由   提交 /u/spirittowin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3esnz/leap_year_test_in_kr/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程师如何创造价值</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3eeu2/how_software_engineers_create_value/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3eeu2/how_software_engineers_create_value/</guid>
-      <pubDate>Thu, 29 Feb 2024 23:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何让沮丧的（科技）客户开心</title>
-      <link>https://www.reddit.com/r/programming/comments/1b3bf4z/how_i_made_a_frustrated_tech_customer_happy/</link>
-      <description><![CDATA[ 由   提交/u/torque226  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b3bf4z/how_i_made_a_frustrated_tech_customer_happy/</guid>
-      <pubDate>Thu, 29 Feb 2024 21:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChromaPalette - Visual Studio 代码调色板</title>
-      <link>https://www.reddit.com/r/programming/comments/1b395ab/chromapalette_visual_studio_code_color_palette/</link>
-      <description><![CDATA[ 由   提交/u/Charming-Treacle-726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b395ab/chromapalette_visual_studio_code_color_palette/</guid>
-      <pubDate>Thu, 29 Feb 2024 19:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>二月网络平台新功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1b37vse/new_to_the_web_platform_in_february/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b37vse/new_to_the_web_platform_in_february/</guid>
-      <pubDate>Thu, 29 Feb 2024 18:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级元系统设计面试题解析 - Design Ticketmaster</title>
-      <link>https://www.reddit.com/r/programming/comments/1b37eur/top_meta_system_design_interview_question/</link>
-      <description><![CDATA[ 由   提交/u/BluebirdAway5246   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b37eur/top_meta_system_design_interview_question/</guid>
-      <pubDate>Thu, 29 Feb 2024 18:27:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
