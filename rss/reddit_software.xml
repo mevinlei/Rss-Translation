@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Mar 2024 00:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 03:12:24 GMT</lastBuildDate>
+    <item>
+      <title>司机都是超级越野车</title>
+      <link>https://www.reddit.com/r/software/comments/1b3hk6e/drivers_are_super_buggy/</link>
+      <description><![CDATA[是的，原始驱动程序可以工作，但上传速度延迟较高，并且其他驱动程序将无法工作，因为 RTWlanE“未启动”驱动程序将 oem.67 更改为 oem.61 这就是我要问的所有问题，如果你能帮忙的话   由   提交/u/spank_bunk  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b3hk6e/drivers_are_super_buggy/</guid>
+      <pubDate>Fri, 01 Mar 2024 01:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp 验证</title>
+      <link>https://www.reddit.com/r/software/comments/1b3hcea/whatsapp_verification/</link>
+      <description><![CDATA[您好，我正在寻找一个提供临时号码以验证来自埃及的 Whatsapp 号码的网站。请问你们知道什么网站吗！ 谢谢   由   提交/u/keve500  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b3hcea/whatsapp_verification/</guid>
+      <pubDate>Fri, 01 Mar 2024 01:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>随机执行器 1.2.103.401 发布。更多间隔选项和倒计时器现在可见</title>
       <link>https://www.reddit.com/r/software/comments/1b3cy88/random_executor_12103401_released_more_interval/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[正在寻找具有滑块来控制风扇速度并超越系统控制（例如微星加力燃烧器）的东西。 该死的风扇是跑来跑去，这让我发疯。我尝试了风扇控制和speedfan，但我不明白如何使用它们。它非常复杂，我正在寻找一种方法来使用滑块查看风扇速度并完成。 感谢任何帮助    ;由   提交/u/444rj44  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b2us0l/control_speed_of_cpu_fan_with_easy_to_use_software/</guid>
       <pubDate>Thu, 29 Feb 2024 07:39:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>用什么软件制作手绘图像的视频？</title>
-      <link>https://www.reddit.com/r/software/comments/1b2tt8w/what_software_is_used_for_making_videos_where_a/</link>
-      <description><![CDATA[ 由   提交/u/EmbarrassedLobster37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b2tt8w/what_software_is_used_for_making_videos_where_a/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:37:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有用于鼠标突出显示的 PowerToys。但我希望鼠标移动 1px 就能触发它。</title>
-      <link>https://www.reddit.com/r/software/comments/1b2lm76/i_have_powertoys_for_the_mouse_highlighting_but_i/</link>
-      <description><![CDATA[寻找与 PowerToys 鼠标荧光笔相同的方式突出显示鼠标的方法。我的问题是 PowerToys 工具仅在两种情况下突出显示：  混合热键 鼠标强烈晃动 &gt;  我希望鼠标在任何时候都突出显示，除非它不移动。 当它不移动时，我希望它突出显示正常的光标，没有突出显示。 背景：我运行着六台显示器，最近我升级了眼镜，中间的良好视野相当狭窄。我的周边视力仍然非常好，但现在，如果不在我的焦点 5 度范围内，像一组高分辨率屏幕上的鼠标光标一样小且几乎不存在的东西就会消失在背景中。   由   提交 /u/rekabis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b2lm76/i_have_powertoys_for_the_mouse_highlighting_but_i/</guid>
-      <pubDate>Wed, 28 Feb 2024 23:50:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

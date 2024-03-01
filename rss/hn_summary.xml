@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 29 Feb 2024 21:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 03:05:59 GMT</lastBuildDate>
     <item>
-      <title>[媒体]开发人员可以使用 Dagger 来简化他们的 CI 脚本，使它们更干净、更快，[...]</title>
-      <link>https://t.me/hn_summary/76886</link>
-      <description><![CDATA[匕首功能
-开发人员可以使用 Dagger 来简化他们的 CI 脚本，使它们更干净、更快、更可靠。借助 Dagger 0.10 中提供的新功能 Dagger Functions，开发人员可以编写自己的函数，将它们打包到可重用模块中，并直接从 CLI 调用它们。这些函数使用 Go、Python 和 Typescript 等熟悉的语言编写，可以使用 GraphQL API 将其链接在一起以创建动态管道。 Dagger 模块允许安全共享功能，而 Dagger CLI 则可以轻松调用函数，无需额外的基础设施。使用 Dagger Functions 的可能性超出了 CI 范围，开辟了潜在应用的世界。 （根据 93% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76886</guid>
-      <pubDate>Thu, 29 Feb 2024 21:05:53 GMT</pubDate>
+      <title>[媒体]孟买塔塔研究所在癌症治疗方面取得了突破性发现 [...]</title>
+      <link>https://t.me/hn_summary/76936</link>
+      <description><![CDATA[塔塔研究所声称仅需 100 卢比的药片即可预防癌症复发
+孟买塔塔研究所在癌症治疗方面取得了突破性发现，开发出一种售价 100 卢比的药片，可以预防癌症复发并将治疗副作用减少 50%。该药片名为“R+Cu”，含有含有白藜芦醇和铜的促氧化药片，可产生氧自由基，破坏垂死癌细胞释放的染色质颗粒。塔塔纪念医院的 Rajendra Badve 博士表示，虽然人体试验仍在进行中，但该平板电脑已在大鼠测试中显示出有希望的结果。这种药片的经济性和潜在有效性可能会彻底改变癌症治疗，为患者带来希望并改变肿瘤学的格局。]]></description>
+      <guid>https://t.me/hn_summary/76936</guid>
+      <pubDate>Fri, 01 Mar 2024 03:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在论文“Defcon：通过优雅的功能降级防止过载”中，Meta int [...]</title>
-      <link>https://t.me/hn_summary/76885</link>
-      <description><![CDATA[Defcon：Meta 的系统，用于通过优雅的功能降级来防止过载
-在论文《Defcon：通过优雅的功能降级防止过载》中，Meta 介绍了一个名为 Defcon 的系统，用于防止系统过载导致的严重中断。通过根据业务重要性对产品功能进行分类，Defcon 允许事件响应人员以优雅的方式关闭功能，从而减少对用户的影响。该论文详细介绍了 Defcon 在 Meta 产品（包括 Facebook、Messenger、Instagram 和 Whatsapp）中的设计、实现和部署。通过测试和事件响应，Defcon 被证明可以有效减少资源使用和缓解过载情况。还讨论了维护旋钮和未来自动化可能性方面的挑战。]]></description>
-      <guid>https://t.me/hn_summary/76885</guid>
-      <pubDate>Thu, 29 Feb 2024 21:04:49 GMT</pubDate>
+      <title>[媒体] Bluesky 是一个去中心化社交网络，也是 X 的竞争对手，已任命前 Twitter Trus [...]</title>
+      <link>https://t.me/hn_summary/76935</link>
+      <description><![CDATA[Bluesky 挖走了被马斯克裁掉的前 Twitter/X 信任与安全执行官&lt; /a&gt;
+Bluesky 是一家去中心化社交网络，也是 X 的竞争对手，已任命前 Twitter 信任和安全负责人 Aaron Rodericks 为其新任信任和安全负责人。罗德里克斯因在选举诚信方面所做的努力而遭到右翼竞选活动的攻击，因此面临争议。马斯克在 X 裁掉了罗德里克斯的团队，导致他离开。 Bluesky 的目标是优先考虑信任和安全，并从过去的节制政策中吸取教训。罗德里克斯将领导审核团队，确保对报告做出快速响应。 Bluesky 计划为用户提供独立的审核服务。 Rodericks 在全球信任和安全问题方面的经验将增强 Bluesky 的在线对话方法。]]></description>
+      <guid>https://t.me/hn_summary/76935</guid>
+      <pubDate>Fri, 01 Mar 2024 03:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在编程语言的世界里，C和C++长期以来因其l [...]</title>
-      <link>https://t.me/hn_summary/76884</link>
-      <description><![CDATA[白宫内存安全呼吁是转移注意力 
-在编程语言领域，C 和 C++ 长期以来因缺乏内存安全而受到批评。美国白宫最近关于这些语言的内存安全问题的报告引发了争议，许多人质疑该说法的有效性。该报告未能解决由其他因素（例如输入验证错误）引起的 CVE 的严重性。 Ada 是一种以其强类型系统和并发处理而闻名的语言，但它显然没有出现在讨论中。尽管面临挑战，C++ 仍然可以通过 RAII 和使用 STL 等适当的实践来实现内存安全。该报告对内存安全的关注忽视了网络安全和编程学科中更广泛的问题。]]></description>
-      <guid>https://t.me/hn_summary/76884</guid>
-      <pubDate>Thu, 29 Feb 2024 20:52:42 GMT</pubDate>
+      <title>[媒体] Artemidorus 的《Oneirocritica》是一部关于梦解释的古希腊专着，div [...]</title>
+      <link>https://t.me/hn_summary/76934</link>
+      <description><![CDATA[Oneirocritica
+阿特米多洛斯的《Oneirocritica》是一部古希腊解梦专着，分为五卷。它深入研究了个人梦的独特本质以及清醒生活对梦符号的影响。米歇尔·福柯称赞该文本是一本实用指南，强调了与伦理体验相关的具有文化意义的模式。这些书根据解剖学、自然世界物体和其他主题将梦分为几类。阿特米多洛斯强调根据梦者的背景和感受来解释梦的重要性。该文本已被翻译成多种语言，展示了其在梦研究中的持久相关性。]]></description>
+      <guid>https://t.me/hn_summary/76934</guid>
+      <pubDate>Fri, 01 Mar 2024 02:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Refeed 正在通过其开源 RSS 阅读器彻底改变您消费内容的方式。</title>
-      <link>https://t.me/hn_summary/76883</link>
-      <description><![CDATA[显示 HN：Refeed – 开源 RSS 阅读器&lt; br/&gt;
-Refeed 正在彻底改变您通过其开源 RSS 阅读器消费内容的方式。告别杂乱的新闻提要，向一处的一切问好。通过 Refeed，您可以快速高效地访问高质量内容。加入我们，共同迈向更好的内容消费。]]></description>
-      <guid>https://t.me/hn_summary/76883</guid>
-      <pubDate>Thu, 29 Feb 2024 20:49:37 GMT</pubDate>
+      <title>[媒体] 在 maximullaris.com 上的这篇博文中，我分享了我的无 GC（无堆）实验 [...]</title>
+      <link>https://t.me/hn_summary/76933</link>
+      <description><![CDATA[使用无 GC（无堆）Java 进行实验
+在 maximullaris.com 上的这篇博文中，我与大家分享了我的实验使用 sun.misc.Unsafe 和 java.lang.foreign.MemorySegment 的无 GC（无堆）Java。我探索了在 JVM 堆之外的本机内存中分配数据结构的概念，这需要手动内存管理。令人惊讶的是，尽管 sun.misc.Unsafe 存在风险，但最新的 Java 版本仍然支持它。我以一种独特的类似 OOP 的方式实现数组和哈希表等基本数据结构，通过模板生成代码。此外，我深入研究了新的 MemorySegment 类，发现它是一种更安全的替代方案，具有意想不到的内存消耗优势。我的实验导致了类似 Python 的堆外哈希表实现和压力测试来比较不同的方法。 （根据故事文本的 72% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76933</guid>
+      <pubDate>Fri, 01 Mar 2024 02:55:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇文章中，我回应 Rob 的说法，即不可能成为一名优秀的 .NET 开发人员 [...]</title>
-      <link>https://t.me/hn_summary/76882</link>
-      <description><![CDATA[回复：你不可能成为一名优秀的 .NET 开发人员 (2016 )
-在这篇文章中，我回应了 Rob 的说法，即由于迎合开发团队的最低公分母，不可能成为一名优秀的 .NET 开发人员。我认为这仅适用于某些地方，而不适用于所有 .NET 商店。我重点介绍了 .NET 社区中正在进行的创新工作，并强调持续学习和经验对生产力的重要性。我还讨论了软件开发中保守决策的影响以及驾驭行业变革的经验价值。最终，我挑战“一个人不可能成为一名优秀的 .NET 开发人员”的观念，并主张采用平衡的方法来拥抱新技术。]]></description>
-      <guid>https://t.me/hn_summary/76882</guid>
-      <pubDate>Thu, 29 Feb 2024 20:48:34 GMT</pubDate>
+      <title>[媒体]作为一项战略举措，诺基亚将在德国电信的德国站点取代华为，m [...]</title>
+      <link>https://t.me/hn_summary/76932</link>
+      <description><![CDATA[诺基亚正在德国电信德国站点取代华为 
+作为一项战略举措，诺基亚将在德国电信的德国站点取代华为，这标志着诺基亚重新进入该电信公司的网络。这一转变是在德国电信试验开放 RAN 技术之后发生的，旨在减少对华为等高风险供应商的依赖。诺基亚移动业务负责人看到了开放 RAN 的巨大机遇，特别是在华为仍处于 O-RAN 联盟之外的情况下。与此同时，华为对虚拟RAN架构的抵制导致一些欧洲运营商探索替代方案，德国可能对华为设备实施禁令。诺基亚采用开放 RAN 技术的创新方法使其成为不断发展的电信领域的关键参与者。]]></description>
+      <guid>https://t.me/hn_summary/76932</guid>
+      <pubDate>Fri, 01 Mar 2024 02:52:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Deepfake 色情应用程序 ClothOff 在 Almendralej 等小镇造成了混乱 [...]</title>
-      <link>https://t.me/hn_summary/76881</link>
-      <description><![CDATA[泄露：与 Deepfake 色情应用 ClothOff 相关的名称
-Deepfake 色情应用程序 ClothOff 在西班牙阿尔门德拉莱霍和新泽西州韦斯特菲尔德等小镇造成了混乱，那里的女学生成为了露骨图像的目标。该应用程序声称“使用人工智能脱掉任何人的衣服”，与白俄罗斯和俄罗斯的个人有联系，也与伦敦的企业有联系。调查揭示了创作者隐藏身份的程度，包括建立虚假企业和删除在线痕迹。围绕 ClothOff 的争议引发了美国两党努力禁止未经同意的深度伪造图像，但该应用程序在世界许多地方仍然可以访问。]]></description>
-      <guid>https://t.me/hn_summary/76881</guid>
-      <pubDate>Thu, 29 Feb 2024 20:43:28 GMT</pubDate>
+      <title>最近发表在《美国心脏协会杂志》上的一项研究揭示了一个重要的 [...]</title>
+      <link>https://t.me/hn_summary/76931</link>
+      <description><![CDATA[研究发现大麻使用与心血管疾病之间存在联系&lt; br/&gt;
+《美国心脏协会杂志》最近发表的一项研究表明，使用大麻与心血管疾病（包括心脏病和中风）风险增加之间存在显着联系。该研究基于超过 430,000 名美国成年人的调查数据，发现每天吸食大麻的人出现这些症状的几率更高。令人惊讶的是，该研究还发现了近乎线性的剂量反应关系，更频繁地使用大麻与更高的风险相关。尽管存在局限性，例如依赖自我报告的数据，但该研究强调了日益增长的大麻使用者人口中心血管疾病的潜在危险因素。]]></description>
+      <guid>https://t.me/hn_summary/76931</guid>
+      <pubDate>Fri, 01 Mar 2024 02:51:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]金融体系与文化规范（包括假期）深深交织在一起。</title>
-      <link>https://t.me/hn_summary/76880</link>
-      <description><![CDATA[金融系统放假
-金融体系与文化规范（包括假期）紧密相连。虽然大多数重要的计算机系统都力求近乎完美的正常运行时间，但许多金融系统却按照不同的时间表运行，通常会在节假日和周末休息。这可能会导致不便和混乱，尤其是在与遵守不同假期的国际同行打交道时。例如，日本银行可能根据其公司的成立日期有独特的假期。理解和驾驭这些文化差异对于确保金融界的顺利运营至关重要。此外，假期也会影响消费者行为，例如黑色星期五现象会导致交易激增。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76880</guid>
-      <pubDate>Thu, 29 Feb 2024 20:39:23 GMT</pubDate>
+      <title>[媒体] 正在寻找 CSV、JSON、TXT 或 XML 格式的 Caltrans CCTV 源吗？</title>
+      <link>https://t.me/hn_summary/76930</link>
+      <description><![CDATA[Caltrans CCTV Feed 以 CSV、JSON、TXT 和 XML 格式
+正在寻找 CSV、JSON、TXT 或 XML 格式的 Caltrans CCTV 源？别再犹豫了！我们的文件提供国道网络上每个闭路电视的位置和状态信息。最重要的是，它可以免费使用并通过 HTTPS 提供。请务必在开始之前检查使用条件。并在您的日历上标记 2020 年 11 月 9 日，届时我们将过渡到 HTTPS 协议。数据由加州交通局组织，使集成到您的应用程序变得轻而易举。通过我们易于访问的数据集随时了解情况并保持联系。]]></description>
+      <guid>https://t.me/hn_summary/76930</guid>
+      <pubDate>Fri, 01 Mar 2024 02:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>vickiboykis.com 上的文章深入探讨了大型语言模型 (LLM) 的使用及其 [...]</title>
-      <link>https://t.me/hn_summary/76879</link>
-      <description><![CDATA[GGUF，漫漫长路
-vickiboykis.com 上的文章深入探讨了大型语言模型的使用（法学硕士）及其制品，探索它们的消费和访问方式。它引入了 GGUF（GPT 生成的统一格式）作为 LLM 推理引擎（如 llama.cpp）中使用的文件格式。然后，本文从 PyTorch 中的线性回归开始，详细解释机器学习模型。它分解了训练模型的过程，解释了特征值、损失函数和梯度下降优化等概念。文章提供了代码示例来说明 PyTorch 中线性回归模型的实现，为读者提供实用指南。 （根据 24% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/76879</guid>
-      <pubDate>Thu, 29 Feb 2024 20:32:17 GMT</pubDate>
+      <title>[媒体]在本文中，我们将深入探讨使用 Vite、Tanstack Ro 构建多租户 B2B SaaS [...]</title>
+      <link>https://t.me/hn_summary/76929</link>
+      <description><![CDATA[展示 HN：使用 Vite 和 Tanstack 路由器构建 SaaS：第 1 部分
+在本文中，我们将深入探讨使用 Vite、Tanstack Router &amp; Query、Chakra UI 和 Saas UI 构建多租户 B2B SaaS。我们探索使用 Tanstack Router 设置 Vite、创建具有身份验证的基本 UI 以及使用 Supabase 构建 API 的基础知识。该堆栈完全类型安全且易于使用，可提供出色的开发人员体验。我们还将 Chakra UI 与 Saas UI 设计系统结合起来进行造型。本文提供了有关设置 Vite、配置路由器、使用 Chakra UI 进行样式设置以及集成 React Query 以进行数据获取和突变的分步指南。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/76929</guid>
+      <pubDate>Fri, 01 Mar 2024 02:45:24 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您今天遇到任何闰年错误吗？</title>
-      <link>https://t.me/hn_summary/76878</link>
-      <description><![CDATA[问 HN：您今天遇到任何闰年错误吗？有多糟糕？
-今天，我们的计费团队遇到了一个闰年错误，该错误向我们的每月订阅者收取额外的一天费用。经过一番疯狂的努力，错误已经被修复，所有测试套件都通过了。令人惊讶的是，在 QA 确认修复后，事后分析已安排在 2028 年进行。请继续关注任何其他闰年错误的更新！]]></description>
-      <guid>https://t.me/hn_summary/76878</guid>
-      <pubDate>Thu, 29 Feb 2024 20:30:12 GMT</pubDate>
+      <title>[媒体] 使用洗衣机和洗衣机洗衣服在经济上和环境上都可能成本高昂 [...]</title>
+      <link>https://t.me/hn_summary/76928</link>
+      <description><![CDATA[洗衣机和烘干机的效率将大大提高
+洗衣服在经济上和环境上都可能成本高昂，因为洗衣机和烘干机占家庭用电量和碳足迹的很大一部分。拜登政府宣布了这些电器的新能效标准，从而显着节省能源和水。尽管保守派强烈反对将这些变化称为“家电战争”，但这些更新旨在为消费者提供更高效、更具成本效益的选择。这标志着十多年来洗衣机和烘干机标准的首次更新，环保倡导者认为此举早就应该发生了。利益相关者之间的合作表明，在更可持续的电器方面取得进展是可能的。]]></description>
+      <guid>https://t.me/hn_summary/76928</guid>
+      <pubDate>Fri, 01 Mar 2024 02:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国电动汽车销售是灾难还是蓬勃发展？</title>
-      <link>https://t.me/hn_summary/76877</link>
-      <description><![CDATA[美国电动汽车销售是一场灾难还是一个蓬勃发展的细分市场？答案可能是两者兼而有之
-在关于美国电动汽车销售的持续争论中，答案可能既是一场灾难，又是一个蓬勃发展的细分市场。尽管电动汽车销量不断增长，但许多司机仍然犹豫是否要放弃内燃机汽车。尽管市场增长，但福特和通用汽车等汽车制造商却下调了产量预测，导致消费者感到困惑。充电基础设施扩张缓慢和政治障碍等挑战也阻碍了电动汽车的采用。不过，专家仍然乐观，预计销量和市场份额将稳步增长。电动汽车市场的现实是微妙的，预计未来几年将长期转向增加电动汽车的采用。]]></description>
-      <guid>https://t.me/hn_summary/76877</guid>
-      <pubDate>Thu, 29 Feb 2024 20:27:08 GMT</pubDate>
+      <title>[媒体] 纽约大学坦登工程学院的最新研究表明，纽约市排名 [...]</title>
+      <link>https://t.me/hn_summary/76927</link>
+      <description><![CDATA[纽约市在枪支暴力方面是美国大城市中最安全的
+纽约大学坦登工程学院的最新研究表明，纽约市是美国枪支暴力最安全的大城市之一。这项研究挑战了人们的普遍看法，即大城市的枪支暴力率、拥有率和可达性较高。研究人员使用一种名为“规模调整大都会指标”(SAMI) 的数据分析方法发现，纽约市的人均凶杀率明显低于预期。该研究还强调了人口规模与枪支相关因素之间的复杂关系。这项开创性的研究为评估当地减少枪击事件的政策提供了定量基础，旨在解读塑造全球城市的动态。]]></description>
+      <guid>https://t.me/hn_summary/76927</guid>
+      <pubDate>Fri, 01 Mar 2024 02:17:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
