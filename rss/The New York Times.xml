@@ -4,20 +4,20 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Mar 2024 05:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 09:01:25 GMT</lastBuildDate>
+    <item>
+      <title>拜登和特朗普的边境访问如何揭示了更深层次的分歧</title>
+      <link>https://www.nytimes.com/2024/02/29/us/politics/trump-biden-border-analysis.html</link>
+      <description><![CDATA[他们对移民的态度是对选民对民主混乱的胃口的考验，使总统对立法的信念与他的对手“第一天”独裁者的承诺形成对立。]]></description>
+      <guid>https://www.nytimes.com/2024/02/29/us/politics/trump-biden-border-analysis.html</guid>
+      <pubDate>Fri, 01 Mar 2024 09:01:25 GMT</pubDate>
+    </item>
     <item>
       <title>拜登和特朗普试图在双边边境访问中得分</title>
       <link>https://www.nytimes.com/2024/02/29/us/politics/biden-trump-border.html</link>
       <description><![CDATA[拜登总统鼓励前总统唐纳德·J·特朗普“和我一起”加强安全，而特朗普则将国家破碎的移民制度归咎于拜登。]]></description>
       <guid>https://www.nytimes.com/2024/02/29/us/politics/biden-trump-border.html</guid>
       <pubDate>Fri, 01 Mar 2024 03:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登和特朗普的边境访问如何揭示了更深层次的分歧</title>
-      <link>https://www.nytimes.com/2024/02/29/us/politics/trump-biden-border-analysis.html</link>
-      <description><![CDATA[他们对移民的态度是对选民对民主混乱的胃口的考验，使总统对立法的信念与他的对手“第一天”独裁者的承诺形成对立。]]></description>
-      <guid>https://www.nytimes.com/2024/02/29/us/politics/trump-biden-border-analysis.html</guid>
-      <pubDate>Fri, 01 Mar 2024 02:32:33 GMT</pubDate>
     </item>
     <item>
       <title>带领加拿大加入北美自由贸易协定的总理布莱恩·马尔罗尼去世，享年 84 岁</title>
@@ -27,16 +27,9 @@
       <pubDate>Fri, 01 Mar 2024 02:11:19 GMT</pubDate>
     </item>
     <item>
-      <title>当巴勒斯坦人挤满援助车队时，以色列枪响并造成人员伤亡</title>
-      <link>https://www.nytimes.com/2024/02/29/world/middleeast/israel-gaza-palestinian-death-toll.html</link>
-      <description><![CDATA[巴勒斯坦和以色列官员对加沙北部的致命场景给出了不同的说法，当地卫生官员称，当时有 100 多人死亡。]]></description>
-      <guid>https://www.nytimes.com/2024/02/29/world/middleeast/israel-gaza-palestinian-death-toll.html</guid>
-      <pubDate>Fri, 01 Mar 2024 01:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会通过法案避免政府部分关闭，但关键问题尚未解决</title>
+      <title>国会批准避免部分政府关闭的法案，但关键问题尚未解决</title>
       <link>https://www.nytimes.com/2024/02/29/us/politics/house-stopgap-spending-bill.html</link>
-      <description><![CDATA[最新的临时支出措施让国会有一周的时间来敲定一半政府支出协议的细节，另外三周的时间来谈判并通过另一半。]]></description>
+      <description><![CDATA[最新的临时支出措施让国会有一周的时间来敲定一半政府支出协议的细节，并再用三周的时间来谈判并通过另一半。]]></description>
       <guid>https://www.nytimes.com/2024/02/29/us/politics/house-stopgap-spending-bill.html</guid>
       <pubDate>Fri, 01 Mar 2024 01:15:45 GMT</pubDate>
     </item>
@@ -106,9 +99,16 @@
     <item>
       <title>文本显示证人很容易帮助立案取消特朗普检察官的资格</title>
       <link>https://www.nytimes.com/2024/02/29/us/trump-georgia-fani-willis-texts.html</link>
-      <description><![CDATA[泰伦斯·布拉德利 (Terrence Bradley) 不太情愿出庭作证，但短信显示，他渴望帮助取消富尔顿县地方检察官法尼·威利斯 (Fani Willis) 的资格。]]></description>
+      <description><![CDATA[特伦斯·布拉德利 (Terrence Bradley) 不太情愿出庭作证，但短信显示，他渴望帮助取消富尔顿县地方检察官法尼·威利斯 (Fani Willis) 的资格。]]></description>
       <guid>https://www.nytimes.com/2024/02/29/us/trump-georgia-fani-willis-texts.html</guid>
       <pubDate>Thu, 29 Feb 2024 16:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到日本，坏消息就是好消息</title>
+      <link>https://www.nytimes.com/2024/02/29/world/asia/japan-economy-population-politics.html</link>
+      <description><![CDATA[趋势线可能很严峻，但日本人并没有为此担心。]]></description>
+      <guid>https://www.nytimes.com/2024/02/29/world/asia/japan-economy-population-politics.html</guid>
+      <pubDate>Thu, 29 Feb 2024 10:04:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
