@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 01 Mar 2024 15:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 18:11:06 GMT</lastBuildDate>
+    <item>
+      <title>传输 170GB 视频的最佳方式？</title>
+      <link>https://www.reddit.com/r/editors/comments/1b3zk85/best_way_to_transfer_170gb_of_video/</link>
+      <description><![CDATA[因此，我每周需要将大约 170GB 的素材传输给我的剪辑师。我尝试过 Google Drive 和 WeTransfer，但预计传输时间均超过 12 小时。这被认为是正常的吗？作为一名编辑，什么是更好的方式来解决这个问题？它们是佳能原始文件，所以我知道一般来说它们很大。只是试图创建一个简化此流程的系统。   由   提交 /u/StealthyBuffalo35   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b3zk85/best_way_to_transfer_170gb_of_video/</guid>
+      <pubDate>Fri, 01 Mar 2024 17:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>工业设计学生需要帮助调查用于提高生产力的设备。</title>
+      <link>https://www.reddit.com/r/editors/comments/1b3z9dm/industrial_design_student_needs_help_with_survey/</link>
+      <description><![CDATA[大家好，我是艺术大学工业设计专业的学生，​​正在研究一些关于流板、放大镜等宏板的研究等等以提高生产力。您的回复将有助于我对宏键盘的可用性和潜在改进的研究。如果你们能抽出几分钟时间帮助我完成这项调查，我将不胜感激。完成调查大约需要 5-10 分钟。 谢谢。 https://docs.google.com/forms/d/e/1FAIpQLSdXqSzF-kDzJ3H6_O9sd9-sSygw73fslQtD77q wMCw1LlQ7Cw/viewform?usp=sf_link &lt; p&gt;感谢各位模组的批准。   由   提交 /u/Normal_Parking5618   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1b3z9dm/industrial_design_student_needs_help_with_survey/</guid>
+      <pubDate>Fri, 01 Mar 2024 16:59:23 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 声音 aaf 导出问题。请帮忙</title>
       <link>https://www.reddit.com/r/editors/comments/1b3wctc/avid_sound_aaf_export_issue_please_help/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我最近收到了一位客户的驱动器，其中包含约 7.5TB 的 Inspire 3 素材（采用影院 DNG 格式）。我基本上是从所有这些镜头中制作精选的卷轴。我正在努力寻找在首映期间处理这段素材的最佳方法。我无法选择将这一切都带入 After Effects 和转码中，因为我根本没有驱动器空间将这一切转换为 Prores 的风格。 目前，我已经将所有 Cinema 都带来了DNG 文件进入首映并制作代理以使其可见。但是，我相信这些文件不再是真正的 RAW，我的说法正确吗？我注意到在 Premiere 中查看照片与在 Photoshop 中打开其中一张 DNG 照片时图像质量存在差异。当尝试在 Premiere 中为这些 DNG 序列着色时，我失去了很多动态范围。 Davinci 也不是一个选项，因为客户在我完成后获取项目文件，并且它们专门在 Premiere 中工作。 A 任何想法将不胜感激！谢谢！   由   提交 /u/SnooBananas2469   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1b34j75/working_with_cinemadng_from_an_inspire_3/</guid>
       <pubDate>Thu, 29 Feb 2024 16:31:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据保护服务</title>
-      <link>https://www.reddit.com/r/editors/comments/1b33sqq/dcp_service/</link>
-      <description><![CDATA[大家好， 我最近受邀参加一个电影节，需要以 DCP 身份向他们发送我的短片，但是我声音有问题。我的电影是立体声混音，我读到不建议在剧院播放它，因为中心不会发出声音。这里有没有人可以和我一起从我的立体声文件中创建带有 LCR 混音的 DCP？ ​ 提前谢谢您！   由   提交 /u/parvusignis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b33sqq/dcp_service/</guid>
-      <pubDate>Thu, 29 Feb 2024 16:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>DCP 电影节</title>
-      <link>https://www.reddit.com/r/editors/comments/1b32oel/dcp_for_film_festival/</link>
-      <description><![CDATA[我最近受到一个电影节的邀请，并要求将我的电影作为 DCP 发送给他们展览；一些我以前不必做的事情。我想我可以在达芬奇中创建 DCP，但我有一个关于声音的问题。 混音是一个简单的立体声混音，我在网上读到 DCP 应该是 5.1 混音，否则什么都不会在中央扬声器等上播放，这在大型剧院中会很明显且分散注意力。 1- 这是真的吗？ 2- 解决此问题的最简单方法是什么？有没有办法通过简单地从立体声视频文件创建 5.1 DCP 来使所有声音从所有扬声器中发出，或者我应该返回编辑并通过将各种声音分配到适当的位置来创建实际的 5.1 混音频道/发言人？ 非常感谢您的评论，提前谢谢您！   由   提交 /u/parvusignis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1b32oel/dcp_for_film_festival/</guid>
-      <pubDate>Thu, 29 Feb 2024 15:14:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
