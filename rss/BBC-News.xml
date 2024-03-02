@@ -4,7 +4,21 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 02 Mar 2024 09:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 12:13:33 GMT</lastBuildDate>
+    <item>
+      <title>联合国称加沙车队多人受伤</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68454348</link>
+      <description><![CDATA[据报道，一支援助车队在加沙遭遇冲撞，造成约 760 人受伤，100 多人死亡。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68454348</guid>
+      <pubDate>Sat, 02 Mar 2024 10:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>威利·旺卡（Willy Wonka）的病毒式传播经历为何会出现如此大的问题？</title>
+      <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728</link>
+      <description><![CDATA[它被宣传为“巧克力梦想成为现实的地方”，但当现实出现时，它引起了全世界的轰动。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728</guid>
+      <pubDate>Sat, 02 Mar 2024 09:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>美国时装设计师 Iris Apfel 去世，享年 102 岁</title>
       <link>https://www.bbc.co.uk/news/world-us-canada-68455510</link>
@@ -27,13 +41,6 @@
       <pubDate>Sat, 02 Mar 2024 05:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>联合国称加沙车队多人受伤</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68454348</link>
-      <description><![CDATA[据报道，一支援助车队在加沙遭遇冲撞，造成约 760 人受伤，100 多人死亡。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68454348</guid>
-      <pubDate>Sat, 02 Mar 2024 05:28:13 GMT</pubDate>
-    </item>
-    <item>
       <title>我们如何追踪乌克兰毒贩</title>
       <link>https://www.bbc.co.uk/news/uk-68413310</link>
       <description><![CDATA[列昂尼德·扎库坚科向那些想死的弱势群体出售毒药——我们在基辅的一家邮局与他对峙。]]></description>
@@ -50,7 +57,7 @@
     <item>
       <title>虎鲸与鲨鱼：逆戟鲸独食大白鲨</title>
       <link>https://www.bbc.co.uk/news/science-environment-68446657</link>
-      <description><![CDATA[摄像机捕捉到了虎鲸在不到两分钟的时间内捕猎并“取出”大白鲨的内脏。]]></description>
+      <description><![CDATA[摄像机拍摄到一头虎鲸在不到两分钟的时间内捕猎并“取出”一条大白鲨的内脏。]]></description>
       <guid>https://www.bbc.co.uk/news/science-environment-68446657</guid>
       <pubDate>Sat, 02 Mar 2024 02:05:32 GMT</pubDate>
     </item>
@@ -60,13 +67,6 @@
       <description><![CDATA[密歇根州的抗议投票提醒美国总统，中东动荡可能转化为选举危险。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68445974</guid>
       <pubDate>Sat, 02 Mar 2024 00:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>威利·旺卡（Willy Wonka）的病毒式传播经历为何会出现如此大的问题？</title>
-      <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728</link>
-      <description><![CDATA[它被宣传为“巧克力梦想成为现实的地方”，但当现实出现时，它引起了全世界的轰动。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-68431728</guid>
-      <pubDate>Fri, 01 Mar 2024 23:00:59 GMT</pubDate>
     </item>
     <item>
       <title>由于租户搬离城市，通勤城镇的租金飙升</title>
@@ -83,11 +83,11 @@
       <pubDate>Fri, 01 Mar 2024 22:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>里希·苏纳克 (Rishi Sunak) 表示，我们必须打击极端分子</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-68451333</link>
-      <description><![CDATA[首相在唐宁街的台阶上发表讲话，攻击伊斯兰主义者和极右团体。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-68451333</guid>
-      <pubDate>Fri, 01 Mar 2024 20:00:49 GMT</pubDate>
+      <title>观看：世界室内锦标赛 - GB 的 Reekie、Hunt 和 King 的比赛</title>
+      <link>https://www.bbc.co.uk/sport/live/athletics/67811383</link>
+      <description><![CDATA[在格拉斯哥酋长球场观看世界田径室内锦标赛第二天的现场直播。]]></description>
+      <guid>https://www.bbc.co.uk/sport/live/athletics/67811383</guid>
+      <pubDate>Fri, 01 Mar 2024 20:09:35 GMT</pubDate>
     </item>
     <item>
       <title>拍摄结束后编剧猛烈抨击医生</title>
