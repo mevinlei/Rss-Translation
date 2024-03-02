@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 17:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 21:08:06 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 一群专注的维基百科编辑，专注于策划有关道路的文章和 [...]</title>
-      <link>https://t.me/hn_summary/77223</link>
-      <description><![CDATA[流氓编辑创建了一个仅与道路有关的竞争性维基百科 
-一群专注于策划有关美国道路和高速公路文章的维基百科编辑由于对网站规则的分歧而面临分裂。这导致了一个名为 AARroads 的新网站的创建，专门致力于道路。争论的焦点是地图作为来源的使用以及原创研究的构成。最终，道路项目成功更新了维基百科的政策，允许引用地图。这次分裂对双方来说都是痛苦的，一些编辑完全离开了维基百科。 AARroads 早于维基百科，现在成为道路编辑的新家，并希望最终重新加入维基百科社区。]]></description>
-      <guid>https://t.me/hn_summary/77223</guid>
-      <pubDate>Sat, 02 Mar 2024 17:59:17 GMT</pubDate>
+      <title>Linux From Scratch (LFS) 刚刚发布了 12.1 版，为 [...]</title>
+      <link>https://t.me/hn_summary/77247</link>
+      <description><![CDATA[Linux from Scratch v12.1 发布
+Linux From Scratch (LFS) 刚刚发布了 12.1 版本，提供了从源代码构建您自己的自定义 Linux 系统的分步说明。该项目包括用于扩展系统的 BLFS、用于自动化的 ALFS 以及拥有古代版本的博物馆等子项目。补丁项目还提供了有用补丁的中央存储库。无论您是经验丰富的 Linux 用户还是想要定制您的系统，Linux From Scratch 都能满足您的需求。准备好利用最新版本进入 DIY Linux 的世界吧！]]></description>
+      <guid>https://t.me/hn_summary/77247</guid>
+      <pubDate>Sat, 02 Mar 2024 21:08:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Lisp 中的 Gamedev。</title>
-      <link>https://t.me/hn_summary/77222</link>
-      <description><![CDATA[Lisp 中的 Gamedev。第 1 部分：ECS 和元语言抽象
-在本教程系列中，我们将探索使用 Common Lisp 创建 2D 游戏，展示其在游戏开发中的功能。 Lisp 的独特之处在于元语言抽象，允许程序员在语言本身内创建自己的语言结构。本教程介绍了 cl-fast-ecs 宏库，它利用实体-组件-系统模式来有效地组织游戏数据和处理规则。通过在运行时动态修改游戏对象结构，ECS 增强了灵活性和性能，解决了冯诺依曼瓶颈。这种用 Lisp 进行游戏开发的创新方法为语言设计者（而不仅仅是用户）提供了全新的编程视角。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/77222</guid>
-      <pubDate>Sat, 02 Mar 2024 17:58:13 GMT</pubDate>
+      <title>[媒体]Gum 是一个用于创建迷人的 shell 脚本和别名的工具，无需编写 [...]</title>
+      <link>https://t.me/hn_summary/77246</link>
+      <description><![CDATA[Gum – 迷人的 shell 脚本工具
+Gum 是一个无需编写任何 Go 代码即可创建迷人的 shell 脚本和别名的工具。它提供了即用型实用程序，只需几行代码即可编写有用的 shell 脚本和点文件别名。 Gum 通过提供高度可配置的组件而脱颖而出，这些组件可以进行定制以适应不同的主题和用例。它包括输入提示、文件选择、微调器、表格、样式、格式化、日志记录等功能。可以使用各种包管理器或直接下载二进制文件轻松安装 Gum。它被设计为嵌入到脚本中并支持广泛的交互以增强 shell 脚本功能。 （根据 84% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/77246</guid>
+      <pubDate>Sat, 02 Mar 2024 20:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重介绍 Emilio，这是一款电子邮件管理器，只需处理 [...] 即可为您节省 60% 的时间</title>
-      <link>https://t.me/hn_summary/77221</link>
-      <description><![CDATA[显示 HN：Emilio 整理您的电子邮件，节省 60% 的时间 –了解v1.0
-隆重推出 Emilio，这是一款电子邮件管理器，只需处理未读邮件即可为您节省 60% 的时间。使用 Emilio，您可以按优先级对电子邮件进行分类，并将高优先级电子邮件标记为“重要”以便于通知。 Emilio 的与众不同之处在于其巧妙的设计，可以隐藏低优先级电子邮件，以免在视觉上弄乱您的收件箱。如果您有任何反馈或功能请求，请务必告知我们。使用 Emilio v1.0 告别电子邮件超载，迎接更有条理的收件箱。立即在 getemil.io 上查看。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/77221</guid>
-      <pubDate>Sat, 02 Mar 2024 17:45:05 GMT</pubDate>
+      <title>该文章讨论了最高法院口头辩论期间围绕第 230 条的混乱 [...]</title>
+      <link>https://t.me/hn_summary/77245</link>
+      <description><![CDATA[如果人们歪曲第 230 条，我们就无法对其进行认真讨论
+本文讨论了最高法院在关于社交媒体内容审核法的口头辩论中围绕第 230 条的混乱。托马斯和戈萨奇法官似乎误解了第 230 条在优先于与其相抵触的州法律方面的作用。该文章批评 Steven Brill 关于第 230 条的错误信息，强调了他的不准确和误导性陈述。 Brill 错误地声称第 230 条规定社交媒体平台免除所有责任，而实际上它只为第三方内容提供有限的豁免。文章澄清了第 230 条、第一修正案和第四修正案之间的关系，强调了关于第 230 条讨论中准确信息的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77245</guid>
+      <pubDate>Sat, 02 Mar 2024 20:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 成功废除埃隆·马斯克 560 亿美元赔偿方案的律师现在 [...]</title>
-      <link>https://t.me/hn_summary/77220</link>
-      <description><![CDATA[因过高而取消埃隆·马斯克薪酬的律师需要 60 亿美元的费用
-成功取消埃隆·马斯克 560 亿美元赔偿方案的律师现在正在寻求创纪录的 60 亿美元法律费用，并以特斯拉股票支付。这笔费用相当于每小时 288,888 美元，被马斯克批评为“犯罪”。法律团队认为，这笔费用是合理的，因为特斯拉受益于马斯克返还的薪酬方案。法官凯瑟琳·麦考密克称马斯克的薪酬“高不可测”，如果案件获得批准，可能会产生巨额费用。法律团队正在推动一种费用结构，将奖励与所创造的利益直接挂钩，从而使特斯拉可以免税。]]></description>
-      <guid>https://t.me/hn_summary/77220</guid>
-      <pubDate>Sat, 02 Mar 2024 17:40:59 GMT</pubDate>
+      <title>问 HN：米斯特拉尔回答他是 GPT，这正常吗？</title>
+      <link>https://t.me/hn_summary/77244</link>
+      <description><![CDATA[问 HN：Mistral 回答他是 GPT 正常吗？
+标题：问 HN：米斯特拉尔回答他是 GPT，这正常吗？
+我最近向 Mistral 询问了他的版本号，他回答说作为 GPT-3.5 模型，他没有传统的模型号。 Mistral 分享说，他是 GPT-3 的改进版本，在更大、更多样化的文本语料库上进行训练，以实现更好的自然语言理解和生成。该人工智能旨在为各种问题和请求提供连贯且相关的响应。令人惊讶的方面是米斯特拉尔的自我意识和传达其在语言处理方面的进步的能力。在此处查看对话屏幕截图：屏幕截图链接。]]></description>
+      <guid>https://t.me/hn_summary/77244</guid>
+      <pubDate>Sat, 02 Mar 2024 20:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Stillcolor 是一款适用于 macOS 的轻量级菜单栏应用程序，旨在通过 [...]</title>
-      <link>https://t.me/hn_summary/77219</link>
-      <description><![CDATA[显示 HN：Stillcolor – 通过禁用时间抖动来减少 macOS 上的眼睛疲劳&lt; /a&gt;
-Stillcolor 是一款适用于 macOS 的轻量级菜单栏应用程序，旨在通过禁用 Apple Silicon Mac 上的时间抖动来减轻眼睛疲劳。对于那些对显示特性敏感的人来说，时间抖动可能会导致眼睛疲劳、疲劳和头痛等身体症状。与其他专注于蓝光或无闪烁显示器的解决方案不同，Stillcolor 专门针对 GPU 级别的时间抖动，在 Apple Silicon Mac 上没有可见的选项来禁用它。该项目提供了简单的安装过程和说明来验证临时抖动的状态，以及未来扩展兼容性和改进测试方法的计划。]]></description>
-      <guid>https://t.me/hn_summary/77219</guid>
-      <pubDate>Sat, 02 Mar 2024 17:29:52 GMT</pubDate>
+      <title>摘要：作者讨论了使用代码重写后手动暂存 hunk 的挑战 [...]</title>
+      <link>https://t.me/hn_summary/77243</link>
+      <description><![CDATA[Git：程序化暂存
+摘要：作者讨论了使用代码重写工具后手动暂存 hunk 的挑战，并提出了一种使用 Expect 工具根据搜索词自动执行暂存过程的解决方案。通过创建名为 git-add-match 的脚本，用户可以轻松地暂存包含特定字符串的块，从而简化清理过程。此外，lobste.rs。这种在 Git 中进行编程暂存的创新方法可以显着提高代码重构工作流程的生产力和效率。]]></description>
+      <guid>https://t.me/hn_summary/77243</guid>
+      <pubDate>Sat, 02 Mar 2024 20:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>博士。</title>
-      <link>https://t.me/hn_summary/77218</link>
-      <description><![CDATA[鲍勃·海尔，K9EID，静音键
-Bob Heil 博士 (K9EID) 是现场摇滚音乐和业余无线电音频工程领域的先驱，现已去世，享年 83 岁。他于 1966 年创立了 Heil Sound，彻底改变了标志性音乐家的音乐会音响系统。他于 2007 年荣获帕内利音频创新者奖。他也是一位热情的业余无线电爱好者，创立了 Heil Ham Radio，为业余无线电爱好者提供高品质的设备。海尔以其慷慨和指导而闻名，对业余无线电界的影响是深远的。许多人都对他的去世表示哀悼，其中包括 ARRL 主席 Rick Roderick，他赞扬了 Heil 的技术成就以及帮助其他人从事这项爱好的意愿。]]></description>
-      <guid>https://t.me/hn_summary/77218</guid>
-      <pubDate>Sat, 02 Mar 2024 17:27:48 GMT</pubDate>
+      <title>[媒体]在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现了他的[...]</title>
+      <link>https://t.me/hn_summary/77242</link>
+      <description><![CDATA[梦游作为谋杀辩护
+在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现自己站在垂死的婆婆身边，却不记得自己是如何到达那里的。尽管有证据表明帕克斯参与了犯罪，但他以梦游为由，被判谋杀罪和谋杀未遂罪不成立。这起案件引发了人们对清醒和睡眠之间模糊界限的质疑，以及梦游是否可以用来掩盖谋杀。随着睡眠取证成为一个不断发展的领域，人们正在探索睡眠障碍与犯罪行为之间的联系，从而揭示人类思维的奥秘。]]></description>
+      <guid>https://t.me/hn_summary/77242</guid>
+      <pubDate>Sat, 02 Mar 2024 20:32:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]疾病预防控制中心 (CDC) 宣布改变 COVID-19 指南，指出该病毒已成为 [...]</title>
-      <link>https://t.me/hn_summary/77217</link>
-      <description><![CDATA[CDC 放弃了为期 5 天的 Covid 隔离，认为 Covid 正在演变为流感 -就像
-CDC 宣布对 COVID-19 指南进行调整，指出该病毒变得越来越像流感，不再需要自己的特定健康规则。该机构现在建议根据症状进行隔离，而不是固定的五天隔离期。批评者认为，这一决定将商业利益置于公共卫生之上。然而，CDC 指出，COVID-19 病例、住院人数和死亡人数正在下降，疫苗可以有效预防严重疾病。该机构还强调，目前 COVID-19 死亡人数与流感死亡人数相当。总体而言，CDC 正在将 COVID-19 纳入一般呼吸道病毒指南，强调疫苗接种和常识性预防措施的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77217</guid>
-      <pubDate>Sat, 02 Mar 2024 17:16:10 GMT</pubDate>
+      <title>[媒体]随着地方政府再次反击，美国对绿色能源的反抗已经开始 [...]</title>
+      <link>https://t.me/hn_summary/77241</link>
+      <description><![CDATA[美国人对绿色能源的反抗已经开始
+随着地方政府抵制拟议的工业用地，美国对绿色能源的反抗已经开始。保护利益相关者权利（包括动物、植物、水和空气）所需的漫长而复杂的许可程序被视为必要的障碍。气候危言耸听者和全球主义精英推动威权政策以实现气候目标，但在民主国家遇到了阻力。在美国能源行业工作了 40 年的戴维·布莱克蒙 (David Blackmon) 认为，强制的、高额补贴的能源转型侵犯了利益相关者的权利，并且与自由社会不相容。核心难题在于气候目标与个人权利之间的权衡。]]></description>
+      <guid>https://t.me/hn_summary/77241</guid>
+      <pubDate>Sat, 02 Mar 2024 20:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]印度刚刚发布了2022-23年官方消费支出数据，标志着[...]</title>
-      <link>https://t.me/hn_summary/77216</link>
-      <description><![CDATA[印度消除极端贫困
-印度刚刚发布了 2022-23 年官方消费支出数据，这是十多年来首次基于调查的贫困估计。转向更准确的修正混合回忆期方法显示出印度在购买力平价 1.9 美元线下的显着增长、城市和农村不平等的减少以及极端贫困的消除。数据显示，贫困人口数量低于世界银行此前的估计。结果表明，印度需要向更高的贫困线过渡，这反映了该国过去十年的包容性增长。贫困水平的下降归功于对再分配和发展计划的强有力的政策推动。]]></description>
-      <guid>https://t.me/hn_summary/77216</guid>
-      <pubDate>Sat, 02 Mar 2024 17:10:05 GMT</pubDate>
+      <title>[媒体]国际能源署（IEA）报告称，全球排放量上升[...]</title>
+      <link>https://t.me/hn_summary/77240</link>
+      <description><![CDATA[IEA：2023 年全球新车销量中有 20% 是电动汽车，这抑制了石油需求
+国际能源署 (IEA) 报告称，如果没有电动汽车、太阳能、风能和核能的增长，过去五年全球排放量的增幅将增加三倍。尽管2023年与能源相关的排放量有所增加，但清洁能源技术的持续扩展有助于遏制这一增长。在可再生能源部署、煤改气和能源效率提高的推动下，发达经济体的排放量出现创纪录的下降。清洁能源的部署限制了对化石燃料的需求，预计到 2023 年，电动汽车将占全球新车销量的 20%，这有助于防止石油需求超过疫情前的水平。]]></description>
+      <guid>https://t.me/hn_summary/77240</guid>
+      <pubDate>Sat, 02 Mar 2024 20:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 通过基于 Java 的创新单 [...]</title>
-      <link>https://t.me/hn_summary/77215</link>
-      <description><![CDATA[显示 HN：何时在 Trader Joe&#39;s 购物（使用本土 Java单页应用程序）
-通过基于 Java 的创新单页应用程序 CoronaWait，在 frequal.com。揭开何时找到您最喜欢的物品（例如冷冻华夫饼和卫生纸）的秘密。令人惊讶的是，华夫饼的供应在周末达到高峰，而卫生纸则在周中消失。探索每月趋势，例如 12 月烘焙粉和华夫饼库存不足，1 月卫生纸库存不足。虽然库存水平全天保持一致，但早起的鸟儿可能对紫菜包饭有优势。关注 2020 年至今的库存趋势，了解商品随时间的波动情况。不要错过这种独特的购物见解。]]></description>
-      <guid>https://t.me/hn_summary/77215</guid>
-      <pubDate>Sat, 02 Mar 2024 17:05:30 GMT</pubDate>
+      <title>在 arxiv.org 上发表的这项观察性研究中，我们探讨了大麻有毒物的影响 [...]</title>
+      <link>https://t.me/hn_summary/77239</link>
+      <description><![CDATA[高期望：编程和大麻中毒的观察研究 
+在 arxiv.org 上发表的这项观察性研究中，我们探讨了其影响大麻中毒对编程性能的影响。与普遍看法相反，我们的研究结果表明，受大麻影响的个体在编码时实际上可能表现出更高水平的创造力和解决问题的能力。这项有争议的研究挑战了工作场所吸毒的传统观念，并开启了关于大麻对认知任务的潜在益处的对话。我们的研究揭示了物质使用和生产力之间的复杂关系，为编程和大麻中毒的交叉点提供了新的视角。]]></description>
+      <guid>https://t.me/hn_summary/77239</guid>
+      <pubDate>Sat, 02 Mar 2024 20:18:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Dynamicland 是一个非营利性研究小组，创建了一种新的计算介质，其中 p [...]</title>
-      <link>https://t.me/hn_summary/77214</link>
-      <description><![CDATA[Dynamicland
-Dynamicland 是一个非营利性研究小组，创建了一种新的计算媒介，人们可以在其中与真实的物体而不是屏幕一起工作。整个建筑都是计算机，可以提供公共计算体验。计划切实而灵活，鼓励协作和创造力。 Dynamicland 旨在让所有人都能充分利用这种动态媒介的力量。奥克兰的空间是不同个体塑造计算未来的社区中心。该项目是一项长期努力，目标是创建一个所有人都可以使用的动态媒介，并改变我们的思维和沟通方式。]]></description>
-      <guid>https://t.me/hn_summary/77214</guid>
-      <pubDate>Sat, 02 Mar 2024 17:01:25 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，印度科学家发现亚洲象表现出 [...]</title>
+      <link>https://t.me/hn_summary/77238</link>
+      <description><![CDATA[亚洲象哀悼并埋葬死去的小象：研究 
+在一项开创性的研究中，印度科学家发现，亚洲象通过哀悼和埋葬死去的小象，表现出类似人类葬礼的行为。这项发表在《受威胁分类群杂志》上的研究详细介绍了印度孟加拉地区的五起小牛埋葬实例，那里的牛群抬着死去的小牛，并将它们的腿朝上埋葬。研究人员观察到大象在墓地周围大声咆哮和喇叭，展示了它们与死去的小象的情感联系。这种独特的行为揭示了这些濒危动物的社会性和合作性。]]></description>
+      <guid>https://t.me/hn_summary/77238</guid>
+      <pubDate>Sat, 02 Mar 2024 20:16:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
