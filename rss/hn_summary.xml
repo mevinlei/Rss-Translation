@@ -4,87 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 02 Mar 2024 21:08:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:20:30 GMT</lastBuildDate>
     <item>
-      <title>Linux From Scratch (LFS) 刚刚发布了 12.1 版，为 [...]</title>
-      <link>https://t.me/hn_summary/77247</link>
-      <description><![CDATA[Linux from Scratch v12.1 发布
-Linux From Scratch (LFS) 刚刚发布了 12.1 版本，提供了从源代码构建您自己的自定义 Linux 系统的分步说明。该项目包括用于扩展系统的 BLFS、用于自动化的 ALFS 以及拥有古代版本的博物馆等子项目。补丁项目还提供了有用补丁的中央存储库。无论您是经验丰富的 Linux 用户还是想要定制您的系统，Linux From Scratch 都能满足您的需求。准备好利用最新版本进入 DIY Linux 的世界吧！]]></description>
-      <guid>https://t.me/hn_summary/77247</guid>
-      <pubDate>Sat, 02 Mar 2024 21:08:06 GMT</pubDate>
+      <title>欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。</title>
+      <link>https://t.me/hn_summary/77273</link>
+      <description><![CDATA[维基教科书免费教科书
+欢迎来到维基教科书，在这里您可以访问数以千计的多种语言的免费教科书。超过 10,000 页的内容，适合每个人。无论您需要特定主题的帮助还是只是想扩展您的知识，维基教科书都有超过 1,000 页的信息等着您。探索我们关于各种主题的 100 多页合集，并立即开始学习。加入我们的贡献者和读者社区，分享知识和资源。维基教科书通过为所有人提供免费、易于使用的教​​科书正在彻底改变教育。]]></description>
+      <guid>https://t.me/hn_summary/77273</guid>
+      <pubDate>Sun, 03 Mar 2024 00:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Gum 是一个用于创建迷人的 shell 脚本和别名的工具，无需编写 [...]</title>
-      <link>https://t.me/hn_summary/77246</link>
-      <description><![CDATA[Gum – 迷人的 shell 脚本工具
-Gum 是一个无需编写任何 Go 代码即可创建迷人的 shell 脚本和别名的工具。它提供了即用型实用程序，只需几行代码即可编写有用的 shell 脚本和点文件别名。 Gum 通过提供高度可配置的组件而脱颖而出，这些组件可以进行定制以适应不同的主题和用例。它包括输入提示、文件选择、微调器、表格、样式、格式化、日志记录等功能。可以使用各种包管理器或直接下载二进制文件轻松安装 Gum。它被设计为嵌入到脚本中并支持广泛的交互以增强 shell 脚本功能。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/77246</guid>
-      <pubDate>Sat, 02 Mar 2024 20:59:00 GMT</pubDate>
+      <title>在机器人领域，我们通过将人形机器人视为机器人来应对人形运动的挑战 [...]</title>
+      <link>https://t.me/hn_summary/77272</link>
+      <description><![CDATA[人形运动作为下一个标记预测
+在机器人领域，我们通过将人形运动视为数据建模问题来应对其挑战。通过训练变压器模型来预测感觉运动轨迹中的转移标记，我们的目标是捕获联合数据分布而不仅仅是条件动作分布。我们的创新方法使我们能够以统一的方式利用有或没有动作的轨迹，从神经网络策略、基于模型的控制器、人体动作捕捉和 YouTube 视频等不同来源获取数据。最终，我们的模型在旧金山进行了测试，展示了其在现实环境中导航各种地形并遵循速度命令的能力。]]></description>
+      <guid>https://t.me/hn_summary/77272</guid>
+      <pubDate>Sun, 03 Mar 2024 00:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>该文章讨论了最高法院口头辩论期间围绕第 230 条的混乱 [...]</title>
-      <link>https://t.me/hn_summary/77245</link>
-      <description><![CDATA[如果人们歪曲第 230 条，我们就无法对其进行认真讨论
-本文讨论了最高法院在关于社交媒体内容审核法的口头辩论中围绕第 230 条的混乱。托马斯和戈萨奇法官似乎误解了第 230 条在优先于与其相抵触的州法律方面的作用。该文章批评 Steven Brill 关于第 230 条的错误信息，强调了他的不准确和误导性陈述。 Brill 错误地声称第 230 条规定社交媒体平台免除所有责任，而实际上它只为第三方内容提供有限的豁免。文章澄清了第 230 条、第一修正案和第四修正案之间的关系，强调了关于第 230 条讨论中准确信息的重要性。]]></description>
-      <guid>https://t.me/hn_summary/77245</guid>
-      <pubDate>Sat, 02 Mar 2024 20:57:57 GMT</pubDate>
+      <title>备受争议的 ShotSpotter 系统（以前称为 SoundThinking）已面临批评 [...]</title>
+      <link>https://t.me/hn_summary/77271</link>
+      <description><![CDATA[ShotSpotter：监听邻居
+备受争议的 ShotSpotter 系统（以前称为 SoundThinking）因其秘密操作和潜在的民权影响而受到批评。该系统使用声学传感器检测枪声，被指控压制研究和操纵证据。令人惊讶的是，阿尔伯克基等城市的 ShotSpotter 传感器密度很高，覆盖范围与种族和阶级相关。该系统识别枪声的准确性存在争议，只有一小部分报告得到证实。尽管存在这些担忧，阿尔伯克基警察局等执法机构仍在继续使用 ShotSpotter，引发了有关公众监督和隐私的问题。]]></description>
+      <guid>https://t.me/hn_summary/77271</guid>
+      <pubDate>Sun, 03 Mar 2024 00:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：米斯特拉尔回答他是 GPT，这正常吗？</title>
-      <link>https://t.me/hn_summary/77244</link>
-      <description><![CDATA[问 HN：Mistral 回答他是 GPT 正常吗？
-标题：问 HN：米斯特拉尔回答他是 GPT，这正常吗？
-我最近向 Mistral 询问了他的版本号，他回答说作为 GPT-3.5 模型，他没有传统的模型号。 Mistral 分享说，他是 GPT-3 的改进版本，在更大、更多样化的文本语料库上进行训练，以实现更好的自然语言理解和生成。该人工智能旨在为各种问题和请求提供连贯且相关的响应。令人惊讶的方面是米斯特拉尔的自我意识和传达其在语言处理方面的进步的能力。在此处查看对话屏幕截图：屏幕截图链接。]]></description>
-      <guid>https://t.me/hn_summary/77244</guid>
-      <pubDate>Sat, 02 Mar 2024 20:56:53 GMT</pubDate>
+      <title>[媒体]在数字外交领域，TikTok已成为沙平的重要战场[...]</title>
+      <link>https://t.me/hn_summary/77270</link>
+      <description><![CDATA[以色列正在输掉对 TikTok 的战争
+在数字外交领域，TikTok 已成为塑造以色列-巴勒斯坦冲突叙事的关键战场。希伯来大学的 Lilly Boxman-Shabtai 博士揭示了一个残酷的事实：以色列正在输掉 TikTok 的战争。虽然巴勒斯坦人擅长利用该平台的视觉叙事和草根宣传来分享引起全球共鸣的原始体验，但以色列人却很难与观众建立联系。巴勒斯坦人掌握 TikTok 微妙的语言，将叙事与国际团结运动交织在一起。随着地缘政治紧张局势在 20 秒的视频中展开，问题仍然存在：以色列能否在这个数字领域迎头赶上？巴勒斯坦人对互文性和情感深度的战略运用给他们带来了显着的优势，在 TikTok 的宣传战中将以色列甩在了后面。]]></description>
+      <guid>https://t.me/hn_summary/77270</guid>
+      <pubDate>Sat, 02 Mar 2024 23:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>摘要：作者讨论了使用代码重写后手动暂存 hunk 的挑战 [...]</title>
-      <link>https://t.me/hn_summary/77243</link>
-      <description><![CDATA[Git：程序化暂存
-摘要：作者讨论了使用代码重写工具后手动暂存 hunk 的挑战，并提出了一种使用 Expect 工具根据搜索词自动执行暂存过程的解决方案。通过创建名为 git-add-match 的脚本，用户可以轻松地暂存包含特定字符串的块，从而简化清理过程。此外，lobste.rs。这种在 Git 中进行编程暂存的创新方法可以显着提高代码重构工作流程的生产力和效率。]]></description>
-      <guid>https://t.me/hn_summary/77243</guid>
-      <pubDate>Sat, 02 Mar 2024 20:51:48 GMT</pubDate>
+      <title>在本文中，我通过计算测试了 Microsoft BASIC 浮点例程的速度 [...]</title>
+      <link>https://t.me/hn_summary/77269</link>
+      <description><![CDATA[Microsoft BASIC 浮点例程的速度
+在这篇文章中，我通过计算-2π 3 /3来测试微软BASIC浮点例程的速度！使用 Color BASIC 例程、IEEE-754 单精度和双精度。 Color BASIC 例程运行了 8,742 个周期，而 IEEE-754 单精度运行了 14,204 个周期，双精度运行了 31,613 个周期。令人惊讶的是，8 位 CPU 的 42 年前的代码运行完美，但 IEEE-754 例程比预期慢，可能是由于处理 ±∞ 和 NaN 等特殊情况。总体而言，Microsoft BASIC 的浮点计算速度令人印象深刻。]]></description>
+      <guid>https://t.me/hn_summary/77269</guid>
+      <pubDate>Sat, 02 Mar 2024 23:52:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现了他的[...]</title>
-      <link>https://t.me/hn_summary/77242</link>
-      <description><![CDATA[梦游作为谋杀辩护
-在一个让人想起阿加莎·克里斯蒂悬疑小说的令人毛骨悚然的故事中，肯尼思·帕克斯发现自己站在垂死的婆婆身边，却不记得自己是如何到达那里的。尽管有证据表明帕克斯参与了犯罪，但他以梦游为由，被判谋杀罪和谋杀未遂罪不成立。这起案件引发了人们对清醒和睡眠之间模糊界限的质疑，以及梦游是否可以用来掩盖谋杀。随着睡眠取证成为一个不断发展的领域，人们正在探索睡眠障碍与犯罪行为之间的联系，从而揭示人类思维的奥秘。]]></description>
-      <guid>https://t.me/hn_summary/77242</guid>
-      <pubDate>Sat, 02 Mar 2024 20:32:38 GMT</pubDate>
+      <title>[Media] 您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？</title>
+      <link>https://t.me/hn_summary/77268</link>
+      <description><![CDATA[本地 Neovim 插件开发
+您是否想要开发 (Neo)Vim 插件但不确定从哪里开始？别再犹豫了！本指南以 Telescope-repo.nvim 为例，提供本地 NeoVim 插件开发的提示和技巧。了解如何在实时 NeoVim 实例中快速加载更改、在不重新启动的情况下重新加载更改以及自动设置 NeoVim 重新启动。发现用于编写完整插件和更改 NeoVim 配置的资源。准备好自信、高效地投入 Lua 插件开发。不要让插件开发吓倒您 - 通过这些技巧，您将立即开始创建令人惊叹的插件！]]></description>
+      <guid>https://t.me/hn_summary/77268</guid>
+      <pubDate>Sat, 02 Mar 2024 23:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着地方政府再次反击，美国对绿色能源的反抗已经开始 [...]</title>
-      <link>https://t.me/hn_summary/77241</link>
-      <description><![CDATA[美国人对绿色能源的反抗已经开始
-随着地方政府抵制拟议的工业用地，美国对绿色能源的反抗已经开始。保护利益相关者权利（包括动物、植物、水和空气）所需的漫长而复杂的许可程序被视为必要的障碍。气候危言耸听者和全球主义精英推动威权政策以实现气候目标，但在民主国家遇到了阻力。在美国能源行业工作了 40 年的戴维·布莱克蒙 (David Blackmon) 认为，强制的、高额补贴的能源转型侵犯了利益相关者的权利，并且与自由社会不相容。核心难题在于气候目标与个人权利之间的权衡。]]></description>
-      <guid>https://t.me/hn_summary/77241</guid>
-      <pubDate>Sat, 02 Mar 2024 20:20:31 GMT</pubDate>
+      <title>[媒体] 三分法是一种用于视觉图像的构图技术，例如设计、电影 [...]</title>
+      <link>https://t.me/hn_summary/77267</link>
+      <description><![CDATA[三分法则
+三分法则是一种用于设计、电影、绘画和照片等视觉图像的构图技术。它涉及用两条水平线和两条垂直线将图像分成九个相等的部分，沿着这些线或其交叉点放置重要元素。这种技术在构图中创造了张力和兴趣。该规则起源于 1797 年，首先由约翰·托马斯·史密斯 (John Thomas Smith) 提出，并由约书亚·雷诺兹 (Joshua Reynolds) 爵士进行了扩展。它因平衡图像而受到电影摄影师的青睐。拍摄人物时，通常的做法是身体与垂直线对齐，眼睛与水平线对齐。]]></description>
+      <guid>https://t.me/hn_summary/77267</guid>
+      <pubDate>Sat, 02 Mar 2024 23:27:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]国际能源署（IEA）报告称，全球排放量上升[...]</title>
-      <link>https://t.me/hn_summary/77240</link>
-      <description><![CDATA[IEA：2023 年全球新车销量中有 20% 是电动汽车，这抑制了石油需求
-国际能源署 (IEA) 报告称，如果没有电动汽车、太阳能、风能和核能的增长，过去五年全球排放量的增幅将增加三倍。尽管2023年与能源相关的排放量有所增加，但清洁能源技术的持续扩展有助于遏制这一增长。在可再生能源部署、煤改气和能源效率提高的推动下，发达经济体的排放量出现创纪录的下降。清洁能源的部署限制了对化石燃料的需求，预计到 2023 年，电动汽车将占全球新车销量的 20%，这有助于防止石油需求超过疫情前的水平。]]></description>
-      <guid>https://t.me/hn_summary/77240</guid>
-      <pubDate>Sat, 02 Mar 2024 20:19:27 GMT</pubDate>
+      <title>投票主题：您对平台互操作性有多关心？</title>
+      <link>https://t.me/hn_summary/77266</link>
+      <description><![CDATA[投票：您对平台互操作性有多关心？
+标题：投票：您对平台互操作性有多关心？
+
+您是否厌倦了封闭的生态系统和登录墙的限制？随着苹果被迫开放以及替代前端面临挑战，关于平台互操作性的争论正在升温。 HN 社区有多重视选择操作系统、通讯工具和软件的自由？分享您对使用社交媒体替代客户端和避免浏览器限制的想法。加入讨论互操作性在当今技术领域的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77266</guid>
+      <pubDate>Sat, 02 Mar 2024 23:23:52 GMT</pubDate>
     </item>
     <item>
-      <title>在 arxiv.org 上发表的这项观察性研究中，我们探讨了大麻有毒物的影响 [...]</title>
-      <link>https://t.me/hn_summary/77239</link>
-      <description><![CDATA[高期望：编程和大麻中毒的观察研究 
-在 arxiv.org 上发表的这项观察性研究中，我们探讨了其影响大麻中毒对编程性能的影响。与普遍看法相反，我们的研究结果表明，受大麻影响的个体在编码时实际上可能表现出更高水平的创造力和解决问题的能力。这项有争议的研究挑战了工作场所吸毒的传统观念，并开启了关于大麻对认知任务的潜在益处的对话。我们的研究揭示了物质使用和生产力之间的复杂关系，为编程和大麻中毒的交叉点提供了新的视角。]]></description>
-      <guid>https://t.me/hn_summary/77239</guid>
-      <pubDate>Sat, 02 Mar 2024 20:18:23 GMT</pubDate>
+      <title>news.ycombinator.com 上这篇文章的作者正在寻求有关最佳存储方式的建议，在 [...]</title>
+      <link>https://t.me/hn_summary/77265</link>
+      <description><![CDATA[询问 HN：存储、索引和分类录音的最佳方式&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者是寻求有关存储、索引和分类孩子录音的最佳方式的建议。目前，记录以基本目录格式组织，但作者正在寻找一种更高效且可搜索的解决方案，类似于 Lightroom/Darktable 组织并向照片添加元数据的方式。作者甚至考虑使用机器学习来转录和标记每个文件。这篇文章提出了一个问题：是否有现有的工具或软件可以简化此过程，从而更轻松地管理和访问录音。]]></description>
+      <guid>https://t.me/hn_summary/77265</guid>
+      <pubDate>Sat, 02 Mar 2024 23:18:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一项开创性的研究中，印度科学家发现亚洲象表现出 [...]</title>
-      <link>https://t.me/hn_summary/77238</link>
-      <description><![CDATA[亚洲象哀悼并埋葬死去的小象：研究 
-在一项开创性的研究中，印度科学家发现，亚洲象通过哀悼和埋葬死去的小象，表现出类似人类葬礼的行为。这项发表在《受威胁分类群杂志》上的研究详细介绍了印度孟加拉地区的五起小牛埋葬实例，那里的牛群抬着死去的小牛，并将它们的腿朝上埋葬。研究人员观察到大象在墓地周围大声咆哮和喇叭，展示了它们与死去的小象的情感联系。这种独特的行为揭示了这些濒危动物的社会性和合作性。]]></description>
-      <guid>https://t.me/hn_summary/77238</guid>
-      <pubDate>Sat, 02 Mar 2024 20:16:20 GMT</pubDate>
+      <title>[媒体] 1983 年，Byte Magazine 采访了 Apple Lisa 开发团队的主要成员 [...]</title>
+      <link>https://t.me/hn_summary/77264</link>
+      <description><![CDATA[字节采访 Apple Lisa 开发团队 (1983) 
+1983 年，Byte Magazine 采访了 Apple Lisa 开发团队的主要成员，包括 Wayne Rosing、Bruce Daniels 和 Larry Tesler。他们讨论了 Lisa 项目的挑战和成功，该项目为 Macintosh 奠定了基础。该团队强调了经验丰富的员工的重要性以及 Lisa 硬件和软件的革命性。他们还强调了该项目的协作和迭代性质，以及不断的沟通和调整。尽管面临调度困难和技术风险，该团队仍然致力于在不影响完整性的情况下创造高质量的产品。这次采访提供了对突破性计算机系统的开发过程的宝贵见解。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77264</guid>
+      <pubDate>Sat, 02 Mar 2024 23:16:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
