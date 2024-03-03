@@ -4,20 +4,48 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Mar 2024 11:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 14:57:04 GMT</lastBuildDate>
     <item>
-      <title>巴基斯坦新领导人谢巴兹·谢里夫就任</title>
-      <link>https://www.nytimes.com/2024/03/03/world/asia/pakistan-prime-minister-shehbaz-sharif.html</link>
-      <description><![CDATA[在经历了一个月的政治动荡之后，议会选举谢赫巴兹·谢里夫连任。新政府面临经济困难和合法性问题。]]></description>
-      <guid>https://www.nytimes.com/2024/03/03/world/asia/pakistan-prime-minister-shehbaz-sharif.html</guid>
-      <pubDate>Sun, 03 Mar 2024 11:52:58 GMT</pubDate>
+      <title>“修复该死的道路”：紫色州和红色州的民主党人如何获胜</title>
+      <link>https://www.nytimes.com/2024/03/03/opinion/democrats-governor-shapiro-beshear.html</link>
+      <description><![CDATA[一群令人着迷的、有进取心的民主党州长在无法保证的情况下取得了成功。他们就是这样做的。]]></description>
+      <guid>https://www.nytimes.com/2024/03/03/opinion/democrats-governor-shapiro-beshear.html</guid>
+      <pubDate>Sun, 03 Mar 2024 14:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>缺乏治理加沙的计划是致命的车队混乱的背景</title>
+      <link>https://www.nytimes.com/2024/03/03/world/middleeast/israel-aid-gaza-convoy.html</link>
+      <description><![CDATA[以色列没有明确的治理加沙计划。这是北部地区的一个特殊问题，那里的战斗已经平息，周四，援助车队周围发生了致命的踩踏事件。]]></description>
+      <guid>https://www.nytimes.com/2024/03/03/world/middleeast/israel-aid-gaza-convoy.html</guid>
+      <pubDate>Sun, 03 Mar 2024 13:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯代表团抵达开罗进行停火谈判。</title>
+      <link>https://www.nytimes.com/live/2024/03/03/world/israel-hamas-war-gaza-news/a-hamas-delegation-arrives-in-cairo-for-cease-fire-talks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nytimes.com/live/2024/03/03/world/israel-hamas-war-gaza-news/a-hamas-delegation-arrives-in-cairo-for-cease-fire-talks</guid>
+      <pubDate>Sun, 03 Mar 2024 13:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>泽连斯基指责防空延误，俄罗斯空袭造成的死亡人数上升至 10 人</title>
+      <link>https://www.nytimes.com/2024/03/03/world/europe/ukraine-us-aid-odesa-attack.html</link>
+      <description><![CDATA[泽伦斯基总统没有提到美国，但他的话似乎反映出对美国援助计划停滞不前的失望。]]></description>
+      <guid>https://www.nytimes.com/2024/03/03/world/europe/ukraine-us-aid-odesa-attack.html</guid>
+      <pubDate>Sun, 03 Mar 2024 12:56:18 GMT</pubDate>
     </item>
     <item>
       <title>克里姆林宫寻求压制纳瓦尔尼的影响，无论是生还是死</title>
       <link>https://www.nytimes.com/2024/03/03/world/europe/navalny-russia-kremlin-putin.html</link>
       <description><![CDATA[俄罗斯当局恶毒地诽谤反对派领导人阿列克谢·纳瓦尔尼(Aleksei A. Navalny)，这表明他的影响力比莫斯科承认的还要大。自他去世以来，情况几乎没有改变。]]></description>
       <guid>https://www.nytimes.com/2024/03/03/world/europe/navalny-russia-kremlin-putin.html</guid>
-      <pubDate>Sun, 03 Mar 2024 10:03:43 GMT</pubDate>
+      <pubDate>Sun, 03 Mar 2024 12:55:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦新领导人谢巴兹·谢里夫就任</title>
+      <link>https://www.nytimes.com/2024/03/03/world/asia/pakistan-prime-minister-shehbaz-sharif.html</link>
+      <description><![CDATA[在经历了一个月的政治动荡之后，议会选举谢赫巴兹·谢里夫连任。新政府面临经济困难和合法性问题。]]></description>
+      <guid>https://www.nytimes.com/2024/03/03/world/asia/pakistan-prime-minister-shehbaz-sharif.html</guid>
+      <pubDate>Sun, 03 Mar 2024 11:52:58 GMT</pubDate>
     </item>
     <item>
       <title>拜登 2020 年选民中的大多数现在表示他太老了，无法发挥作用</title>
@@ -31,7 +59,7 @@
       <link>https://www.nytimes.com/2024/03/03/magazine/fetal-personhood-alabama-ivf.html</link>
       <description><![CDATA[阿拉巴马州关于体外受精的决定将不妥协的原则置于与政治现实的冲突之中。]]></description>
       <guid>https://www.nytimes.com/2024/03/03/magazine/fetal-personhood-alabama-ivf.html</guid>
-      <pubDate>Sun, 03 Mar 2024 10:02:24 GMT</pubDate>
+      <pubDate>Sun, 03 Mar 2024 10:02:25 GMT</pubDate>
     </item>
     <item>
       <title>2024 年谁将赢得众议院控制权？加州可能是关键。</title>
@@ -42,17 +70,17 @@
     </item>
     <item>
       <title>德克萨斯州初选，共和党人争夺党内控制权</title>
-      <link>https://www.nytimes.com/2024/03/03/us/texas-republican-party-primary-election.html</link>
+      <link>https://www.nytimes.com/2024/03/03/us/texas-republican-primary.html</link>
       <description><![CDATA[司法部长肯·帕克斯顿要报仇。州长格雷格·阿博特想要私立学校的优惠券。两人都希望在周二的初选中推翻现任共和党人，并使该州进一步右倾。]]></description>
-      <guid>https://www.nytimes.com/2024/03/03/us/texas-republican-party-primary-election.html</guid>
-      <pubDate>Sun, 03 Mar 2024 10:02:02 GMT</pubDate>
+      <guid>https://www.nytimes.com/2024/03/03/us/texas-republican-primary.html</guid>
+      <pubDate>Sun, 03 Mar 2024 10:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>缺乏治理加沙的计划是致命的车队混乱的背景</title>
-      <link>https://www.nytimes.com/2024/03/03/world/middleeast/israel-aid-gaza-convoy.html</link>
-      <description><![CDATA[以色列没有明确的治理加沙计划。这是北部地区的一个特殊问题，那里的战斗已经平息，周四，援助车队周围发生了致命的踩踏事件。]]></description>
-      <guid>https://www.nytimes.com/2024/03/03/world/middleeast/israel-aid-gaza-convoy.html</guid>
-      <pubDate>Sun, 03 Mar 2024 06:35:32 GMT</pubDate>
+      <title>特朗普的盟友加大了针对选民的竞选力度</title>
+      <link>https://www.nytimes.com/2024/03/03/us/politics/trumps-allies-ramp-up-campaign-targeting-voter-rolls.html</link>
+      <description><![CDATA[自称为调查员的活动人士正在使用新的数据工具和有争议的法律理论来敦促官员将选民从名单上剔除。]]></description>
+      <guid>https://www.nytimes.com/2024/03/03/us/politics/trumps-allies-ramp-up-campaign-targeting-voter-rolls.html</guid>
+      <pubDate>Sun, 03 Mar 2024 10:01:50 GMT</pubDate>
     </item>
     <item>
       <title>33 岁的千禧一代巅峰人群如何塑造美国经济</title>
@@ -76,39 +104,11 @@
       <pubDate>Sat, 02 Mar 2024 16:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>我的乔·拜登幻想</title>
-      <link>https://www.nytimes.com/2024/03/02/opinion/joe-biden-state-of-the-union.html</link>
-      <description><![CDATA[只有在华盛顿，你才会梦想国情咨文。]]></description>
-      <guid>https://www.nytimes.com/2024/03/02/opinion/joe-biden-state-of-the-union.html</guid>
-      <pubDate>Sat, 02 Mar 2024 12:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚当·希夫突然成为加州民主党的领跑者</title>
-      <link>https://www.nytimes.com/2024/03/02/opinion/schiff-california-progressive-election.html</link>
-      <description><![CDATA[亚当·希夫对特朗普的抵制使他成为加州的民主党英雄，这让更左翼的候选人感到沮丧。]]></description>
-      <guid>https://www.nytimes.com/2024/03/02/opinion/schiff-california-progressive-election.html</guid>
-      <pubDate>Sat, 02 Mar 2024 12:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列、加沙和双重标准，包括我们自己的标准</title>
-      <link>https://www.nytimes.com/2024/03/02/opinion/israel-gaza-double-standard.html</link>
-      <description><![CDATA[当然，西方对以色列的审查比对其他国家的审查要多，但这不应转移对加沙灾难的关注。]]></description>
-      <guid>https://www.nytimes.com/2024/03/02/opinion/israel-gaza-double-standard.html</guid>
-      <pubDate>Sat, 02 Mar 2024 12:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>亵渎在巴基斯坦是犯罪行为。暴徒正在宣判。</title>
-      <link>https://www.nytimes.com/2024/03/02/world/asia/pakistan-blasphemy-violence.html</link>
-      <description><![CDATA[在该国，如果罪名成立，可能会被判处死刑。但仅仅被指控不尊重伊斯兰教也足以致人死亡。]]></description>
-      <guid>https://www.nytimes.com/2024/03/02/world/asia/pakistan-blasphemy-violence.html</guid>
-      <pubDate>Sat, 02 Mar 2024 09:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥斯卡给了好莱坞一个庆祝的机会。在那之后？很严峻。</title>
-      <link>https://www.nytimes.com/2024/03/01/opinion/oscars-hollywood-extinction-event.html</link>
-      <description><![CDATA[是时候了解电影业的新常态是什么样子了。]]></description>
-      <guid>https://www.nytimes.com/2024/03/01/opinion/oscars-hollywood-extinction-event.html</guid>
-      <pubDate>Sat, 02 Mar 2024 00:24:17 GMT</pubDate>
+      <title>波西米亚人：爱尔兰球队以激进主义的一面推销足球</title>
+      <link>https://www.nytimes.com/2024/03/02/world/europe/ireland-bohemians-soccer-dublin.html</link>
+      <description><![CDATA[都柏林波希米亚人俱乐部将对社会事业的支持作为其身份的重要组成部分。批评者称，潮人已经占据了主导地位，但这种做法吸引了世界各地的粉丝。]]></description>
+      <guid>https://www.nytimes.com/2024/03/02/world/europe/ireland-bohemians-soccer-dublin.html</guid>
+      <pubDate>Sat, 02 Mar 2024 05:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
