@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 06 Mar 2024 00:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 06:12:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 一名 62 岁的德国男子在 29 个月内接受了 217 次 COVID-19 疫苗接种，以“私人接种疫苗”</title>
-      <link>https://t.me/hn_summary/77820</link>
-      <description><![CDATA[德国男子在 29 个月内注射了 217 次新冠疫苗&lt; br /&gt;
-一名 62 岁的德国男子因“私人原因”在 29 个月内接种了 217 剂 COVID-19 疫苗，引发了人们对其免疫系统影响的担忧。令人惊讶的是，他没有表现出任何不良反应，并且与服用较少剂量的人有相似的免疫反应。研究人员发现，他的 SARS-CoV-2 抗体较高，是因为数量而非效力。尽管接种了极多的疫苗，但他对不相关病毒的免疫反应仍然正常。该男子从未感染过 SARS-CoV-2，但研究人员警告不要将过度接种疫苗作为一种策略。该案例研究对过度接种疫苗导致免疫反应减弱的担忧提出了质疑。]]></description>
-      <guid>https://t.me/hn_summary/77820</guid>
-      <pubDate>Wed, 06 Mar 2024 00:21:47 GMT</pubDate>
+      <title>最近的一份报告显示，恩格拉地区隐藏着大约 200 万棵古树 [...]</title>
+      <link>https://t.me/hn_summary/77856</link>
+      <description><![CDATA[报告称，英格兰隐藏着两百万棵古树 
+据林地信托基金的 Adam Cormack 称，最近的一份报告显示，英格兰大约隐藏着 200 万棵古树。这些古树被描述为“自然世界的大教堂”，展示了保存和保护这些历史宝藏的重要性。发现如此多尚未发现的古树既令人惊讶又引人注目，凸显了需要继续努力保护这些宝贵的英格兰自然遗产。]]></description>
+      <guid>https://t.me/hn_summary/77856</guid>
+      <pubDate>Wed, 06 Mar 2024 06:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了微软如何在萨蒂亚·纳德拉 (Satya Nadella) 的领导下转型为一家更 [...]</title>
-      <link>https://t.me/hn_summary/77819</link>
-      <description><![CDATA[苹果正处于鲍尔默时代
-作者讨论了微软如何在萨蒂亚·纳德拉 (Satya Nadella) 的领导下转变为一家更加开放、对开发者友好的公司，并将其与苹果目前的状态进行了对比。它们强调了 Microsoft 对开源的拥抱、将 Linux 集成到 Windows 中，以及在 AI 和 GitHub 管理方面的成功。作者批评苹果公司的傲慢态度，并引用了一份颇具争议的新闻稿，该新闻稿将 Spotify 在反垄断问题上的成功归功于自己。他们认为，苹果需要进行类似于微软从鲍尔默过渡到纳德拉的领导层变动，以释放潜力并改善与开发者的关系。作者还承认鲍尔默对开发者的关注，并建议苹果可以从文化重启中受益。]]></description>
-      <guid>https://t.me/hn_summary/77819</guid>
-      <pubDate>Wed, 06 Mar 2024 00:06:39 GMT</pubDate>
+      <title>[媒体]LinkedIn 的高级工程师 Chris Krycho 分享了他离开公司的故事 [...]</title>
+      <link>https://t.me/hn_summary/77855</link>
+      <description><![CDATA[离开 LinkedIn：选择卓越工程而不是权宜之计
+LinkedIn 的高级工程师 Chris Krycho 分享了他因核心价值观与工作要求发生冲突而离开公司的故事。尽管克里斯热爱 LinkedIn 并从中吸取了宝贵的经验教训，但他最终还是因为沮丧而离开了。他参与了一些重要项目，例如在桌面应用程序中实现 JavaScript 现代化，并领导基础设施团队改善开发人员体验。平衡可持续发展实践与业务速度需求的挑战导致他离开。这个故事强调了在快节奏的环境中领导大型项目和改进庞大代码库的复杂性。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77855</guid>
+      <pubDate>Wed, 06 Mar 2024 06:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 该项目是一个基于 Mistral7B 构建的医疗问答系统，利用 RAG（检索 A [...]</title>
-      <link>https://t.me/hn_summary/77818</link>
-      <description><![CDATA[显示 HN：刚刚开源了我在 Mistral7B 上构建的医疗问答
-该项目是一个基于 Mistral7B 构建的医疗问答系统，利用 RAG（检索增强生成）来提高基于向量检索的医疗问题答案检索的准确性。该模型使用 HuggingFace Zephyr-7B，该模型使用直接偏好优化在公开可用的数据集上进行了训练。该项目的独特之处在于将文档分割成更小的块以进行高效处理，并使用 MedRag（来自 Huggingface 的嵌入数据集，具有 127k 嵌入）。该项目旨在利用先进的检索和生成技术为医学查询提供准确、高效的答案。]]></description>
-      <guid>https://t.me/hn_summary/77818</guid>
-      <pubDate>Wed, 06 Mar 2024 00:04:36 GMT</pubDate>
+      <title>[媒体]Amazon Web Services (AWS) 为各种云工作负载提供 200 多种服务，包括 [...]</title>
+      <link>https://t.me/hn_summary/77854</link>
+      <description><![CDATA[从 AWS 迁移时免费将数据传输到互联网
+Amazon Web Services (AWS) 为各种云工作负载提供 200 多种服务，包括计算、存储、数据库、网络、分析、机器学习和人工智能。从现在开始，AWS 将为迁移到 AWS 之外的客户免除数据传输到互联网的费用。超过 90% 的客户每月已获得 100GB 的免费数据传输。如果迁移期间需要更多数据传输，客户可以联系 AWS Support 以获取额外的免费费率。此举符合《欧洲数据法》并强调客户的选择。 AWS 还支持公平软件许可原则。请联系 AWS 客户支持了解更多信息或请求转换时传出数据的积分。]]></description>
+      <guid>https://t.me/hn_summary/77854</guid>
+      <pubDate>Wed, 06 Mar 2024 05:59:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Broadcastify Calls，这是一个尖端的托管无线电呼叫摄取平台，其中 [...]</title>
-      <link>https://t.me/hn_summary/77817</link>
-      <description><![CDATA[显示 HN：Broadcastify Calls，功能齐全的托管无线电呼叫摄取平台
-隆重推出 Broadcastify Calls，这是一个先进的托管无线电呼叫采集平台，每个捕获的无线电系统上的每个呼叫都可以实时查看并存档。凭借超过 650 个节点和每分钟接收超过 3000 个呼叫，用户可以构建自定义播放列表来以最大的灵活性监控特定呼叫。该平台已有 448 名听众，提供了独特且全面的解决方案，可帮助您实时了解情况并保持联系。请访问 www.broadcastify.com 体验未来无线电呼叫监控。]]></description>
-      <guid>https://t.me/hn_summary/77817</guid>
-      <pubDate>Wed, 06 Mar 2024 00:03:32 GMT</pubDate>
+      <title>[媒体] 在 www.warpstream.com 上的这篇文章中，作者讨论了 comp [...]</title>
+      <link>https://t.me/hn_summary/77853</link>
+      <description><![CDATA[Kafka 作为 KV 存储：仅使用 128 MiB RAM 即可删除重复键
+在 www.warpstream.com 上的这篇文章中，作者讨论 Apache Kafka 中压缩主题的实现，重点关注内存有限的键的重复数据删除。 Kafka 中的压缩主题会删除不是特定键最新版本的旧记录，使它们成为表示资源状态的理想选择。本文深入探讨了实现压缩主题的挑战，包括高级内存调整的需求和重复数据删除保证的局限性。作者解释了 Apache Kafka 如何通过使用哈希而不是键的两遍算法来优化内存使用。 WarpStream 也采用了类似的方法，但由于在对象存储上操作而面临额外的挑战。 （根据故事文本的 71% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77853</guid>
+      <pubDate>Wed, 06 Mar 2024 05:43:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Appt Reminder，这是一款简单高效的预约提醒应用程序，可让您 [...]</title>
-      <link>https://t.me/hn_summary/77816</link>
-      <description><![CDATA[显示 HN：任何简单的预约提醒应用
-隆重推出 Appt Reminder，这是一款简单高效的预约提醒应用程序，可确保您的客户不会再错过约会。通过自动短信提醒，您可以轻松地让您的日程安排按计划进行并减少缺席情况。告别错过的约会，迎接更有组织、更高效的业务。立即尝试预约提醒，以前所未有的方式简化您的预约流程。]]></description>
-      <guid>https://t.me/hn_summary/77816</guid>
-      <pubDate>Wed, 06 Mar 2024 00:02:29 GMT</pubDate>
+      <title>Sugar Labs 是一个非营利组织，为 [...]</title>
+      <link>https://t.me/hn_summary/77852</link>
+      <description><![CDATA[Sugar：一个以活动为中心的开源软件学习平台孩子们
+Sugar Labs 是一家为儿童提供开源软件学习平台的非盈利组织。在志愿者的带领下，我们的目标是让学习者能够通过我们的工具进行探索、创造和反思。我们的使命是支持糖界并在全球范围内建立区域“糖实验室”。我们最初是“每个孩子一台笔记本电脑”项目的一部分，鼓励用户自主学习。与我们一起革新教育，帮助孩子们以有趣和互动的方式“学会如何学习”。]]></description>
+      <guid>https://t.me/hn_summary/77852</guid>
+      <pubDate>Wed, 06 Mar 2024 05:14:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]隆重推出 Riddler – 一款自主文字游戏，将为您带来挑战和娱乐 [...]</title>
-      <link>https://t.me/hn_summary/77815</link>
-      <description><![CDATA[展示 HN：谜语人 – 自主文字游戏
-隆重推出 Riddler – 一款自主文字游戏，它将给您带来前所未有的挑战和娱乐。只需旋转您的设备即可开始游戏，让自己沉浸在文字谜题和脑筋急转弯的世界中。通过 Riddler，您可以随时随地测试您的词汇量和解决问题的能力。准备好迎接独特而令人惊奇的游戏体验，让您流连忘返。立即访问 www.riddler.game 开始玩。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/77815</guid>
-      <pubDate>Wed, 06 Mar 2024 00:01:26 GMT</pubDate>
+      <title>在本文中，作者对 Sora 进行了详细回顾，Sora 是一种突破性的文本转视频工具 [...]</title>
+      <link>https://t.me/hn_summary/77851</link>
+      <description><![CDATA[Sora：回顾愿景的背景、技术、限制和机会型号
+在本文中，作者详细回顾了 Sora，这是 OpenAI 开发的一种突破性的文本到视频生成人工智能模型。 Sora 能够根据文本指令创建逼真或富有想象力的视频，在模拟物理世界方面显示出前景。本文探讨了像 Sora 这样的大型视觉模型的背景、技术、局限性和机遇，强调了它在电影制作、教育和营销等各个行业中的潜在应用。作者还讨论了安全和公正的视频生成所面临的挑战，并推测了该领域的未来进展，为人机交互和增强视频制作创造力提出了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/77851</guid>
+      <pubDate>Wed, 06 Mar 2024 05:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 推出 Seoptimally，这是一款自动创建内部链接的革命性工具 [...]</title>
-      <link>https://t.me/hn_summary/77814</link>
-      <description><![CDATA[显示 HN：Seoptimally – 适用于任何 Web 平台的自动内部链接
-隆重推出 Seoptimally，这是一款革命性工具，可以自动为任何网络平台创建内部链接。通过互连您的页面，Seoptimally 有助于分配链接资产并提高网站上多个页面的 SEO 潜力。告别手动内部链接，让 Seoptimally 为您完成工作。通过这种创新的解决方案增加您网站的权威并提高您的搜索引擎排名。立即尝试 Seoptimally，观察您网站的 SEO 性能飙升。]]></description>
-      <guid>https://t.me/hn_summary/77814</guid>
-      <pubDate>Wed, 06 Mar 2024 00:00:23 GMT</pubDate>
+      <title>replica-io.dev 上的帖子探讨了分布式协议的实现，共享 insig [...]</title>
+      <link>https://t.me/hn_summary/77850</link>
+      <description><![CDATA[关于分布式协议的实现
+replica-io.dev 上的帖子探讨了分布式协议，分享检查 14 个不同代码库的见解。作者强调了理解问题并从先前尝试创新设计分布式协议的重要性。这篇文章深入探讨了实现分布式协议的复杂性，强调了基本复杂性和偶然复杂性之间的区别。它讨论了模块化、粒度、分解和可组合性在构建协议实现以有效管理复杂性方面的重要性。这篇文章全面概述了实施分布式协议所涉及的挑战和注意事项，为该领域的开发人员提供了宝贵的见解。 （根据故事文本的 15% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/77850</guid>
+      <pubDate>Wed, 06 Mar 2024 05:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>Oona 创始人兼首席执行官推出了一款新工具，可帮助视频创作者制作更好的缩略图 [...]</title>
-      <link>https://t.me/hn_summary/77813</link>
-      <description><![CDATA[显示 HN：Oona – 制作更好的缩略图
-Oona 创始人兼首席执行官推出了一款新工具，帮助视频创作者制作更好的缩略图和标题。该工具通过独特的方法提供 A/B 测试，提供获胜者预测和更快的结果。通过使用现代统计数据，Oona 帮助创作者快速做出正确的选择，从而节省时间和金钱。该工具旨在帮助创作者通过做出数据驱动的决策来扩大他们的观点。 Oona 还在开发更多人工智能工具来增强缩略图和标题的创建。对于那些有兴趣提高视频性能的人来说，可以免费试用。加入试点计划并在网站上分享您的反馈。]]></description>
-      <guid>https://t.me/hn_summary/77813</guid>
-      <pubDate>Tue, 05 Mar 2024 23:59:19 GMT</pubDate>
+      <title>2015 年，由于 Donald Knuth 创建了 TeX，作者将其称为 Yak Shaves 的守护神。</title>
+      <link>https://t.me/hn_summary/77849</link>
+      <description><![CDATA[Donald Knuth – 牦牛剃须的守护神&lt; br /&gt;
+2015 年，由于 Donald Knuth 创建了 TeX，作者将其称为 Yak Shaves 的守护神。 Knuth 开发用于排版“计算机编程的艺术”的 TeX 的旅程展示了他对应对不可能情况的奉献精神。从发明自己的编程语言 WEB，到使用 METAFONT 设计字体，Knuth 的工作证明了他对完美的承诺。社区对 LaTeX 和 ConTeXt 的贡献进一步凸显了 Knuth 的创作的持久影响。尽管 TeX 很复杂，但了解它的历史可以揭示宝贵的经验教训。作者与来自 Lambda 岛的 Arne 的讨论激发了作者对高德纳传奇的牦牛剃毛的探索。]]></description>
+      <guid>https://t.me/hn_summary/77849</guid>
+      <pubDate>Wed, 06 Mar 2024 05:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 VueXYZ，这是一款针对 Vue 3 的突破性创意编码工具。</title>
-      <link>https://t.me/hn_summary/77812</link>
-      <description><![CDATA[显示 HN：VueXYZ – Vue 3 的创意编码可组合项
-隆重推出 VueXYZ，它是 Vue 3 的突破性创意编码工具。VueXYZ 由 Simon Le Marchant 和贡献者团队开发，提供了一系列可组合项，使用户可以轻松创建动态和交互式 Web 应用程序。 VueXYZ 根据 MIT 许可证发布，可免费使用和修改用于个人和商业项目。无论您是经验丰富的开发人员还是新手，VueXYZ 都提供了一种独特且创新的 Vue 3 编码方法。立即探索 VueXYZ 的无限可能性并释放您的创造力。]]></description>
-      <guid>https://t.me/hn_summary/77812</guid>
-      <pubDate>Tue, 05 Mar 2024 23:58:16 GMT</pubDate>
+      <title>70 年前，一次氢弹试验出了问题。</title>
+      <link>https://t.me/hn_summary/77848</link>
+      <description><![CDATA[70年前，一次氢弹试验出了差错。我们绝不能忘记后果
+70年前，美国在马绍尔群岛进行了布拉沃城堡氢弹试验，给朗格拉普环礁带来了毁灭性的放射性沉降物。测试的后果使居民遭受放射性物质的侵害，对健康产生长期影响。尽管努力重新安置和援助受影响的马绍尔人，但污染今天仍然持续存在，超过了切尔诺贝利和福岛的水平。目前正在考虑立法向马绍尔群岛提供援助，但一些参议员未能批准必要的资金。这一悲惨事件的周年纪念提醒人们核武器试验的持续影响以及向受影响者提供支持的重要性。]]></description>
+      <guid>https://t.me/hn_summary/77848</guid>
+      <pubDate>Wed, 06 Mar 2024 04:43:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]嘿，我是朱利安，一名私人教练，我很高兴与您分享我的最新[...]</title>
-      <link>https://t.me/hn_summary/77811</link>
-      <description><![CDATA[显示 HN：我制作了一个结合了 WhatsApp 上所有健身应用程序的工具
-大家好，我是 Julien，一名私人教练，我很高兴与您分享我的最新创作 - Shapemate！这个工具改变了游戏规则，因为它将您最喜爱的所有健身应用程序整合到 WhatsApp 上的一个便捷平台中。您可以在一个地方跟踪您的卡路里、进行锻炼，甚至创建食谱。这个工具的简单和高效确实令人兴奋。请访问 shapemateai.com 进行查看，立即彻底改变您的健身习惯！ ]]></description>
-      <guid>https://t.me/hn_summary/77811</guid>
-      <pubDate>Tue, 05 Mar 2024 23:57:12 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/77847</link>
+      <description><![CDATA[美国阻止AMD在中国销售芯片
+由于美国政府对先进技术出口的限制，AMD在向中国出售人工智能芯片方面遭遇挫折。该芯片旨在满足美国出口规则，但被官员认为功能过于强大，需要获得销售许可证。此举是美国因担心军事影响而限制中国获得尖端半导体的努力的一部分。虽然 Nvidia 很快就适应了这些限制，但 AMD 现在正以其新的 MI300 系列积极进军 AI 芯片市场。腾讯、百度等中国科技巨头纷纷囤积芯片以减轻禁令的影响，而华为则在开发自己的人工智能半导体。]]></description>
+      <guid>https://t.me/hn_summary/77847</guid>
+      <pubDate>Wed, 06 Mar 2024 04:10:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
