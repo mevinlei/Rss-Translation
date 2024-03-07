@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 06 Mar 2024 21:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:28:34 GMT</lastBuildDate>
+    <item>
+      <title>格式化压缩 - .rar 与 .zip - 压缩文件夹有区别吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1b8dj5u/formatting_compressed_rar_vs_zip_is_there_a/</link>
+      <description><![CDATA[至少十年前，我开始专门使用 WinRAR，因为我可以指向一个文件夹并通过程序压缩该文件夹及其内容。我们的技术人员告诉我，.rar 格式具有如此强大的功能，而 .zip 则无法做到这一点。您必须指向文件，而不是文件夹。 所以多年后我一直在研究这些差异的讨论，但我没有看到任何人为 WinRAR 做这样的论证。我还付费购买了一两个 .zip 程序，但与旧的可靠的 WinRAR 不同，它们在文件夹上仍然结结巴巴。所以问题是我是否误以为 WinRAR 具有这种特殊优势？我没有在 Reddit 或其他地方看到对此进行讨论。   由   提交/u/Jaded-Bookkeeper-807   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b8dj5u/formatting_compressed_rar_vs_zip_is_there_a/</guid>
+      <pubDate>Wed, 06 Mar 2024 22:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对合并视频和音频文件而又不损害其中任何一个质量的免费程序有何建议？</title>
+      <link>https://www.reddit.com/r/software/comments/1b8c7oj/what_would_be_your_recommendation_for_a_free/</link>
+      <description><![CDATA[我想保存一些视频，但不幸的是只能将它们分成 2 个单独的块 - 音频在一个 mp4 中，视频在其他。我很好奇最好的免费软件是什么，它可以相当轻松且不损失质量地将它们组合成一个 mp4 文件（本质上是将音频文件插入视频文件的音轨中）。  我以前真的从来没有搞过这种事情，所以我不知道最好的选择是什么。我正在读一篇文章，说 VLC 可以做到这一点，但可能会导致质量较低。  我知道你可以配置 VLC 来同时播放多个文件，但如果文件不太复杂的话，我更愿意合并文件本身，而不是像下面这样查找如何播放一个文件每次都会有一个音频和一个视频。 非常感谢任何帮助，如果您知道您推荐的软件的任何文档概述了如何完成此过程，我会更加支持您债务！   由   提交/u/mercury-shade  /u/mercury-shade  reddit.com/r/software/comments/1b8c7oj/what_would_be_your_recommendation_for_a_free/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1b8c7oj/what_would_be_your_recommendation_for_a_free/</guid>
+      <pubDate>Wed, 06 Mar 2024 21:45:01 GMT</pubDate>
+    </item>
     <item>
       <title>为地面仪器编写软件与为天基系统编写软件之间有哪些区别？</title>
       <link>https://www.reddit.com/r/software/comments/1b894lm/what_are_some_differences_between_writing/</link>
@@ -22,21 +36,21 @@
     <item>
       <title>是否可以像 MPC-BE 那样继续处理 MPC-HC 中最后一个文件后的第一个文件？</title>
       <link>https://www.reddit.com/r/software/comments/1b88c49/is_it_possible_to_continue_with_first_file_after/</link>
-      <description><![CDATA[所以我已经使用 MPC-BE 多年并且非常喜欢它，但永远无法让 HDR 工作。 所以我通过 k-lite full 安装了 MPC-HC，它预配置了 HDR，这对我来说太棒了，它立即起作用了！ 现在我只是缺少一个我可能忽略的设置。播放文件夹中的文件时，当最后一个文件播放完毕时，我希望播放器启动同一文件夹中的第一个文件。我找不到这个设置（在两者中），但 BE 确实为我做到了这一点。 HC 没有。我确实找到了在当前文件播放完毕后播放下一个文件的设置，但它会在文件夹的最后一个文件处停止。 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/SupposouslyAtTheZoo   [链接] [评论]]]></description>
+      <description><![CDATA[所以我已经使用 MPC-BE 多年并且非常喜欢它，但永远无法让 HDR 工作。 所以我通过 k-lite full 安装了 MPC-HC，它预配置了 HDR，这对我来说太棒了，它立即起作用了！ 现在我只是缺少一个我可能忽略的设置。播放文件夹中的文件时，当最后一个文件播放完毕时，我希望播放器启动同一文件夹中的第一个文件。我找不到这个设置（在两者中），但 BE 确实为我做到了这一点。 HC 没有。我确实找到了在当前文件结束后播放下一个文件的设置，但它停在文件夹的最后一个文件处。 谢谢！ &lt;!-- SC_ON - -&gt;  由   提交/u/SupposouslyAtTheZoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b88c49/is_it_possible_to_continue_with_first_file_after/</guid>
       <pubDate>Wed, 06 Mar 2024 19:13:12 GMT</pubDate>
     </item>
     <item>
       <title>创建视频选择器界面</title>
       <link>https://www.reddit.com/r/software/comments/1b86plu/create_a_video_chooser_interface/</link>
-      <description><![CDATA[您好，我是一名艺术史学生，在我与班级一起创作的展览中，我们希望将平板电脑放置在参观者能够接触到的地方在三/四个视频中进行选择。我不知道如何简单地创建这样的东西，我是否必须使用 java 或其他代码从头开始构建一些东西，或者是否有人知道更简单的方法（或者如果必须是困难的方法）。基本上，它必须是一个界面，访问者可以在其中选择视频、返回（当他们想要时）、选择另一个视频等。并且它不能与需要互联网连接的内容一起显示。我希望我说得清楚，如果没有，我很抱歉。  无论如何，如果有人有答案，我将非常感激！    由   提交 /u/YoannCroft   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我是一名艺术史学生，在我与班级一起创作的展览中，我们希望将平板电脑放置在参观者能够接触到的地方在三/四个视频中进行选择。我不知道如何简单地创建这样的东西，我是否必须使用 java 或其他代码从头开始构建一些东西，或者是否有人知道更简单的方法（或者如果必须是困难的方法）。基本上它必须是一个界面，访问者可以在其中选择视频、返回（当他们想要时）、选择另一个视频等。并且它不能与需要互联网连接的内容一起显示。我希望我说得清楚，如果没有，我很抱歉。  无论如何，如果有人有答案，我将非常感激！    由   提交 /u/YoannCroft   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b86plu/create_a_video_chooser_interface/</guid>
       <pubDate>Wed, 06 Mar 2024 18:10:45 GMT</pubDate>
     </item>
     <item>
       <title>我的压缩文件、视频、图片、媒体等分散在内部驱动器、外部驱动器上；这是一团糟。我需要什么来组织起来？多个程序可以，但是这种混乱需要得到控制，谢谢。</title>
       <link>https://www.reddit.com/r/software/comments/1b841ov/i_have_compressed_files_videos_pictures_media_etc/</link>
-      <description><![CDATA[ 由   提交/u/peacefulMercedes  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/peacefulMercedes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b841ov/i_have_compressed_files_videos_pictures_media_etc/</guid>
       <pubDate>Wed, 06 Mar 2024 16:29:39 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Wed, 06 Mar 2024 12:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>win11 有什么让你失望的地方吗？</title>
+      <title>win11 有什么阻碍你的东西吗？</title>
       <link>https://www.reddit.com/r/software/comments/1b7sfy1/any_deal_breakers_in_win11_for_you/</link>
       <description><![CDATA[与自己争论是否应该升级到 Windows 11。 我对时尚的 UI 很感兴趣，但担心兼容性问题对于较旧的游戏（bfme2、要塞），小部件的动画臃肿且功能较差（阅读有关此三键上下文菜单的信息）。  运行 i7-8700k、3080ti 和 32GB 内存。  感谢您的意见！    由   提交 /u/imbadatchoosingnicks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b7sfy1/any_deal_breakers_in_win11_for_you/</guid>
@@ -92,23 +106,9 @@
     <item>
       <title>将 PNG 或 PDF 数据正确导入 EXCEL 文件的最佳方法</title>
       <link>https://www.reddit.com/r/software/comments/1b7kqcl/best_way_to_get_data_in_a_png_or_pdf_properly/</link>
-      <description><![CDATA[我的文档基本上充满了需要插入 Excel 文件的列和数据。我尝试过很多“转换器”例如，它们要么将每条数据堆叠在 A 列的顶部，要么将所有行数据粘贴到 A 行而不是 A-J 行。有没有什么好的地方或者更好的方法将图片/PDF 中的数据导入 Excel 文件？谢谢   由   提交 /u/babylmao   [链接] [评论]]]></description>
+      <description><![CDATA[我的文档基本上充满了需要插入 Excel 文件的列和数据。我尝试过许多“转换器”例如，它们要么将每条数据堆叠在 A 列的顶部，要么将所有行数据粘贴到 A 行而不是 A-J 行。有没有什么好的地方或者更好的方法将图片/PDF 中的数据导入 Excel 文件？谢谢   由   提交 /u/babylmao   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1b7kqcl/best_way_to_get_data_in_a_png_or_pdf_properly/</guid>
       <pubDate>Tue, 05 Mar 2024 23:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求与纽约地区 Freshworks 用户会面进行投资研究</title>
-      <link>https://www.reddit.com/r/software/comments/1b7jyoa/seeking_meeting_with_freshworks_user_in_nyc_area/</link>
-      <description><![CDATA[您好！我正在代表一家投资 Freshworks 的公司进行投资研究。我很乐意跟踪纽约市的 Freshworks 用户（从 1 小时到 1 天），以了解用户一天的生活以及他们对产品的反馈。我很乐意购买早餐/咖啡/午餐/晚餐！   由   提交/u/smint1996   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b7jyoa/seeking_meeting_with_freshworks_user_in_nyc_area/</guid>
-      <pubDate>Tue, 05 Mar 2024 23:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有程序允许我在查看媒体文件时将其移动到另一个文件夹？</title>
-      <link>https://www.reddit.com/r/software/comments/1b7i653/is_there_a_program_that_would_allow_me_to_move_a/</link>
-      <description><![CDATA[基本上是标题。我试着环顾四周，但没有找到任何接近我想要的东西。多年来我有很多视频/照片需要分类，以便我可以将其上传到我的 Google 相册以进行保存。  现在我正在通过打开视频/照片来完成它 -&gt;关闭 VLC/照片 -&gt;移动文件 -&gt;打开另一个视频/照片。我不能在查看文件时移动它，因为这是不可能的。 我还不到一百个，但我仍然有至少一千个不同的文件需要浏览。有没有任何程序可以帮助我简化流程？允许我在查看文件时移动文件的东西。不一定要支持照片，但非常需要视频支持。 或者也许还有其他效果？有些不同，但仍然可以帮助我对视频/照片进行排序。 感谢您的帮助！   由   提交/u/Dynamixus_023  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1b7i653/is_there_a_program_that_would_allow_me_to_move_a/</guid>
-      <pubDate>Tue, 05 Mar 2024 22:08:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
