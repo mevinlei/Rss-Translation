@@ -4,13 +4,90 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 08 Mar 2024 06:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 12:14:16 GMT</lastBuildDate>
+    <item>
+      <title>使用令牌桶算法对 API 进行速率限制</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9meye/rate_limiting_apis_using_token_bucket_algorithm/</link>
+      <description><![CDATA[ 由   提交/u/dumbPotatoPot  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9meye/rate_limiting_apis_using_token_bucket_algorithm/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止使用 string.ToLowerInvariant() 比较字符串</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9m8nz/stop_using_stringtolowerinvariant_to_compare/</link>
+      <description><![CDATA[ 由   提交/u/bizzehdee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9m8nz/stop_using_stringtolowerinvariant_to_compare/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找物联网安全项目的贡献者。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9m1ak/seeking_contributors_for_an_iot_security_project/</link>
+      <description><![CDATA[ 由   提交 /u/Jolly_Psychology6791   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9m1ak/seeking_contributors_for_an_iot_security_project/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Python 和 Beautifulsoup 抓取 Google 搜索结果</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9kri3/how_to_web_scrape_google_search_results_using/</link>
+      <description><![CDATA[ 由   提交/u/yakult2450  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9kri3/how_to_web_scrape_google_search_results_using/</guid>
+      <pubDate>Fri, 08 Mar 2024 10:11:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>工业级音频搜索算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9kok5/an_industrialstrength_audio_search_algorithm/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9kok5/an_industrialstrength_audio_search_algorithm/</guid>
+      <pubDate>Fri, 08 Mar 2024 10:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Pprof 调查 Golang 内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9k4zk/investigating_golang_memory_leak_with_pprof/</link>
+      <description><![CDATA[ 由   提交/u/payopt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9k4zk/investigating_golang_memory_leak_with_pprof/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>还在和你的橡皮鸭说话吗？而是画一个图表。</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9k4q9/still_talking_to_your_rubber_duck_draw_a_diagram/</link>
+      <description><![CDATA[ 由   提交/u/payopt  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9k4q9/still_talking_to_your_rubber_duck_draw_a_diagram/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSF 和 CISA 联手保护开源软件</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9ju1r/openssf_and_cisa_join_forces_to_secure_open/</link>
+      <description><![CDATA[ 由   提交/u/waozen  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9ju1r/openssf_and_cisa_join_forces_to_secure_open/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 Golang 的 SOLID 原则 |干净、可维护软件的终极指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9j9qz/mastering_solid_principles_in_golang_the_ultimate/</link>
+      <description><![CDATA[ 由   提交/u/schadokar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9j9qz/mastering_solid_principles_in_golang_the_ultimate/</guid>
+      <pubDate>Fri, 08 Mar 2024 08:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳移动框架选择：本机、混合和跨平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9h7b5/best_framework_mobile_to_choose_native_hybrid_and/</link>
+      <description><![CDATA[ 由   提交/u/luvinasolution  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9h7b5/best_framework_mobile_to_choose_native_hybrid_and/</guid>
+      <pubDate>Fri, 08 Mar 2024 06:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>九大基于云的开发平台可增强您的项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1b9h4p9/top_9_cloudbased_development_platforms_to/</link>
+      <description><![CDATA[ 由   提交/u/luvinasolution  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1b9h4p9/top_9_cloudbased_development_platforms_to/</guid>
+      <pubDate>Fri, 08 Mar 2024 06:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>11 种最适合应用程序开发的编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9h1s9/11_best_programming_language_for_app_development/</link>
+      <link>https://www.reddit.com/r/programming/comments/1b9h3ec/11_best_programming_languages_for_app_development/</link>
       <description><![CDATA[ 由   提交/u/luvinasolution  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9h1s9/11_best_programming_language_for_app_development/</guid>
-      <pubDate>Fri, 08 Mar 2024 06:11:03 GMT</pubDate>
+      <guid>https://www.reddit.com/r/programming/comments/1b9h3ec/11_best_programming_languages_for_app_development/</guid>
+      <pubDate>Fri, 08 Mar 2024 06:13:41 GMT</pubDate>
     </item>
     <item>
       <title>我正在使 Python 开发人员的云基础设施民主化</title>
@@ -32,83 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Zealousideal-Web-898   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1b9ee12/when_where_and_how_to_use_http_methods_to_create/</guid>
       <pubDate>Fri, 08 Mar 2024 03:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>愚蠢的简单拼写检查</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9e14m/stupid_simple_spellcheck/</link>
-      <description><![CDATA[ 由   提交/u/ChiliPepperHott  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9e14m/stupid_simple_spellcheck/</guid>
-      <pubDate>Fri, 08 Mar 2024 03:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude 是我新推出的最佳代码助手 AI 模型。</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9dnuz/claude_is_my_new_best_ai_model_for_code_assistant/</link>
-      <description><![CDATA[新的LLM发布已经过去0天了，这个太棒了。如果您曾经在 ChatGPT 或 Gemini 中创建新的聊天实例，当您达到疯狂的程度时，他们不理解您，那么这就是解决方案。  &amp; #32；由   提交/u/Charming-Ad-7422   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9dnuz/claude_is_my_new_best_ai_model_for_code_assistant/</guid>
-      <pubDate>Fri, 08 Mar 2024 03:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>认真的 Web 组件</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9deck/web_components_in_earnest/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9deck/web_components_in_earnest/</guid>
-      <pubDate>Fri, 08 Mar 2024 03:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者需要反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9d7cs/beginner_in_need_of_feedback/</link>
-      <description><![CDATA[大家好！ 我一直在自学编码，需要一些诚实的反馈（欺负我的不要忍住）关于我的编码技能如何发展以及如何提高。目前即将参加今年夏天的实习编码面试，我患有严重的冒名顶替综合症…… 我在 insta 上寻求帮助的每个人都是软件开发人员，他们希望我支付指导费用 &gt; 那有我的 GitHub 和我已完成的一些项目快照。我感谢任何反馈    由   提交/u/daniel_d_ridley  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9d7cs/beginner_in_need_of_feedback/</guid>
-      <pubDate>Fri, 08 Mar 2024 02:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见程序员：人工智能机器人团队只需 7 分钟即可开发出软件，而不是 4 周</title>
-      <link>https://www.reddit.com/r/programming/comments/1b9btr2/goodbye_programmers_team_of_ai_bots_develops/</link>
-      <description><![CDATA[目前还没有，但研究“有希望”，人工智能正在以远远超出摩尔定律的速度发展。    由   提交/u/Kemilio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b9btr2/goodbye_programmers_team_of_ai_bots_develops/</guid>
-      <pubDate>Fri, 08 Mar 2024 01:52:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程时的小乐趣</title>
-      <link>https://www.reddit.com/r/programming/comments/1b99unb/small_joys_when_programming/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b99unb/small_joys_when_programming/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器矩阵 2024 与操作系统 + 市场份额</title>
-      <link>https://www.reddit.com/r/programming/comments/1b99ks4/browser_matrix_2024_with_os_market_share/</link>
-      <description><![CDATA[ 由   提交/u/olearyboy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b99ks4/browser_matrix_2024_with_os_market_share/</guid>
-      <pubDate>Fri, 08 Mar 2024 00:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Facebook 不使用 Git</title>
-      <link>https://www.reddit.com/r/programming/comments/1b98u8g/why_facebook_doesnt_use_git/</link>
-      <description><![CDATA[ 由   提交 /u/fosterfriendship   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b98u8g/why_facebook_doesnt_use_git/</guid>
-      <pubDate>Thu, 07 Mar 2024 23:29:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将 LLM 成本降低 85% 以上</title>
-      <link>https://www.reddit.com/r/programming/comments/1b975yv/how_i_reduced_our_llm_costs_by_over_85/</link>
-      <description><![CDATA[ 由   提交/u/pmarks98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b975yv/how_i_reduced_our_llm_costs_by_over_85/</guid>
-      <pubDate>Thu, 07 Mar 2024 22:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于Hyperskill平台使用体验的小调查+小测试，以确定您学习编程的动机水平</title>
-      <link>https://www.reddit.com/r/programming/comments/1b952s0/a_small_questionnaire_based_on_the_experience_of/</link>
-      <description><![CDATA[ 由   提交/u/Silent-Charity-2879   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b952s0/a_small_questionnaire_based_on_the_experience_of/</guid>
-      <pubDate>Thu, 07 Mar 2024 20:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔑 不要让对密钥的误解阻碍您进行有效的身份验证实践！</title>
-      <link>https://www.reddit.com/r/programming/comments/1b94yih/dont_let_misconceptions_about_passkeys_lock_you/</link>
-      <description><![CDATA[ 由   提交 /u/robertinoc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1b94yih/dont_let_misconceptions_about_passkeys_lock_you/</guid>
-      <pubDate>Thu, 07 Mar 2024 20:48:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
