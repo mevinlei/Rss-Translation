@@ -4,86 +4,87 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 12:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 15:04:14 GMT</lastBuildDate>
     <item>
-      <title>Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在提供更多 [...]</title>
-      <link>https://t.me/hn_summary/78289</link>
-      <description><![CDATA[ComflowySpace：更好的 ComfyUI 的开源版本 
-Comflowyspace 是一款开源 AI 图像和视频生成工具，旨在为 SDWebUI 和 ComfyUI 提供更加用户友好且易于访问的替代方案。该项目解决了通常与人工智能生成工具相关的复杂性，使用户更容易创建和管理工作流程。主要功能包括简化安装、工作流程管理、模板使用以及整体更友好的用户体验。该项目欢迎社区的贡献，并鼓励用户报告错误或建议新功能。 Comflowyspace 旨在让所有用户都能更轻松地生成 AI 图像和视频。]]></description>
-      <guid>https://t.me/hn_summary/78289</guid>
-      <pubDate>Fri, 08 Mar 2024 12:10:33 GMT</pubDate>
+      <title>Raspberry Pico 是一款出色的嵌入式开发芯片，具有令人印象深刻的功能和 [...]</title>
+      <link>https://t.me/hn_summary/78313</link>
+      <description><![CDATA[在没有 DAC 的情况下在 Pi Pico 中播放音频文件 
+Raspberry Pico 是一款出色的嵌入式开发芯片，具有令人印象深刻的功能和 MicroPython 支持。虽然它缺少用于声音生成的 DAC，但您仍然可以使用 PWM 播放音频文件。通过操纵占空比，您可以创建复杂的波形，而无需额外的硬件。将 WAV 文件转换为原始格式并将其上传到 Pico 可以让您使用 PWM 播放声音。虽然这个过程可能会让您的程序忙碌，但 MicroPython 中的线程可能是一个解决方案。此外，您可以根据数学计算调整占空比来生成正弦波声音。]]></description>
+      <guid>https://t.me/hn_summary/78313</guid>
+      <pubDate>Fri, 08 Mar 2024 15:04:14 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。</title>
-      <link>https://t.me/hn_summary/78288</link>
-      <description><![CDATA[Rolldown：用 Rust 编写的 Rollup 兼容捆绑器
-隆重推出 Rolldown，这是一个用 Rust 编写的快速高效的 JavaScript 打包器。通过兼容 Rollup 的 API，Rolldown 提供了速度和兼容性的独特组合。告别缓慢的捆绑时间，迎接与现有工作流程的无缝集成。通过 Rolldown 体验 Rust 在优化 JavaScript 项目方面的强大功能。请访问 rolldown.rs 了解更多信息并立即尝试。]]></description>
-      <guid>https://t.me/hn_summary/78288</guid>
-      <pubDate>Fri, 08 Mar 2024 12:09:29 GMT</pubDate>
+      <title>在 Cloudflare 办公室中，利用混乱来增强安全性和随机性。</title>
+      <link>https://t.me/hn_summary/78312</link>
+      <description><![CDATA[利用 Cloudflare 办公室的混乱
+在 Cloudflare 办公室中，利用混乱来增强安全性和随机性。 LavaRand 最初由熔岩灯供电，现在包括伦敦的双摆和奥斯汀的彩虹手机等新来源。这些物理熵系统提供了真正的随机性，这对于安全连接至关重要。开发人员可以从 LavaRand 访问私有随机性来生成密码和加密密钥。为了实现公共随机性，Cloudflare 与其他组织合作创建了 drand 协议，确保彩票等应用程序的随机值可验证且无偏见。对随机源的信任对于防止操纵和确保公平至关重要。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78312</guid>
+      <pubDate>Fri, 08 Mar 2024 15:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]大英图书馆网络事件评论提供了网络攻击的详细说明 [...]</title>
-      <link>https://t.me/hn_summary/78287</link>
-      <description><![CDATA[从网络攻击中吸取教训：大英图书馆网络事件回顾 [pdf](https://news.ycombinator.com/item?id=39640190)
-大英图书馆网络事件审查详细介绍了 2023 年 10 月发生的网络攻击，该攻击影响了图书馆的运营和基础设施。报告概述了此次攻击的时间表，包括犯罪团伙窃取数据和破坏服务器的情况。讨论了图书馆的应对和恢复工作，强调了恢复服务和重建基础设施所面临的挑战。该文件还讨论了袭击对图书馆使命和公共目的的影响。分享从该事件中汲取的经验教训，以帮助同行机构和组织加强其网络安全措施。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78287</guid>
-      <pubDate>Fri, 08 Mar 2024 12:02:25 GMT</pubDate>
+      <title>Relari 的创始人介绍了他们的评估框架，连续评估，旨在识别 [...]</title>
+      <link>https://t.me/hn_summary/78311</link>
+      <description><![CDATA[启动 HN：Relari (YC W24) – 找出问题的根本原因LLM应用程序中的问题
+Relari 的创始人介绍了他们的评估框架 Continuous-eval，旨在确定 LLM 管道等 GenAI 系统中问题的根本原因。他们利用为银行家构建副驾驶的经验，强调了向系统添加多个组件时出现的复杂性。他们强调精细指标对于查明组件级别问题的重要性，类似于自动驾驶汽车中的故障检测。令人惊讶的是，集成指标能够以 90% 的准确率预测用户反馈，从而提供了独特的优势。他们还提供用于综合评估的合成数据生成管道。他们邀请有关其模块化框架和测试方法的反馈。]]></description>
+      <guid>https://t.me/hn_summary/78311</guid>
+      <pubDate>Fri, 08 Mar 2024 14:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>孟买的生活面临着独特的住房危机，一半人口居住在贫民窟 [...]</title>
-      <link>https://t.me/hn_summary/78286</link>
-      <description><![CDATA[孟买废墟——Asterisk
-孟买的生活面临着独特的住房危机，一半人口居住在贫民窟或狭窄的居住条件中。该市严格的容积率（FAR）限制限制了建筑高度和密度，阻碍了增长并加剧了过度拥挤。与其他主要城市相比，孟买的容积率明显较低，抑制了发展并迫使居民居住在更小的居住空间中。此外，严格的租金管制法削弱了租赁市场，阻碍了房东投资新房。放宽这些限制可以改善孟买居民的生活条件、降低成本并促进经济增长。该市的住房政策迫切需要改革，以应对不断上升的人口密度和住房挑战。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78286</guid>
-      <pubDate>Fri, 08 Mar 2024 11:04:01 GMT</pubDate>
+      <title>摘要：这篇博文提供了有关为 Linux 创建基本 initramfs 的详细指南，重点是 [...]</title>
+      <link>https://t.me/hn_summary/78310</link>
+      <description><![CDATA[构建 Initramfs Rootless
+标题：无根构建 Initramfs
+摘要：这篇博文提供了有关为 Linux 创建基本 initramfs 的详细指南，重点是加载您自己的 initramfs、创建最小测试环境以及将远程文件系统挂载为根目录。这篇文章引导读者使用 geninitcpio 工具编译 initramfs、创建 hello world init 程序以及构建基本的 initramfs 描述。作者强调无根方法，无需在本地重新创建文件系统树。这篇文章最后给出了使用 Qemu 和预编译内核映像测试 initramfs 的说明。 （根据故事文本的 22% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78310</guid>
+      <pubDate>Fri, 08 Mar 2024 14:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 悉尼新的西悉尼国际（南希-伯德沃尔顿）机场 (WSI) 将 [...]</title>
-      <link>https://t.me/hn_summary/78285</link>
-      <description><![CDATA[悉尼国际机场率先推出澳大利亚首个数字空中交通管制系统
-悉尼新的西悉尼国际（南希-伯德沃尔顿）机场（WSI）将成为澳大利亚首个数字空中交通管制系统的先驱，该系统无需传统的有人驾驶塔台即可运行。空域管制员将使用带有 20 个摄像头的 45 米长桅杆来监控 20 公里外数据中心的实时反馈，以提供机场的 360 度视图。这项技术已在其他几个国家使用，被视为安全性和效率方面的重大飞跃。尽管有这项创新，专家们相信传统的控制塔仍将在行业中占有一席之地，而 WSI 系统将成为未来进步的“门槛”。]]></description>
-      <guid>https://t.me/hn_summary/78285</guid>
-      <pubDate>Fri, 08 Mar 2024 10:59:56 GMT</pubDate>
+      <title>在 Hetzner 上遇到我的应用程序的 HTTP 请求问题后，我发现 IP 地址 [...]</title>
+      <link>https://t.me/hn_summary/78309</link>
+      <description><![CDATA[Hetzner 俄勒冈地区 IP 被网站屏蔽
+在我的应用程序在 Hetzner 上遇到 HTTP 请求问题后，我发现俄勒冈州地区的 IP 地址被某些网站阻止。尽管最初怀疑 openssl 握手问题，但很明显 IP 本身就是问题所在。支持人员建议创建一个新实例或 IP，但所有 5.78.x.x IP 也被阻止。有趣的是，在弗吉尼亚地区创建虚拟机允许相同的命令正常运行。这凸显了某些 IP 地址被屏蔽的争议，以及使用不同区域来避免该问题的令人惊讶的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/78309</guid>
+      <pubDate>Fri, 08 Mar 2024 14:48:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]毒死蜱是一种广泛使用的杀虫剂，与人类脑损伤密切相关[...]</title>
-      <link>https://t.me/hn_summary/78284</link>
-      <description><![CDATA[毒死蜱：与儿童脑损伤有关的农药&lt; br/&gt;
-毒死蜱是一种广泛使用的杀虫剂，与儿童脑损伤密切相关，导致多个国家和美国一些州禁止使用。尽管游说成功，拜登政府还是于 2021 年 8 月宣布禁止毒死蜱，理由是毒死蜱对儿童存在危险。然而，美国第八巡回上诉法院于 2023 年 11 月推翻了该禁令，这是一项颇具争议的举措。科学研究​​表明，产前接触毒死蜱会导致婴儿出生体重下降、智商下降、注意力障碍和运动发育迟缓。孩子们。这种化学物质还与急性农药中毒甚至死亡有关。欧洲食品安全局已禁止销售毒死蜱，美国一些州也禁止其在农业中使用。尽管有这些发现，美国环保局还是干扰了全球减少接触这种神经毒性杀虫剂的努力。 （根据故事文本的 44% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78284</guid>
-      <pubDate>Fri, 08 Mar 2024 10:17:40 GMT</pubDate>
+      <title>[媒体] www.nytimes.com 上的文章深入探讨了总统 [...]</title>
+      <link>https://t.me/hn_summary/78308</link>
+      <description><![CDATA[总统核权力的危险
+www.nytimes.com 上的文章深入探讨了有争议的问题这是总统唯一有权发动核攻击的话题，强调了个人的巨大权力和责任。这篇文章生动地描绘了潜在核打击的紧张时刻以及决策过程中缺乏制衡的情况。它讨论了过去修改这一政策的努力，包括官员因担心总统精神状态而试图干预的实例。文章呼吁建立一个新的法律框架，在发布核发射命令之前需要获得其他高级官员的同意，并强调需要防止潜在的灾难。 （根据 87% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/78308</guid>
+      <pubDate>Fri, 08 Mar 2024 14:43:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]休达的西班牙士兵正在将性别从男性改为女性，以更好地利用 [...]</title>
-      <link>https://t.me/hn_summary/78283</link>
-      <description><![CDATA[西班牙士兵将性别改为女性以获得更多福利、更高工资
-休达的西班牙士兵正在将性别从男性改为女性，以享受只有女性才能享受的福利，例如更高的工资和更好的宿舍。这一重大决定是在2023年3月“跨性别法”实施后做出的，该法允许年仅14岁的个人在不进行心理或医学评估的情况下改变自己的性别认同。这一有争议的举动引发了争论，一些人认为这是对法律的一种反抗，而另一些人则认为这是获得晋升和加薪的一种方式。令人惊讶的是，许多士兵完好无损地保留了男性身份的所有其他方面，包括生殖器和面部毛发。]]></description>
-      <guid>https://t.me/hn_summary/78283</guid>
-      <pubDate>Fri, 08 Mar 2024 10:00:31 GMT</pubDate>
+      <title>[媒体]如何制作一款让人上瘾的视频游戏？</title>
+      <link>https://t.me/hn_summary/78307</link>
+      <description><![CDATA[如何制作一款令人上瘾的视频游戏？&lt; br /&gt;
+在本期《搜索引擎》中，我们与 Ben Brode 进行了交谈，他是《炉石传说》和《Marvel Snap》等令人上瘾的视频游戏的幕后策划者。我们深入研究创造性思维如何将他们的激情带入生活，并揭示看似简单的游戏（如剪刀石头布）中隐藏的想法。本·布罗德 (Ben Brode) 的见解将改变您看待游戏的方式。此外，我们还探索了独特且引人入胜的游戏，例如 Balatro 和 Vampire Survivors，证明有时看起来最简单的游戏是最有趣的。不要错过 Ben Brode 关于他的烤奶酪食谱的说唱音乐视频 - 必看！请继续关注我们下一集的更多有趣内容。]]></description>
+      <guid>https://t.me/hn_summary/78307</guid>
+      <pubDate>Fri, 08 Mar 2024 14:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 61号座位上的人是一个个人网站，最初是出于爱好，而不是公司或旅行社。</title>
-      <link>https://t.me/hn_summary/78282</link>
-      <description><![CDATA[61号座位上的人
-The Man in Seat 61 是一个个人网站，最初是出于业余爱好，而不是公司或旅行社。广告和联属佣金支持网站和作者的旅行研究。所提供的信息旨在提供帮助，但不能保证准确性。所有页面和照片的版权均归马克·史密斯所有。如果该网站对您有帮助，请考虑向联合国儿童基金会捐款或贡献照片。]]></description>
-      <guid>https://t.me/hn_summary/78282</guid>
-      <pubDate>Fri, 08 Mar 2024 09:29:17 GMT</pubDate>
+      <title>[媒体]贬低前端开发者。</title>
+      <link>https://t.me/hn_summary/78306</link>
+      <description><![CDATA[前端悄然普遍贬值
+前端开发人员的贬值。他们的挑战常常被视为微不足道，他们的专业知识被忽视，他们的工作被视为不如后端同行重要。这种偏见反映在用于描述前端工作的语言、缺乏对所需技能的尊重以及经常伴随有关前端开发的讨论中的隐性性别歧视。是时候认识到前端工作以及在该领域表现出色的人才的价值和重要性了。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78306</guid>
+      <pubDate>Fri, 08 Mar 2024 14:29:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 布莱姆！</title>
-      <link>https://t.me/hn_summary/78281</link>
-      <description><![CDATA[布莱姆
-布莱姆！是 Bleem! 于 1999 年发布的突破性商业 PlayStation 模拟器！公司生产 IBM 兼容 PC 和 Dreamcast。它利用汇编编码进行全速仿真，并利用 3D 图形硬件来增强分辨率。尽管与索尼发生了法律纠纷，Bleem!发布了 Bleemcast!，允许在 Dreamcast 上玩 PlayStation 游戏。索尼的诉讼导致 Bleem! 于 2001 年关闭，泄露的测试版本在网上流传。 2021 年，Piko Interactive 收购了 Bleem！复古游戏店面品牌 Bleem Powered。布莱姆有争议的历史！仍然是控制台仿真领域的独特篇章。]]></description>
-      <guid>https://t.me/hn_summary/78281</guid>
-      <pubDate>Fri, 08 Mar 2024 09:17:11 GMT</pubDate>
+      <title>[媒体] 正在寻找配备 AMD 硬件的功能强大的 Linux 笔记本电脑？</title>
+      <link>https://t.me/hn_summary/78305</link>
+      <description><![CDATA[全 AMD Linux 笔记本电脑（Radeon 7600M XT GPU、Ryzen CPU）：燕尾服天狼星 16 评论
+正在寻找配备 AMD 硬件的功能强大的 Linux 笔记本电脑？请在 tilvids.com 上查看 Tuxedo Sirius 16 评论！这款笔记本电脑配备 Radeon 7600M XT GPU 和 Ryzen CPU，对于那些喜欢 AMD 组件的人来说是一个不错的选择。该评论涵盖了 Tuxedo Sirius 16 的性能、设计和整体用户体验，强调了其优点和任何潜在的缺点。如果您正在市场上购买一台规格令人印象深刻的 Linux 笔记本电脑，那么这篇评论是必读的。不要错过这个满足您的计算需求的独特而强大的选项。]]></description>
+      <guid>https://t.me/hn_summary/78305</guid>
+      <pubDate>Fri, 08 Mar 2024 14:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟关键人物蒂埃里·布雷顿 (Thierry Breton) 强调了数字 M [...]</title>
-      <link>https://t.me/hn_summary/78280</link>
-      <description><![CDATA[Thierry Breton：在 DMA 下，看门人没有威胁的余地
-欧盟关键人物蒂埃里·布雷顿(Thierry Breton)强调了数字市场法案(DMA)在监管科技巨头方面的重要性。他声称，根据 DMA，数字市场中的看门人所构成的威胁是不能容忍的。这一声明凸显了围绕大型科技公司的权力和影响力持续存在的争议。布雷顿在这个问题上的立场明确且坚定不移，表明他致力于确保数字领域的公平竞争和保护消费者。这条推文强调了实施法规以解决科技巨头主导地位的紧迫性。]]></description>
-      <guid>https://t.me/hn_summary/78280</guid>
-      <pubDate>Fri, 08 Mar 2024 09:16:08 GMT</pubDate>
+      <title>[媒体]以《龙珠》作品而闻名的著名漫画创作者鸟山明通过了 [...]</title>
+      <link>https://t.me/hn_summary/78304</link>
+      <description><![CDATA[龙珠创作者鸟山明去世，享年 68 岁&lt; br /&gt;
+因创作《龙珠》而闻名的著名漫画家鸟山明因急性硬膜下血肿去世，享年 68 岁。除了《龙珠》之外，鸟山还创作了《Dr. Slump》和《SAND LAND》，并为《时空之轮》、《青龙》和《勇者斗恶龙》系列的角色设计做出了贡献。尽管鸟山英年早逝，但他仍有几部作品正在进行中，还有很多工作要做。 45 年来，他独特的创作世界感动了全球许多人的心。葬礼以私人方式举行，符合他求安宁的愿望。]]></description>
+      <guid>https://t.me/hn_summary/78304</guid>
+      <pubDate>Fri, 08 Mar 2024 14:25:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
