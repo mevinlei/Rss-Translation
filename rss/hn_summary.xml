@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Mar 2024 20:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 03:02:24 GMT</lastBuildDate>
     <item>
-      <title>问 HN：目前最好的编程 LLM（副驾驶）订阅是什么？</title>
-      <link>https://t.me/hn_summary/78201</link>
-      <description><![CDATA[问 HN：目前最好的编程 LLM（副驾驶）是什么？ ) 订阅？
-正在寻找 Go、Python、Swift、Android (Java) 和 Web 开发等主流语言的最佳副驾驶订阅吗？加入 Hacker News 上的讨论，看看其他人推荐什么作为编程 LLM 订阅的首选。分享您的经验和见解，帮助其他开发人员针对其编码需求做出最佳决策。让我们看看哪种 copilot 订阅目前在编程领域占据主导地位。]]></description>
-      <guid>https://t.me/hn_summary/78201</guid>
-      <pubDate>Thu, 07 Mar 2024 20:59:24 GMT</pubDate>
+      <title>[媒体] 服务器组件通过专门在服务器上运行来彻底改变 React 应用程序 [...]</title>
+      <link>https://t.me/hn_summary/78250</link>
+      <description><![CDATA[为什么 React 服务器组件要打破构建才能赢得明天 
+服务器组件通过专门在服务器上运行来彻底改变 React 应用程序，提供诸如零捆绑包大小、直接访问服务器端资源、增强安全性、提高数据获取效率、缓存、更快的初始页面加载、改进的 SEO 和高效流媒体等优势。通过将代码保留在服务器上并仅向客户端发送交互片段，服务器组件消除了客户端下载、解析和执行 JavaScript 的需要，从而加快了应用程序的加载和交互速度。这种创新方法正在突破构建，通过提高性能、减少延迟和增强用户体验来赢得明天。]]></description>
+      <guid>https://t.me/hn_summary/78250</guid>
+      <pubDate>Fri, 08 Mar 2024 03:02:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]受 [...] 视频的启发，我一直在研究训练神经网络下国际象棋。</title>
-      <link>https://t.me/hn_summary/78200</link>
-      <description><![CDATA[神经国际象棋
-受到人工智能玩口袋妖怪视频的启发，我一直在研究训练神经网络下棋。我在认知人工智能方面的背景促使我为网络创建了国际象棋引擎和模型。编写国际象棋规则和设计神经网络的复杂性被证明具有挑战性，但我坚持了下来。我利用位板来表示游戏状态，并将这些数据输入网络进行训练。神经网络是复杂的系统，需要仔细建模和训练才能实现预期结果。尽管面临挑战，创建神经国际象棋棋手的过程仍然是一次有益且具有启发性的经历。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78200</guid>
-      <pubDate>Thu, 07 Mar 2024 20:55:20 GMT</pubDate>
+      <title>[媒体]对模拟禁食饮食 (FMD) 进行的研究旨在调查其效果 [...]</title>
+      <link>https://t.me/hn_summary/78249</link>
+      <description><![CDATA[模仿禁食饮食会导致标记物显示年龄和疾病风险降低
+这项针对模拟禁食饮食（FMD）的研究旨在调查其对与衰老和年龄相关疾病相关的标志物的影响。该试验有 100 名参与者被随机分为两组，一组遵循正常饮食，另一组接受三个周期的 FMD。结果显示，胰岛素样生长因子 1 (IGF-1) 水平降低，代谢标志物、体脂肪成分和糖尿病危险因素得到改善。 FMD 还显示出减少肝脏脂肪和增加淋巴与骨髓比率的潜力，这表明对与年龄相关的疾病和疾病风险有好处。 （根据故事文本的 35% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78249</guid>
+      <pubDate>Fri, 08 Mar 2024 03:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]民主党立法者正在调查 SpaceX 因俄罗斯报道使用 Starlink i [...]</title>
-      <link>https://t.me/hn_summary/78199</link>
-      <description><![CDATA[俄罗斯星链的使用引发了对 SpaceX 是否遵守美国制裁的调查
-民主党议员正在对 SpaceX 就俄罗斯在乌克兰使用星链的报道进行调查，质疑其遵守美国制裁的情况。尽管埃隆·马斯克否认直接或间接向俄罗斯销售，但人们仍然担心乌克兰可能会滥用该技术。立法者正在寻求有关 SpaceX 的保障措施和遵守制裁的详细信息，以及为防止非法获取和使用星链终端而采取的行动。 SpaceX 表示，它不与俄罗斯政府或军方有业务往来，并阻止受制裁实体使用。围绕俄罗斯在乌克兰使用星链的争议继续引发人们对 SpaceX 运营的质疑。]]></description>
-      <guid>https://t.me/hn_summary/78199</guid>
-      <pubDate>Thu, 07 Mar 2024 20:39:12 GMT</pubDate>
+      <title>[媒体]随着 Threads 开始更广泛的发布测试，Fediverse 正在获得动力 [...]</title>
+      <link>https://t.me/hn_summary/78248</link>
+      <description><![CDATA[Fediverse 正在发生
+随着 Threads 开始向该平台发布更广泛的 Beta 测试，Fediverse 的势头正在增强。用户现在可以关注 Mastodon 的帐户并见证它们之间的互动。 Meta 拥抱开放标准的举措不仅很好，而且非常令人兴奋。虽然 Threads API 不允许构建自定义应用程序，但任何人都可以在未经许可的情况下创建自己的 fediverse 应用程序。最近通过 Flipboard 集成将 The 19th 添加到了联邦宇宙，这展示了网络社交层不断发展的趋势。这一切都在发生，作者对这一新发展带来的可能性感到兴奋。]]></description>
+      <guid>https://t.me/hn_summary/78248</guid>
+      <pubDate>Fri, 08 Mar 2024 02:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>X Window 系统有一个独特的功能，窗口可以相互嵌套，创建一个 [...]</title>
-      <link>https://t.me/hn_summary/78198</link>
-      <description><![CDATA[X Window 系统的特点：Windows 一直向下&lt; /a&gt;
-X Window 系统有一个独特的功能，窗口可以相互嵌套，创建一个树结构，允许各种功能，例如在每个窗口的基础上定义鼠标光标，以及当鼠标移动到不同区域时自动更改光标。旧的 X 工具包大量使用了这种嵌套窗口方法，但由于服务器端渲染的复杂性，现代工具包已经放弃了这种方法。一些旧的 X 窗口管理器（例如 fvwm）仍然对窗口框架等元素使用这种方法。 X Window 系统的这一特性使我们能够深入了解图形用户界面中窗口管理的演变。]]></description>
-      <guid>https://t.me/hn_summary/78198</guid>
-      <pubDate>Thu, 07 Mar 2024 20:38:09 GMT</pubDate>
+      <title>[媒体]在一项开创性的研究中，由科大学领导的德裔美国研究小组 [...]</title>
+      <link>https://t.me/hn_summary/78247</link>
+      <description><![CDATA[互联网监控地图集绘制了网络基础设施世界的所有权 
+在一项开创性的研究中，由康斯坦茨大学领导的德裔美国研究小组通过绘制全球民主和独裁国家网络基础设施的所有权地图，创建了一份“互联网监控地图集”。该研究揭示了独裁者如何通过国有服务提供商控制互联网，从而实现深度监控，而不仅仅是信息操纵。该研究强调了民主国家和威权国家之间互联网基础设施的显着差异，表明独裁国家有影响力的互联网服务提供商通常是国有的，而在民主国家，它们是私有化的。该研究还揭示了威权国家之间的技术合作集群，揭示了全球范围内互联网监控的复杂动态。]]></description>
+      <guid>https://t.me/hn_summary/78247</guid>
+      <pubDate>Fri, 08 Mar 2024 02:50:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 华盛顿和芝加哥的研究人员开发了 ArtPrompt，这是一种使用 ASCII 的工具 [...]</title>
-      <link>https://t.me/hn_summary/78197</link>
-      <description><![CDATA[研究人员利用 ASCII 艺术越狱 AI 聊天机器人
-华盛顿和芝加哥的研究人员开发了 ArtPrompt，这是一种使用 ASCII 艺术绕过 GPT-3.5 和 GPT-4 等大型语言模型 (LLM) 中的安全措施的工具。这使得聊天机器人能够响应它们旨在拒绝的查询，例如制造炸弹或制造假币的指令。该工具的工作原理是用 ASCII 艺术掩盖敏感词，欺骗法学硕士提供响应而不触发安全保障措施。这一进展令人惊讶且颇具争议，因为它暴露了旨在防止恶意内容的人工智能聊天机器人中的漏洞。研究人员声称 ArtPrompt 是对当前法学硕士的有效且高效的攻击。&lt;​​br /&gt;]]></description>
-      <guid>https://t.me/hn_summary/78197</guid>
-      <pubDate>Thu, 07 Mar 2024 20:36:05 GMT</pubDate>
+      <title>[媒体]借助新技术开发，医生现在可以在手术期间观察脊髓活动[...]</title>
+      <link>https://t.me/hn_summary/78246</link>
+      <description><![CDATA[医生现在可以在手术期间观察脊髓活动&lt; br/&gt;
+借助加州大学河滨分校开发的新技术，医生现在可以在手术过程中观察脊髓活动。 fUSI 技术可提供脊髓的高分辨率图像，实时监测脊髓对治疗的反应。这一进步可能会彻底改变慢性背痛治疗，为数百万患者带来希望。该技术由 Vasileios Christopoulos 首创，其灵敏度是功能磁共振成像的十倍，并且对运动伪影不太敏感。 Neuron 论文详细介绍了 fUSI 如何检测到前所未有水平的血流变化，从而有可能提高脊髓刺激手术的成功率。研究人员希望进一步优化针对膀胱控制问题患者的治疗方法。]]></description>
+      <guid>https://t.me/hn_summary/78246</guid>
+      <pubDate>Fri, 08 Mar 2024 02:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Rivian 在 R2 发布会上推出了 R3 和 R3X 电动 SUV，令所有人大吃一惊。</title>
-      <link>https://t.me/hn_summary/78196</link>
-      <description><![CDATA[Rivian 推出 R3 和 R3X 电动 SUV 带来惊喜
-Rivian 在 R2 发布会上推出了 R3 和 R3X 电动 SUV，令所有人大吃一惊。 R3 是 R2 的运动型、紧凑型版本，其性能版本称为 R3X。这些新车型的续航里程将超过 300 英里，三秒内可从零加速到 60 英里/小时，并具有增强的自主能力。 R3 将配备独特的后门窗，以提供额外的存储空间和车内露营的能力。 R3 的价格低于 R2，将与现代 Ioniq 5 和起亚 EV6 等韩国电动汽车竞争。 R3 的预订即将开放，随后将在全球范围内发售。]]></description>
-      <guid>https://t.me/hn_summary/78196</guid>
-      <pubDate>Thu, 07 Mar 2024 20:22:56 GMT</pubDate>
+      <title>[媒体]科学家发现了一种突破性的方法，利用高频无线电波来[...]</title>
+      <link>https://t.me/hn_summary/78245</link>
+      <description><![CDATA[无线电波可以调节细菌成为救命药物
+科学家们发现了一种突破性的方法，使用高频无线电波比传统技术更有效地改变细菌细胞的 DNA。这种温和的方法可以让更多的细胞接受新的 DNA 并存活下来，这使其成为制造胰岛素等救生药物的有前途的方法。这项研究由皇家墨尔本理工大学与其他机构合作领导，在大肠杆菌细胞和真核细胞中的潜在应用中取得了令人印象深刻的结果。该研究有可能彻底改变药物输送和治疗开发，WaveCyte Biotechnologies 积极致力于将这些发现转化为实际应用。]]></description>
+      <guid>https://t.me/hn_summary/78245</guid>
+      <pubDate>Fri, 08 Mar 2024 02:29:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Rivian 发布了 R3 掀背车，令所有人感到惊讶，这是一款可爱的合作车 [...]</title>
-      <link>https://t.me/hn_summary/78195</link>
-      <description><![CDATA[Rivian 惊喜推出 R3 掀背车
-Rivian 发布了 R3 掀背车，这是一款可爱而紧凑的全电动汽车，令所有人感到惊讶。该设计让人想起本田 E 和大众高尔夫，标志着 Rivian 进入由特斯拉主导的小型电动汽车市场。有关可用性和定价的详细信息很少，但 R3 将建立在 R2 平台上，并提供单电机、双电机和三电机型号。首席执行官 RJ Scaringe 暗示，与 R2 相比，价格更实惠。这一消息给 Rivian 带来了提振，消息公布后股价上涨。 R3 代表了公司的新方向，专注于打造更平易近人且价格实惠的车辆。]]></description>
-      <guid>https://t.me/hn_summary/78195</guid>
-      <pubDate>Thu, 07 Mar 2024 20:17:50 GMT</pubDate>
+      <title>[媒体]欧洲航天局正在密切监视一托盘用过的国际空间站航天器的重返大气层 [...]</title>
+      <link>https://t.me/hn_summary/78244</link>
+      <description><![CDATA[国际空间站电池重返地球大气层&lt; br/&gt;
+欧洲航天局正在密切监视一托盘用过的国际空间站电池重返地球大气层的情况。这些电池于 2021 年 1 月发布，预计将于 3 月 8 日欧洲中部时间 18:56 左右重新投入使用。虽然大部分 2.6 公吨电池可能会烧毁，但某些部分可能会落到地面。人员被击中的风险非常低，预计重返大气层的南纬度为 -51.6 度至北纬 51.6 度。欧空局正在向成员国提供最新的预测，大型空间物体每周一次自然地重新进入大气层。]]></description>
+      <guid>https://t.me/hn_summary/78244</guid>
+      <pubDate>Fri, 08 Mar 2024 02:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]通过创新的l [...]</title>
-      <link>https://t.me/hn_summary/78194</link>
-      <description><![CDATA[新突破让矩阵乘法更接近理想
-通过创新的激光方法，矩阵乘法取得了新的突破，消除了块中的重叠，提高了效率。研究人员在之前的分析中发现了一个隐藏的损失，从而导致该过程显着加快。通过减少浪费和改进区块选择，omega 的上限已降至 2.371552，这是十多年来最大的改进。这一进步为进一步增强矩阵乘法算法开辟了新的可能性，尽管使用当前方法可以改进多少 omega 是有限的。研究人员仍处于理解这个复杂问题的早期阶段。]]></description>
-      <guid>https://t.me/hn_summary/78194</guid>
-      <pubDate>Thu, 07 Mar 2024 20:16:46 GMT</pubDate>
+      <title>[媒体] 网页内容提供了有关弗吉尼亚州地铁站和换乘的详细信息 [...]</title>
+      <link>https://t.me/hn_summary/78243</link>
+      <description><![CDATA[地铁站和换乘
+网络内容提供有关世界各地各个城市的地铁站和换乘的详细信息。它强调了每个城市快速交通系统的独特之处，例如巴塞罗那的长通道、布鲁塞尔的规划系统以及布达佩斯作为欧洲大陆第一个拥有地铁的城市的历史意义。内容还讨论了车站的布局和设计，包括侧式月台、岛式月台和夹层的使用。描述了每个城市的换乘站，展示了不同线路之间换乘的效率和便捷性。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78243</guid>
+      <pubDate>Fri, 08 Mar 2024 01:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 对于给您带来的不便，我们深表歉意，但过程似乎存在技术问题 [...]</title>
-      <link>https://t.me/hn_summary/78193</link>
-      <description><![CDATA[WhatsApp 消息互操作性
-对于给您带来的不便，我们深表歉意，但处理您的 WhatsApp 消息互操作性请求时似乎存在技术问题。我们的团队正在积极努力解决该问题，感谢您的耐心等待。请继续关注此功能何时顺利启动并运行的更新。感谢您的理解。]]></description>
-      <guid>https://t.me/hn_summary/78193</guid>
-      <pubDate>Thu, 07 Mar 2024 20:14:42 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我讨论了我对软件工程的热情以及创建 [...]</title>
+      <link>https://t.me/hn_summary/78242</link>
+      <description><![CDATA[杠杆上的棘轮
+在这篇文章中，我讨论了我对软件工程的热情以及创建适合所有用户的软件的重要性。我强调需要能够提高软件质量并使开发人员能够提供更多创新功能的工具和流程。我引入了“棘轮”的概念，作为增量改进，推动进步而不倒退，将其与需要不断努力的“杠杆”进行对比。我强调我对 Rust 的关注，将其作为软件开发中棘轮的一个典型例子。我表达了继续在行业中建立棘轮的愿望，并邀请潜在的合作者进行接触。]]></description>
+      <guid>https://t.me/hn_summary/78242</guid>
+      <pubDate>Fri, 08 Mar 2024 01:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]2016 年选举干扰之后，外国操纵的威胁 [...]</title>
-      <link>https://t.me/hn_summary/78192</link>
-      <description><![CDATA[一个数据驱动案例，说明为什么 TikTok 需要在2024 年选举
-2016 年选举干扰之后，外国通过社交媒体操纵的威胁比以往任何时候都更加直接，一家中国公司拥有的 TikTok 影响着政治情绪。 TikTok 的算法不仅反映了公众舆论，而且积极塑造了公众舆论，正如大学校园反犹太主义事件的兴起与平台上亲巴勒斯坦内容的同时发生的那样。研究表明，TikTok 压制对中国不便的内容，同时放大符合其外交政策目标的内容。随着美国立法切断与 TikTok 的中国母公司的关系，要求在美国禁止 TikTok 的呼声越来越高。现在是采取行动保护美国民主的时候了。]]></description>
-      <guid>https://t.me/hn_summary/78192</guid>
-      <pubDate>Thu, 07 Mar 2024 20:10:39 GMT</pubDate>
+      <title>在 Open UI，我们正在彻底改变 Web 开发人员设计和扩展内置 Web UI 的方式 [...]</title>
+      <link>https://t.me/hn_summary/78241</link>
+      <description><![CDATA[打开用户界面
+在 Open UI，我们正在彻底改变 Web 开发人员设计和扩展内置 Web UI 组件的方式。我们的 W3C 社区组致力于全面指定下拉列表和复选框等控件的组成部分、状态和行为，同时还通过测试套件确保可访问性和兼容性。通过提供 Polyfill 和建立标准流程，我们的目标是消除设计人员不断用组件框架重新发明轮子的需要。加入我们在 Discord 和 Github 上的社区，成为这一激动人心的网络平台高质量 UI 控件运动的一部分。]]></description>
+      <guid>https://t.me/hn_summary/78241</guid>
+      <pubDate>Fri, 08 Mar 2024 01:44:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
