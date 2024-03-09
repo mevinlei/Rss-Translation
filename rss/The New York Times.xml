@@ -4,13 +4,20 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Mar 2024 05:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 08:37:12 GMT</lastBuildDate>
+    <item>
+      <title>马克龙和肖尔茨就乌克兰和俄罗斯政策发生争执</title>
+      <link>https://www.nytimes.com/2024/03/09/world/europe/macron-scholz-russia-ukraine-aid.html</link>
+      <description><![CDATA[令人担忧的关系最近变得紧张，侮辱和倒刺在关键时刻威胁着欧洲的团结。]]></description>
+      <guid>https://www.nytimes.com/2024/03/09/world/europe/macron-scholz-russia-ukraine-aid.html</guid>
+      <pubDate>Sat, 09 Mar 2024 08:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>“你可以听到针掉在地上的声音”：英国超级严格学校的兴起</title>
       <link>https://www.nytimes.com/2024/03/09/world/europe/you-can-hear-a-pin-drop-the-rise-of-super-strict-schools-in-england.html</link>
       <description><![CDATA[受到伦敦西北部米凯拉中学等学校学业成功的启发，一些校长正在对学生的行为实行严格控制。]]></description>
       <guid>https://www.nytimes.com/2024/03/09/world/europe/you-can-hear-a-pin-drop-the-rise-of-super-strict-schools-in-england.html</guid>
-      <pubDate>Sat, 09 Mar 2024 05:53:19 GMT</pubDate>
+      <pubDate>Sat, 09 Mar 2024 08:27:32 GMT</pubDate>
     </item>
     <item>
       <title>参议院批准 4600 亿美元法案以避免政府部分关闭</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[亚赞·卡法内 (Yazan Kafarneh) 的骷髅照片在社交媒体上广泛流传，并成为对该飞地严峻的粮食形势的生动警告。]]></description>
       <guid>https://www.nytimes.com/2024/03/09/world/middleeast/yazan-kafarneh-gaza-starvation.html</guid>
       <pubDate>Sat, 09 Mar 2024 05:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克龙和肖尔茨就乌克兰和俄罗斯政策发生争执</title>
-      <link>https://www.nytimes.com/2024/03/09/world/europe/macron-scholz-russia-ukraine-aid.html</link>
-      <description><![CDATA[令人担忧的关系最近变得紧张，侮辱和倒刺在关键时刻威胁着欧洲的团结。]]></description>
-      <guid>https://www.nytimes.com/2024/03/09/world/europe/macron-scholz-russia-ukraine-aid.html</guid>
-      <pubDate>Sat, 09 Mar 2024 05:01:23 GMT</pubDate>
     </item>
     <item>
       <title>热麦克风：拜登说他告诉内塔尼亚胡他们即将举行“归向耶稣的会议”</title>
@@ -83,13 +83,6 @@
       <pubDate>Fri, 08 Mar 2024 23:46:21 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲和美国计划通过海上向加沙供应物资，但援助组织称这还不够</title>
-      <link>https://www.nytimes.com/2024/03/08/world/middleeast/gaza-aid-by-sea.html</link>
-      <description><![CDATA[救援组织表示，繁琐的新战略无法取代以色列允许更多补给卡车进入加沙地带，而据报道，空投援助物资出了差错，导致五人死亡。]]></description>
-      <guid>https://www.nytimes.com/2024/03/08/world/middleeast/gaza-aid-by-sea.html</guid>
-      <pubDate>Fri, 08 Mar 2024 22:41:38 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普为 E. Jean Carroll 诽谤案交纳 9160 万美元保释金</title>
       <link>https://www.nytimes.com/2024/03/08/nyregion/trump-carroll-bond-defamation.html</link>
       <description><![CDATA[唐纳德·J·特朗普 (Donald J. Trump) 正在应对总价值超过 5 亿美元的民事处罚。]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[拜登总统的国情咨文演讲和前总统唐纳德·特朗普在超级星期二的胜利演讲让人对美国的过去、现在和未来产生了截然相反的愿景。]]></description>
       <guid>https://www.nytimes.com/2024/03/08/us/politics/trump-biden-speeches.html</guid>
       <pubDate>Fri, 08 Mar 2024 19:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥斯卡金像奖新的多元化和包容性规则引发争议</title>
+      <link>https://www.nytimes.com/2024/03/08/us/oscars-oppenheimer-dei-diversity.html</link>
+      <description><![CDATA[一部关于研制原子弹的人的电影《奥本海默》如何满足新标准。]]></description>
+      <guid>https://www.nytimes.com/2024/03/08/us/oscars-oppenheimer-dei-diversity.html</guid>
+      <pubDate>Fri, 08 Mar 2024 17:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
