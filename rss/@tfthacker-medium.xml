@@ -4,7 +4,14 @@
     <title>由 TfTHacker 在 Medium 上撰写的故事</title>
     <link>https://medium.com/@tfthacker?source=rss-fbb6d0e49057------2</link>
     <description>由 TfTHacker 在 Medium 上撰写的故事</description>
-    <lastBuildDate>Sat, 09 Mar 2024 09:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 12:14:01 GMT</lastBuildDate>
+    <item>
+      <title>做会议笔记的好处</title>
+      <link>https://medium.com/obsidian-observer/benefits-of-taking-meeting-notes-3a86be80be14?source=rss-fbb6d0e49057------2</link>
+      <description><![CDATA[在过去的几个月里，我注意到我在会议期间记下的笔记数量显着增加。我平时的“想法捕捉”和“研究”笔记并没有太大变化，那么这是怎么回事呢？虽然会议次数的增加无疑是一个因素，但还有更多因素。我一直是一个记笔记的人。我使用我最喜欢的工具 Obsidian 认真记录日期、时间、主题、项目和与会者。这个简单的元数据对于搜索和反向链接非常有用。当我想：“我知道我最近见过桑德拉，但那又怎样呢？”我可以导航她的联系备注并通过反向链接查看所有相关文档。提高记忆力奇怪的是我很少回顾我的会议记录。我通常会在没有它们的情况下回忆起重要的细节。那么，我为什么要烦恼呢？我意识到做笔记的行为本身就是一种强大的记忆强化技术。我可能不会记住每一个细节，但关键点 — 协议、发现的问题和行动项目 — 在会议结束后很长一段时间里我都会记得。内心平静我的笔记也让我安心，让我放心，如果需要的话，我有可以查阅的记录。安全地捕获这些详细信息后，我就有了专注于当前的心理空间。这是我的简单模板，其中包含一些标准字段以及标记的 #ToProcess 任务：此任务确保我跟进任何操作及时处理项目。我的会议Obsidian 中的笔记模板每隔几天，我都会查看最近制作的会议记录，以确保它们在存档前完整。这可以作为快速复习和最后检查，以确保“未来的我”是否具有必要的背景。想了解更多有关“未来的自我”概念的信息吗？查看这篇文章：亲爱的未来的自己，我为您写了这篇笔记不要忘记在我的商店查看一些有趣的项目：https://store.tfthacker.com记录会议笔记的好处最初发布于 Medium 上的 Obsidian Observer，人们正在继续通过突出显示并回应这个故事来进行对话。]]></description>
+      <guid>https://medium.com/obsidian-observer/benefits-of-taking-meeting-notes-3a86be80be14?source=rss-fbb6d0e49057------2</guid>
+      <pubDate>Sat, 09 Mar 2024 11:02:16 GMT</pubDate>
+    </item>
     <item>
       <title>艾森豪威尔矩阵看板样式</title>
       <link>https://medium.com/obsidian-observer/eisenhower-matrix-kanban-style-743e09640582?source=rss-fbb6d0e49057------2</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[最近，Danny Hatcher 在 YouTube 上发布了一个视频，名为“我如何用 Obsidian 编写 NaNoWriMo”。 他正在从事一个大型的、令人兴奋的写作项目，并讨论了他的工作流程。我喜欢他使用 Canvas Candy 的方式；如果您是一名作家，也许它会给您一些在自己的作品中使用它的想法。他在 6:05 时间标记处与 Canvas Candy 讨论了他的角色图方法。https://medium.com/media/05bce2b429cad74b973026c378126130/hrefCanvas Candy 装饰 — 边框调整，以及卡片的页眉和页脚。了解有关 Canvas Candy 的更多信息，请访问 https://tfthacker.com/canvas-candy&lt; p&gt;在写作中使用 Canvas Candy 最初发布于 Medium 上的黑曜石观察者，人们通过突出显示并回应这个故事来继续对话。]]></description>
       <guid>https://medium.com/obsidian-observer/using-canvas-candy-in-writing-1ec649d35bb2?source=rss-fbb6d0e49057------2</guid>
       <pubDate>Sat, 02 Dec 2023 10:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Danny Hatcher 的“黑曜石画布升级”YouTube 视频</title>
-      <link>https://medium.com/obsidian-observer/danny-hatchers-obsidian-canvas-upgrade-youtube-video-4d34c3263617?source=rss-fbb6d0e49057------2</link>
-      <description><![CDATA[Danny Hatcher 的 最新的 YouTube 视频深入研究了“Canvas Candy”，这是一个创新的 CSS 片段，可显着增强 Obsidian 中画布功能的功能。此代码片段介绍了一系列自定义选项，可提升软件中思维导图和组织图表的视觉吸引力和实用性。首先，Danny 强调了 Canvas Candy 的变革性本质。他探索了其超越传统思维导图的能力，引入了各种卡片类型，例如媒体卡、文件卡和空白卡。这些可以在颜色、链接和分组方面进行单独定制，从而改善组织和导航性。视频的一个重点是 Canvas Candy 提供的广泛定制。用户可以将称为装饰的 CSS 类应用于卡片，从而实现删除边框和调整透明度等修改。 Danny 通过各种示例演示了这些功能，强调了该代码片段在根据不同的视觉和组织目的调整卡片方面的灵活性。该视频还涵盖了高级自定义功能。用户可以定制点线、虚线和双线等样式的卡片边框，并调整卡片形状以包括圆形、椭圆形和平行四边形。这种级别的自定义扩展到卡片内文本的对齐和格式设置，从而增强清晰度和美观性。https://medium.com/media/cd8f94586cc15ce0d60ceca432596995/href&quot;&gt;https:// /medium.com/media/cd8f94586cc15ce0d60ceca432596995/href总之，Danny Hatcher 的 YouTube 视频是在 Obsidian 中使用 Canvas Candy 的综合指南。详细的演示和解释为观看者提供了如何最大限度地发挥此 CSS 代码段潜力的宝贵见解，使其成为希望增强笔记和组织技能的 Obsidian 用户强烈推荐的资源。我非常重视 Danny 的视频和封面是 Obsidian，所以我强烈建议您关注他的频道。了解有关 Canvas Candy 的更多信息，请访问 &lt; a href=&quot;https://tfthacker.com/canvas-candy&quot;&gt;https://tfthacker.com/canvas-candyDanny Hatcher 的“Obsidian Canvas Upgrade”YouTube 视频最初发布于 Medium 上的黑曜石观察者，人们通过突出显示并回应这个故事来继续对话。]]></description>
-      <guid>https://medium.com/obsidian-observer/danny-hatchers-obsidian-canvas-upgrade-youtube-video-4d34c3263617?source=rss-fbb6d0e49057------2</guid>
-      <pubDate>Sat, 25 Nov 2023 05:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

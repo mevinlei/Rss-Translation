@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 09 Mar 2024 09:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 12:12:23 GMT</lastBuildDate>
+    <item>
+      <title>在为 API 创建端点之前，请先了解 URL 的结构。</title>
+      <link>https://www.reddit.com/r/programming/comments/1bafu6r/understand_the_anatomy_of_urls_before_making_an/</link>
+      <description><![CDATA[ 由   提交 /u/Zealousideal-Web-898   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bafu6r/understand_the_anatomy_of_urls_before_making_an/</guid>
+      <pubDate>Sat, 09 Mar 2024 11:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>您应该使用的现代 Git 命令和功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1bafh54/modern_git_commands_and_features_you_should_be/</link>
+      <description><![CDATA[ 由   提交/u/boincl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bafh54/modern_git_commands_and_features_you_should_be/</guid>
+      <pubDate>Sat, 09 Mar 2024 11:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁是那个对这里的每一篇新帖子都投反对票的文盲垃圾？</title>
+      <link>https://www.reddit.com/r/programming/comments/1bae9wq/whos_the_illiterate_piece_of_trash_that_keeps/</link>
+      <description><![CDATA[ 由   提交 /u/fliption   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bae9wq/whos_the_illiterate_piece_of_trash_that_keeps/</guid>
+      <pubDate>Sat, 09 Mar 2024 09:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>普罗利树</title>
+      <link>https://www.reddit.com/r/programming/comments/1badqmb/prolly_trees/</link>
+      <description><![CDATA[ 由   提交/u/keepmyeyesontheprice  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1badqmb/prolly_trees/</guid>
+      <pubDate>Sat, 09 Mar 2024 09:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码挑战：构建您自己的 Docker（了解容器映像和运行时的工作原理）</title>
+      <link>https://www.reddit.com/r/programming/comments/1badnum/coding_challenge_build_your_own_docker_learn_how/</link>
+      <description><![CDATA[ 由   提交/u/JohnCrickett  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1badnum/coding_challenge_build_your_own_docker_learn_how/</guid>
+      <pubDate>Sat, 09 Mar 2024 09:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于为您的项目生成许可证的 CLI 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1badn37/a_cli_tool_for_generating_licenses_for_your/</link>
+      <description><![CDATA[ 由   提交/u/xtpgtpgx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1badn37/a_cli_tool_for_generating_licenses_for_your/</guid>
+      <pubDate>Sat, 09 Mar 2024 09:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>算法可视化应用</title>
       <link>https://www.reddit.com/r/programming/comments/1bad63r/algorithmly_visualizer_application/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/awsconsultant  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ba9p83/if_you_are_interested_in_learning_python/</guid>
       <pubDate>Sat, 09 Mar 2024 05:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>分解 GoLang 中的 defer 语句</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba92u1/break_down_defer_statements_in_golang/</link>
-      <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba92u1/break_down_defer_statements_in_golang/</guid>
-      <pubDate>Sat, 09 Mar 2024 04:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>工业通用电气时钟编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba907y/industrial_general_electric_clock_programming/</link>
-      <description><![CDATA[好吧，我花了 10 美元买了这个 ge 时钟，想知道是否有人知道如何向它发送数据？我找到的所有信息都说它使用 UHF 和 zigbee，但我想知道是否有人知道不同的方法？如果在 Reddit 上问这个问题是错误的，我希望得到一些提示，以指明正确的方向 型号：GE-ZB266DW FCC ID：RF2IPLINK2264   由   提交 /u/SpecialistEngine6112   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba907y/industrial_general_electric_clock_programming/</guid>
-      <pubDate>Sat, 09 Mar 2024 04:28:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器扩展被低估：可破解软件的前景</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba8iv6/browser_extensions_are_underrated_the_promise_of/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba8iv6/browser_extensions_are_underrated_the_promise_of/</guid>
-      <pubDate>Sat, 09 Mar 2024 04:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Repos 上的恶意代码活动 + Semgrep 规则来检测 IOC</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba84xo/malicious_code_campaign_on_github_repos_semgrep/</link>
-      <description><![CDATA[ 由   提交/u/ConcientComment919   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba84xo/malicious_code_campaign_on_github_repos_semgrep/</guid>
-      <pubDate>Sat, 09 Mar 2024 03:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>卧底多面手</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba7gea/the_undercover_generalist/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba7gea/the_undercover_generalist/</guid>
-      <pubDate>Sat, 09 Mar 2024 03:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择无需身份验证的住宅代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1ba6w17/choosing_residential_proxy_without_id_verification/</link>
-      <description><![CDATA[我希望在小规模但可扩展的层面上废弃 Facebook。  大多数住宅代理提供商都需要身份验证才能获得对某些网站（包括 Facebook）的完全访问权限。 IP Royal 也提供这种服务，但您需要使用 ID 进行验证，而且它们是总部设在阿联酋。  有人找到不需要这个的代理提供商吗？ 如果没有，有人曾经发送过他们的 ID 进行验证吗？ 当然，我我担心与甚至可能不在美国的公司共享这些信息的后果。 任何想法都会有帮助，也请不要发送某个提供商的垃圾邮件，哈哈。    由   提交/u/Real-Restaurant7655  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ba6w17/choosing_residential_proxy_without_id_verification/</guid>
-      <pubDate>Sat, 09 Mar 2024 02:38:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
