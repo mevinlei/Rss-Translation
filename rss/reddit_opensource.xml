@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 15:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 18:10:51 GMT</lastBuildDate>
+    <item>
+      <title>Resticity - Restic 的跨平台前端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1banseq/resticity_a_crossplatform_frontend_for_restic/</link>
+      <description><![CDATA[https://github.com/ad -on-is/resticity 嘿伙计们，我一直在为构建一个前端过去几周，应用程序终于准备就绪并可以使用了。所以我想与世界分享。哦，当然是 FOSS。 它旨在用作跨平台桌面应用程序（使用 wails 构建）或在 Docker 容器中运行，用于家庭实验室等。  p&gt; PR 和功能请求非常受欢迎:-) 现在，我还可以使用一些帮助来将其分发到不同的平台，AUR、Flatpak 等。 希望大家喜欢。干杯！   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1banseq/resticity_a_crossplatform_frontend_for_restic/</guid>
+      <pubDate>Sat, 09 Mar 2024 17:59:43 GMT</pubDate>
+    </item>
     <item>
       <title>Recliner-JS：浏览器中的本地 REST CouchDB</title>
       <link>https://www.reddit.com/r/opensource/comments/1bailjf/reclinerjs_a_local_rest_couchdb_in_your_browser/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>您对开源多租户有何看法？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ba04gl/how_do_you_feel_about_opensourcing_multitenancy/</link>
-      <description><![CDATA[看来我们应该作为开源初创公司获得多租户许可，这样我们就不会向一群倒卖软件的人敞开大门如果我们要将其完全打开。   由   提交/u/dittofeed  [链接] [评论]]]></description>
+      <description><![CDATA[看来我们应该作为开源初创公司获得多租户许可，这样我们就不会向一群倒卖软件的人敞开大门如果我们要将其完全打开。   由   提交 /u/dittofeed   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ba04gl/how_do_you_feel_about_opensourcing_multitenancy/</guid>
       <pubDate>Fri, 08 Mar 2024 21:40:20 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，Piotr 这里👋 我创建了一个开源“软件即服务”列表应用程序： 👉 https://openalternative.co 随时提交您自己的或分享一些反馈。 一些背景故事： 我已经收集一些不错的开源软件有一段时间了。主要是为了获得一些灵感并从他们的代码中学习。 上周，我认为将其构建为一个目录网站供任何人使用和贡献会很有趣。经过 2 天的努力构建，OpenAlternative 诞生了。 感谢您的支持！   由   提交 /u/piotrkulpinski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1b9kl7m/a_collection_of_open_source_software_and_apps/</guid>
       <pubDate>Fri, 08 Mar 2024 09:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cadwyn：最复杂的 Python API 版本控制框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1b9jvht/cadwyn_the_most_sophisticated_python_api/</link>
-      <description><![CDATA[我的项目做什么 Cadwyn 允许您支持单一版本的代码，同时自动生成架构和路由旧版本。您可以将 REST API 版本控制封装在小型且独立的“版本更改”中。模块，而您的业务逻辑保持简单并且对版本控制一无所知。 它深受 Stripe 的启发的 API 版本控制方法，但它更加复杂，可以让您实现真正的“零重复”版本。版本控制。 我们最近在 TalkPython 上讨论了它播客。 我正在积极寻找用户、贡献者和任何其他愿意参与该项目的人！  目标受众 Cadwyn 是为 FastAPI 设计的，因此任何 FastAPI 开发人员如果需要版本控制，都可以立即从中受益。然而，Cadwyn 也是一个巨大的案例研究：它的文档包含大量关于如何构建任何类型的 API 版本控制的指南和研究，并且 Cadwyn 本身可以作为在其他 Web 框架或语言中制作它的指南。 比较 不存在任何工具（尤其是开源工具，尤其是 Python 工具）可用于这种质量和可扩展性的 API 版本控制。 GitHub &lt; p&gt;https://github.com/zmievsa/cadwyn   由   提交 /u/Varabe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1b9jvht/cadwyn_the_most_sophisticated_python_api/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:09:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
