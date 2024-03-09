@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 08 Mar 2024 21:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 02:54:07 GMT</lastBuildDate>
     <item>
-      <title>[媒体]QNAP 已就其 NAS 软件产品中的严重漏洞发出警告 [...]</title>
-      <link>https://t.me/hn_summary/78363</link>
-      <description><![CDATA[QNAP 警告其 NAS 设备存在严重身份验证绕过缺陷
-QNAP 已就其 NAS 软件产品中的严重漏洞发出警告，这些漏洞可能允许攻击者访问设备。这些缺陷包括身份验证绕过、命令注入和 SQL 注入，其中一个漏洞允许在未经身份验证的情况下远程执行。我们敦促用户更新到已修补的版本以降低风险。 NAS 设备经常成为数据盗窃和勒索的目标，已知 DeadBolt、Checkmate 和 Qlocker 等勒索软件组织会利用漏洞。保持软件更新并避免将 NAS 设备暴露在互联网上是增强安全性的关键步骤。]]></description>
-      <guid>https://t.me/hn_summary/78363</guid>
-      <pubDate>Fri, 08 Mar 2024 21:07:17 GMT</pubDate>
+      <title>[媒体] 变装演员鲁保罗 (RuPaul) 采取了一项大胆举措，推出了一家“无审查”书店 Allstora，[...]</title>
+      <link>https://t.me/hn_summary/78399</link>
+      <description><![CDATA[无审查书店仅持续三天
+变装演员鲁保罗 (RuPaul) 采取了一项大胆举措，开设了一家“无审查”书店 Allstora，提供广泛的观点。然而，随着自由活动人士意识到这意味着他们无法审查反对意见，争议很快就出现了。尽管最初很兴奋，但书店因出售被视为“恐同”或“反觉醒”的作品而面临强烈反对。最终，无审查承诺被放弃，攻击性书籍被标记或删除。这种情况凸显了言论自由和审查制度之间的界限，审查制度有变得不知足的危险。正如甘地所说：“以眼还眼，会让整个世界都盲目。”]]></description>
+      <guid>https://t.me/hn_summary/78399</guid>
+      <pubDate>Sat, 09 Mar 2024 02:54:07 GMT</pubDate>
     </item>
     <item>
-      <title>在欧洲的压力下，苹果决定恢复 Epic Games 的开发者帐户 [...]</title>
-      <link>https://t.me/hn_summary/78362</link>
-      <description><![CDATA[Apple 将恢复 Epic 的开发者帐户
-在欧盟委员会的压力下，苹果决定恢复 Epic Games 的开发者帐户。此前，由于 Epic 在《堡垒之夜》中整合了自己的支付选项，苹果最初取消了访问权限。 Epic 将此视为《数字市场法案》的胜利，并计划继续将 Epic Games Store 和《堡垒之夜》引入欧洲的 iOS 平台。欧盟委员蒂埃里·布雷顿(Thierry Breton)对这一决定表示赞赏，认为监管机构的影响发挥了作用。 Epic Games 首席执行官 Tim Sweeney 称其为欧盟委员会数字市场法案的“重大胜利”。这种来回凸显了科技巨头和监管机构之间围绕市场竞争正在进行的斗争。]]></description>
-      <guid>https://t.me/hn_summary/78362</guid>
-      <pubDate>Fri, 08 Mar 2024 21:04:13 GMT</pubDate>
+      <title>[媒体] Cyber​​truck 是特斯拉的一个重大失误，埃隆·马斯克承认他们“挖掘了 [...]</title>
+      <link>https://t.me/hn_summary/78398</link>
+      <description><![CDATA[赛博卡车司机羞辱自己是特斯拉未来的最大威胁 
+Cyber​​truck 是特斯拉的一个重大失误，埃隆·马斯克承认，他们在尝试推出这款车时“自掘坟墓”。尽管经过多年的拖延和未能兑现的承诺，这辆卡车终于上街了，但许多早期采用者却引发了争议。从向车辆开枪到将其带到不该去的地方，赛博卡车车主都在公共场合羞辱自己。有些甚至添加了奇怪的美学装饰，例如引擎盖上的扩音器。这些尴尬的时刻让特斯拉很难被认真对待，并可能影响该公司的声誉。 Cyber​​truck 传奇是汽车历史上真正奇异的时刻。]]></description>
+      <guid>https://t.me/hn_summary/78398</guid>
+      <pubDate>Sat, 09 Mar 2024 02:32:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“grepbible”项目是一个命令行工具，旨在搜索[...]中的圣经经文</title>
-      <link>https://t.me/hn_summary/78361</link>
-      <description><![CDATA[显示 HN：grepbible – Grep 圣经
-“grepbible”项目是一个命令行工具，旨在在本地搜索大约 60 种语言的圣经经文，帮助语言学习和圣经分发。它允许用户搜索单独的经文、比较翻译并在本地存储版本以供离线使用。差异化功能包括从不同翻译中搜索并行和交错文本的能力。使用 Python 3.9 或更高版本安装非常简单，用法示例包括查找单节经文、比较翻译和获取多节经文。欢迎贡献，该项目是在 MIT 许可证下开源的。]]></description>
-      <guid>https://t.me/hn_summary/78361</guid>
-      <pubDate>Fri, 08 Mar 2024 20:56:04 GMT</pubDate>
+      <title>[媒体]作者讨论了有状态系统零停机升级的重要性，嗨[...]</title>
+      <link>https://t.me/hn_summary/78397</link>
+      <description><![CDATA[实现有状态系统的零停机升级
+作者讨论了有状态系统零停机升级的重要性，强调了升级软件所涉及的挑战和复杂性。作者从 Erlang/OTP 的热插拔功能中汲取灵感，探索了良好升级支持的关键特征，例如无缝转换、状态迁移、兼容性、原子性和降级。作者深入研究了需要升级的不同类型的软件系统，重点关注客户端-服务器应用程序和分布式系统中的有状态组件。通过将程序表示为状态机，作者提出了一种实用且富有表现力的方法来处理各种系统中的升级，为更顺畅的升级过程提供了见解和潜在的解决方案。 （根据故事文本的 25% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78397</guid>
+      <pubDate>Sat, 09 Mar 2024 02:22:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]爱德曼的一项最新民意调查显示，全球对人工智能的信任度正在迅速下降，只有 [...]</title>
-      <link>https://t.me/hn_summary/78360</link>
-      <description><![CDATA[民意调查显示，公众正在迅速反对人工智能 
-Edelman 的一项最新民意调查显示，全球对人工智能的信任度正在迅速下降，只有 53% 的受访者相信这项技术，低于 2019 年的 61%。在工作不安全感加剧的美国，只有 35% 的受访者信任人工智能，而五年前是50%。民意调查还显示，人们认为人工智能创新管理不善的比例为二比一。尽管硅谷做出了保证，但公众对人工智能的信任正在减弱，专家们呼吁提高透明度和负责任的人工智能实践，以重建信任。随着人工智能在日常生活中变得越来越普遍，公众认知发生了这种转变，引发了人们对工作取代和对技术控制的担忧。]]></description>
-      <guid>https://t.me/hn_summary/78360</guid>
-      <pubDate>Fri, 08 Mar 2024 20:54:00 GMT</pubDate>
+      <title>[媒体]TimeLapze 是一款开源菜单栏应用程序，旨在创建色彩准确的 [...]</title>
+      <link>https://t.me/hn_summary/78396</link>
+      <description><![CDATA[开源屏幕录像机
+TimeLapze 是一款开源菜单栏应用程序，旨在创建色彩准确的屏幕和相机延时摄影，而无需使用大文件。它旨在防止褪色和低质量录制，提供硬件加速、节省空间录制、网络摄像头录制和安全窗口/应用程序选择等功能。该项目可以通过 Homebrew 桶安装或直接下载，欢迎贡献者提出问题或提出拉取请求。该项目的独特之处在于专注于色彩准确性和极简主义，提供轻量级的录制体验。技术堆栈包括 SwiftUI、ScreenCaptureKit、AVFoundation 和 CoreMedia。]]></description>
+      <guid>https://t.me/hn_summary/78396</guid>
+      <pubDate>Sat, 09 Mar 2024 02:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>在 Swift 6.0 中，参数包简化了对抽象 [...] 数量的泛型的使用。</title>
-      <link>https://t.me/hn_summary/78359</link>
-      <description><![CDATA[在 Swift 6.0 中迭代参数包
-在 Swift 6.0 中，参数包简化了对参数数量进行抽象的泛型的使用，从而消除了对重载函数的需要。包迭代可以更轻松地操作参数包，从而提高代码的可读性和效率。包迭代的引入简化了以前需要复杂实现的任务，例如比较元组或迭代数组。通过包迭代，检查空数组或评估成功元素等功能变得简单。 Swift 开发人员可以利用包迭代来增强代码并轻松简化复杂的操作。 （根据 80% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/78359</guid>
-      <pubDate>Fri, 08 Mar 2024 20:51:56 GMT</pubDate>
+      <title>[媒体] 嘿嘿！</title>
+      <link>https://t.me/hn_summary/78395</link>
+      <description><![CDATA[Head 在 Git 中的工作原理
+嘿！我最近在 Mastodon 上进行了一项民意调查，调查人们对理解 HEAD 在 Git 中的工作方式的信心程度，结果非常令人惊讶。事实证明，HEAD 实际上比我最初想象的更复杂，具有多种含义和用途。从文件 .git/HEAD 到修订参数（如 git show HEAD），有很多东西需要解压。我们不要忘记与 HEAD 合并冲突期间可能出现的混乱。总的来说，Git 中的 HEAD 可能有点难以掌握，但希望这个细分能够让我们了解它的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/78395</guid>
+      <pubDate>Sat, 09 Mar 2024 02:13:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Underjord 是一个小型 Elixir 咨询团队，深入研究 Elixir Web 框架的世界 [...]</title>
-      <link>https://t.me/hn_summary/78358</link>
-      <description><![CDATA[拆开灵丹妙药：凤凰
-Underjord 是一个小型 Elixir 咨询团队，深入研究 Elixir Web 框架的世界，重点关注 Phoenix。与缺乏首选 Web 框架的 Erlang 不同，Elixir 拥有 Phoenix 为其主要参与者。 Phoenix 通常被称为“灵丹妙药的 Rails”，它通过其 Plug 模块提供了一种轻量级替代方案，用于处理 Web 请求和响应。虽然 Phoenix 不像 Django 或 Rails 那样固执己见，但它提供了良好的原语，并通过使用宏避免了对“魔法”的依赖。该框架还包括用于数据库功能的 Ecto 以及用于连接控制器和数据层的 Contexts 等功能，这在用户中引发了一些争议。总体而言，Phoenix 的分层设计和灵活性使其成为 Web 开发的多功能选择。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/78358</guid>
-      <pubDate>Fri, 08 Mar 2024 20:50:52 GMT</pubDate>
+      <title>[媒体] 一架从旧金山国际机场出发的联合航空航班轮胎脱落 [...]</title>
+      <link>https://t.me/hn_summary/78394</link>
+      <description><![CDATA[从 SFO 起飞的波音 777 United 航班上轮胎掉落，压坏了几辆车&lt; /a&gt;
+一架从旧金山国际机场起飞的联合航空航班的轮胎掉落，导致员工停车场的几辆车受损。该航班已改道至洛杉矶国际机场并安全着陆，机组人员正在安排一架新飞机将乘客送往大阪。尽管发生了戏剧性的事件，但没有人员受伤的报道。航空专家再次保证，飞机丢失轮胎的情况很少见，并不表明存在更大的安全问题。美国联邦航空管理局（FAA）将对这一事件进行调查。美国联合航空对飞行员、乘务员和地面团队在处理局势方面的专业精神表示感谢。]]></description>
+      <guid>https://t.me/hn_summary/78394</guid>
+      <pubDate>Sat, 09 Mar 2024 01:24:55 GMT</pubDate>
     </item>
     <item>
-      <title>《纽约时报》正在通过合法手段打击 Wordle 克隆，目标是 [...]</title>
-      <link>https://t.me/hn_summary/78357</link>
-      <description><![CDATA[《纽约时报》正在通过合法手段打击 Wordle 克隆 
-《纽约时报》正在通过法律手段打击 Wordle 克隆，目标是模仿流行单词拼图名称和游戏玩法的游戏。于 2022 年收购 Wordle 的《泰晤士报》已针对该游戏的各个版本发布了 DMCA 通知，包括 Reactle 以及非官方的韩语和波斯尼亚语版本。由于《纽约时报》声称拥有 Wordle 的名称和受版权保护的元素，因此开发人员面临着挑战。令人惊讶的是，一些衍生产品被认为与 Wordle 有很大不同，引发了知识产权方面的争议。 《纽约时报》为其行为进行了辩护，称其正在保护其商标和游戏玩法。此外，Wordle 本身也因与 20 世纪 80 年代的游戏节目 Lingo 相似而受到批评。]]></description>
-      <guid>https://t.me/hn_summary/78357</guid>
-      <pubDate>Fri, 08 Mar 2024 20:41:16 GMT</pubDate>
+      <title>[媒体] 普利树</title>
+      <link>https://t.me/hn_summary/78393</link>
+      <description><![CDATA[Prolly树
+“Prolly Trees”是一种与 B 树相关的数据结构，由 Noms 的创建者创造。它们提供类似 B 树的性能、快速差异和结构共享，使其成为版本控制数据库的理想选择。 Prolly Trees 的神奇之处在于其修改过程，最大限度地减少内容地址更改，从而实现快速差异和结构共享。历史独立性可确保无论操作顺序如何，树结构都相同。计算差异的算法根据变化的大小而不是树的大小进行缩放，从而使其高效。 Prolly Trees 存储在内容寻址的块存储中，允许跨版本的块结构共享。本文深入探讨了 Dolt 实施 Prolly Trees 的技术细节和改进。 （根据故事文本的 65% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/78393</guid>
+      <pubDate>Sat, 09 Mar 2024 01:20:49 GMT</pubDate>
     </item>
     <item>
-      <title>BC 省责令 Uber Canada 向一名轮椅使用者支付 35,000 加元</title>
-      <link>https://t.me/hn_summary/78356</link>
-      <description><![CDATA[Uber 必须向轮椅使用者支付 35,000 美元，提供无障碍乘车服务 
-BC 省责令 Uber Canada 向一名轮椅使用者支付 35,000 加元人权法庭针对基于残疾的歧视。该裁决还要求 Uber 为残疾人士提供无障碍乘车服务。这标志着加拿大的打车应用程序首次受到人权法庭的审判。 Uber 辩称，它可以豁免在 BC 省提供无障碍乘车服务。由于法律允许收取“每次旅行”费用，而不是为身体残疾的人提供便利，但法庭驳回了这一点。该决定强调了为残疾人士提供无障碍交通的重要性。]]></description>
-      <guid>https://t.me/hn_summary/78356</guid>
-      <pubDate>Fri, 08 Mar 2024 20:40:12 GMT</pubDate>
+      <title>[媒体] 考虑解锁设备的引导加载程序吗？</title>
+      <link>https://t.me/hn_summary/78392</link>
+      <description><![CDATA[摩托罗拉的法律条款声称剥夺所有者出售设备的权利
+考虑解锁设备的引导加载程序吗？在此之前，请确保您了解所涉及的风险。解锁设备后，您可能会丢失重要功能、保修失效，甚至对自己造成伤害。摩托罗拉希望确保您在继续操作之前充分了解后果。如果您仍然感兴趣，请准备好接受所有影响，包括失去保修范围。在解锁您的设备之前，请务必仔细阅读并同意法律条款。如果您不确定所提到的任何风险，最好重新考虑解锁设备的引导加载程序。]]></description>
+      <guid>https://t.me/hn_summary/78392</guid>
+      <pubDate>Sat, 09 Mar 2024 01:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]谷歌旗舰智能手机 Pixel 8 面临争议，谷歌透露 [...]</title>
-      <link>https://t.me/hn_summary/78355</link>
-      <description><![CDATA[Google 表示专注于 AI 的 Pixel 8 无法运行其最新版本智能手机AI模型
-谷歌的旗舰智能手机 Pixel 8 面临争议，谷歌透露其最新的人工智能模型无法在该设备上运行。尽管 Pixel 8 被宣传为访问 Google AI 的最佳平台，但较小的型号缺乏支持最新 AI 功能的能力。另一方面，Pixel 8 Pro 可以运行新的 AI 模型，导致消费者感到困惑和失望。这一意外的限制引发了人们对 Google 在发布时的沟通以及 Pixel 8 上人工智能功能的未来的质疑。]]></description>
-      <guid>https://t.me/hn_summary/78355</guid>
-      <pubDate>Fri, 08 Mar 2024 20:30:06 GMT</pubDate>
+      <title>[媒体]为了遵守《数字市场法》，苹果现在允许欧盟用户 [...]</title>
+      <link>https://t.me/hn_summary/78391</link>
+      <description><![CDATA[如果 iPhone 不在，苹果将切断第 3 方应用商店更新欧盟一个月
+为了遵守《数字市场法》，Apple 现在允许欧盟用户在 iOS 17.4 或更高版本上访问替代应用市场。不过，有一个问题 - 您的 Apple ID 必须设置为欧盟国家/地区，并且您必须身在欧盟才能安装这些应用程序。如果您离开欧盟，您仍可以在最多 30 天内使用其他市场中之前安装的应用程序。这项有争议的政策意味着，如果您的 iPhone 一个月不在欧盟境内，您将无法访问第三方应用商店的更新。苹果声称这是为了通过不收集设备位置数据来保护用户隐私。]]></description>
+      <guid>https://t.me/hn_summary/78391</guid>
+      <pubDate>Sat, 09 Mar 2024 01:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天标志着 Downpour 的发布，这是我一直孜孜不倦地工作的游戏创作工具 [...]</title>
-      <link>https://t.me/hn_summary/78354</link>
-      <description><![CDATA[倾盆大雨来了
-今天标志着 Downpour 的发布，这是我自 2022 年离开 Niantic 以来一直孜孜不倦地开发的游戏创作工具。Downpour 旨在通过专注于选择、文本和图像来简化游戏制作过程，所有这些都可以在手机上访问。该工具是跨平台的，启动速度快，甚至无需帐户即可共享游戏。通过包含教程以及将游戏导出到网络浏览器的功能，Downpour 为创建互动游戏提供了独特且用户友好的体验。和我一起使用 Downpour 制作快速、有趣的游戏，现已推出。]]></description>
-      <guid>https://t.me/hn_summary/78354</guid>
-      <pubDate>Fri, 08 Mar 2024 20:12:58 GMT</pubDate>
+      <title>[媒体]在“对后悔的恐惧如何影响我们的决定”中，杰弗里·恩格尔斯坦探讨了心理 [...]</title>
+      <link>https://t.me/hn_summary/78390</link>
+      <description><![CDATA[害怕后悔会影响我们的决定
+在《对后悔的恐惧如何影响我们的决定》一书中，杰弗里·恩格尔斯坦通过一个简单的骰子游戏探索了后悔的心理。他讨论了避免后悔如何成为人类行为的主要动机，以及禀赋效应和后悔最小化如何在决策中发挥作用。恩格尔斯坦还深入研究了一些实验，这些实验表明，即使提供更大的奖励，人们也不愿意改变选择，这凸显了损失厌恶的影响。他对坚持第一直觉的常见建议提出了挑战，他认为这可能并不总是能带来正确的答案，但如果人们错了，可以让他们感觉更好。]]></description>
+      <guid>https://t.me/hn_summary/78390</guid>
+      <pubDate>Sat, 09 Mar 2024 00:59:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
