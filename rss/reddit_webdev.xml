@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Mar 2024 09:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 12:13:07 GMT</lastBuildDate>
+    <item>
+      <title>我根据我找到的模板创建了我的作品集网站，该网站仍在建设中。请随时让我知道我应该更改、改进和完全删除哪些内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb7dey/i_created_my_portfolio_site_still_under/</link>
+      <description><![CDATA[这是网站，它是静态的，尚未完成：https://gdimit01.github.io/updated-portfolio/ 如果不允许 ofc，则删除。我只是想在这里分享它，以获取一些见解和反馈，如果大家同意的话。 我喜欢青色，感觉色彩缤纷但清爽。除此之外，我还没有做太多事情。我制作了一些框，看起来当您将鼠标悬停在服务上时它们会弹出。就我个人而言，我认为这是一个很好的做法。另外，我在“关于我”中简单地生成了一个 AI 图像，以便它可以填充该图像的位置，我是否应该将其删除？ 任何东西，我都愿意接受。顺便说一句，它是用 JS、HTML、CSS 和 SCSS 创建的。  ​   由   提交 /u/Slight-Rent-883   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb7dey/i_created_my_portfolio_site_still_under/</guid>
+      <pubDate>Sun, 10 Mar 2024 10:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>256 字节代码的短片</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb6wxx/a_short_film_in_256_bytes_of_code/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb6wxx/a_short_film_in_256_bytes_of_code/</guid>
+      <pubDate>Sun, 10 Mar 2024 10:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有构建网站框架的人工智能应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bb65b6/are_there_any_ai_apps_that_build_website/</link>
+      <description><![CDATA[有没有构建网站框架的人工智能应用程序？ 我只找到构建网站并想要的应用程序向您收取托管费用等。 我只需要灵感，然后我可以自己构建它。 有任何应用程序吗？或者有人有建议吗？ 感谢您的阅读！   由   提交/u/Farting_Owls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bb65b6/are_there_any_ai_apps_that_build_website/</guid>
+      <pubDate>Sun, 10 Mar 2024 09:14:12 GMT</pubDate>
+    </item>
     <item>
       <title>尝试建立一个网站，用户可以在其中编写 webd 代码并在其上运行测试，类似于此网站。我在哪里/如何了解有关为“运行测试”按钮创建后端的更多信息。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bb5cv5/trying_to_build_a_website_where_users_can_write/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/deerack_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bawsrp/i_made_a_website_to_help_plan_your_movie_nights/</guid>
       <pubDate>Sun, 10 Mar 2024 00:26:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的域名转移到 Bluehost，2 天后 DNS 仍在传播？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bawrm2/transferred_my_domain_to_bluehost_dns_is_still/</link>
-      <description><![CDATA[在 Google 宣布退出注册商业务之前，我通过 Google 注册了一个域名。我不想与 GoDaddy 做生意，所以我只是将其转移到 Bluehost。传输过程顺利，但现在已经超过 48 小时了，我的网站仍然无法访问。 DNS 检查器显示它在世界上的一些地方可以解析，但对我来说不行。 这正常吗？我以前做过一些域名转移，但从未让它们花费超过几个小时的时间来传播，而且我读到的所有内容都说它可能需要“最多”10 分钟。 48小时。 Bluehost 客户支持只是一直告诉我它正在进行中，并且在完成之前不会再做任何事情。   由   提交 /u/muchmaligned   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bawrm2/transferred_my_domain_to_bluehost_dns_is_still/</guid>
-      <pubDate>Sun, 10 Mar 2024 00:25:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了一个自动化的个人网站生成器（简历解析+GPT集成）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bawmpl/created_an_automated_personal_website_generator/</link>
-      <description><![CDATA[   /u/bustingbuster1  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bawmpl/created_an_automated_personal_website_generator/</guid>
-      <pubDate>Sun, 10 Mar 2024 00:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>引领前端的未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1baw6ne/navigating_the_future_of_frontend/</link>
-      <description><![CDATA[    /u/_remrem   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1baw6ne/navigating_the_future_of_frontend/</guid>
-      <pubDate>Sat, 09 Mar 2024 23:58:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
