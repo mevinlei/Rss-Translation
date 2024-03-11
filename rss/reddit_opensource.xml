@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 12:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 15:10:06 GMT</lastBuildDate>
+    <item>
+      <title>是否有界面类似于 iWork 的开源办公套件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/</link>
+      <description><![CDATA[LibreOffice 在界面方面很大程度上尝试复制 MS Word。它有一些可用的界面选择，但与 iWork 套件（Pages、Numbers、Keynote）没有任何相似之处。是否有开源办公套件或 LibreOffice 模式允许以这种方式更改界面？   由   提交/u/Qwert-4  /u/Qwert-4  reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bc3nfu/is_there_an_opensource_office_suite_with_an/</guid>
+      <pubDate>Mon, 11 Mar 2024 13:50:22 GMT</pubDate>
+    </item>
     <item>
       <title>寻找CCTV软件来替代SwanView</title>
       <link>https://www.reddit.com/r/opensource/comments/1bc0u43/looking_for_cctv_software_to_replace_swanview/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[而不是使用付费服务？ 我想扩展到每天 40-50 次聊天。 &lt; p&gt;我想使用开源，因为这样我就有能力控制聊天的隐私。   由   提交/u/igaloly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bawe5u/is_it_crazy_to_use_open_source_self_hosted_video/</guid>
       <pubDate>Sun, 10 Mar 2024 00:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的项目寻求反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</link>
-      <description><![CDATA[r/dotnet 社区大家好！&lt; /p&gt; 我想分享一个我长期以来一直热衷的项目，该项目完全用 .NET 构建。它称为 musoq，允许在不同的数据源上使用 SQL 语法。我很乐意邀请​​您访问我的项目的 GitHub 个人资料以进一步探索它。我们将非常感谢您的反馈和建议。最近，我又采取了一步来降低进入门槛，准备了一个 CLI 工具来轻松使用该项目。 在我继续改进该项目时，您对该项目的指导、想法和想法对我来说非常宝贵。 。非常感谢您抽出宝贵的时间，即使只是阅读这篇文章:)   由   提交 /u/Puchaczov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1barbdz/seeking_feedback_for_my_project/</guid>
-      <pubDate>Sat, 09 Mar 2024 20:28:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
