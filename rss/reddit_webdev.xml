@@ -4,9 +4,37 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Mar 2024 00:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 03:10:31 GMT</lastBuildDate>
     <item>
-      <title>怎样做一个这样的网站？</title>
+      <title>如何从 PERN 应用程序的联系页面发送电子邮件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</link>
+      <description><![CDATA[我参加了一个教授 PERN 堆栈的训练营，现在正在将我的个人资料页面放在一起（哇！）。 对于联系页面，我制作了一个表格供用户联系我，我希望这些消息发送到我的电子邮件。是否有 NPM 库或任何我可以用来做到这一点的东西？我找到了nodemailer，但希望不需要通过gmail 来执行此操作。   由   提交/u/sad_throaway13579   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bcl4gi/how_to_send_email_from_pern_apps_contact_page/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>电容器社区/条纹 vs @revenuecat/购买电容器 vs glassfy</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</link>
+      <description><![CDATA[我目前在使用这 3 种之一之间陷入困境，我已经使用 Ionic、Angular、Capacitor 大约 4 年了，但我从未实现过付款苹果/安卓。我严格来说只需要 3 个订阅。然而我不知道哪一个是最好的选择。如果必须的话，我个人不想接触任何后端（C#）。更愿意使用 API。   由   提交 /u/CEOTRAMMELL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bckv6k/capacitorcommunitystripe_vs/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:34:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>对所有项目使用相同的域/DNS/电子邮件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bckfjq/use_the_same_domaindnsemail_for_all_projects/</link>
+      <description><![CDATA[我喜欢与我的副项目和其他内容的域设置保持一致。使用此方法的过去 3-5 年中，任何这些服务均出现零问题。 域名注册商：Namecheap DNS 提供商：Route53 网站：主要是 Carrd 和 Cloudflare 页面。 电子邮件 - 事务：Mailgun。 电子邮件 - 个人：使用 namecheap 的 catch-all，这样我可以接收但不能发送。 &lt; p&gt;我想最大的好处是我不再把大脑周期花在这上面，而是专注于我正在尝试进行的实验:)我想，试图摆脱自己的方式......&lt; /p&gt; 你们都有一个反复使用的标准设置？ 另外，您会更改什么？  &amp; #32；由   提交 /u/barbacoa_to_goa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bckfjq/use_the_same_domaindnsemail_for_all_projects/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>WSL2 使用 Stripe API + 推送到 git 时速度很慢。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</link>
+      <description><![CDATA[嘿。我最近从 Mac 切换到 Windows，并且一直在使用 WSL2 - Ubuntu。除了我在标题中提到的以外，一切都很完美。我经常使用 Stripe API，对于像 stripe.createSubscription 这样的简单方法，可能需要大约 6 秒的时间。它可能看起来不是很多，但是对于如此简单的事情，当我必须不断地测试东西时，我不希望这种延迟。 此外，当推送到分支时，它可以在 1GB 连接上大约需要 10 秒。以前在 Mac 上，所有这些小事情都是即时的。 我没有挂载 Windows 文件夹。我的所有工作都直接在 Ubuntu 系统中进行。 这里还有其他人使用 WSL2 吗？如果是的话，你有没有经历过和我一样的事情？有解决办法吗？   由   提交/u/artFlix  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bckbl5/wsl2_is_slow_working_with_stripe_api_pushing_to/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>怎样做一个这样的网站呢？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</link>
       <description><![CDATA[       由   提交/u/evessbby  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bciyhq/how_to_do_a_website_like_this/</guid>
@@ -15,7 +43,7 @@
     <item>
       <title>我需要职业建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</link>
-      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交 /u/Constant_Ad7811   [链接] [评论]]]></description>
+      <description><![CDATA[我已经在另一个 Reddit 子版块上发布了同样的内容，希望得到回复，但主要希望它是正确的，因此我感到内疚，因此被指控。 也许你们可以指导我找到正确的人？ 但我真的非常渴望成为一名前端开发人员。我今年 19 岁，从 15 岁起就开始编写代码。我制作了自己的社交媒体网站，由于我的笔记本电脑坏了，该网站从未上线，我为不同的事情编写了各种程序。我目前正在编写一个程序来查找“每个人都知道”的内容。或“ekt”  就我的技能和知识而言，我从未真正获得过这个领域的资格。这只是我通过傻瓜书和 w3school 页面自学的东西；也是我继父教的。 我必须有一定的资格才能进入这个领域吗？进入这个领域有多难？我进入这个领域的第一步是什么？ 请记住，我有简历和求职信，所以我已经成功了一半（笑）。 我只是想在这里问一下这里的其他开发人员？如果没有，请引导我到其他 Reddit 子版块🤦🏼‍♂️🤦🏼‍♂️🤦🏼‍♂️   由   提交/u/Constant_Ad7811   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcimge/i_need_career_advice/</guid>
       <pubDate>Mon, 11 Mar 2024 23:54:41 GMT</pubDate>
     </item>
@@ -25,13 +53,6 @@
       <description><![CDATA[这可能是/r/seo&lt;的问题/a&gt; 但我正在做我的第一个 Shopify 项目，这有点让我生气，因为你几乎无法控制 URL 结构。 就像我们必须将 /blogs/news 作为博客一样在我看来，这是愚蠢的。我们没有多个博客，博客后面的 /news 是多余且不准确的。这不是什么新闻，而且我们只有一个博客。 我们还必须在网址中包含 /collections/ 和 /products/。这让我很烦恼。 除了花几分钟修改它之外，我没有做太多编码，但我听说有些开发人员根据自己的喜好调整了 url 结构，而且我我想知道是否值得努力尝试。如果有可能的话。   由   提交/u/Impossible_Map_2355   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bcijro/is_it_worth_messing_with_the_url_structure_of/</guid>
       <pubDate>Mon, 11 Mar 2024 23:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修复初始加载时图像跳转？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcifzv/how_to_fix_image_jump_on_initial_load/</link>
-      <description><![CDATA[我是一名新手，正在为我的作品集开发个人项目，仅使用 html、css、javascript。我有一个图像，大约一秒钟就会渲染得非常大，并变成正确的尺寸。有没有什么办法解决这一问题？我尝试添加最大宽度和我能找到的任何其他解决方案，但它无法解决。添加宽度和高度属性也没有帮助。如何在保持图像响应能力的同时实现这一目标？任何帮助，将不胜感激！    由   提交 /u/Unlucky-Tiger3006    reddit.com/r/webdev/comments/1bcifzv/how_to_fix_image_jump_on_initial_load/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcifzv/how_to_fix_image_jump_on_initial_load/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:47:09 GMT</pubDate>
     </item>
     <item>
       <title>免费托管 Google Firebase？</title>
@@ -50,7 +71,7 @@
     <item>
       <title>如何以及在何处存储 Spotify API 访问令牌？</title>
       <link>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</link>
-      <description><![CDATA[我正在创建一个使用 Spotify Web API 的网站，该网站为您提供所有 API 请求所需的访问令牌。我的问题是如何存储这个令牌？我将其存储在服务器上还是客户端上？那么在哪里呢？感谢任何帮助。   由   提交/u/jagtrordumenar   [链接] [评论]]]></description>
+      <description><![CDATA[我正在制作一个使用 Spotify Web API 的网站，该网站为您提供所有 API 请求所需的访问令牌。我的问题是如何存储这个令牌？我将其存储在服务器上还是客户端上？那么在哪里呢？感谢任何帮助。   由   提交/u/jagtrordumenar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bchhzm/how_and_where_to_store_spotify_api_access_token/</guid>
       <pubDate>Mon, 11 Mar 2024 23:08:12 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/dan55907  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bce7sf/how_bad_is_this/</guid>
       <pubDate>Mon, 11 Mar 2024 21:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以举办纹身店的图片库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcdry8/where_to_host_image_gallery_for_a_tattoo_shop/</link>
-      <description><![CDATA[所以我正在制作一个包含管理仪表板的纹身店网站。这样他们就可以编辑他们的画廊。  您将在哪里托管图像？这些图片大约有 250 张，预计网站每日流量较低。    由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcdry8/where_to_host_image_gallery_for_a_tattoo_shop/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读和理解开源代码的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcd4j7/tips_for_reading_and_understanding_open_source/</link>
-      <description><![CDATA[大家好，我想通过阅读和贡献开源来提高我的编码技能。我会利用你们的一些帮助来阅读和理解开源代码库。    由   提交/u/sovereignchris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcd4j7/tips_for_reading_and_understanding_open_source/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>大公司是否使用公共登录页面作为管理面板/页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bcd3aq/does_big_company_use_public_login_page_for_admin/</link>
-      <description><![CDATA[当我看到Crunchyroll的CMS登录页面后，我问自己一个问题，大公司如何保护管理页面？还有，你平时做什么？  对于那些好奇的人，我正在谈论的页面是 此    由   提交/u/DragoSpiro98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bcd3aq/does_big_company_use_public_login_page_for_admin/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:16:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
