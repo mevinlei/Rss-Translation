@@ -4,7 +4,28 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Wed, 13 Mar 2024 12:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:11:12 GMT</lastBuildDate>
+    <item>
+      <title>谷歌人工智能通过观看开放世界视频游戏来学习玩它们</title>
+      <link>https://www.newscientist.com/article/2422101-google-ai-learns-to-play-open-world-video-games-by-watching-them/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[谷歌 DeepMind 的人工智能可以通过观看屏幕视频并控制键盘和鼠标，像人类一样玩九种开放世界视频游戏]]></description>
+      <guid>https://www.newscientist.com/article/2422101-google-ai-learns-to-play-open-world-video-games-by-watching-them/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 13 Mar 2024 14:15:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>木卫二的海底可能无法穿透且不适合生命生存</title>
+      <link>https://www.newscientist.com/article/2421948-europas-seafloor-may-be-impenetrable-and-inhospitable-to-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[人们认为木星冰冷的卫星欧罗巴的海底为其海洋提供能量和营养，但事实证明这可能是不可能的]]></description>
+      <guid>https://www.newscientist.com/article/2421948-europas-seafloor-may-be-impenetrable-and-inhospitable-to-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 13 Mar 2024 14:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starship 发射 3：SpaceX 的发射时间是什么时候以及会发生什么？</title>
+      <link>https://www.newscientist.com/article/2421987-starship-launch-3-what-time-is-the-spacex-flight-and-what-to-expect/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[继两次失败的任务后，埃隆·马斯克 (Elon Musk) 的 SpaceX 正准备于 3 月 14 日进行其大型 Starship 火箭的第三次发射。公司希望什么，我们可以期待什么？]]></description>
+      <guid>https://www.newscientist.com/article/2421987-starship-launch-3-what-time-is-the-spacex-flight-and-what-to-expect/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 13 Mar 2024 12:44:27 GMT</pubDate>
+    </item>
     <item>
       <title>重新思考空间和时间可以让我们消除暗物质</title>
       <link>https://www.newscientist.com/article/2422011-rethinking-space-and-time-could-let-us-do-away-with-dark-matter/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -43,7 +64,7 @@
     <item>
       <title>美国为何要封杀TikTok？</title>
       <link>https://www.newscientist.com/article/2421970-why-does-the-us-want-to-ban-tiktok/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[美国众议院正在对一项法案进行投票，该法案要求 TikTok 的母公司字节跳动出售该应用程序，否则将面临全国禁令的风险]]></description>
+      <description><![CDATA[美国众议院正在对一项法案进行投票，该法案将要求 TikTok 的母公司字节跳动出售该应用程序，否则将面临全国禁令的风险]]></description>
       <guid>https://www.newscientist.com/article/2421970-why-does-the-us-want-to-ban-tiktok/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 12 Mar 2024 21:15:14 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[对深海钻芯的分析表明，火星可能有足够的引力影响，以 240 万年的周期移动地球海洋内的沉积物]]></description>
       <guid>https://www.newscientist.com/article/2421730-marss-gravitational-pull-may-be-strong-enough-to-stir-earths-oceans/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 12 Mar 2024 10:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能可以取代所有用泰勒·斯威夫特翻唱过的音乐吗？</title>
-      <link>https://www.newscientist.com/article/2418740-could-an-ai-replace-all-music-ever-recorded-with-taylor-swift-covers/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[研究人员警告说，一项将所有音乐都替换为人工智能生成的“泰勒版本”的思想实验应该会促使我们找到保护数据免受人工智能损坏的方法]]></description>
-      <guid>https://www.newscientist.com/article/2418740-could-an-ai-replace-all-music-ever-recorded-with-taylor-swift-covers/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Tue, 12 Mar 2024 08:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>火星的卫星可能是在冰冷的行星碰撞中形成的</title>
-      <link>https://www.newscientist.com/article/2421706-the-moons-of-mars-may-have-been-formed-in-an-icy-planetary-collision/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[火星卫星火卫一和火卫二的起源长期以来一直是个谜，但它们可能是在一颗冰冷的彗星状物体撞击这颗红色星球时形成的]]></description>
-      <guid>https://www.newscientist.com/article/2421706-the-moons-of-mars-may-have-been-formed-in-an-icy-planetary-collision/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Mon, 11 Mar 2024 20:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们越来越担心南极海冰发生惊人的变化</title>
-      <link>https://www.newscientist.com/article/2421376-there-are-growing-fears-of-an-alarming-shift-in-antarctic-sea-ice/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[南极海冰覆盖连续第三年远低于平均水平，但研究人员不确定这是气候变化驱动的永久性变化还是自然波动的一部分]]></description>
-      <guid>https://www.newscientist.com/article/2421376-there-are-growing-fears-of-an-alarming-shift-in-antarctic-sea-ice/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Mon, 11 Mar 2024 19:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
