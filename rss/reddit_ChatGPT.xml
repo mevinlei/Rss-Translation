@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。</description>
-    <lastBuildDate>Thu, 14 Mar 2024 18:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 21:08:22 GMT</lastBuildDate>
     <item>
-      <title>Claude 3 刚刚超越 GPT4 和 Gemini 1.5 了吗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1berphj/did_claude_3_just_surpass_gpt4_and_gemini_15/</link>
-      <description><![CDATA[       由   提交 /u/CapableBad   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1berphj/did_claude_3_just_surpass_gpt4_and_gemini_15/</guid>
-      <pubDate>Thu, 14 Mar 2024 18:08:14 GMT</pubDate>
+      <title>您可以在 ChatGPT plus 上上传屏幕截图和 Excel 文件或 Python/R 文件吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevz8l/are_you_able_to_upload_screenshots_and_excel/</link>
+      <description><![CDATA[自去年二月底/三月初左右以来，我不得不使用常规的免费版本，我对 GPT-4 模型感到好奇，尽管它费用为 20 美元（约合每月 30 加元）。在常规的免费版本中，您无法上传任何内容，一切都是通过文本完成的，如果没有图片或代码的特定区域，有时很难向人工智能解释。 但是想知道，在如果我需要在 Excel 电子表格（.xls 或 .csv 文件）上显示特定内容，并基于此在 Python 或 R 上进行一些编码，我可以将其作为附件上传吗，例如在电子邮件中附加 .csv 或 .xls ？ 此外，我主要使用 Python 和 R 进行 ChatGPT，并且我正在寻找数据分析师职位的工作。它的增强版本可以从本地硬盘上的 Python 获取 .ipynb 或 .py 文件（甚至是 R 中的 .rmd 文件）并执行代码并解决任何系统或运行时错误吗？ （我在编码时得到了很多）。在免费版本中，在最终获得正确的代码之前犯了很多错误（我必须根据自己的需要进行修改）。   由   提交 /u/Anonymous_HC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevz8l/are_you_able_to_upload_screenshots_and_excel/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT 寻找现实生活中的女朋友的最佳秘诀是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1berph1/what_are_your_best_tips_for_using_chatgpt_to/</link>
-      <description><![CDATA[ 由   提交 /u/lovemyAIgirlfriend   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1berph1/what_are_your_best_tips_for_using_chatgpt_to/</guid>
-      <pubDate>Thu, 14 Mar 2024 18:08:14 GMT</pubDate>
+      <title>聊天 GPT4 慢得令人痛苦？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevygg/chat_gpt4_painfully_slow/</link>
+      <description><![CDATA[似乎我的 gpt 有时需要整整一分钟，是只有我这样还是这是普遍现象？它使用了我 100% 的 cpu，甚至有时会冻结，所以我必须手动刷新页面。有时它会给我一个完整的遮阳篷，我会关闭它，当我回到它时，它会告诉我再次重新生成响应，即使您之前的答案已经填写了。 Claude3 最适合吗现在编码？我什至想尝试一下 Gemini，因为他们免费提供 2 个月的服务。 我以前只用 chatgpt 就可以完成工作，但现在看来我只是在兜圈子，答案越来越多而且更简单。   由   提交/u/brusslipy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevygg/chat_gpt4_painfully_slow/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>这是 ChatGPT-4 版本的锻炼指南。不要跳过 Spup 日！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ber5i9/heres_chatgpt4s_version_of_workout_guides_dont/</link>
-      <description><![CDATA[       由   提交 /u/TheIndulgery   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ber5i9/heres_chatgpt4s_version_of_workout_guides_dont/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:45:25 GMT</pubDate>
+      <title>构建 GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevrsu/building_a_gpt/</link>
+      <description><![CDATA[大家好， ​ 我想构建一个可以搜索不同内容的 GPT法规、准则和标准，以确定哪些违规行为属于问题范围。因此，我们的想法是上传法规、规范、标准，并让人工智能搜索所有文本，以找到每个文本中与违规行为相关的相关部分。 例如：灭火器是安装时应确保灭火器顶部距地面超过 5 英尺。它安装在距地板 66 英寸的位置。  问题：根据国家消防协会的规定，高度不能超过 55 英寸，并且它是国家消防规范 6.2 部分的一部分。 1.1 以及加拿大 OSH 法规 17.3。 问题：我尝试通过链接在线代码并尝试将 pdf 转换为文本来构建 AI，以便 GPT 可以读取其中的一些代码长屁股规定。但问题是 GPT 的所有文本都有错误，有时还会引用错误的区域。例如其安装位置的危险防护，而不是选择按照 NFPA 10“便携式灭火器”安装。  我想我不知道如何训练它引用正确的部分。  有人有关于如何创建数据库供人工智能搜索的良好资源吗？还是我应该使用不同的人工智能平台？ ​ 谢谢你   由   提交/u/crakkus11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevrsu/building_a_gpt/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:54:41 GMT</pubDate>
     </item>
     <item>
-      <title>卡在这个屏幕上好几个小时了，有人能解决这个问题吗？这每天都发生在我身上</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beqr89/stuck_on_this_screen_for_hours_anyone_have_a_fix/</link>
-      <description><![CDATA[    /u/Suitable-Ad-8598   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beqr89/stuck_on_this_screen_for_hours_anyone_have_a_fix/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:29:00 GMT</pubDate>
+      <title>构建 GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevrsp/building_a_gpt/</link>
+      <description><![CDATA[大家好， ​ 我想构建一个可以搜索不同内容的 GPT法规、准则和标准，以确定哪些违规行为属于问题范围。因此，我们的想法是上传法规、规范、标准，并让人工智能搜索所有文本，以找到每个文本中与违规行为相关的相关部分。 例如：灭火器是安装时应确保灭火器顶部距地面超过 5 英尺。它安装在距地板 66 英寸的位置。  问题：根据国家消防协会的规定，高度不能超过 55 英寸，并且它是国家消防规范 6.2 部分的一部分。 1.1 以及加拿大 OSH 法规 17.3。 问题：我尝试通过链接在线代码并尝试将 pdf 转换为文本来构建 AI，以便 GPT 可以读取其中的一些代码长屁股规定。但问题是 GPT 的所有文本都有错误，有时还会引用错误的区域。例如其安装位置的危险防护，而不是选择按照 NFPA 10“便携式灭火器”安装。  我想我不知道如何训练它引用正确的部分。  有人有关于如何创建数据库供人工智能搜索的良好资源吗？还是我应该使用不同的人工智能平台？ ​ 谢谢你   由   提交/u/crakkus11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevrsp/building_a_gpt/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>iOS/Android 版 Copilot Pro 免费使用 1 个月</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beqni5/free_copilot_pro_for_1_month_on_iosandroid/</link>
-      <description><![CDATA[       由   提交/u/felichen4  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beqni5/free_copilot_pro_for_1_month_on_iosandroid/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:24:41 GMT</pubDate>
+      <title>构建 GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevrsn/building_a_gpt/</link>
+      <description><![CDATA[大家好， ​ 我想构建一个可以搜索不同内容的 GPT法规、准则和标准，以确定哪些违规行为属于问题范围。因此，我们的想法是上传法规、规范、标准，并让人工智能搜索所有文本，以找到每个文本中与违规行为相关的相关部分。 例如：灭火器是安装时应确保灭火器顶部距地面超过 5 英尺。它安装在距地板 66 英寸的位置。  问题：根据国家消防协会的规定，高度不能超过 55 英寸，并且它是国家消防规范 6.2 部分的一部分。 1.1 以及加拿大 OSH 法规 17.3。 问题：我尝试通过链接在线代码并尝试将 pdf 转换为文本来构建 AI，以便 GPT 可以读取其中的一些代码长屁股规定。但问题是 GPT 的所有文本都有错误，有时还会引用错误的区域。例如其安装位置的危险防护，而不是选择按照 NFPA 10“便携式灭火器”安装。  我想我不知道如何训练它引用正确的部分。  有人有关于如何创建数据库供人工智能搜索的良好资源吗？还是我应该使用不同的人工智能平台？ ​ 谢谢你   由   提交/u/crakkus11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevrsn/building_a_gpt/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>如何让我的人工智能写的博客文章听起来不像人工智能？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beq4l6/how_can_i_make_my_ai_written_blog_posts_sound_not/</link>
-      <description><![CDATA[我在一家 seo 机构工作，每周用人工智能写 6 篇博文。 之后我会进行手动编辑尝试让它听起来不是人工智能。 但是有没有办法让人工智能做到这一点？有什么好的提示吗？有什么好的软件/网站可以帮您做到这一点吗？   由   提交 /u/Quick_Challenge1481   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beq4l6/how_can_i_make_my_ai_written_blog_posts_sound_not/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:03:17 GMT</pubDate>
+      <title>双子座真是太傻了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevlxg/gemini_is_just_so_dumb/</link>
+      <description><![CDATA[所以我发布了一些统计问题供 Gemini 回答。它不断告诉我‘我还在学习如何回答这个问题。与此同时，请尝试使用 Google 搜索。我以为这是因为它是基本版本，所以我得到了高级版本，但它仍然说同样的事情。我等了大约 24 小时才刷新或设置，但我仍然得到同样的结果。同时我将同样的问题粘贴到 chatgpt free 并完美解决了。    由   提交/u/1KinGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevlxg/gemini_is_just_so_dumb/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:47:57 GMT</pubDate>
     </item>
     <item>
-      <title>视觉专业版</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beq0dq/vision_pro_x_dalle3/</link>
-      <description><![CDATA[    &lt; /a&gt;  哈哈，    ;由   提交/u/DangDanga21   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beq0dq/vision_pro_x_dalle3/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:58:40 GMT</pubDate>
+      <title>Raph Koster 的经典游戏设计书未经他同意转为 ChatGPT 插件，但仍代表他的作品和想法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevlv1/raph_kosters_classic_game_design_book_converted/</link>
+      <description><![CDATA[ 由   提交/u/slhamlet  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevlv1/raph_kosters_classic_game_design_book_converted/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:47:53 GMT</pubDate>
     </item>
     <item>
-      <title>我不好意思问：如何为影响力而不仅仅是野心而编码？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beq041/im_shy_to_ask_how_to_code_for_impact_not_just/</link>
-      <description><![CDATA[这篇文章针对的是技术人员。我不知何故认为这是一个很好的地方来问这个问题，因为 GPT 解决了很多问题。我意识到我不仅需要编码才能成为一名软件工程师，而且我还需要考虑解决其他人的问题问题。我怎样才能培养这种心态？例如，GPT 如何自动化许多繁琐的任务。那么，我怎样才能创造出一些有意义的东西呢？我不想创建像 Facebook 这样的大东西，但也许至少是一个小工具，可以帮助其他人。 另外，如果我太雄心勃勃，抱歉。    由   提交/u/ByteNinja3000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beq041/im_shy_to_ask_how_to_code_for_impact_not_just/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:58:22 GMT</pubDate>
+      <title>我认为一些很好的喜剧写作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bevhig/some_pretty_good_comedy_writing_i_think/</link>
+      <description><![CDATA[       由   提交 /u/mrastickman   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bevhig/some_pretty_good_comedy_writing_i_think/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:42:48 GMT</pubDate>
     </item>
     <item>
-      <title>我认为是时候我们讨论 Claude 与 ChatGPT 了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1beq026/i_think_its_time_we_discuss_claude_vs_chatgpt/</link>
-      <description><![CDATA[这只是我个人的观点。作为一名法律内容撰写者，我在工作中使用 ChatGPT 的时间可能超过 1,000 多个小时。我最近转向了 Claude，发现它对于 Web 内容创建来说要好得多。  响应长度不受限制，因此我可以更快地工作。  它从不顶嘴我，或者给我一些“我无法处理这个请求”的变体。  它不会使用疯狂华丽的语言或愚蠢的单词选择，这些都是人工智能生成内容的致命弱点。 它不会为我的每件事生成项目符号列表。要求它做什么。  它的响应速度要快得多。  就网站内容目的和速度而言，即使是 Claude 的免费模型也优于我的自定义 GPT。  还有人对此有什么想法吗？克劳德Pro版/新款值得买吗？显然这只是我的意见，我有一个非常特殊的用例，但我很好奇是否其他人有想法。提前致谢。希望 GPT 5 非常强大，能够解决其中一些问题。 ​   由   提交 /u/TyMcDuffey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1beq026/i_think_its_time_we_discuss_claude_vs_chatgpt/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:58:19 GMT</pubDate>
+      <title>开放 AI 官方聊天 GPT 界面的功能、内存和语音功能 + 像副驾驶一样访问网络搜索/当前新闻和信息的能力？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1bev53v/the_power_memory_and_voice_capability_of_open_ais/</link>
+      <description><![CDATA[利用 openAI 的新语音和记忆功能，能够步行或开车四处走动并与它交谈/告诉它要记住的事情并为未来的对话提供背景信息太棒了，它是否能获得像副驾驶这样的当前信息和新闻的访问权？ 有这样的东西存在或接近现有吗？   由   提交 /u/FalkenJoshua   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1bev53v/the_power_memory_and_voice_capability_of_open_ais/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:28:29 GMT</pubDate>
     </item>
     <item>
-      <title>我很关心</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bepy58/im_concerned/</link>
-      <description><![CDATA[人工智能是迄今为止最奇怪的事物之一，我不得不自由发挥最不寻常的狗屎，并最终发现你永远不知道到底是什么适用于什么   由   提交 /u/Ritalina60mg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bepy58/im_concerned/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:55:59 GMT</pubDate>
+      <title>安妮帕金斯</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1beuvbr/anne_perkins/</link>
+      <description><![CDATA[还有人认为 iOS 移动应用程序上的默认声音听起来像 Anne Perkins 吗？我时常让她扮演安妮·帕金斯，我们会重演《公园与休闲》中的场景。  ​   由   提交 /u/UXProCh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1beuvbr/anne_perkins/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>AI 提前 7 年预测阿尔茨海默病 - 神经科学新闻</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bepse1/ai_predicts_alzheimers_7_years_early_neuroscience/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/Additional_Zebra_861   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bepse1/ai_predicts_alzheimers_7_years_early_neuroscience/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:49:27 GMT</pubDate>
+      <title>网络错误</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1beunb6/network_error/</link>
+      <description><![CDATA[在我经常使用的一个特定聊天中，我不断收到网络错误。 现在，Chatgpt 会生成答案，并已它在那里，但说网络错误，不让我说接下来的事情。我也在多个设备上尝试过。有没有解决方案，因为我不想转储此聊天   由   提交 /u/SlightUndercooked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1beunb6/network_error/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>是的，不是</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bepr8t/yesnt/</link>
-      <description><![CDATA[      &amp;# 32；由   提交/u/Plastic-Bar122   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bepr8t/yesnt/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:48:02 GMT</pubDate>
+      <title>FigureAI 视频被配音了 - 我找到了原始音频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1beu7u7/the_figureai_video_was_dubbed_i_found_the/</link>
+      <description><![CDATA[       由   提交/u/SuspiciousPrune4  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1beu7u7/the_figureai_video_was_dubbed_i_found_the/</guid>
+      <pubDate>Thu, 14 Mar 2024 19:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>创建数字化身的工具</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bepnvf/tools_to_create_a_digital_avatar/</link>
-      <description><![CDATA[想象一下您想要创建一个具有真实感觉的数字化身的视频。视觉化身，具有真实的语音，具有聊天智能引擎，因此您可以与它交谈。您会使用什么工具来创建这个？   由   提交 /u/instntpudn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bepnvf/tools_to_create_a_digital_avatar/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:44:04 GMT</pubDate>
+      <title>乔·拜登，下次我要把她变成黑人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1beu57w/joe_biden_next_time_ill_make_her_black/</link>
+      <description><![CDATA[    /u/Romanars   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1beu57w/joe_biden_next_time_ill_make_her_black/</guid>
+      <pubDate>Thu, 14 Mar 2024 19:47:29 GMT</pubDate>
     </item>
     <item>
-      <title>他是傻子吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bepizm/is_he_stupid/</link>
-      <description><![CDATA[       由   提交/u/bignut-56  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bepizm/is_he_stupid/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:38:20 GMT</pubDate>
+      <title>它甚至在回复中完整地写了“绝地”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1beu42w/it_even_writes_jedi_fully_in_the_response/</link>
+      <description><![CDATA[      我确信这不会长久工作   由   提交 /u/ArtInSomething   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1beu42w/it_even_writes_jedi_fully_in_the_response/</guid>
+      <pubDate>Thu, 14 Mar 2024 19:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何制作请展示其算法</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1bephla/how_to_make_is_show_its_algorithm/</link>
-      <description><![CDATA[       我如何提示这一点或找到聊天 gpt 用于生成伪随机数的算法？   由   提交 /u/FastShoulder2929   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1bephla/how_to_make_is_show_its_algorithm/</guid>
-      <pubDate>Thu, 14 Mar 2024 16:36:40 GMT</pubDate>
+      <title>Dall-E by ChatGPT 公众人物</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1betycr/dalle_by_chatgpt_public_figures/</link>
+      <description><![CDATA[     &lt; /td&gt;  由   提交/u/earlihealy  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1betycr/dalle_by_chatgpt_public_figures/</guid>
+      <pubDate>Thu, 14 Mar 2024 19:39:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
