@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 14 Mar 2024 00:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 06:01:01 GMT</lastBuildDate>
     <item>
-      <title>[媒体]Linux 6.9 的最新 EFI 更新为confide [...]</title>
-      <link>https://t.me/hn_summary/79247</link>
-      <description><![CDATA[Linux 6.9 进行了更改以满足 Microsoft 对 EFI x86 Shim Loader 签名的要求
-Linux 6.9 的最新 EFI 更新为机密计算带来了显着增强，并满足 Microsoft 对 UEFI 安全启动的 x86 shim 加载程序进行签名的要求。这包括在不支持 TCG2 时使用机密计算协议，例如在英特尔 TDX 机密虚拟机中。这些更改还侧重于确保映射在 EFI 启动服务期间既不可写又不可执行，这是 Microsoft 重新签名加载程序的一项关键安全措施。这些更新为 Linux 发行版在支持安全启动的系统上无缝运行铺平了道路。新的 EFI 代码将于 2024 年中期稳定。]]></description>
-      <guid>https://t.me/hn_summary/79247</guid>
-      <pubDate>Thu, 14 Mar 2024 00:24:02 GMT</pubDate>
+      <title>Ibis 是一个新的联合维基百科替代品，由 Felix“Nutomic”Ableitner 创建，他之前</title>
+      <link>https://t.me/hn_summary/79286</link>
+      <description><![CDATA[Ibis，联合维基百科的替代品
+Ibis 是一个新的联合维基百科替代品，由 Felix“nutomic”Ableitner 创建，他之前曾在 Lemmy 工作过。该项目旨在通过使用分布式架构和 ActivityPub 协议来解决困扰维基百科的信任问题和丑闻。 Ibis 允许用户创建、阅读和编辑完全联合的文章，这意味着它们可以在实例之间同步。虽然仍处于早期开发阶段，但宜必思有潜力通过创建专门实例的互连网络来彻底改变在线百科全书。阿布莱特纳正在寻求开发商的帮助和捐款，以进一步开发该项目，同时为女儿的到来做准备。]]></description>
+      <guid>https://t.me/hn_summary/79286</guid>
+      <pubDate>Thu, 14 Mar 2024 06:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 经验丰富的工程师在受聘时面临着挑战，尽管他们的资格 [...]</title>
-      <link>https://t.me/hn_summary/79246</link>
-      <description><![CDATA[经验丰富的工程师很难被录用
-尽管经验丰富的工程师拥有资格和技能，但他们在受聘时仍面临挑战。这个问题引起了工程界的沮丧和担忧。许多人质疑为什么公司忽视经验丰富的专业人士，而青睐年轻、经验不足的候选人。争议在于，这些工程师拥有多年的宝贵经验，可以使公司受益，但他们却很难找到工作。这是一个令人惊讶且令人担忧的趋势，它让许多有才华的人在就业市场上感到被低估和忽视。]]></description>
-      <guid>https://t.me/hn_summary/79246</guid>
-      <pubDate>Thu, 14 Mar 2024 00:15:57 GMT</pubDate>
+      <title>[媒体] Resolume Avenue 是 VJ、AV 表演者和视频艺术家的终极工具。</title>
+      <link>https://t.me/hn_summary/79285</link>
+      <description><![CDATA[Resolume
+Resolume Avenue 是 VJ、AV 表演者和视频艺术家的终极工具。借助 Avenue，您可以轻松访问所有媒体和效果，从而即时创建令人惊叹的实时视觉效果。对于任何希望将自己的表演提升到新水平的人来说，该软件都是游戏规则的改变者。请观看我们网站上的视频，了解 Avenue 的实际应用，并准备好惊叹于它提供的无限创意可能性。准备好通过 Resolume Avenue 彻底改变您的现场表演。]]></description>
+      <guid>https://t.me/hn_summary/79285</guid>
+      <pubDate>Thu, 14 Mar 2024 05:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>YX 问题是软件世界中常见的挫败感，人们经常回答 [...]</title>
-      <link>https://t.me/hn_summary/79245</link>
-      <description><![CDATA[YX问题
-YX 问题是软件世界中常见的问题，人们经常回答问题 Y，而不是实际提出的问题 X。发生这种情况的原因有多种，例如不知道 X 的答案但知道 Y 的答案，或者假设询问者应该关注 Y 而不是 X。软件社区中提问的常见建议可能并不总是适用忙碌的专家之间的关系更加对称。与他人互动时，保持耐心和真诚非常重要，首先要假设有人提出问题 X，因为他们想要问题 X 的答案。]]></description>
-      <guid>https://t.me/hn_summary/79245</guid>
-      <pubDate>Thu, 14 Mar 2024 00:11:53 GMT</pubDate>
+      <title>[媒体]蒂姆·伯纳斯·李 (Tim Berners-Lee) 回顾网络诞生 35 周年，强调 [...]</title>
+      <link>https://t.me/hn_summary/79284</link>
+      <description><![CDATA[纪念网络诞生 35 周年：蒂姆·伯纳斯-李的一封公开信
+蒂姆·伯纳斯·李 (Tim Berners-Lee) 回顾了网络诞生 35 周年，强调了从最初的协作和赋权目的到以企业利益和个人数据利用为主导的系统的转变。他呼吁进行根本性变革，倡导一种优先考虑人类福祉和自治的新范式。伯纳斯-李强调利益相关者之间的合作、创新的市场解决方案、前瞻性立法和个人参与对于改革网络和指导新兴技术发展的重要性。他介绍了 Solid Protocol 作为恢复对个人数据控制的解决方案，并呼吁支持那些领导改革工作的人。]]></description>
+      <guid>https://t.me/hn_summary/79284</guid>
+      <pubDate>Thu, 14 Mar 2024 05:51:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]多伦多警方最近向车主提出的建议引起了人们的关注[...]</title>
-      <link>https://t.me/hn_summary/79244</link>
-      <description><![CDATA[多伦多警方基本上是在告诉人们让小偷偷他们的车
-多伦多警方最近向该市车主提出的建议引起了人们的关注，他们建议，让小偷偷走他们的汽车可能比冒险暴力入室盗窃更好。这一有争议的建议是在怡陶碧谷的一次社区安全会议上提出的，会上警员马可·里恰尔迪建议在前门放置钥匙扣，以防止入室盗窃。虽然建议背后的情绪是可以理解的，但许多居民质疑这是否真的是最好的选择。这种非传统的方法是在多伦多汽车盗窃率不断上升的情况下提出的，在加拿大大约每六秒就有一辆汽车被盗。]]></description>
-      <guid>https://t.me/hn_summary/79244</guid>
-      <pubDate>Thu, 14 Mar 2024 00:07:49 GMT</pubDate>
+      <title>[媒体]Copilot Pro 为用户提供在高峰时段优先访问 GPT-5 Turbo 的权限，从而使用户能够 [...]</title>
+      <link>https://t.me/hn_summary/79283</link>
+      <description><![CDATA[Copilot Pro 可以“在高峰时段优先访问 GPT-5 Turbo” “
+Copilot Pro 为用户提供在高峰时段优先访问 GPT-5 Turbo 的权限，从而实现在 Word 中进行写作、编辑、总结等方面的无缝协作和协助。这种创新工具可以帮助生成初稿、增强现有文档，甚至重写部分内容以提高清晰度。借助 Copilot Pro，用户可以在其写作任务中获得高效且有效的支持，这使其成为那些希望简化工作流程并提高工作效率的人的宝贵资源。]]></description>
+      <guid>https://t.me/hn_summary/79283</guid>
+      <pubDate>Thu, 14 Mar 2024 05:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 微软 OS/2 2.0 未发布的预览版提供了一个独特的视角，让我们一睹不 [...]</title>
-      <link>https://t.me/hn_summary/79243</link>
-      <description><![CDATA[未发布的 Microsoft OS/2 2.0 预览版是未来的一瞥未采取
-Microsoft 的 OS/2 2.0 未发布的预览版提供了对 PC 历史上未曾走过的道路的独特一瞥。 OS/2 是 IBM 和 Microsoft 合作开发的，旨在通过更好的内存管理和多任务处理功能来改进 DOS。然而，微软专注于开发 Windows 导致了 OS/2 的消亡。最近出土的预览版展示了 Microsoft 的 OS/2 2.0 版本，以令人着迷的方式展示了 PC 历史的转折点。尽管从未正式发布，但 OS/2 的遗产通过 ArcaOS 等现代化版本得以延续。]]></description>
-      <guid>https://t.me/hn_summary/79243</guid>
-      <pubDate>Thu, 14 Mar 2024 00:06:45 GMT</pubDate>
+      <title>[媒体]作者是一名沮丧的波音员工，强调了公司内部的主要问题，[...]</title>
+      <link>https://t.me/hn_summary/79282</link>
+      <description><![CDATA[波音员工向公司提出修复建议
+作者是一名沮丧的波音公司员工，他强调了公司内部的主要问题，包括领导决策有缺陷、将股价置于安全之上以及将零部件外包给不可靠的供应商。作者建议将高管薪酬与安全和质量指标挂钩，将制造纳入内部，并将安全和质量置于满足生产率之上。作者建议进行重大变革，包括解雇所有执行领导人、实施新的薪酬和激励结构，以及结束股票回购，直到安全和质量得到改善。作者强调需要进行文化转变，将安全和质量置于利润之上。]]></description>
+      <guid>https://t.me/hn_summary/79282</guid>
+      <pubDate>Thu, 14 Mar 2024 05:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>射影几何代数是一个强大的数学模型，涵盖刚性和共形[...]</title>
-      <link>https://t.me/hn_summary/79242</link>
-      <description><![CDATA[射影几何代数
-射影几何代数是一种强大的数学模型，涵盖刚性和共形几何代数，非常适合计算机图形学和机器人技术。 Eric Lengyel 博士的作品是该主题的核心资源，在 GitHub 上提供了详细的 wiki 和 C++ 库。 《射影几何代数阐释》一书为工程师和数学家提供了实用的方法，重点介绍了应用以及与传统方法的比较。令人惊讶的是，该网站是几何积和反积 Unicode 符号的官方银牌赞助商。参考海报提供了大量信息，包括 2020-2023 年的新研究。]]></description>
-      <guid>https://t.me/hn_summary/79242</guid>
-      <pubDate>Wed, 13 Mar 2024 23:50:37 GMT</pubDate>
+      <title>[媒体]龙芯3A6000 CPU相比其前身3A5000有显着改进，w [...]</title>
+      <link>https://t.me/hn_summary/79281</link>
+      <description><![CDATA[龙芯3A6000：国产CPU中的明星
+龙芯3A6000 CPU相比前身3A5000有显着改进，采用全新LA664核心，拥有更大、更深的流水线和更多的执行单元。与 3A5000 相比，3A6000 在文件压缩任务中的性能提升了 38%，在 SMT 支持下甚至更高。 LA664 的核心架构可与最新的 Intel 和 AMD 核心相媲美，并且 3A6000 的分支预测器令人印象深刻，其准确度可与最新的 x86 CPU 相媲美。虽然3A6000可能无法与AMD最新的Zen 4架构相匹配，但它显示了中国CPU能力的值得称赞的进步。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79281</guid>
+      <pubDate>Thu, 14 Mar 2024 05:26:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Michael Saylor 的 MicroStrategy 再次成为头条新闻，筹集了额外的资金 [...]</title>
-      <link>https://t.me/hn_summary/79241</link>
-      <description><![CDATA[Michael Saylor 的 MicroStrategy 又筹集 5 亿美元购买更多比特币
-Michael Saylor 的 MicroStrategy 额外筹集了 5 亿美元来购买更多比特币，再次成为头条新闻。该公司目前拥有 205,000 枚比特币，价值近 150 亿美元，丝毫没有迹象表明该公司对数字资产的追求有所放缓。如果比特币维持当前 73,000 美元的价格，MicroStrategy 可能会通过此次最新发行额外获得约 6,800 种代币。此举巩固了 MicroStrategy 作为加密货币市场主要参与者的地位，引发了投资者和行业专家的钦佩和争议。]]></description>
-      <guid>https://t.me/hn_summary/79241</guid>
-      <pubDate>Wed, 13 Mar 2024 23:41:31 GMT</pubDate>
+      <title>[媒体] HTMX 和 Hyperscript 的创建者 Carson Gross 讨论了简单 [...]</title>
+      <link>https://t.me/hn_summary/79280</link>
+      <description><![CDATA[复杂性不好：对 Htmx 创建者 Carson Gross 的采访 
+HTMX 和 Hyperscript 的创建者 Carson Gross 讨论了编程简单性的重要性以及软件行业复杂性的挑战。他强调，当事情过于复杂时，开发人员需要承认这一点，并且不要害怕寻求帮助。 Gross 还谈到了 REST 架构的演变以及该术语的原始含义。他强调了 Hyperscript 作为脚本语言的优势，并解释了 HTMX 如何扩展 HTML 以涵盖 AJAX 等现代用例。总体而言，格罗斯提倡采用更直接的编程方法，并鼓励就行业的复杂性进行公开交流。]]></description>
+      <guid>https://t.me/hn_summary/79280</guid>
+      <pubDate>Thu, 14 Mar 2024 05:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>LaVague 是一个开源项目，旨在通过转换 n [...]</title>
-      <link>https://t.me/hn_summary/79240</link>
-      <description><![CDATA[LaVague：用于自动化 Selenium 浏览的开源大型操作模型
-LaVague 是一个开源项目，旨在通过将自然语言指令转换为无缝操作来自动化浏览器交互。它旨在自动执行重复且耗时的任务，从而腾出时间进行更有意义的活动。 LaVague 的与众不同之处在于，它提供了一个将自然语言查询转换为 Selenium 代码的引擎，使用户或其他人工智能可以轻松实现 Web 工作流程的自动化。它还通过支持本地模型和开源项目来强调隐私和控制。该项目的路线图包括微调本地模型、改进代码检索以及支持其他浏览器引擎。欢迎对该项目做出贡献，并且有一个 Discord 社区供进一步讨论。]]></description>
-      <guid>https://t.me/hn_summary/79240</guid>
-      <pubDate>Wed, 13 Mar 2024 23:31:24 GMT</pubDate>
+      <title>BlenderBIM 是一个创新的附加组件，可增强 Blender 创建令人惊叹的、[...]</title>
+      <link>https://t.me/hn_summary/79279</link>
+      <description><![CDATA[BlenderBIM – 美观、详细且数据丰富的附加组件OpenBIM 与 Blender
+BlenderBIM 是一个创新的附加组件，增强了 Blender 创建令人惊叹、详细且数据丰富的 OpenBIM 模型的能力。该工具允许用户将建筑信息模型 (BIM) 数据无缝集成到其 Blender 项目中，从而提供更高效、协作的工作流程。借助 BlenderBIM，用户可以创建视觉上令人惊叹的设计，同时还可以访问关键项目数据以做出更好的决策。对于希望将 BIM 项目提升到新水平的建筑师、工程师和设计师来说，此附加组件是一个游戏规则改变者。立即体验 BlenderBIM 的强大功能并彻底改变您的设计流程。]]></description>
+      <guid>https://t.me/hn_summary/79279</guid>
+      <pubDate>Thu, 14 Mar 2024 05:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/79239</link>
-      <description><![CDATA[新的机器学习可解释性库
-令人兴奋的消息！隆重推出我们新的 ML 可解释性库，旨在为复杂的机器学习模型提供透明度和理解。有了这个工具，用户现在可以轻松解释和解释模型做出的决策，从而更容易信任和利用人工智能技术。告别黑盒算法，迎接机器学习更加透明和可解释的未来。借助我们的创新库保持领先地位。不要错过这个改变游戏规则的工具！ #ML #Interpretability #Transparency #Innovation]]></description>
-      <guid>https://t.me/hn_summary/79239</guid>
-      <pubDate>Wed, 13 Mar 2024 23:27:20 GMT</pubDate>
+      <title>[媒体] 标题：Show HN：构建简单的产品，让 AI 在 0.37 秒内生成图表并分析数据</title>
+      <link>https://t.me/hn_summary/79278</link>
+      <description><![CDATA[显示 HN：构建简单的产品，让 AI 在 0.37 秒内生成图表，分析数据
+标题：Show HN：构建简单的产品，让 AI 在 0.37 秒内生成图表并分析数据
+
+大学生苏珊发现自己提交数据分析论文的时间很紧迫。在与无法处理她的查询的复杂工具和人工智能工具进行斗争之后，她在 Product Hunt 上偶然发现了 Lychee。只需点击几下，她就能在 3 分钟内从电子表格中生成并导出 9 个图表，从而节省了宝贵的时间，并允许她在截止日期前 4 分钟提交论文。更令人兴奋的是什么呢？她便宜地得到了这个工具，而且不需要每月付费 - 她永远拥有它。]]></description>
+      <guid>https://t.me/hn_summary/79278</guid>
+      <pubDate>Thu, 14 Mar 2024 05:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]SpinKube 和 Fermyon Platform for Kubernetes 正在彻底改变 WebAssembly [...]</title>
-      <link>https://t.me/hn_summary/79238</link>
-      <description><![CDATA[Spinkube：在 Kubernetes 中运行 WASM
-SpinKube 和 Fermyon Platform for Kubernetes 正在彻底改变 WebAssembly 应用程序在 Kubernetes 中运行的方式。 SpinKube 简化了开发、部署和操作 WebAssembly 工作负载的流程，而 Fermyon Platform for Kubernetes 在 Kubernetes 集群上提供了极高的应用密度，可节省高达 60% 的计算成本。这些项目支持快速部署 WebAssembly 应用程序，具有二进制大小小、即时启动、沙箱和跨架构可移植性等优点。蔡司和微软等早期采用者已经看到了可扩展性和成本节省方面的显着改进。 SpinKube 和 Fermyon Platform for Kubernetes 现已可供免费使用。]]></description>
-      <guid>https://t.me/hn_summary/79238</guid>
-      <pubDate>Wed, 13 Mar 2024 23:26:17 GMT</pubDate>
+      <title>[媒体] Cypher Note 是一款桌面/Web 应用程序，旨在使用 Langua 进行模糊提示 [...]</title>
+      <link>https://t.me/hn_summary/79277</link>
+      <description><![CDATA[显示 HN：我创建了一个网站来限制 LLM 的敏感信息&lt; /a&gt;
+Cypher Note 是一款桌面/Web 应用程序，旨在通过语言学习模型 (LLM) 进行模糊提示。它对提示中的敏感文本进行加密以保护用户隐私，并解密 LLM 响应以实现安全的对话流程。它允许会话管理、自定义文本标记和加密单词选项。该项目的独特之处在于完全在用户的浏览器上运行并提供自托管版本的选项。它旨在简化与法学硕士互动的过程，同时确保敏感信息的机密性。该项目可在线获取，并欢迎根据 MIT 许可证做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/79277</guid>
+      <pubDate>Thu, 14 Mar 2024 05:02:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
