@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 00:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 03:09:54 GMT</lastBuildDate>
+    <item>
+      <title>帮助为中风患者创建人工智能程序</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bf0ysd/help_creating_a_ai_program_for_stroke_victims/</link>
+      <description><![CDATA[我不是最懂技术的，但我有兴趣了解更多有关人工智能及其应用的知识。其中对我来说很重要的一项是言语治疗。  我的祖母有言语问题，多年前因中风而开始。随着年龄的增长，她的语言能力变得越来越差，以至于很难理解。这对每个人来说都很令人沮丧，她也因为无法轻松沟通而感到非常沮丧。  我想知道是否有任何资源可以构建某种程序来听她的演讲、翻译并基本上拼凑出她的话。 任何形式的帮助我们将非常感激并提前感谢您。   由   提交/u/bigbadcat13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bf0ysd/help_creating_a_ai_program_for_stroke_victims/</guid>
+      <pubDate>Fri, 15 Mar 2024 00:36:44 GMT</pubDate>
+    </item>
     <item>
       <title>哪一个？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bezvvj/which_one/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>人工智能聊天安全吗？ - 看到一篇关于数据被盗的文章。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bekf5g/ai_chats_safe_came_across_an_article_about_data/</link>
-      <description><![CDATA[我看到了这篇文章 https://securityaffairs.com/160447/hacking/chatgpt-plugins-vulnerability.html 关于 AI 插件的安全问题。显然，黑客可以利用这些插件窃取登录凭据并访问我们的私人信息。这似乎对各种 AI 聊天工具来说都是一个风险，而不仅仅是 ChatGPT。 我一直使用带有插件的 AI 工具进行编码和研究。我们应该担心吗？虽然这些工具很有价值，但我也不希望我的数据被暴露。  这里有完整的技术故障，也包含有关使用 GPT 的警告： https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts -on-third-party-websites-and-sensitive-data 您使用这些插件吗？很高兴听到您对这些 AI 扩展的体验以及是否可以继续使用它们。  ​   由   提交 /u/JohniBGood   [链接] [评论]]]></description>
+      <description><![CDATA[我看到了这篇文章 https://securityaffairs.com/160447/hacking/chatgpt-plugins-vulnerability.html 关于 AI 插件的安全问题。显然，黑客可以利用这些插件窃取登录凭据并访问我们的私人信息。这似乎是各种 AI 聊天工具的风险，而不仅仅是 ChatGPT。 我一直使用带有插件的 AI 工具进行编码和研究。我们应该担心吗？虽然这些工具很有价值，但我也不希望我的数据被暴露。  这里有完整的技术故障，也包含有关使用 GPT 的警告： https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts -on-third-party-websites-and-sensitive-data 您使用这些插件吗？很高兴听到您对这些 AI 扩展的体验以及是否可以继续使用它们。  ​   由   提交/u/JohniBGood  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bekf5g/ai_chats_safe_came_across_an_article_about_data/</guid>
       <pubDate>Thu, 14 Mar 2024 12:51:15 GMT</pubDate>
     </item>
@@ -76,13 +83,6 @@
       <pubDate>Thu, 14 Mar 2024 10:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>需要本地法学硕士。有一些关于代码生成的状态和培训的问题。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bei2hw/need_a_local_llm_got_some_questions_regarding/</link>
-      <description><![CDATA[人工智能很棒，但人工智能也很糟糕，至少是我希望能够使用它的方式，即生成代码。  我的主要问题是内存中无状态模型，这意味着我必须为每个 API 查询提供大量上下文信息，据我所知。 一个令人讨厌的例子是当询问时，例如chatgpt 如果它能够生成 RFC3501 的 C 实现。它高兴地说“是的，我能做到”，但拒绝真正去做。这就是我在使用在线人工智能时遇到的问题。在线人工智能的代码审查也是如此。它只是拒绝审查代码，即使代码库很小（34KLOC）。即使是 1059 行 C 的一小部分也不能为 gpt-4 所接受。 （我认为它的配置方式是为了减少服务器负载？） 为了解决这些问题，我想运行一个本地 LLM 并自己训练它，以便它按照我想要的方式运行。例如，我想给它提供一次编码标准，以便生成的所有代码都遵守该标准。 在花费数千美元购买 GPU 之前，我希望得到反馈。 * 这个计划现实吗？ * 一台带有 24GB VRAM 的 RTX 3090 够用吗？ * 培训过程需要多长时间？我可以继续给它喂C代码吗？那里有经过预培训的法学硕士吗？ * 美洲驼似乎很有前途。有更好的选择吗？ * 我对人工智能模型几乎一无所知，但确实有能力在需要时修改代码。 对所有反馈和评论感到高兴。   由   提交/u/zwischen3und20   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bei2hw/need_a_local_llm_got_some_questions_regarding/</guid>
-      <pubDate>Thu, 14 Mar 2024 10:29:06 GMT</pubDate>
-    </item>
-    <item>
       <title>是否有任何像样的视频可以让人工智能领域的真正聪明人谈论经济将如何应对大规模失业？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bee2as/are_there_any_decent_videos_where_actual_smart/</link>
       <description><![CDATA[只是好奇，因为这是我对人工智能的主要抱怨，我想看看支持人工智能的人认为社会会如何妥协有了它   由   提交/u/daway8899  [链接] [评论]]]></description>
@@ -92,7 +92,7 @@
     <item>
       <title>预测：人工智能将在 2026 年之前破译已知最早的三种人类语言中的最后一种。有赌注吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1be92hl/prediction_ai_will_decipher_the_last_of_the_three/</link>
-      <description><![CDATA[在已知的三种最古老的人类语言中，可追溯到公元前 3400-3200 年，我们已经破译了埃及的象形文字和苏美尔人的楔形文字。然而，我们尚未破译印度河谷共存的哈拉帕文明的语言。 以下是我们对这种语言的了解。已发现 4,000 多件刻有文字的物品，包括印章、陶器碎片、石板、工具等。这些铭文绝大多数都非常短，通常只包含几个符号。一个多世纪以来，学者们一直在尝试破译印度河文字。他们甚至还不能确定该脚本是否代表完整的语言或更简单的符号系统。铭文长度短、缺乏双语文本（如罗塞塔石碑）以及未知的语言根源使得破译变得极其困难。 哈拉帕文字的复杂程度表明它并非如此。全新的，但有一个发展时期。他们的文明高度城市化和组织化，表明需要通过书面符号进行记录和交流。这种行政和经济的复杂性常常推动写作的发展。 那么，这些哈拉帕人要说什么呢？可能用不了多久我们就会知道。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
+      <description><![CDATA[在已知的三种最古老的人类语言中，可追溯到公元前 3400-3200 年，我们已经破译了埃及人的象形文字和苏美尔人的楔形文字。然而，我们尚未破译印度河谷共存的哈拉帕文明的语言。 以下是我们对这种语言的了解。已发现 4,000 多件刻有文字的物品，包括印章、陶器碎片、石碑、工具等。这些铭文绝大多数都非常短，通常只包含几个符号。一个多世纪以来，学者们一直在尝试破译印度河文字。他们甚至还不能确定该脚本是否代表完整的语言或更简单的符号系统。铭文长度短、缺乏双语文本（如罗塞塔石碑）以及未知的语言根源使得破译变得极其困难。 哈拉帕文字的复杂程度表明它并非如此。全新的，但有过一段时间的发展。他们的文明高度城市化和组织化，表明需要通过书面符号进行记录和交流。这种行政和经济的复杂性常常推动写作的发展。 那么，这些哈拉帕人要说什么呢？可能用不了多久我们就会知道。   由   提交/u/Georgeo57  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1be92hl/prediction_ai_will_decipher_the_last_of_the_three/</guid>
       <pubDate>Thu, 14 Mar 2024 01:28:20 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
