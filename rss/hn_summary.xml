@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 15 Mar 2024 14:58:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 21:05:52 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在 otterly.ai 的综合目录中发现超过 300 个 AI 和 LLM 工具。</title>
-      <link>https://t.me/hn_summary/79522</link>
-      <description><![CDATA[显示 HN：包含 306 个列出的 AI 和 LLM 工具的 AI 工具目录&lt; /a&gt;
-在 otterly.ai。从人工智能分析到聊天机器人，从交易机器人到客户支持，我们都对其进行了分类，以便于浏览。无论您从事金融、营销、房地产还是任何其他行业，您都会找到简化流程的完美工具。凭借广泛的类别和搜索选项，找到合适的人工智能工具从未如此简单。立即探索我们的目录，彻底改变您使用人工智能技术的工作方式。]]></description>
-      <guid>https://t.me/hn_summary/79522</guid>
-      <pubDate>Fri, 15 Mar 2024 14:58:07 GMT</pubDate>
+      <title>[媒体] Oxen.ai 社区已经实施了 [...] 的“自我奖励语言模型”论文</title>
+      <link>https://t.me/hn_summary/79582</link>
+      <description><![CDATA[展示 HN：“自我奖励语言模型”论文的实现作者：MetaAI
+Oxen.ai 社区实施了“自我奖励语言模型” ”来自 MetaAI 的论文，旨在创建一个脚本，可以将基本语言模型放入自我奖励循环中。该项目的与众不同之处在于，为自我奖励循环的每次迭代提供了逐步的流程，包括监督微调、生成提示和响应、对响应进行评分、创建偏好对以及运行直接偏好优化。该项目还利用 Oxen.ai 对中间模型和数据集进行版本控制，使探索和跟踪模型生成的数据变得更加容易。提供的脚本可用于启动自我奖励流程并生成第一个端到端模型。]]></description>
+      <guid>https://t.me/hn_summary/79582</guid>
+      <pubDate>Fri, 15 Mar 2024 21:05:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一份声明中，NVIDIA 首席执行官黄仁勋表示 [...]</title>
-      <link>https://t.me/hn_summary/79521</link>
-      <description><![CDATA[编码的消亡被过分夸大了
-NVIDIA 首席执行官黄仁勋在最近的一份声明中表示，由于人工智能的进步，编程正在变得过时，引发了争议。然而，历史表明，随着新语言和技术的不断涌现，编码不断发展和繁荣。虽然人工智能可以自动执行某些任务，但精确编码的需求对于解决复杂的现实问题仍然至关重要。此外，掌握编码技能可以提供宝贵的能力，例如抽象思维和快速适应。与其阻止学生追求计算机科学，不如拥抱人工智能带来的机会并继续在该领域进行创新，这一点至关重要。]]></description>
-      <guid>https://t.me/hn_summary/79521</guid>
-      <pubDate>Fri, 15 Mar 2024 14:50:00 GMT</pubDate>
+      <title>欢迎来到卡内基梅隆大学的 CS251：理论计算机科学的伟大想法。</title>
+      <link>https://t.me/hn_summary/79581</link>
+      <description><![CDATA[CS251：理论计算机科学 (CMU) 中的伟大想法
+欢迎来到卡内基梅隆大学的 CS251：理论计算机科学的伟大想法。本课程涵盖支撑计算机科学的基本概念和理论，包括算法、复杂性理论和密码学。学生将探讨 P 与 NP、图灵机和停机问题等主题。该课程由该领域的知名教授教授，深入探讨计算的理论基础。有争议的是，所讨论的一些概念挑战了传统的计算和智能概念。与我们一起踏上理论计算机科学迷人世界的旅程，请访问 www. cs251.com。]]></description>
+      <guid>https://t.me/hn_summary/79581</guid>
+      <pubDate>Fri, 15 Mar 2024 21:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]新的在线投资骗局正在不断演变，骗子利用机器人来创建虚假经验 [...]</title>
-      <link>https://t.me/hn_summary/79520</link>
-      <description><![CDATA[由机器人驱动的新在线投资骗局模拟假专家
-新的在线投资诈骗正在不断演变，诈骗者利用机器人创建假冒专家并模拟群聊来欺骗受害者。这些骗局承诺高回报且无风险，针对个人和机构。人工智能机器人的使用使这些计划更加令人信服，也更难以揭露。这些骗局的复杂性，加上心理操纵和经济利益的诱惑，使它们成为潜在的威胁。移动设备和社交应用程序为诈骗者提供了持续接触潜在受害者的机会，使他们更容易传播欺诈计划。与监管机构和行业合作伙伴的合作对于消除这一日益严重的威胁至关重要。]]></description>
-      <guid>https://t.me/hn_summary/79520</guid>
-      <pubDate>Fri, 15 Mar 2024 14:47:56 GMT</pubDate>
+      <title>[媒体]梅赛德斯-奔驰正在探索使用人形机器人（例如 Apptronik 的 Apollo）来自动驾驶 [...]</title>
+      <link>https://t.me/hn_summary/79580</link>
+      <description><![CDATA[梅赛德斯正在试验人形机器人执行“低技能、重复性”任务&lt; /a&gt;
+梅赛德斯-奔驰正在探索使用人形机器人（例如 Apptronik 的 Apollo）来自动化制造中低技能、体力挑战的任务。该试点计划旨在解决匈牙利的劳动力短缺问题，该国的工人正在迁移到西欧。这些机器人可以举起重达 55 磅的物体，目前正在梅赛德斯工厂进行测试。这种创新方法使制造商能够自动执行重复性和体力要求较高的任务，而无需重新设计其设施。梅赛德斯、宝马、特斯拉和亚马逊等公司正在探索机器人技术填补劳动力缺口和释放技术工人的潜力。此次试验代表了汽车制造的新领域。]]></description>
+      <guid>https://t.me/hn_summary/79580</guid>
+      <pubDate>Fri, 15 Mar 2024 21:01:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]IBM 首席执行官 Arvind Krishna 预计 2023 年薪资将增长 23%，达到 2039.8 万美元，而 [...]</title>
-      <link>https://t.me/hn_summary/79519</link>
-      <description><![CDATA[IBM CEO 2023 年薪酬上涨 23%，普通员工薪酬为 7% 
-IBM首席执行官Arvind Krishna预计2023年薪资将上涨23%，达到2039.8万美元，而普通员工的薪资涨幅为7%。该公司略低于其收入目标，但超出了其运营现金流目标，影响了高管支出。 IBM 通过在研发和收购方面的大量投资，向更高利润增长收入的转变得到了强调。 CEO 与员工中位数薪酬之比增至 312:1，引发潜在争议。股东将在即将举行的股东年会上就高管薪酬发表意见。包括首席财务官和首席商务官在内的其他高管也获得了丰厚的薪酬奖励。]]></description>
-      <guid>https://t.me/hn_summary/79519</guid>
-      <pubDate>Fri, 15 Mar 2024 14:32:49 GMT</pubDate>
+      <title>[媒体] 在接受万维网联盟副主席 Robin Berjon 采访时，Re [...]</title>
+      <link>https://t.me/hn_summary/79579</link>
+      <description><![CDATA[我们与 W3C 副主席 Robin Berjon 讨论星际文件系统&lt; /a&gt;
+在对万维网联盟副主席 Robin Berjon 的采访中，The Register 讨论了星际文件系统 (IPFS) 及其对互联网的潜在影响。 IPFS 是分布式网络的一部分，它提供了一种使用内容标识符 (CID) 而不是 URL 进行内容检索的去中心化方法。尽管存在一些中心化问题，IPFS 仍受到 Cloudflare、Brave 和 Opera 等公司的关注。 Berjon 强调了以内容为中心的系统中用户授权和选择的潜力，挑战传统的权威结构，同时促进协作和验证。探讨了 IPFS 在重塑网络通信和打击错误信息方面的作用，强调了去中心化、基于信任的系统的重要性。]]></description>
+      <guid>https://t.me/hn_summary/79579</guid>
+      <pubDate>Fri, 15 Mar 2024 20:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>白宫无能的监管机构对美国的安全保障可悲</title>
-      <link>https://t.me/hn_summary/79518</link>
-      <description><![CDATA[白宫无能的监管机构对美国无线网络的安全保障可悲
-怀登参议员批评白宫监管机构不负责任，导致美国无线网络的安全状况堪忧。虽然立法者一直关注 TikTok 的隐私问题，但他们忽视了国家电信网络的漏洞。黑客正在利用 Diameter 和 SS7 等技术的缺陷来进行监视和数据泄露。美国联邦通信委员会未能为无线运营商制定网络安全标准，使情况更加恶化。怀登敦促 FCC、CISA 和 NSA 之间合作提高安全标准，但缺乏行动表明寻求关注和行业影响力优先于保护消费者。]]></description>
-      <guid>https://t.me/hn_summary/79518</guid>
-      <pubDate>Fri, 15 Mar 2024 14:30:44 GMT</pubDate>
+      <title>[媒体] 推出 DBOS 操作系统，这是一个允许用户部署 [...]</title>
+      <link>https://t.me/hn_summary/79578</link>
+      <description><![CDATA[DBOS操作系统
+隆重推出 DBOS 操作系统，这是一个尖端平台，允许用户使用 SDK 将 TypeScript 代码部署到 DBOS 云。这种容错且可扩展的系统配备了内置状态管理，使其成为开发人员的可靠选择。使用 DBOS 体验无缝执行和高效管理，彻底改变您在云中的工作方式。访问 www.dbos.dev 了解有关这一创新的更多信息操作系统。]]></description>
+      <guid>https://t.me/hn_summary/79578</guid>
+      <pubDate>Fri, 15 Mar 2024 20:54:34 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院将审理一个案件，该案件可能会改变政府与[...]的互动方式。</title>
-      <link>https://t.me/hn_summary/79517</link>
-      <description><![CDATA[最高法院将审理有关政府如何与社交媒体公司对话的案件
-最高法院将审理一个可能改变政府与社交媒体平台互动方式的案件，引发有关强迫言论的问题。在穆蒂诉密苏里州案中，问题在于政府是否可以在不违反第一修正案的情况下标记有害帖子。此案是继之前涉及社交媒体和言论自由的挑战之后发生的。结果可能会影响在线处理错误信息的方式以及平台与政府沟通的能力。多个团体已提交简报，警告该决定的广泛影响，强调对选民信息、审查制度和政府干预的担忧。预计此案将对网络言论和政府沟通产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/79517</guid>
-      <pubDate>Fri, 15 Mar 2024 14:29:41 GMT</pubDate>
+      <title>[媒体]特斯拉，曾经是汽车制造业未来的象征，如今却面临着黯淡的前景，因为[...]</title>
+      <link>https://t.me/hn_summary/79577</link>
+      <description><![CDATA[特斯拉是标准普尔 500 指数中表现最差的股票
+特斯拉曾经是汽车制造业未来的象征，如今却成为标准普尔 500 指数中表现最差的股票，前景黯淡。受到安全问题、召回、增长放缓和降价的困扰，该公司正在努力维持其盈利水平。市场地位。分析师预测，随着竞争加剧，今年增长将持平，2025 年将出现下降。尽管较历史高点下跌了 60%，特斯拉的股价仍然被高估，预计还会进一步下跌。随着富国银行和瑞银集团下调了价格目标，特斯拉股票的未来充满不确定性，因为它正在经历一个充满不确定性和下跌的充满挑战的时期。]]></description>
+      <guid>https://t.me/hn_summary/79577</guid>
+      <pubDate>Fri, 15 Mar 2024 20:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法国总统马克龙重申派遣军队进入[...]</title>
-      <link>https://t.me/hn_summary/79516</link>
-      <description><![CDATA[马克龙加大力度支持北约在乌克兰部署&lt; br/&gt;
-尽管遭到德国的反对和北约盟国的强烈反对，法国总统马克龙还是重申了向乌克兰派遣军队的可能性。马克龙强调面对俄罗斯的侵略需要采取强有力的行动，并表示软弱就会导致失败。这些言论引发了争议，并有可能进一步分裂北约成员国。马克龙即将与德国总理奥拉夫·肖尔茨和波兰总理唐纳德·图斯克举行会议，旨在解决乌克兰紧张局势。德国此前因拖延军事支持而受到批评，现在面临提供必要装备的压力。图斯克是乌克兰的坚定支持者，他呼吁提供更多切实的支持，而不仅仅是口头上的支持。]]></description>
-      <guid>https://t.me/hn_summary/79516</guid>
-      <pubDate>Fri, 15 Mar 2024 14:26:35 GMT</pubDate>
+      <title>【媒体】TikTok母公司是中国政府代理人吗？</title>
+      <link>https://t.me/hn_summary/79576</link>
+      <description><![CDATA[TikTok的母公司是中国政府的代理人吗？
+在关于 TikTok 母公司字节跳动是否是中国政府代理人的持续争论中，中国政府与私营企业之间的关系经常被误解。由于中国共产党拥有并本质上是国家，私营企业以合资企业的形式运营，政府既是合作伙伴又是最终老板。尽管 TikTok 声称独立，但该党对企业的控制是显而易见的，违抗者将承担后果。中国国家与社会之间模糊的界限引发了人们对数据安全以及字节跳动将政党利益置于企业生存之上的可能性的担忧。]]></description>
+      <guid>https://t.me/hn_summary/79576</guid>
+      <pubDate>Fri, 15 Mar 2024 20:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>在这篇发人深省的文章中，作者深入探讨了扩大计划的挑战[...]</title>
-      <link>https://t.me/hn_summary/79515</link>
-      <description><![CDATA[蒙特利尔问题：为什么编程语言需要风格沙皇
-在这篇发人深省的文章中，作者深入探讨了在大型项目中扩展编程语言的挑战，强调了“风格沙皇”建立和维护一致的编码标准的必要性。作者使用 Scala、C++ 和 Python 的示例，强调了不断发展的语言标准对于防止风格分歧和保持代码一致性的重要性。通过倡导语言创建者在制定和执行编码指南方面发挥更积极的作用，作者建议统一的编码风格方法可以带来更有凝聚力和更高效的编程实践。最终，本文呼吁语言社区内共同努力，在指定的“风格沙皇”的指导下建立并遵守不断发展的标准。]]></description>
-      <guid>https://t.me/hn_summary/79515</guid>
-      <pubDate>Fri, 15 Mar 2024 14:25:31 GMT</pubDate>
+      <title>Xe Iaso 讨论了使用 Nix 作为 Docker 映像构建器相对于 Docker 的本机 ima 的优势 [...]</title>
+      <link>https://t.me/hn_summary/79575</link>
+      <description><![CDATA[Nix 是一个比 Docker 的镜像生成器更好的 Docker 镜像生成器
+Xe Iaso 讨论了使用 Nix 作为 Docker 映像生成器相对于 Docker 的本机映像生成器的优势。 Xe 强调了 Nix 构建与 Docker 的非确定性构建相比的确定性本质，解释了 Nix 如何允许在更新映像时进行最小的更改，从而减少空间浪费并提高效率。通过利用 Nix 构建 Docker 镜像，开发人员可以利用分层镜像，只需要上传更改的组件，而不是整个镜像。这种独特的方法弥合了 Nix 和 Docker 之间的差距，为容器镜像构建提供了更高效、更可靠的解决方案。 （根据 56% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79575</guid>
+      <pubDate>Fri, 15 Mar 2024 20:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：您最喜欢的会议是什么？</title>
-      <link>https://t.me/hn_summary/79514</link>
-      <description><![CDATA[问 HN：您最喜欢的会议是什么？&lt; br/&gt;
-由于公司的学习预算增加，我希望在 2024 年通过更多的技术会议来拓展我的视野。分享您最喜欢的留下深刻印象或提供宝贵见解的会议。无论您亲自参加还是在线观看，我都渴望听到您对科技界必参加活动的建议。让我们充分利用这个机会来建立联系、学习并保持领先地位。分享您的首选并帮助我制定 2024 年令人难忘的会议日程！]]></description>
-      <guid>https://t.me/hn_summary/79514</guid>
-      <pubDate>Fri, 15 Mar 2024 14:23:26 GMT</pubDate>
+      <title>[媒体]在最新的《异星工厂星期五事实》中，我们介绍了无线电路的一项新功能 [...]</title>
+      <link>https://t.me/hn_summary/79574</link>
+      <description><![CDATA[Factorio 星期五事实 – 光速电路
+在最新的异星工厂星期五事实中，我们引入了使用雷达进行无线电路传输的新功能，简化了长距离电路信号。此外，在剪切和粘贴蓝图时记住电路接线也提高了生活质量。本文还深入探讨了在游戏中处理极端制作速度的挑战，经过几天的代码分析最终找到了解决方案。现在，更新允许制作速度高达 +2500%，突破了游戏引擎处理的极限。请访问 factorio.com 加入有关这些新发展的讨论。]]></description>
+      <guid>https://t.me/hn_summary/79574</guid>
+      <pubDate>Fri, 15 Mar 2024 20:43:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在您的网站上使用 Google Analytics 是一个坏主意，甚至是非法的，尤其是在 E [...]</title>
-      <link>https://t.me/hn_summary/79513</link>
-      <description><![CDATA[不要使用 Google Analytics（分析）
-在您的网站上使用 Google Analytics 是一个坏主意，甚至是非法的，特别是在欧洲，它违反了 GDPR 法规。谷歌过多的数据收集和操纵潜力赋予了他们太多的权力。相反，请考虑使用 Matomo，这是一款符合 GDPR 且可定制的免费开源分析工具。其他替代品如 Plausible、Posthog 和 umami 提供不同的功能和复杂程度。就我个人而言，我使用自托管的 Matomo 实例和 Google Search Console 来获取网站性能洞察。探索这些选项并优先考虑用户隐私和数据保护。加入 GitHub 上的对话并分享您的想法！ - Jak2k]]></description>
-      <guid>https://t.me/hn_summary/79513</guid>
-      <pubDate>Fri, 15 Mar 2024 14:20:23 GMT</pubDate>
+      <title>[媒体] 最快的 EC2 实例 CPU 是多少？</title>
+      <link>https://t.me/hn_summary/79573</link>
+      <description><![CDATA[最快的 EC2 实例 CPU 是多少？
+正在寻找最快的 EC2 实例 CPU？我们的网站提供不同区域的各种实例类型的最新基准，帮助您根据处理器型号、架构和单线程 CPU 速度做出明智的决策。我们还列出了按需和现货定价趋势，以及每种实例类型的中断百分比。有争议的是，AWS 使用其他站点上没有的自定义 CPU 类型，这使得选择最快的 CPU 变得具有挑战性。虽然最好执行您自己的基准测试，但我们的数据提供了宝贵的见解。查看我们在北弗吉尼亚州、俄勒冈州、爱尔兰和法兰克福等地区的 x64 EC2 实例的结果。 （根据故事文本的 60% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79573</guid>
+      <pubDate>Fri, 15 Mar 2024 20:42:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
