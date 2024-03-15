@@ -4,13 +4,48 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 15 Mar 2024 09:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 12:15:13 GMT</lastBuildDate>
     <item>
-      <title>IT中断后麦当劳顾客无法点餐</title>
+      <title>美国校园枪手父亲被判过失杀人罪</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68572112</link>
+      <description><![CDATA[美国首次有父母因孩子在枪击事件中扮演的角色而被判过失杀人罪。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68572112</guid>
+      <pubDate>Fri, 15 Mar 2024 12:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会议员表示，升级资金只花费了 10%</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68574010</link>
+      <description><![CDATA[一份报告称，政府解决不平等问题的关键政策因“惊人的拖延”而受到阻碍。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68574010</guid>
+      <pubDate>Fri, 15 Mar 2024 11:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾玛·巴尼特 (Emma Barnett) 加入第四台今日节目</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68574142</link>
+      <description><![CDATA[主持人将接替玛莎·科尔尼，后者最近表示将在选举后辞职。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68574142</guid>
+      <pubDate>Fri, 15 Mar 2024 11:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>麦当劳为英国客户解决 IT 问题</title>
       <link>https://www.bbc.co.uk/news/business-68573106</link>
-      <description><![CDATA[该连锁店在日本的系统出现故障，英国、澳大利亚和新西兰的客户也报告了问题。]]></description>
+      <description><![CDATA[但目前尚不清楚停电是否仍然阻碍其他国家的客户下订单。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68573106</guid>
-      <pubDate>Fri, 15 Mar 2024 08:55:18 GMT</pubDate>
+      <pubDate>Fri, 15 Mar 2024 11:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>M25 公路关闭期间司机被告知“乘坐火车”</title>
+      <link>https://www.bbc.com/news/articles/c4nrd0n7299o</link>
+      <description><![CDATA[本周末关闭了 M25 公路的一段路段，这是萨里 10 号交叉路口改善工程的一部分。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4nrd0n7299o</guid>
+      <pubDate>Fri, 15 Mar 2024 11:36:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯回应后，以色列淡化停战前景</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68573551</link>
+      <description><![CDATA[与此同时，一艘援助船正在靠近加沙进行试航，旨在开辟一条海上补给路线。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68573551</guid>
+      <pubDate>Fri, 15 Mar 2024 10:35:41 GMT</pubDate>
     </item>
     <item>
       <title>观看：蜂群入侵网球锦标赛并追逐阿尔卡拉斯</title>
@@ -27,32 +62,11 @@
       <pubDate>Fri, 15 Mar 2024 08:25:58 GMT</pubDate>
     </item>
     <item>
-      <title>英国首相因被指控种族主义的捐赠者提供“新的500万英镑”而面临压力</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-68567484</link>
-      <description><![CDATA[据报道，保守党尚未宣布其所有资金均来自有争议的保守党捐助者弗兰克·赫斯特。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-68567484</guid>
-      <pubDate>Fri, 15 Mar 2024 07:40:25 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯人开始投票 普京必将获胜</title>
       <link>https://www.bbc.co.uk/news/world-europe-68505228</link>
       <description><![CDATA[尽管结果有保障，克里姆林宫仍热衷于让选举显得合法。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68505228</guid>
       <pubDate>Fri, 15 Mar 2024 06:53:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>AA 建议司机避开 M25 素里路段</title>
-      <link>https://www.bbc.com/news/articles/c4nrd0n7299o</link>
-      <description><![CDATA[本周末关闭了 M25 公路的一段路段，这是萨里 10 号交叉路口改善工程的一部分。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4nrd0n7299o</guid>
-      <pubDate>Fri, 15 Mar 2024 06:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>约旦河西岸农民之间的战斗使以色列与美国对立</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68568298</link>
-      <description><![CDATA[美国宣布对约旦河西岸另外三名以色列定居者实施制裁。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68568298</guid>
-      <pubDate>Fri, 15 Mar 2024 06:00:04 GMT</pubDate>
     </item>
     <item>
       <title>日本价值 7 亿美元的棒球明星在震惊婚姻后透露了妻子的身份</title>
@@ -62,18 +76,11 @@
       <pubDate>Fri, 15 Mar 2024 03:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国校园枪手父亲被判过失杀人罪</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68572112</link>
-      <description><![CDATA[美国首次有父母因孩子在枪击事件中扮演的角色而被判过失杀人罪。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68572112</guid>
-      <pubDate>Fri, 15 Mar 2024 02:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>莱尼·亨利在他最后的喜剧救援前情绪激动</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68563449</link>
-      <description><![CDATA[这位喜剧演员展望了他近四十年后最后一次作为红鼻子日主持人的亮相。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68563449</guid>
-      <pubDate>Fri, 15 Mar 2024 00:37:00 GMT</pubDate>
+      <title>澳大利亚农场种植世界上最大的蓝莓</title>
+      <link>https://www.bbc.co.uk/news/world-australia-68572278</link>
+      <description><![CDATA[这种怪物果实有乒乓球大小，重20.4克，约为普通蓝莓的10倍。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-australia-68572278</guid>
+      <pubDate>Fri, 15 Mar 2024 02:17:01 GMT</pubDate>
     </item>
     <item>
       <title>藤壶球荣获野生动物摄影奖</title>
@@ -83,18 +90,11 @@
       <pubDate>Fri, 15 Mar 2024 00:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>《Vogue》新任编辑表示，我还有很多工作要做</title>
+      <title>《Vogue》新任编辑表示，穿衣服是最快乐的事情之一</title>
       <link>https://www.bbc.co.uk/news/entertainment-arts-68515448</link>
       <description><![CDATA[Chioma Nnadi 取代了 Edward Enninful，后者打破了时尚杂志的界限。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68515448</guid>
       <pubDate>Thu, 14 Mar 2024 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚谋杀案嫌疑人竞选连任</title>
-      <link>https://www.bbc.co.uk/news/world-australia-68561346</link>
-      <description><![CDATA[瑞安·拜尔登-拉姆斯登正在昆士兰州进行一场政治斗争和一项谋杀指控。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-australia-68561346</guid>
-      <pubDate>Thu, 14 Mar 2024 20:49:12 GMT</pubDate>
     </item>
     <item>
       <title>当暴力席卷海地时，接下来会发生什么？</title>
