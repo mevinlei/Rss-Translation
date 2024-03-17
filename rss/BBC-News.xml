@@ -4,7 +4,49 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 16 Mar 2024 21:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:39:42 GMT</lastBuildDate>
+    <item>
+      <title>报纸：“沙普斯导弹威胁”和“严格明星峰会”</title>
+      <link>https://www.bbc.co.uk/news/blogs-the-papers-68589542</link>
+      <description><![CDATA[周日报纸上刊登了一系列报道，其中包括沃恩·盖辛将成为威尔士第一位黑人领导人。]]></description>
+      <guid>https://www.bbc.co.uk/news/blogs-the-papers-68589542</guid>
+      <pubDate>Sun, 17 Mar 2024 00:37:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>冰岛火山再次喷发 疏散民众</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68589594</link>
+      <description><![CDATA[这是雷克雅内斯半岛自去年 12 月以来的第四次喷发，格林达维克再次被疏散。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68589594</guid>
+      <pubDate>Sat, 16 Mar 2024 23:57:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>拉莫斯迟到的点球帮助法国队战胜英格兰队</title>
+      <link>https://www.bbc.co.uk/sport/rugby-union/68588644</link>
+      <description><![CDATA[托马斯·拉莫斯在中场罚进制胜点球，法国队在七次尝试中险胜英格兰队，在 2024 年六国赛中获得第二名。]]></description>
+      <guid>https://www.bbc.co.uk/sport/rugby-union/68588644</guid>
+      <pubDate>Sat, 16 Mar 2024 22:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃德·戴维呼吁进行“一代人一次”的选举</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68586347</link>
+      <description><![CDATA[这位自由民主党领导人将表示，他的政党是唯一提出“转型变革”的政党。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68586347</guid>
+      <pubDate>Sat, 16 Mar 2024 22:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>德里克·汤普森 (Derek Thompson) 的伤亡人员在 38 年后退出</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68586368</link>
+      <description><![CDATA[这位明星曾在 BBC One 医疗剧中饰演查理·费尔黑德 (Charlie Fairhead)，也是剧中任职时间最长的演员。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68586368</guid>
+      <pubDate>Sat, 16 Mar 2024 22:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国枪手在宾夕法尼亚州杀死三人后围困结束</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68588735</link>
+      <description><![CDATA[特伦顿警察局表示，一名 26 岁的嫌疑人“和平地”向警方投降。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68588735</guid>
+      <pubDate>Sat, 16 Mar 2024 22:21:45 GMT</pubDate>
+    </item>
     <item>
       <title>M25 公路“史无前例”的关闭导致司机延误</title>
       <link>https://www.bbc.co.uk/news/uk-england-surrey-68577226</link>
@@ -22,16 +64,9 @@
     <item>
       <title>爱尔兰击败苏格兰卫冕六国冠军</title>
       <link>https://www.bbc.co.uk/sport/rugby-union/68580610</link>
-      <description><![CDATA[爱尔兰在都柏林击败苏格兰，保住了六国联盟的席位，这一结果结束了英格兰夺取冠军的希望。]]></description>
+      <description><![CDATA[爱尔兰在都柏林击败苏格兰，卫冕六国冠军，这一结果结束了英格兰夺取冠军的希望。]]></description>
       <guid>https://www.bbc.co.uk/sport/rugby-union/68580610</guid>
       <pubDate>Sat, 16 Mar 2024 19:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国枪手在宾夕法尼亚州杀死三人后遭到围攻</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68588735</link>
-      <description><![CDATA[一名嫌疑人在附近福尔斯镇枪杀三人后，新泽西州警方赶到现场。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68588735</guid>
-      <pubDate>Sat, 16 Mar 2024 19:18:20 GMT</pubDate>
     </item>
     <item>
       <title>塞恩斯伯里的交货因技术问题而取消</title>
@@ -62,46 +97,11 @@
       <pubDate>Sat, 16 Mar 2024 16:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>德里克·汤普森 (Derek Thompson) 离开伤亡部门 38 年后即将到来</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68586368</link>
-      <description><![CDATA[这位明星在 BBC One 医疗剧中饰演查理·费尔黑德 (Charlie Fairhead)，是剧中任职时间最长的演员。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68586368</guid>
-      <pubDate>Sat, 16 Mar 2024 15:47:05 GMT</pubDate>
-    </item>
-    <item>
       <title>沃恩·格辛将成为威尔士首位黑人领导人</title>
       <link>https://www.bbc.co.uk/news/uk-wales-politics-68500807</link>
       <description><![CDATA[沃恩·格辛（Vaughan Geting）以微弱优势击败杰里米·迈尔斯（Jeremy Miles）赢得威尔士工党领袖选举。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-wales-politics-68500807</guid>
       <pubDate>Sat, 16 Mar 2024 14:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>五十只动物尸体被扔在商店门前</title>
-      <link>https://www.bbc.co.uk/news/uk-england-hampshire-68584948</link>
-      <description><![CDATA[布劳顿社区商店前散落着数十具野兔和鸟类尸体。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-hampshire-68584948</guid>
-      <pubDate>Sat, 16 Mar 2024 13:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音飞机在没有面板的情况下降落在俄勒冈州</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68584134</link>
-      <description><![CDATA[737-800 飞机在没有外部面板的情况下着陆，在飞行过程中并未引起注意，没有造成人员受伤。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68584134</guid>
-      <pubDate>Sat, 16 Mar 2024 12:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>这周是以色列和真主党距离战争更近的一周吗？</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68575413</link>
-      <description><![CDATA[以色列可能正在加沙作战，但人们仍然担心与真主党的战争可能会使冲突变得更加致命。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68575413</guid>
-      <pubDate>Sat, 16 Mar 2024 08:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们对梅根王室生活方式品牌的了解</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68573011</link>
-      <description><![CDATA[美国里维埃拉果园已经积累了数十万在线粉丝。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68573011</guid>
-      <pubDate>Sat, 16 Mar 2024 02:57:17 GMT</pubDate>
     </item>
     <item>
       <title>成年哈利波特迷是否应该“长大并克服它”？</title>
