@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 00:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 03:09:53 GMT</lastBuildDate>
+    <item>
+      <title>Remilia 金库被黑客入侵，损失超过 100 万美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bglvjk/remilia_treasury_got_hacked_for_over_1_million/</link>
+      <description><![CDATA[该区块链/NFT 项目背后的团队尚未宣布导致问题的原因，但查看 etherscan 上的交易日志，发现所有权已转移在袭击发生之前。私钥泄漏似乎是利用的可能原因。 https://open.substack.com/pub/cryptocsec/p/hack-alert-remilia-treasury-drained   由   提交/u/Majestic-AI-6018  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bglvjk/remilia_treasury_got_hacked_for_over_1_million/</guid>
+      <pubDate>Sun, 17 Mar 2024 01:39:13 GMT</pubDate>
+    </item>
     <item>
       <title>帮助托管网站。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgjd4f/help_with_hosting_a_website/</link>
@@ -27,9 +34,9 @@
       <pubDate>Sat, 16 Mar 2024 22:57:55 GMT</pubDate>
     </item>
     <item>
-      <title>用于后端应用程序的简单、模块化和可观察的 Go 框架。</title>
+      <title>一个用于后端应用程序的简单、模块化和可观察的 Go 框架。</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgh96s/a_simple_modular_and_observable_go_framework_for/</link>
-      <description><![CDATA[在 Go 中构建后端应用程序确实令人惊叹。 但是，当您想要制作易于维护的产品时，不断发展且可靠，在能够专注于应用程序逻辑（依赖关系连接、可观察性仪器、可测试性等）之前，您经常会面临一堆复杂性（和样板代码）需要落实到位 我们创建并开源 Yokai 试图在这方面提供帮助：一个现成的框架，可让您专注于应用程序逻辑，并且需要照顾其余的。 它建立在我们认为非常好的 Go 库（OTEL、Fx、Echo、Cobra、Viper、Zerolog 等）之上，并牢记这 3 个原则：  p&gt;  简单：它非常易于使用、配置和测试 模块化：它附带可用的模块来扩展您的应用程序，以及构建和共享您自己的应用程序的简单方法  li&gt; 可观察：内置相关日志、跟踪和指标工具  现在可以编写 HTTP API、gRPC API 和工作线程（用于异步需求），一些模块来扩展它们。 您可以在文档中找到更多详细信息。 &lt; p&gt;我们真诚地希望您会感兴趣，我们愿意接受反馈、建议和贡献！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
+      <description><![CDATA[在 Go 中构建后端应用程序确实令人惊叹。 但是，当您想要制作易于维护的产品时，不断发展且可靠，在能够专注于应用程序逻辑（依赖关系接线、可观察性仪器、可测试性等）之前，您经常会面临一堆复杂性（和样板代码）需要落实到位 我们创建并开源 Yokai 试图对此提供帮助：一个现成的框架，可让您专注于应用程序逻辑，并且需要照顾其余的。 它建立在我们认为非常好的 Go 库（OTEL、Fx、Echo、Cobra、Viper、Zerolog 等）之上，并牢记这 3 个原则：  p&gt;  简单：它非常易于使用、配置和测试 模块化：它附带可用的模块来扩展您的应用程序，以及构建和共享您自己的应用程序的简单方法  li&gt; 可观察：内置相关日志、跟踪和指标工具  现在可以编写 HTTP API、gRPC API 和工作线程（用于异步需求），一些模块来扩展它们。 您可以在文档中找到更多详细信息。 &lt; p&gt;我们真诚地希望您会感兴趣，我们愿意接受反馈、建议和贡献！   由   提交 /u/No-Parsnip-5461   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgh96s/a_simple_modular_and_observable_go_framework_for/</guid>
       <pubDate>Sat, 16 Mar 2024 21:57:31 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>我们的简历网站还不错（欢迎批评）</title>
       <link>https://www.reddit.com/r/webdev/comments/1bgfekg/our_not_half_bad_resume_sitecritique_welcome/</link>
-      <description><![CDATA[这是为与其他三名学生一起上课而制作的。最初它打算在前面使用 React，但我在最后一刻决定构建一个普通的 html/css/us 页面，因为我不知道 React 很好，而做 React 的学生每周都要去参加一个会议。我们做得有多糟糕？我主要在后端完成数据库工作，直到最后的冲刺，然后我做了很多 vamilla 前端的工作。   由   提交/u/artificialedge  [链接] [评论]]]></description>
+      <description><![CDATA[这是为与其他三名学生一起上课而制作的。最初它打算在前面使用 React，但我在最后一刻决定构建一个普通的 html/css/us 页面，因为我不知道 React 很好，而做 React 的学生将在一周内轮流参加一个会议。我们做得有多糟糕？我主要在后端完成数据库工作，直到最后的冲刺，然后我做了很多 vamilla 前端工作。   由   提交/u/artificialedge  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgfekg/our_not_half_bad_resume_sitecritique_welcome/</guid>
       <pubDate>Sat, 16 Mar 2024 20:32:58 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[使用 Next.js 和 Talwindcss 构建。由我在 Figma 上设计。    由   提交/u/diegovs05  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bgeu8n/check_out_my_new_portfolio_site/</guid>
       <pubDate>Sat, 16 Mar 2024 20:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的开源项目制作了一个变更日志页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</link>
-      <description><![CDATA[   /u/ascendence  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bgeqfo/i_made_a_changelog_page_for_my_open_source_project/</guid>
-      <pubDate>Sat, 16 Mar 2024 20:01:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
