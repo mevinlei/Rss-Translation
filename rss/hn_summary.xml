@@ -4,86 +4,89 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 12:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 18:09:49 GMT</lastBuildDate>
     <item>
-      <title>十年前，随着经济增长和工资上涨，政治格局更加平静。</title>
-      <link>https://t.me/hn_summary/79835</link>
-      <description><![CDATA[托马斯·皮凯蒂失败的革命
-十年前，随着经济增长和工资上涨，政治格局更加平静。随后，托马斯·皮凯蒂（Thomas Piketty）的著作《二十一世纪的资本》风靡全球，重点关注财富不平等和顶层 1% 的权力。皮凯蒂的分析与“占领”和“英国未削减”等运动产生了共鸣，强调了代际不公平以及继承在财富积累中的作用。尽管皮凯蒂提出了全球财富税等解决方案，但左派一直在努力将反对意见转化为变革性的政治行动。随着社会努力应对日益严重的不平等和资产所有权问题，皮凯蒂的著作提出了关于资本主义的未来以及扭转根深蒂固趋势的挑战的问题。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/79835</guid>
-      <pubDate>Sun, 17 Mar 2024 12:11:30 GMT</pubDate>
+      <title>询问 HN：退出科技行业的最佳方式是什么？</title>
+      <link>https://t.me/hn_summary/79877</link>
+      <description><![CDATA[询问 HN：退出科技行业的最佳方式是什么？
+news.ycombinator.com 上这篇文章的作者是寻求有关退出科技行业的最佳方式的建议。尽管面临挑战，他们对这个行业感到失望，并正在考虑转向不同的行业。作者四十岁出头，有积蓄，正在寻找其他成功摆脱技术角色（无论是编程还是管理）的见解。这篇文章强调了技术专业人士寻求做出改变的日益增长的趋势，并探讨了那些已经实现这一飞跃的人的经验和策略。]]></description>
+      <guid>https://t.me/hn_summary/79877</guid>
+      <pubDate>Sun, 17 Mar 2024 18:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>七年前，我怀着利用人类驾驶技术的愿景踏上了 comma.ai 的旅程 [...]</title>
-      <link>https://t.me/hn_summary/79834</link>
-      <description><![CDATA[模仿学习
-七年前，我踏上了 comma.ai 的旅程使用人类驾驶数据来训练自动驾驶模型的愿景。从图像预测转向角的最初尝试失败了，导致开发了车道位置模型作为校正因子。尽管在定义车道线的基本事实方面遇到了困难，但我们在将它们从系统中删除方面取得了进展。现在，我们已经找到了行为克隆的潜在解决方案，强调了训练模型中反相关错误的重要性。关键在于准确估计累积误差以实现成功的端到端驾驶。]]></description>
-      <guid>https://t.me/hn_summary/79834</guid>
-      <pubDate>Sun, 17 Mar 2024 12:10:25 GMT</pubDate>
+      <title>[媒体]巨型红杉，在英国也被称为巨型红杉，几乎在英国蓬勃发展[...]</title>
+      <link>https://t.me/hn_summary/79876</link>
+      <description><![CDATA[红杉在英国的生长速度几乎与加州的红杉一样快&lt; /a&gt;
+巨型红杉在英国也被称为巨型红杉，在英国几乎和加州的同类一样繁盛。一项新的研究发现，这些非凡的树木的平均生长速度与美国相似，储存了大量的碳，成为英国景观中深受喜爱的一部分。据估计，英格兰有 50 万棵红杉，这些树很好地适应了英国的气候，并因其碳储存潜力而被种植在城市环境中。然而，不断变化的气候对加州巨杉构成了威胁，因此了解这些树木在面对环境挑战时的表现至关重要。]]></description>
+      <guid>https://t.me/hn_summary/79876</guid>
+      <pubDate>Sun, 17 Mar 2024 17:59:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]令人惊讶的是，谷歌学术搜索“当然，这里是”揭示了一个完整的[...]</title>
-      <link>https://t.me/hn_summary/79833</link>
-      <description><![CDATA[Google 学术搜索：“当然，这里是”-ChatGPT -LLM 
-令人惊讶的是，谷歌学术搜索“当然，这里是”显示了大量学术论文，其中包含明显由 ChatGPT 撰写的部分。这些部分通常以“当然，这是所提供部分的简明摘要”开头，使它们很容易被发现。争议在于学术论文中人工智能生成内容的使用，引发了对学术工作真实性和原创性的质疑。访问 simonwillison.net 深入研究这一有趣的发现。]]></description>
-      <guid>https://t.me/hn_summary/79833</guid>
-      <pubDate>Sun, 17 Mar 2024 11:37:12 GMT</pubDate>
+      <title>antonz.org 上的 Git by Examples 提供了掌握 Git 操作的交互式指南，从基础到 [...]</title>
+      <link>https://t.me/hn_summary/79875</link>
+      <description><![CDATA[Git 示例
+antonz.org 上的 Git by Examples 提供了掌握 Git 的交互式指南操作，从基础到高级。网站创建者厌倦了不断搜索 Git 命令，决定创建一个分步指南以方便参考。该指南涵盖了工作树、暂存区域和存储库等概念，简化了复杂的 Git 语法。用户可以通过更改命令并单击“运行”来试验示例。为了方便起见，该指南还包括其他格式。通过这个用户友好且内容丰富的资源深入了解 Git 的世界。 （根据 35% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79875</guid>
+      <pubDate>Sun, 17 Mar 2024 17:53:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]分析师警告称，随着微软计划分阶段实施，企业将面临挑战 [...]</title>
-      <link>https://t.me/hn_summary/79832</link>
-      <description><![CDATA[经典 Outlook for Windows 即将终结&lt; br /&gt;
-分析师警告说，企业将面临挑战，因为微软计划逐步淘汰经典的 Outlook for Windows，支持最早可能会在 2029 年结束。新的 Outlook 缺乏关键功能，例如离线支持和与 COM 加载项的兼容性。微软敦促公司转向网络插件，但一些客户对此表示怀疑。与 Teams 和 Copilot 的集成已经在进行中，预计将于 2025 年过渡到新的 Outlook。虽然有些人认为 Slack 等消息传递平台是未来，但微软对电子邮件采取了谨慎的态度，并计划集成更新的协作技术从长远来看。]]></description>
-      <guid>https://t.me/hn_summary/79832</guid>
-      <pubDate>Sun, 17 Mar 2024 11:20:05 GMT</pubDate>
+      <title>[媒体] 现金：支付自行车您是否担心推动无现金社会 [...]</title>
+      <link>https://t.me/hn_summary/79874</link>
+      <description><![CDATA[卢德分子捍卫现金指南（第 1 部分） 
+现金：支付自行车您是否担心无现金社会的发展，但担心被贴上阴谋论者的标签？本文挑战了数字支付是不可避免的未来的说法，强调了保护现金的重要性。作者将这场争论重新定义为现金是“支付自行车”，而数字化是“支付领域的优步”，作者认为便利性并不是绝对的，现金是我们所依赖的数字系统的基础。这篇发人深省的文章挑战了主流叙事，并鼓励读者批判性地思考无现金社会的影响。 （根据故事文本的 51% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/79874</guid>
+      <pubDate>Sun, 17 Mar 2024 17:44:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Liebreich：净零排放将比你想象的更难 - 也更容易。</title>
-      <link>https://t.me/hn_summary/79831</link>
-      <description><![CDATA[Liebreich：净零将比您想象的更难 - 也更容易。第二部分：更容易
-在文章的第二部分中，Michael Liebreich 探讨了净零转型的牛市案例，介绍了转型的五位超级英雄。第一个超级英雄是指数级增长，展示了太阳能光伏、风能和电池技术的快速进步。第二个超级英雄是系统解决方案，强调采用综合方法解决可再生能源变化的重要性。第三个超级英雄是大国竞争，突出了钢铁、航运和水泥等难以减排行业的脱碳进展。利布里奇的乐观态度源于清洁能源技术的显着增长和投资，为更加可持续的未来铺平了道路。 （根据故事文本的 52% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/79831</guid>
-      <pubDate>Sun, 17 Mar 2024 11:14:00 GMT</pubDate>
+      <title>[媒体] 标题：工作中的 Dora Metrics</title>
+      <link>https://t.me/hn_summary/79873</link>
+      <description><![CDATA[Dora 工作指标
+标题：工作中的朵拉指标
+
+摘要：
+了解团队如何使用 DORA 指标在一年内将软件交付性能提高一倍，而无需添加额外的资源。通过关注部署频率和变更准备时间等以结果为导向的指标，团队通过解决代码质量和部署流程等约束因素取得了重大改进。通过童子军代码质量规则和小批量部署等实践，他们看到性能提高了一倍。尽管 MFE 迁移面临挑战，但 MR 审核流程的优化带来了进一步的改进。关键要点是内部因素和流程改进对于提高绩效至关重要，而不仅仅是增加资源。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/79873</guid>
+      <pubDate>Sun, 17 Mar 2024 17:19:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]摘要：Twitter 帐户“海绵宝宝的引力崩溃”探讨了幽默 [...]</title>
-      <link>https://t.me/hn_summary/79830</link>
-      <description><![CDATA[海绵宝宝重力塌陷
-摘要：推特账户“海绵宝宝的重力崩溃”探讨了如果海绵宝宝经历重力崩溃会发生什么的幽默和荒谬的概念。通过巧妙而独特的推文，该帐户想象了心爱的卡通人物被吸进黑洞或在自身重量下崩溃的情景。虽然有些人可能会因为主题的黑暗性质而觉得内容有争议，但海绵宝宝的粉丝会欣赏角色冒险中的创意和娱乐性转折。跟随我们一起探索大家最喜爱的海绵的异想天开和超凡脱俗。]]></description>
-      <guid>https://t.me/hn_summary/79830</guid>
-      <pubDate>Sun, 17 Mar 2024 10:58:52 GMT</pubDate>
+      <title>最新的 Linux 6.9 内核更新包括对 PCI 子系统的更改，其中一个值得注意的更新是 [...]</title>
+      <link>https://t.me/hn_summary/79872</link>
+      <description><![CDATA[Linux 6.9 变更让使用 Firewire 的旧 Mac 享受虚拟化支持
+最新的 Linux 6.9 内核更新包括对 PCI 子系统的更改，其中一个值得注意的更新允许使用 LSI FW643 Firewire 控制器卡的旧 Mac 享受虚拟化支持。此更改避免了辅助总线重置，从而使卡能够使用 VFIO 分配给虚拟机。虽然 LSI FW643 可能已经过时，但它在较旧的 Apple Mac 系统中很常见，并且仍然用于专业音频用途。此更新由 Edmund Raile 编写，可防止链接断开问题，从而可以在虚拟化环境中利用 Firewire 卡在虚拟机上运行 Linux。]]></description>
+      <guid>https://t.me/hn_summary/79872</guid>
+      <pubDate>Sun, 17 Mar 2024 17:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>LLM4Decompile 是一个开源项目，专注于使用 Large Language 反编译二进制代码 [...]</title>
-      <link>https://t.me/hn_summary/79829</link>
-      <description><![CDATA[LLM4Decompile：用LLM反编译二进制代码
-LLM4Decompile 是一个开源项目，专注于使用大型语言模型 (LLM) 反编译二进制代码。该项目旨在通过创建一个评估反编译代码的可重新编译性和可重新执行性的基准来评估反编译过程。通过在汇编源对数据集上训练 DeepSeek-Coder 模型，该项目通过强调反编译过程中语法完整性（可重新编译性）和语义正确性（可重新执行性）的重要性而脱颖而出。该项目提供了各种具有不同参数大小的LLM模型，并提供了如何使用模型进行反编译的指导。此外，该项目还包括一个评估工具 Decompile-Eval，用于评估反编译代码的质量。]]></description>
-      <guid>https://t.me/hn_summary/79829</guid>
-      <pubDate>Sun, 17 Mar 2024 10:43:46 GMT</pubDate>
+      <title>您是否正在努力捕捉小型 PCB 的详细图像？</title>
+      <link>https://t.me/hn_summary/79871</link>
+      <description><![CDATA[DIY微距PCB摄影
+您是否正在努力捕捉小型 PCB 的详细图像？在 niemczuk.tech 的 DIY 指南中，作者分享了他们的旅程适应宏观摄影的显微镜物镜。通过使用廉价的显微镜镜头并遵循精确的图像拍摄和处理过程，您可以获得高质量的结果。作者提供了使用 Hugin 软件进行图像拼接的分步说明，强调了良好照明和仔细图像对齐的重要性。这种独特的微距 PCB 摄影方法为使用相机捕捉复杂的细节提供了一种经济高效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/79871</guid>
+      <pubDate>Sun, 17 Mar 2024 17:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何开始使用本地语言模型？</title>
-      <link>https://t.me/hn_summary/79828</link>
-      <description><![CDATA[询问 HN：如何开始使用本地语言模型？
-news.ycombinator.com 上这篇文章的作者是努力了解如何开始使用本地语言模型。他们涉足了各种工具和安装，例如 Talk to a Transformer 和 Umbrel LlamaGPT，但在可用信息的海洋中感到迷失，尤其是自从 llama 模型发布以来。他们提到了 HuggingFace 的混乱以及由于文件大小限制而在 Windows 上运行 Mozilla Llamafiles 的困难。作者正在寻求有关如何掌握这些技术并跟上该领域快节奏进步的建议。]]></description>
-      <guid>https://t.me/hn_summary/79828</guid>
-      <pubDate>Sun, 17 Mar 2024 10:40:41 GMT</pubDate>
+      <title>自首次飞行 17 年后，F-35 隐形战斗机终于获得了飞行许可 [...]</title>
+      <link>https://t.me/hn_summary/79870</link>
+      <description><![CDATA[F-35 在首架 17 年后获准全速生产航班
+自首飞 17 年后，F-35 隐形战斗机终于获准全速生产，这是联合攻击战斗机计划的一个重要里程碑。尽管担心 Block 4 升级和 TR-3 开发会出现延误，五角大楼还是为继续生产开了绿灯。国际上对 F-35 的需求持续增长，一些看似不太可能的候选者现在对这种先进飞机表现出了兴趣。尽管存在争议和延误，F-35 仍然是全球军队的热门选择，预计产量将稳定在每年 150 架左右。]]></description>
+      <guid>https://t.me/hn_summary/79870</guid>
+      <pubDate>Sun, 17 Mar 2024 17:11:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 拒绝邀请就是为了控制您的时间并优先考虑真正的事情 [...]</title>
-      <link>https://t.me/hn_summary/79827</link>
-      <description><![CDATA[拒绝邀请
-拒绝邀请就是为了控制您的时间并优先考虑对您真正重要的事情。跳过那些不会给你的生活增加价值的活动和会议的有争议的建议可能会引起一些人的注意，但当你参加时留下难忘的时刻的想法是一个独特的转折。礼貌地拒绝邀请并提供传统社交聚会替代方案的建议巧妙且令人耳目一新。最终，信息很明确：明智地、毫无歉意地度过你的时间，专注于给你带来快乐和成就感的事情。]]></description>
-      <guid>https://t.me/hn_summary/79827</guid>
-      <pubDate>Sun, 17 Mar 2024 10:18:32 GMT</pubDate>
+      <title>[媒体] GitHub 上的 Nanofont3x4 项目提供了世界上最小的可读 3x4 字体，带有 l [...]</title>
+      <link>https://t.me/hn_summary/79869</link>
+      <description><![CDATA[Nanofont3x4：最小可读的小写 3x4 字体
+GitHub 上的 Nanofont3x4 项目提供了世界上最小的可读 3x4 小写字符字体。该项目旨在通过创建具有可读 2x2 小写字形的字体来突破版式的限制。它可用于渲染游戏中的书籍页面或带有真实文本的准确打印预览。该项目通过注重可读性并突破字体设计的可能性而与众不同。作者还提供了与其他类似项目的比较，并要求研究人员提供他们的代码和数据以供验证。]]></description>
+      <guid>https://t.me/hn_summary/79869</guid>
+      <pubDate>Sun, 17 Mar 2024 17:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】特斯拉正面临动荡时期，股价暴跌，未来充满不确定性。</title>
-      <link>https://t.me/hn_summary/79826</link>
-      <description><![CDATA[特斯拉现在正在被彻底摧毁
-特斯拉正面临着一个动荡的时期，其股价暴跌，未来充满不确定性。分析师预测，随着竞争对手（尤其是来自中国的竞争对手）占据电动汽车市场更大份额，今年将出现平稳增长，2025 年将出现下滑。特斯拉的转售价值正在下降，其汽车是市场上贬值最严重的汽车之一。埃隆·马斯克的行为，包括传播虚假信息和种族主义比喻，引起了股东的担忧。该公司在“全自动驾驶”方面的努力遭遇挫折，而竞争对手却在前进。尽管承认面临挑战，特斯拉的领导层仍然乐观，但投资者是否会坚持下去还不确定。]]></description>
-      <guid>https://t.me/hn_summary/79826</guid>
-      <pubDate>Sun, 17 Mar 2024 09:34:17 GMT</pubDate>
+      <title>网络安全公司 ReversingLabs 发现了一场名为 BIPClip 的复杂黑客活动 [...]</title>
+      <link>https://t.me/hn_summary/79868</link>
+      <description><![CDATA[Python 用户：BIPClip 通过 PyPI 追随你的比特币钱包
+网络安全公司 ReversingLabs 发现了一个名为 BIPClip 的复杂黑客活动，该活动利用 PyPI 上的 Python 包来针对加密货币钱包恢复短语。该活动利用了 BIP39 标准，该标准根据助记词生成确定性的比特币钱包。攻击者使用巧妙的策略将恶意软件包伪装成合法软件包，凸显了软件供应链攻击的风险。虽然恶意软件包已从 PyPI 中删除，但该事件提醒人们加密货币行业面临的持续威胁。随着加密货币价值的飙升，用户加强对此类阴险攻击的防御至关重要。]]></description>
+      <guid>https://t.me/hn_summary/79868</guid>
+      <pubDate>Sun, 17 Mar 2024 17:06:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
