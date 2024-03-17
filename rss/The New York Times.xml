@@ -4,7 +4,14 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Mar 2024 02:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 05:00:08 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯投票悬念不大。接下来会发生什么还不太确定。</title>
+      <link>https://www.nytimes.com/2024/03/17/world/europe/russia-elelction-mood.html</link>
+      <description><![CDATA[尽管投票结果毫无疑问，但人们担心，大胆的普京总统可能会利用这次胜利来启动新的战争动员。]]></description>
+      <guid>https://www.nytimes.com/2024/03/17/world/europe/russia-elelction-mood.html</guid>
+      <pubDate>Sun, 17 Mar 2024 04:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普称一些移民“不是人”，并预测如果他输了就会“大屠杀”</title>
       <link>https://www.nytimes.com/2024/03/16/us/politics/trump-speech-ohio.html</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[即使有国民警卫队在系统内巡逻，一些纽约人仍表示他们感到不安全，尤其是在周四布鲁克林发生地铁枪击事件之后。其他人则不为所动。]]></description>
       <guid>https://www.nytimes.com/2024/03/16/nyregion/subway-shooting-national-guard-safety.html</guid>
       <pubDate>Sat, 16 Mar 2024 23:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>叛逆的俄罗斯人从乌克兰发动袭击，加强了乌克兰无人机的袭击</title>
-      <link>https://www.nytimes.com/2024/03/16/world/europe/anti-putin-russians-ukraine-attacks.html</link>
-      <description><![CDATA[这些突然袭击恰逢俄罗斯大选，旨在破坏俄罗斯的稳定感，并从乌克兰转移该国的军事资源。]]></description>
-      <guid>https://www.nytimes.com/2024/03/16/world/europe/anti-putin-russians-ukraine-attacks.html</guid>
-      <pubDate>Sat, 16 Mar 2024 21:28:40 GMT</pubDate>
     </item>
     <item>
       <title>澳大利亚在寻找中国间谍时抓到了谁</title>
@@ -106,7 +106,7 @@
     <item>
       <title>全国房地产经纪人协会同意削减委员会以解决诉讼</title>
       <link>https://www.nytimes.com/2024/03/15/realestate/national-association-realtors-commission-settlement.html</link>
-      <description><![CDATA[全国房地产经纪人协会将支付 4.18 亿美元的赔偿金，并将修改几项住房专家称将降低住房成本的规则。]]></description>
+      <description><![CDATA[全国房地产经纪人协会将支付 4.18 亿美元的赔偿金，并将修改几项规则，住房专家称这些规则将降低住房成本。]]></description>
       <guid>https://www.nytimes.com/2024/03/15/realestate/national-association-realtors-commission-settlement.html</guid>
       <pubDate>Fri, 15 Mar 2024 16:06:20 GMT</pubDate>
     </item>
