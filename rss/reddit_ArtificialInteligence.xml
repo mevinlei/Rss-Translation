@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 17 Mar 2024 21:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:35:27 GMT</lastBuildDate>
+    <item>
+      <title>人工智能针对欺骗和隐藏进行了优化。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhbk0i/ais_optimized_for_deception_and_concealment/</link>
+      <description><![CDATA[ 由   提交/u/Cervantes6785   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhbk0i/ais_optimized_for_deception_and_concealment/</guid>
+      <pubDate>Sun, 17 Mar 2024 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我解决了人工智能代理问题，这样德文营销团队现在就可以停止向每个人发送垃圾邮件了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bhagkv/i_solved_ai_agents_so_the_devin_marketing_team/</link>
+      <description><![CDATA[谨此献给德文公司喜欢鱼条的营销“天才”！如果你没有在互联网的每个角落进行营销，我永远不会再看一眼。 每个人都希望 LLM 模型成为函数调用代理，但如果每个人都在咆哮怎么办？选错树了？如果我告诉你 LLM 模型不适合这份工作怎么办？如果有另一种形式的机器学习算法能够更好地完成这项工作怎么办？ 我可以采用一组 SWARM 算法，并让它们使用相当于计算器的处理功能来执行函数调用。我可以 ping 一个 URL，然后创建一个单独的 SWARM 代理来与通过 ping 该 URL 找到的每个端点进行交互。无需 GPU 或神经网络。 基于代理的人工智能已得到解决。不要再试图让 LLM 模型来完成机器学习算法的工作了。当你只知道如何使用锤子时，一切看起来都像钉子。当你遇到螺丝时，只需使用螺丝刀而不是锤子。 我可以用一个简单的 Colab Notebook 向你证明这一切：https://colab.research.google.com/drive/1yxxqWyr6H_1ZGGuYnA-oRe0wxO5VxvWb?usp=sharing   由   提交/u/Certain_End_5192   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bhagkv/i_solved_ai_agents_so_the_devin_marketing_team/</guid>
+      <pubDate>Sun, 17 Mar 2024 22:18:26 GMT</pubDate>
+    </item>
     <item>
       <title>最好的人工智能课程是什么？ - 有没有人推荐的人工智能课程？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh87se/what_is_the_best_ai_course_are_there_any_ai/</link>
@@ -41,20 +55,6 @@
       <pubDate>Sun, 17 Mar 2024 16:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>展示不同聊天用户界面的精彩视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh2ahp/great_videos_showing_off_different_chat_uis/</link>
-      <description><![CDATA[Mustache AI 是一个很好的资源，可以了解不同的 AI 聊天 UI 所提供的功能。他非常了解最新的本地和云人工智能聊天。很高兴看到人们提供的服务。 https://youtu.be/ck_OeNFTMbM?si= EVBT-4B4p7Jsz1sq   由   提交 /u/PacmanIncarnate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bh2ahp/great_videos_showing_off_different_chat_uis/</guid>
-      <pubDate>Sun, 17 Mar 2024 16:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能将在塑造我们的社会和日常生活中发挥什么作用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh28lh/what_role_will_ai_play_in_shaping_our_society_and/</link>
-      <description><![CDATA[我对此有自己的想法，但我更有兴趣了解您的想法。  您认为人工智能将如何改变我们的日常生活？   由   提交 /u/ramst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bh28lh/what_role_will_ai_play_in_shaping_our_society_and/</guid>
-      <pubDate>Sun, 17 Mar 2024 16:49:14 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 每周摘要（3 月 9 日至 3 月 16 日）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bh1kzx/ai_weekly_rundown_march_9_to_march_16/</link>
       <description><![CDATA[]]></description>
@@ -76,6 +76,13 @@
       <pubDate>Sun, 17 Mar 2024 14:51:44 GMT</pubDate>
     </item>
     <item>
+      <title>我可以使用 AI 将 google excel 表格转换为可以上传到 Quizlet 的抽认卡吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bgy497/can_i_use_ai_to_turn_a_google_excel_sheet_into/</link>
+      <description><![CDATA[不确定这是否是正确的 Reddit 子版块，但无论如何我都会尝试一下。在 A 列中，我列出了一些事项。在 B-M 列中，我有不同的类别，然后是与列表 A 相对应的信息。（例如，A 列将列出医疗状况，B-M 列将列出受影响的器官、病理、症状等）。我希望闪存卡在 A 中的每种疾病的 B-M 列中都有一张闪存卡。所以就像一张卡片是哮喘受影响的器官，下一张卡片是哮喘的病理，等等。有没有一种方法我可以使用 AI 来这样做以及如何做？我可以将其导入到 Quizlet 中吗？最好也是免费的？    由   提交/u/BagelBitch267  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bgy497/can_i_use_ai_to_turn_a_google_excel_sheet_into/</guid>
+      <pubDate>Sun, 17 Mar 2024 13:56:04 GMT</pubDate>
+    </item>
+    <item>
       <title>最好的人工智能女友生成器？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bgp1uj/best_ai_girlfriend_generator/</link>
       <description><![CDATA[人工智能的发展速度超出了我们的预期，并且有大量所谓的免费人工智能女朋友生成器/应用程序出现。  我定期研究和测试新的人工智能女友应用程序，以保持我的知识最新。 &lt; p&gt;迄今为止我评测过的最好的人工智能女朋友生成器应用程序包括： ​  FantasyGF DreamGF &lt; li&gt;Candy AI 诱惑 AI 浪漫 AI CrushOn AI 亲密 AI  您对最好的人工智能女朋友生成器/应用程序有何建议？您希望我评论哪些应用程序？   由   提交/u/opulent1986  [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[https://www.nbcnews.com/politics/national-security/china-Russia-ai-divide-us-society-undermine-us-elections-power-rcna142880    由   提交 /u/Foxtrot_Juliet-Bravo   /u/Foxtrot_Juliet-Bravo reddit.com/r/ArtificialInteligence/comments/1bgnczu/ai_gives_Russia_china_new_tools_to_sow_division/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bgnczu/ai_gives_russia_china_new_tools_to_sow_division/</guid>
       <pubDate>Sun, 17 Mar 2024 02:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件的终结：多功能人工智能应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bgg5ev/the_end_of_software_an_omnipurpose_ai_application/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bgg5ev/the_end_of_software_an_omnipurpose_ai_application/</guid>
-      <pubDate>Sat, 16 Mar 2024 21:07:12 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
