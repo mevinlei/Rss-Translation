@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 00:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 03:10:22 GMT</lastBuildDate>
     <item>
       <title>EVM沙箱</title>
       <link>https://www.producthunt.com/posts/evm-sandbox</link>
@@ -48,20 +48,6 @@
       <pubDate>Mon, 18 Mar 2024 00:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>拆分支付</title>
-      <link>https://www.producthunt.com/posts/splitpay</link>
-      <description><![CDATA[
-            创建链接、发送、将钱存入您的银行
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/splitpay</guid>
-      <pubDate>Sun, 17 Mar 2024 16:19:39 GMT</pubDate>
-    </item>
-    <item>
       <title>助手</title>
       <link>https://www.producthunt.com/posts/aide</link>
       <description><![CDATA[
@@ -74,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/aide</guid>
       <pubDate>Sun, 17 Mar 2024 15:46:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越地球：生命模拟</title>
+      <link>https://www.producthunt.com/posts/beyond-earth-life-simulation</link>
+      <description><![CDATA[
+            滑动决策游戏，探索并征服银河系
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/beyond-earth-life-simulation</guid>
+      <pubDate>Sun, 17 Mar 2024 07:18:34 GMT</pubDate>
     </item>
     <item>
       <title>优化价格</title>
@@ -107,7 +107,7 @@
       <title>盲人CV</title>
       <link>https://www.producthunt.com/posts/cvtoblind</link>
       <description><![CDATA[
-            告别繁琐的简历到盲人任务
+            告别繁琐的 CV 到 Blind 任务
           
 
 讨论
