@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 15:04:39 GMT</lastBuildDate>
     <item>
-      <title>[媒体]特斯拉比丰田更值钱吗？</title>
-      <link>https://t.me/hn_summary/80153</link>
-      <description><![CDATA[特斯拉比丰田更有价值吗？
-2024 年 3 月，calpaterson 上探讨了特斯拉是否比丰田更有价值的问题.com。虽然特斯拉的市值高于丰田，但本文深入探讨了企业价值（包括债务和现金）的重要性。本文还以 Teledyne 的历史为例，讨论了公司借钱与出售股票的策略。有争议的 M&amp;M 定理因与现实世界的公司财务无关而被驳回。文章最后附注了大卫·艾因霍恩 (David Einhorn) 失败的特斯拉空头头寸，并建议阅读威廉·桑代克 (William Thorndike) 的著作《局外人》(The Outsiders)。 （根据 99% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80153</guid>
-      <pubDate>Tue, 19 Mar 2024 09:04:32 GMT</pubDate>
+      <title>来自 Okapi 的 Ulysse 和 Ned 正在推出一种新的、灵活的 CRM，旨在将 [...]</title>
+      <link>https://t.me/hn_summary/80196</link>
+      <description><![CDATA[推出 HN：Okapi (YC W24) – 全新、灵活的 CRM具有良好的用户体验
+来自 Okapi 的 Ulysse 和 Ned 正在推出一种新的、灵活的 CRM，旨在将 Salesforce 的功能与现代用户体验相结合。他们认为，CRM 成功的关键是在改进用户界面的同时保持 Salesforce 的 SObject 的灵活性。他们正在寻求 HN 社区的反馈，并提供了视频演示和亲自试用 CRM 的权限。他们提出的一个有争议的观点是，诸如 Apex 之类的事务中自定义脚本对于 CRM 是否是必需的，或者是否是在 Salesforce 演变成更多应用程序平台时添加的。]]></description>
+      <guid>https://t.me/hn_summary/80196</guid>
+      <pubDate>Tue, 19 Mar 2024 15:04:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] BootLogo 是 Logo 语言的小型解释器，设计用于在 8088 进程上运行 [...]</title>
-      <link>https://t.me/hn_summary/80152</link>
-      <description><![CDATA[BootLogo：508字节x86机器码的Logo语言
-BootLogo 是 Logo 语言的小型解释器，设计用于在带有 VGA 兼容卡的 8088 处理器上运行。它的大小只有 512 字节，可以使用 Netwide Assembler 进行汇编。解释器允许基本的 Logo 命令，例如移动乌龟、旋转它和重复命令。它可以在 VirtualBox、DosBox 或 qemu 上运行。作者 Oscar Toledo G. 还为那些有兴趣了解更多信息的人提供了一本有关 8086/8088 汇编程序编程的书。该项目因其紧凑的尺寸和简单性而脱颖而出，使其成为Logo语言爱好者的独特工具。]]></description>
-      <guid>https://t.me/hn_summary/80152</guid>
-      <pubDate>Tue, 19 Mar 2024 08:51:23 GMT</pubDate>
+      <title>Java 22（JDK 22 的最新版本）现已可供生产使用。</title>
+      <link>https://t.me/hn_summary/80195</link>
+      <description><![CDATA[Java 22 发布
+Java 22（JDK 22 的最新版本）现已可供生产使用。此版本包括 12 个 JEP，具有外部函数和内存 API 以及未命名变量和模式等显着功能。还包括数百个较小的增强功能和错误修复。 Oracle 的 GPL 许可 OpenJDK 版本可以在其网站上找到，其他供应商的版本预计很快就会推出。由于社区中许多人的贡献，该版本标志着 Java 发展的另一个里程碑。有关更多详细信息，请访问 openjdk.org 上的 JDK 22 项目页面。]]></description>
+      <guid>https://t.me/hn_summary/80195</guid>
+      <pubDate>Tue, 19 Mar 2024 15:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]乐施会的一份新报告显示，首席执行官和股东正在收获 [...]</title>
-      <link>https://t.me/hn_summary/80151</link>
-      <description><![CDATA[“我们本质上处于一个新的镀金时代” 
-乐施会的一份新报告显示，首席执行官和股东正在获得创纪录的利润，而工人却在苦苦挣扎。 CEO 薪酬飙升，股票回购量在 2022 年创下历史新高。自 20 世纪 70 年代以来，高层权力的巩固一直在持续，企业税率下降，工会成员人数减少。尽管出现了一些变化的迹象，例如工会化程度不断提高，但工资差距仍在继续扩大，特别是在零售业。报告警告说，这种财富集中的趋势从长远来看是不可持续的。]]></description>
-      <guid>https://t.me/hn_summary/80151</guid>
-      <pubDate>Tue, 19 Mar 2024 07:59:07 GMT</pubDate>
+      <title>问HN：23 TiB 的个人文件应该如何整理和备份？</title>
+      <link>https://t.me/hn_summary/80194</link>
+      <description><![CDATA[问HN：应该如何组织和备份23 TiB的个人文件？
+作者正在寻求有关如何组织和备份分布在多个硬盘驱动器上的 23 TiB 个人文件的建议。他们估计实际上只需要备份 6 TiB 的数据。他们更喜欢离线存储，并希望使用只有他们控制的密钥进行加密。他们正在寻找一种可以使用开源软件恢复的简单系统。他们对本地文件系统设置、备份方法、数据聚合和远程备份软件建议有疑问。作者正在为这项具有挑战性的任务寻找实用且有效的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/80194</guid>
+      <pubDate>Tue, 19 Mar 2024 14:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博文讨论了如何为 KWin 编写 QML 效果，重点关注过渡 [...]</title>
-      <link>https://t.me/hn_summary/80150</link>
-      <description><![CDATA[如何为 KWin 编写 QML 效果
-这篇博客文章讨论了如何为 KWin 编写 QML 效果，重点关注从 C++ 到 QtQuick 的过渡，以在 Plasma 中实现类似仪表板的效果。它突出显示了项目结构，提供了“Hello World”示例，演示了显示窗口和输入处理，并解释了每个屏幕的委托方式。这篇文章还介绍了效果的配置选项。 Plasma 6.0 中引入声明性效果是一项重大改进，使开发人员可以更轻松地创建效果，而无需使用 C++ 代码。 （根据故事文本的 63% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80150</guid>
-      <pubDate>Tue, 19 Mar 2024 07:43:59 GMT</pubDate>
+      <title>[媒体]Causal 2.0 是一款针对初创公司的尖端财务规划工具，它利用概率 [...]</title>
+      <link>https://t.me/hn_summary/80193</link>
+      <description><![CDATA[展示 HN：因果 2.0 – 初创企业的现代财务规划
+Causal 2.0 是一款面向初创公司的尖端财务规划工具，它利用概率模型来分析 CAC、价格和转化率等关键指标。以数据支持的方式快速探索不同场景的能力令人兴奋。更令人印象深刻的是，Causal 2.0 与 Notion 无缝集成，使其成为项目规划和分析的游戏规则改变者。通过 Causal 2.0 加入财务规划的未来。]]></description>
+      <guid>https://t.me/hn_summary/80193</guid>
+      <pubDate>Tue, 19 Mar 2024 14:49:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在vehicleprivacyreport.com，我们为汽车企业提供了一个解决方案，可以轻松地提供[...]</title>
-      <link>https://t.me/hn_summary/80149</link>
-      <description><![CDATA[车辆隐私报告
-在vehicleprivacyreport.com，我们为汽车企业提供了一个解决方案，可以轻松地在其网站上向消费者提供公平透明的车辆隐私披露。该工具可帮助经销商、汽车金融公司、车队经理等确保客户了解其个人信息的使用方式。通过实施自动披露，企业可以与客户建立信任并展示对隐私保护的承诺。通过我们的创新解决方案保持领先地位并优先考虑消费者隐私。]]></description>
-      <guid>https://t.me/hn_summary/80149</guid>
-      <pubDate>Tue, 19 Mar 2024 06:35:38 GMT</pubDate>
+      <title>我们很高兴地宣布最新更新 Spacedrive Alpha v0.2，具有令人兴奋的新功能 [...]</title>
+      <link>https://t.me/hn_summary/80192</link>
+      <description><![CDATA[Spacedrive Alpha v0.2
+我们很高兴地宣布最新更新 Spacedrive Alpha v0.2，根据您的反馈提供了令人兴奋的新功能。资源管理器现在支持拖放功能、图像的 AI 标签、高级搜索选项和用于更好组织的选项卡。我们还扩展了语言选项并更新了未来版本的路线图。请继续关注即将推出的功能，例如多设备连接、iOS 和 Android 应用程序以及列视图。与我们一起踏上这段旅程，我们将继续创新和改进 Spacedrive。在 Twitter 和 Discord 上关注我们以获取最新更新，并与我们分享您的反馈。]]></description>
+      <guid>https://t.me/hn_summary/80192</guid>
+      <pubDate>Tue, 19 Mar 2024 14:42:18 GMT</pubDate>
     </item>
     <item>
-      <title>.NET 开发者乞求生态系统被破坏</title>
-      <link>https://t.me/hn_summary/80148</link>
-      <description><![CDATA[.NET开发者乞求生态系统毁灭
-ASP.NET GitHub 线程“Epic：事件”上的 .NET 开发人员.NET 9”中的框架分为两个群体：那些重视供应商多元化和选择的群体，以及那些担心第三方OSS项目并要求微软提供解决方案的群体。恐惧驱动的群体相信遵守微软标准可以避免受到指责，而选择寻求者则主张竞争和选择。争议在于，尽管历史上有过放弃项目的例子，但恐惧驱动的人群对微软产品的盲目信任。令人惊讶的是一些 .NET 开发人员公开支持破坏生态系统，这凸显了社区内部的独特分歧。最终，争论的焦点是 .NET 生态系统中选择和竞争的重要性。 （根据 70% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80148</guid>
-      <pubDate>Tue, 19 Mar 2024 06:09:29 GMT</pubDate>
+      <title>关于“Ruby 中实用的铁路导向管道”的文章探讨了构建 [...]</title>
+      <link>https://t.me/hn_summary/80191</link>
+      <description><![CDATA[Ruby 中面向铁路的实用管道
+“Ruby 中实用的面向铁路的管道”一文探讨了在 Ruby 中使用面向铁路的范例构建可组合处理管道的概念。作者提供了一个适合实际使用的简化实现，展示了数据处理管道和通用 Result 类。 Result 类包装通过管道传递的值，并且可以处于“Continue”或“Halt”状态，提供用于处理它们的一致接口。本文还深入探讨了创建管道、组合管道以及扩展管道以实现特定于域的功能，展示了这种方法在复杂数据处理工作流中的多功能性和有效性。 （根据 42% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80191</guid>
+      <pubDate>Tue, 19 Mar 2024 14:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>“Not Even Wrong”博客庆祝成立 20 周年，反思物理的演变 [...]</title>
-      <link>https://t.me/hn_summary/80147</link>
-      <description><![CDATA[20 年“甚至没有错”
-“Not Even Wrong”博客庆祝成立 20 周年，反思物理博客的演变和基础理论的衰落。现年 66 岁的作者对主导该领域的推测性想法的失败以及由于实验限制而缺乏进展感到遗憾。精英机构未能提供必要的培训，导致研究项目停滞不前。最近发生的事件，例如有争议的计划和宣传噱头，粉碎了对该领域未来的任何剩余希望。尽管如此，作者仍然对个人进步和新想法保持乐观，同时对整个物理学的未来感到担忧。]]></description>
-      <guid>https://t.me/hn_summary/80147</guid>
-      <pubDate>Tue, 19 Mar 2024 06:05:25 GMT</pubDate>
+      <title>人工智能研究人员正在使用生成式人工智能来协助机器学习工作的同行评审。</title>
+      <link>https://t.me/hn_summary/80190</link>
+      <description><![CDATA[人工智能研究人员已开始使用人工智能辅助来审查他们的同行 
+人工智能研究人员正在使用生成式人工智能来协助机器学习工作的同行评审。一项研究分析了顶级人工智能会议的同行评审，发现人工智能语言模型 (LLM) 的使用量略有增加，尤其是在临近截止日期时。作者建议重点关注文本中的形容词来识别法学硕士的帮助，因为法学硕士倾向于更频繁地使用“值得称赞”和“创新”等词语。他们估计 6.5-16.9% 的同行评审可以由法学硕士进行大幅修改。作者强调人工智能写作辅助需要透明度，并警惕人工智能模型中潜在的反馈同质化和偏见。]]></description>
+      <guid>https://t.me/hn_summary/80190</guid>
+      <pubDate>Tue, 19 Mar 2024 14:32:09 GMT</pubDate>
     </item>
     <item>
-      <title>Twstalker.com 是一个 Twitter 替代前端，优先考虑社区安全和隐私。</title>
-      <link>https://t.me/hn_summary/80146</link>
-      <description><![CDATA[Twstalker.com 作为 Twitter 替代前端&lt; br /&gt;
-Twstalker.com 是一个 Twitter 替代前端，优先考虑社区安全和隐私。该网站强调良好的就业、资源和邻里关怀对于创建更安全的社区的重要性。它反对不受控制的监视，特别指出面部识别无人机和摄像头对安全构成威胁。该网站强烈反对 E 提案，认为这是一项危及城市安全的危险措施。 Twstalker.com 提供了关于社区安全和隐私的独特视角，使得它是传统社交媒体平台的一个引人注目的替代品。]]></description>
-      <guid>https://t.me/hn_summary/80146</guid>
-      <pubDate>Tue, 19 Mar 2024 05:37:14 GMT</pubDate>
+      <title>[媒体]英伟达首席执行官黄仁勋在年度展会上公布了最新的 Blackwell 芯片架构 [...]</title>
+      <link>https://t.me/hn_summary/80189</link>
+      <description><![CDATA[Nvidia Waves 和护城河
+英伟达首席执行官黄仁勋在年度 GPU 技术大会上推出了最新的 Blackwell 芯片架构，将其与“人工智能伍德斯托克”进行了比较。新款 B200 芯片有望扩大 Nvidia 在人工智能开发领域的领先地位，与前身 Hopper 相比，其性能提升令人印象深刻。 Blackwell 平台采用独特的设计，带有两个熔合模具，可提供更高的性能和效率。此外，Nvidia 还宣布推出 Nvidia Inference Microservices (NIM)，以简化企业应用程序中的 AI 模型部署。该公司专注于生成式人工智能和创新芯片设计，使英伟达成为科技行业的主导力量。 （根据 79% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80189</guid>
+      <pubDate>Tue, 19 Mar 2024 14:20:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]神经网络如何学习？</title>
-      <link>https://t.me/hn_summary/80145</link>
-      <description><![CDATA[神经网络如何学习？
-神经网络正在彻底改变人工智能，但其内部运作方式仍然是个谜。加州大学圣地亚哥分校的研究人员发现了一个数学公式，可以解释这些网络如何学习数据中的相关模式，从而揭示它们的决策过程。这一突破可能会带来更简单、更高效、更可解释的机器学习模型，从而实现人工智能的民主化。通过了解神经网络的工作原理，我们可以构建需要更少计算能力且更易于理解的系统。这项发表在《科学》杂志上的研究标志着揭开人工智能技术黑匣子的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/80145</guid>
-      <pubDate>Tue, 19 Mar 2024 05:33:09 GMT</pubDate>
+      <title>在一个充满野心和鲁莽的故事中，一位名叫 Activeits 的哈利法克斯男子建造了一台非法电视 [...]</title>
+      <link>https://t.me/hn_summary/80188</link>
+      <description><![CDATA[哈利法克斯非法电视流媒体帝国的兴衰
+在一个充满野心和鲁莽的故事中，一位名叫 Activeits 的哈利法克斯男子建立了一个名为 Beast TV 的非法电视流媒体帝国，号称每天能赚数千美元。然而，他的傲慢导致了他的垮台，因为他被责令向各大娱乐公司支付 710 万美元的罚款。该案件突显了加拿大非法 IPTV 服务的盛行，这些服务提供数千个频道的廉价服务。尽管美国公司提出批评并呼吁加强执法，但一些人认为问题的根源在于缺乏负担得起且易于获取的内容。围绕盗版及其对合法企业影响的争议仍然是业界的热门话题。]]></description>
+      <guid>https://t.me/hn_summary/80188</guid>
+      <pubDate>Tue, 19 Mar 2024 14:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]微软推出了 Garnet，一个开源缓存存储系统，旨在加速 [...]</title>
-      <link>https://t.me/hn_summary/80144</link>
-      <description><![CDATA[Garnet – 开源、下一代、更快的缓存存储用于加速应用程序
-微软推出了 Garnet，这是一种开源缓存存储系统，与 Redis 和 KeyDB 等现有系统相比，旨在通过提供更好的可扩展性、吞吐量和更低的延迟来加速应用程序。 Garnet 的独特功能包括跨平台支持、丰富的 API 以及用于分片和复制的集群模式。通过实验，Garnet 在吞吐量和延迟方面表现出了卓越的性能，使其成为应对现代数据存储挑战的有前途的解决方案。 Garnet 专注于可扩展性和性能优化，旨在彻底改变缓存存储行业，使开发人员能够构建更快、更高效的应用程序。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/80144</guid>
-      <pubDate>Tue, 19 Mar 2024 05:18:02 GMT</pubDate>
+      <title>[媒体]戴尔宣布了一项新政策，只允许被归类为混合型或雷姆型的员工 [...]</title>
+      <link>https://t.me/hn_summary/80187</link>
+      <description><![CDATA[戴尔表示，如果远程员工想要晋升，就必须采用混合方式
+戴尔宣布了一项新政策，仅允许混合型或远程员工的员工有资格获得职业晋升。这意味着远程工作人员必须每周在经批准的办公室至少呆三天才有资格成为混合办公人员。这一转变与戴尔之前的灵活工作政策相矛盾，引起了员工的不满，他们认为新规定限制了他们的职业发展，并对他们的工作与生活平衡产生了负面影响。一些员工认为该政策歧视女性，并认为这是一种“悄悄解雇”以避免遣散费的形式。首席执行官迈克尔·戴尔此前对远程工作的支持与新政策形成鲜明对比，让员工感到沮丧和不受支持。]]></description>
+      <guid>https://t.me/hn_summary/80187</guid>
+      <pubDate>Tue, 19 Mar 2024 14:06:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
