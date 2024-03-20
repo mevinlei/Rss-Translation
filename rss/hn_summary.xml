@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 00:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 15:07:33 GMT</lastBuildDate>
     <item>
-      <title>[媒体]研究人员利用生成人工智能取得了突破性的发现[...]</title>
-      <link>https://t.me/hn_summary/80305</link>
-      <description><![CDATA[“具有里程碑意义的时刻”：科学家利用人工智能从头开始设计抗体
-研究人员首次利用生成人工智能设计全新的抗体，取得了突破性的发现。这种创新方法有可能彻底改变价值数十亿美元的治疗性抗体市场。所使用的人工智能工具 RFdiffusion 改变了蛋白质设计，使研究人员能够创建识别细菌和病毒蛋白质特定区域以及癌症药物靶标的抗体。虽然这是向前迈出的重要一步，但设计抗体在达到临床使用之前还有很长的路要走。尽管面临挑战，这项研究代表了抗体设计领域的一个里程碑式时刻。]]></description>
-      <guid>https://t.me/hn_summary/80305</guid>
-      <pubDate>Wed, 20 Mar 2024 00:25:04 GMT</pubDate>
+      <title>[媒体]第四巡回上诉法院拒绝了在具有里程碑意义的皮拉 [...]</title>
+      <link>https://t.me/hn_summary/80415</link>
+      <description><![CDATA[ISP 具有里程碑意义的盗版责任案并未得到重做上诉法院
+第四巡回上诉法院拒绝了考克斯通讯公司与主要唱片公司之间具有里程碑意义的盗版责任之争的重审请求。 Cox 被判对其盗版用户负有责任，并被勒令支付 10 亿美元的赔偿金，这一裁决威胁到数百万人的互联网连接。尽管双方都反对，法院还是维持了其裁决，使考克斯对盗版行为承担了共同责任。 10 亿美元的损害赔偿金仍然悬空，新的审判将确定损害赔偿的规模。争议在于互联网服务提供商是否应该对监管内容负责，最高法院可能会介入。]]></description>
+      <guid>https://t.me/hn_summary/80415</guid>
+      <pubDate>Wed, 20 Mar 2024 15:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]随着比特币、以太坊和 XRP 价格暴跌，加密货币市场陷入混乱，抹去了 [...]</title>
-      <link>https://t.me/hn_summary/80304</link>
-      <description><![CDATA[随着交易员准备迎接美联储冲击，300B 美元的加密货币价格暴跌加速&lt; /a&gt;
-随着比特币、以太坊和 XRP 价格暴跌，加密货币市场陷入混乱，市值蒸发 3000 亿美元。交易员们紧张不安，预计拜登政府可能会采取镇压行动。令人惊讶的是，摩根大通首席执行官突然转向比特币，这增加了不确定性。埃隆·马斯克重返市场又增添了一层不可预测性。美联储即将做出的利率决定可能会进一步影响价格。尽管混乱不堪，但华尔街比特币ETF的推出已为市场注入了数十亿美元，导致投资者极度贪婪。未来仍不确定，但一些专家预测来年将出现反弹并创下历史新高。]]></description>
-      <guid>https://t.me/hn_summary/80304</guid>
-      <pubDate>Wed, 20 Mar 2024 00:16:58 GMT</pubDate>
+      <title>[媒体]在我最近的帖子中，我深入研究了文化非独身者的概念，探索文化如何[...]</title>
+      <link>https://t.me/hn_summary/80414</link>
+      <description><![CDATA[文化优于政策：出生率下降
+在我最近的文章中，我深入研究了“非自愿文化”的概念，探讨文化和生物因素如何常常掩盖塑造社会结果的政策干预。借鉴斯科特·亚历山大对社会问题和发达国家出生率下降的分析等例子，我认为文化和生物学在影响行为方面比自上而下的政策措施发挥着更重要的作用。通过考察共产主义罗马尼亚的极端生育政策，我强调了强制控制出生率的意外后果和最终失败。最终，我主张更深入地了解文化和生物学在塑造社会趋势方面的作用，强调它们相对于传统政策干预的力量。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/80414</guid>
+      <pubDate>Wed, 20 Mar 2024 15:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Htmlq 是一个类似于 jq 的工具，但针对 HTML 文件，允许用户提取内容 [...]</title>
-      <link>https://t.me/hn_summary/80303</link>
-      <description><![CDATA[Htmlq：与 Jq 类似，但针对 HTML
-Htmlq 是一个类似于 jq 的工具，但针对 HTML 文件，允许用户使用 CSS 选择器提取内容。可以使用各种包管理器安装它。该项目提供了检测基本 URL、忽略空格、漂亮的打印输出和选择特定属性等功能。示例包括通过 ID 查找内容、提取链接、获取文本内容以及在输出之前删除节点。 Htmlq 还支持使用 bat 进行语法高亮显示。该项目因其易用性和从 HTML 文件中提取特定内容的灵活性而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/80303</guid>
-      <pubDate>Wed, 20 Mar 2024 00:05:52 GMT</pubDate>
+      <title>Arch Linux 最小容器用户区 100% 可重现 – 现在怎么办？</title>
+      <link>https://t.me/hn_summary/80413</link>
+      <description><![CDATA[Arch Linux 最小容器用户空间 100% 可重现 – 现在怎么办？
+感谢 dvzrv 和 Foxboron 的辛勤工作，Arch Linux 最小容器用户空间现已 100% 可复制。然而，下一步是使 OCI 容器镜像本身可重现。作者不确定 Docker Hub 上的“官方”镜像是否有相关工作。他们提到了由于注册表生成的清单文件和潜在的镜像更改而导致复制容器映像的挑战。尽管取得了进展，但并非所有重建者都报告了 100% 的可重复性。作者还提到了他们正在开发的一个名为 repro-env 的供应链安全工具。]]></description>
+      <guid>https://t.me/hn_summary/80413</guid>
+      <pubDate>Wed, 20 Mar 2024 14:57:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Nvidia 与 Hippocratic AI 合作，提供生成式 AI 护士，每人仅需 9 美元 [...]</title>
-      <link>https://t.me/hn_summary/80302</link>
-      <description><![CDATA[Nvidia AI 护士可能会让医院每小时花费 9 美元&lt; br/&gt;
-Nvidia 与 Hippocratic AI 合作，以每小时 9 美元的价格提供生成式 AI 护士，低于每小时 90 美元的真人护士。人工智能护士通过视频通话实时为患者提供医疗建议，提供一系列专业服务。希波克拉底宣传其人工智能护士在床边态度、教育和满意度方面优于人类护士。人工智能医疗保健代理的推出正值护理行业动荡之际，数千名护士将在 2023 年举行罢工。虽然与 Nvidia 的合作只是 2024 年 GTC 大会上众多公告之一，但它引发了关于可能取代人类的争议人工智能护士。]]></description>
-      <guid>https://t.me/hn_summary/80302</guid>
-      <pubDate>Tue, 19 Mar 2024 23:59:48 GMT</pubDate>
+      <title>[媒体] Z 世代和千禧一代对美国深感不满</title>
+      <link>https://t.me/hn_summary/80412</link>
+      <description><![CDATA[Z世代和千禧一代的极度不满导致美国全球幸福感排名下降&lt; /a&gt;
+美国的 Z 世代和千禧一代导致全球幸福感排名下降，排名滑落至第 23 位。令人惊讶的是，尽管美国年轻人拥有更多的社会关系，但他们的幸福感却比老一辈人低得多。孤独是一个关键因素，千禧一代感觉比婴儿潮一代更少受到支持。该报告还强调了代际财富分配的差异。中国和俄罗斯的幸福感排名较低，而阿富汗、黎巴嫩和莱索托是最不幸福的国家。最近加沙的战争可能影响了巴勒斯坦的幸福水平。总体而言，美国不同年龄段的幸福感存在显着差距。]]></description>
+      <guid>https://t.me/hn_summary/80412</guid>
+      <pubDate>Wed, 20 Mar 2024 14:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《光环》的联合创始人兼 Ridgeline Games 的创始人马库斯·莱托 (Marcus Lehto) 在 [...]</title>
-      <link>https://t.me/hn_summary/80301</link>
-      <description><![CDATA[Halo 联合创作者在发行商的安排下加入 EA离开整个团队
-《光环》的联合创作者兼 Ridgeline Games 的创始人马库斯·莱托 (Marcus Lehto) 在 EA 解雇了整个团队开发一款以故事为重点的新《战地》游戏时感到“心痛不已”。自愿离开 EA 的 Lehto 表达了对裁员的失望和悲伤，并表示才华横溢的开发人员遭受了不必要的痛苦。与 DICE 共同开发的单人战役的命运尚不确定。 Lehto 在考虑自己是否想重返这个行业时，宣布他将暂停游戏一段时间，以制定下一步计划。裁员带来的争议和情感影响在他的言论中显而易见。]]></description>
-      <guid>https://t.me/hn_summary/80301</guid>
-      <pubDate>Tue, 19 Mar 2024 23:41:40 GMT</pubDate>
+      <title>[媒体]全球范围内的电子废物已达到创纪录的水平，增长了五倍[...]</title>
+      <link>https://t.me/hn_summary/80411</link>
+      <description><![CDATA[电子垃圾数量已达到创纪录水平
+全球电子废物已达到创纪录水平，其增长速度比回收率快五倍。 2022年，产生了6200万吨电子垃圾，其中只有22.3%被收集和回收。电子垃圾产生量与回收能力之间的差距正在扩大，预计到 2030 年回收率将下降至 20%。制造商因不对其产品报废处理承担责任而受到批评。电子垃圾不仅造成环境和健康风险，还导致气候变化。适当的电子废物管理可以减少碳排放并回收有价值的金属，强调需要增加基础设施和监管投资。]]></description>
+      <guid>https://t.me/hn_summary/80411</guid>
+      <pubDate>Wed, 20 Mar 2024 14:49:15 GMT</pubDate>
     </item>
     <item>
-      <title>尼古拉斯·霍克斯 (Nicholas Hawkes) 是英格兰第一位被定罪的网络闪光者，被判处 5 年以上监禁 [...]</title>
-      <link>https://t.me/hn_summary/80300</link>
-      <description><![CDATA[第一个根据英国新法律被定罪的“网络闪光者”，罪名超过 5年监禁
-尼古拉斯·霍克斯 (Nicholas Hawkes) 是英格兰第一位被定罪的网络爆料者，因主动向一名少女和一名妇女发送生殖器照片而被判处 5 年以上监禁。此案是根据新《在线安全法》首次定罪，该法将网络闪光定为刑事犯罪。霍克斯是一名被定罪的性犯罪者，他承认了这一罪行，但声称这是由于创伤后压力造成的。法官驳回了这一说法，强调网络闪现的严重性及其对受害者的持久影响。此案凸显了犯罪者因网络犯罪而面临的后果，挑战了此类行为无害的观念。]]></description>
-      <guid>https://t.me/hn_summary/80300</guid>
-      <pubDate>Tue, 19 Mar 2024 23:33:35 GMT</pubDate>
+      <title>[媒体]美国媒体的崩溃对许多人来说都是沉重打击，各大媒体纷纷裁员 [...]</title>
+      <link>https://t.me/hn_summary/80410</link>
+      <description><![CDATA[美国媒体正在崩溃
+美国媒体的崩溃对许多人来说都是打击，《Intercept》和《体育画报》等主要出版物都进行了裁员。要求采取行动的呼声越来越高，提出了媒体政策改革和新的融资模式。加利福尼亚州和新泽西州等州正在考虑公民媒体模式和媒体补贴。迫切需要立即减少记者的伤害，互助网络和记者合作社等举措正在兴起，以支持那些受到裁员影响的人。随着传统的市场驱动模式不断失效，媒体行业现在已经到了变革的时候了。]]></description>
+      <guid>https://t.me/hn_summary/80410</guid>
+      <pubDate>Wed, 20 Mar 2024 14:45:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司正在考虑出售其部分国防业务，因为它正在穿越[...]</title>
-      <link>https://t.me/hn_summary/80299</link>
-      <description><![CDATA[波音公司探索在危机中处置部分国防资产&lt; br/&gt;
-波音公司正在考虑在度过一场重大危机之际出售部分国防业务。财务顾问已就几个较小单位联系了潜在买家，但讨论是保密的。这一举措已经酝酿了大约一年，甚至早在最近发生的让波音公司成为众人瞩目的事故之前。对于这家飞机制造商来说，处置国防资产的决定是一个令人惊讶的进展，因为它面临着行业的严格审查和挑战。]]></description>
-      <guid>https://t.me/hn_summary/80299</guid>
-      <pubDate>Tue, 19 Mar 2024 23:29:32 GMT</pubDate>
+      <title>令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/80409</link>
+      <description><![CDATA[实时矢量图形的 Rive 渲染器现已开源
+令人兴奋的消息！ Rive 渲染器现已开源，彻底改变了实时矢量图形。这款定制渲染器可确保以 120 fps 的速度以闪电般的速度渲染矢量图形和文本，并保持原始质量。经过两年的发展，我们已经完全掌控了整个用户体验，优化了性能和速度。通过创建我们自己的渲染器，我们现在可以实现高度要求的功能，例如模糊和阴影。 Rive 渲染器的工作原理是将矢量路径简化为独特的三角形面片，利用强大的 3D 硬件绘制贝塞尔曲线。在 iOS、Android 或 Web 上尝试一下，并在 Github 上探索我们的 Unity 和 Unreal 集成。]]></description>
+      <guid>https://t.me/hn_summary/80409</guid>
+      <pubDate>Wed, 20 Mar 2024 14:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>星露谷物语 1.6 变更日志为游戏带来了大量新内容和功能。</title>
-      <link>https://t.me/hn_summary/80298</link>
-      <description><![CDATA[星露谷物语 1.6 变更日志
-星露谷物语 1.6 变更日志为游戏带来了大量新内容和功能。玩家现在可以享受新的节日、活动和环境事件，以及新的掌握系统，该系统可提供强大的福利和物品。添加了新的农场类型 Meadowlands Farm，以及许多新的 NPC 对话和互动。玩家现在可以拥有多只宠物，访问姜岛的世界地图，并享受山谷周围的各种视觉效果改进。多人游戏也进行了更改以提高性能和稳定性。此外，还进行了平衡性更改以增强游戏玩法。 （根据故事文本的 25% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/80298</guid>
-      <pubDate>Tue, 19 Mar 2024 23:25:29 GMT</pubDate>
+      <title>OpenAI 的 Sora 模型是一种突破性的视频生成模型，它利用扩散模型 [...]</title>
+      <link>https://t.me/hn_summary/80408</link>
+      <description><![CDATA[OpenAI 的 Sora 模型如何工作
+OpenAI 的 Sora 模型是一种突破性的视频生成模型，它利用扩散模型和 Transformer 架构来创建高度逼真的视频。该模型需要大量计算能力进行训练，并且有可能显着增加对 GPU 推理计算的需求。 Sora 的质量和功能标志着视频生成领域的重大进步，对现实世界的应用产生了影响，并有可能取代库存视频片段。该模型的可扩展性表明视频生成模型的快速进步，能够为机器人和自动驾驶汽车等领域生成合成数据。 Sora 从视频数据中学习世界模型的潜力可能会彻底改变现实世界任务中实体代理的训练。 （根据 54% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/80408</guid>
+      <pubDate>Wed, 20 Mar 2024 14:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一个开创性的案件中，一位美国法官要求各大社交媒体平台公关 [...]</title>
-      <link>https://t.me/hn_summary/80297</link>
-      <description><![CDATA[法官要求社交媒体网站证明他们没有帮助激进的大规模枪击事件
-在一个开创性的案件中，一名美国法官要求主要社交媒体平台证明它们没有助长纽约一家杂货店杀害十人的大规模枪击案凶手的激进化。 Meta、Reddit、Amazon、Alphabet、Discord 和 4Chan 等平台均被告上法庭进行辩护。争议在于原告认为，由于枪手在其网站上遇到的内容，平台应对枪手的行为承担责任。此案可能会重塑社交媒体平台的责任规则，并对《通信规范法》第 230 条提供的保护提出挑战。]]></description>
-      <guid>https://t.me/hn_summary/80297</guid>
-      <pubDate>Tue, 19 Mar 2024 23:21:25 GMT</pubDate>
+      <title>穆斯特农场 (Must Farm) 被称为“英国的庞贝古城”，让您仿佛回到了时光凝固的青铜时代村庄。</title>
+      <link>https://t.me/hn_summary/80407</link>
+      <description><![CDATA[“英国庞贝古城”揭示了青铜时代的村庄被冻结的时间
+穆斯特农场 (Must Farm) 被称为“英国的庞贝古城”，让您时光倒流，回到青铜时代的村庄。该遗址在 2,850 年前被一场大火烧毁，为彼得伯勒附近繁荣社区提供了令人心酸的快照。考古学家发现了保存完好的圆形房屋、工具、纺织品，甚至还发现了一个放在吃了一半的粥里的木勺。火灾起因仍未解开，人们猜测起火原因可能是意外或故意的。令人惊讶的是，该定居点仅被占领了一年，这挑战了有关青铜时代社会的假设。在即将举行的展览中探索这一考古天堂及其对古代英国生活的见解。]]></description>
+      <guid>https://t.me/hn_summary/80407</guid>
+      <pubDate>Wed, 20 Mar 2024 14:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧洲已正式转向 SpaceX 的猎鹰 9 号火箭发射其导航卫星 [...]</title>
-      <link>https://t.me/hn_summary/80296</link>
-      <description><![CDATA[官方消息：欧洲转向猎鹰 9 号发射导航卫星
-欧洲已正式使用 SpaceX 的猎鹰 9 号火箭发射导航卫星，标志着欧洲大陆太空战略的重大转变。该协议允许发射四颗伽利略卫星，由于卫星的专有技术，安全措施得到加强。欧盟将为发射支付额外费用，因为它面临着阿丽亚娜 6 号火箭开发延误的发射器危机。此前，欧洲停止使用俄罗斯火箭，转而委托 SpaceX 执行各种任务，包括即将发射的地球观测卫星和小行星探测器。随着阿丽亚娜 6 号的出现，欧洲进入太空的未来看起来充满希望。]]></description>
-      <guid>https://t.me/hn_summary/80296</guid>
-      <pubDate>Tue, 19 Mar 2024 23:11:19 GMT</pubDate>
+      <title>[媒体] 正在寻找 Movespring 替代品？</title>
+      <link>https://t.me/hn_summary/80406</link>
+      <description><![CDATA[展示 HN：Movespring 替代方案 – DistantRace
+正在寻找 Movespring 替代品？ Distantrace.com 就是您的最佳选择！我们的平台可以让企业轻松为员工设置挑战，有多种挑战类型可供选择。最好的部分？一切都是自动化的，因此无需手动发送结果或屏幕截图。只需专注于这项运动，看看您在挑战台上与您的同事相比如何。加入我们 Distantrace.com，开始有趣又麻烦的比赛-高速公路。 - Līga Akmentiņa，挑战赛组织者。]]></description>
+      <guid>https://t.me/hn_summary/80406</guid>
+      <pubDate>Wed, 20 Mar 2024 14:28:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
