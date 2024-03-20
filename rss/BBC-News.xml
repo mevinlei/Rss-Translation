@@ -4,11 +4,32 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 20 Mar 2024 03:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 06:13:06 GMT</lastBuildDate>
     <item>
-      <title>数据监管机构“评估”凯特医院隐私泄露指控</title>
+      <title>报纸：凯特的记录“违反”和工党的财政规则</title>
+      <link>https://www.bbc.co.uk/news/blogs-the-papers-68612825</link>
+      <description><![CDATA[影子财政大臣涉嫌侵犯威尔士王妃的隐私和承诺登上了头版。]]></description>
+      <guid>https://www.bbc.co.uk/news/blogs-the-papers-68612825</guid>
+      <pubDate>Wed, 20 Mar 2024 05:16:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>上诉法院冻结德克萨斯州新移民法</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68613083</link>
+      <description><![CDATA[该法律将允许警方逮捕涉嫌非法越过美墨边境的人。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68613083</guid>
+      <pubDate>Wed, 20 Mar 2024 04:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>新西兰政客“不关心”Chumbawamba 争端</title>
+      <link>https://www.bbc.co.uk/news/world-asia-68603815</link>
+      <description><![CDATA[副总理温斯顿·彼得斯 (Winston Peters) 回应了英国乐队要求他停止使用他们的歌曲《Tubthumping》的要求。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-asia-68603815</guid>
+      <pubDate>Wed, 20 Mar 2024 04:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>看门狗评估凯特诊所隐私泄露索赔</title>
       <link>https://www.bbc.co.uk/news/uk-68613057</link>
-      <description><![CDATA[报道称，据称医务人员试图查阅威尔士王妃的医疗记录。]]></description>
+      <description><![CDATA[报道称，据称工作人员试图获取威尔士王妃的私人医疗记录。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-68613057</guid>
       <pubDate>Wed, 20 Mar 2024 01:46:33 GMT</pubDate>
     </item>
@@ -48,13 +69,6 @@
       <pubDate>Wed, 20 Mar 2024 00:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>报纸：凯特的记录“违反”和工党的财政规则</title>
-      <link>https://www.bbc.co.uk/news/blogs-the-papers-68612825</link>
-      <description><![CDATA[影子财政大臣涉嫌侵犯威尔士王妃的隐私和承诺登上了头版。]]></description>
-      <guid>https://www.bbc.co.uk/news/blogs-the-papers-68612825</guid>
-      <pubDate>Wed, 20 Mar 2024 00:06:14 GMT</pubDate>
-    </item>
-    <item>
       <title>内战幸存者讲述杀戮和强奸事件，苏丹饥荒迫在眉睫</title>
       <link>https://www.bbc.co.uk/news/world-africa-68606201</link>
       <description><![CDATA[BBC 团队从受灾的首都进行报道，并听取了难民遭受强奸和街头处决的情况。]]></description>
@@ -76,13 +90,6 @@
       <pubDate>Tue, 19 Mar 2024 23:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>海地央行突袭造成至少三人死亡</title>
-      <link>https://www.bbc.co.uk/news/world-latin-america-68609075</link>
-      <description><![CDATA[一名员工称，“一群犯罪分子”瞄准了海地共和国银行，但警方进行了反击。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-latin-america-68609075</guid>
-      <pubDate>Tue, 19 Mar 2024 22:20:35 GMT</pubDate>
-    </item>
-    <item>
       <title>凯特身体双重阴谋论如何在社交媒体上传播</title>
       <link>https://www.bbc.co.uk/news/uk-68609361</link>
       <description><![CDATA[威尔士王妃外出购物的视频引发了网上流传的错误理论。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[国务卿安东尼·布林肯表示，这是第一次发生这种情况，并呼吁提供更多援助。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68605401</guid>
       <pubDate>Tue, 19 Mar 2024 17:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港通过了多年来遭到抗议者抗议的严厉安全法</title>
-      <link>https://www.bbc.co.uk/news/world-asia-china-68594448</link>
-      <description><![CDATA[当局表示，第 23 条对于稳定是必要的，但批评者担心它将进一步侵蚀公民自由。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-asia-china-68594448</guid>
-      <pubDate>Tue, 19 Mar 2024 15:56:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
