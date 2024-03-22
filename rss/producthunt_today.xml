@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Mar 2024 21:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:35:05 GMT</lastBuildDate>
     <item>
       <title>利特莱蒂斯</title>
       <link>https://www.producthunt.com/posts/litelytics</link>
@@ -62,6 +62,20 @@
       <pubDate>Wed, 20 Mar 2024 22:01:51 GMT</pubDate>
     </item>
     <item>
+      <title>索纳托</title>
+      <link>https://www.producthunt.com/posts/sonauto</link>
+      <description><![CDATA[
+            将提示和歌词变成任何风格的完整歌曲。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sonauto</guid>
+      <pubDate>Wed, 20 Mar 2024 19:36:47 GMT</pubDate>
+    </item>
+    <item>
       <title>获取头像.ai</title>
       <link>https://www.producthunt.com/posts/getavatars-ai</link>
       <description><![CDATA[
@@ -74,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/getavatars-ai</guid>
       <pubDate>Wed, 20 Mar 2024 17:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>html 到设计 3.0</title>
+      <link>https://www.producthunt.com/posts/html-to-design-3-0</link>
+      <description><![CDATA[
+            将任何网站转换为完全可编辑的 Figma 设计
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/html-to-design-3-0</guid>
+      <pubDate>Wed, 20 Mar 2024 16:45:26 GMT</pubDate>
     </item>
     <item>
       <title>产品搜索大喊大叫</title>
@@ -118,20 +146,6 @@
       <pubDate>Wed, 20 Mar 2024 13:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>虎鲸扫描</title>
-      <link>https://www.producthunt.com/posts/orca-scan</link>
-      <description><![CDATA[
-            无需代码即可构建条形码系统
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/orca-scan</guid>
-      <pubDate>Wed, 20 Mar 2024 12:40:07 GMT</pubDate>
-    </item>
-    <item>
       <title>演示时间人工智能</title>
       <link>https://www.producthunt.com/posts/demotime-ai</link>
       <description><![CDATA[
@@ -160,18 +174,18 @@
       <pubDate>Wed, 20 Mar 2024 07:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>𝕏 野兽</title>
-      <link>https://www.producthunt.com/posts/beast</link>
+      <title>脉冲人工智能</title>
+      <link>https://www.producthunt.com/posts/pulse-ai</link>
       <description><![CDATA[
-            全自动𝕏后期生成和调度（免费）
+            网站和应用程序的即时用户体验分析
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/beast</guid>
-      <pubDate>Tue, 19 Mar 2024 18:05:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/pulse-ai</guid>
+      <pubDate>Sun, 17 Mar 2024 21:21:57 GMT</pubDate>
     </item>
     <item>
       <title>评论Buddy.ai</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/commentbuddy-ai</guid>
       <pubDate>Sat, 16 Mar 2024 02:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>风筝制造者</title>
-      <link>https://www.producthunt.com/posts/kitemaker-3</link>
-      <description><![CDATA[
-            更少的问题跟踪，更大的影响
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kitemaker-3</guid>
-      <pubDate>Thu, 14 Mar 2024 08:49:43 GMT</pubDate>
     </item>
     <item>
       <title>信息图表</title>
