@@ -4,20 +4,69 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 23 Mar 2024 03:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:15:34 GMT</lastBuildDate>
+    <item>
+      <title>查尔斯国王赞扬凯特在癌症消息传出后的勇气</title>
+      <link>https://www.bbc.co.uk/news/uk-68643638</link>
+      <description><![CDATA[祝福者为处于癌症治疗早期阶段的威尔士王妃提供支持。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68643638</guid>
+      <pubDate>Sat, 23 Mar 2024 05:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>NHS 工作人员将在加沙运营第一家英国野战医院</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68641431</link>
+      <description><![CDATA[随着加沙人道主义危机升级，一个援助组织正在从英国派遣医生。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68641431</guid>
+      <pubDate>Sat, 23 Mar 2024 05:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>大卫·波茨荣获“名人老大哥”奖</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68631473</link>
+      <description><![CDATA[弗恩·布里顿、大卫·波茨、尼基塔·库兹明、路易斯·沃尔什和科尔森·史密斯进入了电视节目决赛。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68631473</guid>
+      <pubDate>Sat, 23 Mar 2024 03:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙战争如何考验美国影响力的极限</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68642467</link>
+      <description><![CDATA[美国正在竭尽全力将这场危机转化为持久和平。但这是一个不可能实现的梦想吗？]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68642467</guid>
+      <pubDate>Sat, 23 Mar 2024 03:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>因病离开劳动力队伍的人数创历史新高</title>
+      <link>https://www.bbc.co.uk/news/business-68639144</link>
+      <description><![CDATA[由于长期患病而选择退出劳动力市场的人数达到了 90 年代以来的最高水平。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68639144</guid>
+      <pubDate>Sat, 23 Mar 2024 02:54:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳粹猎人和失落的爱尔兰共和军纪录片</title>
+      <link>https://www.bbc.co.uk/news/uk-northern-ireland-68639559</link>
+      <description><![CDATA[1972 年，一名与以色列情报部门有联系的纳粹猎手获准接触爱尔兰共和军的敏感机密。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-northern-ireland-68639559</guid>
+      <pubDate>Sat, 23 Mar 2024 02:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>农村高房价迫使当地人租房</title>
+      <link>https://www.bbc.co.uk/news/science-environment-68637698</link>
+      <description><![CDATA[一项研究发现，随着房价上涨，农村地区的租金正在超过伦敦和其他城市。]]></description>
+      <guid>https://www.bbc.co.uk/news/science-environment-68637698</guid>
+      <pubDate>Sat, 23 Mar 2024 02:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔丹·诺斯：电子烟对我的健康有多安全？</title>
+      <link>https://www.bbc.co.uk/news/uk-68611304</link>
+      <description><![CDATA[为了戒掉香烟，主持人乔丹·诺斯开始使用电子烟，但随后担心它们的危害有多大。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68611304</guid>
+      <pubDate>Sat, 23 Mar 2024 02:35:07 GMT</pubDate>
+    </item>
     <item>
       <title>凯特的视频告诉我们有关王室策略的内容</title>
       <link>https://www.bbc.co.uk/news/entertainment-arts-68638078</link>
       <description><![CDATA[英国广播公司(BBC)媒体编辑表示，威尔士王妃患癌症的消息无疑给人一种重置的感觉。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68638078</guid>
       <pubDate>Sat, 23 Mar 2024 01:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>威尔士王妃：我正在接受癌症治疗</title>
-      <link>https://www.bbc.co.uk/news/uk-68641441</link>
-      <description><![CDATA[凯特发布视频消息称，在检查中发现癌症后，她正在接受预防性化疗。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68641441</guid>
-      <pubDate>Sat, 23 Mar 2024 00:59:56 GMT</pubDate>
     </item>
     <item>
       <title>凯特癌症诊断改写了过去几周的故事</title>
@@ -34,6 +83,20 @@
       <pubDate>Sat, 23 Mar 2024 00:08:19 GMT</pubDate>
     </item>
     <item>
+      <title>Faisal Islam：Rishi Sunak 令人惊讶的乐观背后是什么？</title>
+      <link>https://www.bbc.co.uk/news/business-68634968</link>
+      <description><![CDATA[经济形势的变化会让首相留在唐宁街吗？]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68634968</guid>
+      <pubDate>Fri, 22 Mar 2024 22:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里和梅根祝愿凯特“健康和康复”</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68639477</link>
+      <description><![CDATA[哈里王子和梅根表示，他们希望凯瑟琳和她的家人能够“私下和平地”康复。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68639477</guid>
+      <pubDate>Fri, 22 Mar 2024 21:39:49 GMT</pubDate>
+    </item>
+    <item>
       <title>索斯盖特：三狮军团在英格兰球衣上最重要</title>
       <link>https://www.bbc.co.uk/sport/football/68639748</link>
       <description><![CDATA[英格兰主帅索斯盖特表示，在新球衣上的圣乔治十字设计引发争议时，球队球衣上的三狮军团标志是“最重要的事情”。]]></description>
@@ -41,74 +104,11 @@
       <pubDate>Fri, 22 Mar 2024 21:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>莫当特驳斥了挑战苏纳克的言论</title>
-      <link>https://www.bbc.co.uk/news/uk-england-hampshire-68642929</link>
-      <description><![CDATA[这位朴茨茅斯议员表示，她专注于当前的工作，并称这些猜测是“无稽之谈”。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-hampshire-68642929</guid>
-      <pubDate>Fri, 22 Mar 2024 21:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>财政大臣表示10万英镑在萨里并不是一个巨额薪水</title>
-      <link>https://www.bbc.com/news/articles/crgdly318jeo</link>
-      <description><![CDATA[亨特表示，获得免费托儿服务的收入上限是他“非常想解决”的一个问题。]]></description>
-      <guid>https://www.bbc.com/news/articles/crgdly318jeo</guid>
-      <pubDate>Fri, 22 Mar 2024 19:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>对巴克莱废物项目决定的法律警告</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-68638868</link>
-      <description><![CDATA[一位高级政府律师对停止史蒂夫·巴克莱选区废物焚烧厂的计划提出了偏见担忧。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-68638868</guid>
-      <pubDate>Fri, 22 Mar 2024 19:02:27 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯称莫斯科音乐厅袭击事件至少造成60人死亡</title>
       <link>https://www.bbc.co.uk/news/live/world-68642036</link>
       <description><![CDATA[伊斯兰国附属机构声称对 Crocus 市政厅袭击负责，造成 100 多人受伤。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-68642036</guid>
       <pubDate>Fri, 22 Mar 2024 18:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：威尔士王妃的完整消息</title>
-      <link>https://www.bbc.co.uk/news/uk-68641335</link>
-      <description><![CDATA[凯瑟琳在视频声明中表示，在检查中发现癌症后，她正在接受预防性化疗。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68641335</guid>
-      <pubDate>Fri, 22 Mar 2024 18:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯袭击后数百万人失去电力</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68634444</link>
-      <description><![CDATA[乌克兰表示，俄罗斯对关键基础设施的袭击造成五人死亡和大面积停电。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68634444</guid>
-      <pubDate>Fri, 22 Mar 2024 14:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰最大水坝被导弹击中的瞬间</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68637596</link>
-      <description><![CDATA[俄罗斯导弹袭击能源基础设施后，乌克兰大片地区陷入停电。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68637596</guid>
-      <pubDate>Fri, 22 Mar 2024 12:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>《怪奇物语》主演马修·莫迪恩将主持米莉·鲍比·布朗的婚礼</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68631470</link>
-      <description><![CDATA[马修·莫丁说他已经为米莉·鲍比·布朗和杰克·邦吉奥维写了结婚誓言。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68631470</guid>
-      <pubDate>Fri, 22 Mar 2024 11:55:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国呼吁联合国加沙停战 人质遭封锁</title>
-      <link>https://www.bbc.co.uk/news/live/world-68631712</link>
-      <description><![CDATA[随着美国对以色列军事行动的批评越来越多，美国国务卿安东尼·布林肯也正在访问以色列。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-68631712</guid>
-      <pubDate>Fri, 22 Mar 2024 08:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>“先帮助我的兄弟”：全家人被杀后加沙女孩的恳求</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68625406</link>
-      <description><![CDATA[阿尔玛的父母、兄弟姐妹在一枚炸弹摧毁了他们避难的建筑物时全部遇难。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68625406</guid>
-      <pubDate>Fri, 22 Mar 2024 06:04:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
