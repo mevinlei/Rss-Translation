@@ -4,20 +4,27 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 23 Mar 2024 06:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:10:38 GMT</lastBuildDate>
     <item>
-      <title>查尔斯国王赞扬凯特在癌症消息传出后的勇气</title>
+      <title>伦敦地标参与“地球一小时”熄灯活动</title>
+      <link>https://www.bbc.co.uk/news/uk-england-london-68629138</link>
+      <description><![CDATA[一年一度的环保活动在世界各地的地标建筑上举行。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-london-68629138</guid>
+      <pubDate>Sat, 23 Mar 2024 07:36:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>从威尔士的沙漠到冰冷的海水</title>
+      <link>https://www.bbc.co.uk/news/uk-wales-68546796</link>
+      <description><![CDATA[一名埃及人梦想住在威尔士山脉附近，如何导致他对冷水游泳“上瘾”。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-wales-68546796</guid>
+      <pubDate>Sat, 23 Mar 2024 07:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>癌症消息传出后，国王“为凯特的勇气感到骄傲”</title>
       <link>https://www.bbc.co.uk/news/uk-68643638</link>
       <description><![CDATA[祝福者为处于癌症治疗早期阶段的威尔士王妃提供支持。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-68643638</guid>
       <pubDate>Sat, 23 Mar 2024 05:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHS 工作人员将在加沙运营第一家英国野战医院</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68641431</link>
-      <description><![CDATA[随着加沙人道主义危机升级，一个援助组织正在从英国派遣医生。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68641431</guid>
-      <pubDate>Sat, 23 Mar 2024 05:27:02 GMT</pubDate>
     </item>
     <item>
       <title>大卫·波茨荣获“名人老大哥”奖</title>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 23 Mar 2024 03:25:56 GMT</pubDate>
     </item>
     <item>
-      <title>加沙战争如何考验美国影响力的极限</title>
+      <title>加沙战争如何考验美国外交的极限</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68642467</link>
       <description><![CDATA[美国正在竭尽全力将这场危机转化为持久和平。但这是一个不可能实现的梦想吗？]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68642467</guid>
@@ -55,18 +62,11 @@
       <pubDate>Sat, 23 Mar 2024 02:35:44 GMT</pubDate>
     </item>
     <item>
-      <title>乔丹·诺斯：电子烟对我的健康有多安全？</title>
+      <title>乔丹北：电子烟的安全性如何？</title>
       <link>https://www.bbc.co.uk/news/uk-68611304</link>
       <description><![CDATA[为了戒掉香烟，主持人乔丹·诺斯开始使用电子烟，但随后担心它们的危害有多大。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-68611304</guid>
       <pubDate>Sat, 23 Mar 2024 02:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特的视频告诉我们有关王室策略的内容</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68638078</link>
-      <description><![CDATA[英国广播公司(BBC)媒体编辑表示，威尔士王妃患癌症的消息无疑给人一种重置的感觉。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68638078</guid>
-      <pubDate>Sat, 23 Mar 2024 01:12:08 GMT</pubDate>
     </item>
     <item>
       <title>凯特癌症诊断改写了过去几周的故事</title>
@@ -76,14 +76,7 @@
       <pubDate>Sat, 23 Mar 2024 00:39:57 GMT</pubDate>
     </item>
     <item>
-      <title>莫斯科音乐厅袭击视频被审查</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68643601</link>
-      <description><![CDATA[BBC verify 检查了莫斯科郊外克洛库斯市政厅剧院袭击事件中人员拍摄的视频。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68643601</guid>
-      <pubDate>Sat, 23 Mar 2024 00:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Faisal Islam：Rishi Sunak 令人惊讶的乐观背后是什么？</title>
+      <title>费萨尔·伊斯兰：Rishi Sunak 对经济的乐观态度背后的原因是什么？</title>
       <link>https://www.bbc.co.uk/news/business-68634968</link>
       <description><![CDATA[经济形势的变化会让首相留在唐宁街吗？]]></description>
       <guid>https://www.bbc.co.uk/news/business-68634968</guid>
@@ -99,16 +92,23 @@
     <item>
       <title>索斯盖特：三狮军团在英格兰球衣上最重要</title>
       <link>https://www.bbc.co.uk/sport/football/68639748</link>
-      <description><![CDATA[英格兰主帅索斯盖特表示，在新球衣上的圣乔治十字设计引发争议时，球队球衣上的三狮军团标志是“最重要的事情”。]]></description>
+      <description><![CDATA[英格兰主帅索斯盖特表示，在新球衣上的圣乔治十字设计引发争议的情况下，在球队球衣上印上“三狮军团”字样是“最重要的事情”。]]></description>
       <guid>https://www.bbc.co.uk/sport/football/68639748</guid>
       <pubDate>Fri, 22 Mar 2024 21:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯称莫斯科音乐厅袭击事件至少造成60人死亡</title>
+      <title>俄罗斯称，莫斯科音乐会袭击事件造成至少93人死亡，四名嫌疑人被捕</title>
       <link>https://www.bbc.co.uk/news/live/world-68642036</link>
-      <description><![CDATA[伊斯兰国附属机构声称对 Crocus 市政厅袭击负责，造成 100 多人受伤。]]></description>
+      <description><![CDATA[伊斯兰国的一个附属机构声称对 Crocus 市政厅发动袭击负责，造成 140 多人受伤。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-68642036</guid>
       <pubDate>Fri, 22 Mar 2024 18:13:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>凯特：我们花了时间安抚乔治、夏洛特和路易斯</title>
+      <link>https://www.bbc.co.uk/news/uk-68641335</link>
+      <description><![CDATA[凯瑟琳在视频声明中表示，在检查中发现癌症后，她正在接受预防性化疗。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68641335</guid>
+      <pubDate>Fri, 22 Mar 2024 18:03:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
