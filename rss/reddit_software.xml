@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 00:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 03:10:30 GMT</lastBuildDate>
+    <item>
+      <title>Windows Media Player 究竟是如何工作的？</title>
+      <link>https://www.reddit.com/r/software/comments/1bn1909/how_does_windows_media_player_work_exactly/</link>
+      <description><![CDATA[您好，发生了两件事。 如何将快进速率从 30 秒更改为 15 秒或10秒？ 为什么当我点击进度条（我不知道确切的名称）时，它会突出显示一个白色框，而当我按下箭头时，它会大幅跳过。  我对正在发生的事情一无所知，有什么想法吗？   由   提交/u/redraider2229   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bn1909/how_does_windows_media_player_work_exactly/</guid>
+      <pubDate>Mon, 25 Mar 2024 01:13:57 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个可能实际上并不存在的奇怪程序</title>
       <link>https://www.reddit.com/r/software/comments/1bmzobw/looking_for_a_weird_program_that_might_not/</link>
-      <description><![CDATA[不知道是否存在这样的东西，但我正在寻找一个以黑屏启动然后在登录后给出登录提示的程序一些乱码类型的代码在屏幕上滚动，然后自动播放我分配的文件夹中的视频 首选免费和开源 我可以描述它的最佳方式就像《黑色行动》中的终端1 当您摆脱束缚但使用更专业的登录方式   由   提交/u/goldenmasterly  [链接] [评论]]]></description>
+      <description><![CDATA[不知道是否存在这样的东西，但我正在寻找一个以黑屏启动然后在登录后给出登录提示的程序一些乱码类型的代码在屏幕上滚动，然后自动播放我分配的文件夹中的视频 首选免费和开源 我可以描述它的最佳方式就像《黑色行动》中的终端1 当您摆脱束缚但使用更 promanit 登录时   由   提交/u/goldenmasterly  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bmzobw/looking_for_a_weird_program_that_might_not/</guid>
       <pubDate>Mon, 25 Mar 2024 00:01:46 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找一个可靠的应用程序，让我的手机 (S22) 可以同时录制后部和前部（包括音频），而屏幕关闭时最好不能无意中暂停或结束。 主要目的是为了立即发生可能严重或紧急的情况，并且录像可用于我和他人的安全。   由   提交 /u/R3CONIK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bmck6u/app_that_records_front_rear_camera_while_screen/</guid>
       <pubDate>Sun, 24 Mar 2024 04:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么视频质量会有差异。</title>
-      <link>https://www.reddit.com/r/software/comments/1bmbvst/why_is_there_a_difference_in_the_video_quality/</link>
-      <description><![CDATA[我使用 yt-dlp 选择 V​​P9 格式下载了此 YouTube 视频。在 YouTube 的书呆子统计中，该视频的排名为 VP9。视频播放器是MPC-HC，除了键盘快捷键之外的所有内容都是默认的。并排显示视频质量存在明显差异。播放器似乎以较低的饱和度和较低的对比度显示视频。我该如何修复它？ https ://preview.redd.it/h31ywhnci7qc1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=6337c0ba4392ace5aa98ee562c069f8302ede67f  &amp;# 32；由   提交​​ /u/LivingGraveGround   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bmbvst/why_is_there_a_difference_in_the_video_quality/</guid>
-      <pubDate>Sun, 24 Mar 2024 04:07:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
