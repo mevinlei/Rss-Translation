@@ -4,20 +4,62 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 25 Mar 2024 09:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 12:14:59 GMT</lastBuildDate>
     <item>
-      <title>对选民数据的网络攻击将与中国联系起来</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-68652374</link>
-      <description><![CDATA[据报道，长达一年的攻击导致数百万选民的个人详细信息被泄露。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-68652374</guid>
-      <pubDate>Mon, 25 Mar 2024 08:58:49 GMT</pubDate>
+      <title>能源价格在一天中的不同时间可能会有所不同</title>
+      <link>https://www.bbc.co.uk/news/business-68655725</link>
+      <description><![CDATA[Ofgem 启动了有关“动态”价格上限的早期讨论，该上限会随着消费者变得更加灵活而变化。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68655725</guid>
+      <pubDate>Mon, 25 Mar 2024 12:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>电动耳机帮助我“感觉自己又有了希望”</title>
-      <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-68567726</link>
-      <description><![CDATA[阿什利·莱利 (Ashley Riley) 表示，在使用电动耳机治疗抑郁症后，他可以再次成为一名全职父亲。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-northamptonshire-68567726</guid>
-      <pubDate>Mon, 25 Mar 2024 06:36:53 GMT</pubDate>
+      <title>苹果、Meta 和谷歌将接受欧盟调查</title>
+      <link>https://www.bbc.co.uk/news/technology-68655093</link>
+      <description><![CDATA[如果被发现违反规定，公司可能会被处以最高年营业额 10% 的罚款。]]></description>
+      <guid>https://www.bbc.co.uk/news/technology-68655093</guid>
+      <pubDate>Mon, 25 Mar 2024 12:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>厄瓜多尔最年轻市长被发现遭枪杀</title>
+      <link>https://www.bbc.co.uk/news/world-latin-america-68655323</link>
+      <description><![CDATA[27 岁的布丽吉特·加西亚 (Brigitte García) 是最新一位在持续不断的帮派暴力事件中被杀的政客。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-latin-america-68655323</guid>
+      <pubDate>Mon, 25 Mar 2024 11:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼日利亚发放现金时发生踩踏事件 七人死亡</title>
+      <link>https://www.bbc.co.uk/news/world-africa-68654619</link>
+      <description><![CDATA[这场吸引了大批群众的慈善活动中，儿童成为被压伤的受害者之一。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-africa-68654619</guid>
+      <pubDate>Mon, 25 Mar 2024 11:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国指责中国进行重大黑客攻击，北京警告不要“抹黑”</title>
+      <link>https://www.bbc.co.uk/news/live/uk-politics-68654299</link>
+      <description><![CDATA[针对选举委员会的袭击事件于去年曝光，国会议员也被认为是袭击目标。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-politics-68654299</guid>
+      <pubDate>Mon, 25 Mar 2024 11:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>莫斯科袭击死亡人数接近140人，四人出庭</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68652380</link>
+      <description><![CDATA[嫌疑人有被殴打的迹象，被指控因周五音乐厅大屠杀而犯有恐怖主义罪。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68652380</guid>
+      <pubDate>Mon, 25 Mar 2024 10:44:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普 4.64 亿美元欺诈案的截止日期还有几个小时</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68641585</link>
+      <description><![CDATA[如果特朗普在周一之前没有缴纳保证金来支付罚款，他的资产将面临被扣押的风险。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68641585</guid>
+      <pubDate>Mon, 25 Mar 2024 10:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥利维亚·科尔曼：如果我是奥利弗，我会得到更多薪水</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68654311</link>
+      <description><![CDATA[这位获得奥斯卡奖的英国女演员表示，如果她是一个名叫奥利弗的男人，好莱坞会支付更多费用。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68654311</guid>
+      <pubDate>Mon, 25 Mar 2024 09:40:44 GMT</pubDate>
     </item>
     <item>
       <title>在皇家海军钻石号上面对胡塞导弹</title>
@@ -34,25 +76,11 @@
       <pubDate>Mon, 25 Mar 2024 06:01:36 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰士兵拍摄危险的前线任务</title>
+      <title>BBC纪录片记录了乌克兰士兵的前线任务</title>
       <link>https://www.bbc.co.uk/news/world-europe-68640892</link>
       <description><![CDATA[英国广播公司 (BBC) 的一部纪录片讲述了士兵们执行保护乌克兰第二大城市哈尔科夫的任务。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68640892</guid>
       <pubDate>Mon, 25 Mar 2024 05:59:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯指控四名男子参与莫斯科音乐会袭击事件</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68652380</link>
-      <description><![CDATA[莫斯科一家法院指控嫌疑人在克洛库斯市政厅实施恐怖主义行为，导致 137 人死亡。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68652380</guid>
-      <pubDate>Mon, 25 Mar 2024 04:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙特阿拉伯将建龙珠主题公园</title>
-      <link>https://www.bbc.co.uk/news/business-68653311</link>
-      <description><![CDATA[这一消息引起了这部著名动漫粉丝的不同反应。]]></description>
-      <guid>https://www.bbc.co.uk/news/business-68653311</guid>
-      <pubDate>Mon, 25 Mar 2024 03:25:33 GMT</pubDate>
     </item>
     <item>
       <title>我们对莫斯科音乐厅袭击事件了解多少</title>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 25 Mar 2024 00:49:30 GMT</pubDate>
     </item>
     <item>
-      <title>香港作为全球商业中心的时代结束了吗？</title>
-      <link>https://www.bbc.co.uk/news/world-asia-china-68636561</link>
-      <description><![CDATA[严厉的新安全法出台之际，企业已经对这座城市保持警惕。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-asia-china-68636561</guid>
-      <pubDate>Mon, 25 Mar 2024 00:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要在加沙建造家园的犹太定居者</title>
+      <title>犹太定居者将目光投向加沙海滨</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68650815</link>
       <description><![CDATA[他们看到了推动犹太人定居点回归巴勒斯坦领土的机会。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68650815</guid>
       <pubDate>Sun, 24 Mar 2024 23:26:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在“特殊”时刻发现罕见的白喜鹊</title>
-      <link>https://www.bbc.co.uk/news/uk-wales-68651330</link>
-      <description><![CDATA[摄影师特里·赖特 (Terry Wright) 表示，能够捕捉到这只不寻常的鸟，他感觉自己是“世上最幸运的人”。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-wales-68651330</guid>
-      <pubDate>Sun, 24 Mar 2024 20:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我参加了“最艰难的比赛”来激励全世界的女性</title>
-      <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-68651150</link>
-      <description><![CDATA[Jasmin Paris 创造了历史，成为第一位完成艰苦的 100 英里巴克利马拉松比赛的女性。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-68651150</guid>
-      <pubDate>Sun, 24 Mar 2024 19:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：服务员拿着羊角面包跑遍巴黎</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68649600</link>
-      <description><![CDATA[男女服务员的比赛始于1914年，但由于缺乏赞助商，自2011年以来一直没有举办过。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68649600</guid>
-      <pubDate>Sun, 24 Mar 2024 14:53:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
