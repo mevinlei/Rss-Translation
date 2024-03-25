@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 08:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:12:25 GMT</lastBuildDate>
     <item>
-      <title>news.ycombinator.com 上这篇文章的作者正在寻求有关如何重建他们的UNDE的建议[...]</title>
-      <link>https://t.me/hn_summary/81145</link>
-      <description><![CDATA[问 HN：从头开始学习数学&lt; br /&gt;
-news.ycombinator.com 上这篇文章的作者是寻求有关如何从头开始重建他们对数学的理解的建议。尽管由于缺乏纪律和教育水平低下，他们在学校考试期间数学成绩不佳，但他们现在是一名在算法和数据结构方面拥有坚实基础的软件工程师。然而，他们发现自己薄弱的数学和统计技能在解释工作中的指标时受到限制。作者正在寻找学习数学的路线图、教科书、课程或互动工具的推荐，以及克服类似挑战的其他人的建议。这篇文章强调了在技术领域持续学习和自我完善的重要性。]]></description>
-      <guid>https://t.me/hn_summary/81145</guid>
-      <pubDate>Mon, 25 Mar 2024 08:58:38 GMT</pubDate>
+      <title>[媒体] 在这篇怀旧的文章中，Paul Lefebvre 回顾了他的第一台计算机 Atari 400，[...]</title>
+      <link>https://t.me/hn_summary/81227</link>
+      <description><![CDATA[了解 Atari 400 第 1 部分 – 作者：Paul Lefebvre
+在这篇怀旧的文章中，保罗·列斐伏尔 (Paul Lefebvre) 回顾了他的第一台计算机 Atari 400，这是他在 1983 年以 29 美元的折扣价格偷偷购买的。尽管有其局限性，例如需要单独购买 BASIC 以及臭名昭著的劣质键盘，Atari 400 仍提供了无尽的娱乐和学习机会。 Lefebvre 的 Atari 400 之旅证明了早期计算的兴奋和挑战。请继续关注第 2 部分，他将深入探讨 Atari 400 的技术方面，并讨论即将于 2024 年 3 月发布的 Atari 400 迷你套装。]]></description>
+      <guid>https://t.me/hn_summary/81227</guid>
+      <pubDate>Mon, 25 Mar 2024 18:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在意大利，一欧元的房屋销售引起了人们的兴趣，但帕特里卡等一些城镇 [...]</title>
-      <link>https://t.me/hn_summary/81144</link>
-      <description><![CDATA[意大利小镇正努力以一欧元的价格出售空置房屋&lt; /a&gt;
-在意大利，一欧元的房屋销售引起了人们的兴趣，但由于亲戚之间的所有权纠纷，像帕特里卡这样的一些城镇很难出售废弃的房产。菲奥达利索市长在追踪移居海外的业主的后代方面面临着挑战，而被忽视的房屋也阻碍了潜在的买家。然而，该镇为振兴房地产提供税收减免，从而带动了民宿等新企业的开业。虽然外国人对帕特里卡表现出兴趣，但他们更喜欢现成的住宅，而不是大型翻修项目。尽管困难重重，菲奥达利索仍然决心出售废弃的房屋并复兴垂死的村庄。]]></description>
-      <guid>https://t.me/hn_summary/81144</guid>
-      <pubDate>Mon, 25 Mar 2024 08:49:33 GMT</pubDate>
+      <title>[媒体]Tracecat 是一个开源安全警报自动化平台，可作为替代 [...]</title>
+      <link>https://t.me/hn_summary/81226</link>
+      <description><![CDATA[显示 HN：Tracecat – 开源安全警报自动化/SOAR 替代方案
+Tracecat 是一个开源安全警报自动化平台，可作为 Tines 和 Splunk SOAR 的替代品。它旨在为安全团队（尤其是小型团队）提供企业级工具、开源人工智能基础设施和用户友好的界面。 Tracecat 的独特之处在于专注于开源和人工智能功能，提供人工智能辅助工作流程、案例管理、事件日志、数据验证和团队协作。目前它处于公开测试阶段，计划在未来几个月内进入公开测试阶段。该项目在 Apache-2.0 许可下 100% 开源，并为中小型团队提供付费云版本。]]></description>
+      <guid>https://t.me/hn_summary/81226</guid>
+      <pubDate>Mon, 25 Mar 2024 18:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] www.enforcementtracker.com 上的 GDPR 执行追踪器提供了全面的 [...]</title>
-      <link>https://t.me/hn_summary/81143</link>
-      <description><![CDATA[GDPR 执法跟踪器 – GDPR 罚款列表
-www.enforcementtracker.com 上的 GDPR 执行跟踪器提供了欧盟数据保护机构根据 GDPR 实施的罚款和处罚的完整列表。该网站旨在尽可能保持最新的清单，尽管并非所有罚款都会公开。独特的功能包括为每件罚款分配一个唯一的“ETid”以进行精确参考，以及一个“直接 URL”以方便在线共享罚款细节。有争议的是，最近对 Meta Platforms Ireland Limited 的罚款达到了创纪录的金额，引发了有关数据隐私和合规性的讨论。利用这一宝贵资源随时了解最新的 GDPR 执法行动。]]></description>
-      <guid>https://t.me/hn_summary/81143</guid>
-      <pubDate>Mon, 25 Mar 2024 08:40:26 GMT</pubDate>
+      <title>一名联邦法官驳回了埃隆·马斯克 (Elon Musk) 对记录帽子的研究小组的诉讼 [...]</title>
+      <link>https://t.me/hn_summary/81225</link>
+      <description><![CDATA[法官驳回埃隆·马斯克针对仇恨言论研究人员的诉讼&lt; br/&gt;
+一位联邦法官以第一修正案的保护为由，驳回了埃隆·马斯克（Elon Musk）对 X（以前称为 Twitter）上记录仇恨言论的研究组织的诉讼。马斯克声称该组织违反了 X 的服务条款，但法官认为该诉讼是关于惩罚言论的。自称言论自由倡导者的马斯克因其在 X 上的行为而面临批评，包括暂停记者身份和恢复有争议观点的用户。这项裁决可能会鼓励研究人员让社交媒体公司对仇恨和虚假信息负责。马斯克对 X 业务的不一致陈述引发了对其未来的质疑。]]></description>
+      <guid>https://t.me/hn_summary/81225</guid>
+      <pubDate>Mon, 25 Mar 2024 17:58:12 GMT</pubDate>
     </item>
     <item>
-      <title>适合个体企业家的网络应用程序还是移动应用程序？</title>
-      <link>https://t.me/hn_summary/81142</link>
-      <description><![CDATA[适合个体创业者的网络应用程序还是移动应用程序？
-作者正在寻求建议，以确定他们的个体创业者副业是专注于网络应用程序还是移动应用程序。他们承认，这两种选择都有其挑战，网络应用程序可能赚更多钱，但更难货币化，而移动应用程序可以更容易赚钱，但可能无法达到预期的收入水平。考虑到他们的技术熟练程度以及在两年内建立利润丰厚的远程业务的需要，作者正在寻求有关采取哪条道路的建议。针对个体创业者的网络应用程序和移动应用程序之间的争论是创业世界中常见的困境。]]></description>
-      <guid>https://t.me/hn_summary/81142</guid>
-      <pubDate>Mon, 25 Mar 2024 07:21:59 GMT</pubDate>
+      <title>[媒体]本文讨论了减少局域网编程采用摩擦的重要性 [...]</title>
+      <link>https://t.me/hn_summary/81224</link>
+      <description><![CDATA[Livebook：Elixir 的瑞士军刀
+本文讨论了减少编程语言采用摩擦的重要性，并强调了 Elixir 如何通过提供标准化工具和库在这方面表现出色。它引入了 Livebook，这是一种交互式 Notebook 风格的 Elixir 应用程序，可简化工作流程并充当该语言的网关。 Livebook 的可重复性、可共享性、可扩展性、交互性以及与其他工具的集成等功能使其成为初学者和经验丰富的开发人员的宝贵资源。本文还展示了使用 Livebook 的 Kino 库构建的自定义扩展的示例，展示了其多功能性和增强 Elixir 开发体验的潜力。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81224</guid>
+      <pubDate>Mon, 25 Mar 2024 17:56:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Bitmovin 是一家全球 C 轮 SaaS 规模扩大公司，正在寻找一名 C++ 高级软件工程师 [...]</title>
-      <link>https://t.me/hn_summary/81141</link>
-      <description><![CDATA[Bitmovin (YC S15) 正在招聘高级软件工程师 C/C++在柏林
-Bitmovin 是一家全球 C 轮 SaaS 扩展公司，正在寻找一名 C++ 高级软件工程师加入他们在柏林的团队。该公司为 Disney+ 和 Hulu 等顶级品牌提供视频流技术。该角色涉及使用现代技术堆栈、制定架构决策以及为高质量、可扩展代码的开发做出贡献。 Bitmovin 重视认知多样性并鼓励全球创新文化。公司提供多元化的职业机会、持续的成长和灵活的工作安排。候选人应具有 C/C++、并发编程经验，并对软件工艺充满热情。了解 Java 或 Kotlin 者优先。]]></description>
-      <guid>https://t.me/hn_summary/81141</guid>
-      <pubDate>Mon, 25 Mar 2024 07:02:20 GMT</pubDate>
+      <title>[媒体] OpenAPI AutoSpec 是一个本地服务器代理，可自动生成 OpenAPI 特定 [...]</title>
+      <link>https://t.me/hn_summary/81223</link>
+      <description><![CDATA[显示 HN：通过监听 localhost 自动生成 OpenAPI 规范&lt; /a&gt;
+OpenAPI AutoSpec 是一个本地服务器代理，可以从任何本地运行的网站或服务实时自动生成 OpenAPI 规范。它捕获并记录新的请求和响应，包括标头、正文和查询参数。该项目允许用户在终端上实时查看生成的规范，导出 OpenAPI 文件进行共享，并忽略静态文件 URL。它的独特之处在于提供生成的 OpenAPI 规范的实时打印输出，并提供导出规范以供外部使用、过滤主机以及参数化服务器存根路径等功能。]]></description>
+      <guid>https://t.me/hn_summary/81223</guid>
+      <pubDate>Mon, 25 Mar 2024 17:55:04 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 用户 u/sgircys 在 DataHoarder subreddit 上分享了一个令人震惊的故事，讲述了 EVGA 的 PO [...]</title>
-      <link>https://t.me/hn_summary/81140</link>
-      <description><![CDATA[EVGA 电源耗尽了 22TB 的客户存储空间，然后否认承担责任
-Reddit 用户 u/sgircys 在 Reddit DataHoarder 子版块上分享了一个令人震惊的故事，讲述了 EVGA 的电源如何毁掉了他 22TB 的存储空间。在收到修改后的电源（具有新的引脚布局但未更新电缆）后，插入错误的电缆烧毁了他的所有存储设备。 EVGA 否认承担责任，并表示他们不承担由其产品造成的数据丢失或损坏。这一争议凸显了更换电源装置时确保兼容性的重要性。令人惊讶的是，EVGA 没有提出更换损坏的存储设备，这使得 Reddit 用户可能需要承担更换所有存储设备的费用。]]></description>
-      <guid>https://t.me/hn_summary/81140</guid>
-      <pubDate>Mon, 25 Mar 2024 07:01:16 GMT</pubDate>
+      <title>[媒体] Velox 是 Meta 的创新开源 C++ 数据库加速库，旨在 [...]</title>
+      <link>https://t.me/hn_summary/81222</link>
+      <description><![CDATA[Velox：Meta 的统一执行引擎 [pdf](https:// news.ycombinator.com/item?id=39805021)
+Velox 是 Meta 的创新开源 C++ 数据库加速库，旨在解决由专业计算引擎创建的碎片数据环境。 Velox 提供可重用的高性能组件，用于构建执行引擎、增强数据系统和支持复杂的数据类型。通过民主化优化、确保一致性和提高工程效率，Velox 与 Meta 的各种数据系统集成，包括 Presto、Spark、PyTorch 等。这种统一的方法旨在使数据系统更加模块化和可互操作，最终为数据用户提供更加一致的体验。 Velox 的可扩展性允许自定义并与不同的工作负载集成，从而改变 Meta 的数据生态系统。 （根据故事文本的 15% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81222</guid>
+      <pubDate>Mon, 25 Mar 2024 17:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Vtcc，一个已翻译为 V 的 Tiny C 编译器！</title>
-      <link>https://t.me/hn_summary/81139</link>
-      <description><![CDATA[显示 HN：Vtcc、Tiny C 编译器翻译为 V
-隆重推出 Vtcc，一个已翻译为 V 的 Tiny C 编译器！这一创新项目将 C 编译的强大功能引入 V 编程语言，为开发人员开辟了新的可能性。借助 Vtcc，您现在可以直接在 V 中编写和编译 C 代码，从而更轻松地在一个环境中使用两种语言。在 Twitter 上查看这一激动人心的开发成果，了解 Vtcc 如何改变世界各地程序员的游戏规则。不要错过这个增强您的编码体验的独特机会。 #Vtcc #Vprogramming #Ccompiler]]></description>
-      <guid>https://t.me/hn_summary/81139</guid>
-      <pubDate>Mon, 25 Mar 2024 06:49:40 GMT</pubDate>
+      <title>[媒体] Matt Taibbi：“认识人工智能审查者吗？</title>
+      <link>https://t.me/hn_summary/81221</link>
+      <description><![CDATA[Matt Taibbi：“认识人工智能审查？赤裸裸的资本主义”&lt; /a&gt;
+马特·泰比 (Matt Taibbi) 最近发表了一篇文章，内容是谷歌因人工智能产生的指控存在缺陷而威胁要取消赤裸裸的资本主义的货币化，这引发了争议。泰比强调了节制机器无法区分倡导和批评的问题，从而导致不公正的制裁。令人惊讶的是，对新冠疫苗性能提出质疑的受人尊敬的医学期刊也被标记为有害或仇恨内容。泰比快速有效的分析揭示了这个问题，敦促读者在社交媒体平台上分享这篇文章。由于担心声誉受损，一些出版商屈服于谷歌的要求，这暗示着更大的内容审查问题。感谢 Taibbi 在此事上的支持。]]></description>
+      <guid>https://t.me/hn_summary/81221</guid>
+      <pubDate>Mon, 25 Mar 2024 17:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 上的 DongleHider+ 框架笔记本电脑扩展卡项目提供了一个解决方案 [...]</title>
-      <link>https://t.me/hn_summary/81138</link>
-      <description><![CDATA[DongleHider+框架笔记本电脑扩展卡
-GitHub 上的 DongleHider+ Framework 笔记本电脑扩展卡项目提供了一种使用 Logitech Unifying Dongles 且无需占用扩展卡插槽的解决方案。通过将加密狗永久安装在卡内，用户仍然可以访问 USB A 端口。该项目已在 Windows 和 AMD 框架笔记本电脑上进行了测试，并提供了兼容性说明。作者提到了添加 1-2 个额外加密狗的能力，并邀请用户帮助扩展 Linux 或 Intel 笔记本电脑上的兼容性测试。该项目包括用于加密狗尺寸的 CAD 模型以及用于 DIY 或 PCBA 服务的 PCB 组装说明。]]></description>
-      <guid>https://t.me/hn_summary/81138</guid>
-      <pubDate>Mon, 25 Mar 2024 06:48:37 GMT</pubDate>
+      <title>[媒体]在佛罗里达州，气候变化的影响是不可否认的，一项法案正在等待政府 [...]</title>
+      <link>https://t.me/hn_summary/81220</link>
+      <description><![CDATA[佛罗里达州即将从其大部分法律中消除气候变化
+在佛罗里达州，气候变化的影响是不可否认的，一项等待州长罗恩·德桑蒂斯签署的法案将消除州法律中大多数提及气候变化的内容。此举由共和党领导，旨在使该州远离与民主党相关的问题。尽管佛罗里达州在复原力项目上投资了数百万美元，但该法案将禁止海上风能并放松对天然气管道的监管。批评者认为，只解决气候变化的症状而不承认其原因是一种政治策略，可能会阻碍绿色产业并打击清洁技术投资者。这项有争议的法案与大多数承认气候变化现实的佛罗里达人格格不入。]]></description>
+      <guid>https://t.me/hn_summary/81220</guid>
+      <pubDate>Mon, 25 Mar 2024 17:51:48 GMT</pubDate>
     </item>
     <item>
-      <title>作者回忆了他们的 tim 提出的一个令人难忘的软件工程面试问题 [...]</title>
-      <link>https://t.me/hn_summary/81137</link>
-      <description><![CDATA[我遇到的最好的工程面试问题
-作者回忆了 2013 年在 MemSQL 工作时遇到的一个令人难忘的软件工程面试问题。该挑战涉及使用 memcached（一种内存中键值存储），并需要添加一个“mult”命令来启用原子乘法。作者提供了有关通过 telnet 与 memcached 交互的详细说明，展示了“set”、“get”、“append”和“incr”等命令。该挑战凸显了多客户端环境中原子操作的重要性。作者鼓励读者在三小时内尝试挑战。这篇文章对这个问题进行了后续的剧透和分析。]]></description>
-      <guid>https://t.me/hn_summary/81137</guid>
-      <pubDate>Mon, 25 Mar 2024 06:47:32 GMT</pubDate>
+      <title>[媒体]事情发生了令人惊讶的转变，一位瑞典地主成功地保住了 31 便士 [...]</title>
+      <link>https://t.me/hn_summary/81219</link>
+      <description><![CDATA[瑞典法院规定陨石应留在其着陆地的财产所有者&lt; /a&gt;
+事情发生了令人惊讶的转变，一位瑞典地主成功地保住了一颗落在他们土地上的 31 磅重的陨石。斯韦阿上诉法院裁定，这块由铁制成的陨石应被视为发现它的土地的一部分，因为它含有与地球表面相同的物质。这一决定推翻了之前将陨石交给发现者的裁决，称陨石是不可移动的财产。该案凸显了瑞典围绕太空岩石和财产权的独特法律考虑，法院强调，即使根据“Allemansraetten”规定，也不允许从他人的土地上获取陨石。]]></description>
+      <guid>https://t.me/hn_summary/81219</guid>
+      <pubDate>Mon, 25 Mar 2024 17:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎使用 Windows 98 图标查看器！</title>
-      <link>https://t.me/hn_summary/81136</link>
-      <description><![CDATA[Windows 98 图标
-欢迎使用 Windows 98 图标查看器！探索经典操作系统中的怀旧图标，包括标志性的回收站、计算机和文档。通过这些熟悉的图像重温 Windows 98 的简单性和魅力，唤起人们对计算机早期时代的回忆。无论您是怀旧还是只是好奇，这组图标一定会给您带来微笑。因此，回顾一下记忆之旅，享受 Windows 98 图标的复古氛围。]]></description>
-      <guid>https://t.me/hn_summary/81136</guid>
-      <pubDate>Mon, 25 Mar 2024 06:36:24 GMT</pubDate>
+      <title>[媒体] X公司 vs.</title>
+      <link>https://t.me/hn_summary/81218</link>
+      <description><![CDATA[X Corp 诉反数字仇恨中心，授予驳回动议的命令 [pdf](https://news.ycombinator.com/item?id=39819212)
+在本案中，X Corp（前身为 Twitter）已对反数字仇恨中心（CCDH）等机构提起诉讼，指控 CCDH 从事非法行为，获取 X Corp 的数据并对其进行操纵，以传播有关 X Corp 的虚假信息。平台上的有害内容。 X Corp 声称 CCDH 的行为导致了重大财务损失。法院批准了 CCDH 驳回并罢工的动议，凸显了围绕该案的争议以及审查和操纵数据的指控。该案揭示了围绕数据抓取和在线内容审核的复杂法律问题。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81218</guid>
+      <pubDate>Mon, 25 Mar 2024 17:48:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
