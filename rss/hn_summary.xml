@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 06:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 10:31:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Charcoal 是 GitHub 上的一个项目，可提供更快的 utf8。Valid 使用多字节进程 [...]</title>
-      <link>https://t.me/hn_summary/81319</link>
-      <description><![CDATA[显示 HN：Charcoal – 更快的 utf8。使用多字节处理有效没有SIMD
-Charcoal 是 GitHub 上的一个项目，它提供更快的 utf8.Valid 使用多字节处理，无需 SIMD。它比标准库快50%，并且兼容标准库的用法。该项目经过充分测试，除了标准库测试之外还进行了主动模糊测试。作者提供了基准测试，显示了各种场景下与标准库相比的性能改进。 Charcoal 旨在提供更快的 utf8 验证，而不需要 SIMD 指令，这使其成为寻求优化 utf8 验证流程的开发人员的宝贵工具。]]></description>
-      <guid>https://t.me/hn_summary/81319</guid>
-      <pubDate>Tue, 26 Mar 2024 06:09:40 GMT</pubDate>
+      <title>您是否正在努力理解卡尔曼滤波器输出中的协方差矩阵？</title>
+      <link>https://t.me/hn_summary/81334</link>
+      <description><![CDATA[卡尔曼滤波器
+您是否正在努力理解卡尔曼滤波器输出中的协方差矩阵？这篇文章用图片来解释，让大家更容易理解。还讨论了扩展卡尔曼滤波器，这是一种用于非线性系统的特殊滤波器，与阿波罗导航控制系统有着令人惊讶的联系。了解如何在 Python 中实现卡尔曼滤波器，以使用 NumPy 处理数组和矩阵，根据位置测量来估计速度。如果您发现大多数卡尔曼滤波器教程过于复杂，这篇文章简化了概念，而无需了解其推导背后的高级数学。]]></description>
+      <guid>https://t.me/hn_summary/81334</guid>
+      <pubDate>Tue, 26 Mar 2024 10:31:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 与 Fluffy Tutor 的 AI 导师一起探索学习语言的革命性方式。</title>
-      <link>https://t.me/hn_summary/81318</link>
-      <description><![CDATA[展示 HN：按照自己的节奏与 AI 导师一起学习任何语言
-通过 Fluffy Tutor 的 AI Tutor 探索学习语言的革命性方式。为掌握英语、波兰语、德语、越南语等提供个性化指导和支持。按照自己的节奏聊天、提高语法并探索不同的主题。今天就开始您的多语言之旅！]]></description>
-      <guid>https://t.me/hn_summary/81318</guid>
-      <pubDate>Tue, 26 Mar 2024 06:05:34 GMT</pubDate>
+      <title>[媒体]欢迎来到世嘉土星架构——实用分析！</title>
+      <link>https://t.me/hn_summary/81333</link>
+      <description><![CDATA[世嘉土星架构 – 实用分析
+欢迎来到世嘉土星架构 - 实用分析！世嘉进军 3D 时代并非没有挑战，因为他们经历了选择新 CPU 和调整硬件以实现多边形绘制功能的复杂性。 Hitachi SuperH CPU 以其 RISC 设计和独特的 16 位宽指令集，为世嘉带来了优点和缺点。添加第二个 SH-2 CPU 和 Saturn 控制单元进一步增强了控制台的处理能力。 Saturn 拥有两个协同工作的专有 GPU，提供了一种独特的 3D 图形渲染方法。深入研究技术细节并发现世嘉土星架构的复杂性。 （根据故事文本的 39% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81333</guid>
+      <pubDate>Tue, 26 Mar 2024 10:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《PLOS Biology》上发表的一项开创性研究中，莫大学的研究人员 [...]</title>
-      <link>https://t.me/hn_summary/81317</link>
-      <description><![CDATA[埃博拉病毒复制的新方式
-在《PLOS Biology》上发表的一项开创性研究中，蒙特利尔大学、罗格斯大学和德克萨斯大学医学分部的研究人员发现了埃博拉病毒在体内复制的新方式。由 Rafael Najmanovich 教授领导的研究小组确定了病毒与一种名为泛素的人类蛋白质之间的相互作用，为开发新的药物靶点来对抗这种疾病开辟了可能性。这一发现揭示了埃博拉病毒复制的复杂机制，并为开发更有效的疗法来对抗这种致命病毒带来了希望。]]></description>
-      <guid>https://t.me/hn_summary/81317</guid>
-      <pubDate>Tue, 26 Mar 2024 05:50:28 GMT</pubDate>
+      <title>[媒体] 为什么正则表达式使用“$”和“^”作为行锚点？</title>
+      <link>https://t.me/hn_summary/81332</link>
+      <description><![CDATA[为什么正则表达式使用 `$` 和 `^` 作为行锚点？
+作者深入研究了正则表达式使用 $ 和 ^ 作为行锚点的历史，追溯到 QED 文本编辑器和 Teletype Model 35 键盘。使用 $ 表示行尾源于其在 QED 中作为缓冲区结束的含义，而选择 ^ 表示行首则受到影响通过 Ken Thompson 键盘上的符号可用性。作者承认这些解释的脆弱性，但将它们作为可用的最佳答案。这篇文章还预告了即将举行的名为 April Cools 的活动，供科技博主撰写非科技主题的文章。]]></description>
+      <guid>https://t.me/hn_summary/81332</guid>
+      <pubDate>Tue, 26 Mar 2024 10:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]准备好迎接改变游戏规则的事情吧，特斯拉宣布美国的每辆特斯拉都将 [...]</title>
-      <link>https://t.me/hn_summary/81316</link>
-      <description><![CDATA[从今年起，美国所有特斯拉汽车均可获得为期一个月的 FSD 试用期一周
-准备好迎接游戏规则的改变吧，特斯拉宣布，从本周开始，美国的每辆特斯拉都将获得为期一个月的全自动驾驶 (FSD) 软件免费试用。备受期待的 FSD Beta v12 软件对 Tesla 的学习算法进行了重大改进，利用“端到端神经网络”进行决策。尽管 FSD 成本较高，特斯拉还提供每月 199 美元的订阅模式。虽然该系统目前处于“2 级”，驾驶员仍需负责，但首席执行官埃隆·马斯克 (Elon Musk) 承诺未来将实现完全自动驾驶。然而，在 FSD 达到由汽车控制的 3 级之前，这些更新可能看起来更像是一个新奇事物。]]></description>
-      <guid>https://t.me/hn_summary/81316</guid>
-      <pubDate>Tue, 26 Mar 2024 05:40:22 GMT</pubDate>
+      <title>[媒体] 微软将在 [...] 之前关闭为俄罗斯企业提供的 50 多个云服务</title>
+      <link>https://t.me/hn_summary/81331</link>
+      <description><![CDATA[微软将关闭针对俄罗斯企业的 50 项云服务 
+微软计划在 3 月底之前关闭为俄罗斯企业提供的 50 多个云服务，以遵守欧盟对该国的制裁。 Softline Group of Companies 证实了这一消息，并警告受影响实体的功能限制。微软在给俄罗斯组织的信中引用了欧盟理事会第 2023/2873 号法规作为暂停的原因。 Microsoft Azure、Dynamics 365 和 Microsoft Teams 等重要产品将受到影响。此举预计将推动俄罗斯用户转向本地替代方案，与政府推广国内解决方案保持一致。原定于 3 月 20 日暂停，后推迟至月底。]]></description>
+      <guid>https://t.me/hn_summary/81331</guid>
+      <pubDate>Tue, 26 Mar 2024 10:03:34 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎来到 Echo Chess，这里的规则是颠倒过来的。</title>
-      <link>https://t.me/hn_summary/81315</link>
-      <description><![CDATA[国际象棋谜题，但捕捉到的就是你&lt; br/&gt;
-欢迎来到 Echo Chess，这里的规则是颠倒过来的。在这款独特的益智游戏中，你捕捉到的就是你。仔细制定你的行动策略，以清除棋盘并取得胜利。这是对传统国际象棋的一次令人费解的转变，即使是经验最丰富的棋手也会面临挑战。你准备好接受挑战了吗？立即开始游戏，看看您是否有能力征服 Echo Chess。]]></description>
-      <guid>https://t.me/hn_summary/81315</guid>
-      <pubDate>Tue, 26 Mar 2024 05:33:16 GMT</pubDate>
+      <title>[媒体] 欢迎来到 Virtualdesktop.org，在这里您可以体验 vir 带来的过去的震撼 [...]</title>
+      <link>https://t.me/hn_summary/81330</link>
+      <description><![CDATA[欢迎来到 Virtualdesktop.org
+欢迎来到 Virtualdesktop.org，在这里您可以体验来自过去使用各种操作系统的虚拟桌面。从 Windows 95 到 Macintosh OS X，您可以探索不同版本的 Microsoft Internet Explorer 和 Outlook Express。有争议的是，有些人可能会认为这些过时的系统不再相关，但对于那些怀念早期计算时代的人来说，这个网站提供了一次独特且令人惊讶的记忆之旅。探索技术的演变，看看我们在虚拟桌面领域已经走了多远。]]></description>
+      <guid>https://t.me/hn_summary/81330</guid>
+      <pubDate>Tue, 26 Mar 2024 09:54:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 Debian 的 ROCm 持续集成平台！</title>
-      <link>https://t.me/hn_summary/81314</link>
-      <description><![CDATA[Debian 的 ROCm 持续集成
-欢迎来到 Debian 的 ROCm 持续集成平台！我们的 debci 开发团队一直在努力提供 GNU 通用公共许可证下许可的免费软件。您可以在我们的 git 存储库中找到源代码。及时了解我们平台上于 2024 年 3 月 26 日生成的最新更新和改进。与我们一起致力于 Debian 社区的开源软件和持续集成。]]></description>
-      <guid>https://t.me/hn_summary/81314</guid>
-      <pubDate>Tue, 26 Mar 2024 05:09:36 GMT</pubDate>
+      <title>[媒体] 今天，我们很高兴地宣布 Affinity 现已成为 Canva 家族的一部分。</title>
+      <link>https://t.me/hn_summary/81329</link>
+      <description><![CDATA[Canva 购买 Affinity (Serif)
+今天，我们很高兴地宣布 Affinity 现已成为 Canva 家族的一部分。这种合作关系将使我们能够继续利用专业级工具为创意人员提供支持，同时扩大我们的视野。我们的核心价值观与 Canva 致力于让每个人都能接触到设计的承诺完美契合。请放心，您的 Affinity 应用程序将继续接收更新并保留在 Affinity 品牌下。我们感谢忠实用户的支持，并期待创造一个人人触手可及的设计世界。加入我们，一起开启视觉传达领域的革命。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81329</guid>
+      <pubDate>Tue, 26 Mar 2024 09:52:22 GMT</pubDate>
     </item>
     <item>
-      <title>Onelook.ai 允许用户描述应用程序，从而彻底改变应用程序的创建方式 [...]</title>
-      <link>https://t.me/hn_summary/81313</link>
-      <description><![CDATA[展示 HN：Onelook – 通过用人类语言描述来创建应用程序&lt; /a&gt;
-Onelook.ai 正在彻底改变应用程序的创建方式，允许用户描述它们在人类语言中的期望应用。我们的平台将这些描述转换为代码，使每个人都可以进行应用程序开发，无论其技术专业知识如何。告别复杂的编程语言，迎接直观应用程序开发的新时代。与我们一起重塑技术的未来。]]></description>
-      <guid>https://t.me/hn_summary/81313</guid>
-      <pubDate>Tue, 26 Mar 2024 04:37:52 GMT</pubDate>
+      <title>[媒体]在 SwissBorg，我们自成立以来就一直押注于 Scala，事实证明它 [...]</title>
+      <link>https://t.me/hn_summary/81328</link>
+      <description><![CDATA[我们在 SwissBorg 押注 Scala
+在SwissBorg，我们自成立以来就一直押注于Scala，事实证明这是一个明智的选择。在本文中，我们将分享我们使用 Scala 的历程，揭穿常见的误解，并重点介绍 Scala 如何帮助我们超越平均水平、扩展我们的系统并保持高标准的安全性和正确性。尽管在发展过程中面临招聘和维护文化等挑战，Scala 仍然是我们成功的可靠基础。随着我们进入整合和增长的新阶段，我们将继续利用 Scala 在可扩展性、工具、社区对正确性的关注以及复杂领域建模能力方面的优势。 Scala 确实是我们 SwissBorg 成功的关键因素。 （根据 85% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81328</guid>
+      <pubDate>Tue, 26 Mar 2024 09:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]安德鲁·胡伯曼 (Andrew Huberman) 是一位著名的神经科学家和播客，获得了巨大的人气 [...]</title>
-      <link>https://t.me/hn_summary/81312</link>
-      <description><![CDATA[最大的流行神经科学家的私人和公开诱惑 
-安德鲁·胡伯曼 (Andrew Huberman) 是一位著名的神经科学家和播客，因其对大脑科学和自我完善的深入研究而赢得了巨大的声誉。他的播客拥有数百万听众，他们遵循他关于健康和保健的建议。然而，由于他面临个人关系不稳定和不可靠的指控，争议围绕着他。尽管他取得了成功，但人们对他所呈现的公众形象与他个人生活的现实之间的差距产生了疑问。这篇文章深入探讨了休伯曼成名的复杂性以及他作为神经科学界公众人物所面临的挑战。 （根据故事文本的 23% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81312</guid>
-      <pubDate>Tue, 26 Mar 2024 04:28:18 GMT</pubDate>
+      <title>[媒体]考古学家取得了突破性的发现，在古代发现了微塑料[...]</title>
+      <link>https://t.me/hn_summary/81327</link>
+      <description><![CDATA[考古学家现在在古代遗迹中发现了微塑料
+考古学家取得了突破性的发现，首次在古代土壤样本中发现了微塑料。这一发现可能会改变考古遗迹的保存方式，因为微塑料的存在可能会损害这些沉积物的科学价值。该研究在土壤样本中鉴定出了 16 种不同的微塑料聚合物类型，其历史可以追溯到公元一世纪或二世纪。这一发现引发了人们对微塑料对环境和人类健康影响的担忧。这项研究发表在《整体环境科学》上，对就地保存考古遗迹的未来提出了疑问。]]></description>
+      <guid>https://t.me/hn_summary/81327</guid>
+      <pubDate>Tue, 26 Mar 2024 08:39:51 GMT</pubDate>
     </item>
     <item>
-      <title>在一个充满复杂且可能致命的系统的世界中，我们面临的认识论危机 [...]</title>
-      <link>https://t.me/hn_summary/81311</link>
-      <description><![CDATA[阴谋论与认识论危机
-在一个充满复杂且可能致命的系统的世界中，我们今天面临的认识论危机是显而易见的。从波音公司的安全问题到水污染法规，利益冲突和有缺陷的监督流程困扰着我们对管理我们生活的系统的信任能力。即使没有专业知识，我们也可以通过检查透明度、利益冲突和对新证据的响应来评估这些系统的可信度。由于对以利润为导向的制药公司和同谋监管机构的不信任，拒绝接种疫苗凸显了拒绝信任有缺陷的系统的高风险。关键在于评估流程，而不仅仅是技术细节，以便在充满不确定性的世界中做出明智的决策。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81311</guid>
-      <pubDate>Tue, 26 Mar 2024 04:25:42 GMT</pubDate>
+      <title>[媒体] 在 joanwestenberg.com 上一篇发人深省的文章中，作者挑战了 [...]</title>
+      <link>https://t.me/hn_summary/81326</link>
+      <description><![CDATA[加密货币有机会
+在 joanwestenberg.com 上发表的发人深省的文章中，作者提出了挑战监管抑制加密行业创新的观点。作者强调了困扰该领域的猖獗的诈骗和欺诈行为，认为缺乏问责制阻碍了真正的进步。美国证券交易委员会最近采取的行动给该行业敲响了警钟，标志着加密狂野西部的结束。尽管有些人可能担心监管会导致加密货币的终结，但作者认为该行业有必要负责任地蓬勃发展。最终，本文提出了一个令人信服的论据，证明加密货币世界需要进行监督。]]></description>
+      <guid>https://t.me/hn_summary/81326</guid>
+      <pubDate>Tue, 26 Mar 2024 08:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>[中] Canva 公司</title>
-      <link>https://t.me/hn_summary/81310</link>
-      <description><![CDATA[Canva 收购 Affinity，这是其最大的一笔收购，旨在与 Adob​​e 竞争
-Canva Inc. 完成了迄今为止规模最大的收购，收购了深受 Mac 用户欢迎的 Affinity 创意软件套件，以与 Adob​​e Inc. 竞争。这笔交易价值“数亿英镑”，包括现金、股票和商标Canva 扩展专业工具的里程碑。此次收购将 Affinity 背后的初创公司 Serif 的整个 90 人团队带到了 Canva。 Canva 以其易于使用的产品而闻名，年收入已超过 21 亿美元，拥有超过 1.75 亿用户。此次收购是 Canva 扩大其在欧洲业务并增强其人工智能工具的战略的一部分。]]></description>
-      <guid>https://t.me/hn_summary/81310</guid>
-      <pubDate>Tue, 26 Mar 2024 04:23:06 GMT</pubDate>
+      <title>[媒体]波音公司已对维珍银河提起诉讼，指控该公司持有 [...]</title>
+      <link>https://t.me/hn_summary/81325</link>
+      <description><![CDATA[波音公司要求维珍银河销毁失败合作伙伴关系中的所有数据 
+波音公司对维珍银河提起诉讼，指控该公司保留了双方失败的合作伙伴关系中的商业秘密，以开发新的母舰。维珍银河公司与极光飞行科学公司合作，为他们的太空飞机“德尔塔”打造了一艘新的母舰，该母舰将把太空游客运送到亚轨道高度。波音公司声称维珍银河未经许可使用其专有数据，造成了无法弥补的损害。维珍银河否认这些指控，并计划积极为自己辩护。该诉讼凸显了航天工业的竞争性和保护知识产权的重要性。]]></description>
+      <guid>https://t.me/hn_summary/81325</guid>
+      <pubDate>Tue, 26 Mar 2024 07:36:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
