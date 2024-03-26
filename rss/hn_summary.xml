@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 00:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 06:09:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 希望以有趣且引人入胜的方式提高词汇量？</title>
-      <link>https://t.me/hn_summary/81282</link>
-      <description><![CDATA[显示 HN：词汇拼字游戏 – 增加词汇量的有趣方式&lt; /a&gt;
-希望以有趣且引人入胜的方式提高您的词汇量？词汇拼字游戏就是您的最佳选择！根据 AI 提供的字母在短短 60 秒内猜测单词，测试您的单词技能。 5 分钟内猜出的单词越多，得分就越高。挑战自己，看看你能想出多少单词。立即访问 vocabscrabble.com，立即开始扩展您的英语词汇量！&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/81282</guid>
-      <pubDate>Tue, 26 Mar 2024 00:35:03 GMT</pubDate>
+      <title>[媒体] Charcoal 是 GitHub 上的一个项目，可提供更快的 utf8。Valid 使用多字节进程 [...]</title>
+      <link>https://t.me/hn_summary/81319</link>
+      <description><![CDATA[显示 HN：Charcoal – 更快的 utf8。使用多字节处理有效没有SIMD
+Charcoal 是 GitHub 上的一个项目，它提供更快的 utf8.Valid 使用多字节处理，无需 SIMD。它比标准库快50%，并且兼容标准库的用法。该项目经过充分测试，除了标准库测试之外还进行了主动模糊测试。作者提供了基准测试，显示了各种场景下与标准库相比的性能改进。 Charcoal 旨在提供更快的 utf8 验证，而不需要 SIMD 指令，这使其成为寻求优化 utf8 验证流程的开发人员的宝贵工具。]]></description>
+      <guid>https://t.me/hn_summary/81319</guid>
+      <pubDate>Tue, 26 Mar 2024 06:09:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]现在可以从全球范围内任何一天的天气中检测到气候变化，t [...]</title>
-      <link>https://t.me/hn_summary/81281</link>
-      <description><![CDATA[现在可以从全球范围内任何一天的天气中检测到气候变化&lt; /a&gt;
-由于大气响应研究的进步，现在可以从全球范围内任何一天的天气中检测到气候变化。追溯到 20 世纪 70 年代的关键研究为识别二氧化碳引起的气候变化以及人类对大气水分含量和温度的影响铺平了道路。令人惊讶的是，非受迫内部变异在 20 世纪变暖中的作用有限，这凸显了人类活动对气候的影响。这项开创性的研究展示了利用统计学习揭示单个集合成员的强迫气候反应的能力，彻底改变了我们对气候变化归因的理解。 （根据故事文本的 66% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81281</guid>
-      <pubDate>Tue, 26 Mar 2024 00:26:59 GMT</pubDate>
+      <title>[媒体] 与 Fluffy Tutor 的 AI 导师一起探索学习语言的革命性方式。</title>
+      <link>https://t.me/hn_summary/81318</link>
+      <description><![CDATA[展示 HN：按照自己的节奏与 AI 导师一起学习任何语言
+通过 Fluffy Tutor 的 AI Tutor 探索学习语言的革命性方式。为掌握英语、波兰语、德语、越南语等提供个性化指导和支持。按照自己的节奏聊天、提高语法并探索不同的主题。今天就开始您的多语言之旅！]]></description>
+      <guid>https://t.me/hn_summary/81318</guid>
+      <pubDate>Tue, 26 Mar 2024 06:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在一系列令人震惊的事件中，Garantia Data 实现了一些人所说的“b [...]</title>
-      <link>https://t.me/hn_summary/81280</link>
-      <description><![CDATA[RIP Redis：Garantia Data 如何完成开源领域最大的抢劫历史
-事态发生了令人震惊的转变，Garantia Data 通过将品牌更名为“Redis”并声称对该项目拥有合法权利，完成了一些人所说的开源历史上最大的抢劫。尽管不是创新或采用的主要驱动力，Garantia Data（现在的 Redis Labs）已经控制了该项目。与此同时，Momento 已成为无服务器缓存领域的独特参与者，为高性能、可扩展系统提供了不同的方法。由于开源 Redis 的未来仍不确定，许多人希望 ElastiCache 团队开发一个新的改进版本。加入 LinkedIn 和 X 上的对话。]]></description>
-      <guid>https://t.me/hn_summary/81280</guid>
-      <pubDate>Tue, 26 Mar 2024 00:04:48 GMT</pubDate>
+      <title>[媒体]在《PLOS Biology》上发表的一项开创性研究中，莫大学的研究人员 [...]</title>
+      <link>https://t.me/hn_summary/81317</link>
+      <description><![CDATA[埃博拉病毒复制的新方式
+在《PLOS Biology》上发表的一项开创性研究中，蒙特利尔大学、罗格斯大学和德克萨斯大学医学分部的研究人员发现了埃博拉病毒在体内复制的新方式。由 Rafael Najmanovich 教授领导的研究小组确定了病毒与一种名为泛素的人类蛋白质之间的相互作用，为开发新的药物靶点来对抗这种疾病开辟了可能性。这一发现揭示了埃博拉病毒复制的复杂机制，并为开发更有效的疗法来对抗这种致命病毒带来了希望。]]></description>
+      <guid>https://t.me/hn_summary/81317</guid>
+      <pubDate>Tue, 26 Mar 2024 05:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克的社交网络 X 在针对反数字中心的诉讼中败诉 [...]</title>
-      <link>https://t.me/hn_summary/81279</link>
-      <description><![CDATA[埃隆·马斯克的 X 在针对研究小组的诉讼中败诉
-埃隆·马斯克 (Elon Musk) 的社交网络 X 在针对反数字仇恨中心 (Center for Countering Digital Hate) 的诉讼中败诉，联邦法官裁定，该诉讼旨在惩罚 CCDH 批评 X Corp 的行为。该诉讼声称，由于 CCDH 关于仇恨言论和错误信息的报告，导致广告收入损失。 X/推特。法官驳回了马斯克重新答辩的请求，称X公司的真实目的是为了惩罚CCDH的言论。马斯克尚未对这一决定发表评论。该诉讼是在 CCDH 发现自马斯克收购以来 X 上的仇恨言论有所增加之后发起的。争议仍在继续，马斯克起诉 Media Matters，密苏里州股份公司对 Media Matters 提起诉讼。]]></description>
-      <guid>https://t.me/hn_summary/81279</guid>
-      <pubDate>Mon, 25 Mar 2024 23:40:37 GMT</pubDate>
+      <title>[媒体]准备好迎接改变游戏规则的事情吧，特斯拉宣布美国的每辆特斯拉都将 [...]</title>
+      <link>https://t.me/hn_summary/81316</link>
+      <description><![CDATA[从今年起，美国所有特斯拉汽车均可获得为期一个月的 FSD 试用期一周
+准备好迎接游戏规则的改变吧，特斯拉宣布，从本周开始，美国的每辆特斯拉都将获得为期一个月的全自动驾驶 (FSD) 软件免费试用。备受期待的 FSD Beta v12 软件对 Tesla 的学习算法进行了重大改进，利用“端到端神经网络”进行决策。尽管 FSD 成本较高，特斯拉还提供每月 199 美元的订阅模式。虽然该系统目前处于“2 级”，驾驶员仍需负责，但首席执行官埃隆·马斯克 (Elon Musk) 承诺未来将实现完全自动驾驶。然而，在 FSD 达到由汽车控制的 3 级之前，这些更新可能看起来更像是一个新奇事物。]]></description>
+      <guid>https://t.me/hn_summary/81316</guid>
+      <pubDate>Tue, 26 Mar 2024 05:40:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Redis 是流行的内存数据存储，正在更改其许可以防止大型 cl [...]</title>
-      <link>https://t.me/hn_summary/81278</link>
-      <description><![CDATA[Redis 切换许可证，获取 Speedb
-Redis 是流行的内存数据存储，它正在更改其许可，以防止大型云提供商提供免费替代方案。新的双许可证要求云提供商与 Redis 签订商业协议。微软是第一个这样做的。此外，Redis 还收购了键值存储引擎 Speedb，以扩展到内存存储之外的领域。这一举措通过将快速驱动器与内存存储相结合，允许新的用例，包括人工智能。 Redis 还悄悄收购了特定语言的开源客户端库来引导开发。公司未来可能会进行更多收购，并仍在为窗口打开后的 IPO 做好准备。]]></description>
-      <guid>https://t.me/hn_summary/81278</guid>
-      <pubDate>Mon, 25 Mar 2024 23:37:33 GMT</pubDate>
+      <title>欢迎来到 Echo Chess，这里的规则是颠倒过来的。</title>
+      <link>https://t.me/hn_summary/81315</link>
+      <description><![CDATA[国际象棋谜题，但捕捉到的就是你&lt; br/&gt;
+欢迎来到 Echo Chess，这里的规则是颠倒过来的。在这款独特的益智游戏中，你捕捉到的就是你。仔细制定你的行动策略，以清除棋盘并取得胜利。这是对传统国际象棋的一次令人费解的转变，即使是经验最丰富的棋手也会面临挑战。你准备好接受挑战了吗？立即开始游戏，看看您是否有能力征服 Echo Chess。]]></description>
+      <guid>https://t.me/hn_summary/81315</guid>
+      <pubDate>Tue, 26 Mar 2024 05:33:16 GMT</pubDate>
     </item>
     <item>
-      <title>一种影响德克萨斯州狭长地带、新墨西哥州和堪萨斯州奶牛群的神秘疾病已经使蜜蜂 [...]</title>
-      <link>https://t.me/hn_summary/81277</link>
-      <description><![CDATA[影响奶牛的疾病被确认为高致病性禽流感
-一种影响德克萨斯州狭长地带、新墨西哥州和堪萨斯州奶牛群的神秘疾病已被确定为高致病性禽流感（HPAI），通常称为禽流感。据信该病毒是由野生水禽传播的，虽然它已经影响了几个牛群，但受影响的奶牛似乎并未将病毒传播给同一牛群中的其他奶牛。这种疾病会导致产奶量显着下降，并影响老年奶牛。尽管做出了诊断，美国农业部还是向消费者保证，牛奶和肉类仍然可以安全食用。该行业正在努力了解这种疾病并实施生物安全措施来保护牛群。]]></description>
-      <guid>https://t.me/hn_summary/81277</guid>
-      <pubDate>Mon, 25 Mar 2024 23:35:29 GMT</pubDate>
+      <title>[媒体] 欢迎来到 Debian 的 ROCm 持续集成平台！</title>
+      <link>https://t.me/hn_summary/81314</link>
+      <description><![CDATA[Debian 的 ROCm 持续集成
+欢迎来到 Debian 的 ROCm 持续集成平台！我们的 debci 开发团队一直在努力提供 GNU 通用公共许可证下许可的免费软件。您可以在我们的 git 存储库中找到源代码。及时了解我们平台上于 2024 年 3 月 26 日生成的最新更新和改进。与我们一起致力于 Debian 社区的开源软件和持续集成。]]></description>
+      <guid>https://t.me/hn_summary/81314</guid>
+      <pubDate>Tue, 26 Mar 2024 05:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>www.bunniestudios.com 上有关为 IRIS 设计光源的帖子是系列文章的一部分 [...]</title>
-      <link>https://t.me/hn_summary/81276</link>
-      <description><![CDATA[设计 Iris 光源
-www.bunniestudios.com&lt; 上有关为 IRIS 设计光源的帖子&lt; /a&gt; 是探索 IRIS 技术系列的一部分，该技术允许用户使用红外光查看芯片内部。这篇文章涵盖了从最初的想法到最终设计的整个过程，强调了向他人学习和迭代省力原型的重要性。作者分享了对创建合适光源所面临的挑战的见解，强调了强度、均匀性和精确定位的必要性。讨论了生产过程中省力原型制作的非常规方法，重点是质量而不是速度。作者对彻底的实验和文档的奉献是显而易见的，展示了对硬件设计的独特视角。 （根据 38% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81276</guid>
-      <pubDate>Mon, 25 Mar 2024 23:34:26 GMT</pubDate>
+      <title>Onelook.ai 允许用户描述应用程序，从而彻底改变应用程序的创建方式 [...]</title>
+      <link>https://t.me/hn_summary/81313</link>
+      <description><![CDATA[展示 HN：Onelook – 通过用人类语言描述来创建应用程序&lt; /a&gt;
+Onelook.ai 正在彻底改变应用程序的创建方式，允许用户描述它们在人类语言中的期望应用。我们的平台将这些描述转换为代码，使每个人都可以进行应用程序开发，无论其技术专业知识如何。告别复杂的编程语言，迎接直观应用程序开发的新时代。与我们一起重塑技术的未来。]]></description>
+      <guid>https://t.me/hn_summary/81313</guid>
+      <pubDate>Tue, 26 Mar 2024 04:37:52 GMT</pubDate>
     </item>
     <item>
-      <title>在本文中，我们深入研究了 Google 第一个张量处理单元（TPU [...]</title>
-      <link>https://t.me/hn_summary/81275</link>
-      <description><![CDATA[Google 首个张量处理单元：架构
-在本文中，我们深入研究了 Google 首个张量处理单元 (TPU v1) 的架构以及它如何彻底改变深度学习服务。 TPU v1 项目旨在开发一种 ASIC，与 GPU 相比，该 ASIC 在推理方面具有 10 倍的性价比优势，同时具有成本效益和可扩展性。 TPU v1 的脉动阵列设计使用 8 位整数计算有效地执行矩阵乘法，这对于神经网络至关重要。 TPU v1 的软件堆栈（包括 TensorFlow 集成）对其成功至关重要。尽管采用 28 纳米工艺制造，TPU v1 的芯片面积明显小于英特尔和 Nvidia 的芯片。 （根据 87% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81275</guid>
-      <pubDate>Mon, 25 Mar 2024 23:29:20 GMT</pubDate>
+      <title>[媒体]安德鲁·胡伯曼 (Andrew Huberman) 是一位著名的神经科学家和播客，获得了巨大的人气 [...]</title>
+      <link>https://t.me/hn_summary/81312</link>
+      <description><![CDATA[最大的流行神经科学家的私人和公开诱惑 
+安德鲁·胡伯曼 (Andrew Huberman) 是一位著名的神经科学家和播客，因其对大脑科学和自我完善的深入研究而赢得了巨大的声誉。他的播客拥有数百万听众，他们遵循他关于健康和保健的建议。然而，由于他面临个人关系不稳定和不可靠的指控，争议围绕着他。尽管他取得了成功，但人们对他所呈现的公众形象与他个人生活的现实之间的差距产生了疑问。这篇文章深入探讨了休伯曼成名的复杂性以及他作为神经科学界公众人物所面临的挑战。 （根据故事文本的 23% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81312</guid>
+      <pubDate>Tue, 26 Mar 2024 04:28:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]前中国人民解放军军人徐华杰中校，现 [...]</title>
-      <link>https://t.me/hn_summary/81274</link>
-      <description><![CDATA[温尼伯男子是中国军方网络部门的成员&lt; br/&gt;
-前中国人民解放军成员徐华杰中校现居住在加拿大温尼伯，引发了人们对国家安全的担忧。徐在解放军信息工程大学任教，该大学是网络战研究中心，他否认参与间谍活动。然而，他与解放军的关系引发了加拿大当局的调查。尽管在抵达加拿大后遭到拘留，徐仍获得了永久居留权。联邦法院推翻了移民和难民委员会的裁决，下令举行新的听证会以确定徐的驱逐身份。此案突显了筛选与外国政府有联系、参与针对加拿大的网络攻击的个人所面临的挑战。]]></description>
-      <guid>https://t.me/hn_summary/81274</guid>
-      <pubDate>Mon, 25 Mar 2024 23:27:15 GMT</pubDate>
+      <title>在一个充满复杂且可能致命的系统的世界中，我们面临的认识论危机 [...]</title>
+      <link>https://t.me/hn_summary/81311</link>
+      <description><![CDATA[阴谋论与认识论危机
+在一个充满复杂且可能致命的系统的世界中，我们今天面临的认识论危机是显而易见的。从波音公司的安全问题到水污染法规，利益冲突和有缺陷的监督流程困扰着我们对管理我们生活的系统的信任能力。即使没有专业知识，我们也可以通过检查透明度、利益冲突和对新证据的响应来评估这些系统的可信度。由于对以利润为导向的制药公司和同谋监管机构的不信任，拒绝接种疫苗凸显了拒绝信任有缺陷的系统的高风险。关键在于评估流程，而不仅仅是技术细节，以便在充满不确定性的世界中做出明智的决策。 （根据 34% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81311</guid>
+      <pubDate>Tue, 26 Mar 2024 04:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克 (Elon Musk) 的 X（以前称为 Twitter）正面临每日活跃用户下降的问题，w [...]</title>
-      <link>https://t.me/hn_summary/81273</link>
-      <description><![CDATA[使用 Elon Musk 的 X 的人越来越少，因为它很难留住用户
-埃隆·马斯克 (Elon Musk) 的 X（以前称为 Twitter）正面临每日活跃用户数量的下降，自马斯克掌权以来，该用户数量大幅下降。该应用程序一直难以跟上 Instagram 和 TikTok 等社交媒体竞争对手的步伐，用户对内容和技术问题的不满被认为是其下滑的原因。马斯克宽松的内容审核规则和有争议的决定，例如恢复亚历克斯·琼斯等被禁止的用户，也加剧了该应用程序的困境。尽管马斯克努力增加用户数量，但与之前的广告支持模式相比，X 来自应用内购买的收入仍然较低。 Threads 等竞争对手的出现，与 Instagram 的整合，进一步挑战了 X 的市场主导地位。]]></description>
-      <guid>https://t.me/hn_summary/81273</guid>
-      <pubDate>Mon, 25 Mar 2024 23:22:10 GMT</pubDate>
+      <title>[中] Canva 公司</title>
+      <link>https://t.me/hn_summary/81310</link>
+      <description><![CDATA[Canva 收购 Affinity，这是其最大的一笔收购，旨在与 Adob​​e 竞争
+Canva Inc. 完成了迄今为止规模最大的收购，收购了深受 Mac 用户欢迎的 Affinity 创意软件套件，以与 Adob​​e Inc. 竞争。这笔交易价值“数亿英镑”，包括现金、股票和商标Canva 扩展专业工具的里程碑。此次收购将 Affinity 背后的初创公司 Serif 的整个 90 人团队带到了 Canva。 Canva 以其易于使用的产品而闻名，年收入已超过 21 亿美元，拥有超过 1.75 亿用户。此次收购是 Canva 扩大其在欧洲业务并增强其人工智能工具的战略的一部分。]]></description>
+      <guid>https://t.me/hn_summary/81310</guid>
+      <pubDate>Tue, 26 Mar 2024 04:23:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
