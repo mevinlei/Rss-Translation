@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 10:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 15:03:29 GMT</lastBuildDate>
     <item>
-      <title>您是否正在努力理解卡尔曼滤波器输出中的协方差矩阵？</title>
-      <link>https://t.me/hn_summary/81334</link>
-      <description><![CDATA[卡尔曼滤波器
-您是否正在努力理解卡尔曼滤波器输出中的协方差矩阵？这篇文章用图片来解释，让大家更容易理解。还讨论了扩展卡尔曼滤波器，这是一种用于非线性系统的特殊滤波器，与阿波罗导航控制系统有着令人惊讶的联系。了解如何在 Python 中实现卡尔曼滤波器，以使用 NumPy 处理数组和矩阵，根据位置测量来估计速度。如果您发现大多数卡尔曼滤波器教程过于复杂，这篇文章简化了概念，而无需了解其推导背后的高级数学。]]></description>
-      <guid>https://t.me/hn_summary/81334</guid>
-      <pubDate>Tue, 26 Mar 2024 10:31:56 GMT</pubDate>
+      <title>嗨，HN！</title>
+      <link>https://t.me/hn_summary/81356</link>
+      <description><![CDATA[推出 HN：CommodityAI (YC W24) – 为商品交易者提供货运管理
+嗨，HN！我们是 CommodityAI 的联合创始人，该平台可以简化管理商品运输的复杂流程。全球商品贸易涉及大量流程、文件和协调，导致代价高昂的错误和低效率。我们的人工智能驱动解决方案简化了数据预处理，使用 OCR 和索引方法自动化业务流程，并使用户能够更有效地采取行动和工作流程。我们的平台已经为客户节省了时间和金钱，美国最大的农产品贸易商之一使用它处理了超过一百万份文件。观看我们的视频，看看它是如何工作的！我们欢迎熟悉商品交易行业的人士提供反馈。]]></description>
+      <guid>https://t.me/hn_summary/81356</guid>
+      <pubDate>Tue, 26 Mar 2024 15:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欢迎来到世嘉土星架构——实用分析！</title>
-      <link>https://t.me/hn_summary/81333</link>
-      <description><![CDATA[世嘉土星架构 – 实用分析
-欢迎来到世嘉土星架构 - 实用分析！世嘉进军 3D 时代并非没有挑战，因为他们经历了选择新 CPU 和调整硬件以实现多边形绘制功能的复杂性。 Hitachi SuperH CPU 以其 RISC 设计和独特的 16 位宽指令集，为世嘉带来了优点和缺点。添加第二个 SH-2 CPU 和 Saturn 控制单元进一步增强了控制台的处理能力。 Saturn 拥有两个协同工作的专有 GPU，提供了一种独特的 3D 图形渲染方法。深入研究技术细节并发现世嘉土星架构的复杂性。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/81333</guid>
-      <pubDate>Tue, 26 Mar 2024 10:22:50 GMT</pubDate>
+      <title>该项目是 CVE-2024-1086 的概念验证漏洞利用，这是一种通用本地权限 Esca [...]</title>
+      <link>https://t.me/hn_summary/81355</link>
+      <description><![CDATA[针对 CVE-2024-1086 的 Debian/Ubuntu 权限提升 PoC 漏洞&lt; /a&gt;
+该项目是 CVE-2024-1086 的概念验证漏洞，CVE-2024-1086 是一个通用本地权限提升漏洞，影响 v5.14 和 v6.6 之间的 Linux 内核，包括 Debian、Ubuntu 和 KernelCTF。该漏洞在 KernelCTF 图像中的成功率为 99.4%。作者在他们的博客上提供了该漏洞的详细描述。该项目包含一些警告，例如某些内核配置的兼容性问题以及网络活动频繁的系统上的网络不稳定。该漏洞可以在 Debian、Ubuntu 和 KernelCTF 系统上轻松配置、构建和运行，并提供预编译的二进制文件。作者强调，该项目仅用于教育/研究目的，不纵容任何恶意或非法使用。]]></description>
+      <guid>https://t.me/hn_summary/81355</guid>
+      <pubDate>Tue, 26 Mar 2024 15:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么正则表达式使用“$”和“^”作为行锚点？</title>
-      <link>https://t.me/hn_summary/81332</link>
-      <description><![CDATA[为什么正则表达式使用 `$` 和 `^` 作为行锚点？
-作者深入研究了正则表达式使用 $ 和 ^ 作为行锚点的历史，追溯到 QED 文本编辑器和 Teletype Model 35 键盘。使用 $ 表示行尾源于其在 QED 中作为缓冲区结束的含义，而选择 ^ 表示行首则受到影响通过 Ken Thompson 键盘上的符号可用性。作者承认这些解释的脆弱性，但将它们作为可用的最佳答案。这篇文章还预告了即将举行的名为 April Cools 的活动，供科技博主撰写非科技主题的文章。]]></description>
-      <guid>https://t.me/hn_summary/81332</guid>
-      <pubDate>Tue, 26 Mar 2024 10:11:13 GMT</pubDate>
+      <title>[媒体]作者讨论了他们关于基于波形的音乐处理和深度学习的教程 [...]</title>
+      <link>https://t.me/hn_summary/81354</link>
+      <description><![CDATA[在波形域中生成音乐（2020）&lt; br/&gt;
+作者讨论了他们在 ISMIR 2019 上提出的基于波形的音乐处理和深度学习的教程。他们深入研究了在波形域中建模音乐背后的动机，强调了挑战和好处。他们解释了波形在捕捉声音中的重要性以及相位建模的复杂性。这篇文章涵盖了生成模型，包括隐式和显式模型，以及使用条件信号来影响样本生成。讨论还涉及基于可能性的模型和密集调节信号的重要性。作者旨在引发讨论并提供对波形领域音乐生成的见解。 （根据故事文本的 22% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/81354</guid>
+      <pubDate>Tue, 26 Mar 2024 14:58:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 微软将在 [...] 之前关闭为俄罗斯企业提供的 50 多个云服务</title>
-      <link>https://t.me/hn_summary/81331</link>
-      <description><![CDATA[微软将关闭针对俄罗斯企业的 50 项云服务 
-微软计划在 3 月底之前关闭为俄罗斯企业提供的 50 多个云服务，以遵守欧盟对该国的制裁。 Softline Group of Companies 证实了这一消息，并警告受影响实体的功能限制。微软在给俄罗斯组织的信中引用了欧盟理事会第 2023/2873 号法规作为暂停的原因。 Microsoft Azure、Dynamics 365 和 Microsoft Teams 等重要产品将受到影响。此举预计将推动俄罗斯用户转向本地替代方案，与政府推广国内解决方案保持一致。原定于 3 月 20 日暂停，后推迟至月底。]]></description>
-      <guid>https://t.me/hn_summary/81331</guid>
-      <pubDate>Tue, 26 Mar 2024 10:03:34 GMT</pubDate>
+      <title>BAML 是一种新的编程语言，旨在简化调用大型语言的过程 [...]</title>
+      <link>https://t.me/hn_summary/81353</link>
+      <description><![CDATA[显示 HN - BAML：一种用于获取结构化数据的新编程语言法学硕士
+BAML 是一种新的编程语言，旨在简化在代码中调用大型语言模型 (LLM) 的过程。该项目旨在解决将通常讲英语的法学硕士与使用类型的代码集成的挫败感。 BAML 采用类型优先的方法，允许用户在 BAML 文件中定义输入和输出的类型、提示模板、重试和回退。该项目的独特之处在于为 LLM 提供类型安全保证、提供出色开发人员体验的工具以及对 OpenAI 和 Azure 等各种 LLM 提供商的支持。该项目还提供工具、VSCode 扩展和入门项目以方便集成。 （根据 38% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81353</guid>
+      <pubDate>Tue, 26 Mar 2024 14:43:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 Virtualdesktop.org，在这里您可以体验 vir 带来的过去的震撼 [...]</title>
-      <link>https://t.me/hn_summary/81330</link>
-      <description><![CDATA[欢迎来到 Virtualdesktop.org
-欢迎来到 Virtualdesktop.org，在这里您可以体验来自过去使用各种操作系统的虚拟桌面。从 Windows 95 到 Macintosh OS X，您可以探索不同版本的 Microsoft Internet Explorer 和 Outlook Express。有争议的是，有些人可能会认为这些过时的系统不再相关，但对于那些怀念早期计算时代的人来说，这个网站提供了一次独特且令人惊讶的记忆之旅。探索技术的演变，看看我们在虚拟桌面领域已经走了多远。]]></description>
-      <guid>https://t.me/hn_summary/81330</guid>
-      <pubDate>Tue, 26 Mar 2024 09:54:57 GMT</pubDate>
+      <title>[媒体] 在这篇文章中，我对 2015 年讨论 functi 的一篇热门文章做出了迟来的回应 [...]</title>
+      <link>https://t.me/hn_summary/81352</link>
+      <description><![CDATA[异步函数没有颜色
+在这篇文章中，我对 2015 年讨论异步编程中的函数着色的热门文章做出了最新回应。虽然原始文章提出了有趣的规则和概念，但我认为 async/await 的引入通过解决许多回调式问题彻底改变了格局。我深入研究了从同步函数调用异步函数的细微差别，强调了最终结果的重要性及其提供的灵活性。我还谈到了不同执行模型的重要性以及采用异步原语的好处。总的来说，我主张对函数着色和异步编程的不断发展的本质有更细致的理解。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/81352</guid>
+      <pubDate>Tue, 26 Mar 2024 14:19:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 今天，我们很高兴地宣布 Affinity 现已成为 Canva 家族的一部分。</title>
-      <link>https://t.me/hn_summary/81329</link>
-      <description><![CDATA[Canva 购买 Affinity (Serif)
-今天，我们很高兴地宣布 Affinity 现已成为 Canva 家族的一部分。这种合作关系将使我们能够继续利用专业级工具为创意人员提供支持，同时扩大我们的视野。我们的核心价值观与 Canva 致力于让每个人都能接触到设计的承诺完美契合。请放心，您的 Affinity 应用程序将继续接收更新并保留在 Affinity 品牌下。我们感谢忠实用户的支持，并期待创造一个人人触手可及的设计世界。加入我们，一起开启视觉传达领域的革命。 （根据 81% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81329</guid>
-      <pubDate>Tue, 26 Mar 2024 09:52:22 GMT</pubDate>
+      <title>固定电话正在消失。</title>
+      <link>https://t.me/hn_summary/81351</link>
+      <description><![CDATA[固定电话正在消失。但对某些人来说，它们是生命线
+在华盛顿州恩努克劳等农村地区，固定电话是许多人的生命线，尤其是在停电和紧急情况下。尽管固定电话用户数量急剧下降，并且 AT&amp;T 等提供商希望逐步淘汰该服务，但数百万人仍然依赖铜线固定电话来确保安全。 AT&amp;T 试图停止加州部分地区的固定电话服务，引发了对老年人、残疾人和低收入人群安全的担忧，引发了争议。尽管人们正在推动蜂窝或 VoIP 服务等替代服务的发展，但传统固定电话的可靠性和安全性对于那些依赖传统固定电话的人来说仍然是无与伦比的。]]></description>
+      <guid>https://t.me/hn_summary/81351</guid>
+      <pubDate>Tue, 26 Mar 2024 14:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在 SwissBorg，我们自成立以来就一直押注于 Scala，事实证明它 [...]</title>
-      <link>https://t.me/hn_summary/81328</link>
-      <description><![CDATA[我们在 SwissBorg 押注 Scala
-在SwissBorg，我们自成立以来就一直押注于Scala，事实证明这是一个明智的选择。在本文中，我们将分享我们使用 Scala 的历程，揭穿常见的误解，并重点介绍 Scala 如何帮助我们超越平均水平、扩展我们的系统并保持高标准的安全性和正确性。尽管在发展过程中面临招聘和维护文化等挑战，Scala 仍然是我们成功的可靠基础。随着我们进入整合和增长的新阶段，我们将继续利用 Scala 在可扩展性、工具、社区对正确性的关注以及复杂领域建模能力方面的优势。 Scala 确实是我们 SwissBorg 成功的关键因素。 （根据 85% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/81328</guid>
-      <pubDate>Tue, 26 Mar 2024 09:12:37 GMT</pubDate>
+      <title>GitHub 上的知识图语言 (KGL) 项目提供了一种用于交互的查询语言 [...]</title>
+      <link>https://t.me/hn_summary/81350</link>
+      <description><![CDATA[显示HN：KGL，一种知识图查询语言
+GitHub 上的知识图语言 (KGL) 项目提供了一种查询语言，通过接受语义三元组并对它们进行索引以进行查询，从而与图进行交互。它可用于查找与节点关联的属性、返回连接的节点、根据条件过滤查询以及描述图中节点之间的关系。该项目通过提供过滤器查询、内省模式和描述运算符等功能而脱颖而出。它还提供了用于创建和查询知识图的Python API。该项目的自述文件作为官方语言参考，并根据 MIT 许可证获得许可。]]></description>
+      <guid>https://t.me/hn_summary/81350</guid>
+      <pubDate>Tue, 26 Mar 2024 14:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]考古学家取得了突破性的发现，在古代发现了微塑料[...]</title>
-      <link>https://t.me/hn_summary/81327</link>
-      <description><![CDATA[考古学家现在在古代遗迹中发现了微塑料
-考古学家取得了突破性的发现，首次在古代土壤样本中发现了微塑料。这一发现可能会改变考古遗迹的保存方式，因为微塑料的存在可能会损害这些沉积物的科学价值。该研究在土壤样本中鉴定出了 16 种不同的微塑料聚合物类型，其历史可以追溯到公元一世纪或二世纪。这一发现引发了人们对微塑料对环境和人类健康影响的担忧。这项研究发表在《整体环境科学》上，对就地保存考古遗迹的未来提出了疑问。]]></description>
-      <guid>https://t.me/hn_summary/81327</guid>
-      <pubDate>Tue, 26 Mar 2024 08:39:51 GMT</pubDate>
+      <title>[媒体] Hybrid-Net 是一个人工智能驱动的多模式项目，专注于音乐，利用 Transfor [...]</title>
+      <link>https://t.me/hn_summary/81349</link>
+      <description><![CDATA[Hybrid-Net：实时音源分离，生成歌词，和弦、节拍
+Hybrid-Net 是一个专注于音乐的人工智能多模式项目，它利用基于 Transformer 的模型实时生成任何歌曲的和弦、节拍、歌词、旋律和标签。该项目包括各种 Transformer 模型，例如 U-Net、Pitch-Net、Beat-Net、Chord-Net 和 Segment-Net，它们协同工作以建立音乐不同方面之间的关联。该项目提供和弦检测、节拍跟踪、音高跟踪、音乐结构分析、歌词识别和人工智能生成的标签等功能。它还支持音源分离、速度调整和音调转换。该项目通过在实时环境中提供一整套与音乐相关的功能而脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/81349</guid>
+      <pubDate>Tue, 26 Mar 2024 14:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 joanwestenberg.com 上一篇发人深省的文章中，作者挑战了 [...]</title>
-      <link>https://t.me/hn_summary/81326</link>
-      <description><![CDATA[加密货币有机会
-在 joanwestenberg.com 上发表的发人深省的文章中，作者提出了挑战监管抑制加密行业创新的观点。作者强调了困扰该领域的猖獗的诈骗和欺诈行为，认为缺乏问责制阻碍了真正的进步。美国证券交易委员会最近采取的行动给该行业敲响了警钟，标志着加密狂野西部的结束。尽管有些人可能担心监管会导致加密货币的终结，但作者认为该行业有必要负责任地蓬勃发展。最终，本文提出了一个令人信服的论据，证明加密货币世界需要进行监督。]]></description>
-      <guid>https://t.me/hn_summary/81326</guid>
-      <pubDate>Tue, 26 Mar 2024 08:06:09 GMT</pubDate>
+      <title>[媒体]不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。</title>
+      <link>https://t.me/hn_summary/81348</link>
+      <description><![CDATA[如果不提供 Google 私人签名密钥，VLC 无法在 Android 上更新&lt; /a&gt;
+不幸的是，Android 上的 VLC 用户在更新应用程序时面临着困境。 Google 要求用户提供私人签名密钥才能更新其设备上的 VLC。谷歌这一有争议的举动引发了关注隐私和安全的用户的愤怒。如果不提供这些密钥，用户将无法接收流行媒体播放器的更新。这引发了关于谷歌等科技巨头对我们在设备上使用的应用程序的控制权的重要问题。]]></description>
+      <guid>https://t.me/hn_summary/81348</guid>
+      <pubDate>Tue, 26 Mar 2024 14:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]波音公司已对维珍银河提起诉讼，指控该公司持有 [...]</title>
-      <link>https://t.me/hn_summary/81325</link>
-      <description><![CDATA[波音公司要求维珍银河销毁失败合作伙伴关系中的所有数据 
-波音公司对维珍银河提起诉讼，指控该公司保留了双方失败的合作伙伴关系中的商业秘密，以开发新的母舰。维珍银河公司与极光飞行科学公司合作，为他们的太空飞机“德尔塔”打造了一艘新的母舰，该母舰将把太空游客运送到亚轨道高度。波音公司声称维珍银河未经许可使用其专有数据，造成了无法弥补的损害。维珍银河否认这些指控，并计划积极为自己辩护。该诉讼凸显了航天工业的竞争性和保护知识产权的重要性。]]></description>
-      <guid>https://t.me/hn_summary/81325</guid>
-      <pubDate>Tue, 26 Mar 2024 07:36:58 GMT</pubDate>
+      <title>[媒体] Grafana Labs 可观测性调查 2024 年结果已出炉，展示了增长和我 [...]</title>
+      <link>https://t.me/hn_summary/81347</link>
+      <description><![CDATA[2024 年 Grafana Labs 可观测性调查
+Grafana Labs 可观测性调查 2024 年结果已出炉，展示了可观测性工具和技术在全球各行业和组织中的发展和影响。 Grafana Labs 在全球拥有超过 3,000 家客户和 2000 万用户，继续引领开放和可组合监控解决方案。 LGTM Stack 可通过 Grafana Cloud 或 Grafana Enterprise 提供，提供可扩展的指标、日志和跟踪，以及企业数据源插件和用于可观察性策略的高级功能。在顶级投资者的支持下，Grafana Labs 致力于根据社区反馈和行业趋势改进和发展其产品。请访问 grafana.com 探索更多信息。]]></description>
+      <guid>https://t.me/hn_summary/81347</guid>
+      <pubDate>Tue, 26 Mar 2024 13:53:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
