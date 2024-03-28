@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 21:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:36:19 GMT</lastBuildDate>
+    <item>
+      <title>对 Pokemon Top Trumps 游戏的反馈 [HTML/JS/CSS]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bph2wi/feedback_on_pokemon_top_trumps_game_htmljscss/</link>
+      <description><![CDATA[我最近开始尝试重新学习一些 Web 开发/编码。 寻找有关某个项目的一些反馈我过去几天一直在做的项目。这是我第一次使用 bootstrap，使用起来非常令人满意，但可以看到它可以深入了解不同的功能。它使用 PokeApi，您可以为随机选择的卡牌池选择任意多代的口袋妖怪。  我喜欢中间的小精灵，但要明白，当你通过所有的神奇宝贝时，你可以看到对手出现了哪些牌，从而消除了难度元素！ 目前我还没有对计算机轮流进行编码，但是将来我可能会回过头来尝试实现一个服务器，这样你就可以和朋友在线玩 1v1 了。对于这一点，人们会推荐什么，我从未使用过 Node.Js，但见过可以使用它的 socket.io 或 websocket，但它看起来像是一个相当陡峭的学习曲线？ Live下面预览 https://lukecherry.com/pokemon-toptrumps/   由   提交 /u/MrNeski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bph2wi/feedback_on_pokemon_top_trumps_game_htmljscss/</guid>
+      <pubDate>Wed, 27 Mar 2024 23:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>成为 Shopify 开发人员的故事/播客剧集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpgu4v/story_on_becoming_a_shopify_developer_podcast/</link>
+      <description><![CDATA[大家好， 我们刚刚发布了由 Younes (@blanklob) 主演的新播客剧集，他在其中分享了他的旅程成为一名 Shopify 开发者。 Younes 讲述了他是如何开始的、遇到的挑战，并为有抱负的 Shopify 开发者提供了一些宝贵的建议。如果您对 Shopify 开发感兴趣或正在寻找一些实用见解，本集适合您。 收听本集 这里-分享他的故事-关于如何成为shopify开发者)并让我们知道您的想法！   由   提交 /u/IliasHad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpgu4v/story_on_becoming_a_shopify_developer_podcast/</guid>
+      <pubDate>Wed, 27 Mar 2024 23:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能告诉我为什么这个 svg 没有动画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpgjyi/can_anyone_tell_me_why_this_svg_isnt_animating/</link>
+      <description><![CDATA[小提琴：https://jsfiddle.net/5unmbLzv/ 1/  我已经在页面加载时完成了大量的滚动动画，但是这个是通过输入特定的 div 触发的。然而，这个 SVG 根本不绘图/动画。它从一开始就出现在屏幕上，我不知道我做错了什么   由   提交 /u/FourTimesRadical   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpgjyi/can_anyone_tell_me_why_this_svg_isnt_animating/</guid>
+      <pubDate>Wed, 27 Mar 2024 23:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚联系了一位招聘人员，他有一个可能可疑的机会来审查人工智能代码。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpg9x1/i_just_got_approached_but_a_recruiter_with_a/</link>
+      <description><![CDATA[我目前失业，所以如果这是合法的，我肯定会考虑它。可疑之处在于，他们愿意每周支付我愿意投入的时间。再加上训练人工智能感觉有点像自掘坟墓。  但如果这是未来的发展方向，不妨赚一点钱来资助我的管道职业转变。  这里有人熟悉这种工作吗？他们向我询问每小时的工资。我可以像软件工程师一样收费吗？或者这类工作需要更便宜的员工。顺便说一句，我在拉丁美洲。   由   提交 /u/sateliteconstelation   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpg9x1/i_just_got_approached_but_a_recruiter_with_a/</guid>
+      <pubDate>Wed, 27 Mar 2024 23:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>现场审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpg74v/site_review/</link>
+      <description><![CDATA[我可以得到一些关于这个网站/我的想法的反馈吗？这是一个按每份价格跟踪健身补充剂并将其分类在表格中的网站。真的很简单。我有一个 MVP，但目前它只从亚马逊获取蛋白粉。我想在未来添加更多店面和其他产品。 我应该提到，我更喜欢后端开发，因此网站看起来不会最好，但主要目标是功能。任何反馈/改进都会有帮助。谢谢。   由   提交 /u/JefferyGarrison   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpg74v/site_review/</guid>
+      <pubDate>Wed, 27 Mar 2024 23:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我使用 Vue.js 而不是 React 来启动我的项目，那会很糟糕吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpfscm/is_that_bad_if_i_start_my_project_with_vuejs/</link>
+      <description><![CDATA[所以，我是一名深谙 DevOps 的后端工程师。我也开始做一些前端。 目前，在我的工作中，我使用 Django 作为后端，Vue.js 作为前端。我认为自己在 Python 方面处于高级水平，但在 Django 方面属于初学者。我刚刚开始学习一些 Vue.js 和 JavaScript。 我想开始一个项目，也许有一天它会成为一家公司。我知道 Go 是中等高级的，我认为对于我的后端来说这是一个更好的选择，因为速度更快并且具有其他一些优势。 问题是前端该选择什么：Vue.js 还是 React？我看到普遍的共识是 React 更好和/或更受欢迎。 我也知道，因为我在工作中使用 Vue.js，所以在我的项目中使用它会更容易，因为我可以使用我可以收集的技能。 那么，如果我用 Vue 开始我的项目是不是很糟糕？    ;由   提交 /u/MrMarsStark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpfscm/is_that_bad_if_i_start_my_project_with_vuejs/</guid>
+      <pubDate>Wed, 27 Mar 2024 22:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发 SaaS 的最佳无服务器解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpfk16/best_serverless_solution_to_develop_a_saas/</link>
+      <description><![CDATA[大家好， 完全处理 SaaS 后端的良好付费解决方案是什么？基本上我想构建一个 SaaS，但想专注于前端和业务计划，我只想安全地对服务器进行 API 调用，而不需要进行太多设置。 我已经运行“成功”自 2018 年开始使用 SaaS，在这方面有一些经验，但我有一个团队负责后端，他们无法参与这个新项目。 我遇到了 Supabase，它看起来很有趣。我需要的功能是：  社交登录 带有图像的数据库 人工智能识别重复用户（基于他们的图像） 通过 PayPal/Stripe 支付系统（非订阅）  欢迎提出任何建议。 谢谢！   由   提交/u/main_account_4_sure  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpfk16/best_serverless_solution_to_develop_a_saas/</guid>
+      <pubDate>Wed, 27 Mar 2024 22:48:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获得自定义网站域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpfccf/how_do_i_get_a_custom_website_domain/</link>
+      <description><![CDATA[希望建立我自己的网站，我可以将其用作关于我的网站的一般投资组合/信息。我想使用自定义域名（不是 .org、.com、.net 等），但我不知道如何获取。我希望它的域名与我的名字相关，因为我认为它看起来比标准域名之一更酷。我知道这可能会让找到我变得更加困难，但现在对我来说没关系。我将使用我的 reddit 名称来举个例子：而不是让我的网站是 zarik.com 或 zarik.org 我希望它像 zar.ik 一样。另外，我不知道这些网站是否已经存在，也不知道它们上有什么，如果它们存在的话，如果你检查它们并且不喜欢你所说的，请不要责怪我。预先感谢您的任何建议！   由   提交/u/Zarik8256   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpfccf/how_do_i_get_a_custom_website_domain/</guid>
+      <pubDate>Wed, 27 Mar 2024 22:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Wix可以实现这些功能吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpedyy/is_it_possible_to_implement_these_features_using/</link>
+      <description><![CDATA[      Wix 能否创建无限循环横幅（绿色图像）和复制文本按钮（紫色） ？如果没有，哪个网站构建器可以提供这些功能？ ​ https://preview.redd.it/x194nerp8yqc1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=147c74fc6df8ea8d4 3e2ef6c8a33bafa7436781d&lt; /p&gt;   由   提交 /u/stevehussel   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpedyy/is_it_possible_to_implement_these_features_using/</guid>
+      <pubDate>Wed, 27 Mar 2024 22:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我到底如何做在线数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpdzs1/how_do_i_exactly_do_online_databases/</link>
+      <description><![CDATA[所以我知道如何使用 laragon 在我的电脑上创建本地数据库，在 laragon 上安装 phpmyadmin，并编写 PHP，但是我如何制作类似的东西在线托管数据库，数据像大多数网站一样在线存储？提前致谢   由   提交 /u/No_Preference6649   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpdzs1/how_do_i_exactly_do_online_databases/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:45:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以将 <button> 放入 <a> 内？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpdz5b/is_it_possible_to_put_a_button_inside_a/</link>
+      <description><![CDATA[我花了一整天的时间来解决这个问题。我正在使用 Laravel 和 Jquery 构建通知铃。  所以我想在上面放一个阅读&lt;按钮&gt;在  内，包含通知和阅读&lt;按钮&gt;。  每当我点击阅读&lt;按钮&gt;时，它就会点击的href。但我希望它将通知 ID 发送到后端。我需要读取  才能看起来像是在  内部。  如果您有任何解决方案，请告诉我。    由   提交 /u/always_confuswd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpdz5b/is_it_possible_to_put_a_button_inside_a/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:44:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个登录组件让我有些兴奋</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpdr8t/there_is_something_tickling_my_brain_with_this/</link>
+      <description><![CDATA[      所以我是一名后端开发人员，没有任何前端或 UX/UI 技能，但我想为个人项目制作一个图片库界面。 今天我做了这个登录页面，我对此感到非常高兴，但感觉有些不对劲，这让我发疯，因为我不知道为什么。  p&gt; 也许你们能弄清楚？   由   提交/u/ego100trique  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpdr8t/there_is_something_tickling_my_brain_with_this/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>计划构建和营销老派 Reddit 克隆。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1bpd9dl/planning_to_build_and_market_old_school_reddit/</link>
+      <description><![CDATA[我怀念网络简单的时候。我讨厌华丽的用户界面和让事情变得更花哨但组织性较差的趋势，感觉很混乱。我的想法是建立一些受到 2000 年底网站设计启发的东西。我不喜欢产品在追求利润最大化的过程中背离其核心原则并毁掉其产品。这会很困难，有很多事情可能会出错，但我仍然想尝试。  1.内容审核 2.国际化 3.DDoS 4.地理平衡 5.缓存 您希望在可以匿名发表言论的门户上拥有哪些功能？我不想从中赚钱，但非常想维持它。   由   提交/u/nationalcumpie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1bpd9dl/planning_to_build_and_market_old_school_reddit/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>颠覆性的超链接</title>
       <link>https://www.reddit.com/r/webdev/comments/1bpcwwy/the_subversive_hyperlink/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[有一个已不复存在的旧网站，其中包含图像的杂耍。 Wayback Machine 仍然保存了基本站点和特定页面，但他们用来制作杂耍的 Javascript 无法运行。  我的Javascript知识基本上为零。有什么办法可以找回原始图像吗？我对此表示怀疑，但我想我应该问问有更多知识的人 https://web.archive.org/web/20020803052016/http://johndeeremodelb.tripod.com/JDXRay/index.htm 谢谢   由   提交 /u/weirddeere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1bpceav/wayback_machine_retrieve_old_files/</guid>
       <pubDate>Wed, 27 Mar 2024 20:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>迭代器助手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpbswh/iterator_helpers/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpbswh/iterator_helpers/</guid>
-      <pubDate>Wed, 27 Mar 2024 20:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年如何创建 Web 应用程序？今天使用什么工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpbr2p/how_do_you_create_a_web_app_in_2024_what_tools/</link>
-      <description><![CDATA[所以我的背景是程序员。我并不老，但我在更简单的时代就学会了这门生意，当时人们仍然会自己做事，而 git 还算新鲜。  现在？天哪，这么多不同的技术、库和其他疯狂的东西。 我并不反对这种东西，但我有点错过了火车。我想回到这个话题并自己开始一个项目。我想创建一个拍卖网站 eBay stile 以保持描述简单。  我以前只用原生 javascript 和 php 做事情。 现在有哪些必须使用的技术？有图书馆吗？一些人工智能方法可以更快地构建这样的网站？最好的IDE？让我们听听吧！   由   提交/u/Jubatus_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpbr2p/how_do_you_create_a_web_app_in_2024_what_tools/</guid>
-      <pubDate>Wed, 27 Mar 2024 20:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由项目需要一名全栈开发人员。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpb154/need_a_fullstack_developer_for_a_freelance_project/</link>
-      <description><![CDATA[我想要克隆一个网站/应用程序并将结果时间缩短 10-20%。如果任何有能力的开发人员想要完成这项工作，请私信我以获取更多详细信息。   由   提交 /u/Pranav_ls_dead   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpb154/need_a_fullstack_developer_for_a_freelance_project/</guid>
-      <pubDate>Wed, 27 Mar 2024 19:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在前端开发人员应该了解多少后端知识？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpa5ya/how_much_backend_should_a_front_end_developer/</link>
-      <description><![CDATA[我觉得前端和后端之间的界限变得越来越模糊，因为感觉任何现代开发人员都需要了解一些后端知识。  我应该研究后端多深？ 我认为我应该研究的主题列表。  请求和响应周期 http 状态代码 http 方法名称 一种服务器端语言 - Nodejs  一个数据库 - mysql  一个后端框架 - Express  如何构建 api  最后，当谈到身份验证时，前端到底应该知道什么程度？诚然，这是我最弱的地方，我可以按照以下步骤将第三方解决方案的身份验证实现到我的代码库中。但理解充其量只是浅层深度，这个主题感觉比 html css 和 js 更难完全掌握。像 jwt、基于 cookie 的身份验证、0auth 之类的东西都是我听说过的，但似乎根本无法理解它们。    由   提交 /u/he11mager   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpa5ya/how_much_backend_should_a_front_end_developer/</guid>
-      <pubDate>Wed, 27 Mar 2024 19:11:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一点网格帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bpa03a/need_a_little_grid_help/</link>
-      <description><![CDATA[我遇到网格对齐问题。在过去的几周里，只要时间允许，我们就会回到这个问题上，并尝试了每一种“淋浴想法”。解决方案我求助于你...帮助我/你是我唯一的希望。 要求：  不同长度的内容不得改变按钮的对齐方式 错误消息必须扩展父元素的高度，而无需对高度进行硬编码，因为错误可能是一行或跨多行。错误仍然必须保持按钮与其相邻按钮的水平对齐。  在此代码笔中，CSS 的第 22 行显示了主要问题。  在适当的位置，对齐方式一切正常，除了以下元素下重叠的错误之外。它还在按钮上方创建了奇怪的间距。 将其注释掉，错误会根据需要在下方创建空间，但我们会丢失按钮的对齐方式。    由   提交 /u/AlwaysWorkForBread   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bpa03a/need_a_little_grid_help/</guid>
-      <pubDate>Wed, 27 Mar 2024 19:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp9wb0/app_development/</link>
-      <description><![CDATA[我不知道这个问题是否针对这个子。  根据经验，适用于 iOS/Android 应用程序的最佳无代码应用程序构建器是什么？我自己是一名开发人员，但从未在移动平台上做过任何事情，客户需要这个应用程序宜早不宜迟，所以我认为应用程序构建器是一个选择。  &amp; #32；由   提交 /u/JustAnotherWebDevv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp9wb0/app_development/</guid>
-      <pubDate>Wed, 27 Mar 2024 19:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 的缩进是否会导致读/写变得更加困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp99qd/does_pythons_indentation_make_it_harder_to/</link>
-      <description><![CDATA[我听人们说 Python 仅依赖于缩进，因为您不需要缩进和大括号来表示代码块。 但这会增加阅读难度吗？ 例如，如果某些代码深入 5 层（嵌套循环/函数/等），但随后上升 2 层到第三层，是不是很难分辨哪些块结束了？ 你处于第 2 级、第 3 级还是第 4 级？ 我是 Python 新手，所以经常感到困惑。  p&gt; 在其他语言中，您还可以快速将所有内容写在一行中，然后让 IDE 在保存时自动对其进行漂亮的格式化。 Python 可以实现这一点吗？ 删除空格来缩小代码怎么样？ 我可能只是需要更多地习惯Python的语法，但现在有点奇怪...... &lt;!-- SC_ON - -&gt;  由   提交 /u/kittenchief   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp99qd/does_pythons_indentation_make_it_harder_to/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于练习学习新语言的小网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp97um/tiny_website_to_practice_learning_a_new_language/</link>
-      <description><![CDATA[我启动了这个小小的 chatgpt 包装器，我很想得到一些反馈！我正在用它练习西班牙语对话。它是免费的，没有任何限制，我只是为了好玩而构建小网站，并了解有关网络及其工作原理的更多信息。您选择一种语言并开始输入。 https://speak-ez.net   由   提交 /u/Objectdotuser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp97um/tiny_website_to_practice_learning_a_new_language/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用内浏览器仍然是隐私​​、安全和选择问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp9157/inapp_browsers_still_a_privacy_security_and/</link>
-      <description><![CDATA[   /u/mtomweb  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp9157/inapp_browsers_still_a_privacy_security_and/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找前端/全栈人员的诚实想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp8v61/looking_for_honest_thoughts_from_frontendfull/</link>
-      <description><![CDATA[我一直在致力于让前端开发人员的生活变得更轻松，到目前为止，我希望在我的登陆页面上提供任何输入。它是一个平台工程即服务 (PEaaS)，可简化前端开发人员的操作，使他们能够专注于产品。 如果您有时间，您可以在这里找到更多信息并提供您的见解备用：labs.stack.io 我不是来推销的——只是寻找来自真实想法的最了解前端框架使用的社区。如果您对我们的自动化工作流程、黄金路径以及介于两者之间的一切方法有任何想法，我将不胜感激。有人认为这样的事情会有帮助吗？源于几个月前在这个 Reddit 子版块中发生的 vercel 谈话！ 我想知道我的网站上的价值主张是否明确？我认为还没有……有什么建议可以让它变得更好吗？我还可以添加更多信息吗？   由   提交/u/learningdevops  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp8v61/looking_for_honest_thoughts_from_frontendfull/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:19:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用地图增强火箭 GPS 跟踪：图书馆建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp8qoh/enhancing_rocket_gps_tracking_with_map_library/</link>
-      <description><![CDATA[您好， 我正在开发一个仪表板，用于可视化探空火箭飞行的实时数据，其中包含图表、动画， 和更多。  此外，我的目标是集成一张地图，通过 GPS 定位器显示火箭的实时位置。由于火箭由三个阶段组成，每个阶段都配备了自己的 GPS，因此我有兴趣在一张地图上同时显示所有三个元素的位置。  是否有任何库或工具可以帮助实现这一点？目前，我正在使用 Express、NodeJS 和 Bootstrap。 谢谢。   由   提交/u/VictoR18_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp8qoh/enhancing_rocket_gps_tracking_with_map_library/</guid>
-      <pubDate>Wed, 27 Mar 2024 18:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有人因解决从未发生过的问题而获得荣誉</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp71xm/nobody_ever_gets_credit_for_fixing_problems_that/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp71xm/nobody_ever_gets_credit_for_fixing_problems_that/</guid>
-      <pubDate>Wed, 27 Mar 2024 17:05:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要关于托管我的网络开发作品集的第二意见（从 Vultr 迁移）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1bp6xqd/need_a_second_opinion_on_hosting_my_web_dev/</link>
-      <description><![CDATA[我有一个个人网站，在带有 NGINX 反向代理的 VPS 中运行，用于将我的投资组合项目解析为 appname.mydomain.com、Cloudflare 的 DDOS 保护、用于获取 SSL 证书的 Certbot、用于重新启动失败/崩溃的应用程序的 PM2 以及每周自动备份。 这些项目是全栈 React/Express/Passport/PostgreSQL/MongoDB 应用程序，除了 LinkedIn/Resume 之外，不会获得大量流量。目前，我每月为 1GB RAM/32GB SSD/1 CPU 支付约 7.50 美元，没有任何问题，除了 Vultr 根据其最近的条款和条件现在拥有此 VPS 上的所有内容。条件发生变化。我现在对此表示同意，因为这些只是展示我技能的投资组合项目，但希望尽快转移到另一个平台，以防我制作应用程序来销售或更喜欢代码保持私有/自有。 我非常擅长基础设施，并且拥有自己的带有驱动器奇偶校验和 UPS 电源的 UNRAID 服务器。从技术上讲，我可以使用动态 DNS、端口转发并在那里托管我的项目，但我担心当招聘经理试图查看我的项目时，我的服务器会因 IP 更改而停机，或者当我在上面做其他事情时，服务器会变慢，例如虚拟机/Docker/转码/游戏服务器等。 我已经考虑将 AWS Lightsail 作为替代 VPS，到目前为止它看起来相当可靠，无需窃取您的代码/项目来训练 AI 部分哈哈。我还考虑过在 Cloudflare 页面上托管我的前端，该页面直接从 GitHub 提取并为我构建它。并在 AWS Lightsail 上托管我的后端，甚至使用 Lambda 实现无服务器。我现在也在学习 Next.js，也会查看 Vercel，但我认为它不会给我带来像我自己的 VPS 那样的灵活性。 我知道托管世界很大，有很多选择。想听听您有什么推荐吗？自托管与云相比有什么优点或缺点？如果是云，您会推荐哪些提供商？ Express 与 Serverless 的后端怎么样？  编辑：我在东海岸，如果这有什么区别的话   由   提交/u/khely  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1bp6xqd/need_a_second_opinion_on_hosting_my_web_dev/</guid>
-      <pubDate>Wed, 27 Mar 2024 17:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>

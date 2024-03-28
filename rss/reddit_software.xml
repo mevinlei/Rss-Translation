@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 27 Mar 2024 21:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:35:38 GMT</lastBuildDate>
+    <item>
+      <title>开发包含 ML 输出的软件仪表板：客户保留/客户流失焦点</title>
+      <link>https://www.reddit.com/r/software/comments/1bpdu71/developing_a_software_dashboard_included_with_ml/</link>
+      <description><![CDATA[大家好，根据我上一篇文章的输入，我很想听听您对模型驱动应用程序的输入。根据 Microsoft 支持人员的互动，此论坛提供了一些更好的意见。 我想开发一个模型驱动的应用程序，重点关注客户保留和客户流失。使用的解决方案应该是不同行业中大多数公司都可以使用的解决方案，例如 Salesforce 或 Microsoft。（我知道，如果客户没有 Dynamics Customer Insights，那么我应该考虑成本、许可、SLA 等，在吸引客户时，这也是我一开始就努力保持低成本的原因。） 应包含的一些组件：  客户流失预测：输出流失风险值的机器学习预测。  客户保留：个性化优惠（次佳优惠） 一些简单的数据报告：显示流失风险评分、最大风险驱动因素、流失率、流失收入损失、等等（我知道这些组件非常容易做到）  这些是一些可以包含在开头的组件，当然，还有其他组件可以包含在内在浏览“竞争对手”的类似平台时会考虑，但一开始不一定需要。这主要是由于昂贵的解决方案，例如，我发现 Dynamics - Customer Insights 非常有前途，但销售起来可能太贵（仅许可费用为 1,500 美元/月）。  一些应用程序已根据上一篇文章的良好反馈列出并已排序：  Azure（它似乎已经准备好此解决方案使用实时分析进行客户流失预测 - Azure 解决方案创意 | Microsoft Learn) Microsoft Dynamics - 客户洞察 Salesforce Dataverse/PowerApps（可能太复杂：“在 PowerApps 中制定解决方案有点夸张，当所有这些现有的解决方案都可用”。） 显然还有一些可供企业使用的内部工具（Appsmith、Buildbase、Re-tool，以及一些来自 Github 的可重复使用工具）。  根据我的资源/能力：我还没有制作自己的软件，唯一的“相关”经验是Python和网页设计，所以它应该是低代码/无-代码解决方案。  由于其定价，我试图避开 Customer Insights（尽管我是它的忠实粉丝），因为计划我的解决方案的价格范围为 ~1,500-2,000 美元/月，客户洞察已经从这个价格点开始仅针对许可证。 所以我的问题是；我应该开始将所有注意力集中在 Azure 上，因为考虑到价格/功能/设置等，它似乎是最有前途的，或者是否有任何其他解决方案可以考虑（现在有了有关该项目的完整信息）？  在启动此类任务之前您还会考虑什么？  如果您已阅读到目前为止，感谢您抽出宝贵的时间。   由   提交 /u/ZenOILERS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bpdu71/developing_a_software_dashboard_included_with_ml/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:38:50 GMT</pubDate>
+    </item>
     <item>
       <title>寻找能够评估 USB 电缆功能的软件。</title>
       <link>https://www.reddit.com/r/software/comments/1bpd05r/looking_for_software_that_will_evaluate_the/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我无法按 ESC 键。我过去曾使用过 MS PowerToys，但这并不适用于所有应用程序（尤其是具有管理权限的应用程序）。现在，我的键盘确实有很多宏键，所以我想重新映射一个。   由   提交 /u/BarBeneficial1915   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bovunw/i_want_a_keyboard_remapper/</guid>
       <pubDate>Wed, 27 Mar 2024 07:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页视频下载</title>
-      <link>https://www.reddit.com/r/software/comments/1bou4dm/webpage_video_downloads/</link>
-      <description><![CDATA[大家好，希望你们一切顺利。我想知道你们是否可以推荐从互联网下载视频的最佳应用程序。我使用视频下载助手和 y2mate。两者都运行良好，但丢失了很多功能。祝你有美好的一天，提前致谢。    由   提交/u/tomrpper  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bou4dm/webpage_video_downloads/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:19:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
