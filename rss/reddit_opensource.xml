@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 12:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 15:12:27 GMT</lastBuildDate>
+    <item>
+      <title>我写了一篇关于“如何开始你的开源之旅”的博客</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bpu62m/i_wrote_a_blog_on_how_to_start_your_open_source/</link>
+      <description><![CDATA[大家好，当我还是开源初学者时，我一直在寻找资源来学习如何为开源做出贡献，但由于面对很多资源，我总是感到困惑。  因此，我写了一篇博客，介绍是否有人有兴趣开始他们的开源之旅： https://blog.treblle.com/how-to-start-your-open-source-journey/    由   提交/u/kRahul7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bpu62m/i_wrote_a_blog_on_how_to_start_your_open_source/</guid>
+      <pubDate>Thu, 28 Mar 2024 12:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>tic-tac-toes,超级井字棋,下载tic-tac-toes的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1bprpad/github_ibyteabit256tictactoes_super_tic_tac_toe/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[    &lt; /&gt; a&gt;   由   提交/u/tison1096  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bortre/how_i_analyze_an_oss_community/</guid>
       <pubDate>Wed, 27 Mar 2024 03:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>YAML 的许可证是什么？ （寻找 JSON 替代品）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1bopbf6/what_is_yamls_license_looking_for_json/</link>
-      <description><![CDATA[我是 JSON 的快乐用户，直到我了解到他们该死的白痴许可证：  该软件应使用为了善，而不是恶。  我想保持向后兼容性，所以最明显的选择是 yaml。但我想知道，既然yaml是json的超集，它是否也是在json许可证下分发的？如果是这样，我还有什么其他选择？   由   提交/u/4colour  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1bopbf6/what_is_yamls_license_looking_for_json/</guid>
-      <pubDate>Wed, 27 Mar 2024 01:17:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
