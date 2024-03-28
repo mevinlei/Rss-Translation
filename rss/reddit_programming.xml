@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 28 Mar 2024 15:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 21:08:33 GMT</lastBuildDate>
+    <item>
+      <title>从 MongoDB 到 PostgreSQL 的大迁移</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq6rfc/the_great_migration_from_mongodb_to_postgresql/</link>
+      <description><![CDATA[ 由   提交/u/dangtony98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq6rfc/the_great_migration_from_mongodb_to_postgresql/</guid>
+      <pubDate>Thu, 28 Mar 2024 21:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkey：由 AWS、Google、Oracle 支持的 Redis 开源替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq5zgj/valkey_the_open_source_alternative_to_redis/</link>
+      <description><![CDATA[ 由   提交/u/geek_noob  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq5zgj/valkey_the_open_source_alternative_to_redis/</guid>
+      <pubDate>Thu, 28 Mar 2024 20:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我列出了一些程序员应该尝试的具有挑战性的软件项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq54gc/my_list_of_challenging_software_projects_some/</link>
+      <description><![CDATA[ 由   提交/u/nomemory  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq54gc/my_list_of_challenging_software_projects_some/</guid>
+      <pubDate>Thu, 28 Mar 2024 20:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>您真正需要学习的微服务设计原则</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq4fe6/microservices_design_principles_you_really_need/</link>
+      <description><![CDATA[ 由   提交/u/AhmedMostafa16   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq4fe6/microservices_design_principles_you_really_need/</guid>
+      <pubDate>Thu, 28 Mar 2024 19:33:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷行进：我的海绵故障</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq3fl0/ray_marching_menger_sponge_breakdown/</link>
+      <description><![CDATA[ 由   提交/u/Parcle  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq3fl0/ray_marching_menger_sponge_breakdown/</guid>
+      <pubDate>Thu, 28 Mar 2024 18:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>模块化：Mojo 开源的下一步</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq3eeh/modular_the_next_big_step_in_mojo_open_source/</link>
+      <description><![CDATA[ 由   提交 /u/Melodyogonna   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq3eeh/modular_the_next_big_step_in_mojo_open_source/</guid>
+      <pubDate>Thu, 28 Mar 2024 18:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>队列不是正确的抽象</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq0u1k/queues_arent_the_right_abstraction/</link>
+      <description><![CDATA[ 由   提交/u/self-taught16  /u/self-taught16  inngest.com/blog/queues-are-no-longer-the-right-abstraction&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq0u1k/queues_arent_the_right_abstraction/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 种损害团队健康的非语言行为</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq0nnc/5_nonverbal_behaviors_killing_team_health/</link>
+      <description><![CDATA[ 由   提交/u/torque226  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq0nnc/5_nonverbal_behaviors_killing_team_health/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lars Bergstrom（Google 工程总监）：“Rust 团队的生产力是使用 C++ 的团队的两倍。”</title>
+      <link>https://www.reddit.com/r/programming/comments/1bq0m21/lars_bergstrom_google_director_of_engineering/</link>
+      <description><![CDATA[ 由   提交/u/steveklabnik1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bq0m21/lars_bergstrom_google_director_of_engineering/</guid>
+      <pubDate>Thu, 28 Mar 2024 17:01:15 GMT</pubDate>
+    </item>
     <item>
       <title>软件工程领域的每个人都应该阅读的 4 件事： 1. 如何使用 3D 图表可视化代码复杂性； 2. 确保C++的安全性； 3. RFC 在开发中的作用； 4.分布式数据库架构如何工作。</title>
       <link>https://www.reddit.com/r/programming/comments/1bpxibr/4_things_everyone_in_software_engineering_should/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/grizzlybear3821   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bpugao/a_guide_to_linux_text_manipulation/</guid>
       <pubDate>Thu, 28 Mar 2024 12:32:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始您的开源之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpu81b/how_to_start_your_open_source_journey/</link>
-      <description><![CDATA[ 由   提交/u/kRahul7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpu81b/how_to_start_your_open_source_journey/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoundCloud 架构的演变</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpu5kx/the_evolution_of_soundclouds_architecture/</link>
-      <description><![CDATA[ 由   提交 /u/DryAccordion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpu5kx/the_evolution_of_soundclouds_architecture/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在终端中查找内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1bptmeb/finding_stuff_in_the_terminal/</link>
-      <description><![CDATA[ 由   提交 /u/realflakm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bptmeb/finding_stuff_in_the_terminal/</guid>
-      <pubDate>Thu, 28 Mar 2024 11:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查这位 Java 开发人员的薪资</title>
-      <link>https://www.reddit.com/r/programming/comments/1bptb90/check_this_java_developer_salary/</link>
-      <description><![CDATA[ 由   提交/u/No_Marzipan8726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bptb90/check_this_java_developer_salary/</guid>
-      <pubDate>Thu, 28 Mar 2024 11:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱、恨和政策语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpt3l6/love_hate_and_policy_languages/</link>
-      <description><![CDATA[ 由   提交/u/odd_sherlock  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpt3l6/love_hate_and_policy_languages/</guid>
-      <pubDate>Thu, 28 Mar 2024 11:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 AWS Cedar 策略语言您需要了解的一切</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpt1ak/everything_you_need_to_know_about_aws_cedar/</link>
-      <description><![CDATA[ 由   提交/u/Permit_io   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpt1ak/everything_you_need_to_know_about_aws_cedar/</guid>
-      <pubDate>Thu, 28 Mar 2024 11:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>“CVE-2024-21388”- Microsoft Edge 的营销 API 用于隐蔽扩展安装</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpspxr/cve202421388_microsoft_edges_marketing_api/</link>
-      <description><![CDATA[ 由   提交/u/hittayand  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpspxr/cve202421388_microsoft_edges_marketing_api/</guid>
-      <pubDate>Thu, 28 Mar 2024 10:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>fzf 实用指南：构建 Git 资源管理器</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpp1s7/a_practical_guide_to_fzf_building_a_git_explorer/</link>
-      <description><![CDATA[ 由   提交/u/phantaso0s  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpp1s7/a_practical_guide_to_fzf_building_a_git_explorer/</guid>
-      <pubDate>Thu, 28 Mar 2024 06:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Astrojs 和 Tailwind CSS 简化代码并避免重复标记</title>
-      <link>https://www.reddit.com/r/programming/comments/1bpom2x/how_to_simplify_your_code_and_avoid_repeating/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bpom2x/how_to_simplify_your_code_and_avoid_repeating/</guid>
-      <pubDate>Thu, 28 Mar 2024 06:19:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
