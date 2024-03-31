@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 30 Mar 2024 18:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:36:42 GMT</lastBuildDate>
     <item>
-      <title>北欧新石器时代的形象表征——存在吗？</title>
-      <link>https://t.me/hn_summary/82092</link>
-      <description><![CDATA[北欧新石器时代的象征物——它们存在吗？
-本文探讨了北欧新石器时代缺乏象征性表征与东南欧发现的丰富象征材料的比较。作者认为，北部缺乏雕像可能是由于雕像的存在与聚落密度之间存在相关性。他们的目的是通过对材料进行全面的调查来验证或拒绝北欧新石器时代无图像的普遍观念。文章还讨论了中石器时代斯堪的纳维亚半岛南部的象征性表现，重点介绍了骨头、鹿角和琥珀文物上的抽象几何图案和有限的象征性描绘。 （根据 24% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82092</guid>
-      <pubDate>Sat, 30 Mar 2024 18:07:35 GMT</pubDate>
+      <title>[媒体]在制作相机的过程中，阳光对PCB的影响是意想不到的[...]</title>
+      <link>https://t.me/hn_summary/82139</link>
+      <description><![CDATA[阳光对摄像头 PCB 的影响
+在制作相机的过程中，阳光对 PCB 的影响出乎意料地令人着迷。当从肯塔基州的原型机传输图像时，阳光在 PCB 上显示出神秘的痕迹，这些痕迹原来是图像传感器背面的 BGA 电路。这种现象对紫外线很敏感，甚至在打开窗户的环境紫外线下也会发生。在圣何塞，阳光导致原型出现故障，特别是影响芯片级封装的组件。这种对阳光的独特敏感性使 Photon 成为出色的阳光探测器，凸显了相机设计中适当外壳材料的重要性。]]></description>
+      <guid>https://t.me/hn_summary/82139</guid>
+      <pubDate>Sun, 31 Mar 2024 00:36:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Show HN：FaceLandmarks – ARKit Face Mesh Vertex Tool</title>
-      <link>https://t.me/hn_summary/82091</link>
-      <description><![CDATA[显示 HN：FaceLandmarks – ARKit 人脸网格顶点工具 
-标题：Show HN: FaceLandmarks – ARKit Face Mesh Vertex Tool
+      <title>问HN：为什么没有杂牌喷墨打印机？</title>
+      <link>https://t.me/hn_summary/82138</link>
+      <description><![CDATA[问HN：为什么没有杂牌喷墨打印机？&lt; /a&gt;
+news.ycombinator.com 上这篇文章的作者是质疑为什么市场上没有可以与廉价品牌产品竞争的杂牌喷墨打印机。用户对主要制造商计划淘汰的喷墨打印机以及更换打印机头等组件的高成本表示失望。欧盟对此作出了回应，颁布了可维修性强制令，但作者指出，备件可能仍然有固定的有效期。这篇文章提出了这样一个问题：是否存在 DIY 或“亚洲克隆”的喷墨打印机，可以为主要供应商提供更实惠、更可持续的替代品。]]></description>
+      <guid>https://t.me/hn_summary/82138</guid>
+      <pubDate>Sun, 31 Mar 2024 00:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 1995 年，萨尔瓦多的故意杀人率是世界上最高的，每人 139 起。</title>
+      <link>https://t.me/hn_summary/82137</link>
+      <description><![CDATA[萨尔瓦多注意事项
+1995 年，萨尔瓦多的故意杀人案发生率是世界上最高的，为每 10 万人中 139 起，但在总统纳伊布·布克莱 (Nayib Bukele) 的领导下奇迹般地扭转局面，到 2023 年，该比率下降至每 10 万人中 2.4 起。布克莱的打击犯罪行动被誉为现代历史上最成功的人之一。该国的历史充满了内乱、军事独裁和持续十多年的残酷内战。在这部对萨尔瓦多过去和现在的全面概述中，还探讨了萨尔瓦多帮派的崛起及其对美国（尤其是洛杉矶）的影响。 （根据故事文本的 7% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82137</guid>
+      <pubDate>Sun, 31 Mar 2024 00:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我最近从 eBay 购买了一块老式 8086 芯片进行逆向工程，结果发现 [...]</title>
+      <link>https://t.me/hn_summary/82136</link>
+      <description><![CDATA[假冒 8086 处理器
+我最近在 eBay 上购买了一块老式 8086 芯片进行逆向工程，结果发现这是一块被重新标记为 8086 的假冒芯片。该假冒芯片原来是 Uncommissed Logic Array，一种门阵列，与正品完全不同8086处理器。该假冒芯片的双极晶体管数量不到 1000 个，远少于真正的 8086 中的 29,000 个 MOS 晶体管。这一发现凸显了半导体假冒的风险以及购买芯片时谨慎的重要性。请在 Twitter 上关注我：@kenshirriff，了解有关对真实 8086 进行逆向工程的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/82136</guid>
+      <pubDate>Sun, 31 Mar 2024 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在“失败综合症”中，作者探讨了管理者如何经常责怪员工[...]</title>
+      <link>https://t.me/hn_summary/82135</link>
+      <description><![CDATA[准备失败综合症 (1998)
+在《失败综合症》一书中，作者探讨了管理者如何经常将绩效不佳归咎于员工，而不是审视自己在这种情况下的角色。这种心态可能会导致有毒的工作环境，让员工注定会失败。这篇文章要求管理者对自己在员工绩效问题中所扮演的角色承担责任，而不是仅仅将责任归咎于员工。这篇发人深省的文章最初发表在 1998 年的《哈佛商业评论》上，揭示了一个在当今工作场所仍然具有争议性的话题。]]></description>
+      <guid>https://t.me/hn_summary/82135</guid>
+      <pubDate>Sat, 30 Mar 2024 23:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>疫苗投资是理所当然的事——那我们为什么不这样做呢？</title>
+      <link>https://t.me/hn_summary/82134</link>
+      <description><![CDATA[疫苗投资是理所当然的 – 那么我们为什么不呢做吗？
+投资疫苗是理所当然的事，但许多人没有利用这个机会。疫苗投资具有拯救生命和预防疾病传播的潜力，其好处是显而易见的。尽管如此，这方面似乎缺乏行动。利用我们的限时优惠，在任何设备上以标准数字方式访问优质 FT 新闻可节省高达 40% 的费用。不要错过这个了解情况并为全球健康做出贡献的机会。]]></description>
+      <guid>https://t.me/hn_summary/82134</guid>
+      <pubDate>Sat, 30 Mar 2024 23:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。</title>
+      <link>https://t.me/hn_summary/82133</link>
+      <description><![CDATA[爱尔兰房地产泡沫为何破裂
+2000 年代爱尔兰的房地产泡沫导致价格翻了两番，然后暴跌一半以上。爱尔兰建造过多房屋的神话已被揭穿，2011 年只有 10% 的房屋空置。泡沫不是由自由放任政策造成的，而是由农村地区的税收优惠政策造成的。建筑率和价格之间的相关性并不能反驳供求规律，因为信贷条件在推动价格上涨方面发挥了至关重要的作用。理解这些误区对于防止将来犯同样的错误至关重要。 （根据 57% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82133</guid>
+      <pubDate>Sat, 30 Mar 2024 23:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]震颤性谵妄是由酒精戒断引起的快速发作的精神错乱，伴有症状 [...]</title>
+      <link>https://t.me/hn_summary/82132</link>
+      <description><![CDATA[震颤性谵妄
+震颤性谵妄是由酒精戒断引起的一种快速发作的精神错乱，症状包括颤抖、幻觉和心率不齐。如果不及时治疗，可能会致命，死亡率为 15% 至 40%。治疗包括苯二氮卓类药物和硫胺素，预防包括逐渐减少饮酒。震颤性谵妄在有大量饮酒和酗酒史的人中最常见。马克·吐温和约瑟夫·康拉德等作家在文学作品中描述了这种情况。 “谵妄”这个名字来自拉丁语，意思是“走出犁沟”。 （根据故事文本的 44% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82132</guid>
+      <pubDate>Sat, 30 Mar 2024 23:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：加拿大的枫糖浆储备几乎空了</title>
+      <link>https://t.me/hn_summary/82131</link>
+      <description><![CDATA[加拿大的枫糖浆储备几乎空了
+标题：加拿大的枫糖浆储备几乎空了
 
-您是否正在努力识别 ARKit 面部网格上的特定面部标志？别再犹豫了！我们的 FaceLandmarks 工具可让您轻松确定 3D 面部网格上自定义地标的确切顶点索引。只需单击一下，您就可以选择一个顶点并立即看到其索引和名称。该工具非常适合使用 ARKit 面部跟踪进行调试和开发。探索移动、旋转和缩放面部网格的完整控件。使用 FaceLandmarks 告别猜测并简化您的 AR 开发流程。立即访问 facelandmarks.com 进行查看。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/82091</guid>
-      <pubDate>Sat, 30 Mar 2024 18:01:28 GMT</pubDate>
+摘要：加拿大的枫糖浆储备对于满足全球需求至关重要，但由于收获季节不佳，枫糖浆储备几乎耗尽。短缺导致价格上涨，并引发人们对枫糖浆行业影响的担忧。争议在于对生产者和消费者的潜在经济影响。这种意外的短缺凸显了枫糖浆供应链的脆弱性，以及需要更好的管理策略以确保未来市场的稳定。]]></description>
+      <guid>https://t.me/hn_summary/82131</guid>
+      <pubDate>Sat, 30 Mar 2024 23:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>Landlock 是一个可堆叠的 LSM，允许进程限制环境权限，创建安全 [...]</title>
-      <link>https://t.me/hn_summary/82090</link>
-      <description><![CDATA[内锁：非特权访问控制
-Landlock 是一个可堆叠的 LSM，允许进程限制环境权限，创建安全沙箱以减轻用户空间应用程序中错误或恶意行为的影响。它使任何进程（包括非特权进程）能够安全地限制自身。通过使用文件系统和网络规则定义规则集，开发人员可以强制执行特定操作，同时拒绝其他操作。 Landlock 还提供了一种根据内核版本调整规则的方法，确保尽力而为的安全方法。一旦线程被内锁，其安全策略就无法删除，只能添加。良好实践包括设置对文件层次结构的访问权限，以实现自给自足和最少的数据访问。 （根据 55% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82090</guid>
-      <pubDate>Sat, 30 Mar 2024 17:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这篇博文中，我探索了由 Integrated Device Technology 构建的一款不寻常的 7400 系列芯片 [...]</title>
-      <link>https://t.me/hn_summary/82089</link>
-      <description><![CDATA[采用门阵列实现的不寻常的 7400 系列芯片
-在这篇博文中，我探索了一款由 Integrated Device Technology (IDT) 打造的不寻常的 7400 系列芯片，该芯片在浪费的矩阵设计中拥有超过 1500 个晶体管的复杂布局，超出了预期。尽管效率低下，该芯片还是使用门阵列布局实现了“1-of-4”解码器功能。我深入研究了芯片结构的细节，包括 NAND 和 NOR 门，并讨论了 7400 系列集成电路的历史背景。该芯片独特的门阵列设计选择凸显了芯片制造成本和效率之间的权衡。 （根据 95% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82089</guid>
-      <pubDate>Sat, 30 Mar 2024 17:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 透露，包括社会安全号码在内的个人信息来自 7300 万立方米 [...]</title>
-      <link>https://t.me/hn_summary/82088</link>
-      <description><![CDATA[AT&amp;T 称 7300 万客户的个人信息在暗网上泄露
-AT&amp;T 透露，7300 万客户的个人信息（包括社会安全号码）在暗网上被泄露。泄漏源仍未知，调查仍在进行中。该数据集似乎来自 2019 年或更早，对当前和以前的账户持有人都有影响。尽管发生了泄密事件，AT&amp;T 表示没有证据表明其系统受到未经授权的访问。此次事件是在上个月发生的一次大范围停电之后发生的，由于内部错误，超过 70,000 名客户失去了手机服务。近几个月来，Verizon 和 T-Mobile 等其他通信公司也遭遇了数据泄露事件。]]></description>
-      <guid>https://t.me/hn_summary/82088</guid>
-      <pubDate>Sat, 30 Mar 2024 17:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>玛丽莎·梅耶尔 (Marissa Mayer) 的初创公司 Sunshine 因其看似 m [...]</title>
-      <link>https://t.me/hn_summary/82087</link>
-      <description><![CDATA[Marissa Mayer 的初创公司
-玛丽莎·梅耶尔 (Marissa Mayer) 的初创公司 Sunshine 提供的看似平凡的订阅软件（用于联系人管理、活动组织和照片共享）让互联网评论者感到困惑。尽管该应用程序的功能缺乏吸引力，但梅耶尔认为，以怀旧为主的老年群体为目标可能是明智之举。 Sunshine 强调简单性和隐私性，并承诺绝不出售客户数据。梅耶尔暗示了未来的视频共享计划，并对公司的潜力保持乐观。这家初创公司于 2020 年筹集了 2000 万美元的资金，主要是自筹资金，旨在通过人工智能让日常任务变得神奇。]]></description>
-      <guid>https://t.me/hn_summary/82087</guid>
-      <pubDate>Sat, 30 Mar 2024 17:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经想过隐形吗？</title>
-      <link>https://t.me/hn_summary/82086</link>
-      <description><![CDATA[个人“隐形盾”开始销售，起价不到 70 美元
-曾经想过隐形吗？现在，您可以使用 Invisibility Shield Co 推出的新型 Invisibility Shield 2.0。这款消费者“隐形盾”有 Mini、Full 和 Megashield 尺寸可供选择，起价仅为 68 美元。该盾牌采用透明高级聚碳酸酯曲面片，并嵌入透镜来漫射光线并产生隐形的错觉。虽然它可能不适合透视，但它已被用于各种目的，例如隐藏在约会节目中、玩彩弹和观察野生动物。该护罩防水、可回收，并有不同尺寸可供选择，以满足您的需求。]]></description>
-      <guid>https://t.me/hn_summary/82086</guid>
-      <pubDate>Sat, 30 Mar 2024 17:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>作者认为类型推断是一个错误，使代码更难阅读和编写。</title>
-      <link>https://t.me/hn_summary/82085</link>
-      <description><![CDATA[类型推断是一个错误
-作者认为类型推断是一个错误，使代码更难阅读和编写。虽然 Rust 和 Haskell 等一些语言需要一些注释，但 OCaml 强大的类型推断可能会导致令人沮丧的错误，与实际错误相去甚远。作者认为学术界对类型推断算法的关注是浪费的，他们更喜欢从类型推断代码，而不是反之亦然。他们建议使用类型作为生成代码的规范，而不是从代码推断类型。作者的观点挑战了类型推断至关重要的传统观点，提出了反对其使用的独特且发人深省的论点。]]></description>
-      <guid>https://t.me/hn_summary/82085</guid>
-      <pubDate>Sat, 30 Mar 2024 17:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 已确认数据泄露，影响了超过 760 万现有客户和 6500 万 [...]</title>
-      <link>https://t.me/hn_summary/82084</link>
-      <description><![CDATA[AT&amp;T 确认数据泄露并重置客户密码 
-AT&amp;T 已确认数据泄露事件影响了超过 760 万当前客户和 6500 万前客户，导致受影响用户的安全密码被重置。泄露的信息可能包括敏感详细信息，例如社会安全号码和帐户密码。该公司正在联系受影响的客户，告知他们此次违规行为，并提供来自信用机构的免费欺诈警报。该违规行为于 2021 年首次被报道，但 AT&amp;T 在收到 TechCrunch 通知后才承认此事。泄露的数据不包含财务信息或通话记录，该公司正在与网络安全专家合作解决这一问题。]]></description>
-      <guid>https://t.me/hn_summary/82084</guid>
-      <pubDate>Sat, 30 Mar 2024 17:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在迅速发展，变形金刚引领潮流。</title>
-      <link>https://t.me/hn_summary/82083</link>
-      <description><![CDATA[曼巴解释
-人工智能正在迅速发展，变形金刚引领潮流。然而，Mamba（一种状态空间模型 (SSM)）正在成为一种有前途的替代方案，它提供与 Transformer 类似的性能，但具有更快的处理速度和序列长度的线性缩放。通过消除注意力机制中的二次瓶颈，Mamba 能够有效地处理长上下文窗口。事实证明，这种创新模型在各种模式下都是有效的，并且在某些情况下优于 Transformers。 Mamba 架构提供了一种独特的代币间通信和计算方法，突破了人工智能模型中有效性/效率权衡的界限。 （根据 39% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82083</guid>
-      <pubDate>Sat, 30 Mar 2024 17:13:54 GMT</pubDate>
+      <title>[媒体] 认识三个以独特方式感知世界的人。</title>
+      <link>https://t.me/hn_summary/82130</link>
+      <description><![CDATA[认识三个可能与您看待世界不同的人
+认识三个以独特方式感知世界的人。梅根·西姆斯 (Meagan Sims) 是一位患有色盲的艺术家，她看到的一切都是灰色的。尽管如此，她还是找到了一种通过艺术用她看不到的颜色来表达自己的方法。康塞塔·安蒂科（Concetta Antico）是一名四色视者，声称能看到我们大多数人无法感知的数千种颜色。尽管像杂货店购物这样的日常任务可能会让人难以承受，但她的超凡远见使她成为了一名成功的艺术家。凯特琳·霍瓦 (Kaitlyn Hova) 是一位具有联觉的音乐家，当她听到声音时，她会看到颜色和形状。她利用自己独特的能力将音乐、神经科学和编码融入到她的职业生涯中。]]></description>
+      <guid>https://t.me/hn_summary/82130</guid>
+      <pubDate>Sat, 30 Mar 2024 23:33:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
