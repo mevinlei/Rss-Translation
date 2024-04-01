@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 01 Apr 2024 12:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:08:53 GMT</lastBuildDate>
+    <item>
+      <title>未硬件锁定的离线许可证密钥...</title>
+      <link>https://www.reddit.com/r/software/comments/1bt5xx1/offline_license_key_that_isnt_hardware_locked/</link>
+      <description><![CDATA[是否可以制作一个不连接到互联网并接受未锁定到硬件的许可证密钥的应用程序？ 我想从某人那里购买的程序是为 RPi4 创建的。我遇到的问题是，如果 RPi4 损坏并且无法使用，我无法将 SD 卡更换到另一个 pi，甚至无法下载应用程序并将其加载到另一个 pi。有没有什么方法可以在不提供互联网连接的情况下允许这样的离线密钥？ 此实例有哪些标准？  &amp; #32；由   提交 /u/Hack3rsD0ma1n   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bt5xx1/offline_license_key_that_isnt_hardware_locked/</guid>
+      <pubDate>Mon, 01 Apr 2024 14:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音合成？</title>
+      <link>https://www.reddit.com/r/software/comments/1bt3dxw/tts/</link>
+      <description><![CDATA[嗨， 希望转换 PDF/网页/书籍（我猜我自己可以将任何内容转换为 PDF，但它会如果软件可以为我做到这一点，请节省一步）到“可用”的 TTS，这意味着声音听起来不是超级机器人，而是像有人实际上正在阅读（理解这显然有局限性）。 我刚刚从 Android 切换到 iPhone，以前我在 Android 上使用名为“@voice”的神奇应用程序。 iPhone 上不存在这个功能。对于 iOS，似乎所有好的选项都是按月付费的，所以我希望在我的 PC 上将 PDF 转换为声音文件，然后导出到我的 iPhone。我想一旦我能找到在 PC (Windows 11) 上执行此操作的软件，我就可以在 iPhone 上自动执行此过程，但我不确定在 Windows 上执行此操作的最佳（最好是免费）软件是什么？ 谢谢！   由   提交/u/curlyfacephil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bt3dxw/tts/</guid>
+      <pubDate>Mon, 01 Apr 2024 13:13:00 GMT</pubDate>
+    </item>
     <item>
       <title>优化建议？</title>
       <link>https://www.reddit.com/r/software/comments/1bt0szu/optimization_suggestions/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在寻找一款用于小型产品发布的应用程序。 “类别”和“属性”需要在模板中预先定义。一个很好的例子就是制作披萨。每个披萨都有多个类别，这些类别由不同的属性组成。 “外皮”和“配料”是指“外皮”和“配料”。将是类别，并且每个类别最好有一个下拉列表，其中包含您可以选择的各种属性的清单。例如，“外壳”类别将具有“薄”、“厚”、“做得好”、“无麸质”等列表。您可以为该类别选择多个属性，因为它是一个清单。选择属性后，将产品移至生产（我为此设想了一个板视图）。 每次部署都小而快（就像披萨一样）。所有属性都是预定义的，因此部署它的人不必记住要添加的任何属性。只需检查一下需要什么。由于这种性质，我们不需要专门用于单一产品推出的整个董事会。如果应用程序能够查看板视图，我们希望它处于卡片级别。 理想情况下，我想使用 Trello，因为我们已经在使用它，但我似乎无法弄清楚如果它能够在卡级别实现这种类型的结构。因此，如果没有，我愿意接受其他平台的建议。  ​  TLDR;  &gt;协作 &gt;能够预先定义产品模板的类别和属性（最好使用下拉清单或类似的东西） &gt;首选董事会视图   ​ 非常感谢您的见解！    ;由   提交/u/cxswanson  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1bsddo1/collab_software_for_small_product_rollouts/</guid>
       <pubDate>Sun, 31 Mar 2024 15:42:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>*** 怎样才能使计费软件更具吸引力、更实用或更与众不同以吸引他们的注意力？ ***</title>
-      <link>https://www.reddit.com/r/software/comments/1bsc2c1/what_could_make_a_billing_software_more/</link>
-      <description><![CDATA[ 由   提交/u/Brilliant_Corgi_122   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bsc2c1/what_could_make_a_billing_software_more/</guid>
-      <pubDate>Sun, 31 Mar 2024 14:45:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于学术地图的绘图软件</title>
-      <link>https://www.reddit.com/r/software/comments/1bs9vj4/mapping_software_for_academic_maps/</link>
-      <description><![CDATA[正在寻找一个免费的、最好是在线制图程序来为我正在撰写的学术报告制作地图。  ​ 只需生成一张包含 6 个位置的清晰地图，并有北点、距离条和地图中的地图显示该州内的位置。有人可以推荐一些东西吗？我的本科生依赖于你的帮助！   由   提交 /u/Object-Ecstatic   /u/Object-Ecstatic reddit.com/r/software/comments/1bs9vj4/mapping_software_for_academic_maps/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bs9vj4/mapping_software_for_academic_maps/</guid>
-      <pubDate>Sun, 31 Mar 2024 13:00:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 12:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 15:09:24 GMT</lastBuildDate>
+    <item>
+      <title>保持专注的自由选择？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1bt34w2/foss_alternatives_for_stay_focused/</link>
+      <description><![CDATA[是否有任何免费且开源的 Android 应用程序可以像 Stayfree 或 Stay Focus 应用程序一样工作？   由   提交 /u/the-big-smoke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1bt34w2/foss_alternatives_for_stay_focused/</guid>
+      <pubDate>Mon, 01 Apr 2024 13:01:42 GMT</pubDate>
+    </item>
     <item>
       <title>开源 UI 设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1bt1sco/open_source_ui_designs/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>对于开源项目的成功来说，哪些因素很重要？</title>
       <link>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</link>
-      <description><![CDATA[我怀疑我的应用程序除非开源否则无法获得用户，但目前它还处于实验阶段。我只会因其质量而感到尴尬。我可以忍受尴尬，但我宁愿避免它。我正在做一个项目，我想把我的精力集中在开源时更容易理解。 这个项目是一个副项目，所以我选择削减我能想到的每一个角落它到它所在的地方。这意味着有糟糕的文档，代码效率低下等等。我可以做得更好，但我并不总是有时间从事该项目。 我并不期望人们从我的那一刻起就做出贡献在 github 上开源。我想知道您在开源方面的经验。获取反馈有何不同。 （缺少许多功能和错误修复）。我的期望是，如果我现在开源我的工作，它将被视为糟糕的低努力代码（可以理解），人们不会喜欢它，因为它会附带一个学习曲线来理解它是如何工作的（并且文档是坏/不存在）。   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我怀疑我的应用程序除非开源否则无法获得用户，但目前它还处于实验阶段。我只会因其质量而感到尴尬。我可以忍受尴尬，但我宁愿避免它。我正在做一个项目，我想把我的精力集中在开源时更容易理解。 这个项目是一个副项目，所以我选择削减我能想到的每一个角落它到它所在的地方。这意味着有糟糕的文档，代码效率低下，等等。我可以做得更好，但我并不总是有时间从事该项目。 我并不期望人们从我的那一刻起就做出贡献在 github 上开源。我想知道您在开源方面的经验。获取反馈有何不同。 （缺少许多功能和错误修复）。我的期望是，如果我现在开源我的工作，它将被视为糟糕的低努力代码（可以理解），人们不会喜欢它，因为它会附带一个学习曲线来理解它是如何工作的（并且文档是坏/不存在）。   由   提交 /u/Accurate-Screen8774    reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1bsz88c/what_things_are_important_for_an_open_source/</guid>
       <pubDate>Mon, 01 Apr 2024 09:34:19 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>拥有 Discord 或类似的聊天应用程序是否有利于 oss 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</link>
-      <description><![CDATA[我想从维护者和贡献者的角度想知道，为项目提供聊天应用程序而不是仅仅使用 GitHub 讨论和问题是否有好处。我被要求为我的 OSS 项目设置一个，但对开源世界中的该工作流程没有任何经验。   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
+      <description><![CDATA[我想知道从维护者和贡献者的角度来看，为项目提供一个聊天应用程序而不是仅仅使用 GitHub 讨论和问题是否有好处。我被要求为我的 OSS 项目设置一个，但对开源世界中的该工作流程没有任何经验。   由   提交/u/Treebeard5440  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1brzus2/does_having_a_discord_or_similar_chat_app_benefit/</guid>
       <pubDate>Sun, 31 Mar 2024 02:46:38 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们都知道https://xkcd.com/927/  漫画讲述了如何创建一个统一标准只会创建另一个竞争标准，但这并不是使最常用的标准在所有可能的级别上相互互操作的解决方案，这并不重要任何级别的尽可能多的人，无论最终用户、开发人员、管理员还是任何介于两者之间的人正在使用什么标准？   由   提交/u/Julian_1_2_3_4_5   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1brw25d/the_solution_to_the_unifying_standards_problem/</guid>
       <pubDate>Sat, 30 Mar 2024 23:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubiquiti USG 的最佳开源软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1brqmir/best_open_source_software_for_ubiquiti_usg/</link>
-      <description><![CDATA[我确实有一台旧的 Ubiquiti USG，我的客户是一家预算有限的小型非营利组织。他们对小型教堂和其他非营利组织进行会计处理，因此他们确实有不错的风险状况。我想重新改造这个东西来取代他们已经有 20 年历史的失败的 Sonicwall。他们需要 Web 过滤和基于 IPSEC 的 VPN L2TP，当然还有基本的路由器功能和可靠的 IPS。我通常使用 PFsense 或 OPNsense，但它们需要 x86 架构。我从来没有在专用机器上安装 Unify 控制器软件有过任何长期的运气，我不想购买额外的硬件，因为我将把它送给他们，所以购买云密钥不是一个选择。有什么建议吗？   由   提交/u/jbruff  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1brqmir/best_open_source_software_for_ubiquiti_usg/</guid>
-      <pubDate>Sat, 30 Mar 2024 19:52:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
