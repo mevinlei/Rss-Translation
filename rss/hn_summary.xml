@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 31 Mar 2024 18:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:39:25 GMT</lastBuildDate>
     <item>
-      <title>芝加哥大学的科学家们开发出了一种突破性的类似太阳能电池板的起搏器 [...]</title>
-      <link>https://t.me/hn_summary/82226</link>
-      <description><![CDATA[光驱动起搏器：新研究
-芝加哥大学的科学家开发了一种突破性的类似太阳能电池板的起搏器，可以精确控制心跳，而不需要电池。这种超薄设备由光驱动，可贴合心脏的轮廓，并消除了与传统起搏器相关的风险。该装置已成功植入啮齿动物和猪体内，显示出用于人类的前景。虽然该技术仍在不断完善以供长期使用，但研究人员对其彻底改变心脏护理并扩展到神经刺激和疼痛管理等其他医疗应用的潜力持乐观态度。]]></description>
-      <guid>https://t.me/hn_summary/82226</guid>
-      <pubDate>Sun, 31 Mar 2024 18:10:40 GMT</pubDate>
+      <title>[媒体]特斯拉的超级充电网络长期以来一直是电动汽车行业的游戏规则改变者 [...]</title>
+      <link>https://t.me/hn_summary/82281</link>
+      <description><![CDATA[起亚 EV9 充电受到特斯拉超级充电网络的阻碍
+特斯拉的超级充电网络长期以来一直是电动汽车行业的游戏规则改变者，为特斯拉车主提供快速、可靠的充电服务。然而，随着提供更高充电率的竞争性 CCS 和 CHAdeMO 网络的兴起，一些非特斯拉电动汽车（例如起亚 EV9）由于其 400V 架构而面临 V3 超级充电桩的充电限制。这让一些驾驶员感到失望，EV9 在 V3 超级充电站仅达到 84 kW，而在 350 kW CCS 充电站则可达到 200 kW 以上。即将推出的 V4 超级充电站可能会以 350 kW 的速度提供 800V 充电，但其到来仍不确定。]]></description>
+      <guid>https://t.me/hn_summary/82281</guid>
+      <pubDate>Mon, 01 Apr 2024 00:39:25 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的 SpaceCadetPinball 项目专注于对 Wind 的 3D Pinball 进行逆向工程 [...]</title>
-      <link>https://t.me/hn_summary/82225</link>
-      <description><![CDATA[告诉 HN：Windows 3D Pinball（太空学员） 
-GitHub 上的 SpaceCadetPinball 项目专注于对 Windows 版 3D Pinball - Space Cadet 游戏进行逆向工程。它允许用户通过将编译后的可执行文件放入包含原始游戏资源的文件夹中来玩游戏。该项目支持来自 Windows 和 Full Tilt 版本游戏的数据文件，并为各种平台提供源端口。该项目的独特之处在于其全面覆盖桌面 Windows、Linux 和 macOS 等平台，以及使用 Ghidra、Ida 和 Visual Studio 等工具进行反编译和编译。该项目还计划进行未来的增强功能，例如可调整窗口大小、本地化支持和潜在的游戏数据编辑。]]></description>
-      <guid>https://t.me/hn_summary/82225</guid>
-      <pubDate>Sun, 31 Mar 2024 18:06:37 GMT</pubDate>
+      <title>[媒体]Upscayl 是一款免费开源 AI 图像放大器，它使用先进的算法来 [...]</title>
+      <link>https://t.me/hn_summary/82280</link>
+      <description><![CDATA[Upscayl – 免费开源 AI 图像放大工具&lt; br /&gt;
+Upscayl 是一款免费开源的 AI 图像放大器，它使用先进的算法来放大和增强低分辨率图像，而不会损失质量。它是一款跨平台应用程序，秉承 Linux 优先的理念，但可在所有主要桌面操作系统上使用。该项目需要 Vulkan 兼容的 GPU 来升级图像，并提供适用于 Linux、macOS 和 Windows 的各种安装方法。 Upscayl 使用 Real-ESRGAN 和 Vulkan 架构，并在 AGPLv3 许可下完全开源。用户可以通过报告问题、修复代码、添加功能或捐赠来做出贡献。该项目还提供了一个名为 upscayl-ncnn 的 CLI 工具，并提供了用于放大图像的不同模型。]]></description>
+      <guid>https://t.me/hn_summary/82280</guid>
+      <pubDate>Mon, 01 Apr 2024 00:38:20 GMT</pubDate>
     </item>
     <item>
-      <title>《人类半球》（2015）是对世界的独特且发人深省的探索，通过 [...]</title>
-      <link>https://t.me/hn_summary/82224</link>
-      <description><![CDATA[人类半球 (2015)
-《人类半球》（2015）是通过人口分布的视角对世界进行的独特且发人深省的探索。该项目利用创新的测绘技术，深入研究人文地理学的复杂性，突出不同地区之间的差异和联系。该内容的争议之处在于其对人口密度和人类活动对环境影响的考察。网站上框架的使用可以带来互动和引人入胜的体验，使其成为任何有兴趣以新方式了解世界的人的必访之地。]]></description>
-      <guid>https://t.me/hn_summary/82224</guid>
-      <pubDate>Sun, 31 Mar 2024 18:02:32 GMT</pubDate>
+      <title>Libera Cat IRC 网络正在进行品牌重塑，推出了“帐户自动 [...]</title>
+      <link>https://t.me/hn_summary/82279</link>
+      <description><![CDATA[Libera Cat：IRC 网络品牌重塑
+Libera Cat IRC 网络正在进行品牌重塑，并于 2024 年 4 月 1 日推出“账户自动喵喵”功能。用户现在可以让自己的账户自动喵喵化，并可以选择请求将斗篷更改为新格式。这一独特而令人惊讶的功能在用户中引起了一些争议，但总体而言，以喵为主题的品牌重塑受到了好评。喵喵喵喵喵！]]></description>
+      <guid>https://t.me/hn_summary/82279</guid>
+      <pubDate>Mon, 01 Apr 2024 00:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>在《当细菌美丽时》中，微生物学家 Tal Danino 和艺术家 Vik Muniz 探索了 [...]</title>
-      <link>https://t.me/hn_summary/82223</link>
-      <description><![CDATA[当细菌美丽时
-在《当细菌美丽时》中，微生物学家塔尔·达尼诺和艺术家维克·穆尼兹探索了细菌的美感，挑战了人们对这些微生物的普遍看法。通过令人惊叹的照片和文章，达尼诺展示了细菌复杂的图案和颜色，强调了它们作为艺术作品过程中合作者的独特作用。这本书深入探讨了微生物世界的复杂性，激发了人们对这些经常被误解的生物体的好奇和欣赏。达尼诺讨论了细菌在艺术和科学中的潜力，强调需要了解它们对健康和疾病的影响。这本书鼓励读者通过可用的工具和技术探索细菌之美，弥合科学与艺术之间的差距。]]></description>
-      <guid>https://t.me/hn_summary/82223</guid>
-      <pubDate>Sun, 31 Mar 2024 17:58:28 GMT</pubDate>
+      <title>[媒体]《内幕》、《60 分钟》和《明镜周刊》发现了苏联时代的机密文件 [...]</title>
+      <link>https://t.me/hn_summary/82278</link>
+      <description><![CDATA[揭秘哈瓦那综合症：新证据暗示格鲁乌暗杀小组
+《内幕》、《60 分钟》和《明镜周刊》揭露了苏联时代的机密文件，详细介绍了 Reduktor 计划，该计划研究利用电磁辐射影响包括人类在内的生物体。该计划于 1984 年在乌克兰启动，旨在创建一种利用低能量效应的信息影响机制。这些文件还揭示了当代俄罗斯对声纳和声学武器系统的研究，以及为便携式使用而构建的实验模型。美国情报界关于异常健康事件的报告表明，微波和超声波能量是症状的潜在原因，生物标志物表明哈瓦那综合症患者存在脑损伤。该报告强调了定向能武器（例如脉冲微波能量）造成生理伤害的可能性。这些调查结果与 GRU 的参与之间的联系引发了人们对最近事件中使用此类武器的质疑。]]></description>
+      <guid>https://t.me/hn_summary/82278</guid>
+      <pubDate>Mon, 01 Apr 2024 00:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>在“Typesetting the LaTeX Way”中，作者讨论了他们对文本外观的痴迷以及 [...]</title>
-      <link>https://t.me/hn_summary/82222</link>
-      <description><![CDATA[排版 LaTeX 方式（2013）
-在《LaTeX 排版方式》中，作者讨论了他们对文本外观的痴迷以及对 LaTeX 排版的热爱。他们重点介绍了两个项目，将计算机现代字体引入网络，并实现受 Knuth 和 Plass 启发的 JavaScript 连字符算法。作者展示了使用这些工具的前后效果，显示了文本对齐方面的显着改进。虽然连字算法可能无法完美地处理嵌套 HTML，但它仍然提供了一个不错的近似值。总的来说，作者发现这些变化为其网站的文本注入了新的活力，展示了确认偏见的力量。]]></description>
-      <guid>https://t.me/hn_summary/82222</guid>
-      <pubDate>Sun, 31 Mar 2024 17:54:23 GMT</pubDate>
+      <title>[媒体]在编程世界中，范式长期以来一直塑造着围绕语言的讨论[...]</title>
+      <link>https://t.me/hn_summary/82277</link>
+      <description><![CDATA[超越范式的编程
+在编程世界中，范式长期以来一直塑造着围绕语言和风格的讨论。从命令式到面向对象再到函数式，范式对我们编写代码的方式进行了分类和定义。但随着现代语言变得更加通用和功能丰富，单一范式的想法正在变得过时。进入了 Rust、Nim 和 Gleam 等后范式语言的时代，它们借鉴了过去语言的优点，而不将程序员限制在单一风格上。编程的未来在于优先考虑创造力和灵活性的语言，使程序员能够利用跨不同范式的各种功能的力量。]]></description>
+      <guid>https://t.me/hn_summary/82277</guid>
+      <pubDate>Mon, 01 Apr 2024 00:22:04 GMT</pubDate>
     </item>
     <item>
-      <title>蒙古元是对蒙古文化和社会新兴趋势的开创性研究 [...]</title>
-      <link>https://t.me/hn_summary/82221</link>
-      <description><![CDATA[蒙古元
-蒙古元是对蒙古文化和社会新兴趋势的开创性研究。本研究通过对艺术、音乐、时尚、技术等各个方面的综合分析，揭示了蒙古独特而充满活力的文化景观。从传统影响到现代创新，蒙古元探索了这个快速发展的社会中新旧的融合。有争议的是，它还深入探讨了蒙古在全球化和现代化进程中所面临的挑战和争议。启用 JavaScript 来解锁蒙古元的迷人见解。]]></description>
-      <guid>https://t.me/hn_summary/82221</guid>
-      <pubDate>Sun, 31 Mar 2024 17:50:19 GMT</pubDate>
+      <title>[媒体]令人震惊的是，在 xz/liblzma 压缩包中发现了一个后门，很可能 [...]</title>
+      <link>https://t.me/hn_summary/82276</link>
+      <description><![CDATA[XZ 后门：时代、该死的时代和骗局 
+令人震惊的是，在 xz/liblzma 压缩包中发现了一个后门，该后门很可能是由一位神秘的长期维护者 Jia Tan 插入的。尽管自由软件社区通常重视匿名，但贾的工作模式和时区元数据表明，他可能伪装成亚洲人，而实际上居住在东欧。通过分析他的提交时间戳，时区和假期安排的差异指向 EET 中的某个位置。这场争议揭示了开源世界中信任和身份的复杂性，挑战了有关软件开发人员动机和行为的假设。]]></description>
+      <guid>https://t.me/hn_summary/82276</guid>
+      <pubDate>Mon, 01 Apr 2024 00:18:00 GMT</pubDate>
     </item>
     <item>
-      <title>本文深入探讨了阿尔迪的品牌战略，特别关注子品牌 [...]</title>
-      <link>https://t.me/hn_summary/82220</link>
-      <description><![CDATA[罐间距
-本文深入探讨了阿尔迪的品牌战略，特别关注快乐收获、卡萨玛米塔和萨沃里茨等子品牌。这些子品牌充当占位符，故意表现平庸和自我否定，传达出最小的努力和乏善可陈的存在，以表明没有营销和广告成本。该作品还探讨了青少年亚文化的衰落和短暂的网络美学，质疑网络和现实生活社交之间的区别。它挑战了网络美学缺乏真实性和根源的观念，表明网络身份实践和亚文化身份是不同的活动，不应进行比较。最终，它提出了关于数字时代品牌、身份形成和文化归属感的本质的发人深省的问题。]]></description>
-      <guid>https://t.me/hn_summary/82220</guid>
-      <pubDate>Sun, 31 Mar 2024 17:46:15 GMT</pubDate>
+      <title>[媒体] 向 GitLab 团队发出的 XZ 后门调查请求是呼吁采取行动，揭露 [...]</title>
+      <link>https://t.me/hn_summary/82275</link>
+      <description><![CDATA[向 Gitlab 团队提出 XZ 后门调查请求
+向 GitLab 团队发出的 XZ 后门调查请求是一项行动号召，旨在揭露通过社会工程获得 XZ liblzma 压缩库维护者角色的攻击者所做的任何恶意贡献。攻击者针对 GitLab（而不仅仅是 GitHub）上托管的各种开放项目，并将中毒版本的 liblzma 分发到 Debian、Fedora 和 openSUSE 等主要发行版。该请求要求 GitLab 搜索 2023 年 12 月至 2024 年 3 月 26 日期间与攻击者密钥相关的任何用户配置文件。虽然攻击者可能足够聪明，可以使用不同的密钥，但为了确保开源项目的安全，搜索被认为是必要的.]]></description>
+      <guid>https://t.me/hn_summary/82275</guid>
+      <pubDate>Mon, 01 Apr 2024 00:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：有人从人工智能代理中获得价值吗？</title>
-      <link>https://t.me/hn_summary/82219</link>
-      <description><![CDATA[询问 HN：有人从人工智能代理中获得价值吗？怎么会这样？
-作者对人工智能代理在工作流程中的当前价值感到好奇，特别是在利用专门模型进行决策方面。尽管最初的热潮逐渐消退，但该领域仍有正在进行的项目。作者正在寻求社区关于如何利用人工智能代理以及它们是否值得进一步探索的反馈。这凸显了各行业对人工智能代理有效性的持续争论和兴趣。]]></description>
-      <guid>https://t.me/hn_summary/82219</guid>
-      <pubDate>Sun, 31 Mar 2024 17:42:11 GMT</pubDate>
+      <title>作者讨论了开源世界中匿名和假名的复杂性 [...]</title>
+      <link>https://t.me/hn_summary/82274</link>
+      <description><![CDATA[游戏皮肤
+作者讨论了开源项目领域中匿名和假名的复杂性，反思了过去 20 年在线身份的演变。他们强调了出于法律原因和潜在许可冲突而识别贡献者的重要性。作者对匿名贡献的增加导致维护开源项目的不对称感和情绪压力表示担忧。他们质疑在线互动中失去现实世界身份的影响以及对可识别个人造成的潜在后果。最后，作者承认在不断变化的开源贡献领域面临着挑战和不确定性。]]></description>
+      <guid>https://t.me/hn_summary/82274</guid>
+      <pubDate>Mon, 01 Apr 2024 00:11:50 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士可以编写 COBOL 到什么程度？</title>
-      <link>https://t.me/hn_summary/82218</link>
-      <description><![CDATA[LLM 能写出 COBOL 吗？
-法学硕士正在彻底改变软件开发，但他们可以编写 COBOL 吗？由于该语言仍然为关键系统提供支持，法学硕士理解和生成 COBOL 的需求非常重要。隆重推出 COBOLEval，这是 COBOL 中 LLM 代码完成的第一个基准。由于语言的过程性质和独特的类型系统，将 Python 提示转换为 COBOL 带来了挑战。 COBOL 的严格结构需要填充等创新方法来生成解决方案。 COBOLEval 旨在弥合现代 LLM 功能和传统 COBOL 代码之间的差距，开辟人工智能软件工程的新前沿。在 bloop.ai 上探索 COBOLEval 和 LLM COBOL 生成的未来。 （根据 56% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82218</guid>
-      <pubDate>Sun, 31 Mar 2024 17:38:09 GMT</pubDate>
+      <title>随着全国范围内童工违法行为激增，各州在更新童工问题方面存在分歧 [...]</title>
+      <link>https://t.me/hn_summary/82273</link>
+      <description><![CDATA[美国在重写童工法的重大努力上存在分歧
+随着全国范围内童工违法行为激增，各州在更新童工法方面存在分歧。一些州旨在削弱法律以解决劳动力短缺问题，特别是在餐馆等服务行业，而另一些州则寻求加强对未成年人的保护。包括未成年人从事危险工作在内的违法行为激增，促使人们呼吁对雇主采取更严厉的处罚。围绕共和党主导的放宽限制的努力存在争议，批评者认为这将未成年人置于危险之中。令人惊讶的提议包括允许 16 岁和 17 岁的人上夜班和从事危险的工作。这场辩论凸显了青年就业、劳动力短缺和工人安全之间的复杂平衡。]]></description>
+      <guid>https://t.me/hn_summary/82273</guid>
+      <pubDate>Mon, 01 Apr 2024 00:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>是时候停止使用短信了。</title>
-      <link>https://t.me/hn_summary/82217</link>
-      <description><![CDATA[是时候停止使用短信了。 （2021）
-是时候停止使用 SMS 进行任何操作了，因为 SIM 交换、SS7 攻击和端口输出欺诈等各种攻击可能会损害短信的安全性。一个鲜为人知的漏洞涉及通过不同运营商路由 VoIP 号码的短信，该漏洞可通过 ALT SPID 被利用。然而，NetNumber 通过其 NetNumber ID (NNID) 产品提供了解决方案，这是一个全球唯一的 6 位数字，可以简化全球运营商的 SMS 路由。这种创新方法可确保安全高效的通信，使其成为行业游戏规则的改变者。]]></description>
-      <guid>https://t.me/hn_summary/82217</guid>
-      <pubDate>Sun, 31 Mar 2024 17:34:05 GMT</pubDate>
+      <title>你还在像 2005 年一样使用基本的 Git 命令吗？</title>
+      <link>https://t.me/hn_summary/82272</link>
+      <description><![CDATA[您应该使用的现代 Git 命令和功能&lt; br /&gt;
+你还在像 2005 年一样使用基本的 Git 命令吗？是时候升级现代 Git 功能了！发现新命令，例如用于分支切换的 git switch、用于文件恢复的 git restore、用于处理特定目录的 git稀疏-checkout、 git worktree 用于同时管理多个分支，git bisect 用于错误查找。这些功能可以简化您的工作流程并提高性能。不要依赖十年前过时的答案 - 在文档和手册页中探索最新的 Git 命令和选项，以获得更流畅的 Git 体验。]]></description>
+      <guid>https://t.me/hn_summary/82272</guid>
+      <pubDate>Sun, 31 Mar 2024 23:55:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
