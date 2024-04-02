@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 15:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 18:10:54 GMT</lastBuildDate>
+    <item>
+      <title>用于管理磁盘分区并动态调整大小（如果可能）的软件。本质上是一个更好的 Windows 磁盘管理，在 Windows 内部运行，而不是作为可启动程序。 TIA</title>
+      <link>https://www.reddit.com/r/software/comments/1bu1f0x/software_to_manage_disk_partitions_and_resize/</link>
+      <description><![CDATA[ 由   提交/u/nando1969  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bu1f0x/software_to_manage_disk_partitions_and_resize/</guid>
+      <pubDate>Tue, 02 Apr 2024 15:21:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最好的防病毒软件是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1bu18bi/what_is_the_best_antivirus_of_2024/</link>
+      <description><![CDATA[ 由   提交 /u/newaccount1234fds   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1bu18bi/what_is_the_best_antivirus_of_2024/</guid>
+      <pubDate>Tue, 02 Apr 2024 15:14:18 GMT</pubDate>
+    </item>
     <item>
       <title>我终于找到了消耗RAM最少的最好的邮件客户端</title>
       <link>https://www.reddit.com/r/software/comments/1bu0p2i/i_finally_found_the_best_mail_client_that/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我喜欢通过跟随光标在文本中移动来阅读文本，我有一个用于突出显示的键盘快捷键。  我希望能够使用光标浏览文本，选择一个单词并突出显示它，然后使光标继续从我突出显示的单词移动。   由   提交/u/NuclearEgg69  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1btceh2/any_pdf_readers_that_allows_highlighting_with/</guid>
       <pubDate>Mon, 01 Apr 2024 19:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以通过电脑（无磁盘）观看 4k 电影，如果可以，如何观看？</title>
-      <link>https://www.reddit.com/r/software/comments/1btb93m/is_it_possible_to_watch_4k_movies_through_a/</link>
-      <description><![CDATA[您需要一些特殊程序吗？它只是一个普通的 mkv 文件还是其他文件？如何找到这些呢？我想我真的可以对蓝光提出同样的要求。您是否需要蓝光播放器或者计算机可以以某种方式模拟它？谢谢   由   提交/u/Aggressive_Chain_920   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1btb93m/is_it_possible_to_watch_4k_movies_through_a/</guid>
-      <pubDate>Mon, 01 Apr 2024 18:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于绘图板的软件 OBS Streaming 的独特按键绑定</title>
-      <link>https://www.reddit.com/r/software/comments/1bt97vv/software_for_drawing_tablet_unique_keybinds_for/</link>
-      <description><![CDATA[这可能是一个奇怪的请求，甚至可能不存在。我正在寻找一种方法来在我的设备上获取独特的按钮绘图板，因此我可以使用其上的按钮，而无需将它们注册为 OBS 中的键盘或鼠标输入。  因此，在软件中，我可以将按钮 2 分配给“Control+Shift+1”。或“鼠标右键单击”，但我希望它注册为它自己的唯一密钥，该密钥不会干扰除 OBS 本身之外的任何其他内容，因此假设我将按钮 2 设置为它自己的“输入” 2”而不是任何其他相应的键，有点像控制器在 Windows 上分配自己的方式。  我怀疑这样的东西是否存在，但拥有它真是太棒了，因为我在尝试使用我的绘图板（就像流媒体平台一样）时遇到了很多麻烦，无论它是否试图将我的静音麦克风，Control+Shift+F1 会弹出游戏内终端，同时将我从掩体后面带出来，毁了我的游戏。   由   提交 /u/InfectedPrince   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1bt97vv/software_for_drawing_tablet_unique_keybinds_for/</guid>
-      <pubDate>Mon, 01 Apr 2024 17:04:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
