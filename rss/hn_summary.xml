@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 02 Apr 2024 15:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 21:01:32 GMT</lastBuildDate>
     <item>
-      <title>世界银行警告称，印度面临“浪费”人口红利的风险，因为 [...]</title>
-      <link>https://t.me/hn_summary/82521</link>
-      <description><![CDATA[世界银行称印度面临“挥霍”人口红利的风险
-世界银行警告称，随着印度劳动年龄人口持续快速增长，印度面临“挥霍”人口红利的风险。这种人口结构的变化为经济增长提供了独特的机会，但如果不对教育和创造就业机会进行适当的投资，可能会导致错失良机。世界银行的警告强调了战略规划和政策实施的重要性，以确保印度能够充分利用其人口优势。不要错过这个限时优惠，通过标准数字方式访问优质 FT 新闻可节省高达 40% 的费用。]]></description>
-      <guid>https://t.me/hn_summary/82521</guid>
-      <pubDate>Tue, 02 Apr 2024 15:07:40 GMT</pubDate>
+      <title>[媒体] Roe AI 是一家尖端数据管理公司，正在改变企业 [...]</title>
+      <link>https://t.me/hn_summary/82605</link>
+      <description><![CDATA[Roe AI (YC W24) 正在招聘
+Roe AI 是一家尖端数据管理公司，正在改变企业处理数据的方式。我们的先进技术可以从大规模的结构化和非结构化数据中提取和利用情报。鱼子AI通过数据标准化、分类、推理、搜索、聚合等解决方案，致力于增强各行业的数据智能。在 YCombinator、Gradient Ventures 和 Snowflake Executives 的支持下，我们处于该领域创新的前沿。立即与我们预约咨询，了解 Roe AI 如何将您企业的数据能力提升到新的高度。]]></description>
+      <guid>https://t.me/hn_summary/82605</guid>
+      <pubDate>Tue, 02 Apr 2024 21:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>在 1984 年图灵奖演讲中，肯·汤普森 (Ken Thompson) 反思了信任人们的重要性 [...]</title>
-      <link>https://t.me/hn_summary/82520</link>
-      <description><![CDATA[信任信任：肯·汤普森谈供应链安全 (1984)
-在 1984 年图灵奖演讲中，Ken Thompson 反思了信任软件编写者而不仅仅是信任软件本身的重要性。他讨论了确保供应链安全的挑战，重点介绍了 C 语言自我复制程序的巧妙示例。Thompson 还深入研究了编译器中“特洛伊木马”的概念，强调在使用来自不受信任来源的代码时需要谨慎。最后，他批评了媒体对黑客的美化，并呼吁我们改变对未经授权访问计算机系统的看法的文化转变。汤普森的见解揭示了软件安全的复杂性和所涉及的潜在风险。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82520</guid>
-      <pubDate>Tue, 02 Apr 2024 14:59:34 GMT</pubDate>
+      <title>Ceph SQLite VFS 允许存储和访问由 RADOS 支持的 SQLite 数据库，提供 [...]</title>
+      <link>https://t.me/hn_summary/82604</link>
+      <description><![CDATA[Ceph SQLite VFS
+Ceph SQLite VFS 允许存储和访问由 RADOS 支持的 SQLite 数据库，从而提供去中心化并改进存储使用。它不是分布式 SQL 引擎，但允许单个 SQLite 客户端一次进行独占访问。用户可以使用 SQLite 扩展加载 API 加载 ceph VFS，并将数据库文件配置为 SQLite URI。性能说明强调了潜在的延迟问题，而推荐的用例包括在 RADOS 中保存关系数据或大型数据。 VFS不支持并发读取，也不支持临时表。独占锁模式和WAL日志模式可以优化事务时间。 （根据 59% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82604</guid>
+      <pubDate>Tue, 02 Apr 2024 20:39:22 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] HighIntent 是一个强大的工具，可帮助您通过对最佳潜在客户进行排名来发现最佳潜在客户 [...]</title>
-      <link>https://t.me/hn_summary/82519</link>
-      <description><![CDATA[展示 HN：HighIntent – 通过定制匹配挖掘最佳潜在客户
-HighIntent 是一款功能强大的工具，可根据丰富的相关信号和标准对潜在客户进行排名，帮助您发现最佳潜在客户。借助公司、联系人、时间安排以及与潜在客户的个人联系等功能，您可以轻松优先考虑并专注于最有前途的机会。 HighIntent 的与众不同之处在于它能够让您查看和自定义每个信号的标准，从而使您能够灵活地调整和完善潜在客户排名流程。告别筛选无穷无尽的潜在客户，让 HighIntent 简化您的潜在客户开发工作。]]></description>
-      <guid>https://t.me/hn_summary/82519</guid>
-      <pubDate>Tue, 02 Apr 2024 14:47:25 GMT</pubDate>
+      <title>微软已承认 FFMPEG 跟踪器存在一个高优先级问题，涉及 [...]</title>
+      <link>https://t.me/hn_summary/82603</link>
+      <description><![CDATA[微软在 FFMPEG 跟踪器上发帖称他们的问题是“高优先级” 
+Microsoft 已承认 FFMPEG 跟踪器存在一个高优先级问题，即无法在 4.2.3 之后的 Windows FFmpeg 版本上提取隐藏式字幕 eia-608 并将其转换为 srt 或 webvtt。该错误导致不生成任何输出。提供了再现命令以及所使用的 FFmpeg 版本的详细信息。此问题的补丁应提交到 ffmpeg-devel 邮件列表。]]></description>
+      <guid>https://t.me/hn_summary/82603</guid>
+      <pubDate>Tue, 02 Apr 2024 20:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] CrowdSec Bouncer Traefik 插件旨在在 Tra 中实现 CrowdSec Bouncer [...]</title>
-      <link>https://t.me/hn_summary/82518</link>
-      <description><![CDATA[显示 HN：通过 Traefik 插件的新 CrowdSec 保镖&lt; br/&gt;
-CrowdSec Bouncer Traefik 插件旨在在 Traefik 中实现 CrowdSec Bouncer，从而根据 IP 信誉和行为启用请求授权或阻止。它利用 CrowdSec 社区黑名单来禁止恶意 IP。该插件支持虚拟补丁和 ModSecurity 规则支持等 AppSec 功能。不同的操作模式允许决策和性能优化的灵活性。该插件还可以支持验证码挑战以进行用户验证。配置选项可用于定制。该项目因其将 CrowdSec 安全套件与 Traefik 集成以增强 Web 应用程序安全性而脱颖而出。 （根据故事文本的 54% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82518</guid>
-      <pubDate>Tue, 02 Apr 2024 14:45:18 GMT</pubDate>
+      <title>[媒体]特斯拉的“噩梦”年仍在继续，交付量大幅下降导致库存下跌。</title>
+      <link>https://t.me/hn_summary/82602</link>
+      <description><![CDATA[特斯拉的“噩梦”年仍在继续，交付量大幅下降导致库存增加下来
+特斯拉的“噩梦”年仍在继续，交付量大幅下降导致股价下跌。特斯拉2024年第一季度交付了386,810辆电动汽车，低于华尔街的预期。分析师下调了预期，有些人甚至暗示特斯拉今年可能会亏损。在糟糕的交付公告发布后，该公司的股价下跌了近 6%，使特斯拉成为标准普尔 500 指数中表现最差的公司。一些投资者将这些困境归咎于埃隆·马斯克和公司董事会，一位投资者呼吁立即更换他们。尽管特斯拉努力提高销量，包括更新全自动驾驶技术，但其汽车销售仍面临挑战。]]></description>
+      <guid>https://t.me/hn_summary/82602</guid>
+      <pubDate>Tue, 02 Apr 2024 20:19:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]麻省理工学院进行的这项研究探讨了影响[...]</title>
-      <link>https://t.me/hn_summary/82517</link>
-      <description><![CDATA[多感觉伽玛刺激促进淀粉样蛋白的类淋巴清除
-麻省理工学院进行的这项研究探讨了多感觉伽马刺激对小鼠淀粉样蛋白类淋巴清除的影响。这些实验是根据美国国立卫生研究院 (NIH) 的指导方针进行的，并努力尽量减少动物的使用。使用光和声音对小鼠进行感觉刺激，然后进行组织收集和免疫组织化学。药物干预也用于调节 AQP4 功能。该研究利用颅窗和脑池内插管等先进技术来研究感觉刺激对类淋巴清除的影响。这项研究揭示了神经退行性疾病中淀粉样蛋白清除的潜在治疗策略。 （根据故事文本的 27% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82517</guid>
-      <pubDate>Tue, 02 Apr 2024 14:43:13 GMT</pubDate>
+      <title>[媒体]我们很高兴地宣布发布 Arti 1.2.0，我们创新的 Tor 客户端开发 [...]</title>
+      <link>https://t.me/hn_summary/82601</link>
+      <description><![CDATA[Arti 1.2.0 发布：洋葱服务开发 
+我们很高兴地宣布发布 Arti 1.2.0，这是我们用 Rust 开发的创新 Tor 客户端。此更新重点关注洋葱服务开发并引入关键安全功能。一个值得注意的补充是对非托管可插拔传输的支持。有关使用 Arti 运行洋葱服务的详细说明和注意事项，请参阅 OnionService.md  文档。我们感谢 Alexander Færøy、Jim Newsome、Tobias Stoeckmann 和 trinity-1686a 等贡献者，以及 Zcash 社区资助和其他赞助商的支持。请继续关注管道中的更多增强功能。]]></description>
+      <guid>https://t.me/hn_summary/82601</guid>
+      <pubDate>Tue, 02 Apr 2024 19:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]可重复的构建对于确保软件开发的安全性和完整性至关重要 [...]</title>
-      <link>https://t.me/hn_summary/82516</link>
-      <description><![CDATA[可重现的构建
-可重复的构建对于确保软件开发的安全性和完整性至关重要。通过创建从源代码到二进制代码的可验证路径，开发人员可以防止在编译过程中引入恶意攻击和后门。该项目旨在保护隐私和安全软件开发人员免受潜在威胁、胁迫和妥协。通过使构建系统具有确定性并提供验证工具，多个第三方可以验证软件的正确性。这种创新方法不仅可以保护个人开发人员，还可以保护下游计算机系统免受非法更改。加入可重复构建的运动，打造更安全的软件环境。]]></description>
-      <guid>https://t.me/hn_summary/82516</guid>
-      <pubDate>Tue, 02 Apr 2024 14:39:08 GMT</pubDate>
+      <title>在《沉默的颜色》中，作者深入探讨了这部颇具争议且发人深省的作品 [...]</title>
+      <link>https://t.me/hn_summary/82600</link>
+      <description><![CDATA[沉默的颜色
+在《沉默的颜色》中，作者深入研究了约翰·凯奇和伊夫·克莱因颇具争议且发人深省的作品。凯奇臭名昭著的《4分33秒》挑战观众聆听隐藏的寂静之声，而克莱因的《单调寂静交响曲》则通过连续的D大调和弦营造出神秘而冥想的体验。该作品探索了这些作曲家突破音乐界限的独特方式凯奇和克莱因通过他们的创新作品，对音乐和艺术世界产生了持久的影响。]]></description>
+      <guid>https://t.me/hn_summary/82600</guid>
+      <pubDate>Tue, 02 Apr 2024 19:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>【媒体】特斯拉2024年第一季度交付量和产量数据已出炉，结果已出炉 [...]</title>
-      <link>https://t.me/hn_summary/82515</link>
-      <description><![CDATA[特斯拉发布 2024 年第一季度交付情况：灾难性结果
-特斯拉2024年第一季度交付量和产量数据已出炉，结果惨不忍睹。交付量仅为 386,810 辆，远低于预期，特斯拉的增长似乎遇到了重大障碍。人们以产量增加问题和工厂因外部因素关闭等为借口，但产量和交付量之间约 50,000 辆的差异表明存在明显的需求问题。交付量的意外下降导致特斯拉股价在盘前交易中暴跌 7%。这一令人震惊的事件转变应该为公司及其投资者敲响警钟。]]></description>
-      <guid>https://t.me/hn_summary/82515</guid>
-      <pubDate>Tue, 02 Apr 2024 14:36:03 GMT</pubDate>
+      <title>[媒体]Unity 高管 Jim Whitehurst 和 Marc Whitten 对 We [...]</title>
+      <link>https://t.me/hn_summary/82599</link>
+      <description><![CDATA[Unity 高管看到 WebGPU 在游戏开发中的光明前景
+Unity 高管 Jim Whitehurst 和 Marc Whitten 对 WebGPU 在游戏开发中的潜力感到兴奋，强调其在互联网浏览器中高效运行高质量游戏的能力。他们认为 WebGPU 可以彻底改变游戏的发现和玩方式，将其与 TikTok 视频的快速访问进行比较。虽然基于浏览器的游戏并不是一个新概念，但 WebGPU 提供的速度和易用性可以为开发人员和玩家带来新的可能性。这项技术可以为寻求更快开发周期的开发人员提供中间立场，而无需致力于 Roblox 或 Fortnite 虚幻引擎等封闭平台。]]></description>
+      <guid>https://t.me/hn_summary/82599</guid>
+      <pubDate>Tue, 02 Apr 2024 19:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]DECT NR+ 作为世界上第一个非蜂窝 5G 技术正在掀起波澜，提供了 [...]</title>
-      <link>https://t.me/hn_summary/82514</link>
-      <description><![CDATA[DECT NR+：深入研究非蜂窝 5G 技术
-DECT NR+ 作为世界上第一个非蜂窝 5G 技术掀起了波澜，为物联网连接提供了一种新方法。 DECT NR+ 于 2020 年由 ETSI 标准化，现已成为 5G 标准，满足 mMTC 和 URLLC 用例的要求。凭借对高密度、长电池寿命和超低延迟的支持，DECT NR+ 必将彻底改变无线网络。该技术在免许可的 1.9 GHz DECT 频段运行，无需进行频率规划即可进行全球部署。凭借自主功率控制和动态节能等独特功能，DECT NR+ 正在为新的连接时代铺平道路。]]></description>
-      <guid>https://t.me/hn_summary/82514</guid>
-      <pubDate>Tue, 02 Apr 2024 14:28:58 GMT</pubDate>
+      <title>[媒体]我们 ClickHouse 使用我们自己的技术构建了一个 19 PiB 日志平台来添加 [...]</title>
+      <link>https://t.me/hn_summary/82598</link>
+      <description><![CDATA[我们使用 ClickHouse 构建了 19 PiB 日志平台并节省了数百万美元
+我们 ClickHouse 使用我们自己的技术构建了一个 19 PiB 日志平台来解决可观察性挑战。通过将日志数据存储迁移到 ClickHouse，与使用 Datadog 相比，我们节省了数百万美元。我们的 ClickHouse 支持的日志平台“LogHouse”仅在我们的 AWS 区域就包含超过 37 万亿行。 ClickHouse 实现的 17 倍压缩级别对于成本效率至关重要。我们的架构包括在 Kubernetes 中将 ClickHouse 实例作为 Pod 运行，并利用 SharedMergeTree 表引擎来分离存储和计算。我们采用基于 SQL 的可观察性和可视化工具（例如 Grafana），在多 PB 规模上提供出色的查询性能。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82598</guid>
+      <pubDate>Tue, 02 Apr 2024 19:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找可靠且定期更新的最新维基数据集？</title>
-      <link>https://t.me/hn_summary/82513</link>
-      <description><![CDATA[寻找最新的维基数据集
-正在寻找可靠且定期更新的最新维基数据集？查看 news.ycombinator.com 上的讨论，其中用户正在分享有关国家元首和政府首脑维基百科项目等项目的信息。加入对话并发现有关现任国家元首经过验证的数据的新资源。随时了解维基数据世界的最新动态并保持联系。]]></description>
-      <guid>https://t.me/hn_summary/82513</guid>
-      <pubDate>Tue, 02 Apr 2024 14:25:52 GMT</pubDate>
+      <title>[媒体]备受争议的中国科学家贺建奎因创建基因编辑器而入狱 [...]</title>
+      <link>https://t.me/hn_summary/82597</link>
+      <description><![CDATA[科学家回到实验室对婴儿进行基因编辑，“感到自豪”尽管入狱仍继续工作
+因创造基因编辑婴儿而入狱的备受争议的中国科学家贺建奎已返回他的实验室，致力于治疗阿尔茨海默氏症和遗传疾病。他使用 Crispr-Cas9 重写了胚胎中的 DNA，从而诞生了转基因双胞胎。尽管受到批评和法律后果，他仍然对自己的工作感到“自豪”，并计划继续出于医疗目的进行基因组编辑。他声称孩子们健康成长，没有意外的基因改变。他相信社会最终会接受人类胚胎基因编辑来治疗遗传疾病，从而引发了关于设计婴儿的伦理和影响的争论。]]></description>
+      <guid>https://t.me/hn_summary/82597</guid>
+      <pubDate>Tue, 02 Apr 2024 19:42:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Qt 6.7 已发布，其中包含许多用于构建现代应用程序的改进 [...]</title>
-      <link>https://t.me/hn_summary/82512</link>
-      <description><![CDATA[Qt 6.7 发布
-Qt 6.7 已发布，在构建现代应用程序和用户体验方面进行了大量改进。该更新包括将 C++20 与 Qt 结合使用的选项、用于 2D 和 3D 可视化的 Qt Graph 的附加功能、连接性、协议和分布式架构的增强、对矢量图形的支持、对字体和图标的改进以及创建与本机 UI 元素的混合应用程序。该版本还具有更新的平台支持、新的和改进的示例和演示，以及 Qt for Python 的更新。总体而言，Qt 6.7 提供了一系列新功能和改进来增强开发体验。]]></description>
-      <guid>https://t.me/hn_summary/82512</guid>
-      <pubDate>Tue, 02 Apr 2024 14:19:48 GMT</pubDate>
+      <title>[媒体] 波罗的海 GPS 干扰器已位于加里宁格勒，有第四个证据和参考文献 [...]</title>
+      <link>https://t.me/hn_summary/82596</link>
+      <description><![CDATA[波罗的海GPS干扰器在加里宁格勒–第四次证明，精炼数据集，第二次方法
+波罗的海 GPS 干扰器位于加里宁格勒，具有第四个证明和使用第二种方法的精炼数据集。这一发现揭示了该地区围绕 GPS 干扰的持续争议。随着我们继续调查这一令人惊讶和独特的发展，请继续关注更多更新。 #BalticGPSJammer #加里宁格勒 #GPSinterference]]></description>
+      <guid>https://t.me/hn_summary/82596</guid>
+      <pubDate>Tue, 02 Apr 2024 19:37:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
