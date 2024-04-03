@@ -4,88 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 02:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 12:05:55 GMT</lastBuildDate>
     <item>
-      <title>问 HN：入门级软件工程工作的未来是什么？</title>
-      <link>https://t.me/hn_summary/82652</link>
-      <description><![CDATA[问HN：入门级软件工程的未来是什么工作？
-标题：问 HN：入门级软件工程工作的未来是什么？
+      <title>[媒体]长期核废料警告信息旨在阻止人类侵入核废料 [...]</title>
+      <link>https://t.me/hn_summary/82696</link>
+      <description><![CDATA[长期核废料警告消息
+长期核废料警告信息旨在阻止人类在遥远的将来入侵核废料储存库。桑迪亚国家实验室推荐了复杂的信息，包括不祥的物理特征和象形信息。废物隔离试点工厂为子孙后代研究了书面和图片信息，并考虑将其翻译成多种语言。拟议的设计包括诸如尖刺和土丘之类的物理标记，以传达危险。人们提出了各种文化方法，例如原子祭司、人造卫星、辐射猫和全球语言的警告标志。这些创造性的方法旨在传达数千年来核废料储存的危险。 （根据故事文本的 68% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/82696</guid>
+      <pubDate>Wed, 03 Apr 2024 12:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Last Layer 是一个安全库，旨在保护 LLM 应用程序免受提示注入 [...]</title>
+      <link>https://t.me/hn_summary/82695</link>
+      <description><![CDATA[显示HN：我为LLM提示注入/利用创建了一个库/越狱检测
+Last Layer 是一个安全库，旨在保护 LLM 应用程序免受即时注入攻击、越狱和漏洞利用。它提供超快速扫描，对用户体验影响最小，注重隐私的操作，无需跟踪或网络调用，并且与无服务器平台兼容。该库利用先进的检测机制来准确识别威胁，并定期更新以适应不断变化的安全挑战。 Last Layer 的核心是闭源的，以降低逆向工程的风险并保持针对不断变化的威胁的有效性。该项目还提供了 Fast API 示例并欢迎贡献。 （根据 98% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82695</guid>
+      <pubDate>Wed, 03 Apr 2024 11:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 事情发生了令人惊讶的转变，乔恩·斯图尔特 (Jon Stewart) 透露，苹果试图阻止他 [...]</title>
+      <link>https://t.me/hn_summary/82694</link>
+      <description><![CDATA[乔恩·斯图尔特称苹果告诉他不要采访 FTC 的莉娜·汗
+令人惊讶的是，乔恩·斯图尔特 (Jon Stewart) 透露，苹果试图阻止他采访联邦贸易委员会 (FTC) 的莉娜·汗 (Lina Khan)，因为她卷入了针对这家科技巨头的反垄断案件。斯图尔特在接受《每日秀》采访时透露了这一消息，他表示希望让汗出现在他的播客上，但苹果公司告诉他不要这样做。这场争议揭示了科技行业中的权力动态，并引发了有关审查制度和企业影响力的问题。]]></description>
+      <guid>https://t.me/hn_summary/82694</guid>
+      <pubDate>Wed, 03 Apr 2024 11:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库（称为 IPEX-LLM）旨在 [...]</title>
+      <link>https://t.me/hn_summary/82693</link>
+      <description><![CDATA[用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库 
+用于在 Intel CPU 和 GPU 上运行 LLM 的 PyTorch 库（称为 IPEX-LLM）旨在实现在 Intel 硬件上低延迟执行大型语言模型。它利用 Intel Extension for PyTorch (IPEX) 并与各种其他工具和库无缝集成。 IPEX-LLM 为 50 多种模型提供优化，包括对 Intel GPU 和 CPU 上的微调和不同类型推理的支持。值得注意的功能包括用于提高性能的自推测解码以及直接从 ModelScope 加载模型的能力。该项目旨在在英特尔架构上提供高效的法学硕士执行，重点关注性能和多功能性。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/82693</guid>
+      <pubDate>Wed, 03 Apr 2024 11:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]杯赛VS杯赛</title>
+      <link>https://t.me/hn_summary/82692</link>
+      <description><![CDATA[杯子与克数：为什么美国和英国厨师不能达成一致关于食物测量？
+美国和英国的厨师长期以来在使用杯子和克来测量食物的问题上存在分歧。美国人依赖基于体积的测量，而欧洲人更喜欢基于重量的测量。争议在于使用杯子的准确性和一致性，许多专业人士主张使用秤来获得精确的结果。尽管人们对使用杯子有情感上的依恋，但使用秤的趋势正在增长，尤其是在准确性至关重要的烘焙领域。争论仍在继续，一些人主张杯子的便利性和传统，而另一些人则主张克的精确度。]]></description>
+      <guid>https://t.me/hn_summary/82692</guid>
+      <pubDate>Wed, 03 Apr 2024 11:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 今年将是我第 11 次参加勒芒大赛，这是我自从第一次参加勒芒大赛以来一直在追逐的梦想 [...]</title>
+      <link>https://t.me/hn_summary/82691</link>
+      <description><![CDATA[2024 年勒芒
+今年将是我第 11 次参加勒芒大赛，这是我自从第一次驾驶赛车以来一直在追逐的梦想。要在竞争激烈的赛车运动中占据一席之地，需要资金和人才、合作伙伴关系和赞助的结合。尽管赛车运动的未来存在不确定性，但今年的勒芒将迎来制造商的高调参与和激烈的竞争。 44 岁了，我知道我作为车手的巅峰不会永远持续下去，但我接受不可避免的衰退。作为一名父亲，无论我的儿子们是否参加赛车运动，我都会在人类血统的延续中找到安慰。当我开车时，没有时间思考存在主义 - 只需专注于快速行驶并避免碰撞。]]></description>
+      <guid>https://t.me/hn_summary/82691</guid>
+      <pubDate>Wed, 03 Apr 2024 11:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]标题：俄罗斯在欧洲的影响力网络：提拔政客名单</title>
+      <link>https://t.me/hn_summary/82690</link>
+      <description><![CDATA[俄罗斯在欧洲的影响力网络：晋升政客名单 
+标题：俄罗斯在欧洲的影响力网络：提拔的政治家名单
 
-人工智能的进步是否会塑造入门级软件工程角色的未来？加入讨论未来几年对入门级 SWE 职位的需求可能会如何变化。分享您对 SWE 工作不断变化的性质以及对不同行业的潜在影响的观察。角色会减少、工作描述不同，还是完全不同？让我们一起探索各种可能性，并考虑不同行业的变革速度有何不同。根据您当前的角色或塑造您观点的经历分享您的见解。加入有关入门级软件工程工作未来的对话。]]></description>
-      <guid>https://t.me/hn_summary/82652</guid>
-      <pubDate>Wed, 03 Apr 2024 02:48:56 GMT</pubDate>
+俄罗斯在欧洲的影响力网络被曝光，亲俄网站“欧洲之声”宣传的欧洲政客名单曝光。颇具争议的是，马克西米利安·克拉（Maximilian Krah）和蒂埃里·马里亚尼（Thierry Mariani）等以推动亲克里姆林宫议程而闻名的政客也在晋升之列。捷克反情报机构发现了俄罗斯针对欧洲议会选举的影响力活动，导致该网站所有者和维克托·梅德韦德丘克受到制裁。令人惊讶的是，德国选择党的反建制议员据称收到了付款，引发了波兰对俄罗斯间谍活动的调查。请继续关注俄罗斯在欧洲影响力的传奇故事的进一步发展。]]></description>
+      <guid>https://t.me/hn_summary/82690</guid>
+      <pubDate>Wed, 03 Apr 2024 11:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>在“停产软件的威胁”中，作者反思了改变公司所面临的挑战 [...]</title>
-      <link>https://t.me/hn_summary/82651</link>
-      <description><![CDATA[停产软件的威胁 (2021)
-在《停产软件的威胁》一书中，作者反思了多年来计算机和软件不断变化的挑战，强调了对工作流程和数据存储的影响。作者分享了使用 IBM 的 Visual Age for Java 和 Apple 的 Aperture 等已停产程序的个人经历，以及寻找合适替代品的努力。本文讨论了与专有数据格式相关的风险以及某些软件程序未来的不确定性。作者还谈到了 Apple macOS 更新的不断变化以及保持与旧软件版本兼容性的挑战。]]></description>
-      <guid>https://t.me/hn_summary/82651</guid>
-      <pubDate>Wed, 03 Apr 2024 02:47:53 GMT</pubDate>
+      <title>[媒体]乔恩·斯图尔特 (Jon Stewart) 指责苹果阻止他采访联邦贸易委员会 (FTC) 主席莉娜·汗 (Lina Khan) [...]</title>
+      <link>https://t.me/hn_summary/82689</link>
+      <description><![CDATA[审查制度：乔恩·斯图尔特称苹果告诉他不要采访 FTC 主席莉娜可汗
+乔恩·斯图尔特 (Jon Stewart) 指责苹果阻止他在他的节目《乔恩·斯图尔特的问题》(The Problem with Jon Stewart) 中采访 FTC 主席莉娜·汗 (Lina Khan)。据称，苹果公司要求他不要与汗交谈，这引发了人们的疑问，为什么他们害怕在公共领域进行某些对话。以追求反垄断行动而闻名的汗并未起诉苹果，而是将目标瞄准了亚马逊等其他科技巨头。斯图尔特的节目因与苹果在创意控制和包括中国在内的话题上关系紧张而被取消。这场争议凸显了围绕大型科技公司和反垄断监管的权力动态和敏感性。]]></description>
+      <guid>https://t.me/hn_summary/82689</guid>
+      <pubDate>Wed, 03 Apr 2024 10:31:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]客户更喜欢对他们可以改进的产品进行众筹，因为他们希望在[...]中拥有发言权</title>
-      <link>https://t.me/hn_summary/82650</link>
-      <description><![CDATA[客户更喜欢众筹他们可以改进的产品
-客户更喜欢对他们可以改进的产品进行众筹，因为他们希望对最终产品有发言权。尽管众筹有很多好处，但许多活动都失败了，因为公司提供了完全开发的产品，没有给客户留下参与的空间。这导致了对 Kickstarter 上 18,173 个活动的实证分析，揭示了让客户参与产品开发过程的重要性。众筹是创新融资的有力工具，每年筹集 13 亿美元，预计未来五年将翻一番。客户参与产品开发的转变正在重塑公司与消费者的联系方式。]]></description>
-      <guid>https://t.me/hn_summary/82650</guid>
-      <pubDate>Wed, 03 Apr 2024 02:45:50 GMT</pubDate>
+      <title>您是否厌倦了为平庸的在线课程支付一大笔钱？</title>
+      <link>https://t.me/hn_summary/82688</link>
+      <description><![CDATA[显示 HN：我创建了一个网站来查找顶级 YouTube 课程，绕过了昂贵的课程
+您是否厌倦了为平庸的在线课程支付一大笔钱？别再犹豫了！ EduHunt 可帮助您免费找到 YouTube 上的热门教育内容。只需输入您要查找的内容，然后让我们的人工智能为您完成工作。 EduHunt 具有可定制的搜索结果和对广泛教育内容的访问，是您的首选学习工具。最好的部分是什么？您有 24 小时试用期来测试它。告别无用的在线课程，开始通过 EduHunt 更智能地学习。在 Twitter 上关注创作者 Saikou 以获取更多更新。]]></description>
+      <guid>https://t.me/hn_summary/82688</guid>
+      <pubDate>Wed, 03 Apr 2024 10:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>通过《数学艺术简介》3.1 版探索数学世界。</title>
-      <link>https://t.me/hn_summary/82649</link>
-      <description><![CDATA[数学艺术的简要介绍
-通过《数学艺术简介》3.1 版探索数学世界。这本开源教科书涵盖了逻辑、集合、关系和函数等基础主题，同时还深入研究了各种证明技术。 GIAM 的与众不同之处在于每章开头的有趣引文，为学习体验增添了独特的触感。 GIAM 提供了文本、练习手册、提示和解决方案手册，甚至还有评论，全面介绍了数学艺术。最好的部分是什么？全部免费下载，也可以购买硬拷贝版本。立即与 GIAM 一起探索数学世界。]]></description>
-      <guid>https://t.me/hn_summary/82649</guid>
-      <pubDate>Wed, 03 Apr 2024 02:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]全球最大代工芯片制造商台积电被迫撤离生产线 [...]</title>
-      <link>https://t.me/hn_summary/82648</link>
-      <description><![CDATA[台积电在台湾大地震后撤离生产线
-全球最大的代工芯片制造商台积电在台湾发生大地震后被迫撤离其在台湾的生产线。地震对设施造成严重损坏，引发人们对全球半导体供应链潜在中断的担忧。这一事件凸显了科技行业对自然灾害的脆弱性以及应急计划的重要性。台积电正在努力评估受损程度，并尽量减少对其运营的影响。请继续关注这一事态发展的最新动态。]]></description>
-      <guid>https://t.me/hn_summary/82648</guid>
-      <pubDate>Wed, 03 Apr 2024 02:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]美国联邦通信委员会终于采取行动解决美国电话网络的安全缺陷 [...]</title>
-      <link>https://t.me/hn_summary/82647</link>
-      <description><![CDATA[美联储决定对已有多年历史的 SS7 间谍漏洞电话网络采取行动
-FCC 最终采取行动解决美国电话网络中的安全缺陷，特别是 SS7 和 Diameter 协议，这些协议多年来一直容易受到间谍和监视的攻击。据称，这些缺陷已被外国政府和监控机构利用。参议员罗恩·怀登对这些漏洞造成的威胁表示担忧，呼吁制定强制性最低网络安全标准以保护国家安全。 FCC 目前正在寻求电信提供商的意见，以了解他们为防止滥用这些协议所做的努力。这标志着确保美国电话网络免受潜在威胁的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/82647</guid>
-      <pubDate>Wed, 03 Apr 2024 02:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]密苏里州杰克逊县因涉嫌勒索勒索事件已宣布进入紧急状态 [...]</title>
-      <link>https://t.me/hn_summary/82646</link>
-      <description><![CDATA[密苏里州因涉嫌勒索软件攻击而宣布进入紧急状态 
-密苏里州杰克逊县已宣布进入紧急状态，原因是疑似勒索软件攻击破坏了关键 IT 系统，导致办公室和纳税和结婚证等服务关闭。这次袭击恰逢针对体育场馆销售税提案的特别选举。虽然调查正在进行中，但官员们尚未发现数据泄露的证据。该县正在与网络安全合作伙伴合作解决这一问题，并可能需要紧急资金来减轻影响。呼吁居民保持耐心，县政府正在努力解决这一问题。]]></description>
-      <guid>https://t.me/hn_summary/82646</guid>
-      <pubDate>Wed, 03 Apr 2024 01:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]键盘不仅仅是打字工具；</title>
-      <link>https://t.me/hn_summary/82645</link>
-      <description><![CDATA[键盘：机械、薄膜和屈曲弹簧&lt; br/&gt;
-键盘不仅仅是打字工具；它们会极大地影响您的打字体验。机械键盘具有触觉反馈和定制选项，通常被认为是最好的键盘类型。与薄膜键盘相比，机械开关的组件和设计提供了更扎实的手感。此外，机械键盘提供的自定义选项允许用户微调他们的打字体验。有些人发现机械按键的反馈和行程可以帮助缓解身体不适并提高打字速度和准确性。总的来说，了解机械键盘、薄膜键盘和屈曲弹簧键盘之间的差异可以帮助您选择最适合您打字需求的选择。]]></description>
-      <guid>https://t.me/hn_summary/82645</guid>
-      <pubDate>Wed, 03 Apr 2024 01:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 巴西特种部队 G.E.F.</title>
-      <link>https://t.me/hn_summary/82644</link>
-      <description><![CDATA[巴西特种部队为拯救亚马逊而战
-巴西特种部队 G.E.F. 正在打击亚马逊地区的非法采矿活动，前总统博尔索纳罗否认这一问题，加剧了这场危机。现任总统卢拉已采取行动，领导突击搜查矿工并减少森林砍伐。尽管取得了进展，但随着矿工继续返回原住民土地以获取经济利益，挑战仍然存在。 G.E.F.面临障碍，包括缺乏支持采矿的军方和地方官员的支持。这种情况突显了该地区贫困、财富和环境保护等复杂问题，保护亚马逊的努力持续面临阻力和挫折。]]></description>
-      <guid>https://t.me/hn_summary/82644</guid>
-      <pubDate>Wed, 03 Apr 2024 00:43:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 人抗小鼠抗体 (HAMA) 是在人体中发现的一种抗体，可对免疫 [...]</title>
-      <link>https://t.me/hn_summary/82643</link>
-      <description><![CDATA[人抗鼠抗体
-人抗小鼠抗体（HAMA）是一种在人类体内发现的抗体，可与小鼠的免疫球蛋白发生反应。这种反应可能会使癌症和免疫疾病的抗体治疗变得复杂，因为患者可能会对小鼠抗体产生过敏反应，导致从皮疹到肾衰竭等一系列症状。令人惊讶的是，至少百分之十的普通人群携带动物源性抗体，通常来自小鼠。争议在于使用小鼠来生产单克隆抗体，这给动物带来了痛苦。然而，现在使用体外方法在没有小鼠的情况下制造抗体，消除了与 HAMA 反应相关的问题。]]></description>
-      <guid>https://t.me/hn_summary/82643</guid>
-      <pubDate>Wed, 03 Apr 2024 00:34:49 GMT</pubDate>
+      <title>[媒体]Redict 社区很高兴地宣布发布 Redict 7.3.0，这是 [...]</title>
+      <link>https://t.me/hn_summary/82687</link>
+      <description><![CDATA[Redis 的 Copyleft 分支 Redict 7.3.0 现已推出
+Redict 社区很高兴地宣布发布 Redict 7.3.0，它是 Redis® OSS 7.2.4 的 Copyleft 分支。重点是稳定性和长期维护，这与 Valkey 等其他分叉不同。 Redict 旨在提供一种可靠且以社区为中心的软件开发方法，并受 Lesser GNU 通用公共许可证 (LGPL) 的保护。许可证的选择可以防止利用并确保软件保持免费。基础设施也进行了改造，以使用免费软件解决方案。未来的计划包括现代化构建系统、分叉生态系统和改进文档。我们鼓励贡献者和用户加入社区并为项目做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/82687</guid>
+      <pubDate>Wed, 03 Apr 2024 10:28:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

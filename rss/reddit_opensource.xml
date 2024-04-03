@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 03 Apr 2024 09:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 12:15:52 GMT</lastBuildDate>
+    <item>
+      <title>Tiktok风格的自动字幕</title>
+      <link>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</link>
+      <description><![CDATA[有谁知道有一个可以让您创建 tiktok/youtube Shorts 风格自动字幕的存储库吗？ （彩色，大笔画，在屏幕上弹出和弹出）。谢谢   由   提交 /u/Absolutelyphenomenal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1buoa1o/tiktok_style_auto_captions/</guid>
+      <pubDate>Wed, 03 Apr 2024 09:28:05 GMT</pubDate>
+    </item>
     <item>
       <title>特定领域的开源法学硕士。</title>
       <link>https://www.reddit.com/r/opensource/comments/1buaw5z/domain_specific_open_source_llms/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，开源人士，我是一家非营利组织的首席技术官，目前正在开发一款跨平台应用程序来帮助我们完成使命。我的背景是计算机科学和技术，并且精通 React JS、Visual Studio Code 和 Android Studio 进行仿真。 我从头开始，希望利用现有的开源软件模板以避免重新发明页面和导航等基本功能。我找到了一些选项，但它们似乎已经过时了。 我正在寻求以下模板的建议：现代且维护良好，具有最新的代码和依赖项易于适应非营利组织设置跨平台兼容（非常适合React JS）包含基本的应用程序结构和功能（如导航） 任何有关模板或资源的建议将不胜感激！另外，如果我可以在特定的论坛、社区或平台上找到更多信息，请告诉我。 提前感谢您的帮助！   由   提交 /u/DebianDayman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1btpr07/seeking_updated_crossplatform_app_template_for/</guid>
       <pubDate>Tue, 02 Apr 2024 04:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许重新授权的开源许可证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1btnwl7/open_source_license_allowing_relicensing/</link>
-      <description><![CDATA[什么开源许可证允许我接受贡献者的拉取请求，但允许我在不咨询贡献者的情况下更改未来版本的许可证？&lt; /p&gt;   由   提交 /u/Extension-Tap2635    reddit.com/r/opensource/comments/1btnwl7/open_source_license_allowing_relicensing/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1btnwl7/open_source_license_allowing_relicensing/</guid>
-      <pubDate>Tue, 02 Apr 2024 02:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
