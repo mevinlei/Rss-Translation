@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:34:51 GMT</lastBuildDate>
     <item>
-      <title>[媒体]台湾遭受地震袭击后，数十人被困在高速公路隧道中</title>
-      <link>https://t.me/hn_summary/82768</link>
-      <description><![CDATA[台湾25年来最强地震，数十人被困隧道
-台湾发生25年来最强烈地震，造成至少9人死亡、900多人受伤，数十人被困在高速公路隧道中。东海岸发生7.4级地震，随后发生多次余震。救援人员正在努力营救被困人员，其中包括一家酒店的 50 名员工。据报道，损失严重，包括建筑物倒塌、停电和山体滑坡。此次地震引发了台湾、日本和菲律宾的海啸警报。损失的全部程度仍在评估中，搜救行动仍在进行中。台湾地处环太平洋火山带，地震频发。]]></description>
-      <guid>https://t.me/hn_summary/82768</guid>
-      <pubDate>Wed, 03 Apr 2024 18:10:44 GMT</pubDate>
+      <title>该内容的作者讨论了 macOS 上网络文件复制速度缓慢的挫败感 [...]</title>
+      <link>https://t.me/hn_summary/82826</link>
+      <description><![CDATA[macOS Finder 在网络文件复制方面仍然很糟糕&lt; br/&gt;
+该内容的作者讨论了使用 Raspberry Pi 时 macOS 上网络文件复制速度缓慢的挫败感，尽管尝试了各种解决方案和调整。作者详细介绍了测试过程，包括验证网络速度和存储性能，以及尝试不同的文件传输方法。令人惊讶的是，使用 SSH 进行文件传输的速度比 Samba 更快。作者还比较了 macOS 和 Windows 11 之间的文件复制速度，其中 Windows 始终表现出更快的写入速度。作者对 macOS 上的瓶颈表示困惑，并寻求改善该平台网络共享性能的建议。]]></description>
+      <guid>https://t.me/hn_summary/82826</guid>
+      <pubDate>Thu, 04 Apr 2024 00:34:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Jpegli，这是一款革命性的 JPEG 编码库，可实现更快的加载速度 [...]</title>
-      <link>https://t.me/hn_summary/82767</link>
-      <description><![CDATA[Jpegli：新的 JPEG 编码库
-隆重推出 Jpegli，这是一款革命性的 JPEG 编码库，可实现更快的加载时间和更高的图像质量。 Jpegli 在高质量设置下压缩比提高了 35%，提供了高质量的结果、快速的编码速度以及比传统 JPEG 编解码器更有效地压缩图像的能力。使用自适应量化启发式方法和改进的量化矩阵选择，Jpegli 可提供更清晰的图像和更少的伪影。针对 libjpeg-turbo 和 MozJPEG 进行测试，Jpegli 在较低比特率下的图像质量方面表现出色。 Jpegli 是 Google Research 开发的一项很有前景的新技术，具有让互联网更快、更美观的潜力。]]></description>
-      <guid>https://t.me/hn_summary/82767</guid>
-      <pubDate>Wed, 03 Apr 2024 18:08:39 GMT</pubDate>
+      <title>[媒体] 多伦多的一名男子分享了一次令人震惊的遭遇，房东拒绝为他提供住房 [...]</title>
+      <link>https://t.me/hn_summary/82825</link>
+      <description><![CDATA[一名男子表示，多伦多房东拒绝为他提供住房，只是因为他黑色
+多伦多的一名男子分享了一次令人震惊的经历，房东仅仅因为他是黑人就拒绝为他提供住房。 TikTok 用户 Oki 发布了一段种族主义对话的视频，其中房东承认自己没有意识到自己是黑人，并表示不允许黑人进入该单位。这一事件凸显了多伦多房地产市场持续存在的种族主义问题。人权律师亚历克斯·巴蒂克（Alex Battick）确认，根据安大略省的《人权法》，这种歧视是非法的，并建议采取法律行动。这个故事引发了关于加拿大种族主义盛行的讨论。]]></description>
+      <guid>https://t.me/hn_summary/82825</guid>
+      <pubDate>Wed, 03 Apr 2024 23:55:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局和洛克希德·马丁公司正在共同努力解决猎户座航天器的问题，这些问题[...]</title>
-      <link>https://t.me/hn_summary/82766</link>
-      <description><![CDATA[NASA、洛克希德马丁公司致力于解决 Artemis II Orion 问题
-NASA 和洛克希德·马丁公司正在共同努力解决猎户座飞船的问题，这些问题导致阿耳忒弥斯 II 号任务推迟到 2025 年 9 月。电路和电池耐用性方面的问题已经被发现，并正在实施修复。这些团队对他们的恢复计划充满信心，并正在努力实现发射准备目标日期。人们设计了独特的解决方法和解决方案来克服挑战，例如绕过航天器中的当前控制器以及在不同位置安装替代品。阿耳忒弥斯二号任务将是 EGS、猎户座和 SLS 计划的首次载人任务，由四名机组人员准备绕月飞行。 （根据 60% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/82766</guid>
-      <pubDate>Wed, 03 Apr 2024 18:07:35 GMT</pubDate>
+      <title>[媒体]苹果正在将其重点从汽车转向家庭机器人，工程师们正在研究移动机器人 [...]</title>
+      <link>https://t.me/hn_summary/82824</link>
+      <description><![CDATA[苹果探索家庭机器人作为汽车故障后潜在的“下一件大事” 
+苹果正在将重点从汽车转向家庭机器人，工程师们正在开发一款可以跟随用户在家中四处走动的移动机器人。该公司还在开发一种桌面家用设备，使用机器人技术来移动显示器。随着苹果公司不断创新和探索新技术，进军个人机器人领域可能是苹果公司的下一件大事。该项目仍处于早期阶段，但它表明了苹果公司致力于走在尖端技术前沿的承诺。]]></description>
+      <guid>https://t.me/hn_summary/82824</guid>
+      <pubDate>Wed, 03 Apr 2024 23:54:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 大通银行正在通过其新零售媒体平台 Cha [...]</title>
-      <link>https://t.me/hn_summary/82765</link>
-      <description><![CDATA[摩根大通即将让广告商根据支出定位客户
-大通银行正在通过其新的零售媒体平台 Chase Media Solutions 震撼广告界，该平台允许品牌根据 8000 万客户的消费习惯来定位他们。这一有争议的举动引起了人们对隐私和数据所有权的担忧，因为银行将使用客户的交易数据来个性化优惠和激励措施。然而，大通银行相信，其无与伦比的规模和客户洞察力将使其在竞争激烈的零售媒体行业中脱颖而出，该行业目前价值 610 亿美元，并且正在快速增长。亚马逊和沃尔玛等主要参与者已经加入其中，大通银行希望以其独特的定向广告方法引起轰动。]]></description>
-      <guid>https://t.me/hn_summary/82765</guid>
-      <pubDate>Wed, 03 Apr 2024 18:02:30 GMT</pubDate>
+      <title>令人惊讶的是，亚马逊的 Just Walk Out 技术彻底改变了杂货店 [...]</title>
+      <link>https://t.me/hn_summary/82823</link>
+      <description><![CDATA[亚马逊 Just Walk Out 技术背后的人类都在人工智能
+令人惊讶的是，亚马逊的 Just Walk Out 技术彻底改变了杂货购物体验，但人们发现该技术严重依赖印度 1,000 多名承包商的工作。这些工作人员的任务是观看视频并为其添加标签，以确保结帐的准确性。虽然亚马逊宣称该技术是由人工智能驱动的，但现实是人类工人在其运营中发挥着重要作用。这一发现揭示了人工智能幕后经常被忽视的人为因素。]]></description>
+      <guid>https://t.me/hn_summary/82823</guid>
+      <pubDate>Wed, 03 Apr 2024 23:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]以色列媒体调查显示，以色列正在使用秘密人工智能软件 [...]</title>
-      <link>https://t.me/hn_summary/82764</link>
-      <description><![CDATA[报告称，以色列的“Lavender”人工智能用于加沙杀戮名单&lt; /a&gt;
-以色列媒体调查显示，以色列正在使用名为“Lavender”的秘密人工智能软件在加沙创建杀戮名单，针对约37,000人进行潜在的空袭。该计划使用机器学习根据与可疑激进分子的关联等因素为个人评分。目标决策是在最少的监督下快速做出的，导致错误率很高。据报道，附带损害规则有所放松，导致平民伤亡增加。以色列否认将决策外包给机器，但围绕在瞄准实践中使用人工智能的争议引发了外国政府和人道主义组织的批评。]]></description>
-      <guid>https://t.me/hn_summary/82764</guid>
-      <pubDate>Wed, 03 Apr 2024 17:58:25 GMT</pubDate>
+      <title>[媒体]马修·基兰斯 (Matthew Kierans) 承认，一起令人震惊的身份盗窃案件曝光 [...]</title>
+      <link>https://t.me/hn_summary/82822</link>
+      <description><![CDATA[男子承认窃取前同事身份 30 年
+一起令人震惊的身份盗窃案曝光，马修·基兰斯 (Matthew Kierans) 承认窃取了前同事的身份，并以威廉·唐纳德·伍兹 (William Donald Woods) 的身份生活了 30 多年。基兰斯利用伍兹的身份犯罪、积累债务，甚至以伍兹的名义结婚生子。在基兰斯指控伍兹身份盗窃后，这一精心策划的计划导致伍兹被监禁，而洛杉矶当局未能查明伍兹的真实身份。当洛杉矶警察局逮捕伍兹而不是基兰斯时，引发了争议，引发了一场关于身份盗窃真正受害者的法律斗争。最终，伍兹因混乱而入狱并进了精神病院。]]></description>
+      <guid>https://t.me/hn_summary/82822</guid>
+      <pubDate>Wed, 03 Apr 2024 23:29:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 据报道，由于基础设施成本极高，稳定性人工智能面临财务困境，[...]</title>
-      <link>https://t.me/hn_summary/82763</link>
-      <description><![CDATA[据报道，Stability AI 耗尽了现金来支付其云 GPU 账单&lt; /a&gt;
-据报道，Stability AI 由于基础设施成本过高而面临财务困境，耗尽了公司的金库，只剩下 400 万美元的储备金。前首席执行官 Emad Mostaque 难以支付其流行的文本到图像生成模型 Stable Diffusion 所需的巨额 GPU 费用。该公司未能与主要客户和投资者达成交易，导致信任和财务稳定性螺旋式下降。尽管努力转向订阅模式并转售计算资源，但 Stability AI 的未来仍然不确定，版权侵权案件迫在眉睫。新的管理层就位，但公司的命运仍悬而未决。]]></description>
-      <guid>https://t.me/hn_summary/82763</guid>
-      <pubDate>Wed, 03 Apr 2024 17:54:20 GMT</pubDate>
+      <title>[媒体]父母雷切尔·科尔文 (Rachel Colvin) 和丹妮尔·萨斯 (Danielle Sass) 对罗布尔 (Robl) 提起集体诉讼 [...]</title>
+      <link>https://t.me/hn_summary/82821</link>
+      <description><![CDATA[Roblox 被指控​​为未成年人炮制非法赌博圈&lt; br/&gt;
+父母雷切尔·科尔文 (Rachel Colvin) 和丹妮尔·萨斯 (Danielle Sass) 对 Roblox 提起集体诉讼，指控这家流行的在线游戏平台运营针对未成年人的非法赌博团伙。该诉讼称，Roblox 允许第三方赌博网站使用该平台的数字货币 Robux 接受投注，该货币具有实际货币价值。尽管 Roblox 的服务条款禁止模拟赌博，但投诉称该公司从未成年人参与在线赌博中获利。该诉讼还指控 Roblox 对 Robux 兑换回美元收取 30% 的费用，每年产生数百万美元的现金费用。围绕 Roblox 涉嫌非法赌博活动的争议引发了对该公司的批评和法律诉讼。]]></description>
+      <guid>https://t.me/hn_summary/82821</guid>
+      <pubDate>Wed, 03 Apr 2024 23:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>Ugreen 将挑战 Synology 在网络附加存储 (NAS) 市场的主导地位 [...]</title>
-      <link>https://t.me/hn_summary/82762</link>
-      <description><![CDATA[Ugreen 以平价系列 NAS 硬件挑战 Synology 
-Ugreen 准备通过其新的 NASync 系列挑战 Synology 在网络附加存储 (NAS) 市场的主导地位，该系列已在 Kickstarter 上筹集了超过 230 万美元。该系列包括六款产品，可满足从个人使用到商业解决方案等不同用户的需求，具有令人印象深刻的规格，如第 12 代英特尔酷睿 i5 处理器和高达 64GB 的可扩展内存。顶级型号提供双 10GbE 端口和 Thunderbolt 4 端口，实现闪电般的性能。凭借全面的移动应用程序和专业的数据安全性，NASync 系列正在成为 NAS 市场的有力竞争者。]]></description>
-      <guid>https://t.me/hn_summary/82762</guid>
-      <pubDate>Wed, 03 Apr 2024 17:53:17 GMT</pubDate>
+      <title>在这篇文章中，我分享了我构建和使用已有 29 年历史的 GNU C 编译器版本的经验 [...]</title>
+      <link>https://t.me/hn_summary/82820</link>
+      <description><![CDATA[在现代系统上构建和使用已有 29 年历史的编译器(2017)
+在这篇文章中，我分享了我在现代系统上构建和使用已有 29 年历史的 GNU C 编译器版本 1.27 的经验。令人惊讶的是，C 标准兼容性得到了很好的维护，并且基本的 Glibc 头文件是向后兼容的。该过程涉及手动配置和创建符号链接，只需要进行少量代码更改。引导编译器发现了 i386 后端的一个错误，但很容易修复。尽管已经很老了，GCC 1.27 仍然包含编译器警告、优化和调试信息等功能。探索源代码表明，旧版本的许多思想和代码至今仍在使用，展示了编译器技术的演变。]]></description>
+      <guid>https://t.me/hn_summary/82820</guid>
+      <pubDate>Wed, 03 Apr 2024 23:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这项研究探讨了临界闪烁融合阈值的个体差异，这是一个[...]</title>
-      <link>https://t.me/hn_summary/82761</link>
-      <description><![CDATA[视速：临界闪烁融合阈值的个体差异
-本研究探讨了健康人类参与者中临界闪烁融合阈值（视觉时间分辨率的衡量标准）的个体差异。研究人员使用两种常见的心理物理学方法，发现参与者之间的最大差异约为 30 Hz，其中女性比男性表现出更大的变异性。该研究还评估了阈值随时间的稳定性，发现大约 80% 的方差是由于个体之间的差异造成的。通过结合不同的测试方法，该研究旨在提供一种更有效的方法来测量 CFF 阈值。总体而言，该研究强调了视觉感知的自然变化以及在视觉时间分辨率研究中考虑个体差异的重要性。 （根据故事文本的 33% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/82761</guid>
-      <pubDate>Wed, 03 Apr 2024 17:48:11 GMT</pubDate>
+      <title>[媒体] 如果您一直在努力访问 App Store，那么您并不孤单。</title>
+      <link>https://t.me/hn_summary/82819</link>
+      <description><![CDATA[全球许多用户的 App Store 目前已关闭
+如果您一直在努力访问 App Store，那么您并不孤单。全球用户目前都面临着服务中断的问题，并弹出“无法连接”等错误消息。苹果已在其系统状态页面上承认了该问题，确认 App Store、Apple Arcade 和其他服务已关闭。这一持续存在的问题引发了用户的不满，社交媒体上充斥着投诉。这并不是苹果在线服务第一次遭遇中断，今年早些时候 App Store Connect 和 Apple Music 就受到了影响。请继续关注有关 App Store 何时恢复并运行的更新。]]></description>
+      <guid>https://t.me/hn_summary/82819</guid>
+      <pubDate>Wed, 03 Apr 2024 22:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]德克萨斯三角是一个独特且快速发展的巨型区域，挑战了常见的地形 [...]</title>
-      <link>https://t.me/hn_summary/82760</link>
-      <description><![CDATA[德克萨斯三角区：一个不同于其他地区的崛起中的巨型区域 
-德克萨斯三角是一个独特且快速发展的巨型区域，打破了人们对德克萨斯州的普遍刻板印象。虽然它与国家有一些共同特征，例如经济扩张和多元化，但它也通过较高的教育水平和更加中间派的政治格局挑战了人们的看法。三角都市面临着共同的挑战，例如西班牙裔社区的教育程度较低，但也具有整合在一个州内的优势。随着德克萨斯三角不断发展，它成为在维持经济增长的同时包容多样性的典范，使其成为美国社会和全球经济的关键参与者。]]></description>
-      <guid>https://t.me/hn_summary/82760</guid>
-      <pubDate>Wed, 03 Apr 2024 17:45:07 GMT</pubDate>
+      <title>旧金山 La Vaca Birria 的老板里卡多·洛佩兹 (Ricardo Lopez) 最近提高了他的标志的价格 [...]</title>
+      <link>https://t.me/hn_summary/82818</link>
+      <description><![CDATA[22 美元的墨西哥卷饼火爆解释了美国的通货膨胀&lt; br/&gt;
+旧金山 La Vaca Birria 餐厅的老板里卡多·洛佩兹 (Ricardo Lopez) 最近将其招牌 Birria 墨西哥卷饼的价格提高到了 22 美元，引发了顾客的争议。洛佩兹解释说，涨价是由于原料和劳动力成本上涨，这反映出美国各地小型食品企业面临的困境。关于 22 美元墨西哥卷饼的争论引发了人们对墨西哥美食与其他类型食品相比价值的质疑。尽管面临强烈反对，洛佩兹还是看到了客户意想不到的积极回应和业务增长。提供全清真肉类的独特因素也使 La Vaca Birria 在竞争激烈的食品行业中脱颖而出。]]></description>
+      <guid>https://t.me/hn_summary/82818</guid>
+      <pubDate>Wed, 03 Apr 2024 22:53:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Burr 是一个旨在帮助开发人员快速构建和调试 GenAI 应用程序的框架 [...]</title>
-      <link>https://t.me/hn_summary/82759</link>
-      <description><![CDATA[显示 HN：Burr – 用于更快构建和调试 GenAI 应用程序的框架
-Burr 是一个框架，旨在帮助开发人员通过使用简单的 Python 构建块创建状态机来更快地构建和调试 GenAI 应用程序。它包括一个用于实时监控决策的 UI，使其对于聊天机器人、代理、模拟等非常有用。 Burr 通过提供低抽象 Python 库、用于遥测的 UI 以及用于持久状态和连接到其他系统的集成而与众不同。它可用于各种应用程序，例如聊天机器人、机器学习管道和模拟。该项目以 Aaron Burr 命名，旨在简化 Hamilton DAG 执行之间的状态管理。该路线图包括测试、效率改进和基于云的检查点等功能。欢迎开发者做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/82759</guid>
-      <pubDate>Wed, 03 Apr 2024 17:36:00 GMT</pubDate>
+      <title>[媒体] 在最近的一次采访中，Citadel 的创始人强调了解决 g [...]</title>
+      <link>https://t.me/hn_summary/82817</link>
+      <description><![CDATA[Citadel 创始人表示，美国债务不容忽视&lt; br/&gt;
+在最近的一次采访中，Citadel 的创始人强调了解决日益严重的美国债务危机的重要性。他警告说，忽视这个问题可能会给经济和子孙后代带来严重后果。这个有争议的话题引发了政策制定者和经济学家的争论，一些人主张立即采取行动减轻债务负担。创始人的见解揭示了这个问题的紧迫性以及采取积极措施预防金融危机的必要性。这给所有美国人敲响了警钟，要求他们关注国家的财政健康状况，并采取措施解决不断增加的债务问题。]]></description>
+      <guid>https://t.me/hn_summary/82817</guid>
+      <pubDate>Wed, 03 Apr 2024 22:51:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
