@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 08:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:11:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 设备绑定会话凭证 (DBSC) 是一种协议和浏览器基础设施，旨在 [...]</title>
-      <link>https://t.me/hn_summary/83046</link>
-      <description><![CDATA[设备绑定会话凭据解释器
-设备绑定会话凭证 (DBSC) 是一种协议和浏览器基础设施，旨在减少 cookie 盗窃导致的帐户劫持。它引入了加密密钥来验证绑定到用户设备的会话，从而使恶意软件更难滥用被盗的 cookie。 DBSC 为网站提供 API，用于控制密钥生命周期并定期向服务器证明拥有密钥。 DBSC 的独特之处在于其应用程序级绑定，允许网站将会话设置与用户登录机制以及浏览器启动的刷新紧密结合，从而简化设备绑定。该项目还解决了 TPM 考虑因素和隐私问题，以确保用户安全和隐私。 （根据故事文本的 58% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83046</guid>
-      <pubDate>Fri, 05 Apr 2024 08:46:12 GMT</pubDate>
+      <title>在 PromptLayer，我们最近举办了一场即时工程锦标赛，参赛者设计了 [...]</title>
+      <link>https://t.me/hn_summary/83085</link>
+      <description><![CDATA[我们的即时工程锦标赛的最爱
+在 PromptLayer，我们最近举办了一场提示工程锦标赛，参赛者设计了针对评估管道运行的提示。一些出色的提示包括一个强调明确的指导方针，另一个巧妙地借用了成功的提示，以及一些利用了几次提示和代码风格语言等技术的提示。获胜的提示结合了角色扮演、经济激励和反幻觉措施，以有效指导模型的反应。该活动突出了即时工程的艺术，展示了可以显着提高模型性能的创新策略。请继续关注我们继续探索和发展这个令人兴奋的领域！请通过 hello@promptlayer.com 联系我们了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/83085</guid>
+      <pubDate>Fri, 05 Apr 2024 18:11:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub 目前遇到问题，您可以随时了解 Iss 事件的最新信息 [...]</title>
-      <link>https://t.me/hn_summary/83045</link>
-      <description><![CDATA[GitHub 已关闭
-GitHub 目前遇到问题，您可以通过订阅电子邮件和短信通知来了解问题事件、API 请求、拉取请求和 Codespaces 的最新信息。您可以选择接收有关各个国家/地区的事件更新的短信通知，并且当 GitHub 创建或解决事件时您会收到通知。随时了解 GitHub 的状态更新并保持联系。]]></description>
-      <guid>https://t.me/hn_summary/83045</guid>
-      <pubDate>Fri, 05 Apr 2024 08:43:07 GMT</pubDate>
+      <title>[媒体] Altitude Cyber​​ 的 2023 年网络安全年度回顾报告深入探讨了行业 [...]</title>
+      <link>https://t.me/hn_summary/83084</link>
+      <description><![CDATA[Altitude Cyber​​ 2023 年网络安全回顾（及以后）的主题&lt; /a&gt;
+Altitude Cyber​​ 的 2023 年网络安全回顾报告深入探讨了行业趋势。尽管与 2021 年的繁荣相比，并购活动有所下滑，但私募股权买家比以往任何时候都更加活跃，推动了更大规模的收购。战略买家保持一致，网络安全顶级投资者坚守阵地。该报告要求读者思考 2021 年没有异常的世界，强调了该行业的弹性和增长潜力。该报告着眼于长期承诺和乐观态度，为不断发展的网络安全格局提供了独特的视角。]]></description>
+      <guid>https://t.me/hn_summary/83084</guid>
+      <pubDate>Fri, 05 Apr 2024 18:04:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如何转动旋钮让冰箱变冷？</title>
-      <link>https://t.me/hn_summary/83044</link>
-      <description><![CDATA[如何转动此旋钮使冰箱温度降低？
-在 kottke.org 发人深省的帖子中，作者提出一个简单但令人费解的问题：如何转动冰箱上的旋钮使其变冷？作者以一家冰淇淋店老板想要调节浸渍柜的温度为例，要求读者批判性地思考是否应该将刻度盘设置为 3 还是 5。这篇文章在 Gracie 的 Instagram 粉丝中引发了激烈的争论，展示了了解温度控制背后的机制的重要性。加入对话并分享您对这个有趣的困境的想法。]]></description>
-      <guid>https://t.me/hn_summary/83044</guid>
-      <pubDate>Fri, 05 Apr 2024 08:25:59 GMT</pubDate>
+      <title>本文讨论了 AI 生成图像的进步以及新 SDXL 的发布 [...]</title>
+      <link>https://t.me/hn_summary/83083</link>
+      <description><![CDATA[从 VAE 伪像中识别稳定的 Diffusion XL 1.0 图像&lt; br/&gt;
+本文讨论了 AI 生成图像的进步以及新的 SDXL 1.0 文本到图像生成模型的发布。由于使用 VAE 神经网络进行编码和解码，新模型的边缘周围存在明显的伪影。有人猜测这些伪影是否可以作为识别人工智能生成图像的水印。本文还深入探讨了 0.9 和 1.0 VAE 版本之间的差异，其中 1.0 VAE 显示出较低的 PSNR 值。训练神经网络来检测由不同 VAE 解码的图像，其中 1.0 VAE 图像更容易识别。本文最后讨论了将检测推广到更大的图像和可视化卷积核。 （根据 89% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83083</guid>
+      <pubDate>Fri, 05 Apr 2024 17:38:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Facebook 被发现窥探 Snapchat 用户。</title>
-      <link>https://t.me/hn_summary/83043</link>
-      <description><![CDATA[Facebook 被发现窥探 Snapchat 用户。这是怎么回事？
-Facebook、WhatsApp 和 Instagram 的母公司 Meta 的数据隐私政策一直存在争议。在 Facebook 上发布免责声明以保护隐私的谣言已被揭穿。 Facebook 的主要商业模式是将用户数据货币化。 Facebook 的起源涉及哈佛学生的数据收集。最近，法庭文件显示 Facebook 试图窥探 Snapchat 用户，从而可能引发刑事调查。 Meta 与 Netflix 共享私人消息数据和反竞争行为凸显了大型科技公司的垄断地位。欧盟的数字市场法案旨在挑战这些做法。为了保护隐私，请考虑使用 Signal 和 Tuta Mail 等替代方案。]]></description>
-      <guid>https://t.me/hn_summary/83043</guid>
-      <pubDate>Fri, 05 Apr 2024 08:09:51 GMT</pubDate>
+      <title>[媒体]Fortran 是一种可追溯至 1957 年的编程语言，至今仍适用于计算机 [...]</title>
+      <link>https://t.me/hn_summary/83082</link>
+      <description><![CDATA[WebAssembly 上的 Fortran
+Fortran 是一种可追溯至 1957 年的编程语言，至今仍适用于计算密集型科学和工程应用。为 WebAssembly 编译 Fortran 代码为在 Web 浏览器中运行数值算法开辟了新的可能性，而无需用其他语言重写它们。虽然有多种方法可用，但没有一种方法功能完整，这给开发人员带来了挑战。 LFortran 在支持更广泛的 Fortran 功能方面取得了重大进展，并且可以编译为 WebAssembly。新的 LLVM Flang 编译器也在积极开发中，旨在取代 Classic Flang 并为 WebAssembly 编译 Fortran 代码提供现代解决方案。 （根据故事文本的 18% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83082</guid>
+      <pubDate>Fri, 05 Apr 2024 16:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 为什么现在的软件很糟糕？</title>
-      <link>https://t.me/hn_summary/83042</link>
-      <description><![CDATA[为什么今天的软件很糟糕？
-在当今世界，软件在我们的日常生活中发挥着至关重要的作用，从驾驶汽车到管理财务。然而，尽管努力提高软件质量，性能和可用性问题仍然存在。现代软件的复杂性，加上影响行业的能力危机，导致了持续的质量挑战。令人惊讶的是，高级编程语言和框架的兴起使软件工程民主化，但也导致了专业标准的下降。有争议的是，像 Martin Fowler 这样的思想领袖可能没有强大的软件工程背景，但他们的影响力塑造了行业实践。最终，更深入地了解技术对于确保软件质量和可靠性仍然至关重要。]]></description>
-      <guid>https://t.me/hn_summary/83042</guid>
-      <pubDate>Fri, 05 Apr 2024 07:52:43 GMT</pubDate>
+      <title>我创建了一个在 UEFI 中运行的图形 IRC 客户端，用 Rust 编写并利用 GUI [...]</title>
+      <link>https://t.me/hn_summary/83081</link>
+      <description><![CDATA[主板上的 IRC 客户端
+我创建了一个在 UEFI 中运行的图形 IRC 客户端，用 Rust 编写，并利用我为 axis 用户空间开发的 GUI 工具包和 TrueType 渲染器。得益于为 QEMU 实现的 vmnet 网络后端，用户可以连接到 IRC 服务器、聊天并从主板的预启动环境中读取消息。 UEFI 是 BIOS 的替代品，提供 64 位环境以及用于显示分辨率、内存分配和文件系统交互的 API。在 Rust 中实现 UEFI 的 TCP 协议具有挑战性，并且使用简单指针协议来支持鼠标需要自定义 UEFI 固件构建。该项目还涉及对 IRC 消息进行建模并在滚动视图上有效地渲染文本。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83081</guid>
+      <pubDate>Fri, 05 Apr 2024 16:46:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] XZ Utils Linux 后门背后的编码者“Jia Tan”是谁？</title>
-      <link>https://t.me/hn_summary/83041</link>
-      <description><![CDATA[谁是“Jia Tan”，XZ Utils Linux 背后的编码员后门？
-被称为“Jia Tan”的神秘编码员已被确定为 XZ Utils Linux 后门的幕后主使，专家表示他们很可能不是单独行动。安全研究人员 Costin Raiu 将这个精心设计的后门描述为“狡猾”，这表明它有一个复杂的长期访问计划。令人惊讶的是，对 Tan 提交的代码的调查揭示了与中国时区相关的活动模式，即使在中国假期期间，偶尔也会从中东或东欧上传。围绕谭的身份和动机的争议为这个网络安全难题增添了一层有趣的色彩。]]></description>
-      <guid>https://t.me/hn_summary/83041</guid>
-      <pubDate>Fri, 05 Apr 2024 07:47:37 GMT</pubDate>
+      <title>[媒体] 该项目是一个最小的、受 Rust 启发的 C++20 STL 替代品，称为 rpp。</title>
+      <link>https://t.me/hn_summary/83080</link>
+      <description><![CDATA[显示 HN：最小的 Rust 启发的 C++20 STL 替换&lt; /a&gt;
+该项目是一个最小的、受 Rust 启发的 C++20 STL 替代品，称为 rpp。它旨在提供快速编译、可调试性、高性能、显式代码和简单的元编程。它支持各种平台和编译器，包括 Windows、Linux 和 macOS。该项目包括日志记录、数据结构、分配器、跟踪、反射、线程、异步编程和数学运算的示例。要在项目中使用 rpp，用户可以将其添加为子模块并将其与 CMake 或其他构建系统集成。作者计划在未来添加更多功能，例如模块、异步改进、新类型以及分配器的增强。]]></description>
+      <guid>https://t.me/hn_summary/83080</guid>
+      <pubDate>Fri, 05 Apr 2024 16:30:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mission Talita 是由瑞典一家非营利机构创建的《侠盗猎车手》模组，旨在 [...]</title>
-      <link>https://t.me/hn_summary/83040</link>
-      <description><![CDATA[Mission Talita 是一款旨在阻止贩卖的侠盗猎车手模组
-Mission Talita 是由瑞典一家非营利机构创建的侠盗猎车手模组，旨在提高人们对人口贩卖的认识。该模组包含新任务、定制广播电台以及逃离人口贩卖的女性的真实故事。玩家扮演好撒玛利亚人的角色，拯救受害者并躲避或消灭人贩子。该模组旨在利用熟悉的 GTA 环境来传递强有力的信息，从而改变人们对卖淫和性贩运的态度。该模组可在 PC 上下载，并在非营利组织的网站上接受捐款。这是解决游戏社区中严重的现实问题的一种独特而引人注目的方式。]]></description>
-      <guid>https://t.me/hn_summary/83040</guid>
-      <pubDate>Fri, 05 Apr 2024 07:46:33 GMT</pubDate>
+      <title>1991 年至 1998 年是《星球大战》粉丝的黄金时代，因为该系列真正属于 [...]</title>
+      <link>https://t.me/hn_summary/83079</link>
+      <description><![CDATA[绝地武士（另外，关于扩展宇宙的注释）
+1991 年至 1998 年是《星球大战》粉丝的黄金时代，因为这个系列真正属于其忠实粉丝。在原始三部曲之后，乔治·卢卡斯拒绝创作更多电影，导致《星球大战》的受欢迎程度下降。然而，从蒂莫西·扎恩的《帝国继承人》开始，一款桌面角色扮演游戏和一系列小说为扩展宇宙注入了新的活力。尽管存在一些质量控制问题，《扩展宇宙》仍然是一场由粉丝驱动的、欢乐的《星球大战》庆祝活动，提供了当今精心管理的系列中所缺少的自由感和创造力。 （根据 32% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83079</guid>
+      <pubDate>Fri, 05 Apr 2024 15:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>不幸的是，我无法提供内容摘要，因为我无权访问该文章。</title>
-      <link>https://t.me/hn_summary/83039</link>
-      <description><![CDATA[美国夫妻饮酒和死亡率：个人和伴侣的影响&lt; /a&gt;
-不幸的是，我无法提供内容摘要，因为我无权访问该文章。]]></description>
-      <guid>https://t.me/hn_summary/83039</guid>
-      <pubDate>Fri, 05 Apr 2024 07:07:19 GMT</pubDate>
+      <title>[媒体] 在 OpenBSD 开发人员对 xz 混乱的详细分析中，我们发现 [...]</title>
+      <link>https://t.me/hn_summary/83078</link>
+      <description><![CDATA[OpenBSD 开发人员对 xz 混乱的出色简洁分析
+在 OpenBSD 开发人员对 xz 混乱的详细分析中，我们发现该后门仅影响 Linux x86-64 平台，在其他操作系统上会显式中止。恶意代码巧妙地隐藏在构建过程中，带有仅在 Linux 上执行的不可疑的测试文件和阶段。开发人员揭示了构建过程的特定阶段和后门的触发器，揭示了攻击的复杂性。令人惊讶的是，恶意提交与看似无辜的更改交织在一起，增加了后门的隐蔽性。争议在于围绕这个错综复杂的后门的猜测和解释。]]></description>
+      <guid>https://t.me/hn_summary/83078</guid>
+      <pubDate>Fri, 05 Apr 2024 15:24:19 GMT</pubDate>
     </item>
     <item>
-      <title>准备好使用 alix 进行一次回忆之旅，这是一款采用 KDE 1.1.2 的复古 Linux 发行版 [...]</title>
-      <link>https://t.me/hn_summary/83038</link>
-      <description><![CDATA[Debian 13 上的 KDE1
-准备好使用 arix 来回忆一下，这是一个复古的 Linux 发行版，在 Debian 13 (Trixie) 上采用 KDE 1.1.2。通过这个独特的发行版体验老式计算的怀旧之情。不要忘记使用密码“1”下载，当您在这里时，请查看我的 YouTube 频道以获取更多技术内容。准备好在 Debian 13 上使用 alix 重温过去。]]></description>
-      <guid>https://t.me/hn_summary/83038</guid>
-      <pubDate>Fri, 05 Apr 2024 06:47:11 GMT</pubDate>
+      <title>隆重推出 Qwen1.5-32B，它是 Qwen1.5 语言模型系列的最新成员，引人注目 [...]</title>
+      <link>https://t.me/hn_summary/83077</link>
+      <description><![CDATA[Qwen1.5-32B：安装Qwen1.5的顶峰语言模型系列
+推出 Qwen1.5-32B，它是 Qwen1.5 语言模型系列的最新成员，在性能和资源效率之间取得了平衡。该模型拥有约 300 亿个参数，在各种任务中展示了具有竞争力的性能，包括聊天评估和跨 12 种语言的多语言功能。值得注意的是，Qwen1.5-32B-Chat 展示了令人印象深刻的对话能力，使其成为聊天应用程序的经济高效的解决方案。尽管与 72B 型号相比性能略有下降，但 Qwen1.5-32B 的性能优于其他 30B 型号。此外，其在长上下文评估中的顶级性能使其成为适用于各种应用的多功能且高效的模型。]]></description>
+      <guid>https://t.me/hn_summary/83077</guid>
+      <pubDate>Fri, 05 Apr 2024 15:22:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《龙之教条2》中，战斗系统故意草率和不精致，挑战[...]</title>
-      <link>https://t.me/hn_summary/83037</link>
-      <description><![CDATA[《龙之信条 2》的战斗是故意的草率且不精致
-在《龙之信条2》中，战斗系统故意显得草率和粗糙，挑战玩家接受失败和不可预测性。与其他动作角色扮演游戏不同，它没有闪避、反击或锁定机制，迫使玩家依赖松散的目标和称为棋子的人工智能同伴。该游戏旨在在单人体验中模拟多人角色扮演游戏的混乱本质，玩家必须接受对其党员的有限控制和信任。虽然战斗可能会让人感觉混乱且不集中，但它创造了一个任何事情都可能发生的独特空间，为游戏玩法增添了惊喜和不可预测的元素。]]></description>
-      <guid>https://t.me/hn_summary/83037</guid>
-      <pubDate>Fri, 05 Apr 2024 06:44:08 GMT</pubDate>
+      <title>[媒体] 在这篇博文中，作者为 Go 的错误处理进行了辩护，认为它是完美的 [...]</title>
+      <link>https://t.me/hn_summary/83076</link>
+      <description><![CDATA[Go 的错误处理非常完美
+在这篇博文中，作者为 Go 的错误处理进行了辩护，认为它对于大多数程序来说都是完美的。它们解决了有关 Go 错误处理的常见抱怨，例如使用“if err != nil”语句以及缺少 Result 类型。作者提供了Python和Go中错误处理的示例，展示了Go的错误处理如何更加明确和彻底。他们还讨论了 Go 中结果类型的潜在实现，强调了挑战和潜在的缺点。总体而言，作者赞扬了 Go 的错误处理方法，并强调了编程中清晰有效的错误处理的重要性。 （根据 90% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83076</guid>
+      <pubDate>Fri, 05 Apr 2024 15:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
