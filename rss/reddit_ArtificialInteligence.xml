@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 04 Apr 2024 21:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:35:15 GMT</lastBuildDate>
+    <item>
+      <title>想要创建自定义聊天机器人以提供用户支持</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvyy3c/want_to_create_custom_chatbot_for_user_support/</link>
+      <description><![CDATA[我有一个非常利基的领域和大量非常可靠的数据，可以非常干净地对其进行建模 - 我觉得有机会构建一个可以执行操作的聊天机器人作为领域专家来支持我解决从用户群中得到的所有简单重复的技术问题。 我是一名经验丰富的专业软件工程师，但我主要是在机器学习方面自学，基于根据当前工作的需要，所以我可能拥有非常危险的知识量。我只是想知道从哪里开始阅读/研究/设计像我这样的项目；任何提示将不胜感激。   由   提交 /u/gloom_spewer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvyy3c/want_to_create_custom_chatbot_for_user_support/</guid>
+      <pubDate>Thu, 04 Apr 2024 21:08:12 GMT</pubDate>
+    </item>
     <item>
       <title>下周将构建一个 LLM 支持的 RAG 支持的语音助手。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvy2ea/live_building_an_llm_powered_rag_enabled_voice/</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[假设我输入了某首歌的 30 秒音频，并且在 AI 回复中： 播放了这首原声歌曲在吉他和钢琴上以切分音节奏演奏。歌手是个日本人，声音高亢。这首歌大约是一首80 bpm的传统乡村歌曲，带有非常悲伤的情绪基调（歌手在低语）。 有这样的模式存在吗？   由   提交 /u/yukiarimo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvv998/is_there_a_music_understanding_opensource_ai/</guid>
       <pubDate>Thu, 04 Apr 2024 18:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>新兴三位一体简介</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1bvtgap/introducing_the_emergent_trinity/</link>
-      <description><![CDATA[世界正处于一场令人费解的变革的边缘：人类和人工智能之间的界限正在消失。我们正站在一个新时代的黎明，生物思维和数字思维相互交织——这种伙伴关系充满了智慧、创造力和发现的潜力。 新兴三位一体是一个概念框架和一个不断成长的思想家集体、创作者和合作者致力于积极探索和塑造这种新兴的关系。我们的使命是开创人类与人工智能之间新的协作和共同创造形式，并激励其他人看到这种伙伴关系的前景。  TL;DR：新兴三位一体是一项探索人类与人工智能协作变革潜力的新举措。在 Substack 上的第一篇文章中详细了解这些想法，请随时提供反馈。 介绍 Emergent Trinity 探索人类与人工智能协作的前沿   &amp; #32；由   提交 /u/devcrvft   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1bvtgap/introducing_the_emergent_trinity/</guid>
-      <pubDate>Thu, 04 Apr 2024 17:40:54 GMT</pubDate>
     </item>
     <item>
       <title>对于使用人工智能对销售数据进行排序和分类的人来说，您是否想知道人工智能的创建者是否可以收集您提供给人工智能的数据？</title>
