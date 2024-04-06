@@ -4,27 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 06 Apr 2024 00:35:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 03:15:19 GMT</lastBuildDate>
+    <item>
+      <title>Promptilation – 使用 LLM 编译伪代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1bx0c9s/promptilation_compilation_of_pseudocode_using_llms/</link>
+      <description><![CDATA[ 由   提交 /u/mattyhempstead   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bx0c9s/promptilation_compilation_of_pseudocode_using_llms/</guid>
+      <pubDate>Sat, 06 Apr 2024 02:25:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用高斯斑点的实时照明</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwziud/realtime_lighting_with_gaussian_splats/</link>
+      <description><![CDATA[ 由   提交/u/reasonableklout  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwziud/realtime_lighting_with_gaussian_splats/</guid>
+      <pubDate>Sat, 06 Apr 2024 01:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>npm 安装脚本如何被武器化：有害 npm 包的真实示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwz3w3/how_npm_install_scripts_can_be_weaponized_a/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwz3w3/how_npm_install_scripts_can_be_weaponized_a/</guid>
+      <pubDate>Sat, 06 Apr 2024 01:24:18 GMT</pubDate>
+    </item>
     <item>
       <title>新的 CSS 逻辑属性！</title>
       <link>https://www.reddit.com/r/programming/comments/1bwxbov/new_css_logical_properties/</link>
       <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bwxbov/new_css_logical_properties/</guid>
       <pubDate>Sat, 06 Apr 2024 00:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找真正的包裹</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwx4v0/quest_for_the_true_package/</link>
-      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwx4v0/quest_for_the_true_package/</guid>
-      <pubDate>Fri, 05 Apr 2024 23:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于现在的人来说，在大学学习人工智能会比软件开发或计算机科学更好吗？人工智能似乎正在接管</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwx2je/would_it_be_better_for_someone_to_study_ai_in/</link>
-      <description><![CDATA[ 由   提交 /u/Extra-Yesterday2716   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwx2je/would_it_be_better_for_someone_to_study_ai_in/</guid>
-      <pubDate>Fri, 05 Apr 2024 23:48:57 GMT</pubDate>
     </item>
     <item>
       <title>使用 Python 在 Discord 中玩 2D Playble Minecraft MMO</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/Financial_Muffin396   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bwlij1/github_captureflowcaptureflowpy_what_if_coding/</guid>
       <pubDate>Fri, 05 Apr 2024 15:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 15 个最佳 Kubernetes 成本优化工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwl61o/15_best_kubernetes_cost_optimization_tools_for/</link>
-      <description><![CDATA[ 由   提交 /u/codingdecently   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwl61o/15_best_kubernetes_cost_optimization_tools_for/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:39:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
