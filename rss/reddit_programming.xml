@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 05 Apr 2024 21:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 00:35:07 GMT</lastBuildDate>
+    <item>
+      <title>新的 CSS 逻辑属性！</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwxbov/new_css_logical_properties/</link>
+      <description><![CDATA[ 由   提交/u/stackoverflooooooow  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwxbov/new_css_logical_properties/</guid>
+      <pubDate>Sat, 06 Apr 2024 00:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找真正的包裹</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwx4v0/quest_for_the_true_package/</link>
+      <description><![CDATA[ 由   提交/u/feross  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwx4v0/quest_for_the_true_package/</guid>
+      <pubDate>Fri, 05 Apr 2024 23:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于现在的人来说，在大学学习人工智能会比软件开发或计算机科学更好吗？人工智能似乎正在接管</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwx2je/would_it_be_better_for_someone_to_study_ai_in/</link>
+      <description><![CDATA[ 由   提交 /u/Extra-Yesterday2716   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwx2je/would_it_be_better_for_someone_to_study_ai_in/</guid>
+      <pubDate>Fri, 05 Apr 2024 23:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 在 Discord 中玩 2D Playble Minecraft MMO</title>
+      <link>https://www.reddit.com/r/programming/comments/1bww0rf/2d_playble_minecraft_mmo_in_discord_using_python/</link>
+      <description><![CDATA[ 由   提交/u/janikFIGHT  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bww0rf/2d_playble_minecraft_mmo_in_discord_using_python/</guid>
+      <pubDate>Fri, 05 Apr 2024 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩剧如何以浪漫又简单的方式为非IT人士解释机器学习。</title>
+      <link>https://www.reddit.com/r/programming/comments/1bwu3c4/how_korean_drama_explain_machine_learning_in_a/</link>
+      <description><![CDATA[ 由   提交/u/ExoticArtemis3435   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1bwu3c4/how_korean_drama_explain_machine_learning_in_a/</guid>
+      <pubDate>Fri, 05 Apr 2024 21:45:12 GMT</pubDate>
+    </item>
     <item>
       <title>概述 |面向 Redux-Saga 用户的 Snap-Fetch 数据获取工具，现在文档，</title>
       <link>https://www.reddit.com/r/programming/comments/1bwr3m6/overview_snapfetch_data_fetching_tool_for/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/codingdecently   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1bwl61o/15_best_kubernetes_cost_optimization_tools_for/</guid>
       <pubDate>Fri, 05 Apr 2024 15:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>释放您 360 度领导力的 3 个秘诀：在您的 SWE 职业生涯中快速成长</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwkfd3/3_tips_to_unlock_your_360_leadership_grow_rapidly/</link>
-      <description><![CDATA[ 由   提交/u/0ff5ec  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwkfd3/3_tips_to_unlock_your_360_leadership_grow_rapidly/</guid>
-      <pubDate>Fri, 05 Apr 2024 15:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将 CI 构建时间从 24 分钟缩短至 8 分钟，并将成本降低 50%</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwk0ae/how_i_improved_our_ci_build_time_from_24mins_to/</link>
-      <description><![CDATA[ 由   提交/u/owaiswiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwk0ae/how_i_improved_our_ci_build_time_from_24mins_to/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 IDE 切换到非等宽字体，感觉更好</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwjhq3/i_switched_to_a_nonmonospace_font_for_ide_and_it/</link>
-      <description><![CDATA[ 由   提交/u/alexkutas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwjhq3/i_switched_to_a_nonmonospace_font_for_ide_and_it/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitQL 0.17.0 支持 REGEXPR 和 RAND</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwjdkl/gitql_0170_supports_regexpr_and_rand/</link>
-      <description><![CDATA[ 由   提交 /u/AmrDeveloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwjdkl/gitql_0170_supports_regexpr_and_rand/</guid>
-      <pubDate>Fri, 05 Apr 2024 14:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Flutter & Dart 进行 Gemin API 测试的源项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1bwhpn3/source_project_of_gemin_api_tests_with_flutter/</link>
-      <description><![CDATA[ 由   提交/u/lyabsdev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1bwhpn3/source_project_of_gemin_api_tests_with_flutter/</guid>
-      <pubDate>Fri, 05 Apr 2024 13:13:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
