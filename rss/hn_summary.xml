@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 07 Apr 2024 03:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 08:43:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]微软已决定在全球范围内分拆 Office 和 Teams，提供新的 [...]</title>
-      <link>https://t.me/hn_summary/83319</link>
-      <description><![CDATA[经过多年的批评，微软在全球范围内分拆 Office 和 Teams
-Microsoft 已决定在全球范围内分拆 Office 和 Teams，提供新版本的 Microsoft 365 和 Office 365，但不提供 Teams 业务协作聊天服务。此举是在欧盟的审查和竞争对手 Slack 的投诉之后做出的。虽然一些分析师认为这一变化不会影响 Office 365 的增长，但微软现在为 Teams 提供独立定价，每位用户每月 5.25 美元。这一决定引发了争议，Slack 指控微软强迫客户安装 Teams，并隐瞒了该服务的真实成本。 Microsoft 还推出了 Microsoft 365 商业版的新变体，其中不包括 Teams。]]></description>
-      <guid>https://t.me/hn_summary/83319</guid>
-      <pubDate>Sun, 07 Apr 2024 03:07:14 GMT</pubDate>
+      <title>[媒体] 在“Designing-data-intense-application-notes.md”中，我深入研究了 cr 的复杂性 [...]</title>
+      <link>https://t.me/hn_summary/83343</link>
+      <description><![CDATA[Designing-data-intense-application-notes.md
+在“设计数据密集应用- Notes.md，”我深入研究了创建可以有效处理大量数据的应用程序的复杂性。从了解不同的数据存储系统到优化数据处理管道，本综合指南涵盖了所有内容。有争议的是，我挑战了传统的数据管理方法，并提出了可以彻底改变我们处理数据的方式的创新解决方案。该资源包含实际示例和富有洞察力的注释，是寻求设计健壮且可扩展的数据密集型应用程序的开发人员的必读之作。通过这些独特且信息丰富的内容探索新的可能性并提高您的数据处理技能。]]></description>
+      <guid>https://t.me/hn_summary/83343</guid>
+      <pubDate>Sun, 07 Apr 2024 08:43:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]研究人员开发出一种单分子晶体管，该晶体管利用量子[...]</title>
-      <link>https://t.me/hn_summary/83318</link>
-      <description><![CDATA[晶体管利用量子干涉
-研究人员开发了一种单分子晶体管，利用量子干涉来提高效率并减少废热。通过精心设计由连接到石墨烯电极的锌卟啉分子制成的晶体管，电子以波状方式流动，从而在晶体管开启时产生相长干涉，在晶体管关闭时产生相消干涉。这种设计最大限度地减少了漏电流，并允许较低的电压开关，从而使晶体管更加高效。尽管这项技术前景广阔，但研究人员警告称，在将其集成到产品中之前还需要做更多的工作。该研究发表在《自然·纳米技术》杂志上。]]></description>
-      <guid>https://t.me/hn_summary/83318</guid>
-      <pubDate>Sun, 07 Apr 2024 03:06:10 GMT</pubDate>
+      <title>[媒体]ElephantSQL宣布将于2025年1月27日关闭服务。</title>
+      <link>https://t.me/hn_summary/83342</link>
+      <description><![CDATA[ElephantSQL 正在关闭
+ElephantSQL 宣布将于 2025 年 1 月 27 日关闭其服务。做出这一决定之际，该公司计划通过 CloudAMQP 专注于 AMQP 协议，他们在该协议上看到了显着的增长和兴趣。现有客户在关闭日期之前可以使用该服务，并且可以在其网站上获取有关关闭过程的全面信息。 ElephantSQL 团队向他们的客户和合作伙伴表示感谢，并向他们保证在过渡期间将继续提供支持。该公司的专业知识现在将致力于推进消息队列和消息流解决方案方面的服务。]]></description>
+      <guid>https://t.me/hn_summary/83342</guid>
+      <pubDate>Sun, 07 Apr 2024 07:43:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我关于新 CSS 逻辑属性的最新帖子中，我详细介绍了 CSS float 的更新 [...]</title>
-      <link>https://t.me/hn_summary/83317</link>
-      <description><![CDATA[新 CSS 逻辑属性
-在我关于新 CSS 逻辑属性的最新文章中，我详细介绍了 CSS 浮动、文本对齐等方面的更新。好消息是 CSS Grid 和 Flexbox 已经使用新方法构建，因此不需要更新。了解具有逻辑属性的工作流乍一看可能很复杂，但实际上非常简单。然而，有一些问题需要考虑，例如像 margin 这样的速记属性无法按预期工作。我在 Github 上提出了如何解决这个问题的建议。总体而言，向逻辑属性的过渡为网页设计和语言支持开辟了新的可能性。看看我的演示并让我知道您的想法！]]></description>
-      <guid>https://t.me/hn_summary/83317</guid>
-      <pubDate>Sun, 07 Apr 2024 02:55:03 GMT</pubDate>
+      <title>【媒体】作为GNU M4的原作者，我不得不说M4一直很糟糕。</title>
+      <link>https://t.me/hn_summary/83341</link>
+      <description><![CDATA[M4 总是很糟糕，我作为原作者这么说GNU M4
+作为GNU M4的原作者，我不得不说M4一直很糟糕。尽管存在缺陷，但它已广泛应用于各种项目中。如果您想使用 Mastodon，请确保在 Web 应用程序上启用 JavaScript，或尝试适用于您的平台的本机应用程序之一。无论您喜欢还是讨厌，M4 都已经在编程世界中留下了自己的印记。]]></description>
+      <guid>https://t.me/hn_summary/83341</guid>
+      <pubDate>Sun, 07 Apr 2024 07:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]开源计费平台 Lago 在 Pivoti 之后获得了 2200 万美元的融资 [...]</title>
-      <link>https://t.me/hn_summary/83316</link>
-      <description><![CDATA[Lago，开源 Stripe 替代品，银行融资 2200 万美元&lt; /a&gt;
-Lago 是一个开源计费平台，在转向营销工具后已获得 2200 万美元的融资。这家总部位于巴黎的初创公司由首席执行官 Anh-Tho Chuong 领导，目标客户是寻求可定制计费解决方案的开发人员。投资者包括 FirstMark 和 Y Combinator，估值为 1 亿美元。 Lago 的意外成功源于黑客新闻的一篇文章，该文章强调了工程师的计费挑战，激发了人们的兴趣和资金。尽管面临来自科技巨头的竞争，Lago 的可扩展方法仍对初创公司有吸引力，例如 Mistral.ai&lt; /a&gt;，拥抱开源精神。未来的计划包括数据分析和支付编排。该公司从营销到计费的独特历程展示了其在拥挤的市场中的适应能力和创新能力。]]></description>
-      <guid>https://t.me/hn_summary/83316</guid>
-      <pubDate>Sun, 07 Apr 2024 02:52:58 GMT</pubDate>
+      <title>Piku 是一个受 dokku 启发的微型 PaaS，它允许您使用 [...]</title>
+      <link>https://t.me/hn_summary/83340</link>
+      <description><![CDATA[Piku – 适用于任何服务器的微型 PaaS&lt; br/&gt;
+Piku 是一个受 dokku 启发的微型 PaaS，它允许您使用 git Push 将代码部署到您自己的服务器。它支持类似 Heroku 的工作流程，自动确定运行时、安装依赖项并基于 Procfile 启动工作进程。 Piku 稳定且维护积极，计划要求 Python 3.7 或更高版本。您可以使用 Piku 在一台计算机上部署多个应用程序，并可以使用 piku-bootstrap 或 cloud-init 完成安装。 piku 助手简化了多个 piku 遥控器和应用程序的管理，使您可以更轻松地处理项目。]]></description>
+      <guid>https://t.me/hn_summary/83340</guid>
+      <pubDate>Sun, 07 Apr 2024 06:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/83315</link>
-      <description><![CDATA[美国、加拿大禁止所有形式的鲑鱼捕捞 7 年阿拉斯加育空地区
-美国和加拿大已对阿拉斯加育空地区实施为期七年的一切形式的鲑鱼捕捞禁令，以重建奇努克鲑鱼种群。该协议的目标是让 71,000 条鱼到达加拿大的产卵场，最低目标是让 42,500 条鱼穿越边境。过度捕捞、孵化场鱼类的竞争、栖息地退化和气候变化被认为是导致鲑鱼种群减少的因素。该协议还允许有限的捕捞机会，并强调种群评估、研究、传统知识和减少兼捕。小鲑鱼/卡马克原住民酋长和其他人认为这是朝着鲑鱼保护迈出的积极一步。]]></description>
-      <guid>https://t.me/hn_summary/83315</guid>
-      <pubDate>Sun, 07 Apr 2024 02:42:51 GMT</pubDate>
+      <title>[媒体] 超过 92,000 个 D-Link NAS 设备被发现有后门帐户，允许 [...]</title>
+      <link>https://t.me/hn_summary/83339</link>
+      <description><![CDATA[超过 92,000 个暴露的 D-Link NAS 设备拥有后门帐户
+超过 92,000 个 D-Link NAS 设备被发现存在后门帐户，允许攻击者在系统上远程执行命令。该漏洞由威胁研究人员“Netsecfish”发现，影响多个报废的 D-Link NAS 型号，并被追踪为 CVE-2024-3273。尽管问题很严重，D-Link 仍表示不再支持这些设备，并建议淘汰它们或用更新的型号替换它们。这些旧设备缺乏自动更新和客户拓展功能，因此很容易受到攻击，这强调了保持硬件最新且不将 NAS 设备暴露在互联网上的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83339</guid>
+      <pubDate>Sun, 07 Apr 2024 06:52:29 GMT</pubDate>
     </item>
     <item>
-      <title>在 Blacksmith，我们了解 Docker 层缓存在 GitHub Actions 工作流程中的重要性。</title>
-      <link>https://t.me/hn_summary/83314</link>
-      <description><![CDATA[缓存为王：GitHub Actions 中的 Docker 层缓存指南&lt; /a&gt;
-在 Blacksmith，我们了解 Docker 层缓存在 GitHub Actions 工作流程中的重要性。在这份综合指南中，我们探讨了三种不同的缓存策略，以帮助您选择最适合您的项目的策略。从使用 GitHub 的本机缓存到利用注册表作为缓存后端，我们详细分析了每种方法的优缺点。令人惊讶的是，注册表缓存后端为 Docker 构建提供了一流的解决方案，支持多阶段构建中的中间层缓存并提供定制选项。请继续关注 Blacksmith 的更多性能提升功能，并联系我们寻求优化您的 CI 工作流程的帮助。]]></description>
-      <guid>https://t.me/hn_summary/83314</guid>
-      <pubDate>Sun, 07 Apr 2024 02:00:36 GMT</pubDate>
+      <title>[媒体] PM2 是 Node.js 应用程序的生产流程管理器，具有内置负载巴拉 [...]</title>
+      <link>https://t.me/hn_summary/83338</link>
+      <description><![CDATA[PM2：具有内置负载均衡器的生产流程管理器
+PM2 是 Node.js 应用程序的生产流程管理器，具有内置负载均衡器，允许应用程序保持活动状态、无需停机即可重新加载，并简化系统管理任务。它支持从 Node.js 12.X 开始的所有 Node.js 版本，并且适用于 Linux、macOS 和 Windows。 PM2 提供的功能包括用于负载平衡和零停机重新加载的集群模式、pm2-runtime 的容器支持、主机监控​​、基于终端的监控、日志管理和启动脚本生成。它可以通过 npm 轻松安装并无缝更新。 PM2+ 提供额外的监控功能，用于管理跨服务器的应用程序。]]></description>
+      <guid>https://t.me/hn_summary/83338</guid>
+      <pubDate>Sun, 07 Apr 2024 06:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，佛蒙特州里士满市的一名镇雇员降低了氟化物含量 [...]</title>
-      <link>https://t.me/hn_summary/83313</link>
-      <description><![CDATA[一名城镇雇员多年来一直降低水中的氟化物 
-令人惊讶的是，佛蒙特州里士满市的一名镇雇员在公众不知情的情况下降低了饮用水中的氟化物含量，引发了人们对牙齿健康的争议和担忧。做出这一决定是由于对氟化物的来源和建议含量的担忧，该员工出于公共健康的考虑。此举震惊了居民和医生，他们强调了氟化物在预防牙齿疾病方面的重要性。该员工后来为争议道歉，水务委员会投票决定将水恢复到全面氟化。该事件凸显了水管理中透明度和遵守公共卫生标准的重要性。]]></description>
-      <guid>https://t.me/hn_summary/83313</guid>
-      <pubDate>Sun, 07 Apr 2024 01:49:29 GMT</pubDate>
+      <title>在《转化精神病学》上发表的一项开创性研究中，研究人员发现 [...]</title>
+      <link>https://t.me/hn_summary/83337</link>
+      <description><![CDATA[研究发现，针对蜘蛛恐惧症的暴露疗法可以有益于不相关的恐惧
+在《转化精神病学》上发表的一项开创性研究中，研究人员发现，针对蜘蛛恐惧症的暴露疗法也可以有益于不相关的恐惧，例如恐高症。这种疗法不仅可以减少对其所针对的特定事物的恐惧，还可以通过称为恐惧泛化的过程减少对类似事物的恐惧。该研究对 50 名因害怕蜘蛛而接受暴露疗法的人进行了抽样调查，结果显示，他们不仅对蜘蛛而且对高度的恐惧和回避行为显着减少。这项研究强调了暴露疗法在治疗各种恐惧和焦虑症方面的广泛而有效的影响。]]></description>
+      <guid>https://t.me/hn_summary/83337</guid>
+      <pubDate>Sun, 07 Apr 2024 06:45:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]橙色蒸汽漏斗是纽约的象征。</title>
-      <link>https://t.me/hn_summary/83312</link>
-      <description><![CDATA[橙色蒸汽漏斗是纽约的象征。它们有什么用？
-点缀在纽约市天际线的标志性橙色蒸汽漏斗不仅仅是为了展示，它们还是该市蒸汽分配系统的重要组成部分。该系统的历史可以追溯到 142 年前，是美国最古老、规模最大的系统，拥有 105 英里的管道，在高压和极端温度下向曼哈顿的建筑物输送蒸汽。联合爱迪生公司利用该网络为城市提供供暖、制冷和其他商业服务。这些蒸汽烟囱不仅是纽约的象征，也是纽约基础设施的重要组成部分。]]></description>
-      <guid>https://t.me/hn_summary/83312</guid>
-      <pubDate>Sun, 07 Apr 2024 01:07:15 GMT</pubDate>
+      <title>作者是 GNU 项目的长期贡献者，讨论了 GNU A [...]</title>
+      <link>https://t.me/hn_summary/83336</link>
+      <description><![CDATA[GNU Autotools 面临的优势、劣势、机遇和威胁
+作者是 GNU 项目的长期贡献者，他讨论了 GNU Autotools 面临的挑战，包括贡献者和用户的热情下降。时隔八年之后，最近发布的 Autoconf 2.70 凸显了 Autotools 生态系统中更深层次的问题。虽然 Autotools 具有架构方法和互操作性等优点，但知识过时以及与其他工具缺乏协调等缺点阻碍了其有效性。作者探索了更新的机会，例如对系统编程和交叉编译的兴趣，但也承认来自 CMake 和 Meson 等竞争项目的威胁。 Autotools 的未来取决于解决这些问题并寻找新的贡献者和资金。 （根据 91% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83336</guid>
+      <pubDate>Sun, 07 Apr 2024 06:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在本文中，作者探索了 Navier-S 的规范哈密顿公式 [...]</title>
-      <link>https://t.me/hn_summary/83311</link>
-      <description><![CDATA[纳维-斯托克斯问题的规范哈密顿公式 
-在本文中，作者探索了纳维-斯托克斯问题的规范哈密顿公式，承认粘性流体固有的非哈密顿性质。通过考虑与传统纳维-斯托克斯方程等效的高阶问题，他们展示了一种令人惊讶的寻找哈密顿公式的方法。通过一个涉及粘性介质中的集总质量的激励性示例，他们展示了如何将控制方程的阶数加倍并添加辅助条件如何将非哈密顿问题转化为哈密顿问题。这种独特的方法揭示了纳维-斯托克斯问题的数学结构，为其表述提供了新的视角。 （根据故事文本的 11% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83311</guid>
-      <pubDate>Sun, 07 Apr 2024 00:58:08 GMT</pubDate>
+      <title>[媒体] 在这篇开创性的论文中，本杰明·莱姆金 (Benjamin Lemkin) 介绍了一种绕过 fi [...]</title>
+      <link>https://t.me/hn_summary/83335</link>
+      <description><![CDATA[利用幻觉绕过 RLHF 过滤器
+在这篇开创性的论文中，Benjamin Lemkin 介绍了一种绕过 GPT4 等大型语言模型过滤器的新方法。通过诱导涉及反向文本的幻觉，模型恢复到单词桶，有效地暂停其过滤器。这一漏洞挑战了传统的基于人类反馈过程的强化学习，凸显了法学硕士的一个根本漏洞。与之前的越狱不同，这种方法不依赖于指示模型覆盖其策略，这使其成为一种独特且可能存在争议的方法。莱姆金的工作为理解法学硕士在幻觉期间的内部运作开辟了新的可能性。]]></description>
+      <guid>https://t.me/hn_summary/83335</guid>
+      <pubDate>Sun, 07 Apr 2024 06:39:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Blissymbols，也称为 Blissymbolics，是一个构建的表意文字系统 [...]</title>
-      <link>https://t.me/hn_summary/83310</link>
-      <description><![CDATA[Blissymbols – 表意文字书写系统
-Blissymbols，也称为 Blissymbolics，是由 Charles K. Bliss 在 1949 年创建的一种构造表意文字系统。它由数百个代表概念的符号组成，可以组合起来创建新的符号。与大多数书写系统不同，极乐符号不对应于任何口语的声音。该系统的开发是为了帮助残疾人士进行沟通。然而，对其使用和解释产生了争议，导致了冲突和法律纠纷。尽管如此，Blissymbolics 已成功用于向不同国家的残疾人教授沟通技巧。 （根据故事文本的 61% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83310</guid>
-      <pubDate>Sun, 07 Apr 2024 00:48:01 GMT</pubDate>
+      <title>[媒体]频域是真实的地方吗？</title>
+      <link>https://t.me/hn_summary/83334</link>
+      <description><![CDATA[频域是真实的地方吗？
+频域是一个令人着迷的数学领域，其中信号被转换为正弦波幅度和相位。但这个域名的真实性如何？离散傅里叶变换 (DFT) 在信号处理中至关重要，但它是否揭示了有关宇宙的更深层次的真相？本文探讨了使用沃尔什矩阵构建一个只有方波是实数的频域。通过操纵哈达玛矩阵，创建“离散方波变换”，将信号解构为纯方波。反函数证实了这种变换，展示了超越传统正弦波的频域独特视角。 （根据 96% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/83334</guid>
+      <pubDate>Sun, 07 Apr 2024 06:01:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
