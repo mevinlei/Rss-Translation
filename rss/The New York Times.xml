@@ -4,7 +4,28 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:08:25 GMT</lastBuildDate>
+    <item>
+      <title>尼加拉瓜就德国向以色列供应武器问题向国际法院提起诉讼</title>
+      <link>https://www.nytimes.com/2024/04/08/world/middleeast/nicaragua-germany-world-court-israel-arms.html</link>
+      <description><![CDATA[国际法院审理的一个新案件认为，德国政府正在加沙战争中进一步实施种族灭绝。]]></description>
+      <guid>https://www.nytimes.com/2024/04/08/world/middleeast/nicaragua-germany-world-court-israel-arms.html</guid>
+      <pubDate>Mon, 08 Apr 2024 09:08:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>耶伦认为中国谈判无突破而“还有更多工作要做”</title>
+      <link>https://www.nytimes.com/2024/04/08/business/economy/yellen-china-us-exports.html</link>
+      <description><![CDATA[财政部长耶伦在中国受到热烈欢迎，但显然双方之间的信任程度并不深厚。]]></description>
+      <guid>https://www.nytimes.com/2024/04/08/business/economy/yellen-china-us-exports.html</guid>
+      <pubDate>Mon, 08 Apr 2024 08:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在人质集会上，纳德勒呼吁加沙援助后遭到嘘声</title>
+      <link>https://www.nytimes.com/2024/04/07/world/middleeast/hostages-rally-nyc-nadler.html</link>
+      <description><![CDATA[长期任职的犹太民主党人、以色列的支持者杰罗德·纳德勒(Jerrold Nadler)在纽约一次呼吁释放加沙人质的集会上发表讲话，得到了不同的回应。]]></description>
+      <guid>https://www.nytimes.com/2024/04/07/world/middleeast/hostages-rally-nyc-nadler.html</guid>
+      <pubDate>Mon, 08 Apr 2024 08:03:47 GMT</pubDate>
+    </item>
     <item>
       <title>“三体问题”：社交媒体对中国的反应</title>
       <link>https://www.nytimes.com/2024/04/08/business/3-body-problem-china-reaction.html</link>
@@ -20,32 +41,11 @@
       <pubDate>Mon, 08 Apr 2024 02:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>尽管遭到科技行业的抵制，马里兰州还是通过了两项主要隐私法案</title>
-      <link>https://www.nytimes.com/2024/04/07/technology/maryland-children-privacy-laws-technology.html</link>
-      <description><![CDATA[其中一项法案要求 Instagram 和 TikTok 等应用程序优先考虑年轻人的安全，另一项法案将限制消费者数据的收集。]]></description>
-      <guid>https://www.nytimes.com/2024/04/07/technology/maryland-children-privacy-laws-technology.html</guid>
-      <pubDate>Mon, 08 Apr 2024 00:14:02 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普在筹款会上表示，他希望来自“好”国家的移民</title>
       <link>https://www.nytimes.com/2024/04/07/us/politics/trump-immigrants-nice-countries.html</link>
       <description><![CDATA[在集会上，唐纳德·特朗普经常对来自非洲、亚洲和中东等一系列国家的移民表示哀叹，因为他引发了人们对边境激增的担忧。]]></description>
       <guid>https://www.nytimes.com/2024/04/07/us/politics/trump-immigrants-nice-countries.html</guid>
       <pubDate>Sun, 07 Apr 2024 23:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争持续六个月，以色列从加沙南部撤军</title>
-      <link>https://www.nytimes.com/2024/04/07/world/middleeast/israel-troops-gaza.html</link>
-      <description><![CDATA[由于冲突明显陷入僵局，国际调解员聚集在开罗，希望促成暂时停火。]]></description>
-      <guid>https://www.nytimes.com/2024/04/07/world/middleeast/israel-troops-gaza.html</guid>
-      <pubDate>Sun, 07 Apr 2024 23:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>在人质集会上，纳德勒呼吁加沙援助后遭到嘘声</title>
-      <link>https://www.nytimes.com/2024/04/07/world/middleeast/hostages-rally-nyc-nadler.html</link>
-      <description><![CDATA[长期任职的犹太民主党人、以色列的支持者杰罗德·纳德勒(Jerrold Nadler)在纽约一次呼吁释放加沙人质的集会上发表讲话，得到了不同的回应。]]></description>
-      <guid>https://www.nytimes.com/2024/04/07/world/middleeast/hostages-rally-nyc-nadler.html</guid>
-      <pubDate>Sun, 07 Apr 2024 22:45:38 GMT</pubDate>
     </item>
     <item>
       <title>找不到 Eclipse 眼镜？这是该怎么做。</title>
@@ -92,7 +92,7 @@
     <item>
       <title>高智商。小罗伯特·F·肯尼迪的胡言乱语</title>
       <link>https://www.nytimes.com/2024/04/06/opinion/rfk-jr-trump-biden.html</link>
-      <description><![CDATA[他对自己适合领导的夸大感觉不仅仅是妄想。这很危险。]]></description>
+      <description><![CDATA[他对自己适合领导的夸大感不仅仅是妄想。这很危险。]]></description>
       <guid>https://www.nytimes.com/2024/04/06/opinion/rfk-jr-trump-biden.html</guid>
       <pubDate>Sat, 06 Apr 2024 11:00:32 GMT</pubDate>
     </item>

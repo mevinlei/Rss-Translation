@@ -4,9 +4,72 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 09:11:50 GMT</lastBuildDate>
     <item>
-      <title>乌克兰核电站无人机袭击引发风险警告</title>
+      <title>印度和巴基斯坦就定点清除针锋相对</title>
+      <link>https://www.bbc.co.uk/news/world-asia-india-68758637</link>
+      <description><![CDATA[一家报纸指责印度参与了巴基斯坦至少 20 起法外处决事件，紧张局势加剧。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-asia-india-68758637</guid>
+      <pubDate>Mon, 08 Apr 2024 08:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓦拉德卡 (Varadkar) 作为爱尔兰总理最后一次访问北爱尔兰</title>
+      <link>https://www.bbc.co.uk/news/uk-northern-ireland-68740682</link>
+      <description><![CDATA[他正在出席两年多以来的首次南北部长理事会会议。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-northern-ireland-68740682</guid>
+      <pubDate>Mon, 08 Apr 2024 08:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>最难的老头在非洲挑战后不知所措</title>
+      <link>https://www.bbc.com/news/articles/c51dy5603zxo</link>
+      <description><![CDATA[拉斯·库克表示，在完成这项艰巨的挑战后，“很难思考整件事”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c51dy5603zxo</guid>
+      <pubDate>Mon, 08 Apr 2024 08:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>J Cole 为贬低 Kendrick Lamar 歌曲而道歉</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68759433</link>
+      <description><![CDATA[这位说唱歌手表示，他因在歌曲《7 Minute Drill》中批评他的拉马尔而感到“精神上很糟糕”。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68759433</guid>
+      <pubDate>Mon, 08 Apr 2024 08:21:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾米怀恩豪斯电影：“狗仔队是恶棍”</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-68667064</link>
+      <description><![CDATA[一部新传记片的导演和主演讨论了拍摄这位歌手的职业生涯和动荡的生活。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-68667064</guid>
+      <pubDate>Mon, 08 Apr 2024 08:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>前外交官称，废除“精英主义”外交部</title>
+      <link>https://www.bbc.co.uk/news/uk-68756259</link>
+      <description><![CDATA[建议设立一个拥有现代化办公场所和更广泛职权范围的新国际事务部。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68756259</guid>
+      <pubDate>Mon, 08 Apr 2024 08:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着以色列撤军，巴勒斯坦人返回汗尤尼斯</title>
+      <link>https://www.bbc.co.uk/news/live/world-middle-east-68759479</link>
+      <description><![CDATA[经过以色列数月的轰炸后，加沙南部的城市和周边地区大部分被毁。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/world-middle-east-68759479</guid>
+      <pubDate>Mon, 08 Apr 2024 07:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>母亲被刺身亡引发全国搜捕</title>
+      <link>https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68740969</link>
+      <description><![CDATA[哈比布尔·马苏姆因周六在布拉德福德袭击一名推婴儿车的母亲而被通缉。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68740969</guid>
+      <pubDate>Mon, 08 Apr 2024 07:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>新西兰因“不可持续”移民收紧签证规定</title>
+      <link>https://www.bbc.com/news/articles/c25l0vxpnd8o</link>
+      <description><![CDATA[大多数工作签证的申请人现在必须满足最低技能和工作经验要求。]]></description>
+      <guid>https://www.bbc.com/news/articles/c25l0vxpnd8o</guid>
+      <pubDate>Mon, 08 Apr 2024 06:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰工厂无人机袭击引发“重大核事故”警告</title>
       <link>https://www.bbc.co.uk/news/world-europe-68757082</link>
       <description><![CDATA[国际原子能机构警告俄罗斯和乌克兰不要攻击核设施。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68757082</guid>
@@ -27,39 +90,11 @@
       <pubDate>Mon, 08 Apr 2024 05:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>前高级外交官称废除外交部</title>
-      <link>https://www.bbc.co.uk/news/uk-68756259</link>
-      <description><![CDATA[建议设立一个拥有现代化办公场所和更广泛职权范围的新国际事务部。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68756259</guid>
-      <pubDate>Mon, 08 Apr 2024 04:55:13 GMT</pubDate>
-    </item>
-    <item>
       <title>观看：伦敦火车站电动自行车爆炸</title>
       <link>https://www.bbc.co.uk/news/uk-england-london-68744317</link>
       <description><![CDATA[伦敦消防队表示，电动自行车和电动滑板车火灾是伦敦增长最快的火灾风险。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-england-london-68744317</guid>
       <pubDate>Mon, 08 Apr 2024 04:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>周一早上的出行受到火车罢工的影响</title>
-      <link>https://www.bbc.co.uk/news/business-61634959</link>
-      <description><![CDATA[16 家公司的铁路工人正在采取罢工行动，但地铁罢工已被取消。]]></description>
-      <guid>https://www.bbc.co.uk/news/business-61634959</guid>
-      <pubDate>Mon, 08 Apr 2024 03:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚男孩自杀后性勒索被捕</title>
-      <link>https://www.bbc.co.uk/news/world-australia-68720247</link>
-      <description><![CDATA[警方称，尼日利亚有两人威胁要将露骨照片发送给这名青少年的家人。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-australia-68720247</guid>
-      <pubDate>Mon, 08 Apr 2024 03:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列减少加沙南部驻军人数</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68755724</link>
-      <description><![CDATA[以色列军方表示，他们已经完成了在汗尤尼斯的任务，其部队将轮流撤离。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68755724</guid>
-      <pubDate>Mon, 08 Apr 2024 02:51:15 GMT</pubDate>
     </item>
     <item>
       <title>两年后，布查的伤口仍然未愈合</title>
@@ -69,46 +104,11 @@
       <pubDate>Mon, 08 Apr 2024 00:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>波音飞机发动机盖脱落后进行调查</title>
-      <link>https://www.bbc.co.uk/news/business-68758088</link>
-      <description><![CDATA[西南航空的这架航班起飞后不久就不得不返回丹佛国际机场。]]></description>
-      <guid>https://www.bbc.co.uk/news/business-68758088</guid>
-      <pubDate>Sun, 07 Apr 2024 23:29:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>妈妈将婴儿推入婴儿车后被刺伤</title>
-      <link>https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68756185</link>
-      <description><![CDATA[一名妇女在光天化日之下被刺死后，警方正在寻找哈比布尔·马苏姆。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-bradford-west-yorkshire-68756185</guid>
-      <pubDate>Sun, 07 Apr 2024 15:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>BBC 参观哈马斯袭击后废弃的尼尔奥兹基布兹废墟</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68744777</link>
-      <description><![CDATA[哈马斯袭击六个月后，BBC 的杰里米·鲍文 (Jeremy Bowen) 访问了尼尔·奥兹基布兹。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68744777</guid>
-      <pubDate>Sun, 07 Apr 2024 04:45:42 GMT</pubDate>
-    </item>
-    <item>
       <title>在英国哪里可以看到周一的日食？</title>
       <link>https://www.bbc.co.uk/news/uk-68731785</link>
       <description><![CDATA[英国人下周也可以看到美国发生的日食]]></description>
       <guid>https://www.bbc.co.uk/news/uk-68731785</guid>
       <pubDate>Sun, 07 Apr 2024 03:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>六个月过去了，以色列距离消灭哈马斯还有多远？</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68745681</link>
-      <description><![CDATA[BBC verify 评估了以色列在加沙地带军事行动期间摧毁哈马斯这一关键战争目标背后的证据。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68745681</guid>
-      <pubDate>Sat, 06 Apr 2024 00:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>国家养老金涨了多少？</title>
-      <link>https://www.bbc.co.uk/news/business-53082530</link>
-      <description><![CDATA[根据政府的“三重锁定”承诺，养老金领取者的付款将增加 8.5%。]]></description>
-      <guid>https://www.bbc.co.uk/news/business-53082530</guid>
-      <pubDate>Fri, 05 Apr 2024 10:42:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
