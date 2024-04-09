@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Apr 2024 09:09:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 12:15:45 GMT</lastBuildDate>
     <item>
       <title>开放用户界面</title>
       <link>https://www.producthunt.com/posts/openui</link>
@@ -118,6 +118,20 @@
       <pubDate>Mon, 08 Apr 2024 10:14:42 GMT</pubDate>
     </item>
     <item>
+      <title>Spotify 的 AI 播放列表</title>
+      <link>https://www.producthunt.com/posts/ai-playlists-by-spotify</link>
+      <description><![CDATA[
+            输入提示，让 AI 构建您的播放列表
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-playlists-by-spotify</guid>
+      <pubDate>Mon, 08 Apr 2024 08:55:36 GMT</pubDate>
+    </item>
+    <item>
       <title>霍伊</title>
       <link>https://www.producthunt.com/posts/hoy-953471f9-dc97-4c7b-9c95-76288513d19d</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/odaptos</guid>
       <pubDate>Thu, 07 Mar 2024 10:43:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉特罗尔</title>
-      <link>https://www.producthunt.com/posts/gitroll</link>
-      <description><![CDATA[
-            说话很便宜，给我看代码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gitroll</guid>
-      <pubDate>Sat, 13 Jan 2024 17:02:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
