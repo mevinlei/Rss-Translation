@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 21:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:00:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体]研究人员发现触摸对身体和[...]都有显着的好处</title>
-      <link>https://t.me/hn_summary/83583</link>
-      <description><![CDATA[研究人员表示，触摸可以减轻疼痛、抑郁和焦虑
-研究人员发现触摸对身心健康都有显着的好处。对 212 项研究的综合分析表明，触摸可以减轻成人和儿童的疼痛、抑郁和焦虑，并增加新生儿的体重增加。令人惊讶的是，研究发现，社交机器人或加重毯子等物体的触摸与其他人类的触摸具有类似的好处。这项研究表明，触摸干预可能很有价值，特别是在身体接触有限的情况下，例如在 Covid-19 大流行期间。这些发现也可能为进一步探索触摸疗法的潜在益处铺平道路。]]></description>
-      <guid>https://t.me/hn_summary/83583</guid>
-      <pubDate>Mon, 08 Apr 2024 21:07:19 GMT</pubDate>
+      <title>[媒体] Fastmonitor.io 提供连续的页面速度和稳定性监控，以帮助网站 [...]</title>
+      <link>https://t.me/hn_summary/83608</link>
+      <description><![CDATA[显示 HN：连续页面速度和稳定性监控&lt; br/&gt;
+Fastmonitor.io 提供持续的页面速度和稳定性监控，以帮助网站所有者确保在网络流量方面每一毫秒都很重要。通过免费监控网站速度，用户可以优化网站，防止流量浪费，无论是来自广告、搜索引擎优化还是社交媒体。对于任何希望最大限度地提高在线影响力并充分利用网络流量的人来说，此工具都是必不可少的。]]></description>
+      <guid>https://t.me/hn_summary/83608</guid>
+      <pubDate>Tue, 09 Apr 2024 00:00:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]经典的Win32 ListView如何处理增量搜索？</title>
-      <link>https://t.me/hn_summary/83582</link>
-      <description><![CDATA[经典的 Win32 ListView 如何处理增量搜索？ 
-经典的Win32 ListView支持增量搜索，允许用户通过键入来搜索项目。但是，用户可能期望两种不同的搜索模式：一种是重复键入相同的字母来选择以该字母开头的项目，另一种是键入不同的字母根据键入的前缀来选择项目。 Win32 ListView 巧妙地结合了这两种模式：重复键入相同的字母会选择以该字母开头的项目，而键入不同的字母会根据键入的前缀选择项目。这种独特的方法可以为用户带来更直观、更灵活的搜索体验。]]></description>
-      <guid>https://t.me/hn_summary/83582</guid>
-      <pubDate>Mon, 08 Apr 2024 21:06:16 GMT</pubDate>
+      <title>在 images.wur.nl 上探索 1.18k 幅植物根系图画集。</title>
+      <link>https://t.me/hn_summary/83607</link>
+      <description><![CDATA[1.18k植物根系图
+在 images.wur 上探索 1.18k 幅植物根系图集。 nl。这些详细的插图展示了支持植物生长和发育的复杂根系网络。从简单的图表到复杂的结构，每幅图画都提供了对土壤下隐藏世界的独特视角。使 Javascript 能够充分利用这个迷人集合的交互功能。]]></description>
+      <guid>https://t.me/hn_summary/83607</guid>
+      <pubDate>Mon, 08 Apr 2024 23:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Antonymph 是一种创新的视听体验，可以通过您的 br [...]</title>
-      <link>https://t.me/hn_summary/83581</link>
-      <description><![CDATA[Antonymph：使用浏览器的视听体验
-Antonymph 是一种创新的视听体验，可以通过浏览器访问 lyra.horse&lt; /a&gt;.这个独特的项目为用户提供了一段令人着迷的探索和享受之旅。通过单击 Alt 键强制停止体验，用户可以控制与内容的交互。该网站鼓励对随附的 YouTube 视频提供反馈和评论，营造社区感和参与感。总体而言，Antonymph 提供了一种创造性的、身临其境的体验，一定会吸引和娱乐用户。]]></description>
-      <guid>https://t.me/hn_summary/83581</guid>
-      <pubDate>Mon, 08 Apr 2024 21:03:43 GMT</pubDate>
+      <title>在人工智能模型快速发展的世界中，对开放大型语言模型（L [...]</title>
+      <link>https://t.me/hn_summary/83606</link>
+      <description><![CDATA[Hello OLMo：真正开放的LLM
+在人工智能模型快速发展的世界中，对开放大型语言模型（LLM）的需求猛增。艾伦人工智能研究所 (AI2) 发布了 OLMo 7B，这是一个真正开放的、最先进的大型语言模型，以及预训练数据和训练代码。这使得研究人员和开发人员能够共同推进语言模型的科学发展。 OLMo 提供训练数据、模型权重和评估方法的完全透明性，从而获得更精确、环保和持久的结果。通过让 OLMo 全面向公众开放，AI2 旨在构建世界上最好的开放语言模型，并推广负责任的人工智能技术。]]></description>
+      <guid>https://t.me/hn_summary/83606</guid>
+      <pubDate>Mon, 08 Apr 2024 23:40:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]埃隆·马斯克 (Elon Musk) 今天是创新和争议的中心，马斯克的大胆想法和 [...]</title>
-      <link>https://t.me/hn_summary/83580</link>
-      <description><![CDATA[埃隆·马斯克今日
-今天的埃隆·马斯克是创新和争议的中心，马斯克的大胆想法和言论塑造着未来。从Twitter的十亿用户到特斯拉的精细政策，马斯克的愿景始终具有前瞻性。他计划创建“一切应用程序”并用火箭燃料解决气候变化问题。令人惊讶的是，他相信儿童对 COVID-19 免疫，而且特斯拉可以充当船。马斯克对火星殖民和可再生能源的计划雄心勃勃，而他对电动溜冰鞋和糖果公司的想法却出人意料。无论爱他还是恨他，埃隆·马斯克都是科技界不可忽视的力量。 （根据故事文本的 67% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/83580</guid>
-      <pubDate>Mon, 08 Apr 2024 21:01:09 GMT</pubDate>
+      <title>[媒体]日本顶级电信公司和报纸已发出警告 [...]</title>
+      <link>https://t.me/hn_summary/83605</link>
+      <description><![CDATA[“社会秩序可能崩溃”：日本两家顶级公司担心不受控制人工智能
+日本最大的电信公司和报纸对不受控制的人工智能发出警告，担心它可能导致社会崩溃。该提案敦促官员修改有关人工智能的法律，因为它已经对用户产生了负面影响。这些公司强调了如果人工智能不受控制，信任、民主和社会秩序将面临风险的担忧。他们呼吁政府采取行动并制定更强有力的法律来保护选举、国家安全和版权。在承认人工智能重要性的同时，他们强调监管的必要性。该报告还提到欧盟的人工智能法案可以作为其他国家的潜在模式。订阅 Eye on AI 时事通讯，随时了解人工智能对业务的影响。]]></description>
+      <guid>https://t.me/hn_summary/83605</guid>
+      <pubDate>Mon, 08 Apr 2024 23:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]法国凭借尖端军用无人机在国防工业领域掀起波澜 [...]</title>
-      <link>https://t.me/hn_summary/83579</link>
-      <description><![CDATA[法国拥有每个人都渴望得到的军用无人机雷达 
-法国凭借其尖端军用无人机雷达技术在国防工业中掀起波澜，引起了世界各国的关注。法国计划将国防预算增加一倍，希望加强其工业基础并加强武装部队。该雷达系统因其先进的功能和增强军事行动的潜力而引起了人们的极大兴趣。这一发展凸显了法国对创新和安全的承诺，使其成为全球国防市场的关键参与者。]]></description>
-      <guid>https://t.me/hn_summary/83579</guid>
-      <pubDate>Mon, 08 Apr 2024 20:58:36 GMT</pubDate>
+      <title>[媒体]戏剧性的驾驶舱音频捕捉到西南航空公司飞行员在发生事故后宣布紧急情况 [...]</title>
+      <link>https://t.me/hn_summary/83604</link>
+      <description><![CDATA[戏剧性音频：西南航空公司飞行员在发动机盖撕裂后宣布紧急情况
+戏剧性的驾驶舱音频捕捉到西南航空飞行员在起飞后不久发动机盖脱落后宣布紧急情况。乘客和空乘人员听到一声巨响，视频片段显示机盖在风中飘动。飞行员计划襟翼打开着陆，但损坏的发动机撞到了其中一个襟翼。飞机安全着陆，没有人员受伤。该事件是由于 2017 年制造的飞机出现机械问题造成的。波音公司面临着安全问题，最近阿拉斯加航空的一架波音 737 MAX 9 飞机在飞行途中发生近乎灾难性的井喷事故，导致了刑事调查和 10 亿美元的诉讼。]]></description>
+      <guid>https://t.me/hn_summary/83604</guid>
+      <pubDate>Mon, 08 Apr 2024 23:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GNU Stow 用户注意！</title>
-      <link>https://t.me/hn_summary/83578</link>
-      <description><![CDATA[GNU Stow 需要一个共同维护者
-GNU Stow 用户注意！我们需要一个共同维护者来帮助开发和维护这个重要的工具。如果您对开源软件充满热情并且拥有 GNU Stow 的经验，我们很乐意邀请​​您加入。您的贡献将受到社区的高度赞赏。对需要解决的项目的优先级进行投票，帮助塑造 GNU Stow 的未来。加入我们，为软件开发领域带来改变。让我们共同努力，确保 GNU Stow 不断取得成功。]]></description>
-      <guid>https://t.me/hn_summary/83578</guid>
-      <pubDate>Mon, 08 Apr 2024 20:56:03 GMT</pubDate>
+      <title>[媒体] 超过 92,000 台报废的 D-Link NAS 设备正在成为攻击者的主动攻击目标，例如 [...]</title>
+      <link>https://t.me/hn_summary/83603</link>
+      <description><![CDATA[92,000 个 D-Link NAS 设备中的严重 RCE 漏洞现已被攻击
+攻击者利用关键的远程代码执行零日漏洞积极攻击超过 92,000 个报废的 D-Link NAS 设备。该漏洞通过硬编码帐户和命令注入问题促成，允许威胁参与者部署 Mirai 恶意软件变体以进行大规模 DDoS 攻击。尽管 D-Link 不再支持这些设备，但他们发布了安全公告，敦促用户淘汰或更换它们。这些设备缺乏自动更新功能，使所有者容易受到持续攻击。 D-Link 警告不要在线暴露 NAS 设备，因为它们是勒索软件攻击的常见目标。]]></description>
+      <guid>https://t.me/hn_summary/83603</guid>
+      <pubDate>Mon, 08 Apr 2024 23:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]物理学家在开发核时钟方面取得了重大进展，核时钟是一种高精度 [...]</title>
-      <link>https://t.me/hn_summary/83577</link>
-      <description><![CDATA[物理学家在制造核钟方面迈出了重要一步 
-物理学家在开发核钟方面取得了重大进展，核钟是一种高度精确的计时装置，可能会彻底改变计时领域。通过测量原子核而不是电子的振动，这些时钟可能比当前的原子钟更精确。这一突破可能会对 GPS 和电信等技术产生深远的影响。这项研究仍处于早期阶段，但核钟的潜力既令人兴奋又充满争议，因为它挑战了我们目前对计时的理解。请继续关注这一突破性发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/83577</guid>
-      <pubDate>Mon, 08 Apr 2024 20:53:30 GMT</pubDate>
+      <title>[媒体]特斯拉已经解决了一起备受瞩目的致命事故案件，其中自动驾驶仪的壮举[...]</title>
+      <link>https://t.me/hn_summary/83602</link>
+      <description><![CDATA[特斯拉与家人达成和解，家人称自动驾驶仪导致了他的致命事故
+特斯拉已经解决了一起备受瞩目的案件，该案件涉及自动驾驶功能启用时发生的致命事故。和解条款并未披露，但审判定于周一开始。受害者沃尔特·黄 (Walter Huang) 的家人声称，特斯拉过度推销了 Autopilot 的功能，导致了致命事故。此次和解协议达成对特斯拉来说正值关键时刻，该公司因其自动驾驶技术而面临审查。该案例凸显了有关自动驾驶系统安全性和有效性的持续争论。和解后特斯拉股价上涨 5%。]]></description>
+      <guid>https://t.me/hn_summary/83602</guid>
+      <pubDate>Mon, 08 Apr 2024 23:30:30 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]消费者报告警告说，草药和香料可能含有危险的重金属，例如l [...]</title>
-      <link>https://t.me/hn_summary/83576</link>
-      <description><![CDATA[香草和香料可能含有砷、镉和铅
-《消费者报告》警告说，草药和香料可能含有铅、砷和镉等危险重金属，随着时间的推移，这些重金属会对健康产生严重影响。虽然由于环境中自然存在这些污染物而很难完全消除，但可以努力限制接触。令人惊讶的是，即使食谱中少量的某些香料也可能导致重金属摄入。研究表明香料和草药中的铅含量很高，导致儿童铅中毒。不过，CR的检测显示，许多香料品牌的重金属含量均达到安全水平，这表明污染可以降到最低。]]></description>
-      <guid>https://t.me/hn_summary/83576</guid>
-      <pubDate>Mon, 08 Apr 2024 20:50:56 GMT</pubDate>
+      <title>[媒体]无人机袭击乌克兰扎波罗热核电站，造成严重影响 [...]</title>
+      <link>https://t.me/hn_summary/83601</link>
+      <description><![CDATA[无人机袭击乌克兰扎波罗热核电站现场
+国际原子能机构（IAEA）表示，无人机袭击了乌克兰扎波罗热核电站，对核安全构成严重威胁。这是自 2022 年 11 月以来首次针对欧洲最大核电站的直接军事攻击，违反了保护此类设施的既定原则。虽然没有关键系统受到损坏，但该事件凸显了冲突期间持续存在的风险。国际原子能机构专家确认了现场的实际影响和人员伤亡，强调需要停止对核设施的攻击，以防止潜在的灾难。该事件凸显了维护核安全原则的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83601</guid>
+      <pubDate>Mon, 08 Apr 2024 23:22:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇文章中，作者讨论了完美主义对软件开发的影响[...]</title>
-      <link>https://t.me/hn_summary/83575</link>
-      <description><![CDATA[不要让完美主义阻碍您的软件开发项目 
-在本文中，作者讨论了完美主义对软件开发项目的影响。作者根据个人经验，强调了完美主义的优点和缺点，强调了沟通、决策以及让用户参与确定软件何时“足够好”的重要性。作者分享了管理软件开发中完美主义的策略，例如时间限制决策以及寻求团队成员和用户的意见。通过积极地利用完美主义的力量，作者建议软件开发人员可以提高生产力并在实现现实目标中找到满足感。]]></description>
-      <guid>https://t.me/hn_summary/83575</guid>
-      <pubDate>Mon, 08 Apr 2024 20:48:22 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/83600</link>
+      <description><![CDATA[许多抗癌药物在加速批准后 5 年后仍未得到证实 
+美国 FDA 的加速审批计划允许尽早获得有前途的药物，但一项新的研究表明，大多数以这种方式批准的抗癌药物在五年内不会显示出益处。尽管如此，许多药物在没有证明临床益处​​的情况下就转为常规批准。罕见或晚期癌症患者的选择可能有限，因此医生准确解释证据至关重要。该计划的最新更新赋予 FDA 在未履行承诺的情况下撤回药品的更大权力。患者了解加速审批药物的不确定性至关重要。]]></description>
+      <guid>https://t.me/hn_summary/83600</guid>
+      <pubDate>Mon, 08 Apr 2024 23:20:23 GMT</pubDate>
     </item>
     <item>
-      <title>GitHub 上的项目“karpathy/llm.c”为训练提供了一个简单、纯 C/CUDA 的实现 [...]</title>
-      <link>https://t.me/hn_summary/83574</link>
-      <description><![CDATA[karpathy/llm.c
-GitHub 上的项目“karpathy/llm.c”提供了一个简单、纯 C/CUDA 实现，用于训练 GPT-2 等大型语言模型 (LLM)，而无需 PyTorch 或 cPython 等大型依赖项。作者的目标是创建可以与 PyTorch 性能相匹配的优化版本，同时代码和依赖项要小得多。该项目目前的重点是实现直接 CUDA 版本以加快训练速度、使用 SIMD 指令优化 CPU 版本以及探索更现代的架构。自述文件包括下载数据集、使用预先训练的 GPT-2 权重进行初始化以及运行训练和测试脚本以确保与 PyTorch 的兼容性的说明。]]></description>
-      <guid>https://t.me/hn_summary/83574</guid>
-      <pubDate>Mon, 08 Apr 2024 20:45:48 GMT</pubDate>
+      <title>问 HN：公共 GitHub 存储库对于 2024 年的求职申请有多重要？</title>
+      <link>https://t.me/hn_summary/83599</link>
+      <description><![CDATA[询问 HN：公共 GitHub 存储库对于求职申请有多重要2024年？
+作者是一位拥有丰富经验并成功退出初创公司的高级软件工程师，他质疑公共 GitHub 存储库在求职申请中的重要性。尽管他们拥有出色的简历和量身定制的求职信，但他们甚至在没有第一次打电话的情况下就收到了通用的拒绝信。作者想知道他们缺乏在线存在（包括没有公开代码示例）是否阻碍了他们的求职。他们质疑 2024 年这些在线个人资料的必要性，以及问题是否出在他们的简历和求职信中。争议在于关于在线存在在求职申请中的重要性的争论，而令人惊讶的因素是作者在没有在线存在的情况下取得了成功的职业生涯。]]></description>
+      <guid>https://t.me/hn_summary/83599</guid>
+      <pubDate>Mon, 08 Apr 2024 23:18:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
