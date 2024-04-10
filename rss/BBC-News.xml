@@ -4,27 +4,69 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 10 Apr 2024 12:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 15:10:19 GMT</lastBuildDate>
     <item>
-      <title>世界田径将在奥运会上颁发奖金</title>
-      <link>https://www.bbc.co.uk/sport/athletics/68778225</link>
-      <description><![CDATA[世界田径协会将向今年巴黎奥运会的金牌获得者颁发 50,000 美元（39,400 英镑）的奖金。]]></description>
-      <guid>https://www.bbc.co.uk/sport/athletics/68778225</guid>
-      <pubDate>Wed, 10 Apr 2024 12:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>父亲因谋杀四个星期大的男婴而被判入狱</title>
-      <link>https://www.bbc.co.uk/news/uk-england-leicestershire-68777562</link>
-      <description><![CDATA[一名法官称迈克尔·戴维斯对奥利的攻击是“残酷的”，并判处他无期徒刑。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-leicestershire-68777562</guid>
-      <pubDate>Wed, 10 Apr 2024 11:51:57 GMT</pubDate>
+      <title>英国海外援助预算的四分之一用于庇护费用</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68781450</link>
+      <description><![CDATA[英国外交部的最新统计数据显示，去年国内庇护费用支出约为 43 亿英镑。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68781450</guid>
+      <pubDate>Wed, 10 Apr 2024 15:04:42 GMT</pubDate>
     </item>
     <item>
       <title>护照价格14个月内第二次上涨</title>
       <link>https://www.bbc.co.uk/news/business-68778006</link>
       <description><![CDATA[申请新护照以及续签护照的费用从周四午夜开始上涨。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68778006</guid>
-      <pubDate>Wed, 10 Apr 2024 11:30:28 GMT</pubDate>
+      <pubDate>Wed, 10 Apr 2024 15:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>审查称，寻求性别关怀的儿童因证据不足而失望</title>
+      <link>https://www.bbc.co.uk/news/health-68770641</link>
+      <description><![CDATA[一份具有里程碑意义的报告称，辩论的“毒性”正在阻碍对性别服务的医学研究。]]></description>
+      <guid>https://www.bbc.co.uk/news/health-68770641</guid>
+      <pubDate>Wed, 10 Apr 2024 14:46:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国首次限制自来水中的 PFAS 化学物质</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68671731</link>
+      <description><![CDATA[官员们敲定了一项新的联邦饮用水规定，旨在保护人们免受有毒物质的侵害。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68671731</guid>
+      <pubDate>Wed, 10 Apr 2024 14:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持《罗密欧与朱丽叶》女演员在网上受到虐待</title>
+      <link>https://www.bbc.co.uk/news/newsbeat-68778820</link>
+      <description><![CDATA[弗兰西斯卡·阿梅乌达-里弗斯在选角后就在网上遭到“种族主义和厌恶女性的辱骂”。]]></description>
+      <guid>https://www.bbc.co.uk/news/newsbeat-68778820</guid>
+      <pubDate>Wed, 10 Apr 2024 14:28:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡丁车公司因女学生死亡而被罚款</title>
+      <link>https://www.bbc.co.uk/news/uk-england-london-68779880</link>
+      <description><![CDATA[15 岁的鲁韦达·阿丹 (Ruwaida Adan) 在巴金 (Barking) 玩卡丁车时被头巾勒死。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-london-68779880</guid>
+      <pubDate>Wed, 10 Apr 2024 13:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>图片中：世界各地的开斋节庆祝活动</title>
+      <link>https://www.bbc.co.uk/news/world-68779475</link>
+      <description><![CDATA[数百万穆斯林正在庆祝斋月的结束，斋月是从黎明到日落禁食的一个月。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-68779475</guid>
+      <pubDate>Wed, 10 Apr 2024 13:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>父亲因谋杀四个星期大的男婴而被判入狱</title>
+      <link>https://www.bbc.co.uk/news/uk-england-leicestershire-68777562</link>
+      <description><![CDATA[一名法官形容迈克尔·戴维斯对奥利·戴维斯的攻击是“残酷的”，并判处他终身监禁。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-leicestershire-68777562</guid>
+      <pubDate>Wed, 10 Apr 2024 12:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>电视医生用肉毒杆菌与病人发生性关系</title>
+      <link>https://www.bbc.co.uk/news/uk-england-tyne-68779783</link>
+      <description><![CDATA[Tijion Esho 否认与该女子有身体关系，但法庭却认定事实并非如此。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-tyne-68779783</guid>
+      <pubDate>Wed, 10 Apr 2024 12:29:46 GMT</pubDate>
     </item>
     <item>
       <title>我们在《小丑 2》预告片中发现的七件事</title>
@@ -34,32 +76,11 @@
       <pubDate>Wed, 10 Apr 2024 11:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>审查称，寻求性别关怀的儿童因证据不足而失望</title>
-      <link>https://www.bbc.co.uk/news/health-68770641</link>
-      <description><![CDATA[一份具有里程碑意义的报告称，辩论的“毒性”正在阻碍对性别服务的医学研究。]]></description>
-      <guid>https://www.bbc.co.uk/news/health-68770641</guid>
-      <pubDate>Wed, 10 Apr 2024 11:17:27 GMT</pubDate>
-    </item>
-    <item>
       <title>特易购表示，随着利润飙升，价格压力有所缓解</title>
       <link>https://www.bbc.co.uk/news/business-68776913</link>
       <description><![CDATA[英国最大的连锁超市的年税前利润从 8.82 亿英镑增至近 23 亿英镑。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68776913</guid>
       <pubDate>Wed, 10 Apr 2024 10:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴黎奥运会前夕威胁引发安全难题</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68772589</link>
-      <description><![CDATA[官员们强调，与伊斯兰国有关的威胁并不新鲜，但警方在奥运会前展示了武力。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68772589</guid>
-      <pubDate>Wed, 10 Apr 2024 10:31:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲冠军狮队雷切尔·达利 (Rachel Daly) 在为国家队出场 84 场比赛后退役</title>
-      <link>https://www.bbc.co.uk/sport/football/68778228</link>
-      <description><![CDATA[英格兰和阿斯顿维拉前锋雷切尔·戴利表示，是时候“在国际舞台上挂靴了”。]]></description>
-      <guid>https://www.bbc.co.uk/sport/football/68778228</guid>
-      <pubDate>Wed, 10 Apr 2024 10:10:32 GMT</pubDate>
     </item>
     <item>
       <title>观看：那是一座漂浮在旧金山湾的房子吗？</title>
@@ -69,14 +90,7 @@
       <pubDate>Wed, 10 Apr 2024 09:29:18 GMT</pubDate>
     </item>
     <item>
-      <title>游戏节凸显多样性</title>
-      <link>https://www.bbc.co.uk/news/newsbeat-68769829</link>
-      <description><![CDATA[两位年轻的游戏创意人士谈论了艰难的一年中行业面貌的变化。]]></description>
-      <guid>https://www.bbc.co.uk/news/newsbeat-68769829</guid>
-      <pubDate>Wed, 10 Apr 2024 09:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>持不同政见的美国官员表示，拜登对以色列施加的压力还不够</title>
+      <title>持不同政见的美国官员表示，拜登对以色列的压力不够</title>
       <link>https://www.bbc.co.uk/news/world-us-canada-68773400</link>
       <description><![CDATA[七名现任和前任政府官员告诉 BBC，拜登政府必须进一步向其盟友施压。]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68773400</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>调查显示，邮局“消除”了对 IT 系统的担忧</title>
       <link>https://www.bbc.co.uk/news/live/uk-68775287</link>
-      <description><![CDATA[阿布斯诺特勋爵是邮局丑闻受害者的主要活动人士，他为调查提供了证据。]]></description>
+      <description><![CDATA[阿布斯诺特勋爵是邮局丑闻受害者的主要活动人士，他表示他对 Horizo​​n IT 系统表示担忧。]]></description>
       <guid>https://www.bbc.co.uk/news/live/uk-68775287</guid>
       <pubDate>Wed, 10 Apr 2024 08:04:38 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[加沙的巴勒斯坦人在破坏和迫在眉睫的饥荒中庆祝开斋节，即斋月的结束。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-middle-east-68777333</guid>
       <pubDate>Wed, 10 Apr 2024 07:24:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>家人愤怒的谋杀嫌疑人被“允许死亡”而没有受到审判</title>
-      <link>https://www.bbc.co.uk/news/uk-england-somerset-68762433</link>
-      <description><![CDATA[凯利·菲尔斯的家人表示，警方没有遵守规定，让一名通缉犯“逃避司法制裁”。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-somerset-68762433</guid>
-      <pubDate>Wed, 10 Apr 2024 06:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>犯罪团伙因经营价值 5400 万英镑的“福利欺诈工厂”而被定罪</title>
-      <link>https://www.bbc.co.uk/news/uk-england-london-68774242</link>
-      <description><![CDATA[检察官称此案是英格兰和威尔士有史以来最大的福利欺诈案。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-london-68774242</guid>
-      <pubDate>Wed, 10 Apr 2024 02:04:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
