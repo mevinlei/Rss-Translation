@@ -4,17 +4,65 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 11 Apr 2024 03:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 05:59:17 GMT</lastBuildDate>
+    <item>
+      <title>[媒体]美国空军正在推进一些机队自动化计划，Secr [...]</title>
+      <link>https://t.me/hn_summary/83986</link>
+      <description><![CDATA[美国空军部长对人工智能控制的 F-16 如此有信心，他会乘坐一架飞机
+美国空军正在推进部分机队自动化计划，部长弗兰克·肯德尔 (Frank Kendall) 表达了对人工智能控制的 F-16 的信心。 VENOM 项目正在取得进展，自主 F-16 战斗机正在接受测试。肯德尔计划在今年晚些时候驾驶其中一架机器人飞机，并配备一名飞行员作为后备。目标是为下一代无人机开发软件，而不是立即用于战斗。空军设想了协作战斗机的未来，其中人工智能驱动的无人机与人类飞行员一起工作。然而，中国无人机技术的进步正在引起人们对美国军事优势的担忧。]]></description>
+      <guid>https://t.me/hn_summary/83986</guid>
+      <pubDate>Thu, 11 Apr 2024 05:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 rachelbythebay.com 上的这篇文章中，作者与一位老 R 分享了一次令人沮丧的经历 [...]</title>
+      <link>https://t.me/hn_summary/83985</link>
+      <description><![CDATA[在没有实时时钟的情况下绕圈&lt; br/&gt;
+在 rachelbythebay.com 上的这篇文章中，作者分享了一次令人沮丧的经历使用较旧的 Raspberry Pi，由于文件系统问题而停止允许远程登录。 Pi上的实时时钟休息了一天多，导致chrony和unbound出现问题，影响了DNS解析和时间同步。作者将 DNS 解析仅指向本地主机的配置选择加剧了该问题。通过添加二级和三级解析器以及附近的主机作为 chrony 的对等源，作者解决了该问题。这篇文章强调了在使用 Raspberry Pi 等廉价设备时考虑时间价值的重要性。]]></description>
+      <guid>https://t.me/hn_summary/83985</guid>
+      <pubDate>Thu, 11 Apr 2024 05:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]基思·伍德博士</title>
+      <link>https://t.me/hn_summary/83984</link>
+      <description><![CDATA[家里的生物发光矮牵牛
+前药物研究员 Keith Wood 博士开发了一种生物发光矮牵牛，可以在黑暗中发光，为我们的生活带来欢乐和魔力。萤火虫矮牵牛是利用生物发光蘑菇和真菌的基因创造的，无需额外的化学物质即可发出明亮的光芒。尽管经过基因改造，但它已获得批准，现在可以在网上购买。这种独特的植物有潜力吸引新的园艺客户，并为花卉和植物带来兴奋。萤火虫矮牵牛可能没有实际应用，但它发光的存在提供了超越传统园艺的神奇体验。]]></description>
+      <guid>https://t.me/hn_summary/83984</guid>
+      <pubDate>Thu, 11 Apr 2024 05:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>队伍的尽头？</title>
+      <link>https://t.me/hn_summary/83983</link>
+      <description><![CDATA[线路结束？
+在沙特阿拉伯创建未来玻璃墙城市的雄心勃勃的项目（称为“线路”）已比其最初的宏伟愿景大幅缩小。最初计划延伸 105 英里，现在预计到 2030 年将仅延伸一英里半。该项目是更广泛的 Neom 计划的一部分，因其预算超支、改变愿景以及据报道处决抗议者而面临批评。尽管该线路被宣传为城市设计的重塑，但由于 2024 年 Neom 总体预算尚未获得批准，该线路的未来仍不确定。该项目由王储穆罕默德·本·萨勒曼领导，一些参与该项目的人将其描述为“脱离现实”。]]></description>
+      <guid>https://t.me/hn_summary/83983</guid>
+      <pubDate>Thu, 11 Apr 2024 04:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]奈史密斯规则是规划远足探险、计算旅行的有用工具[...]</title>
+      <link>https://t.me/hn_summary/83982</link>
+      <description><![CDATA[奈史密斯规则
+奈史密斯规则是规划远足探险的有用工具，可根据距离和海拔增益计算旅行时间。该规则最初由苏格兰登山家 William W. Naismith 于 1892 年制定，多年来不断修改，包括针对地形、健身水平和下降时间的调整。一个令人惊讶的方面是距离和爬升之间的等价性，正如菲利普·斯卡夫教授所提出的，允许更准确的时间估计。一些修正的准确性存在争议，引发了争议，凸显了徒步旅行计划中考虑各种山地条件和个人能力的复杂性。 （根据故事文本的 73% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83982</guid>
+      <pubDate>Thu, 11 Apr 2024 03:42:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] www.noahpinion.blog 上内容的作者对缺乏 [...]</title>
+      <link>https://t.me/hn_summary/83981</link>
+      <description><![CDATA[美国人对世界大战的风险仍然不够担心
+www.noahpinion.blog 上内容的作者表示美国人对潜在的世界大战风险缺乏担忧，尤其是中美之间的战争，这让他们感到沮丧。尽管最初的警告被忽视，但乌克兰和加沙战争等最近发生的事件使这些担忧成为人们关注的焦点。作者强调了第二次世界大战前夕与当前全球紧张局势之间的历史相似之处，并强调如果不采取行动，就有可能发生灾难性冲突。作者还将乌克兰战争视为欧洲与俄罗斯之间的代理人冲突，而中国越来越多地支持俄罗斯，有可能将其变成中欧之间的代理人冲突。作者敦促提高认识并采取行动，以防止潜在的世界大战。 （根据故事文本的 52% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/83981</guid>
+      <pubDate>Thu, 11 Apr 2024 03:21:22 GMT</pubDate>
+    </item>
     <item>
       <title>Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型 La [...]</title>
       <link>https://t.me/hn_summary/83980</link>
       <description><![CDATA[展示 HN：纯用 Python 编写的微调数据生成器
-Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型语言模型 (LLM)。它解决了模型微调过程中数据稀缺和不平衡的挑战，确保了全面且平衡的数据集创建过程。该项目允许用户指定模型、主题、格式和其他参数来生成法学硕士的培训数据。 Auto Data 的独特之处在于其轻量性、高效性和易用性，使其成为开发自定义代理的开发人员的宝贵工具。该项目还提供教程并欢迎开源社区的贡献。 （根据 96% 的故事文本进行总结。）]]></description>
+Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型语言模型 (LLM)。它解决了模型微调过程中数据稀缺和不平衡的挑战，确保了全面且平衡的数据集创建过程。该项目允许用户指定模型、主题、格式和其他参数来生成法学硕士的培训数据。 Auto Data 的独特之处在于其轻量级特性、高效性和易用性，使其成为开发自定义代理的开发人员的宝贵工具。该项目还提供教程并欢迎开源社区的贡献。 （根据 96% 的故事文本进行总结。）]]></description>
       <guid>https://t.me/hn_summary/83980</guid>
       <pubDate>Thu, 11 Apr 2024 03:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作者讨论了他们与各种人工智能图像生成器努力解决问题的经验[...]</title>
+      <title>[媒体]作者讨论了他们与各种努力解决问题的人工智能图像生成器的经验[...]</title>
       <link>https://t.me/hn_summary/83979</link>
       <description><![CDATA[我仍在尝试生成人工智能亚洲男人和白人女人
 作者讨论了他们使用各种人工智能图像生成器的经验，这些图像生成器努力创建亚洲男性和白人女性的图像，其中一些甚至交换种族或生成种族不敏感的结果。 Meta 和 Google 等公司在准确代表跨种族情侣方面面临着挑战，有些模型完全无法做到这一点。作者对导致这些问题的人工智能训练集的偏见和局限性提出了质疑，强调了这些系统透明度和改进的必要性。尽管缺乏公司明确的解释，作者仍继续探讨这一现象，强调这些在创造多样化和准确图像方面的斗争的荒谬性。]]></description>
@@ -22,7 +70,7 @@ Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型�
       <pubDate>Thu, 11 Apr 2024 02:56:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]怀俄明州卡车司机正在反对旨在运输的新联邦法规 [...]</title>
+      <title>[媒体]怀俄明州卡车司机正在抵制旨在运输的新联邦法规 [...]</title>
       <link>https://t.me/hn_summary/83978</link>
       <description><![CDATA[怀俄明州卡车司机表示新的联邦电动汽车规则不切实际且“愚蠢”
 怀俄明州的卡车司机正在反对新的联邦法规，该法规旨在到 2032 年将该行业过渡到电动汽车 (EV)。卡车司机认为，该技术尚不可靠或无法满足他们的需求，特别是在怀俄明州恶劣的气候和长距离的情况下。他们担心新规则会增加成本、损害小公司并扰乱供应链。 John Bunning Transfer Co. 和 Cowboy State Trucking Inc. 等卡车运输公司担心这对其运营和整个行业的影响。争议在于联邦法规与怀俄明州卡车运输实际情况之间的冲突。]]></description>
@@ -36,54 +84,6 @@ Auto Data 是一个 Python 库，旨在生成真实的数据集以微调大型�
 由众议员马特·盖茨 (Matt Gaetz) 领导的一群众议院共和党人阻止了延长《外国情报监视法》 (FISA) 第 702 条的程序性投票，在间谍权力最后期限临近之际引发了混乱。前总统特朗普敦促共和党人“消灭 FISA”，加剧了争议。这次失败的投票凸显了众议院情报部门和司法部门成员之间在此事上持续存在的不和。此举使该立法的通过之路变得复杂，共和党人现在需要与民主党人合作以确保必要的选票。要求获得搜查令才能获取被监视的美国人的信息的问题造成了奇怪的联盟。]]></description>
       <guid>https://t.me/hn_summary/83977</guid>
       <pubDate>Thu, 11 Apr 2024 02:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能尚未发挥其潜力，组织正在努力看到真正的影响[...]</title>
-      <link>https://t.me/hn_summary/83976</link>
-      <description><![CDATA[展示 HN：商数 AI – 快速构建更好的 AI 产品
-生成式人工智能尚未发挥其潜力，组织难以看到其投资的真正影响。 Quotient AI 旨在通过为开发人员提供快速有效地评估和改进其 AI 产品的工具来改变这一现状。通过简化评估流程并提供专门的数据集和框架，Quotient 帮助开发人员创建满足用户独特需求的颠覆性产品。借助 Quotient，开发人员可以实现更快的大规模数据管理、评估和个性化评估。创始团队拥有启动 GitHub Copilot 的经验，了解定量反馈在构建成功的人工智能产品中的重要性，并致力于帮助其他人经历类似的旅程。]]></description>
-      <guid>https://t.me/hn_summary/83976</guid>
-      <pubDate>Thu, 11 Apr 2024 02:43:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 政府</title>
-      <link>https://t.me/hn_summary/83975</link>
-      <description><![CDATA[纽约可能会打击车牌遮盖、逃税者
-州长凯西·霍赫尔 (Kathy Hochul) 和立法领导人正在努力打击纽约司机使用车牌罩以避免通行费和罚款的行为。由于逃税，该州正损失数百万美元，曼哈顿即将到来的拥堵收费预计将加剧这一问题。 Hochul 提出的预算包括对逃税行为进行更严厉的处罚，但立法者也在推动采取措施限制滞纳金并提高计费准确性。讨论仍在进行中，议会议长卡尔·希斯蒂将逃税列为仍在谈判的一个主要问题。目标是抓获不良行为者，同时解决行政问题，以确保司机得到公平对待。]]></description>
-      <guid>https://t.me/hn_summary/83975</guid>
-      <pubDate>Thu, 11 Apr 2024 02:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platonic3D 是一款革命性工具，允许用户创建交互式 3D 可视化 [...]</title>
-      <link>https://t.me/hn_summary/83974</link>
-      <description><![CDATA[显示 HN：Platonic3D
-Platonic3D 是一款革命性工具，允许用户为其代码库创建交互式 3D 可视化。通过提供结合全局和复杂细节的独特视角，用户可以更好地理解和导航他们的代码。这个创新平台提供了一种全新的代码可视化方法，使开发人员能够同时看到森林和树木。借助 Platonic3D，用户可以获得新的见解并提高编码效率。访问 platonic3d.com 体验 Platonic3D 3D 可视化的强大功能。]]></description>
-      <guid>https://t.me/hn_summary/83974</guid>
-      <pubDate>Thu, 11 Apr 2024 02:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 正在寻找一种独特的方式让您的孩子接触有声读物吗？</title>
-      <link>https://t.me/hn_summary/83973</link>
-      <description><![CDATA[显示 HN：使用人工智能语音克隆以父母的声音朗读儿童有声读物
-正在寻找一种独特的方式让您的孩子接触有声读物？查看我们的应用程序，它使用人工智能语音克隆以您自己的声音讲述故事。该应用程序由 L&amp;C Partners Ltd 开发，为父母和孩子提供个性化体验。虽然有些人可能担心数据隐私，但请放心，我们的做法是透明的。该应用程序能够跟踪购买、联系信息和用户内容，为有声读物世界带来了新的定制水平。尝试一下，看看用自己的声音讲故事的魔力变得栩栩如生。]]></description>
-      <guid>https://t.me/hn_summary/83973</guid>
-      <pubDate>Thu, 11 Apr 2024 02:31:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 推出深色 Google 地图，这是一个方便的扩展，可以改变 G 的明亮颜色 [...]</title>
-      <link>https://t.me/hn_summary/83972</link>
-      <description><![CDATA[显示 HN：Google 地图深色模式
-隆重推出深色 Google 地图，这是一款方便的扩展，可将 Google 地图的明亮颜色转变为时尚且赏心悦目的深色模式。无论您是在夜间导航还是只是喜欢黑暗的美感，这个工具都是游戏规则的改变者。告别眼睛疲劳，享受更舒适的测绘体验。请访问 darkgmaps.com 下载扩展程序并开始探索世界风格。]]></description>
-      <guid>https://t.me/hn_summary/83972</guid>
-      <pubDate>Thu, 11 Apr 2024 02:27:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 推出 Coherence，这是一款革命性的新型心脏一致性应用程序，旨在提高 [...]</title>
-      <link>https://t.me/hn_summary/83971</link>
-      <description><![CDATA[展示 HN：Coherence – 一款新的心脏一致性应用 
-隆重推出 Coherence，这是一款革命性的新型心脏一致性应用程序，旨在改善情绪健康。通过使用此应用程序，用户可以体验到更多的平静、平衡和专注感，同时还可以减轻压力并提高认知能力。这项创新技术旨在帮助个人更清晰地思考并改善他们的整体心理健康。通过 Coherence 告别压力，迎接更加集中和专注的您。]]></description>
-      <guid>https://t.me/hn_summary/83971</guid>
-      <pubDate>Thu, 11 Apr 2024 02:23:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
