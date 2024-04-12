@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 12:14:35 GMT</lastBuildDate>
     <item>
       <title>燕尾魔法</title>
       <link>https://www.producthunt.com/posts/dovetail-magic</link>
@@ -76,18 +76,18 @@
       <pubDate>Thu, 11 Apr 2024 18:46:23 GMT</pubDate>
     </item>
     <item>
-      <title>获取我的作品集</title>
-      <link>https://www.producthunt.com/posts/getmyfolio</link>
+      <title>赌注</title>
+      <link>https://www.producthunt.com/posts/stake-4</link>
       <description><![CDATA[
-            适合您的投资组合网站的 CMS
+            初创企业的股权专家
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/getmyfolio</guid>
-      <pubDate>Thu, 11 Apr 2024 16:17:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/stake-4</guid>
+      <pubDate>Thu, 11 Apr 2024 18:42:07 GMT</pubDate>
     </item>
     <item>
       <title>故事规范</title>
@@ -146,18 +146,18 @@
       <pubDate>Thu, 11 Apr 2024 12:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>克诺伊兹</title>
-      <link>https://www.producthunt.com/posts/knoiz</link>
+      <title>MTIA v2</title>
+      <link>https://www.producthunt.com/posts/mtia-v2</link>
       <description><![CDATA[
-            在几秒钟内创建您的下一个 Spotify 播放列表。
+            元训练和推理加速器
           
 
-讨论
+讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/knoiz</guid>
-      <pubDate>Thu, 11 Apr 2024 12:03:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/mtia-v2</guid>
+      <pubDate>Thu, 11 Apr 2024 00:44:08 GMT</pubDate>
     </item>
     <item>
       <title>埃尔布特</title>
@@ -174,6 +174,20 @@
       <pubDate>Thu, 11 Apr 2024 00:22:29 GMT</pubDate>
     </item>
     <item>
+      <title>API巡检</title>
+      <link>https://www.producthunt.com/posts/api-patrol</link>
+      <description><![CDATA[
+            在 30 秒内创建 API 和网站正常运行时间警报
+          
+
+讨论&lt; /a&gt;
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/api-patrol</guid>
+      <pubDate>Wed, 10 Apr 2024 22:45:44 GMT</pubDate>
+    </item>
+    <item>
       <title>嗅网</title>
       <link>https://www.producthunt.com/posts/sniffnet-3</link>
       <description><![CDATA[
@@ -188,32 +202,18 @@
       <pubDate>Tue, 09 Apr 2024 12:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>珀斯皮克</title>
-      <link>https://www.producthunt.com/posts/perspik</link>
+      <title>相关文档</title>
+      <link>https://www.producthunt.com/posts/relate-docs</link>
       <description><![CDATA[
-            一个社交讨论平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/perspik</guid>
-      <pubDate>Tue, 09 Apr 2024 10:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>宁静的广阔</title>
-      <link>https://www.producthunt.com/posts/tranquil-expanse</link>
-      <description><![CDATA[
-            你的正念日记
+            简单且免费的 DocSend 替代方案
           
 
 讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tranquil-expanse</guid>
-      <pubDate>Mon, 26 Feb 2024 18:58:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/relate-docs</guid>
+      <pubDate>Tue, 09 Apr 2024 03:10:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
