@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Fri, 12 Apr 2024 11:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:03:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] d-shoot.net 内容的作者分享了他们从成为 Ka 的个人历程 [...]</title>
-      <link>https://t.me/hn_summary/84182</link>
-      <description><![CDATA[我对卡吉失去了信心
-d-shoot.net 上内容的作者分享他们从 Kagi 订阅者到 Kagi 反对者的个人历程。他们强调了 Kagi 面临的财务问题，包括 T 恤赠品活动失败，花费了他们三分之一的资金，以及两年没有缴纳销售税。作者还深入研究了 Kagi 对人工智能工具的高度关注，他们认为这些工具不准确，并且不能提供可靠的搜索体验。他们批评创始人弗拉德对隐私问题的轻视态度，以及他认为只有少数人需要在搜索引擎中完全匿名的信念。作者质疑 Kagi 对隐私和透明度的奉献精神，最终导致他们对该平台失去信心。 （根据80%的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84182</guid>
-      <pubDate>Fri, 12 Apr 2024 11:45:39 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克因其对未来的大胆预测而闻名，但并非所有人都如此[...]</title>
+      <link>https://t.me/hn_summary/84238</link>
+      <description><![CDATA[埃隆·马斯克过去 15 年最糟糕的预测和未能兑现的承诺
+埃隆·马斯克因其对未来的大胆预测而闻名，但并非所有预测都已实现。虽然他的一些想法（例如 SpaceX 的想法）取得了成功，但其他想法却不尽如人意。最近，马斯克声称通用人工智能（AGI）即将来临，但许多专家并不同意。尽管他充满信心，但最近在 X Spaces 上聊天时出现的技术问题引起了怀疑。包括加里·马库斯在内的批评者甚至对马斯克的时间表提出了数百万美元的赌注。当我们等待马斯克的预测是否成真时，值得反思他违背承诺的记录，并考虑他过早炒作技术的动机。]]></description>
+      <guid>https://t.me/hn_summary/84238</guid>
+      <pubDate>Fri, 12 Apr 2024 18:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博士</title>
-      <link>https://t.me/hn_summary/84181</link>
-      <description><![CDATA[邪教如何占领 NHS
-希拉里·卡斯 (Hilary Cass) 博士关于 NHS 为年轻人提供的性别服务的最终报告揭示了一种令人不安的趋势，即对性别困惑的儿童进行的治疗方法存在问题。该报告强调缺乏证据支持这些干预措施以及一些临床医生和患者的邪教行为。这些有争议的做法包括让青春期前的孩子处于化学悬浮液中、给青少年服用异性激素，以及允许通过手术切除身体的主要部位。该报告还揭示了临床医生对数据研究合作的抵制，引发了人们对 NHS 内性别医学完整性的担忧。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84181</guid>
-      <pubDate>Fri, 12 Apr 2024 11:42:34 GMT</pubDate>
+      <title>[Media] V-2 No.</title>
+      <link>https://t.me/hn_summary/84237</link>
+      <description><![CDATA[V-2 13号
+V-2 No. 13 是经过改进的 V-2 火箭，于 1946 年 10 月从外太空拍摄了第一张地球照片，创造了历史。该火箭从新墨西哥州的白沙导弹靶场发射，达到了令人印象深刻的 65 英里高度。这张标志性的照片是使用安装在火箭上的 DeVry 电影摄影机拍摄的。这次飞行是正在进行的爱马仕计划的一部分，是通用电气和德国部件之间的合作成果。 V-2 13 号仍然是太空探索史上的一个重要里程碑。]]></description>
+      <guid>https://t.me/hn_summary/84237</guid>
+      <pubDate>Fri, 12 Apr 2024 17:52:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 [...]</title>
-      <link>https://t.me/hn_summary/84180</link>
-      <description><![CDATA[显示 HN: tu – 将自然语言日期/时间转换为 UTC&lt; /a&gt;
-“tu”项目是一个 CLI 工具，旨在将自然语言日期/时间表达式转换为 UTC。它旨在解决将人类可读的日期/时间输入轻松转换为标准化 UTC 格式的问题。该工具可以处理各种输入，例如“今天”、“明天”、特定持续时间（例如“2 天”）或特定日期/时间。作者提到，当与 TaskLite 等其他任务管理工具结合使用时，该工具会特别有用。作者还强调，“tu”与类似项目的区别在于它提供了一种简单有效的方法将自然语言日期/时间表达式转换为 UTC。]]></description>
-      <guid>https://t.me/hn_summary/84180</guid>
-      <pubDate>Fri, 12 Apr 2024 11:13:24 GMT</pubDate>
+      <title>众议院议员投票重新授权《外国情报监视法》第 702 条，[...]</title>
+      <link>https://t.me/hn_summary/84236</link>
+      <description><![CDATA[美国众议院投票重新授权法律，允许对公民进行无证监视
+众议院议员投票重新授权《外国情报监视法》第 702 条，允许对美国人进行未经授权的监视。这项有争议的法律作为反恐工具得到了拜登政府的支持，但遭到了两党的反对。前总统特朗普反对重新授权，声称这是非法用于对付他的。该法律存在分歧，公民自由团体认为该法律侵犯了隐私权。关于第 702 条的争论凸显了共和党人之间的紧张关系，共和党人认为该条款是监视公民的工具，而共和党人则认为该条款对国家安全来说是必要的。该法律过去曾遭到反对，但最近联邦调查局滥用行为的曝光加剧了阻力。]]></description>
+      <guid>https://t.me/hn_summary/84236</guid>
+      <pubDate>Fri, 12 Apr 2024 17:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>“XML T.R.A.P.</title>
-      <link>https://t.me/hn_summary/84179</link>
-      <description><![CDATA[展示 HN：用 TypeScript 编写的简单 XML 和 Feed 解析器
-“XML 陷阱”项目是一个用 Bun 编写的 Typescript RSS/Atom feed 解析器。它可以解析 feed 并以 JSON 格式创建 feed 的抽象语法树 (AST)。用户可以利用 newFeed 等函数来解析 feed 或 createTree 来生成 feed 的树表示。该项目全面覆盖了单元测试，并且欢迎贡献。作者鼓励改进项目的测试套件或性能的贡献。该项目已获得 MIT 许可证的许可，并包含入门设置说明。作者对 Bun、Tsoding 和 Matthew Groff 的贡献和灵感表示赞赏。]]></description>
-      <guid>https://t.me/hn_summary/84179</guid>
-      <pubDate>Fri, 12 Apr 2024 10:59:16 GMT</pubDate>
+      <title>在用户敌意的黄金时代，Roku 等公司正在突破入侵的界限 [...]</title>
+      <link>https://t.me/hn_summary/84235</link>
+      <description><![CDATA[欢迎来到用户敌意的黄金时代
+在用户敌意的黄金时代，Roku 等公司正在突破侵入性的界限，计划通过 HDMI 端口向电视注入有针对性的广告。消费者硬件购买后转型的趋势，包括将用户锁定在自己的设备之外的法律协议，正在引起沮丧和担忧。对设备的有意义的所有权的丧失，加上产品质量的下降以及对消费者普遍缺乏尊重，正在造成一种普遍的衰退和不尊重的感觉。随着公司将利润置于消费者体验之上，我们所购买的东西被剥削和背叛的感觉变得越来越普遍和令人担忧。]]></description>
+      <guid>https://t.me/hn_summary/84235</guid>
+      <pubDate>Fri, 12 Apr 2024 17:50:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 devenv.sh，我们提供快速、声明性、可重复且可组合的开发环境 [...]</title>
-      <link>https://t.me/hn_summary/84178</link>
-      <description><![CDATA[使用 Nix 的快速、声明性、可重现和可组合的开发环境
-在 devenv.sh，我们提供快速、声明性、可重复性和使用 Nix 的可组合开发人员环境。我们的预配置流程让您可以轻松入门，服务定义了在启用时启动的流程。配置灵活，具有定制选项和额外的配置挂钩。让我们与众不同的是我们的可扩展方法 - 将您的开发流程定义为一项服务，只需几行配置即可轻松重用和简单。使用 devenv.sh&lt; 告别复杂的设置，迎接简化、高效的开发环境/a&gt;.]]></description>
-      <guid>https://t.me/hn_summary/84178</guid>
-      <pubDate>Fri, 12 Apr 2024 10:58:12 GMT</pubDate>
+      <title>[媒体]我最近以优惠的价格购买了一台富士通 FM-8，它是 FM-7 的前身，但是 [...]</title>
+      <link>https://t.me/hn_summary/84234</link>
+      <description><![CDATA[漂亮八台机器
+我最近以优惠的价格购买了一台富士通 FM-8（FM-7 的前身），但它缺少一个关键部件——CPU。跟我一起深入了解这款早期 PC 的历史并探索其独特功能，例如双 6809 CPU 和升级选项。 FM-8 深受爱好者的喜爱，甚至催生了经典益智游戏 SameGame。尽管缺少 CPU，我还是设法用秘密模式 63C09EP CPU 进行了“大脑移植”。 FM-8 的巨大尺寸和内部组件令人印象深刻，使其成为计算机历史上值得探索的迷人部分。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84234</guid>
+      <pubDate>Fri, 12 Apr 2024 17:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Inrap 的考古学家在法国马里安 (Marliens) 取得了突破性发现，揭示了 [...]</title>
-      <link>https://t.me/hn_summary/84177</link>
-      <description><![CDATA[由三个环环相扣的圆圈组成的不寻常的史前纪念碑 
-来自因拉普的考古学家在法国马连做出了一项突破性的发现，发现了一座由三个相互连接的圆圈组成的史前纪念碑，这是一个独特且前所未有的发现。该遗址的历史可以追溯到新石器时代，其中有燧石和铜合金匕首等文物，让人们可以深入了解该地区的古代文化。此次发掘还发现了青铜时代早期和铁器时代早期墓地的证据，为埋葬习俗和仪式提供了线索。这些发现让我们得以一睹 Ouche 山谷丰富的历史及其随时间的演变。]]></description>
-      <guid>https://t.me/hn_summary/84177</guid>
-      <pubDate>Fri, 12 Apr 2024 10:41:05 GMT</pubDate>
+      <title>Apple Vision Pro 正在彻底改变企业的空间计算，提供定制工作 [...]</title>
+      <link>https://t.me/hn_summary/84233</link>
+      <description><![CDATA[Apple Vision Pro 为企业带来了空间计算的新时代
+Apple Vision Pro 正在彻底改变企业的空间计算，提供定制工作空间、沉浸式设计和协作体验、交互式培训和模拟以及指导工作功能。凭借强大的显示系统和定制的 Apple 芯片，Vision Pro 使开发人员能够创建由眼睛、手和声音等自然输入控制的创新空间体验。从利用 SAP Analytics Cloud 简化数据分析，到与荷兰皇家航空公司转变飞机维护培训，Apple Vision Pro 正在改变企业的运营方式。企业空间设计实验室的推出和德勤苹果业务的扩展进一步支持开发人员利用这一突破性技术。]]></description>
+      <guid>https://t.me/hn_summary/84233</guid>
+      <pubDate>Fri, 12 Apr 2024 17:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Tinygrad 项目是 NVIDIA 驱动程序的一个分支，为 4090 GPU 添加了 P2P 支持。</title>
-      <link>https://t.me/hn_summary/84176</link>
-      <description><![CDATA[Tinygrad：黑客入侵 4090 驱动程序以启用 P2P
-Tinygrad 项目是 NVIDIA 驱动程序的一个分支，为 4090 GPU 添加了 P2P 支持。它实现了GPU之间的点对点内存访问，解决了由于缺乏MAILBOXP2P硬件接口而在4090上无法运行P2P的问题。该项目通过绕过HAL并直接调用GH100方法，将VRAM映射到BAR1，从而实现P2P通信。它的独特之处在于利用 BAR1P2P 模式并重写映射类型，使 P2P 在 4090 上运行。该项目实现了高带宽的快速双向P2P，并兼容NCCL，为改善GPU通信提供稳定的驱动。]]></description>
-      <guid>https://t.me/hn_summary/84176</guid>
-      <pubDate>Fri, 12 Apr 2024 10:22:56 GMT</pubDate>
+      <title>[媒体] 19 世纪，由于对专业人士的大规模狩猎，美洲野牛几近灭绝 [...]</title>
+      <link>https://t.me/hn_summary/84232</link>
+      <description><![CDATA[19世纪美国野牛灭绝的令人难忘的照片 
+十九世纪，由于欧洲定居者为了利润和娱乐而进行的大规模狩猎，美洲野牛几近灭绝。世世代代以野牛为食的美洲原住民部落也在经济衰退中发挥了一定作用。马和火器的引入彻底改变了狩猎技术，导致曾经繁荣的畜群大量减少。美国陆军支持的商业狩猎装备进一步加速了野牛的灭亡。像谢尔曼将军这样的人物颇有争议地支持屠杀，以迫使美洲原住民接受保留地。尽管采取了保护措施，野牛种群最近才开始从灭绝的边缘恢复。]]></description>
+      <guid>https://t.me/hn_summary/84232</guid>
+      <pubDate>Fri, 12 Apr 2024 17:43:01 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 波音举报人 Sam Salehpour 最近提出了有关该事件的令人震惊的说法 [...]</title>
-      <link>https://t.me/hn_summary/84175</link>
-      <description><![CDATA[另一位波音举报人称他因举报“捷径”而面临报复
-波音举报人 Sam Salehpour 最近对 787 梦想客机提出了令人震惊的指控，称该公司在生产中采取了捷径，可能会缩短飞机的使用寿命。萨勒普尔和其他举报人因谈论安全问题而面临报复。该公司否认这些指控，但专家表示，波音需要改善其安全文化。萨利普尔的律师黛布拉·卡茨透露，萨利普尔受到老板的人身暴力威胁。尽管面临报复，萨勒普尔仍然致力于让波音对其错误承担责任。他定于下周在参议院小组委员会作证。]]></description>
-      <guid>https://t.me/hn_summary/84175</guid>
-      <pubDate>Fri, 12 Apr 2024 10:14:50 GMT</pubDate>
+      <title>[媒体]拜登总统宣布取消 277,000 名学生的 74 亿美元学生债务 [...]</title>
+      <link>https://t.me/hn_summary/84231</link>
+      <description><![CDATA[拜登宣布为 277,000 名美国人免除 7.4 亿美元学生债务
+拜登总统宣布为参加 SAVE 和其他收入驱动还款计划以及公共服务贷款减免计划的 277,000 名美国人免除 74 亿美元的学生债务。这使得拜登-哈里斯政府批准的 430 万美国人债务减免总额达到 1530 亿美元。去年推出的 SAVE 计划已经吸引了 800 万借款人，其中 450 万每月还款额为 0 美元。政府致力于通过各种行动减免学生债务，计划取消超过 3000 万美国人的债务。如需了解有关这些举措的更多信息，请访问 StudentAid.gov/DebtRelief。 ]]></description>
+      <guid>https://t.me/hn_summary/84231</guid>
+      <pubDate>Fri, 12 Apr 2024 17:34:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]保时捷 911 的发动机安装在错误的位置，但正是这种缺陷使得它 [...]</title>
-      <link>https://t.me/hn_summary/84174</link>
-      <description><![CDATA[缺陷创造联系
-保时捷 911 的发动机安装在错误的位置，但正是这种缺陷使其成为标志性的。就像机械手表和旧电脑一样，不完美可以创造联系。 Framework 13 笔记本电脑具有独特的显示屏和可互换端口等特点，运行 Linux 以获得复古的感觉。与 MacBook 相比，它可能有缺点，但它所建立的连接是值得的。拥抱计算设置中的不完美，您可能会发现与技术的更深层次的联系。如果您欣赏手动变速箱或黑胶唱片的怪癖，Framework 13 值得一试。]]></description>
-      <guid>https://t.me/hn_summary/84174</guid>
-      <pubDate>Fri, 12 Apr 2024 10:00:42 GMT</pubDate>
+      <title>[媒体] Rakuten Kobo 很高兴地宣布我们与 iFixit 合作，为 [...]</title>
+      <link>https://t.me/hn_summary/84230</link>
+      <description><![CDATA[Rakuten Kobo 正在与 iFixit 合作修复 Kobos 
+Rakuten Kobo 很高兴地宣布与 iFixit 合作，为我们的电子阅读器提供维修套件，包括 Kobo Libra Colour、Kobo Clara Colour 和 Kobo Clara BW。这种合作使客户能够轻松更换通用组件并延长设备的使用寿命。请继续关注有关如何订购维修套件并使您的 Kobo 保持最佳状态的更多信息。我们致力于可持续发展和客户满意度，与 iFixit 的合作只是我们努力为用户提供创新解决方案的一种方式。]]></description>
+      <guid>https://t.me/hn_summary/84230</guid>
+      <pubDate>Fri, 12 Apr 2024 17:31:51 GMT</pubDate>
     </item>
     <item>
-      <title>H-1B 签证计划一直受到欺诈的困扰，多次提交申请并滥用签证 [...]</title>
-      <link>https://t.me/hn_summary/84173</link>
-      <description><![CDATA[H-1B 签证欺诈在反滥用工作中依然存在&lt; /a&gt;
-H-1B 签证计划一直饱受欺诈、多次提交和滥用抽签程序的困扰。尽管美国移民局提出了新规则来解决这些问题，但批评者认为，这些规则还不足以解决系统中普遍存在的欺诈行为。该计划允许具有专业知识的外国工人在美国工作，但该计划已被 IT 咨询公司利用以获取经济利益，引发了人们对 H-1B 工人的工作保护和流动性的担忧。围绕 H-1B 计划的争议凸显了系统中加强诚信和问责制的必要性。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84173</guid>
-      <pubDate>Fri, 12 Apr 2024 09:23:28 GMT</pubDate>
+      <title>与 Str [...] 一起实时体验人工智能创造艺术的迷人世界</title>
+      <link>https://t.me/hn_summary/84229</link>
+      <description><![CDATA[展示 HN：意识流 – 观看人工角色创作艺术&lt; /a&gt;
+通过意识流实时体验人工智能创造艺术的迷人世界。这个创新项目结合了可视化和数据流来展示人工智能角色的创作过程。见证角色的思想和创意在您眼前栩栩如生的神奇效果。访问 www.streamofciousness.net 沉浸在这个独特的环境中和迷人的体验。不要错过围绕人工智能创作艺术的伦理影响的争议，这引发了观众的争论。]]></description>
+      <guid>https://t.me/hn_summary/84229</guid>
+      <pubDate>Fri, 12 Apr 2024 17:28:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
