@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 13 Apr 2024 03:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 12:09:47 GMT</lastBuildDate>
     <item>
-      <title>[媒体]西弗吉尼亚州的格林布赖尔度假村秘密为国会设立了一个核掩体 [...]</title>
-      <link>https://t.me/hn_summary/84304</link>
-      <description><![CDATA[这个小镇将其核掩体保密了三十年
-西弗吉尼亚州的格林布赖尔度假村在其西弗吉尼亚翼楼下方秘密为国会提供了一个核掩体，长达三十多年。当地人出于对度假村的忠诚而保守秘密，度假村是该地区最大的雇主。该地堡于 1992 年被曝光，引起了居民的争议和愤怒，他们感到自己被背叛了。该地堡于 1995 年解密并开放参观，让人们了解了这段隐藏的冷战历史。这个地堡的存在是一个令人惊讶的发现，因为大多数人认为这是为了总统，而不是国会。 （根据 96% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84304</guid>
-      <pubDate>Sat, 13 Apr 2024 03:02:58 GMT</pubDate>
+      <title>[媒体]OpenTofu 项目在代码指控后面临 HashiCorp 的法律阻力 [...]</title>
+      <link>https://t.me/hn_summary/84345</link>
+      <description><![CDATA[OpenTofu 项目否认 HashiCorp 的代码盗窃指控
+OpenTofu 项目因代码盗窃指控而面临 HashiCorp 的法律阻力。 HashiCorp 发出了一份停止函，声称 OpenTofu 使用 BSL 许可的 Terraform 代码违反了许可条款和知识产权。 OpenTofu 否认这些指控，称任何复制的代码都来自 MPL 许可的版本。他们已经采取了措施来防止进一步的问题，包括一个“污点小组”来审查贡献。尽管最初受到批评，InfoWorld 评论员 Matt Asay 仍认为 OpenTofu 的回应令人满意。 HashiCorp 正在评估回应，但没有进一步评论。这场争议凸显了开源许可和代码归属的复杂性。]]></description>
+      <guid>https://t.me/hn_summary/84345</guid>
+      <pubDate>Sat, 13 Apr 2024 12:09:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一位 TikToker 最近发现自己被困在特斯拉 Model 3 里 40 分钟 [...]</title>
-      <link>https://t.me/hn_summary/84303</link>
-      <description><![CDATA[特斯拉软件更新将女性困在 115 度的车内 
-最近，一名 TikTok 用户发现自己在酷热的特斯拉 Model 3 中被困了 40 分钟，同时正在安装软件更新，一天之内就有超过 1,070 万次观看。尽管遵循了特斯拉在安装过程中不要打开门窗的指导方针，但潜在的危险疏忽还是导致了危险的情况。相比之下，Lucid Motors 要求乘客在更新开始之前离开车辆。特斯拉车主在极热的情况下启动更新应谨慎，因为这种情况可能会带来严重的健康风险。这一事件凸显了特斯拉需要修改其程序，以防止未来发生类似事件。]]></description>
-      <guid>https://t.me/hn_summary/84303</guid>
-      <pubDate>Sat, 13 Apr 2024 02:55:52 GMT</pubDate>
+      <title>[媒体] 在本关于如何在 Haskell 中发送 SMS 的教程中，我们探索设置 Haskell 开发 [...]</title>
+      <link>https://t.me/hn_summary/84344</link>
+      <description><![CDATA[如何在 Haskell 中发送短信 (2017) 
+在本关于如何在 Haskell 中发送 SMS 的教程中，我们探索使用各种包管理器和 IDE 选项设置 Haskell 开发人员环境。虽然没有完整的 Haskell IDE，但许多 Haskellers 使用 Atom 和特定的包来进行语法突出显示和代码完成。其他选项包括 Emacs、Vim、Eclipse 和 Leksah。交互式 Glasgow Haskell 编译器在 GitHub 上开源，并为 Mac 和 PC 用户提供安装说明。本综合指南提供了 Haskell 编程入门和集成 Twilio 以实现 SMS 功能的分步方法。]]></description>
+      <guid>https://t.me/hn_summary/84344</guid>
+      <pubDate>Sat, 13 Apr 2024 11:56:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]盖洛普的最新研究，由摩根大通基金会和尤因支持 [...]</title>
-      <link>https://t.me/hn_summary/84302</link>
-      <description><![CDATA[雇用他人与财富和福祉相关
-盖洛普在摩根大通基金会和尤因·马里昂·考夫曼基金会的支持下进行的最新研究表明，拥有一家雇佣他人的企业与更高水平的收入、财富和整体福祉有关。在美国，个体雇主很少，仅占工作成年人的 2.4%，但与其他类型的工人相比，他们始终表示工作投入度更高、财务状况更好、生活满意度更高。这项研究挑战了为自己工作更可取的传统观念，强调了雇用他人的创业的好处。]]></description>
-      <guid>https://t.me/hn_summary/84302</guid>
-      <pubDate>Sat, 13 Apr 2024 02:54:49 GMT</pubDate>
+      <title>[媒体] 该项目是 D.Atari 8 位 BASIC 中 Ray Tracer 的移植。</title>
+      <link>https://t.me/hn_summary/84343</link>
+      <description><![CDATA[引导扇区中的光线追踪器
+该项目是 D. Scott Williamson 将 Atari 8 位 BASIC 中的光线追踪器移植到 Oscar Toledo G 的引导扇区。该项目的目的是在简约环境中展示光线追踪器。它可用于学习 8086/8088 汇编程序，并针对现代计算机上的实时动画进行了优化。作者提到代码已针对大小进行了调整和优化，并提供了在各种模拟器上组装和运行该项目的说明。另外，作者还推荐了他们的书籍，以供进一步学习8086/8088汇编器。]]></description>
+      <guid>https://t.me/hn_summary/84343</guid>
+      <pubDate>Sat, 13 Apr 2024 11:44:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章深入研究了使用游戏化来控制人类行为，追踪其[...]</title>
-      <link>https://t.me/hn_summary/84301</link>
-      <description><![CDATA[游戏如何控制你
-这篇文章深入探讨了使用游戏化来控制人类行为，其根源可以追溯到 B.F. Skinner 的鸽子实验。它探讨了企业和政府如何采用游戏化来塑造消费者行为并激励期望的行动。这篇文章强调了中国社会信用体系和亚马逊等公司在工作场所监控中使用游戏化的争议性做法。它还讨论了社交媒体和约会应用程序中游戏化的成瘾性。文章最后令人毛骨悚然地描述了特德·卡辛斯基对将社会变成斯金纳盒子的想法的极端反应，反思了不受控制的游戏化的潜在危险。 （根据故事文本的 39% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/84301</guid>
-      <pubDate>Sat, 13 Apr 2024 02:43:42 GMT</pubDate>
+      <title>自托管非常棒，作为独立黑客和首席技术官，我更喜欢自托管我需要的所有工具。</title>
+      <link>https://t.me/hn_summary/84342</link>
+      <description><![CDATA[自托管非常棒
+自托管非常棒，作为独立黑客和首席技术官，我更喜欢自托管我需要的所有工具。借助高质量的自托管产品，我们可以节省资金并保持对数据的控制。我使用的自托管产品具有最先进的用户体验，让工作变得愉快。 Docker 使自托管变得更加容易，了解 Nginx 路由和 Linux 网络至关重要。为自托管产品提供资金可能具有挑战性，但提供具有企业功能的云版本可能会有所帮助。然而，一些自托管产品限制其免费版本，导致社区强烈反对。我的自托管方法涉及设置 n8n 这样的产品的基本步骤，只需几分钟。]]></description>
+      <guid>https://t.me/hn_summary/84342</guid>
+      <pubDate>Sat, 13 Apr 2024 11:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“按引文排序 Google Scholar（Web-UI 版本）”项目是一个 Web 应用程序，旨在 [...]</title>
-      <link>https://t.me/hn_summary/84300</link>
-      <description><![CDATA[显示 HN：通过网络浏览器按引文对 Google 学者进行排序
-“Sort Google Scholar by Citations（Web-UI 版本）”项目是一个 Web 应用程序，允许用户搜索特定年份范围内发表的被引用最多的学术论文。它的灵感来自 @WittmannF 的工作，并通过提供用户友好的网络界面来按引用对 Google 学术搜索结果进行排序而与众不同。该项目包括通过克隆存储库和安装所需的 Python 包来设置应用程序的说明。此外，它还提供了绕过 Google 每日请求限制的策略，包括等待限制到期或使用代理服务轮换 IP 地址。]]></description>
-      <guid>https://t.me/hn_summary/84300</guid>
-      <pubDate>Sat, 13 Apr 2024 02:24:34 GMT</pubDate>
+      <title>[媒体] 德国之翼 9525 号航班是一场由副驾驶安德烈亚斯·卢比特 (Andreas Lubit) 故意造成的悲惨事故 [...]</title>
+      <link>https://t.me/hn_summary/84341</link>
+      <description><![CDATA[德国之翼 9525 航班
+德国之翼 9525 号航班是一起由副驾驶安德烈亚斯·卢比茨 (Andreas Lubitz) 故意造成的悲剧性事故，他有自杀倾向。事故导致 144 名乘客和 6 名机组人员全部死亡。尽管提出了新的安全建议，德国之翼航空和其他航空公司还是放弃了驾驶舱内始终配备两名授权人员的规定。围绕坠机事件的争议导致卢比茨的家人和官方调查结果产生了相互矛盾的意见。坠机地点位于法国阿尔卑斯山，交通不便，调查显示卢比茨故意锁上驾驶舱门并发起受控下降，导致惨烈坠机。 （根据故事文本的 19% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84341</guid>
+      <pubDate>Sat, 13 Apr 2024 10:25:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GitHub 上的“互联网收入被动货币”项目允许用户赚取被动收入 [...]</title>
-      <link>https://t.me/hn_summary/84299</link>
-      <description><![CDATA[显示 HN：互联网收入被动货币
-GitHub 上的“Internet Income Passive Money”项目允许用户通过在 Docker 容器中使用多个代理来共享互联网带宽，从而获得被动收入。该项目已经在各种平台上进行了测试，每月有可能赚取 50 美元左右或更多，具体取决于所使用代理的位置。该项目提供了基于代理类型的不同应用程序的比较，并提供了有关如何设置和运行脚本的详细说明。此外，该项目还解决了常见问题，并提供了有关排除特定应用程序常见问题的信息。 （根据 79% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84299</guid>
-      <pubDate>Sat, 13 Apr 2024 02:19:29 GMT</pubDate>
+      <title>在 gekk.info 上的“Running DOS Apps on Windows from 1.0 to 95 (2020)”中，作者深入研究了 [...]</title>
+      <link>https://t.me/hn_summary/84340</link>
+      <description><![CDATA[在 Windows 1.0 到 95 上运行 DOS 应用程序 (2020)
+在 gekk 上的“在 Windows 上从 1.0 到 95 (2020) 运行 DOS 应用程序”中。 info，作者深入研究了Windows 95对DOS软件用户的影响。他们探索了在 Windows 95 上启动 DOS 应用程序的过程，重点介绍了程序设置和视频显示方面的变化。本文还讨论了程序信息文件 (PIF) 的演变以及 Windows 95 中 PIF 的自动创建。作者指出了令人惊讶的细节，例如默认字体更改以及单个程序副本向特定 PIF 的转变。总体而言，本文详细介绍了 Windows 95 上 DOS 应用程序的兼容性和功能。（摘要基于 54% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/84340</guid>
+      <pubDate>Sat, 13 Apr 2024 10:01:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在此 Grok-1.5 Vision 预览中，x.ai 展示了一个简单 [...]</title>
-      <link>https://t.me/hn_summary/84298</link>
-      <description><![CDATA[Grok-1.5 视觉预览
-在此 Grok-1.5 Vision 预览版中，x.ai 展示了 Python一个简单猜谜游戏的代码翻译。该代码生成一个 1 到 10 之间的随机数，提示用户猜测。如果猜测与目标数字相符，则用户获胜。否则，我们鼓励他们再试一次。这段巧妙的代码让用户可以通过简单的Python脚本体验猜谜游戏的乐趣和挑战。]]></description>
-      <guid>https://t.me/hn_summary/84298</guid>
-      <pubDate>Sat, 13 Apr 2024 02:12:24 GMT</pubDate>
+      <title>为什么迈克尔·莫考克鄙视托尔金和 C.</title>
+      <link>https://t.me/hn_summary/84339</link>
+      <description><![CDATA[为什么迈克尔·莫考克鄙视托尔金和C.S.刘易斯
+迈克尔·莫考克 (Michael Moorcock) 的文章《史诗般的维尼》批评了托尔金和 C.S. 刘易斯等奇幻作家的感伤和异想天开的散文，将其与托儿所的摇篮曲进行了比较。莫科克认为，这种写作风格是保守和排外的，反映了对理想化过去的渴望。然而，莫科克自己的作品，例如《梅尔尼博内的埃里克》，既宏大又严肃，导致人们对他自己的标准产生质疑。虽然莫科克的批评很严厉，但并不总是连贯的，他反对感伤散文的论点可能经不起推敲。最终，莫科克的文章引发了关于奇幻文学的本质以及感伤在讲故事中的作用的争论。 （根据 36% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84339</guid>
+      <pubDate>Sat, 13 Apr 2024 09:41:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]加州大学伯克利分校的一位大气化学家在海湾周围建立了一个传感器网络[...]</title>
-      <link>https://t.me/hn_summary/84297</link>
-      <description><![CDATA[电动汽车正在降低湾区的碳足迹
-加州大学伯克利分校的一位大气化学家在湾区周围建立了一个传感器网络，结果显示电动汽车每年可减少 2.6% 的碳排放。然而，这一下降幅度低于加州到 2045 年实现净零排放目标所需的 3.7%。该研究强调了加快采取行动减少二氧化碳排放的迫切需要。这些传感器每个成本不到 10,000 美元，已被洛杉矶和格拉斯哥等城市用于污染监测。这项研究发表在《环境科学与技术》上，将直接二氧化碳测量与气象数据相结合来跟踪排放量。]]></description>
-      <guid>https://t.me/hn_summary/84297</guid>
-      <pubDate>Sat, 13 Apr 2024 02:10:21 GMT</pubDate>
+      <title>[媒体]计算机科学中的程序综合涉及构建一个满足 for [...]</title>
+      <link>https://t.me/hn_summary/84338</link>
+      <description><![CDATA[程序综合
+计算机科学中的程序综合涉及构建满足正式规范的程序，从而减轻程序员编写代码的负担。这个概念可以追溯到 1957 年的 Alonzo Church，多年来不断发展，采用了语法引导综合等现代方法。该框架使用逻辑规范和上下文无关语法来自动寻找解决方案。 1980 年的 Manna 和 Waldinger 框架专注于从一阶规范公式合成函数程序，通过构造保证正确性。程序综合在形式化验证及相关领域具有实际应用，使其成为21世纪研究​​和发展的重点领域。 （根据故事文本的 34% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84338</guid>
+      <pubDate>Sat, 13 Apr 2024 09:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇博文中，我分享了使用 ESPHome 创建 DIY Wi-Fi 恒温器的经验 [...]</title>
-      <link>https://t.me/hn_summary/84296</link>
-      <description><![CDATA[使用 ESPHome 和 Home Assistant 从头开始​​ DIY Wi-Fi 恒温器
-在这篇博文中，我分享了使用 ESPHome 和 Home Assistant 创建 DIY Wi-Fi 恒温器以实现家庭供暖系统自动化的经验。我深入研究了供暖系统的复杂性，包括壁挂式散热器、加热地板和间接热水器。通过利用 PID 控制器和 OpenTherm 技术，我能够有效地控制目标室温和热水温度。我还讨论了温度、压力和锅炉参数的监控。此外，我还提供了有关配置和焊接过程以及将 ESPHome 与 Home Assistant 集成以实现无缝控制的见解。总体而言，该项目展示了家庭供暖系统 DIY 自动化的力量。 （根据 47% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84296</guid>
-      <pubDate>Sat, 13 Apr 2024 02:04:16 GMT</pubDate>
+      <title>Anbernic RG353V/S 是一款手持式游戏系统，可转变为袖珍 Li [...]</title>
+      <link>https://t.me/hn_summary/84337</link>
+      <description><![CDATA[AnberDeck mod 将 Anbernic RG353V 游戏系统变成手持 Linux 终端
+Anbernic RG353V/S 是一款手持游戏系统，可以通过 AnberDeck 模组转变成袖珍 Linux 终端。 Reddit 用户 gthing 详细介绍了他们如何添加键盘和 Ubuntu Linux 来创建这款独特的设备。虽然该项目非常聪明且令人惊讶，但它确实存在一些缺点，例如由于添加的组件而导致成品厚度增加。尽管如此，AnberDeck 提供了一种创造性的方法，将游戏机重新转变为功能强大的手持电脑。 Anbernic RG353V/S 在速卖通上的售价约为 74 美元，在 Anbernic 网站上的售价约为 88 美元。]]></description>
+      <guid>https://t.me/hn_summary/84337</guid>
+      <pubDate>Sat, 13 Apr 2024 08:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>令人惊讶的是，Ubuntu 24.04 和 Debian 已从 SSH 服务器依赖项中删除了 libsystemd。</title>
-      <link>https://t.me/hn_summary/84295</link>
-      <description><![CDATA[Ubuntu 24.04（和 Debian）从 SSH 服务器依赖项中删除了 libsystemd
-令人惊讶的是，Ubuntu 24.04 和 Debian 已从 SSH 服务器依赖项中删除了 libsystemd。此更改可能会影响依赖 libsystemd 来实现某些功能的用户。然而，它也意味着向减少依赖性和简化系统的转变。我们鼓励用户适应这一变化，并在需要时探索替代解决方案。请继续关注有关此决定将如何影响 SSH 服务器的整体性能和功能的更多更新。请访问 fosstodon.org 了解有关开源软件的更多信息和更新事态发展。]]></description>
-      <guid>https://t.me/hn_summary/84295</guid>
-      <pubDate>Sat, 13 Apr 2024 02:02:11 GMT</pubDate>
+      <title>[媒体] 翼地效应船（飞机？</title>
+      <link>https://t.me/hn_summary/84336</link>
+      <description><![CDATA[翼地效应船（飞机？）2018
+Wiget Works AirFish 8 (AF8) 是一款独特的 8-10 座 WIG 水上飞机，专为民用运输而设计。它由紧凑型 V8 汽车发动机提供动力，拥有令人印象深刻的性能指标，包括 500 米的起飞距离和 106 节的最高速度。它由 2 名船员操作，航程为 300 海里，高度可达 7 米。未来主义思想领袖和科普博主 Brian Wang 在他的博客上重点介绍了这款创新飞机 Nextbigfuture.com，以涵盖太空、机器人和人工智能等颠覆性技术而闻名。]]></description>
+      <guid>https://t.me/hn_summary/84336</guid>
+      <pubDate>Sat, 13 Apr 2024 07:57:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
