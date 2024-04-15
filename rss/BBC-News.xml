@@ -4,34 +4,48 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 15 Apr 2024 06:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 09:10:43 GMT</lastBuildDate>
+    <item>
+      <title>年轻的鼻细胞可能有助于儿童抵抗新冠病毒</title>
+      <link>https://www.bbc.co.uk/news/health-68800452</link>
+      <description><![CDATA[实验室测试表明，衰老的成人鼻细胞在感染后不久含有的病毒数量增加了 100 倍。]]></description>
+      <guid>https://www.bbc.co.uk/news/health-68800452</guid>
+      <pubDate>Mon, 15 Apr 2024 09:08:14 GMT</pubDate>
+    </item>
     <item>
       <title>伊朗袭击以色列后油价下跌</title>
       <link>https://www.bbc.co.uk/news/business-68812949</link>
       <description><![CDATA[在行动预期中，价格已经上涨，布伦特原油上周接近六个月高点。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68812949</guid>
-      <pubDate>Mon, 15 Apr 2024 06:06:02 GMT</pubDate>
+      <pubDate>Mon, 15 Apr 2024 09:06:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有争议的半程马拉松成绩正在调查</title>
+      <link>https://www.bbc.co.uk/sport/athletics/68815592</link>
+      <description><![CDATA[北京半程马拉松的组织者将调查三名非洲运动员故意让中国明星运动员何洁赢得周日比赛的指控。]]></description>
+      <guid>https://www.bbc.co.uk/sport/athletics/68815592</guid>
+      <pubDate>Mon, 15 Apr 2024 08:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>议员们对卢旺达法案进行投票，僵局仍在继续</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68815191</link>
+      <description><![CDATA[据报道，英国已与其他国家举行会谈，如果成功的话，将复制该计划。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68815191</guid>
+      <pubDate>Mon, 15 Apr 2024 08:24:16 GMT</pubDate>
     </item>
     <item>
       <title>警方称悉尼凶手“明显”以女性为目标</title>
       <link>https://www.bbc.co.uk/news/world-68814395</link>
       <description><![CDATA[周六，40 岁的乔尔·考奇 (Joel Cauchi) 在悉尼一个拥挤的购物中心刺死了 6 人。]]></description>
       <guid>https://www.bbc.co.uk/news/world-68814395</guid>
-      <pubDate>Mon, 15 Apr 2024 05:46:38 GMT</pubDate>
+      <pubDate>Mon, 15 Apr 2024 08:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>默哀纪念希尔斯伯勒成立 35 周年</title>
-      <link>https://www.bbc.co.uk/news/uk-england-merseyside-68788874</link>
-      <description><![CDATA[35年前足总杯半决赛停摆时，利物浦将默哀一分钟。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-merseyside-68788874</guid>
-      <pubDate>Mon, 15 Apr 2024 05:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官认定澳大利亚议会强奸案报道属实</title>
-      <link>https://www.bbc.co.uk/news/world-australia-68814811</link>
-      <description><![CDATA[布鲁斯·莱曼 (Bruce Lehrmann) 起诉一家电视网络，因为该电视网络播出了布列塔尼·希金斯 (Brittany Higgins) 声称她在议会大厦内被强奸的说法。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-australia-68814811</guid>
-      <pubDate>Mon, 15 Apr 2024 04:39:04 GMT</pubDate>
+      <title>巨石阵研究探索可能与月球的联系</title>
+      <link>https://www.bbc.com/news/articles/c80zexkvenko</link>
+      <description><![CDATA[研究人员正在调查这座古老的纪念碑是否与月球的一次重大停顿相符。]]></description>
+      <guid>https://www.bbc.com/news/articles/c80zexkvenko</guid>
+      <pubDate>Mon, 15 Apr 2024 05:38:18 GMT</pubDate>
     </item>
     <item>
       <title>特朗普首次刑事审判将在纽约开始</title>
@@ -46,13 +60,6 @@
       <description><![CDATA[作者于 2022 年在舞台上被刺伤，他告诉 BBC，他以为自己快要死了。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68739586</guid>
       <pubDate>Mon, 15 Apr 2024 01:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰的发电厂受到俄罗斯导弹的摆布</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68813529</link>
-      <description><![CDATA[俄罗斯现在经常以乌克兰的能源基础设施为目标，试图削弱该国。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68813529</guid>
-      <pubDate>Mon, 15 Apr 2024 01:00:03 GMT</pubDate>
     </item>
     <item>
       <title>全民信贷“必须改变”以应对疾病</title>
@@ -83,6 +90,13 @@
       <pubDate>Sun, 14 Apr 2024 21:30:21 GMT</pubDate>
     </item>
     <item>
+      <title>“这是英超冠军潮流逆转的一天吗？”</title>
+      <link>https://www.bbc.co.uk/sport/football/68814043</link>
+      <description><![CDATA[阿森纳和利物浦能否在英超冠军争夺战中从残酷的打击中反击，或者势头决定性地转向曼城？]]></description>
+      <guid>https://www.bbc.co.uk/sport/football/68814043</guid>
+      <pubDate>Sun, 14 Apr 2024 20:00:49 GMT</pubDate>
+    </item>
+    <item>
       <title>鲍文：在以色列讨论伊朗袭击反应之际，美国及其盟国能否停止陷入全面战争？</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68812884</link>
       <description><![CDATA[世界领导人正在努力防止中东陷入一场破坏性的更广泛的冲突。]]></description>
@@ -90,23 +104,9 @@
       <pubDate>Sun, 14 Apr 2024 17:36:23 GMT</pubDate>
     </item>
     <item>
-      <title>计划抵制唐宁街开斋节庆祝活动</title>
-      <link>https://www.bbc.co.uk/news/uk-england-london-68811437</link>
-      <description><![CDATA[据英国广播公司了解，一些保守党政客以及商界和慈善界领袖不会出席。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-london-68811437</guid>
-      <pubDate>Sun, 14 Apr 2024 16:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>慈善机构计划对卢旺达的驱逐行动采取法律行动</title>
-      <link>https://www.bbc.co.uk/news/uk-68809947</link>
-      <description><![CDATA[此举出台之际，预计未来几天将通过恢复拆除计划的立法。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68809947</guid>
-      <pubDate>Sun, 14 Apr 2024 10:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国秘书长警告称，伊朗袭击以色列后，中东“处于边缘”</title>
+      <title>英国外交大臣称导弹袭击对伊朗来说是“双重失败”</title>
       <link>https://www.bbc.co.uk/news/live/world-middle-east-68737710</link>
-      <description><![CDATA[安东尼奥·古特雷斯表示，周六的导弹袭击后，该地区有发生全面冲突的危险。]]></description>
+      <description><![CDATA[戴维·卡梅伦表示，以色列在考虑如何应对周六的袭击时必须“既聪明又强硬”。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-middle-east-68737710</guid>
       <pubDate>Sat, 13 Apr 2024 20:48:29 GMT</pubDate>
     </item>

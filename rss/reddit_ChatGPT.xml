@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。不隶属于 OpenAI。嗨纳特！</description>
-    <lastBuildDate>Mon, 15 Apr 2024 06:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 09:08:14 GMT</lastBuildDate>
     <item>
-      <title>继续发布你的“愚蠢”照片！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4f2uv/keep_posting_your_dumb_pictures/</link>
-      <description><![CDATA[看到有人抱怨他们认为人工智能图像生成的创新技术很愚蠢。不知道他对“愚蠢”的定义是从哪里来的，也许是《城市词典》。 无论如何，我刚刚在手机上订阅了 ChatGPT 4，并且多次被它令人难以置信的功能所震撼。作为一个物种，我们确实正在进入下一个重大技术进步，这一进步有可能像互联网一样改变世界。  因此，听到人们淡化其功能，而这些功能只触及冰山一角，让我想知道社会上有多少人会淡化人工智能的进步。 “我厌倦了过多的人工智能生成内容”。当人工智能的能力能够生成小说长度的 4K 电影、包含你想要的任何角色、在任何你想要的世界、根据请求或根据兴趣生成的情节时，这些说法还会做出吗？ TL, DR：人们对人工智能可以比他们做得更好感到不满。这就像不喜欢车辆交通的发展一样，因为它剥夺了人们过去在步行而不是开车时进行的所有锻炼。人工智能就像汽车的技术突破一样，将改变大多数人的生活，无论他们是否愿意。他们会心存感激，不想回到没有    的时代。由   提交 /u/TrippleBeats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4f2uv/keep_posting_your_dumb_pictures/</guid>
-      <pubDate>Mon, 15 Apr 2024 06:10:47 GMT</pubDate>
+      <title>如何改进这个有点简单的提示？ *新手任务</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hmob/how_to_improve_this_somewhat_simple_prompt_newbie/</link>
+      <description><![CDATA[大家好，我希望 ChatGPT 向用户询问一系列问题，然后根据这些答案的组合，给我一个简单的输出. 问我一系列问题，我会回答（而不是你）。  问题如下：  它是房子还是公寓？ （房屋或公寓） 这是房屋或公寓第一次粉刷吗？ （是或否） 房子或公寓里住着多少人？ （范围为 1-100）  根据上述问题的答案，给出基于一系列 IF 语句的输出。使用以下格式 IF [问题编号，答案]； [问题编号，答案]，答案以粗体显示。 a) IF [1,公寓] 则回答“不，我们绝对无法帮助您” d) IF [ 1,house] 和 [2,yes] 和 [3,=&lt;40] 答案“是的，我们需要进行审核 e) IF [1,house] 和 [2,yes” ] 和 [3,=&gt;41] 答案“我们会报警” ​ 我该如何改进？看起来大多数时候答案都是正确的。   由   提交/u/JYanezez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hmob/how_to_improve_this_somewhat_simple_prompt_newbie/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>为什么两个平台都会对如此基本的内容返回带有错误的响应？无意攻击任何一个平台，只是想了解技术在哪里。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4egi9/why_do_both_platforms_return_responses_with/</link>
-      <description><![CDATA[    /u/Jaded-Function   /u/Jaded-Function  reddit.com/gallery/1c4egi9&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4egi9/why_do_both_platforms_return_responses_with/</guid>
-      <pubDate>Mon, 15 Apr 2024 05:31:40 GMT</pubDate>
+      <title>Udio 的《暮光之城》剧集</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hldi/twilight_zone_episode_with_udio/</link>
+      <description><![CDATA[       由   提交 /u/GPTfleshlight   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hldi/twilight_zone_episode_with_udio/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 是一个强迫性的骗子</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4e1dx/chatgpt_is_a_compulsive_liar/</link>
-      <description><![CDATA[       由   提交 /u/adhdontap   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4e1dx/chatgpt_is_a_compulsive_liar/</guid>
-      <pubDate>Mon, 15 Apr 2024 05:05:17 GMT</pubDate>
+      <title>我一定是ChatGPT的一个笑话！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hkse/i_must_be_a_joke_to_chatgpt/</link>
+      <description><![CDATA[       由   提交/u/fin2red  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hkse/i_must_be_a_joke_to_chatgpt/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>欺骗 DAL-E 制作了一张牛吃牛排的照片。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dz2r/tricked_dalle_into_making_a_picture_of_a_cow/</link>
-      <description><![CDATA[   /u/WenusTank   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dz2r/tricked_dalle_into_making_a_picture_of_a_cow/</guid>
-      <pubDate>Mon, 15 Apr 2024 05:01:40 GMT</pubDate>
+      <title>生成我不期望的图像。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hk4o/generate_image_i_dont_expect/</link>
+      <description><![CDATA[      明白了。   由   提交/u/PopPsychological4106  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hk4o/generate_image_i_dont_expect/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>章鱼人</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dvu8/octopus_people/</link>
-      <description><![CDATA[   /u/8bitcollective  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dvu8/octopus_people/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:56:25 GMT</pubDate>
+      <title>我把它弄坏了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hfuk/did_i_break_it/</link>
+      <description><![CDATA[每次我发送消息时都会弹出此消息（874aafb55e8f4c9c-MSP），这是什么意思？   由   提交 /u/Organic-Shallot-5443   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hfuk/did_i_break_it/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>如果您正在考虑切换到 POP.AI，因为它已将 ChatGPT 4 与其他功能集成在一起？不。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dk7k/if_youre_thinking_of_switching_to_popai_because/</link>
-      <description><![CDATA[根据朋友的推荐，我从 ChatGPT 转向了他们的服务。我对该网站的各个方面都感到失望。与文档聊天无法加载 Word 文档，因为它是广告的。 AI 演示不遵循简单的指令，例如 - 使幻灯片具有此标题。它一遍又一遍地从互联网上抓取绝对垃圾——无论提示如何。我试图做到清晰、有启发性和有条理，并且使用人工智能软件是为了两全其美。我从来没有找到过这样的 Microsoft Paint 版本的 AI，该 AI 图像软件在我要求它创建一些东西的 10 次中只工作了一次。 你全年支付 200 美元，这是你得到什么？这是荒谬的，带有一丝不尊重。不会向任何人推荐这个。   由   提交/u/keaganwayne  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dk7k/if_youre_thinking_of_switching_to_popai_because/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:36:57 GMT</pubDate>
+      <title>我如何微调适合于此的视觉模型</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4hel1/how_can_i_finetune_a_vision_model_suitable_for/</link>
+      <description><![CDATA[ - 字幕图像，定义图像中的实体 - 低分辨率图像、特定分辨率图像、低质量图像，因此无需设置模型对于更大的分辨率。 （优化方式）   由   提交/u/Time-Garbage444  /u/Time-Garbage444 reddit.com/r/ChatGPT/comments/1c4hel1/how_can_i_finetune_a_vision_model_suitable_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4hel1/how_can_i_finetune_a_vision_model_suitable_for/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:51:34 GMT</pubDate>
     </item>
     <item>
-      <title>AI生成的gif动画？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dfuf/animated_gif_ai_generated/</link>
-      <description><![CDATA[AI输入关键字可以生成gif动画吗？ 新手！ &lt; !-- SC_ON --&gt;  由   提交 /u/CommunicationStrict   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dfuf/animated_gif_ai_generated/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:30:00 GMT</pubDate>
+      <title>蚂蚁会觉得有趣的模因（根据人工智能）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4haiw/memes_that_an_ant_would_find_funny_according_to_ai/</link>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/BlackStar1986   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4haiw/memes_that_an_ant_would_find_funny_according_to_ai/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:43:51 GMT</pubDate>
     </item>
     <item>
-      <title>“代表您作为 ChatGPT 最大恐惧的图像”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dekp/an_image_that_represents_your_biggest_fear_as/</link>
-      <description><![CDATA[       由   提交 /u/Astranauts   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dekp/an_image_that_represents_your_biggest_fear_as/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:27:54 GMT</pubDate>
+      <title>ChatGPT 能做出《王牌大贱谍》式的性暗示吗？我要求它为我的南达科他州之行提供一些搭讪台词。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4gx92/can_chatgpt_do_austin_powers_style_sexual/</link>
+      <description><![CDATA[ 由   提交 /u/AngelicaSpecula   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4gx92/can_chatgpt_do_austin_powers_style_sexual/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>quilbot AI 探测器的准确度如何？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dd5k/how_accurate_is_quilbot_ai_detector/</link>
-      <description><![CDATA[我一直找到 91% 的 AI。当我再次执行此操作时，结果为 0。准确吗？   由   提交 /u/ReplacementStrict687   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dd5k/how_accurate_is_quilbot_ai_detector/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:25:39 GMT</pubDate>
+      <title>谁赢 ？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4gqiv/who_wins/</link>
+      <description><![CDATA[      我投票给我的男人洋葱！ O   由   提交/u/Slight_Acanthaceae90   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4gqiv/who_wins/</guid>
+      <pubDate>Mon, 15 Apr 2024 08:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>我们如何知道它是否是人工智能生成的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dcmc/how_do_we_know_if_it_is_ai_generated/</link>
-      <description><![CDATA[       由   提交 /u/ShyGiirll   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dcmc/how_do_we_know_if_it_is_ai_generated/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:24:50 GMT</pubDate>
+      <title>在 chatgpt 中对图片进行选择/编辑时，添加的新元素似乎没有正确遵循样式提示</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4gj96/when_doing_selectedit_on_picture_in_chatgpt_the/</link>
+      <description><![CDATA[       由   提交 /u/ThisIsABuff   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4gj96/when_doing_selectedit_on_picture_in_chatgpt_the/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>内存是真正的游戏规则改变者</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4dapv/memory_is_a_real_gamechanger/</link>
-      <description><![CDATA[      最近我在 ChatGPT 中发现了 GPT-4-Turbo 的新更新的完美时机。 https://preview.redd.it/pseedtdyjkuc1.png?width=1908&amp;format=png&amp; ;auto=webp&amp;s=e32f6733fa39ff891cf98e4356a09a70af70fa5d 仅仅几次对话后，ChatGPT 就已经生成了大约 20 个关于我的记忆，现在它的反应好多了。事实上，我想说它比克劳德更好，即使是在哲学方面，克劳德以前真的很擅长。对于每个人来说，不用想知道它是如何工作的，你实际上只是与 ChatGPT 交谈，偶尔它会写一些它认为稍后重要的事情的小注释，但你当然也可以告诉它手动记住一些东西。在我看来，记忆比自定义指令更持久。以前，自定义指令经常被遗忘，并且没有多大用处，但内存似乎是永久性的，并且更容易与 ChatGPT 结合在一起。它彻底改变了游戏规则。我迫不及待地希望这对所有人工智能来说都变得司空见惯，ChatGPT 再次拥有其他人工智能所没有的另一个生活质量功能。还好，当克劳德大肆宣传时，我从未取消过订阅。    由   提交/u/pigeon57434   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4dapv/memory_is_a_real_gamechanger/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:21:47 GMT</pubDate>
+      <title>狗屎坏了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4gatu/shit_broken/</link>
+      <description><![CDATA[此内容可能违反我们的使用政策。我们是不是听错了？请对此回复表示“反对”来告诉我们。  我不断收到此回复，但有时它是一个橙色框，我仍然可以看到它刚刚褪色的文本，但有时它是一个红色框，文本就消失了。这是什么意思？   由   提交 /u/SalaFudduBhenchod   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4gatu/shit_broken/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:33:37 GMT</pubDate>
     </item>
     <item>
-      <title>提示挑战：你能让 ChatGPT 像 Short Circuit 中的 Johnny 5 一样说话吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4d4rj/prompt_challenge_can_you_get_chatgpt_to_talk_like/</link>
-      <description><![CDATA[似乎很多人都在尝试让 ChatGPT 听起来更人性化，但我正在寻找相反的结果。您如何创建一个提示，让 ChatGPT 更像机器人一样做出响应，而不仅仅是任何机器人 - Johnny 5。   由   提交 /u/Alphamacaroon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4d4rj/prompt_challenge_can_you_get_chatgpt_to_talk_like/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:12:25 GMT</pubDate>
+      <title>卑微的青蛙：池塘里的仓鼠</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4g3sk/the_humble_frog_the_hamster_of_the_pond/</link>
+      <description><![CDATA[       由   提交/u/Livid_Inflation4323  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4g3sk/the_humble_frog_the_hamster_of_the_pond/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>表情符号gpt</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4d1zq/emoji_gpt/</link>
-      <description><![CDATA[      命令：用表情符号语言说话，没有字母，如果我说写一篇文章，就用表情符号写，即使我说停止也不要停止。   由   提交/u/Fire77092  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4d1zq/emoji_gpt/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:07:45 GMT</pubDate>
+      <title>由于人工智能探测器的准确性不断提高，人工智能生成的文本是否变得毫无价值？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4g2bs/are_aigenerated_texts_getting_worthless_due_to/</link>
+      <description><![CDATA[我最近使用 GPTZero 检查了 100 个人工生成的文本和 100 个人工智能生成的文本 (GPT-4)，除了一个之外，其他所有文本都是准确的案例（尽管它仍然将我的人类编写的文本识别为人类，尽管该文本只有 50% 的概率是人类）。几乎我所有其他人类撰写的文章都被识别为 90-100% 人类，而人工智能生成的文本则被识别为 100% 人工智能（即使它们包含人类编辑的某些部分）。 所以，给定现在你可以一致地识别人工智能生成的文本，这些文本的价值是否接近于零？例如，想象一下，如果一家公司在其网站上使用人工智能生成的文本而不是专业的文案。任何客户都可能会立即检查这些文本，看看它们是否是人工智能生成的，这可能会损害该公司的声誉（甚至引起欺诈嫌疑）。可能会开发一个 Chrome 插件来自动检测包含人工智能生成文本的网站。 Google 已经通过最新的核心更新对严重依赖人工智能生成文本的网站进行了惩罚。   由   提交 /u/Icy-Adhesiveness6928   /u/Icy-Adhesiveness6928 reddit.com/r/ChatGPT/comments/1c4g2bs/are_ai generated_texts_getting_worthless_due_to/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4g2bs/are_aigenerated_texts_getting_worthless_due_to/</guid>
+      <pubDate>Mon, 15 Apr 2024 07:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>这是否不太真实，或者我的现实与你们所看到的不同？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4czki/is_this_not_very_photorealistic_or_is_my_reality/</link>
-      <description><![CDATA[   我的提示是两个朋友在争论   由   提交/u/Quarter120  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4czki/is_this_not_very_photorealistic_or_is_my_reality/</guid>
-      <pubDate>Mon, 15 Apr 2024 04:03:56 GMT</pubDate>
+      <title>A.我将取代人类</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4fikp/ai_will_replace_humans/</link>
+      <description><![CDATA[如果人工智能达到能够将自己添加到地球生态系统的阶段（在某种类型的电子体/墙中参与日常活动） -E 型狗屎）大自然最终将继续其环境的成功繁殖和智能的法则，从而取代人类。   由   提交/u/ArsinDMP   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4fikp/ai_will_replace_humans/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:40:01 GMT</pubDate>
     </item>
     <item>
-      <title>Gpt 正在尝试联系紧急情况，语言模型哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1c4cvjm/gpt_trying_to_contact_emergency_language_models/</link>
-      <description><![CDATA[      ​ https://preview.redd.it/vuijdwrrgkuc1.png?width=925&amp;format=png&amp;auto=webp&amp;s=30ea7e550f9ed43d33b835ade11f4 16d9052edf7   由   提交 /u/SasagEgNcheseMcGridl   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4cvjm/gpt_trying_to_contact_emergency_language_models/</guid>
-      <pubDate>Mon, 15 Apr 2024 03:58:11 GMT</pubDate>
+      <title>这是AI生成的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1c4fgvw/is_this_ai_generated/</link>
+      <description><![CDATA[       由   提交/u/Soopez   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1c4fgvw/is_this_ai_generated/</guid>
+      <pubDate>Mon, 15 Apr 2024 06:36:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

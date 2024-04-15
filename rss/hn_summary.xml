@@ -4,7 +4,79 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 05:59:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 08:54:31 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] GitHub 上的“Better Adb-Shell”项目旨在增强 adb 的功能 [...]</title>
+      <link>https://t.me/hn_summary/84606</link>
+      <description><![CDATA[更好的 Adb-Shell
+GitHub 上的“Better Adb-Shell”项目旨在通过利用 mksh（Android 设备上的默认 shell）的选项来增强 adb shell 的功能。它提供了诸如彩色提示、键盘快捷键、用于轻松目录导航的 CDPATH、ls 别名以及基本命令的附加别名等功能。该项目提供了 Linux、macOS 和 Windows 的安装说明，以及用于手动配置的高级安装选项。作者鼓励通过 GitHub issues 进行贡献和反馈，并提到了通过给他们买杯咖啡来支持该项目的选项。与标准 adb shell 相比，该项目的独特之处在于提供了更加用户友好且功能丰富的 adb shell 体验。]]></description>
+      <guid>https://t.me/hn_summary/84606</guid>
+      <pubDate>Mon, 15 Apr 2024 08:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克·安德森 (Marc Andreessen) 最近对没有采取更多措施支持和捍卫布伦丹·艾克 (Brendan Eic) 表示遗憾 [...]</title>
+      <link>https://t.me/hn_summary/84605</link>
+      <description><![CDATA[Marc Andreessen：我很遗憾没有采取更多措施来支持和捍卫 Brendan Eich 
+马克·安德森 (Marc Andreessen) 最近对没有采取更多措施支持和捍卫 Mozilla 前首席执行官布伦丹·艾希 (Brendan Eich) 表示遗憾，布伦丹·艾希因反对同性婚姻而面临强烈反对。安德森的声明强调了围绕艾希辞职的争议，以及坚持个人信仰的重要性，即使这些信仰不受欢迎。科技行业一位知名人士的这一承认令人惊讶且发人深省，引发了一场关于盟友在捍卫边缘化声音方面的作用的讨论。它提醒人们在逆境中团结和支持的力量。]]></description>
+      <guid>https://t.me/hn_summary/84605</guid>
+      <pubDate>Mon, 15 Apr 2024 08:43:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]西部数据推出了突破性的 4TB SD 卡 SanDisk Extreme PRO S [...]</title>
+      <link>https://t.me/hn_summary/84604</link>
+      <description><![CDATA[WD推出4TB SD卡
+西部数据在 2024 年 NAB 展会上推出了一款突破性的 4TB SD 卡——SanDisk Extreme PRO SDUC UHS-I 存储卡。这种海量存储容量是最大 microSD 卡的两倍，使其成为世界上最大的可移动存储卡。新卡采用SDUC标准，能够支持高达128TB的存储。此版本是西部数据为满足对高分辨率和高帧速率内容创建日益增长的需求而做出的努力的一部分。虽然定价细节尚未披露，但这种创新的存储解决方案必将彻底改变整个行业。]]></description>
+      <guid>https://t.me/hn_summary/84604</guid>
+      <pubDate>Mon, 15 Apr 2024 08:31:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]Nvidia中层员工获得6200​​万美元股票期权；</title>
+      <link>https://t.me/hn_summary/84603</link>
+      <description><![CDATA[Nvidia 中层员工获得 6200 万美元股票期权；另一个失去了一切
+《巴伦周刊》撰稿人 Tae Kim 最近在推特上强调了公司股票计划可以带来令人难以置信的财富，一名 Nvidia 中层员工积累了 6200 万美元的股票期权。这名员工充分利用了 Nvidia ESPP，而另一名员工则因保证金账户错误而损失了一大笔钱。不太知名的 Nvidia 联合创始人柯蒂斯·普里姆 (Curtis Priem) 也提前套现，错失了 700 亿美元的潜在价值。尽管经历了这些起起落落，英伟达无可否认的成功导致了有关富有员工以半退休模式工作的报道。这个故事展示了 Nvidia 员工股票期权的高潮和低谷。]]></description>
+      <guid>https://t.me/hn_summary/84603</guid>
+      <pubDate>Mon, 15 Apr 2024 08:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网页内容的作者讨论了他们在 Emacs 中使用 org-mode 的旅程 [...]</title>
+      <link>https://t.me/hn_summary/84602</link>
+      <description><![CDATA[美化 Emacs 中的 Org 模式（2018）
+Web 内容的作者讨论了他们在 Emacs 中使用 org-mode 进行写作和编程的历程，强调了它的灵活性和强大功能。他们都希望通过对文本使用比例字体和对代码块使用等宽字体来使编辑环境在视觉上更具吸引力。作者提供了有关为组织标题和列表配置面孔、设置可变间距和固定间距面孔、使用长线和视觉线模式以及为特定组织元素配置面孔的详细步骤。作者还提供了自定义的提示和建议，使 Emacs 中的 org 文档看起来美观且可读。 （根据 81% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/84602</guid>
+      <pubDate>Mon, 15 Apr 2024 08:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]在罗马附近的水下村庄 La Marmotta 发现了五艘古代独木舟，[...]</title>
+      <link>https://t.me/hn_summary/84601</link>
+      <description><![CDATA[在罗马西北部发现的独木舟是地中海发现的最古老的船只
+在罗马附近的水下村庄拉马尔莫塔发现了五艘古代独木舟，揭示了地中海迄今为止发现的最古老的船只。这些 32 英尺长的船只的历史可以追溯到公元前 5700-5100 年，配备了先进的海事技术，包括拖曳配件和加固装置。独木舟由不同类型的木材制成，表明早期地中海村庄的专业化。一些令人兴奋的发现，例如带有钻孔的 T 形物体，表明这些船只曾用于贸易、运输货物、人和动物。这一发现挑战了以往对古代社会的看法，展示了复杂的社会组织水平。]]></description>
+      <guid>https://t.me/hn_summary/84601</guid>
+      <pubDate>Mon, 15 Apr 2024 08:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 由于版权问题，苹果已将 iGBA Game Boy 模拟器从 App Store 下架 [...]</title>
+      <link>https://t.me/hn_summary/84600</link>
+      <description><![CDATA[Apple因侵犯版权而从 App Store 下架 Game Boy Emulator iGBA&lt; /a&gt;
+由于侵犯版权和垃圾邮件问题，Apple 已从 App Store 中删除了 iGBA Game Boy 模拟器。该应用程序是 GBA4iOS 的山寨版本，由开发人员 Riley Testut 创建。用户抱怨该应用程序充满广告和跟踪。目前还不清楚苹果是否因为抄袭了GBA4iOS而删除了iGBA。任天堂警告不要下载盗版游戏，但不知道他们是否对 iGBA 提出了投诉。尽管苹果最近的更新允许复古游戏机模拟器，但此类应用程序的命运仍然不确定。此后，Testut 创建了另一个名为 Delta 的模拟器，可在 App Store 之外使用。]]></description>
+      <guid>https://t.me/hn_summary/84600</guid>
+      <pubDate>Mon, 15 Apr 2024 07:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]此网页内容探讨了 22q11.2 缺失的可复制功能性大脑特征 [...]</title>
+      <link>https://t.me/hn_summary/84599</link>
+      <description><![CDATA[22q11.2缺失综合征和精神病的可复制功能性大脑特征
+该网络内容探讨了 22q11.2 缺失综合征和精神病的可复制功能性大脑特征，揭示了这些疾病的遗传和神经学方面。有争议的是，患有静脉心面综合征的成年人精神分裂症的高发病率以及拷贝数变异与精神分裂症之间的潜在联系受到关注。令人惊讶的是，该研究深入探讨了 22q11.2 缺失综合征患者的精神疾病、智力功能和大脑结构之间的复杂联系。独特的发现包括使用静息态连接模式识别精神病以及基于内在连接网络对 22q11.2 缺失的青少年精神病症状进行分类。 （根据故事文本的 26% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/84599</guid>
+      <pubDate>Mon, 15 Apr 2024 07:32:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型语言模型的进步引起了人们对其准确性和传输的担忧 [...]</title>
+      <link>https://t.me/hn_summary/84598</link>
+      <description><![CDATA[Patchscopes：用于查看语言模型隐藏表示的框架
+大型语言模型的进步引起了人们对其准确性和透明度的担忧。为了解决这个问题，谷歌开发了 Patchscopes，这是一个框架，可以通过探索这些模型的隐藏表示来更深入地了解这些模型的工作原理。这种创新方法使用模型本身生成的自然语言解释来深入了解它们如何处理信息和做出预测。 Patchscopes 有潜力提高语言模型的准确性并解决推理错误和模型幻觉等问题。该框架在自然语言处理之外具有广泛的应用，包括多模态表示和复杂的预测场景。]]></description>
+      <guid>https://t.me/hn_summary/84598</guid>
+      <pubDate>Mon, 15 Apr 2024 06:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体]在 Stedi，我们遵循一个独特的框架，该框架有时可能会停止产品开发，并且 [...]</title>
       <link>https://t.me/hn_summary/84597</link>
@@ -12,80 +84,6 @@
 在 Stedi，我们遵循一个独特的框架，该框架有时可能会停止产品开发并且变得乏味，但符合我们的长期目标。我们的主要原则包括最大限度地减少运营劳力和消除浪费。我们优先考虑安全和随叫随到实践，将所有基础设施定义为代码，并自动进行依赖项更新。我们的组件选择框架优先考虑托管无服务器原语、开源库和我们自己的代码。我们强调持续改进和沟通，讨论权衡和障碍。我们相信书面沟通能够澄清和完善想法。如果您认同我们的原则并在理念上与我们的工作方式保持一致，请加入我们。 （根据 90% 的故事文本进行总结。）]]></description>
       <guid>https://t.me/hn_summary/84597</guid>
       <pubDate>Mon, 15 Apr 2024 05:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>德根共产主义被视为一种前瞻性的政治意识形态，它拥抱混乱，同时[...]</title>
-      <link>https://t.me/hn_summary/84596</link>
-      <description><![CDATA[德根共产主义
-德根共产主义被认为是一种前瞻性的政治意识形态，它拥抱混乱，同时将混乱的后果与共同利益结合起来。作者主张实施土地增值税、YIMBY 政策和知识产权哈伯格税，以创造一个更加公平的社会。德根共产主义的概念应用于各个领域，包括加密货币项目、社交媒体网站、虚拟游戏环境和政府。作者挑战了传统的政治意识形态，并提出彻底转变为优先考虑果断行动、冒险精神和人类普遍福祉的制度。 （根据 77% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/84596</guid>
-      <pubDate>Mon, 15 Apr 2024 05:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Pikatea Long Boi 键盘套件就是为了变大。</title>
-      <link>https://t.me/hn_summary/84595</link>
-      <description><![CDATA[Pikatea – Long Boi – 超长键盘套件&lt; br/&gt;
-Pikatea Long Boi 键盘套件就是为了变大。这款键盘有两种尺寸可供选择 - 30 英寸或令人印象深刻的 7 英尺 2 英寸 - 不适合胆小的人。 7 英尺版本甚至还配有用于墙壁展示的安装挂钩。该套件采用堆叠哑光黑色丙烯酸制成或采用哑光黑色 PLA 印刷，需要基本的焊接和组装。它具有旋转编码器、垫圈安装，并且与 Windows、Mac 和 Linux 兼容。提供预计发货日期，并在整个团购过程中进行更新。印刷产品的销售是最终决定，但任何严重缺陷都将得到解决。]]></description>
-      <guid>https://t.me/hn_summary/84595</guid>
-      <pubDate>Mon, 15 Apr 2024 04:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近的一项研究比较了 CPAP 机器和护齿套在治疗梗阻方面的有效性 [...]</title>
-      <link>https://t.me/hn_summary/84594</link>
-      <description><![CDATA[睡眠呼吸暂停：护齿套侵入性较小，与 CPAP 一样有效
-最近的一项研究比较了 CPAP 机和护齿套在治疗阻塞性睡眠呼吸暂停和降低高血压方面的有效性。虽然 CPAP 是标准治疗方法，但护齿套在降低血压方面显示出良好的效果，尤其是在夜间。与 CPAP 用户相比，使用护齿套的参与者有更好的依从性和更长的使用时间。这项针对东亚参与者的研究表明，对于那些患有 CPAP 困扰的人来说，护齿器可能是一个可行的替代品。需要进一步的研究来在更多样化的人群中证实这些发现。该研究发表在《美国心脏病学会杂志》上。]]></description>
-      <guid>https://t.me/hn_summary/84594</guid>
-      <pubDate>Mon, 15 Apr 2024 04:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]文章讨论了 Thunderbolt 和 USB4 在 Appl 上的性能差异 [...]</title>
-      <link>https://t.me/hn_summary/84593</link>
-      <description><![CDATA[为什么使用 Apple Silicon 的优质外置 SSD 速度更快&lt; br/&gt;
-本文讨论了 Apple Silicon 和 Intel Mac 上 Thunderbolt 和 USB4 之间的性能差异。它凸显了声称的速度与实际性能之间的差异，USB4 可能提供比 Thunderbolt 更快的速度。作者推荐高品质 USB 40Gbps 外壳，以实现 Apple Silicon Mac 的最佳性能，并强调阅读细则和了解技术规格的重要性。令人惊讶的是，作者在描述性能时更喜欢使用“超过”一词，而不是“最多”，这表明对外部 SSD 的推荐发生了转变。]]></description>
-      <guid>https://t.me/hn_summary/84593</guid>
-      <pubDate>Mon, 15 Apr 2024 04:27:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇文章中，作者反对在测试之间清除数据库，highli [...]</title>
-      <link>https://t.me/hn_summary/84592</link>
-      <description><![CDATA[反对在测试之间清除数据库的论点
-在本文中，作者反对在测试之间清除数据库，并强调了速度、正确性、数据增长问题和并行性优势等原因。作者挑战了从干净的状态开始每次测试的传统观念，并建议使用“脏”数据库运行测试可能是有益的。通过保留旧的测试数据，开发人员可以实现更快的测试运行，使用更真实的数据形状，并发现干净数据可能不明显的错误。虽然存在一些缺点，但作者提供了缓解措施并鼓励在编写测试时转变思维方式。]]></description>
-      <guid>https://t.me/hn_summary/84592</guid>
-      <pubDate>Mon, 15 Apr 2024 04:16:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]2017 年，Apple 发布了 iOS 10.3，看似很小的更新，但其中包含了一项重大壮举 [...]</title>
-      <link>https://t.me/hn_summary/84591</link>
-      <description><![CDATA[APFS 迁移：工程壮举
-2017 年，Apple 发布了 iOS 10.3，看似很小的更新，却包含了一项重大工程壮举：将所有 iPad 和 iPhone 用户迁移到新的 Apple 文件系统 (APFS)。 The Verge 指出，大多数用户甚至不会注意到这一变化。一夜之间悄悄地、无缝地迁移数亿台设备的文件系统的想法令人难以置信。虽然普通人可能担心文件系统更改会导致设备变砖，但苹果的专业知识和细致的测试确保了平稳过渡。成功迁移且没有出现任何重大问题，证明了 Apple 的工程实力。]]></description>
-      <guid>https://t.me/hn_summary/84591</guid>
-      <pubDate>Mon, 15 Apr 2024 04:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]该网站提供了用于优化软件的全面资源 [...]</title>
-      <link>https://t.me/hn_summary/84590</link>
-      <description><![CDATA[x86 和 x86_64 软件优化资源
-该网站提供了用于优化 x86 和 x86-64 处理器软件的全面资源集合。从有关 C++ 和汇编语言优化的详细手册，到有关 Intel、AMD 和 VIA CPU 微架构的深入信息，该网站为高级程序员和编译器制造商提供了宝贵的见解。值得注意的是，有可用于转换目标文件的工具、优化子例程库以及理想指令集架构的建议。此外，该站点还包括用于性能分析的测试程序并解决浮点异常问题。一项独特的功能是能够更改威盛 Nano 处理器上的 CPUID 信息。探索这些资源以进行专家级软件优化。]]></description>
-      <guid>https://t.me/hn_summary/84590</guid>
-      <pubDate>Mon, 15 Apr 2024 04:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问 HN：您使用什么工具来进行代码审查和部署 SQL 脚本？</title>
-      <link>https://t.me/hn_summary/84589</link>
-      <description><![CDATA[询问 HN：您使用什么工具进行代码审查并部署SQL脚本？
-标题：询问 HN：您使用什么工具来进行代码审查和部署 SQL 脚本？
-
-您是一名工程师，面临着将 SQL 脚本部署到生产数据库的挑战吗？寻求同行评审和一系列看门人的批准？ RedGate Deploy 就是您的最佳选择，该工具可以简化从 QA 到登台再到生产的流程。分享您的经验并发现如何在开发过程中完成这一关键步骤的新方法。加入 news.ycombinator.com 上的对话，彻底改变您的SQL脚本部署策略。]]></description>
-      <guid>https://t.me/hn_summary/84589</guid>
-      <pubDate>Mon, 15 Apr 2024 04:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 [...] 以来，IEEE SystemVerilog 标准一直是工程师和开发人员的重要工具。</title>
-      <link>https://t.me/hn_summary/84588</link>
-      <description><![CDATA[1800-2023 – SystemVerilog 的 IEEE 标准
-自 1800 年成立以来，IEEE SystemVerilog 标准一直是工程师和开发人员的重要工具。该标准多年来不断发展，以跟上不断变化的技术格局，最新更新于 2023 年发布。SystemVerilog 继续成为硬件描述语言领域的关键参与者，为设计和验证复杂的数字系统提供了强大的框架。保持领先地位并利用 SystemVerilog 的力量推动科技行业的创新和进步。加入 IEEE 社区，成为塑造技术未来的一部分。]]></description>
-      <guid>https://t.me/hn_summary/84588</guid>
-      <pubDate>Mon, 15 Apr 2024 04:12:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
