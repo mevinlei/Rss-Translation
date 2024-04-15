@@ -4,48 +4,83 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 15:04:31 GMT</lastBuildDate>
-    <item>
-      <title>特斯拉将裁员10%以上</title>
-      <link>https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html</link>
-      <description><![CDATA[随着一名高级管理人员的离职，此次裁员加剧了这家电动汽车公司的动荡迹象。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html</guid>
-      <pubDate>Mon, 15 Apr 2024 15:04:31 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Apr 2024 18:05:53 GMT</lastBuildDate>
     <item>
       <title>科学家预测有记录以来最广泛的珊瑚白化事件</title>
       <link>https://www.nytimes.com/2024/04/15/climate/coral-reefs-bleaching.html</link>
       <description><![CDATA[全球海水温度上升导致了一次白化事件，预计将是有记录以来最大规模的一次白化事件。]]></description>
       <guid>https://www.nytimes.com/2024/04/15/climate/coral-reefs-bleaching.html</guid>
-      <pubDate>Mon, 15 Apr 2024 15:01:03 GMT</pubDate>
+      <pubDate>Mon, 15 Apr 2024 18:05:53 GMT</pubDate>
     </item>
     <item>
-      <title>随着伊朗的袭击，阿拉伯国家担心冲突扩大</title>
-      <link>https://www.nytimes.com/2024/04/15/world/middleeast/iran-israel-mideast.html</link>
-      <description><![CDATA[伊朗对以色列领土的袭击使中东的新现实变得不可否认：冲突变得越来越难以遏制。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/world/middleeast/iran-israel-mideast.html</guid>
-      <pubDate>Mon, 15 Apr 2024 14:36:03 GMT</pubDate>
+      <title>伊朗对以色列的袭击造成军事不确定性和外交机会</title>
+      <link>https://www.nytimes.com/2024/04/15/world/middleeast/iran-israel-strike-diplomacy.html</link>
+      <description><![CDATA[分析人士担心伊朗的袭击可能引发更广泛的战争。但由于以色列仍在权衡其反应，这次袭击的军事和外交后果尚未确定。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/world/middleeast/iran-israel-strike-diplomacy.html</guid>
+      <pubDate>Mon, 15 Apr 2024 17:57:11 GMT</pubDate>
     </item>
     <item>
-      <title>佛罗里达州濒危锯鳐的死亡原因是什么？</title>
+      <title>让美国的力量落后于以色列将阻止伊朗</title>
+      <link>https://www.nytimes.com/2024/04/15/opinion/israel-iran-united-states-war-gaza.html</link>
+      <description><![CDATA[华盛顿限制以伊冲突扩大的最佳方式是明确表示支持以色列反击的意图。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/opinion/israel-iran-united-states-war-gaza.html</guid>
+      <pubDate>Mon, 15 Apr 2024 17:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲斯·林戈尔德完美捕捉了美国的疯狂</title>
+      <link>https://www.nytimes.com/2024/04/15/arts/design/faith-ringgold-art-politics-legacy.html</link>
+      <description><![CDATA[林戈尔德具有里程碑意义的职业生涯长期以来一直被艺术界忽视。但她继续前进，将个人和政治融为一体，最近的关注激增理所当然地让她跻身现代艺术博物馆的中心。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/arts/design/faith-ringgold-art-politics-legacy.html</guid>
+      <pubDate>Mon, 15 Apr 2024 17:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国对中国公司的审查可能会扰乱美国关键药品的供应链</title>
+      <link>https://www.nytimes.com/2024/04/15/health/wuxi-us-drugs-congress.html</link>
+      <description><![CDATA[立法者提出国家安全担忧并试图将一家中国大型公司与美国制药利益脱钩，这令生物技术行业感到不安。该公司深入参与癌症、囊性纤维化、艾滋病毒关键疗法的开发和制造。和其他疾病。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/health/wuxi-us-drugs-congress.html</guid>
+      <pubDate>Mon, 15 Apr 2024 16:37:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的核野心改变了世界</title>
+      <link>https://www.nytimes.com/2024/04/15/opinion/china-nuclear-weapons.html</link>
+      <description><![CDATA[美国是否应该放弃在战斗中首先发射核武器？]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/opinion/china-nuclear-weapons.html</guid>
+      <pubDate>Mon, 15 Apr 2024 16:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能。存在测量问题</title>
+      <link>https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.html</link>
+      <description><![CDATA[哪个 A.I.系统编写最好的计算机代码还是生成最真实的图像？目前，没有简单的方法可以回答这些问题。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.html</guid>
+      <pubDate>Mon, 15 Apr 2024 16:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着核协议的失败，遏制伊朗变得更加令人担忧</title>
+      <link>https://www.nytimes.com/2024/04/15/us/politics/iran-israel-nuclear-deal-biden.html</link>
+      <description><![CDATA[美国、欧洲、俄罗斯和中国于 2015 年共同努力达成一项限制伊朗核计划的协议。这一安排的瓦解和超级大国紧张局势的加剧使这一时刻变得危险。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/us/politics/iran-israel-nuclear-deal-biden.html</guid>
+      <pubDate>Mon, 15 Apr 2024 16:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉将裁员全球 10% 以上员工</title>
+      <link>https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html</link>
+      <description><![CDATA[随着一名高级管理人员的离职，此次裁员加剧了这家电动汽车公司的动荡迹象。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/business/tesla-layoff-elon-musk.html</guid>
+      <pubDate>Mon, 15 Apr 2024 15:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么杀死了佛罗里达州濒临灭绝的锯鳐？</title>
       <link>https://www.nytimes.com/2024/04/15/us/sawfish-florida-keys.html</link>
       <description><![CDATA[首先，在佛罗里达群岛钓鱼，开始螺旋游动或倒挂游动。然后，濒临灭绝的锯鳐开始死亡。科学家们正在竞相找出原因。]]></description>
       <guid>https://www.nytimes.com/2024/04/15/us/sawfish-florida-keys.html</guid>
       <pubDate>Mon, 15 Apr 2024 14:31:27 GMT</pubDate>
     </item>
     <item>
-      <title>书评：萨尔曼·拉什迪的《刀》</title>
-      <link>https://www.nytimes.com/2024/04/15/books/review/salman-rushdie-knife.html</link>
-      <description><![CDATA[《刀》讲述了作者在 2022 年与死亡擦肩而过以及随后漫长的恢复过程。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/books/review/salman-rushdie-knife.html</guid>
-      <pubDate>Mon, 15 Apr 2024 11:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择审判特朗普的陪审团，以及伊朗和以色列的下一步</title>
-      <link>https://www.nytimes.com/2024/04/15/podcasts/trump-trial-mortgage.html</link>
-      <description><![CDATA[另外，抵押贷款让人们困在家里。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/podcasts/trump-trial-mortgage.html</guid>
-      <pubDate>Mon, 15 Apr 2024 10:00:07 GMT</pubDate>
+      <title>50 岁以后的网上约会可能会很痛苦。但这也是一种解放。</title>
+      <link>https://www.nytimes.com/2024/04/15/magazine/dating-after-50.html</link>
+      <description><![CDATA[随着年龄的增长，你对自己和自己的愿望了解得更多，以至于约会应用程序——即使有种种挫折——也能带来意想不到的快乐。]]></description>
+      <guid>https://www.nytimes.com/2024/04/15/magazine/dating-after-50.html</guid>
+      <pubDate>Mon, 15 Apr 2024 09:05:23 GMT</pubDate>
     </item>
     <item>
       <title>大量房主的抵押贷款利率太高而无法放弃</title>
@@ -53,13 +88,6 @@
       <description><![CDATA[许多美国人被困在他们宁愿离开的家中，其规模是几十年来从未有过的。]]></description>
       <guid>https://www.nytimes.com/2024/04/15/upshot/mortgage-rates-homes-stuck.html</guid>
       <pubDate>Mon, 15 Apr 2024 09:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列上空的威力展示</title>
-      <link>https://www.nytimes.com/2024/04/15/us/politics/iran-aerial-display-israel.html</link>
-      <description><![CDATA[伊朗对以色列杀害高级军事领导人的报复是一场精心设计的场面。但对更广泛战争的担忧仍然存在。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/us/politics/iran-aerial-display-israel.html</guid>
-      <pubDate>Mon, 15 Apr 2024 09:04:33 GMT</pubDate>
     </item>
     <item>
       <title>有关暗杀的问题考验着特朗普豁免权主张的极限</title>
@@ -71,42 +99,14 @@
     <item>
       <title>波士顿最好的餐馆</title>
       <link>https://www.nytimes.com/article/best-restaurants-boston.html</link>
-      <description><![CDATA[不仅仅是海鲜和意大利菜。这里有美味的越南菜、厨师发办、秘鲁菜，甚至百吉饼都值得一试。 （别担心，还有很棒的海鲜和意大利菜。）我们会在评论中见到您。]]></description>
+      <description><![CDATA[不仅仅是海鲜和意大利菜。这里有美味的越南菜、厨师发办、秘鲁菜，甚至百吉饼都值得一试。 （别担心，还有很棒的海鲜和意大利菜。）我们会在评论中见到你。]]></description>
       <guid>https://www.nytimes.com/article/best-restaurants-boston.html</guid>
       <pubDate>Mon, 15 Apr 2024 09:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>美国对中国公司的审查可能会扰乱美国关键药品的供应链</title>
-      <link>https://www.nytimes.com/2024/04/15/health/wuxi-us-drugs-congress.html</link>
-      <description><![CDATA[立法者提出国家安全担忧并试图将一家中国大型公司与美国制药利益脱钩，这令生物技术行业感到不安。该公司深入参与癌症、囊性纤维化、艾滋病毒关键疗法的开发和制造。和其他疾病。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/health/wuxi-us-drugs-congress.html</guid>
-      <pubDate>Mon, 15 Apr 2024 09:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么更好的时代（和大幅加薪）还没有治愈通货膨胀的后遗症</title>
-      <link>https://www.nytimes.com/2024/04/15/business/economy/economy-consumer-sentiment-pennsylvania.html</link>
-      <description><![CDATA[由于对物价上涨感到沮丧，许多新加薪且财务状况良好的宾夕法尼亚州人表示，疫情带来的不安全感挥之不去。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/business/economy/economy-consumer-sentiment-pennsylvania.html</guid>
-      <pubDate>Mon, 15 Apr 2024 09:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨尔曼·拉什迪没有被吓倒，讨论他的新回忆录《刀》</title>
-      <link>https://www.nytimes.com/2024/04/14/books/salman-rushdie-knife-interview.html</link>
-      <description><![CDATA[作者的新回忆录《刀》讲述了 2022 年使他致残的袭击事件，并向陪伴他度过难关的妻子致敬。 “我想写一本关于爱与恨的书——一个战胜另一个，”他说。]]></description>
-      <guid>https://www.nytimes.com/2024/04/14/books/salman-rushdie-knife-interview.html</guid>
-      <pubDate>Mon, 15 Apr 2024 04:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>喜马拉雅山坡上生长着日本的冷硬现金</title>
-      <link>https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html</link>
-      <description><![CDATA[贫穷的尼泊尔的一处灌木现在为亚洲最复杂的金融体系所使用的纸币提供原材料。]]></description>
-      <guid>https://www.nytimes.com/2024/04/15/world/asia/nepal-japan-yen-argeli.html</guid>
-      <pubDate>Mon, 15 Apr 2024 04:01:50 GMT</pubDate>
-    </item>
-    <item>
       <title>极右翼与俄罗斯的关系在德国引起了越来越大的警惕</title>
       <link>https://www.nytimes.com/2024/04/15/world/europe/germany-afd-russia.html</link>
-      <description><![CDATA[随着案件激增，反对者担心德国另类选择党正在成为俄罗斯影响力行动的工具，以破坏对乌克兰的支持。]]></description>
+      <description><![CDATA[随着案件激增，反对者担心德国另类选择党正在成为俄罗斯影响力行动的工具，以削弱对乌克兰的支持。]]></description>
       <guid>https://www.nytimes.com/2024/04/15/world/europe/germany-afd-russia.html</guid>
       <pubDate>Mon, 15 Apr 2024 04:01:17 GMT</pubDate>
     </item>
