@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 16 Apr 2024 00:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 03:11:44 GMT</lastBuildDate>
+    <item>
+      <title>您真的想成为开发团队领导吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1c555tn/do_you_really_want_to_be_a_development_team_leader/</link>
+      <description><![CDATA[ 由   提交/u/john83672   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c555tn/do_you_really_want_to_be_a_development_team_leader/</guid>
+      <pubDate>Tue, 16 Apr 2024 02:38:35 GMT</pubDate>
+    </item>
     <item>
       <title>宠物狂野起来！将 Petstore OpenAPI 映射到 Kafka。</title>
       <link>https://www.reddit.com/r/programming/comments/1c4ybwp/pets_gone_wild_mapping_the_petstore_openapi_to/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>用汽车为产品经理解释软件开发</title>
       <link>https://www.reddit.com/r/programming/comments/1c4qlqa/software_development_explained_with_cars_for/</link>
-      <description><![CDATA[ 由   提交/u/well-made_innocence   /u/well-made_innocence reddit.com/r/coolguides/comments/1c4mzes/a_cool_guide_to_software_development/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/well-made_innocence   /u/well-made_innocence reddit.com/r/coolguides/comments/1c4mzes/a_cool_guide_to_software_development/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c4qlqa/software_development_explained_with_cars_for/</guid>
       <pubDate>Mon, 15 Apr 2024 16:31:18 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 15 Apr 2024 14:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>Neon Serverless Postgres 正式上市</title>
+      <title>Neon Serverless Postgres 全面可用</title>
       <link>https://www.reddit.com/r/programming/comments/1c4n7bw/neon_serverless_postgres_is_generally_available/</link>
       <description><![CDATA[ 由   提交/u/carlotasoto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c4n7bw/neon_serverless_postgres_is_generally_available/</guid>
       <pubDate>Mon, 15 Apr 2024 14:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 WGSL（即 WebGPU）在 GPU 上编程缩减算法简介 - 第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1c4mnpy/introduction_to_programming_of_reduction/</link>
-      <description><![CDATA[ 由   提交/u/magik_engineer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c4mnpy/introduction_to_programming_of_reduction/</guid>
-      <pubDate>Mon, 15 Apr 2024 13:48:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
