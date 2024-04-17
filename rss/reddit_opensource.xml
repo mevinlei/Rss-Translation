@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 00:36:17 GMT</lastBuildDate>
     <item>
       <title>开源轻量级 PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5qbsv/opensource_lightweight_pdf_reader/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>本地发送新手</title>
       <link>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</link>
-      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我宿舍的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
+      <description><![CDATA[我今天收到通知，HP Quickdrop 将于 5 月底停止。我发现了 LocalSend，但在 Windows 和我的三星手机之间共享文件时遇到问题。我旅馆的 wifi 只允许每个用户帐户一个连接，因此我不能让两台设备共享同一个 wifi。如何使用 LocalSend 共享文件？或者有 LocalSend 的替代方案吗？   由   提交/u/Admirable-Echidna-37   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c5h4rh/new_to_localsend/</guid>
       <pubDate>Tue, 16 Apr 2024 14:12:57 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>Unity 引擎的 NothingOS SDK</title>
       <link>https://www.reddit.com/r/opensource/comments/1c4fheh/nothingos_sdk_for_unity_engine/</link>
-      <description><![CDATA[大家好。我对购买的 Nothing Phone 2a 感到非常兴奋，而且我认为 Glyphs 在动作游戏中可能会非常有趣。它可以用作重新加载、任何类型的计时器和闪光指示器。 因此，我决定通过免费和免费的方式将此功能引入基于 Unity 的游戏。开源包： https://github.com/am1goo/NothingOS.Unity&lt; /p&gt; 功能  基于字形的进度条 自定义字形动画&lt; /p&gt; 支持所有范围的分布式设备（电话 1、电话 2、电话 2a）  里面有什么？   Unity 引擎的 .NET 包装 本机 Glyph 开发工具包 .jar 库  &lt; p&gt;非常欢迎任何形式的贡献。错误、功能请求或反馈可以以问题的形式报告。   由   提交/u/am1goo  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我对购买的 Nothing Phone 2a 感到非常兴奋，我认为 Glyphs 在动作类游戏中可能非常有趣。它可能被用作重新加载、任何类型的计时器和闪光弹指示器。 因此，我决定通过免费 &amp; 将此功能引入 基于 Unity 的游戏开源软件包： https://github.com/am1goo/NothingOS.Unity 功能  基于字形的进度条 自定义字形动画 支持所有分布式设备 (Phone 1、Phone 2、Phone 2a)  里面有什么？  Unity Engine 的 .NET 包装器 原生 Glyph Developer Kit .jar 库  欢迎以任何形式做出贡献。错误、功能请求或反馈可以问题的形式报告。   由    /u/am1goo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c4fheh/nothingos_sdk_for_unity_engine/</guid>
       <pubDate>Mon, 15 Apr 2024 06:37:54 GMT</pubDate>
     </item>
