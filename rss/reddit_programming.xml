@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 17 Apr 2024 00:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:09:20 GMT</lastBuildDate>
+    <item>
+      <title>HTTP/2 和 HTTP/3 解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5zc37/http2_and_http3_explained/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5zc37/http2_and_http3_explained/</guid>
+      <pubDate>Wed, 17 Apr 2024 03:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码结束？微软发布了一个框架，让开发人员只需监督人工智能</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5yqvq/the_end_of_coding_microsoft_publishes_a_framework/</link>
+      <description><![CDATA[ 由   提交/u/mikaelus  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5yqvq/the_end_of_coding_microsoft_publishes_a_framework/</guid>
+      <pubDate>Wed, 17 Apr 2024 02:35:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>看视频！</title>
+      <link>https://www.reddit.com/r/programming/comments/1c5yitx/look_at_video/</link>
+      <description><![CDATA[ 由   提交/u/AdFrosty668  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c5yitx/look_at_video/</guid>
+      <pubDate>Wed, 17 Apr 2024 02:24:55 GMT</pubDate>
+    </item>
     <item>
       <title>如何加入新的代码库</title>
       <link>https://www.reddit.com/r/programming/comments/1c5vlyu/how_to_onboard_to_a_new_codebase/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[今天就在导航栏上工作！快来看看   由   提交/u/whitechoc6  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5vfb5/react_development_live_stream/</guid>
       <pubDate>Tue, 16 Apr 2024 23:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向开发人员的文本分类：基于文本数据构建产品</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5v4wk/text_classification_for_developers_build_products/</link>
-      <description><![CDATA[ 由   提交 /u/Different-General700    trytaylor.ai/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5v4wk/text_classification_for_developers_build_products/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:44:51 GMT</pubDate>
     </item>
     <item>
       <title>Zig 从头开始​​的深度神经网络</title>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 16 Apr 2024 19:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>Paper Code - 轻量级、快如闪电的 C++ IDE，专为注重性能的开发人员而构建。</title>
+      <title>Paper Code - 专为注重性能的开发人员打造的轻量级、快如闪电的 C++ IDE。</title>
       <link>https://www.reddit.com/r/programming/comments/1c5nqzi/paper_code_the_lightweight_lightningfast_c_ide/</link>
       <description><![CDATA[ 由   提交/u/proreza  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5nqzi/paper_code_the_lightweight_lightningfast_c_ide/</guid>
@@ -90,25 +104,11 @@
       <pubDate>Tue, 16 Apr 2024 16:25:20 GMT</pubDate>
     </item>
     <item>
-      <title>您真的需要存储所有遥测数据吗？</title>
+      <title>你真的需要存储所有的遥测数据吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1c5kcek/do_you_really_need_to_store_all_that_telemetry/</link>
       <description><![CDATA[ 由   提交/u/boincl  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c5kcek/do_you_really_need_to_store_all_that_telemetry/</guid>
       <pubDate>Tue, 16 Apr 2024 16:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>授权仍然是工程师的噩梦：启动分布式授权</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5j0p6/authorization_is_still_a_nightmare_for_engineers/</link>
-      <description><![CDATA[ 由   提交 /u/ssglaser   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5j0p6/authorization_is_still_a_nightmare_for_engineers/</guid>
-      <pubDate>Tue, 16 Apr 2024 15:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Web 代理的基于图形的工作流程构建器</title>
-      <link>https://www.reddit.com/r/programming/comments/1c5iuwj/graphbased_workflow_builder_for_web_agents/</link>
-      <description><![CDATA[ 由   提交 /u/x83ghl    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c5iuwj/graphbased_workflow_builder_for_web_agents/</guid>
-      <pubDate>Tue, 16 Apr 2024 15:25:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
