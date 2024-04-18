@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 15:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:12:32 GMT</lastBuildDate>
+    <item>
+      <title>我正在尝试开发一个与 Idealista.com 类似的网站（类似于 zillow），但功能较少。我应该寻找哪种类型的开发商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c79q7n/i_am_trying_to_develop_a_similar_site_to/</link>
+      <description><![CDATA[任何见解表示赞赏   由   提交/u/Hohoho7878   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c79q7n/i_am_trying_to_develop_a_similar_site_to/</guid>
+      <pubDate>Thu, 18 Apr 2024 17:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>你在 webdev 中做过的最天才的黑客是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</link>
+      <description><![CDATA[这是我的，发生在 2003/04 左右的某个时候。 在我学习了 PHP、MySQL 和 HTML 之后回来之后，我非常想写自己的聊天记录。当时IE在浏览器中占主导地位。 当时我还不知道socket，因为我刚刚学了PHP，知道如何获取和发布数据。所以我的“聊天”是由每秒刷新一次以提取新数据的框架和一个带有输入字段以发布消息的框架构建的。 但是，当时 IE 有两种刷新页面的方法，即 HTML 元数据-tag 或frame-reload 通过 JS，都有各自的问题。刷新框架时meta-tag会发出点击声，JS框架重新加载会使页面闪烁。当时还没有 AJAX。 所以在某个时候，我有了一个天才的想法，我可以刷新一个小的 1x1 px 框架（没有声音），然后将其内容附加到另一个框架哪里需要数据，它就完美地工作。 tldr;是的，我基本上在不知情的情况下发明了 AJAX。   由   提交 /u/ad-on-is   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c79doo/what_was_the_most_genius_hack_you_did_in_webdev/</guid>
+      <pubDate>Thu, 18 Apr 2024 17:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的应用程序制作网站（展示我的应用程序）的最经济有效的方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c78f1y/the_most_costeffective_way_to_make_a_website_for/</link>
+      <description><![CDATA[大家好， 我想创建一个类似的网站(对于这个）我制作的应用程序。想知道最好的方法是什么。 -我希望将成本保持在最低限度，如果可能的话为 0。 感谢您的帮助！ &lt; /div&gt;  由   提交/u/-i3arty-  /u/-i3arty-  reddit.com/r/webdev/comments/1c78f1y/the_most_cost effective_way_to_make_a_website_for/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c78f1y/the_most_costeffective_way_to_make_a_website_for/</guid>
+      <pubDate>Thu, 18 Apr 2024 16:59:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在哪里可以为我的网站聘请最好的 UI 设计师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c78bnj/where_can_i_hire_best_ui_designers_for_my_website/</link>
+      <description><![CDATA[哪些自由职业网站最适合招聘 UI 设计师？    由   提交/u/pkji89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c78bnj/where_can_i_hire_best_ui_designers_for_my_website/</guid>
+      <pubDate>Thu, 18 Apr 2024 16:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 中可能破坏宽高比的因素</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c76w2v/things_that_can_break_aspectratio_in_css/</link>
+      <description><![CDATA[       由   提交/u/ossreleasefeed  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c76w2v/things_that_can_break_aspectratio_in_css/</guid>
+      <pubDate>Thu, 18 Apr 2024 15:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>克服电子邮件服务注册障碍</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c768kt/overcoming_email_service_signup_barriers/</link>
+      <description><![CDATA[我在尝试生成一组独特的电子邮件时遇到了注册限制。我的业务模型建立在代表每个客户为我为他们承担的每项任务创建一个新的唯一电子邮件地址的基础上，以维护完整性和安全性。最初，我没有预见到任何障碍，例如 Gmail 似乎并不禁止代表他人创建多个帐户。但实际上，他们似乎试图通过在创建新电子邮件时要求提供唯一的电话号码来限制您。 我考虑过 Google Workspaces 等付费替代方案，但大多数付费服务都遇到过账单问题每个电子邮件帐户，这对于我的业务案例来说是不切实际的。 任何具有电子邮件系统管理或设置知识的人都可以阐明这个问题吗？我们将非常感谢您的建议！   由   提交/u/Naotogg2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c768kt/overcoming_email_service_signup_barriers/</guid>
+      <pubDate>Thu, 18 Apr 2024 15:31:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intl.Segmenter 对象现在是 Baseline 的一部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1c75vyc/the_intlsegmenter_object_is_now_part_of_baseline/</link>
+      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1c75vyc/the_intlsegmenter_object_is_now_part_of_baseline/</guid>
+      <pubDate>Thu, 18 Apr 2024 15:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>投注API</title>
       <link>https://www.reddit.com/r/webdev/comments/1c75n4p/betting_api/</link>
@@ -29,14 +78,14 @@
     <item>
       <title>我应该使用什么引擎来创建我的游戏？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c75dfl/what_engine_should_i_use_to_create_my_game/</link>
-      <description><![CDATA[我正在创建一个简单的 2d 回合制策略游戏，我想知道我应该使用什么引擎/框架。该游戏将首先为浏览器制作，但稍后可能会制作为应用程序商店/Playstore 的应用程序以及 Steam 上的游戏。 我应该使用 js 和 css 等创建所有内容吗？例如通过使用react和phaser（也许还有像bordgameio或rune这样的另一个框架）？然后使用express和mongodb等作为后端？ 或者我应该使用像godot/unity这样的游戏引擎来制作游戏吗？ 我对godot和unity都有经验，并且可以也用js编写代码（但从未使用js制作过完整的游戏）。 使用真正的游戏引擎（如godot和unity）创建主游戏可能会更容易，至少对于客户端来说是这样边。但是游戏在网络上运行得像使用 Phaser 一样好吗？ 另外，我以前从未使用游戏引擎创建过网页游戏，设置和测试容易吗？ 什么你认为这个游戏的最佳方法是什么？   由   提交 /u/tobimika   [链接] [评论]]]></description>
+      <description><![CDATA[我正在创建一个简单的 2d 多人回合制策略游戏，我想知道我应该使用什么引擎/框架。该游戏将首先为浏览器制作，但稍后可能会制作成应用商店/Playstore 的应用程序和 Steam 上的游戏。游戏将有多人游戏模式，以及与 AI 对抗的模式。 我应该用 js 和 css 等创建所有内容吗？例如通过使用react和phaser（也许还有像bordgameio或rune这样的另一个框架）？然后使用express和mongodb等作为后端？ 或者我应该使用像godot/unity这样的游戏引擎来制作游戏吗？ 我对godot和unity都有经验，并且可以也用js编写代码（但从未使用js制作过完整的游戏）。 使用真正的游戏引擎（如godot和unity）创建主游戏可能会更容易，至少对于客户端而言边。但是游戏在网络上运行得像使用 Phaser 一样好吗？ 另外，我以前从未使用游戏引擎创建过网页游戏，设置和测试容易吗？ 什么你认为这个游戏的最佳方法是什么？   由   提交 /u/tobimika   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c75dfl/what_engine_should_i_use_to_create_my_game/</guid>
       <pubDate>Thu, 18 Apr 2024 14:55:49 GMT</pubDate>
     </item>
     <item>
       <title>试图达到一个效果</title>
       <link>https://www.reddit.com/r/webdev/comments/1c75cm6/trying_to_achieve_an_effect/</link>
-      <description><![CDATA[大家好，只是想知道是否有人可以帮助我了解术语。 https://www.youtube.com/watch?v=V6DJYGn2SFk&amp;t=2720s 在此视频中 39 :00 和 40:00 一位女士在演示网站中输入搜索条件，当她点击搜索时，该框似乎延伸到网站顶部并成为聊天机器人窗口。 提前感谢您，如果你可以观看视频片段来理解我的意思。 我不确定它是否是通过 CSS、HTML 或 Javascript 实现的，但希望能提供一些有关如何实现的意见。  非常感谢   由   提交/u/Babayaga1664  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，只是想知道是否有人可以帮助我了解术语。 https://www.youtube.com/watch?v=V6DJYGn2SFk&amp;t=2720s 在此视频中 39 :00 和 40:00 一位女士在演示网站中输入搜索条件，当她点击搜索时，该框似乎延伸到网站顶部并成为聊天机器人窗口。 提前感谢您，如果您可以观看视频片段来理解我的意思。 我不确定它是否是通过 CSS、HTML 或 Javascript 实现的，但希望能提供一些有关如何实现的意见。  非常感谢   由   提交/u/Babayaga1664  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c75cm6/trying_to_achieve_an_effect/</guid>
       <pubDate>Thu, 18 Apr 2024 14:54:51 GMT</pubDate>
     </item>
@@ -57,58 +106,9 @@
     <item>
       <title>如何开始构建我的视频会议应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1c74yi1/how_do_i_start_building_my_video_conference/</link>
-      <description><![CDATA[构建一个全栈视频会议系统一直是我的梦想。我从始至终开发了多种类型的应用程序，例如 POS、预订系统、LMS 等。软件让我着迷。自从 Covid 以来，我一直在使用 Zoom 和 Discord，我总是想知道视频通话应用程序通常是如何工作的。  当我说构建自己的产品时，我指的是从头到尾的一切，而不依赖像 Agora 和 getstream 这样的第三方提供商。  通过遵循 youtube 上的教程并查看其他人如何构建自己的教程，我已经接近构建自己的了。大多数情况下，那里的教程通常会教如何构建 2 人视频通话或与第三方提供商构建完整的堆栈应用程序。  我不打算发布该应用程序，但我觉得这是一个我肯定想勾选的愿望清单！  这是我尝试使用的技术堆栈 1. ReactJS 2. ExpressJS 3. WebRTC 我学到的一些东西是我们需要使用 stun 服务器，但最多现在我仍然不知道该服务器是做什么用的。我真的希望有人能引导我走上正确的道路。  PS 我还发现视频和麦克风在私有 IP (192.168.x.x) 上不可用，您需要明确启用它。对于我几乎接近的应用程序，我尝试在 AWS 上托管，以允许其他网络上的其他设备进行访问和通信，但也失败了。    由   提交/u/aamuelchua  [链接] [评论]]]></description>
+      <description><![CDATA[构建一个全栈视频会议系统一直是我的梦想。我已经从头到尾开发了多种类型的应用程序，例如 POS、预订系统、LMS 等。软件让我着迷。自从 Covid 以来，我一直在使用 zoom 和 discord，我总是想知道视频通话应用程序通常是如何工作的。  当我说构建自己的系统时，我的意思是从头到尾构建一切，而不依赖 Agora 和 getstream 等第三方提供商。  通过遵循 YouTube 上的教程并观察其他人如何构建自己的系统，我几乎已经构建了自己的系统。大多数情况下，那里的教程通常会教如何构建 2 人视频通话或与第三方提供商一起构建全栈应用程序。  我不打算发布该应用程序，但我觉得这是我绝对想要勾选的遗愿清单！！  这是我尝试使用的技术堆栈 1. ReactJS 2. ExpressJS 3. WebRTC 我学到的是，我们需要使用一个 stun 服务器，但到目前为止，我仍然不知道该服务器是做什么用的。我真的希望有人能引导我走上正确的道路。  PS 我还发现私有 IP（192.168.x.x）上无法使用视频和麦克风，您需要明确启用它。对于我几乎接近的应用程序，我尝试在 AWS 上托管以允许其他网络上的其他设备访问和通信，但也失败了。     提交人    /u/aamuelchua   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1c74yi1/how_do_i_start_building_my_video_conference/</guid>
       <pubDate>Thu, 18 Apr 2024 14:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国 Indeed 上的软件开发职位发布</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c74vdh/software_development_job_postings_on_indeed_in/</link>
-      <description><![CDATA[   /u/magenta_placenta   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c74vdh/software_development_job_postings_on_indeed_in/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频托管提供商</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c74lrt/video_hosting_provider/</link>
-      <description><![CDATA[您好，我正在创建一个视频课程网站，我正在决定使用哪个提供商进行视频托管我已经看到了 Mux、Cloudflare 等选项流或兔子。有什么建议吗？   由   提交/u/codigoguru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c74lrt/video_hosting_provider/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一个应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c74ep1/application_within_another/</link>
-      <description><![CDATA[我在一个项目中，需要创建一个培训平台，这不是很复杂，但就业务规则而言是一个大项目，将来，具有相同范围的另一个项目将发挥作用，这两个应用程序应该使用单次登录，一旦用户登录到一个应用程序，他就会登录到另一个应用程序（类似于谷歌），我的方法是上传主应用程序和一个可以作为 docker 容器中的登录名的 API，以便将来的应用程序可以使用该登录名，这是一般上下文。 我的问题是，在我所在的公司中有一个用作新闻门户的应用程序，当我被要求创建此培训时，它是用 Laravel 作为后端 API 和 NextJS 在前端（带有一点后端）制作的平台，他们要求我放在这个新闻门户里面，所以我就想用一个子域来能够把应用分开，一个是门户，一个是培训平台，但是他们要求我做整个后台-Laravel 中已经存在于门户上的培训平台的末端，用我的经理的话说“只需在控制器中创建一个文件夹并在其中执行您需要的操作”，并且只有前端使用 NextJS 创建另一个应用程序也会使用这个Laravel作为API。 我想知道你的意见，对我来说这种方法更容易，但功能性和可扩展性差很多，它影响维护，不同的系统会有很高的水平由于耦合的原因，如果服务器宕机，两个应用程序都会停止工作，Laravel 也会停止工作。这不仅仅是一个带有控制器的 API。 你认为我的担忧有道理吗？   div&gt;  由   提交/u/O_Jorge_Armado   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c74ep1/application_within_another/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 SQLite 性能调优使 Bencher 速度提高 1200 倍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c74dc9/why_sqlite_performance_tuning_made_bencher_1200x/</link>
-      <description><![CDATA[   /u/bencherdev  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c74dc9/why_sqlite_performance_tuning_made_bencher_1200x/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳匹配数据库 - 需要高连接限制和复杂的查询功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c744xl/best_database_for_matchmaking_requires_high/</link>
-      <description><![CDATA[我正在寻求有关最适合我的应用程序中匹配功能的数据库解决方案的建议。我之前尝试过不同的解决方案，但在完成我的工作之前总是遇到障碍。 我需要一个具有以下功能的数据库：  复杂的查询功能（例如检查如果数组字段包含提供的数组中的任何或所有项目） 具有较高的连接限制 便宜  请注意，数据是短暂的，如果用户进入匹配屏幕...后端会将其注册到数据库中，一旦找到匹配，两个用户都将在表中删除。还需要行级锁定，以确保我们正在查询的用户无法被不同的并发用户访问。 存储大小实际上并不那么重要，因为数据无论如何都是短暂的，而且我们&#39;最多只期望 &lt;100k 行。 以下是我之前遇到过的问题：  我使用过 DynamoDB，但由于其查询限制，例如没有能够检查数组字段是否包含数组，我决定避开它 至于查询，PostgreSQL 似乎是最好的，首先......它可以锁定行，这对于高度并发环境，例如匹配，并且它具有我所需要的查询功能。唯一的问题是，我能找到的大多数托管服务的连接限制都非常有限，对于匹配功能，我预计大量用户会同时连接并相互查询。 至于 GameLift FlexMatch，它是贵得要命……每小时匹配费用为 1 美元，想象一下用户在 30 秒内找不到匹配对象，现在想象一下成千上万的用户遇到同样的事情。我认为这种情况在我的配对功能中很常见，因为它将用于男性用户比女性用户占主导地位的约会应用程序。    由   提交/u/izner82  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c744xl/best_database_for_matchmaking_requires_high/</guid>
-      <pubDate>Thu, 18 Apr 2024 14:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人注意到 Windows 上的 Chrome v124 开始消耗大量 CPU 吗？即使我关闭了所有选项卡。 Chrome v123 上没有发生这种情况。我有 16 GB 内存。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c73yyl/did_anyone_notice_that_chrome_v124_on_windows/</link>
-      <description><![CDATA[   /u/OneInspiration7989   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c73yyl/did_anyone_notice_that_chrome_v124_on_windows/</guid>
-      <pubDate>Thu, 18 Apr 2024 13:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>jsp在网络响应中提供字符串的输出格式问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1c73k6a/problem_with_output_format_of_jsp_provided_string/</link>
-      <description><![CDATA[我目前正在解决一个问题，我必须向 api 提供生成的 url。 一切都已完成，网络响应也已完成显示正确的链接 - 但它还在链接后添加了新行。遗憾的是，这导致 API 无法使用提供的链接。 &lt;%@ page import=&quot;[此处有一些正确的导入]&quot;语言=“java” contentType=“文本/纯文本；字符集=UTF-8” pageEncoding=“UTF-8” %&gt;&lt;% GetImageHelper gih = new GetImageHelper();  String arg= request.getParameter(&quot;pn&quot;); String imageStorageSpace = gih.anUnspecifiedFunction(arg) ; out.print(imageStorageSpace); %&gt; 在我开始在我想要的输出前面有两行空行之后，现在我有了一个空行，在我的 out.print 之后没有更改任何内容... 我比以前更好奇了   由   提交/u/Pfadie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1c73k6a/problem_with_output_format_of_jsp_provided_string/</guid>
-      <pubDate>Thu, 18 Apr 2024 13:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
