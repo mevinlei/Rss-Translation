@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 20 Apr 2024 12:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 15:07:46 GMT</lastBuildDate>
+    <item>
+      <title>编程与数学好奇心</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8r7eo/programming_vs_mathematical_curiosity/</link>
+      <description><![CDATA[ 由   提交/u/epidemian  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8r7eo/programming_vs_mathematical_curiosity/</guid>
+      <pubDate>Sat, 20 Apr 2024 14:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用代码镜像库创建了我自己的在线 JS 编译器，尝试一下。</title>
+      <link>https://www.reddit.com/r/programming/comments/1c8qa01/created_my_own_online_js_complier_using_code/</link>
+      <description><![CDATA[ 由   提交/u/Genesis-Labs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1c8qa01/created_my_own_online_js_complier_using_code/</guid>
+      <pubDate>Sat, 20 Apr 2024 13:41:39 GMT</pubDate>
+    </item>
     <item>
       <title>掌握 Java 访问器方法</title>
       <link>https://www.reddit.com/r/programming/comments/1c8o9ci/master_java_accessor_methods/</link>
@@ -41,7 +55,7 @@
       <pubDate>Sat, 20 Apr 2024 08:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>最适合UI集成的解决方案是什么？</title>
+      <title>最适合 UI 集成的解决方案是什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1c8l3u8/whats_the_most_suitable_solution_for_ui/</link>
       <description><![CDATA[ 由   提交/u/TurbulentAd8020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c8l3u8/whats_the_most_suitable_solution_for_ui/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/yawaramin  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1c8b4fc/throw_out_your_templates_a_rant_with_code/</guid>
       <pubDate>Fri, 19 Apr 2024 23:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>8个月的红宝石</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8awvr/8_months_of_ruby/</link>
-      <description><![CDATA[ 由   提交/u/dcspazz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8awvr/8_months_of_ruby/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用智能过滤器创建了一个人工智能驱动的工作板来帮助您找到梦想的工作</title>
-      <link>https://www.reddit.com/r/programming/comments/1c8aq2h/i_created_an_aipowered_job_board_using_smart/</link>
-      <description><![CDATA[ 由   提交 /u/lolaks181203    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1c8aq2h/i_created_an_aipowered_job_board_using_smart/</guid>
-      <pubDate>Fri, 19 Apr 2024 23:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
