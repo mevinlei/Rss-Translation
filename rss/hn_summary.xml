@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sat, 20 Apr 2024 21:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 05:38:35 GMT</lastBuildDate>
     <item>
-      <title>[媒体] Zilog Z80 CPU 是由 Federico Faggin 开发的传奇 8 位处理器，正在 [...]</title>
-      <link>https://t.me/hn_summary/85559</link>
-      <description><![CDATA[传奇的 Zilog Z80 CPU 在近 50 年后停产
-Zilog Z80 CPU 是 Federico Faggin 开发的传奇 8 位处理器，在上市近 50 年后即将停产。 Z80 最初是作为 Intel 8080 的增强版而创建的，后来成为游戏和通用计算设备的主要产品。 Zilog 的制造合作伙伴很快将停止接受 Z80 订单，这标志着这款标志性 IC 设备时代的结束。尽管 Z80 即将停产，但围绕其功能构建的众多家用电脑、游戏机和电子设备仍然延续着 Z80 的传统。 Zilog 继续为嵌入式设备市场提供基于 Z80 设计的先进微控制器产品。]]></description>
-      <guid>https://t.me/hn_summary/85559</guid>
-      <pubDate>Sat, 20 Apr 2024 21:05:00 GMT</pubDate>
+      <title>[媒体] Thetawave 是一款使用 Rust 和 Bevy 引擎创建的基于物理的太空射击游戏。</title>
+      <link>https://t.me/hn_summary/85613</link>
+      <description><![CDATA[Thetawave：一款基于物理的太空射击游戏，由 Rust 和Bevy工程师
+Thetawave 是一款基于物理的太空射击游戏，使用 Rust 和 Bevy 引擎创建。它具有程序生成的关卡、多样化的敌人和独特的角色。该项目是开源的，允许社区的协作和贡献来塑造其发展。玩家可以参与游戏和发展，使用能量提升、特殊能力和独特的机制，比如通过让货运小怪到达竞技场底部来治愈防御栏。该项目的独特之处在于强调社区参与和成长，贡献者团队致力于游戏的各个方面，包括视觉效果、编程和声音设计。]]></description>
+      <guid>https://t.me/hn_summary/85613</guid>
+      <pubDate>Sun, 21 Apr 2024 05:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2024 年你还需要杀毒软件吗？</title>
-      <link>https://t.me/hn_summary/85558</link>
-      <description><![CDATA[2024 年您还需要防病毒软件吗？&lt; br/&gt;
-在博客文章“2024 年你还需要防病毒软件吗？”在 blog.thenewoil.org 上，作者质疑必要性当今数字环境中的防病毒软件。作者认为，制造商采取的现代安全措施，例如 Windows Defender 和 Mac 上的内置安全功能，使得防病毒软件对于普通用户来说不再那么重要。作者还强调了与防病毒软件本身相关的潜在风险，例如泄露用户数据。相反，作者建议保持设备更新、删除不必要的程序并谨慎上网作为确保安全的替代方法。对于那些仍然喜欢防病毒软件的人，作者提供了值得信赖的选项的建议。最后，作者建议，对于大多数用户来说，基本的最佳实践可以提供足够的保护，而不需要防病毒软件。]]></description>
-      <guid>https://t.me/hn_summary/85558</guid>
-      <pubDate>Sat, 20 Apr 2024 20:35:49 GMT</pubDate>
+      <title>[媒体]美国</title>
+      <link>https://t.me/hn_summary/85612</link>
+      <description><![CDATA[如何修复美国的航空系统
+美国航空系统正面临危机，由于地面雷达系统过时和空中交通管制员精疲力竭，险些发生的事故不断增加。最近在德克萨斯州奥斯汀发生的事件，一名联邦快递飞行员不得不指示西南航空飞行员中止起飞，凸显了地面雷达和控制器分离逻辑的缺乏。保罗·里纳尔迪和多萝西·罗宾等专家对这些问题进行了讨论，显然需要采取紧急行动，在重大灾难发生之前实现航空系统的现代化和改进。收听 On Point，深入了解如何修复美国的航空系统。 （根据故事文本的 28% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85612</guid>
+      <pubDate>Sun, 21 Apr 2024 05:22:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 探索 Earth Online 的力量，这是一个尖端的卫星监测平台，可提供 [...]</title>
-      <link>https://t.me/hn_summary/85557</link>
-      <description><![CDATA[地球在线：不间断卫星监测平台&lt; br/&gt;
-探索 Earth Online 的强大功能，它是 nimbo 提供的尖端卫星监测平台。地球。借助拆分和滑动技术，用户可以每月探索世界任何地方的土地演变。这个创新平台可以不间断地监测我们的星球，从而可以更深入地了解环境变化和发展。与我们一起彻底改变我们看待地球景观以及与地球景观互动的方式。探索、学习并惊叹触手可及的丰富信息。]]></description>
-      <guid>https://t.me/hn_summary/85557</guid>
-      <pubDate>Sat, 20 Apr 2024 20:08:36 GMT</pubDate>
+      <title>[媒体]这项研究探讨了睡眠时间与 2 型糖尿病风险之间的关系 [...]</title>
+      <link>https://t.me/hn_summary/85611</link>
+      <description><![CDATA[睡眠时间和 2 型糖尿病风险
+这项研究调查了睡眠时间与 2 型糖尿病风险之间的关系，研究结果来自澳大利亚、美国、德国和日本等多个国家。有争议的是，一些研究表明较短的睡眠时间可能会增加患糖尿病的风险，而另一些研究则显示出相互矛盾的结果。令人惊讶的是，来自日本的研究发现，有糖尿病家族史的人，睡眠时间较短，患糖尿病的风险较低。这些发现突显了睡眠与糖尿病风险之间的复杂关系，其中年龄、体重指数和生活习惯等因素发挥了作用。]]></description>
+      <guid>https://t.me/hn_summary/85611</guid>
+      <pubDate>Sun, 21 Apr 2024 05:10:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在接受《泰晤士报》采访时，儿科医生希拉里·卡斯 (Hilary Cass) 开创了一项突破性的研究 [...]</title>
-      <link>https://t.me/hn_summary/85556</link>
-      <description><![CDATA[希拉里·卡斯：性别报告后我无法乘坐公共交通工具
-在接受《泰晤士报》采访时，儿科医生希拉里·卡斯对变性儿童的治疗进行了开创性的审查，她对有关她的报告的虚假信息传播感到沮丧。她透露，她收到了辱骂性电子邮件和安全建议，导致她避开公共交通工具。卡斯驳斥了有关她的报告排除了 100 项跨性别研究的说法，强调了循证医疗保健对儿童的重要性。她还批评秘密性别诊所不配合她的研究。尽管面临强烈反对和虐待，卡斯仍然坚定地致力于改善跨性别医疗保健并确保她的建议得到落实。]]></description>
-      <guid>https://t.me/hn_summary/85556</guid>
-      <pubDate>Sat, 20 Apr 2024 20:02:30 GMT</pubDate>
+      <title>在一项开创性的研究中，多伦多大学的研究人员挑战了人们的刻板印象 [...]</title>
+      <link>https://t.me/hn_summary/85610</link>
+      <description><![CDATA[大量吸毒的心理
+在一项开创性的研究中，多伦多大学的研究人员挑战了长期大麻使用者懒惰和缺乏动力的刻板印象。令人惊讶的是，长期吸食大麻的人报告说，在兴奋的同时，积极情绪也会升高，有些人甚至使用大麻来帮助集中注意力。研究发现，大量吸食大麻的人在日常生活中会经历更多的负面情绪，这引发了人们对大麻使用与情绪之间关系的质疑。与普遍的看法相反，兴奋并不会降低参与者的积极性，用户在兴奋和清醒时都表现出愿意努力以获得奖励的意愿。这些发现可以为未来的大麻消费政策提供参考。]]></description>
+      <guid>https://t.me/hn_summary/85610</guid>
+      <pubDate>Sun, 21 Apr 2024 05:09:17 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Codeberg，开源协作平台，目前正在经历部分[...]</title>
-      <link>https://t.me/hn_summary/85555</link>
-      <description><![CDATA[Codeberg：服务部分降级
-开源协作平台 Codeberg 目前出现部分服务降级的情况。由于持续的维护和升级，用户可能会遇到问题。对于给您带来的任何不便，我们深表歉意，并感谢您在我们努力解决这些问题时的耐心等待。请查看我们的状态页面以了解最新情况。感谢您的理解。]]></description>
-      <guid>https://t.me/hn_summary/85555</guid>
-      <pubDate>Sat, 20 Apr 2024 19:54:24 GMT</pubDate>
+      <title>摘要：GNU C 库在 iconv() 函数中存在安全漏洞 (CVE-2024-2961) [...]</title>
+      <link>https://t.me/hn_summary/85609</link>
+      <description><![CDATA[Iconv 中的 Glibc 缓冲区溢出
+摘要：GNU C 库的 iconv() 函数中存在安全漏洞 (CVE-2024-2961)，在将字符串转换为 ISO-2022-CN-EXT 字符集时，可能会导致输出缓冲区溢出最多 4 个字节。这可能会导致应用程序崩溃或覆盖相邻变量。 Charles Fol 发现了这个 24 年前的缓冲区溢出问题，他将在 OffectiveCon 上的一场题为“ICONV，将字符集设置为 RCE：利用 GLIBC 攻击 PHP 引擎”的演讲中讨论这个问题。此漏洞对 PHP 具有独特的影响，可能会危及多个应用程序。该活动定于5月10日至11日举行。]]></description>
+      <guid>https://t.me/hn_summary/85609</guid>
+      <pubDate>Sun, 21 Apr 2024 05:06:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 SmugMug + Flickr，我们热衷于保存 [...]</title>
-      <link>https://t.me/hn_summary/85554</link>
-      <description><![CDATA[我们为什么要这样做
-在 SmugMug + Flickr，我们热衷于保存通过摄影捕捉的视觉历史。 2018 年收购 Flickr 后，我们意识到该平台对全球各个社区的巨大重要性。从知识共享到政府机构和学校，Flickr 是通过摄影进行共享和联系的重要枢纽。 Flickr 基金会的成立旨在扩大人们对摄影历史的了解，并为子孙后代保存这些图像。我们的目标是创建一个记录我们的人性和历史的视觉共享空间，确保所有人、任何地方都可以访问这些记忆。]]></description>
-      <guid>https://t.me/hn_summary/85554</guid>
-      <pubDate>Sat, 20 Apr 2024 19:52:20 GMT</pubDate>
+      <title>[媒体] 密码学家 Yilei Chen 最近发布了一份预印本，声称已经开发出一种 Polyn [...]</title>
+      <link>https://t.me/hn_summary/85608</link>
+      <description><![CDATA[IACR 预印本
+密码学家 Yilei Chen 最近发布了一份预印本，声称开发了一种多项式时间量子算法来解决格子问题，包括 GapSVP 问题。如果正确的话，这一突破可能会对基于格的密码系统和后量子公钥密码学产生重大影响。然而，专家们仍在评估该算法的有效性，因为它引入了复杂的新工具和技术。该帖子的作者正在寻求社区的意见和反馈，以进一步评估预印本。这一发展在量子计算和密码学领域引发了兴奋和谨慎。]]></description>
+      <guid>https://t.me/hn_summary/85608</guid>
+      <pubDate>Sun, 21 Apr 2024 04:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>乍得已要求美国停止在该国战略军事基地的行动，这是严重的 [...]</title>
-      <link>https://t.me/hn_summary/85553</link>
-      <description><![CDATA[乍得要求美军停止在战略陆军基地的行动
-乍得要求美国停止在该国战略军事基地的行动，这对于打击该地区的圣战叛乱至关重要。这一请求是在尼日尔暂停与美国的安全协议之后提出的，因为萨赫勒地区的军事统治政府正在与俄罗斯结盟，同时与西方保持距离。这种联盟的转变和美军从基地撤军可能对该地区正在进行的反恐斗争产生重大影响。]]></description>
-      <guid>https://t.me/hn_summary/85553</guid>
-      <pubDate>Sat, 20 Apr 2024 19:51:16 GMT</pubDate>
+      <title>[媒体] 标题：草坪椅 Larry 的草坪椅在美国国家航空航天博物馆永久展出</title>
+      <link>https://t.me/hn_summary/85607</link>
+      <description><![CDATA[拉里的草坪椅在国家航空航天博物馆永久展出
+标题：拉里的草坪椅在国家航空航天博物馆永久展出
+
+探索草坪椅拉里在连接氦气球的草坪椅上进行标志性飞行的迷人故事，现已在国家航空航天博物馆永久展出。亲自或在线探索我们的展览、活动和收藏。利用我们为教师和家长提供的教育资源，深入探索空气和太空的世界。成为支持我们的展览和保护工作的火花。请访问华盛顿特区或弗吉尼亚州尚蒂伊的我们，亲身体验航空和航天历史的奇迹。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85607</guid>
+      <pubDate>Sun, 21 Apr 2024 04:17:52 GMT</pubDate>
     </item>
     <item>
-      <title>作者正在寻求有关管理个人服务器的建议，表达了对 com [...]</title>
-      <link>https://t.me/hn_summary/85552</link>
-      <description><![CDATA[询问HN：请推荐如何管理个人服务器 
-作者正在寻求有关管理个人服务器的建议，并对设置和维护具有不同硬件和发行版的不同服务器的复杂性感到沮丧。他们发现 Ansible 很难使用并且不能完全重现。他们正在考虑 NixOS，但对于学习另一种编程语言犹豫不决。作者正在寻找一种更有效的方法来编写一次配置并在服务器上可靠地部署它们。服务器管理的斗争和寻找更简单的解决方案是这篇文章的主要焦点。]]></description>
-      <guid>https://t.me/hn_summary/85552</guid>
-      <pubDate>Sat, 20 Apr 2024 19:35:09 GMT</pubDate>
+      <title>在 Sean Eron Anderson 的 Bit Twiddling Hacks 合集中，各种代码片段都是 [...]</title>
+      <link>https://t.me/hn_summary/85606</link>
+      <description><![CDATA[位调整黑客
+在 Sean Eron Anderson 的 Bit Twiddling Hacks 合集中，共享了用于优化 C 编程中操作的各种代码片段。这些片段属于公共领域，并且已经过彻底测试。该网站提供了查找整数的符号、绝对值和最小/最大值的巧妙技巧，为不同场景提供了替代解决方案。有争议的是，由于实现定义的行为，某些方法可能不适用于所有系统，并且存在绝对值的专利变体。作者鼓励在特定架构上测试这些技术以获得最佳性能。 （根据故事文本的 9% 进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/85606</guid>
+      <pubDate>Sun, 21 Apr 2024 04:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>作者是一名 38 岁的 Web 开发人员，在 [...] 工作了 15 年后，他感到精疲力竭和沮丧。</title>
-      <link>https://t.me/hn_summary/85551</link>
-      <description><![CDATA[我是 38 岁的 Web 开发人员，接近倦怠 
-作者是一名 38 岁的 Web 开发人员，在该行业工作了 15 年之后，他感到精疲力竭和沮丧。他们在意大利的一个小镇远程工作，担心自己的工作未来会被人工智能取代。尽管他们有计算机科学背景，但他们感到陷入困境，不确定下一步该做什么。这种衷心的求助凸显了科技行业许多人面临的倦怠和未来不确定性的挣扎。作者的脆弱和诚实使得这本书对于处于类似情况的任何人来说都是一本相关且发人深省的读物。]]></description>
-      <guid>https://t.me/hn_summary/85551</guid>
-      <pubDate>Sat, 20 Apr 2024 19:34:05 GMT</pubDate>
+      <title>在洛杉矶，一位名叫考特尼·彼得森 (Courtney Peterson) 的单亲妈妈在失去 [...]</title>
+      <link>https://t.me/hn_summary/85605</link>
+      <description><![CDATA[洛杉矶正在使用人工智能程序来预测无家可归者 
+在洛杉矶，一位名叫考特尼·彼得森的单亲妈妈在失业后面临着无家可归的威胁。然而，一个试点项目拯救了她，该项目使用预测人工智能来识别和帮助面临无家可归风险的个人和家庭。该计划于 2021 年启动，已帮助近 800 人，其中 86% 的人保留了永久住房，令人印象深刻。虽然在这种情况下使用人工智能是创新和有益的，但它也引起了对隐私和潜在滥用的担忧，正如其他政府人工智能举措中所见。尽管存在争议，但该计划一直是像彼得森这样的许多人的生命线，为未来提供了稳定和希望。]]></description>
+      <guid>https://t.me/hn_summary/85605</guid>
+      <pubDate>Sun, 21 Apr 2024 03:49:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] AltStore。</title>
-      <link>https://t.me/hn_summary/85550</link>
-      <description><![CDATA[AltStore。第一个苹果批准的替代应用商店
-AltStore 正在通过 Apple 批准的替代 App Store 彻底改变 iOS 用户旁加载应用程序的方式。 AltStore 注重安全性和易用性，为自行发布的应用程序提供平台，并鼓励独立开发者分享他们的创作。该开源项目已经建立了一个专门的社区，并提供了独特的功能，例如详细的应用程序权限和开发中的预览。有争议的是，AltStore 挑战了苹果的限制，允许官方 App Store 上未提供的应用程序。通过 AltStore 体验新的应用世界。]]></description>
-      <guid>https://t.me/hn_summary/85550</guid>
-      <pubDate>Sat, 20 Apr 2024 19:25:00 GMT</pubDate>
+      <title>[媒体]围绕使用生物识别数据解锁手机的争议被强调[...]</title>
+      <link>https://t.me/hn_summary/85604</link>
+      <description><![CDATA[您可能不想用指尖解锁手机
+联邦法院最近的一项裁决凸显了围绕使用生物识别数据解锁手机的争议，该裁决允许警方强制个人解锁其设备。在一起涉及假释犯的案件中，警察利用嫌疑人的指纹获取了可能有罪的证据，导致嫌疑人被判处 12 年监禁。法院裁定强制使用生物识别数据并不违反第五修正案，引发了人们对隐私和宪法权利的担忧。此案提出了有关执法部门访问电子设备上存储的个人信息的权力限制的重要问题。]]></description>
+      <guid>https://t.me/hn_summary/85604</guid>
+      <pubDate>Sun, 21 Apr 2024 03:48:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

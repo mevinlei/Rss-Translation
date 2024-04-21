@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sun, 21 Apr 2024 03:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 06:11:36 GMT</lastBuildDate>
     <item>
       <title>研究测试发现，ChatGPT 背后的技术比非专科医生更好地提供眼部问题建议</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c7zzt0/technology_behind_chatgpt_better_with_eye_problem/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>具有极其复杂架构的文本到 SQL</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c3vub1/texttosql_with_extremely_complex_schema/</link>
-      <description><![CDATA[我正在使用 llms 和 sql server 开发一个文本到 sql 项目。用户将用自然语言提出问题，llms 将编写 sql 查询，在我的数据库上运行它，然后以自然语言给出结果。问题是数据库的模式很大，表名、列名不言自明。大多数时候，两个表需要在多个列上连接，并且在其中条件下，我始终希望有一些条件，并且日期范围条件也非常重要，因为如果没有日期条件，用户可能会获得他不希望访问的数据到。有什么办法可以解决这个问题吗？我尝试过使用视图，但这在计算上非常昂贵，并且执行起来也需要大量时间。还有其他办法吗？   由   提交 /u/CategoryHoliday9210   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用 llms 和 sql server 开发一个文本到 sql 项目。其中用户将以自然语言提问，llms 将编写 sql 查询，在我的数据库上运行它，然后以自然语言返回结果。问题是数据库的模式非常庞大，表名和列名都不是自解释的。大多数时候，两个表需要在多个列上进行连接，并且在 where 条件中我始终希望有一些条件，并且日期范围条件也非常重要，因为如果没有日期条件，用户可能会获得他本不应访问的数据。有什么办法可以解决这个问题吗？我尝试过使用视图，但这在计算上很昂贵，并且执行起来也需要很长时间。还有其他办法吗？    提交人    /u/CategoryHoliday9210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c3vub1/texttosql_with_extremely_complex_schema/</guid>
       <pubDate>Sun, 14 Apr 2024 15:13:11 GMT</pubDate>
     </item>
