@@ -4,87 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:34:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 02:57:15 GMT</lastBuildDate>
     <item>
-      <title>[媒体]谷歌发布了一本名为“提示指南101”的新手册，帮助用户创建e [...]</title>
-      <link>https://t.me/hn_summary/85901</link>
-      <description><![CDATA[释放 Gemini 的全部潜力：Google 发布官方“提示指南”
-谷歌发布了一本名为《提示指南101》的新手册，帮助用户在Workspace中为Gemini创建有效的提示。该指南强调了在制作提示时考虑角色、任务、背景和格式的重要性。它还表明，长度约为 21 个单词的提示往往是最成功的。该手册为各种职业提供了技巧，并提供了额外的建议，例如将任务分解为单独的提示、对特定结果给出限制、分配创造力的角色、寻求反馈、考虑语气以及改进提示以获得更好的结果。用户可以下载该指南以获取更深入的信息。]]></description>
-      <guid>https://t.me/hn_summary/85901</guid>
-      <pubDate>Tue, 23 Apr 2024 00:34:10 GMT</pubDate>
+      <title>微软正式推出 Phi-3，这是他们在人工智能技术领域的最新创新 [...]</title>
+      <link>https://t.me/hn_summary/85916</link>
+      <description><![CDATA[微软推出 Phi-3
+微软正式推出了他们在人工智能技术方面的最新创新成果Phi-3。这个新系统有望彻底改变我们与人工智能交互的方式，提供先进的功能和改进的性能。通过 Phi-3，微软旨在突破人工智能所能实现的界限，为从医疗保健到金融等行业开辟新的可能性。随着这项技术越来越融入我们的日常生活，围绕 Phi-3 的争议在于它对工作岗位流失和隐私问题的潜在影响。然而，Phi-3 独特的功能和巧妙的设计使其成为人工智能领域充满希望的进步。]]></description>
+      <guid>https://t.me/hn_summary/85916</guid>
+      <pubDate>Tue, 23 Apr 2024 02:57:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Gulick 等人的一项新研究。</title>
-      <link>https://t.me/hn_summary/85900</link>
-      <description><![CDATA[一百万年没有发生大型滑坡
-Gulick 等人的一项新研究。深入研究了阿拉斯加湾有记录的第六大巨型滑坡，该滑坡发生在大约 120 万年前。这次由地震活动引发的极端水下事件的面积至少为16,124平方公里。研究人员认为，中更新世过渡在滑坡中发挥了作用，沉积物的堆积和通量导致了斜坡不稳定。令人惊讶的是，自那以后，由于沉积物通量的变化和地震加强，再也没有发生过相同规模的巨型滑坡。这项研究揭示了导致这些大规模水下事件的复杂相互作用。]]></description>
-      <guid>https://t.me/hn_summary/85900</guid>
-      <pubDate>Tue, 23 Apr 2024 00:33:07 GMT</pubDate>
+      <title>[媒体] TL;DR：Milvus 和 Zilliz Cloud 等矢量数据库可以用作 JSON 数据存储，这是一种 [...]</title>
+      <link>https://t.me/hn_summary/85915</link>
+      <description><![CDATA[将矢量数据库用作 JSON（或关系）数据存储
+TL;DR：像 Milvus 和 Zilliz Cloud 这样的矢量数据库可以用作 JSON 数据存储，允许在扩展时轻松地将无矢量集合迁移到不同的数据库。尽管矢量搜索很受欢迎，但将矢量搜索插件与传统数据库结合使用的消息传递往往过于简单化。这篇博文演示了如何在 Milvus 中创建集合来存储 JSON 文档、与数据交互、执行查询和更新文档。该过程非常简单，展示了使用矢量数据库进行结构化数据搜索的灵活性。帖子中提供的脚本提供了使用 Milvus 作为 JSON 数据存储的分步指南。 （根据故事文本的 76% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/85915</guid>
+      <pubDate>Tue, 23 Apr 2024 02:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 Krazam OS，MMX2 和 FaceGoog, Inc.</title>
-      <link>https://t.me/hn_summary/85899</link>
-      <description><![CDATA[Krazam操作系统
-欢迎使用 Krazam OS，MMX2 和 FaceGoog, Inc. 合作为您带来尖端功能，让利益相关者感到满意。我们的昼夜节律技术可确保最佳性能，而我们的团队则孜孜不倦地工作以创造价值。感谢 98.css 和我们的开源朋友的支持。认识一下我们专业的网站团队，包括 Gooch Lawrence、Kurt Schoenfeld 等。按 ENTER 键不执行任何操作，沉浸在 Krazam OS 的世界中。]]></description>
-      <guid>https://t.me/hn_summary/85899</guid>
-      <pubDate>Mon, 22 Apr 2024 23:56:54 GMT</pubDate>
+      <title>在本期“人工智能意识形态与权力巩固”特刊中，Burrell 和 Metcal [...]</title>
+      <link>https://t.me/hn_summary/85914</link>
+      <description><![CDATA[“人工智能意识形态与权力巩固”简介：命名功率
+在本期《人工智能意识形态与权力巩固》特刊中，伯勒尔和梅特卡夫深入探讨了人工智能与权力动态之间的复杂关系。他们探讨人工智能技术如何不是中立的工具，而是反映和加强现有的权力结构。作者认为，通过命名和理解人工智能系统中发挥作用的权力动态，我们可以努力创建更加公平和公正的技术系统。这一发人深省的介绍为更深入地探索人工智能在社会中的争议和影响奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/85914</guid>
+      <pubDate>Tue, 23 Apr 2024 02:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cubic Life 是一个元胞自动机引擎，以 3D 形式模拟康威的生命游戏。</title>
-      <link>https://t.me/hn_summary/85898</link>
-      <description><![CDATA[立方体生命：康威的 3D 生命游戏&lt; br /&gt;
-Cubic Life 是一个元胞自动机引擎，以 3D 形式模拟康威的生命游戏。它提供无限网格、3D 模拟以及用于自定义规则和行为的灵活架构。与传统的 2D 实现不同，Cubic Life 允许更复杂的模式和交互。该引擎包括用于实时观察新兴模式和动态的可视化工具，用户可以调整参数以进行定制模拟。它是跨平台的并且易于扩展。 Cubic Life 由 M. Sami Gürpınar 开发，已获得 MIT 许可。]]></description>
-      <guid>https://t.me/hn_summary/85898</guid>
-      <pubDate>Mon, 22 Apr 2024 23:52:49 GMT</pubDate>
+      <title>[媒体]Electron 30.0.0 已发布，升级至 Chromium 124.0.6367.49、V8 12.4 [...]</title>
+      <link>https://t.me/hn_summary/85913</link>
+      <description><![CDATA[Electron 30.0.0
+Electron 30.0.0 已发布，升级至 Chromium 124.0.6367.49、V8 12.4 和 Node.js 20.11.1。显着的变化包括 Windows 上的 ASAR Integrity 熔断器支持、WebContentsView 和 BaseWindow 模块的引入以及文件系统 API 的实现。添加了新功能，例如 webviews 的透明 webpreference 和 webContents API 上的 navigationHistory 属性。重大更改包括使用跨源 iframe 的权限策略以及删除某些功能，例如 --disable-color- Correct-rendering 命令行开关。我们鼓励开发者升级到 Electron 30 并敬请关注未来的更新。]]></description>
+      <guid>https://t.me/hn_summary/85913</guid>
+      <pubDate>Tue, 23 Apr 2024 02:32:58 GMT</pubDate>
     </item>
     <item>
-      <title>2004 年，Google 的招聘活动要求应聘者找到第一个 10 位素数 [...]</title>
-      <link>https://t.me/hn_summary/85897</link>
-      <description><![CDATA[查找 e 的数字中的第一个 10 位素数 (2017) 
-2004 年，Google 的招聘活动要求应聘者找到 e 数字中的前 10 位素数，最后进行了编程练习。 www.hanshq.net 上的帖子探讨了不同的方法解决问题，从 Perl 的单行代码到复杂的算术技术。使用 Perl 搜索 e 的 200 万位数字，可以找到令人惊讶的解决方案 7427466391。这篇文章还深入研究了使用泰勒定理和二分搜索来计算 e 的极端精度，强调了使用 GMP 的任意精度浮点函数进行精确计算。该项目的代码可在 eprime.c 中找到。 （根据故事文本的 16% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85897</guid>
-      <pubDate>Mon, 22 Apr 2024 23:30:39 GMT</pubDate>
+      <title>[媒体]Google Pixel 9 Pro 原型机已被泄露，展示了带有新 [...]</title>
+      <link>https://t.me/hn_summary/85912</link>
+      <description><![CDATA[第一张真实的 Pixel 9 Pro 图片泄露，容量为 16GB内存
+谷歌 Pixel 9 Pro 原型机已经泄露，展示了时尚的设计，带有新的药丸状摄像头凸起和磨砂背面。令人惊讶的是，今年的“Pro”型号较小，配备 6.1 英寸显示屏，而较大的型号将被称为“Pixel 9 Pro XL”。最具争议的方面是高达 16GB 的 RAM，比之前型号的 12GB 有了显着提升，反映出谷歌对生成式 AI 模型的关注。尽管内存很高，但这款手机保持了正常的外观，偏离了通常独特的原型设计。此次泄密暗示了谷歌在硬件中人工智能集成的新方向。]]></description>
+      <guid>https://t.me/hn_summary/85912</guid>
+      <pubDate>Tue, 23 Apr 2024 02:27:52 GMT</pubDate>
     </item>
     <item>
-      <title>保护记者委员会 (CPJ) 最近的报告显示，以色列已将 [...]</title>
-      <link>https://t.me/hn_summary/85896</link>
-      <description><![CDATA[报告发现，以色列与伊朗并列 2023 年监禁记者人数最多的国家
-保护记者委员会 (CPJ) 最近的报告显示，以色列与伊朗并列为 2023 年监禁记者人数最多的国家之一。这是以色列首次跻身监禁记者人数最多的国家之列，自去年 10 月以来已拘留了 20 多名记者7. 据称，许多逮捕是由于社交媒体活动造成的，引发了争议和担忧。像阿拉·里马维这样的记者成为了攻击目标，其中一些人在没有受到指控的情况下面临行政拘留。保护记者委员会的报告还强调，自 10 月 7 日以来，以色列至少杀害了 97 名记者和媒体工作者。对记者的镇压被视为试图掩盖加沙发生的事件，促使人们呼吁独立媒体采访。]]></description>
-      <guid>https://t.me/hn_summary/85896</guid>
-      <pubDate>Mon, 22 Apr 2024 23:23:33 GMT</pubDate>
+      <title>公共图书馆正在减少我们的最大数字保留量。</title>
+      <link>https://t.me/hn_summary/85911</link>
+      <description><![CDATA[公共图书馆正在减少我们的最大数字保留量。原因如下
+从 3 月 19 日开始，西雅图公共图书馆将电子书和电子有声读物允许的最大保留次数从 25 次减少到 10 次。这一变化是由于数字图书日益普及，导致成本不断上升，这是不可持续的对于图书馆。由于出版商使用的许可模式，图书馆数字图书的成本比印刷版本高出三倍。赞助人持有是成本上升的最大因素，因为需要购买额外的许可证才能完成对热门图书的持有。这一变化并非由于预算挑战，而是例行服务调整的一部分。为了帮助顾客管理他们的阅读列表，建议使用替代工具，例如在线目录中的“书架”功能和“始终可用”馆藏。]]></description>
+      <guid>https://t.me/hn_summary/85911</guid>
+      <pubDate>Tue, 23 Apr 2024 02:25:18 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：HN 上的所有垃圾邮件机器人是怎么回事？</title>
-      <link>https://t.me/hn_summary/85895</link>
-      <description><![CDATA[问 HN：HN 上的垃圾邮件机器人是怎么回事？&lt; /a&gt;
-标题：问 HN：HN 上的垃圾邮件机器人是怎么回事？
-最近，我注意到 HN 上发布想要人工智能女友的机器人账户显着增加。这是一次协同攻击还是只是一个奇怪的巧合？更重要的是，拥有一个人工智能女友真的是一个现实的概念吗？加入讨论并分享您对这一有争议且令人惊讶的趋势的看法。]]></description>
-      <guid>https://t.me/hn_summary/85895</guid>
-      <pubDate>Mon, 22 Apr 2024 23:16:27 GMT</pubDate>
+      <title>问 HN：如何为年迈父母管理手机和电脑？</title>
+      <link>https://t.me/hn_summary/85910</link>
+      <description><![CDATA[问HN：如何为年迈的父母管理手机和电脑？&lt; /a&gt;
+我的朋友正在努力管理他年迈父母的手机和电脑，因为他们不断犯错误，导致设备故障。尽管安装了远程桌面软件和防病毒软件，他们仍然设法把事情搞砸。从意外删除系统文件到打开飞行模式而不知道如何禁用它，这正在成为一个真正的挑战。他正在考虑设置一个 Intune 租户来锁定他们的设备。您对如何有效管理年迈父母的手机和电脑以保持其功能和有用有何建议？]]></description>
+      <guid>https://t.me/hn_summary/85910</guid>
+      <pubDate>Tue, 23 Apr 2024 01:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Apple Hugs：人类高斯 Splats (CVPR 2024) 是一个提供参考效果的项目 [...]</title>
-      <link>https://t.me/hn_summary/85894</link>
-      <description><![CDATA[苹果拥抱：人类高斯斑点 (CVPR 2024) 
-Apple Hugs：人类高斯 Splats (CVPR 2024) 是一个为 HUGS 提供参考实现的项目，HUGS 是一个使用神经辐射场从单个视频重建背景场景和可动画人物的系统。它提供了有关设置系统、准备数据集和模型、以不同模式训练系统以及评估结果的说明。该项目的独特之处在于提供了一种独特的方法来从视频中重建场景和人物，提供预训练模型，并提供训练模式的灵活性。它由 Muhammed Kocabas、Jen-Hao Rick Chang、James Gabriel、Oncel Tuzel 和 Anurag Ranjan 在 IEEE 计算机视觉和模式识别 (CVPR) 2024 上展示。]]></description>
-      <guid>https://t.me/hn_summary/85894</guid>
-      <pubDate>Mon, 22 Apr 2024 23:12:23 GMT</pubDate>
+      <title>[媒体]作为实现可持续粮食生产的突破性举措，Solar Foods 开设了 [...]</title>
+      <link>https://t.me/hn_summary/85909</link>
+      <description><![CDATA[食品的未来：这家公司刚刚推出了第一款“空气蛋白”工厂
+Solar Foods 在芬兰赫尔辛基附近开设了世界上第一家空气蛋白工厂，这是迈向可持续食品生产的突破性举措。 Solar Foods 采用独特的工艺，将微生物与空气中的二氧化碳相结合，生产出 Solein，一种营养丰富的黄色粉末，可用于各种食品中。这种创新方法为解决养活不断增长的全球人口的挑战提供了一个有前途的解决方案，并在各种传统食品中具有潜在的应用前景。 Solar Foods 的开创性技术代表着未来食品生产的重要一步。]]></description>
+      <guid>https://t.me/hn_summary/85909</guid>
+      <pubDate>Tue, 23 Apr 2024 01:36:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站 www.franken-ui.dev 提供了 HTML 优先、与框架无关的实现 [...]</title>
-      <link>https://t.me/hn_summary/85893</link>
-      <description><![CDATA[shadcn/UI 的 HTML 优先、与框架无关的实现 – Franken /UI
-网站 www.franken-ui.dev 提供shadcn/UI 的 HTML 优先、与框架无关的实现，称为 Franken/UI。这种独特的方法允许灵活性和定制，而无需绑定到特定的框架。争议在于这种方法是否更有效，或者是否增加了不必要的复杂性。作者威廉邀请读者参加会议讨论该项目并分享其成功的想法。这种积极主动的方法凸显了协作和沟通在实现项目目标中的重要性。]]></description>
-      <guid>https://t.me/hn_summary/85893</guid>
-      <pubDate>Mon, 22 Apr 2024 22:46:10 GMT</pubDate>
+      <title>[媒体]美国宇航局已正式批准蜻蜓任务，这是一个探索[...]的开创性项目</title>
+      <link>https://t.me/hn_summary/85908</link>
+      <description><![CDATA[蜻蜓泰坦任务
+美国国家航空航天局 (NASA) 正式批准了“蜻蜓”任务，这是一项利用四轴飞行器无人机探索土星卫星泰坦的开创性项目。该任务预算为 33.5 亿美元，发射日期为 2028 年 7 月，将是同类中第一个探索另一个行星体的任务，也是第二个探索行星的飞行无人机。土卫六独特的环境、甲烷湖和寒冷的气温，让我们得以一睹古代地球的风采。尽管成本高昂且目标雄心勃勃，但“蜻蜓”任务为研究土卫六复杂的碳化学和寻找潜在生命迹象提供了前所未有的机会。]]></description>
+      <guid>https://t.me/hn_summary/85908</guid>
+      <pubDate>Tue, 23 Apr 2024 01:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在这篇博文中，作者强调了将人工智能程序纳入[...]</title>
-      <link>https://t.me/hn_summary/85892</link>
-      <description><![CDATA[Joel 测试应添加人工智能编程工具 
-在这篇博文中，作者强调了将 AI 编程工具纳入 Joel 测试的重要性，Joel 测试列出了所有伟大软件公司都会做的 12 件事。作者警告首席技术官们，不允许他们的团队使用人工智能工具将导致进展缓慢和顶尖人才的流失。作者是一位经验丰富的开发人员，分享了他们使用 Github Copilot 等人工智能助手的积极经验，强调了效率和生产力的提升。作者鼓励工程师寻找采用人工智能工具的公司，并敦促首席技术官找到将这些工具整合到团队中的方法。这篇文章最后呼吁更新 Joel Test 以包含人工智能编程工具。]]></description>
-      <guid>https://t.me/hn_summary/85892</guid>
-      <pubDate>Mon, 22 Apr 2024 22:29:02 GMT</pubDate>
+      <title>[媒体]猫打翻东西看似随意，但实际上是一种狩猎行为。</title>
+      <link>https://t.me/hn_summary/85907</link>
+      <description><![CDATA[为什么猫会打翻东西
+猫打翻东西可能看起来是随机的，但这实际上是一种狩猎行为。通过测试物体的生命迹象，猫正在从事模仿其自然本能的狩猎活动。这种行为并不是出于无聊，而是出于与猎物之类的物体互动的愿望。了解这种行为可以帮助猫主人提供合适的玩具来满足他们的狩猎本能。猫为什么打翻东西的谜团终于通过狩猎行为的镜头得到了解释，揭示了猫科动物行为的迷人世界。]]></description>
+      <guid>https://t.me/hn_summary/85907</guid>
+      <pubDate>Tue, 23 Apr 2024 01:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
