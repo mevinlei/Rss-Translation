@@ -4,9 +4,9 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:10:08 GMT</lastBuildDate>
     <item>
-      <title>我应该如何许可我的第一个使用第 3 方库的 github 项目？</title>
+      <title>我应该如何许可我的第一个使用第三方库的 github 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</link>
       <description><![CDATA[嗨，我正在 Kotlin 中开发一个简单的密码管理器应用程序，用户可以上传照片以将其用作密码的图标。我已经编写了所有代码，但使用了一个使用 Apache 2.0 许可证的库 (Canhub/Android-Image-Cropper)。我的项目只是用于一个学校项目，但是我想让我的源代码免费以他们想要的任何方式使用（我不打算更新它），所以我想我会使用 apache 许可证，但是，我应该如何归因图像裁剪器的作者？请记住，我没有修改他们的代码，也没有发布他们的实际包，而是在 gradle 实现中。 当涉及到 git 和软件许可时，我完全是个菜鸟。帮助将不胜感激。   由   提交/u/Agus__02   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cb1em6/how_should_i_license_my_first_github_project_that/</guid>
@@ -55,7 +55,7 @@
       <pubDate>Mon, 22 Apr 2024 14:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在构建一个开源、自托管的 Captable。在 Github 上查看并向我们提供反馈？</title>
+      <title>我们正在构建一个开源、自托管的 Captable。在 Github 上查看并给我们反馈？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cab3yl/we_are_building_an_opensource_self_hosted/</link>
       <description><![CDATA[大家好，我们正在构建 Captable - Carta 的开源、自托管版本。查看 Github &amp;让我知道你的想法？  https://github.com/captableinc/captable    由   提交/u/haphazardwizardofoz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cab3yl/we_are_building_an_opensource_self_hosted/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>Onenote 的开源替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</link>
-      <description><![CDATA[3年前，这个帖子被删除了，因为当时我没有足够的业力。 （这是我在这个帐户上的第一篇文章）但最近我再次面临同样的问题，因为当时我没有真正找到解决方案。 原始帖子： 你好，我是目前我的笔记本上使用的是win 10，我非常喜欢在触摸屏上使用onenote。现在我也在考虑通过卸载Windows来升级我的笔记本并使用ubuntu。 OneNote 有合适的替代品吗？    由   提交 /u/phrandsisgo   [链接] [评论]]]></description>
+      <description><![CDATA[3年前，这个帖子被删除了，因为当时我没有足够的业力。 （这是我在这个帐户上的第一篇文章）但最近我再次面临同样的问题，因为当时我没有真正找到解决方案。 原始帖子：嗨，我是目前我的笔记本上使用的是win 10，我非常喜欢在触摸屏上使用onenote。现在我也在考虑通过卸载Windows来升级我的笔记本并使用ubuntu。 OneNote 有合适的替代品吗？    由   提交 /u/phrandsisgo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9v6qv/opensource_replacement_for_onenote/</guid>
       <pubDate>Sun, 21 Apr 2024 22:50:10 GMT</pubDate>
     </item>

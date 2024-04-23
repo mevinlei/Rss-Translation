@@ -4,18 +4,25 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:09:27 GMT</lastBuildDate>
+    <item>
+      <title>批量文件重命名器</title>
+      <link>https://www.reddit.com/r/software/comments/1cb6hva/bulk_file_renamer/</link>
+      <description><![CDATA[希望重命名音频文件的文件名，不关心 id3 标签。   由   提交 /u/solidprospect   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cb6hva/bulk_file_renamer/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:47:04 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 应用程序 Ping 监视器</title>
       <link>https://www.reddit.com/r/software/comments/1cb075b/windows_app_ping_monitor/</link>
-      <description><![CDATA[您好， 我正在寻找一款基于 Windows 的应用程序的推荐，该应用程序可以通过 PING 监视设备并记录任何下降。   由   提交/u/Tularis1  [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我正在寻找基于 Windows 的应用程序的推荐，该应用程序可以通过 PING 监视设备并记录任何下降。   由   提交/u/Tularis1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cb075b/windows_app_ping_monitor/</guid>
       <pubDate>Tue, 23 Apr 2024 09:23:44 GMT</pubDate>
     </item>
     <item>
       <title>Macrium Reflect：尺寸放大</title>
       <link>https://www.reddit.com/r/software/comments/1cazo8i/macrium_reflect_size_blowing_up/</link>
-      <description><![CDATA[我觉得我要么遗漏了整个 GFS 备份方案的工作原理，要么设置错误。 I我已将 Reflect 设置为将我的系统驱动器（大约 400GB）备份到辅助 2TB HDD，每月一次完整备份，每月两次差异备份。如果容量用完，还要先清除旧备份，然后再清除新备份。 然而，一段时间后，HDD 上的映像文件夹不断膨胀到超过 1TB，并且里面有许多随机大小的映像文件。我认为图像最多不会比备份的驱动器大。这是怎么回事？   由   提交 /u/Complex-Flight-3358   [链接] [评论]]]></description>
+      <description><![CDATA[我觉得我要么遗漏了整个 GFS 备份方案的工作原理，要么设置错误。 I我已将 Reflect 设置为将我的系统驱动器（大约 400GB）备份到辅助 2TB HDD，每月一次完整备份，每月两次差异备份。如果空间用完，还要先清除旧备份，然后再清除新备份。 然而，一段时间后，HDD 上的映像文件夹不断膨胀到超过 1TB，并且里面有许多随机大小的映像文件。我认为图像最多不会比备份的驱动器大。这是怎么回事？   由   提交 /u/Complex-Flight-3358   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cazo8i/macrium_reflect_size_blowing_up/</guid>
       <pubDate>Tue, 23 Apr 2024 08:47:17 GMT</pubDate>
     </item>
@@ -64,14 +71,14 @@
     <item>
       <title>Realtek 高清音频管理器拒绝安装</title>
       <link>https://www.reddit.com/r/software/comments/1carf82/realtek_hd_audio_manager_refusing_to_install/</link>
-      <description><![CDATA[我一直遇到回声问题，我的耳机拾取的声音比我的声音（主要是通过不和谐）多得多不是这样，当我在streamlabs（尤其是使用voicemeeter）中录音时，它会回响。 所以我发现realtek高清音频管理器有一个最有可能导致这种情况的设置，但管理器不是由于故障安装在我的电脑上。我尝试了很多不同的方法，唯一真正有效的方法是从我的主板页面下载，但当然，由于另一个故障，它也没有附带音频管理器。 &lt; p&gt;所有其他 Realtek 下载都会返回这些错误消息，我不知道为什么。我也更新了我的BIOS，只是为了看看这是否会导致某些问题，但不，仍然是同样的问题。我现在对这个错误消息感到非常困惑，因为这些下载应该有音频管理器，但它们都不起作用。它始终是这些错误消息之一，因此如果有人有一些解决方案，我将非常感激，或者如果有一种方法可以实际下载音频管理器，而无需其他任何东西也可以工作，因为这实际上就是我想要的 ​  https://preview.redd.it/058zkgbxl4wc1.png?width=689&amp;format=png&amp;auto=webp&amp;s=3997863aa1c2eb402598a2251696ee00b92f9eda  &amp; #32；由   提交 /u/Logaheart   [链接] [评论]]]></description>
+      <description><![CDATA[我一直遇到回声问题，我的耳机拾取的声音比我的声音（主要是通过不和谐）多得多不是这样，当我在streamlabs（尤其是使用voicemeeter）中录音时，它会回响。 所以我发现realtek高清音频管理器有一个最有可能导致这种情况的设置，但管理器不是由于故障安装在我的电脑上。我已经尝试了很多不同的方法，唯一真正有效的方法是从我的主板页面下载，但当然，由于另一个故障，它也没有附带音频管理器。 &lt; p&gt;所有其他 Realtek 下载都会返回这些错误消息，我不知道为什么。我也更新了我的BIOS，只是为了看看这是否会导致某些问题，但不，仍然是同样的问题。我现在对这个错误消息感到非常困惑，因为这些下载应该有音频管理器，但它们都不起作用。它始终是这些错误消息之一，因此如果有人有一些解决方案，我将非常感激，或者如果有一种方法可以实际下载音频管理器，而无需其他任何东西也可以工作，因为这实际上就是我想要的 ​  https://preview.redd.it/058zkgbxl4wc1.png?width=689&amp;format=png&amp;auto=webp&amp;s=3997863aa1c2eb402598a2251696ee00b92f9eda  &amp; #32；由   提交 /u/Logaheart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1carf82/realtek_hd_audio_manager_refusing_to_install/</guid>
       <pubDate>Tue, 23 Apr 2024 00:54:22 GMT</pubDate>
     </item>
     <item>
       <title>我有一堆 MP4 和 wav 文件，我想将它们全部转换为 MP3 一次，最好的软件是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1cap8xn/i_have_a_bunch_of_mp4_and_wav_files_that_i_want/</link>
-      <description><![CDATA[我听说 Mediahuman 在这方面很擅长，但我在 YouTube 上看到的都是复制并粘贴 YouTube 链接将其直接转换为 MP3 文件的教程，这很酷，但我希望能够转换我已经下载的内容，而不是逐个转换。此外，我看到的大多数教程都有大量反对票，所以我只是在寻找一个我确定的选项。谢谢 !~    提交人    /u/DRLZEtoWRATH   [链接] [评论]]]></description>
+      <description><![CDATA[我听说 Mediahuman 对此很有帮助，但我在 YouTube 上看到的只是复制和粘贴 YouTube 链接以将其直接转换为 MP3 文件的教程，这很酷，但我希望能够转换我已经下载的内容，而不是一一转换。另外，我看到的大多数教程都有很多反对票，所以我只是在寻找一个我确定的选项。谢谢！~   由   提交/u/DRLZEtoWRATH   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cap8xn/i_have_a_bunch_of_mp4_and_wav_files_that_i_want/</guid>
       <pubDate>Mon, 22 Apr 2024 23:15:11 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>这些是什么软件？</title>
       <link>https://www.reddit.com/r/software/comments/1caeuuq/what_softwares_are_these/</link>
-      <description><![CDATA[您好！我发现自己对纹理打印非常感兴趣，我想知道是否有人碰巧知道最后打开的两个软件是什么（徽标中心带有“S”的软件），因为我从来没有见过他们。 提前感谢您的回答！ ​ https://preview.redd.it/2h9q2l6m22wc1.png?width=425&amp;format=png&amp;auto=webp&amp; s=6d6242af5c5b7ce669d545e9b0386a8b8da54ada  我将留下视频链接（是 Pokemon TCG 制作的视频）： https://youtu.be/OSol5rDhjFY?t=134   由   提交/u/Artic_21  [链接] [评论]]]></description>
+      <description><![CDATA[您好！我发现自己对纹理打印非常感兴趣，我想知道是否有人碰巧知道最后打开的两个软件是什么（徽标中心带有“S”的软件），因为我从来没有见过他们。 提前感谢您的回答！ ​ https://preview.redd.it/2h9q2l6m22wc1.png?width=425&amp;format=png&amp;auto=webp&amp;s =6d6242af5c5b7ce669d545e9b0386a8b8da54ada  我将留下视频链接（是 Pokemon TCG 制作的视频）： https://youtu.be/OSol5rDhjFY?t=134   由   提交/u/Artic_21  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1caeuuq/what_softwares_are_these/</guid>
       <pubDate>Mon, 22 Apr 2024 16:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找一个 Android 应用程序下载管理器，它允许我将文件从互联网远程下载到我的电脑上</title>
-      <link>https://www.reddit.com/r/software/comments/1cac3jk/looking_for_an_android_app_download_manager_that/</link>
-      <description><![CDATA[正在寻找一个 Android 应用程序下载管理器，它允许我将文件从互联网远程下载到我的电脑上   由   提交 /u/ItsDrake2000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cac3jk/looking_for_an_android_app_download_manager_that/</guid>
-      <pubDate>Mon, 22 Apr 2024 14:23:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
