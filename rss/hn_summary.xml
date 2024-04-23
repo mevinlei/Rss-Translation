@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 02:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 08:26:53 GMT</lastBuildDate>
     <item>
-      <title>微软正式推出 Phi-3，这是他们在人工智能技术领域的最新创新 [...]</title>
-      <link>https://t.me/hn_summary/85916</link>
-      <description><![CDATA[微软推出 Phi-3
-微软正式推出了他们在人工智能技术方面的最新创新成果Phi-3。这个新系统有望彻底改变我们与人工智能交互的方式，提供先进的功能和改进的性能。通过 Phi-3，微软旨在突破人工智能所能实现的界限，为从医疗保健到金融等行业开辟新的可能性。随着这项技术越来越融入我们的日常生活，围绕 Phi-3 的争议在于它对工作岗位流失和隐私问题的潜在影响。然而，Phi-3 独特的功能和巧妙的设计使其成为人工智能领域充满希望的进步。]]></description>
-      <guid>https://t.me/hn_summary/85916</guid>
-      <pubDate>Tue, 23 Apr 2024 02:57:15 GMT</pubDate>
+      <title>[媒体]Apple 的 Vision Pro 耳机最初以其时尚的设计和剪裁赢得了 AR 市场的青睐 [...]</title>
+      <link>https://t.me/hn_summary/85948</link>
+      <description><![CDATA[最初炒作后客户兴趣下降，Vision Pro 需求减少
+苹果的 Vision Pro 耳机最初以其时尚的设计和尖端的技术赢得了 AR 市场的青睐，但客户的兴趣在推出后有所下降。分析师将这种下降归因于高昂的价格和有限的实际应用。零售店的销售额下降，对演示的需求大幅减少。为了提高采用率，苹果可能需要推出更加经济实惠的版本。当前模型繁琐的设置过程和缺乏优化的应用程序也阻碍了其成功。尽管面临这些挑战，苹果仍在开发第二代 Vision Pro，进行改进并降低价格，旨在使其成为主流产品。]]></description>
+      <guid>https://t.me/hn_summary/85948</guid>
+      <pubDate>Tue, 23 Apr 2024 08:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TL;DR：Milvus 和 Zilliz Cloud 等矢量数据库可以用作 JSON 数据存储，这是一种 [...]</title>
-      <link>https://t.me/hn_summary/85915</link>
-      <description><![CDATA[将矢量数据库用作 JSON（或关系）数据存储
-TL;DR：像 Milvus 和 Zilliz Cloud 这样的矢量数据库可以用作 JSON 数据存储，允许在扩展时轻松地将无矢量集合迁移到不同的数据库。尽管矢量搜索很受欢迎，但将矢量搜索插件与传统数据库结合使用的消息传递往往过于简单化。这篇博文演示了如何在 Milvus 中创建集合来存储 JSON 文档、与数据交互、执行查询和更新文档。该过程非常简单，展示了使用矢量数据库进行结构化数据搜索的灵活性。帖子中提供的脚本提供了使用 Milvus 作为 JSON 数据存储的分步指南。 （根据故事文本的 76% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/85915</guid>
-      <pubDate>Tue, 23 Apr 2024 02:45:09 GMT</pubDate>
+      <title>Web 游戏引擎和库（例如 WebGL、WebGL2 和 WebGPU）可以创建实时 2D 和 3D [...]</title>
+      <link>https://t.me/hn_summary/85947</link>
+      <description><![CDATA[网页游戏引擎和库
+WebGL、WebGL2 和 WebGPU 等网页游戏引擎和库使在浏览器中创建实时 2D 和 3D 图形变得更加容易。此页面展示了简化流程的 JavaScript 引擎。您可以在整体引擎或模块化库之间进行选择，并可以选择 UI 库包装器（例如 React Three Fiber）以实现更具声明性的方法。有些引擎可以作为可下载或基于云的编辑器提供，甚至可以选择编写 JavaScript 代码，使用 Expo 和 Babylon.js 等框架编译为本机。可用的工具和方法多种多样，可以满足不同的开发人员偏好和项目需求。]]></description>
+      <guid>https://t.me/hn_summary/85947</guid>
+      <pubDate>Tue, 23 Apr 2024 08:17:47 GMT</pubDate>
     </item>
     <item>
-      <title>在本期“人工智能意识形态与权力巩固”特刊中，Burrell 和 Metcal [...]</title>
-      <link>https://t.me/hn_summary/85914</link>
-      <description><![CDATA[“人工智能意识形态与权力巩固”简介：命名功率
-在本期《人工智能意识形态与权力巩固》特刊中，伯勒尔和梅特卡夫深入探讨了人工智能与权力动态之间的复杂关系。他们探讨人工智能技术如何不是中立的工具，而是反映和加强现有的权力结构。作者认为，通过命名和理解人工智能系统中发挥作用的权力动态，我们可以努力创建更加公平和公正的技术系统。这一发人深省的介绍为更深入地探索人工智能在社会中的争议和影响奠定了基础。]]></description>
-      <guid>https://t.me/hn_summary/85914</guid>
-      <pubDate>Tue, 23 Apr 2024 02:43:05 GMT</pubDate>
+      <title>[媒体]令人惊讶的是，苹果 iPhone 2017 年在中国的销量暴跌 19% [...]</title>
+      <link>https://t.me/hn_summary/85946</link>
+      <description><![CDATA[苹果中国 iPhone 销量暴跌 19%，创 2020 年以来最差季度业绩
+令人惊讶的是，苹果在中国的 iPhone 销量暴跌 19%，这是自 2020 年以来最糟糕的一个季度。这一下滑引发了投资者和分析师对其在其主要市场之一的未来的担忧。围绕销量下降的争议凸显了苹果在中国面临的挑战，本土品牌的竞争和经济的不确定性正在影响消费者的需求。这一消息为苹果公司重新评估战略、重新在中国市场站稳脚跟敲响了警钟。请继续关注苹果计划如何从这次挫折中恢复过来的最新消息。]]></description>
+      <guid>https://t.me/hn_summary/85946</guid>
+      <pubDate>Tue, 23 Apr 2024 08:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Electron 30.0.0 已发布，升级至 Chromium 124.0.6367.49、V8 12.4 [...]</title>
-      <link>https://t.me/hn_summary/85913</link>
-      <description><![CDATA[Electron 30.0.0
-Electron 30.0.0 已发布，升级至 Chromium 124.0.6367.49、V8 12.4 和 Node.js 20.11.1。显着的变化包括 Windows 上的 ASAR Integrity 熔断器支持、WebContentsView 和 BaseWindow 模块的引入以及文件系统 API 的实现。添加了新功能，例如 webviews 的透明 webpreference 和 webContents API 上的 navigationHistory 属性。重大更改包括使用跨源 iframe 的权限策略以及删除某些功能，例如 --disable-color- Correct-rendering 命令行开关。我们鼓励开发者升级到 Electron 30 并敬请关注未来的更新。]]></description>
-      <guid>https://t.me/hn_summary/85913</guid>
-      <pubDate>Tue, 23 Apr 2024 02:32:58 GMT</pubDate>
+      <title>[媒体]公共事务副总裁 Dirk-Willem van Gulik 讨论了主要开放 [...]</title>
+      <link>https://t.me/hn_summary/85945</link>
+      <description><![CDATA[开源社区团结起来构建符合欧盟 CRA 标准的网络安全流程
+公共事务副总裁 Dirk-Willem van Gulik 讨论了主要开源基金会的合作，以建立符合欧盟网络弹性法案的安全软件开发通用规范。该工作组旨在加速网络安全流程的发展，同时保持决策的中立性和多样性。该小组将设在布鲁塞尔的 Eclipse Foundation AISBL，并将根据自由版权和专利许可提供流程规范。该倡议邀请所有开源基金会、中小企业、行业参与者和研究人员加入，共创更安全的未来。]]></description>
+      <guid>https://t.me/hn_summary/85945</guid>
+      <pubDate>Tue, 23 Apr 2024 07:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Google Pixel 9 Pro 原型机已被泄露，展示了带有新 [...]</title>
-      <link>https://t.me/hn_summary/85912</link>
-      <description><![CDATA[第一张真实的 Pixel 9 Pro 图片泄露，容量为 16GB内存
-谷歌 Pixel 9 Pro 原型机已经泄露，展示了时尚的设计，带有新的药丸状摄像头凸起和磨砂背面。令人惊讶的是，今年的“Pro”型号较小，配备 6.1 英寸显示屏，而较大的型号将被称为“Pixel 9 Pro XL”。最具争议的方面是高达 16GB 的 RAM，比之前型号的 12GB 有了显着提升，反映出谷歌对生成式 AI 模型的关注。尽管内存很高，但这款手机保持了正常的外观，偏离了通常独特的原型设计。此次泄密暗示了谷歌在硬件中人工智能集成的新方向。]]></description>
-      <guid>https://t.me/hn_summary/85912</guid>
-      <pubDate>Tue, 23 Apr 2024 02:27:52 GMT</pubDate>
+      <title>网络曾经是人类知识和创造力的巨大宝库，现在正面临危机。</title>
+      <link>https://t.me/hn_summary/85944</link>
+      <description><![CDATA[这是我们所熟知的网络的末日
+网络曾是人类知识和创造力的宝库，但现在正面临危机。人工智能的崛起有可能破坏传统的出版生态系统，谷歌等搜索引擎将成为在线内容的万能守门人。SEO 已演变为 LLMO，其中人工智能生成的材料被操纵以满足特定利益。这种转变不仅排除了人类创造者，还扭曲了用户可用的信息。如果这种趋势继续下去，我们所熟知的网络将不复存在，取而代之的是人工智能优化的网站，这些网站会推出优质内容。现在是时候重新思考我们如何在数字时代重视和保护人类的创造力了。]]></description>
+      <guid>https://t.me/hn_summary/85944</guid>
+      <pubDate>Tue, 23 Apr 2024 07:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>公共图书馆正在减少我们的最大数字保留量。</title>
-      <link>https://t.me/hn_summary/85911</link>
-      <description><![CDATA[公共图书馆正在减少我们的最大数字保留量。原因如下
-从 3 月 19 日开始，西雅图公共图书馆将电子书和电子有声读物允许的最大保留次数从 25 次减少到 10 次。这一变化是由于数字图书日益普及，导致成本不断上升，这是不可持续的对于图书馆。由于出版商使用的许可模式，图书馆数字图书的成本比印刷版本高出三倍。赞助人持有是成本上升的最大因素，因为需要购买额外的许可证才能完成对热门图书的持有。这一变化并非由于预算挑战，而是例行服务调整的一部分。为了帮助顾客管理他们的阅读列表，建议使用替代工具，例如在线目录中的“书架”功能和“始终可用”馆藏。]]></description>
-      <guid>https://t.me/hn_summary/85911</guid>
-      <pubDate>Tue, 23 Apr 2024 02:25:18 GMT</pubDate>
+      <title>[媒体] 牧师。</title>
+      <link>https://t.me/hn_summary/85943</link>
+      <description><![CDATA[修订版。塞西尔·威廉姆斯去世
+旧金山变革领袖塞西尔·威廉姆斯牧师去世。威廉姆斯 1929 年出生于种族隔离的西德克萨斯州，在 20 世纪 60 年代帮助复兴了格莱德教堂，并始终是社会正义和公民权利的积极倡导者。颇具争议的是，他还支持 LGBTQ+ 权利，但当时这样做是有风险的。威廉姆斯以其筹款技巧和将格莱德变成社会服务中心而闻名。市长伦敦·布里德称赞他是“旧金山社区的良心”，并称赞他让这座城市变得更好。威廉姆斯留下了同情心和行动主义的持久遗产。]]></description>
+      <guid>https://t.me/hn_summary/85943</guid>
+      <pubDate>Tue, 23 Apr 2024 07:06:12 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：如何为年迈父母管理手机和电脑？</title>
-      <link>https://t.me/hn_summary/85910</link>
-      <description><![CDATA[问HN：如何为年迈的父母管理手机和电脑？&lt; /a&gt;
-我的朋友正在努力管理他年迈父母的手机和电脑，因为他们不断犯错误，导致设备故障。尽管安装了远程桌面软件和防病毒软件，他们仍然设法把事情搞砸。从意外删除系统文件到打开飞行模式而不知道如何禁用它，这正在成为一个真正的挑战。他正在考虑设置一个 Intune 租户来锁定他们的设备。您对如何有效管理年迈父母的手机和电脑以保持其功能和有用有何建议？]]></description>
-      <guid>https://t.me/hn_summary/85910</guid>
-      <pubDate>Tue, 23 Apr 2024 01:39:33 GMT</pubDate>
+      <title>[媒体] Git 可以缩写多短？</title>
+      <link>https://t.me/hn_summary/85942</link>
+      <description><![CDATA[Git 可以缩写多短？ (2013)
+在 2013 年的这篇博文中，作者探讨了 Git 哈希可以缩写多短的问题。虽然大多数人只使用前几个字符来引用提交，但由于 SHA-1 等哈希函数的随机分布，存在潜在的冲突风险。作者讨论了 Linus Torvalds 为内核开发人员使用 12 个字符以确保唯一性的建议。通过各种命令和脚本，作者演示了不同缩写长度发生冲突的可能性，并建议将 Git 设置为至少 12 个字符以适应较大的存储库。这篇文章最后建议使用完整的哈希值进行长期参考。]]></description>
+      <guid>https://t.me/hn_summary/85942</guid>
+      <pubDate>Tue, 23 Apr 2024 06:58:04 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]作为实现可持续粮食生产的突破性举措，Solar Foods 开设了 [...]</title>
-      <link>https://t.me/hn_summary/85909</link>
-      <description><![CDATA[食品的未来：这家公司刚刚推出了第一款“空气蛋白”工厂
-Solar Foods 在芬兰赫尔辛基附近开设了世界上第一家空气蛋白工厂，这是迈向可持续食品生产的突破性举措。 Solar Foods 采用独特的工艺，将微生物与空气中的二氧化碳相结合，生产出 Solein，一种营养丰富的黄色粉末，可用于各种食品中。这种创新方法为解决养活不断增长的全球人口的挑战提供了一个有前途的解决方案，并在各种传统食品中具有潜在的应用前景。 Solar Foods 的开创性技术代表着未来食品生产的重要一步。]]></description>
-      <guid>https://t.me/hn_summary/85909</guid>
-      <pubDate>Tue, 23 Apr 2024 01:36:59 GMT</pubDate>
+      <title>问 HN：你们公司如何进行绩效评估？</title>
+      <link>https://t.me/hn_summary/85941</link>
+      <description><![CDATA[询问HN：贵公司如何进行绩效评估？
+我很好奇不同的公司如何处理绩效评估。您使用特定的量表进行评估吗？您如何根据这个量表来衡量员工？在此主题上分享您对公司绩效评估的见解和经验。让我们互相学习实践，看看什么在不同的环境中最有效。]]></description>
+      <guid>https://t.me/hn_summary/85941</guid>
+      <pubDate>Tue, 23 Apr 2024 06:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国宇航局已正式批准蜻蜓任务，这是一个探索[...]的开创性项目</title>
-      <link>https://t.me/hn_summary/85908</link>
-      <description><![CDATA[蜻蜓泰坦任务
-美国国家航空航天局 (NASA) 正式批准了“蜻蜓”任务，这是一项利用四轴飞行器无人机探索土星卫星泰坦的开创性项目。该任务预算为 33.5 亿美元，发射日期为 2028 年 7 月，将是同类中第一个探索另一个行星体的任务，也是第二个探索行星的飞行无人机。土卫六独特的环境、甲烷湖和寒冷的气温，让我们得以一睹古代地球的风采。尽管成本高昂且目标雄心勃勃，但“蜻蜓”任务为研究土卫六复杂的碳化学和寻找潜在生命迹象提供了前所未有的机会。]]></description>
-      <guid>https://t.me/hn_summary/85908</guid>
-      <pubDate>Tue, 23 Apr 2024 01:31:24 GMT</pubDate>
+      <title>[媒体] 正在寻找一款独特且可编程的机器人宠物？</title>
+      <link>https://t.me/hn_summary/85940</link>
+      <description><![CDATA[Petoi Bittle – 可编程机器狗
+正在寻找独特且可编程的机器人宠物？ Petoi Bitttle 就是您的最佳选择！这款创新的机器狗非常适合科技爱好者和宠物爱好者。美国订单金额超过 200 美元和国际订单金额超过 400 美元可免运费，购买 Bitttle 比以往任何时候都更容易。此外，假日订单还提供免费退货/换货服务，使其成为无风险购买。凭借 30 天轻松退货政策，您可以放心试用 Bitttle。不要错过这个聪明且可定制的机器狗体验！请访问 www.petoi.com 了解更多信息。]]></description>
+      <guid>https://t.me/hn_summary/85940</guid>
+      <pubDate>Tue, 23 Apr 2024 06:19:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]猫打翻东西看似随意，但实际上是一种狩猎行为。</title>
-      <link>https://t.me/hn_summary/85907</link>
-      <description><![CDATA[为什么猫会打翻东西
-猫打翻东西可能看起来是随机的，但这实际上是一种狩猎行为。通过测试物体的生命迹象，猫正在从事模仿其自然本能的狩猎活动。这种行为并不是出于无聊，而是出于与猎物之类的物体互动的愿望。了解这种行为可以帮助猫主人提供合适的玩具来满足他们的狩猎本能。猫为什么打翻东西的谜团终于通过狩猎行为的镜头得到了解释，揭示了猫科动物行为的迷人世界。]]></description>
-      <guid>https://t.me/hn_summary/85907</guid>
-      <pubDate>Tue, 23 Apr 2024 01:07:15 GMT</pubDate>
+      <title>[媒体]Linus Torvalds 分享了他为他的工作开发刺绣文件转换器的经验 [...]</title>
+      <link>https://t.me/hn_summary/85939</link>
+      <description><![CDATA[Linus Torvalds，著名刺绣文件转换器开发者&lt; br /&gt;
+Linus Torvalds 分享了他为妻子的新绣花机开发绣花文件转换器的经验。他为机器使用的“PES”格式创建了一个缩略图，使他的妻子更容易查看和传输设计。托瓦尔兹批评刺绣机缺乏文档、糟糕的固件和疯狂的界面。他还提供了转换器的 git 源代码树的链接。尽管面临挑战，Torvalds 仍展示了他的技术技能和改善刺绣文件处理用户体验的决心。]]></description>
+      <guid>https://t.me/hn_summary/85939</guid>
+      <pubDate>Tue, 23 Apr 2024 06:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
