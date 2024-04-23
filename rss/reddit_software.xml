@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:36:13 GMT</lastBuildDate>
+    <item>
+      <title>我有一堆 MP4 和 wav 文件，我想将它们全部转换为 MP3 一次，最好的软件是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1cap8xn/i_have_a_bunch_of_mp4_and_wav_files_that_i_want/</link>
+      <description><![CDATA[我听说 Mediahuman 对此很有帮助，但我在 YouTube 上看到的只是复制和粘贴 YouTube 链接以将其直接转换为 MP3 文件的教程，这很酷，但我希望能够转换我已经下载的内容，而不是一一转换。另外，我看到的大多数教程都有很多反对票，所以我只是在寻找一个我确定的选项。谢谢！~   由   提交/u/DRLZEtoWRATH   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cap8xn/i_have_a_bunch_of_mp4_and_wav_files_that_i_want/</guid>
+      <pubDate>Mon, 22 Apr 2024 23:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>需要角色创建帮助</title>
       <link>https://www.reddit.com/r/software/comments/1cakmde/need_help_for_charackter_creation/</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 22 Apr 2024 16:14:42 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找一个 Android 应用程序下载管理器，它允许我将文件从互联网远程下载到我的电脑上</title>
+      <title>寻找一款安卓应用下载管理器，允许我远程从互联网下载文件到我的电脑上</title>
       <link>https://www.reddit.com/r/software/comments/1cac3jk/looking_for_an_android_app_download_manager_that/</link>
       <description><![CDATA[正在寻找一个 Android 应用程序下载管理器，它允许我将文件从互联网远程下载到我的电脑上   由   提交 /u/ItsDrake2000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cac3jk/looking_for_an_android_app_download_manager_that/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，有谁知道一个简单的 Win 11 视频压缩软件，可以用所有内部流（视频、音频）压缩和替换/覆盖 h264 视频文件，字幕）保持好吗？关键字是简单的软件，即您只需设置替换的尺寸目标（或尺寸减小％）即可。 所以，不要手刹及其无休止的烦人设置  TIA！   由   提交/u/Far_Telephone_9348   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ca1fmj/simple_win_11_video_compressor_software_that_will/</guid>
       <pubDate>Mon, 22 Apr 2024 04:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS Directory Opus 替代品</title>
-      <link>https://www.reddit.com/r/software/comments/1ca05ng/foss_directory_opus_alternatives/</link>
-      <description><![CDATA[寻找 FOSS Directory Opus 替代方案 (win/lin)   由   提交 /u/Far-Relative2122    reddit.com/r/software/comments/1ca05ng/foss_directory_opus_alternatives/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ca05ng/foss_directory_opus_alternatives/</guid>
-      <pubDate>Mon, 22 Apr 2024 02:57:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:36:48 GMT</lastBuildDate>
+    <item>
+      <title>在上一个变更日志播客中对 Redis 主题的看法，我说让我们向开源开发人员支付已执行变更的权益证明。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1capebh/opinion_on_redis_topic_in_the_last_changelog/</link>
+      <description><![CDATA[ 由   提交 /u/introsp3ctor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1capebh/opinion_on_redis_topic_in_the_last_changelog/</guid>
+      <pubDate>Mon, 22 Apr 2024 23:21:35 GMT</pubDate>
+    </item>
     <item>
       <title>CubeTrek - 寻找合作者（特别是 JavaScript/Babylon.js）</title>
       <link>https://www.reddit.com/r/opensource/comments/1cal2of/cubetrek_looking_for_collaborators_specifically/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>适用于 ARM 游戏手持设备的最佳开源且可免费用于商业用途的操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ca4odv/best_open_source_and_free_to_use_for_commercial/</link>
-      <description><![CDATA[BazziteOS 仅适用于 x86，JELOS 包含非商业许可证，ArkOS 已停产。是否只有 AOSP 作为一个功能齐全的可行选项？最新的 AOSP 版本对硬件的要求相当高，例如 2 GB 的 RAM。    提交人    /u/Honest-Word-7890   [link] [评论]]]></description>
+      <description><![CDATA[BazziteOS 仅限 x86，JELOS 包含非商业许可证，ArkOS 已停产。只有 AOSP 作为全功能可行的选择吗？最新的 AOSP 版本对硬件要求相当高，例如 2 GB RAM。   由   提交/u/Honest-Word-7890   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ca4odv/best_open_source_and_free_to_use_for_commercial/</guid>
       <pubDate>Mon, 22 Apr 2024 07:27:34 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[所以有一段时间，我一直在想在我主要用于工作的旧笔记本电脑上安装 Linux，并用开源软件替换所有付费软件。这样的解决方案有什么好处？   由   提交/u/Azazo8  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1c9g36u/what_are_the_benefits_of_switching_fully_to/</guid>
       <pubDate>Sun, 21 Apr 2024 11:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>xz 式攻击继续针对开源维护者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1c9fpjd/xzstyle_attacks_continue_to_target_opensource/</link>
-      <description><![CDATA[   /u/wiki_me  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1c9fpjd/xzstyle_attacks_continue_to_target_opensource/</guid>
-      <pubDate>Sun, 21 Apr 2024 11:34:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
