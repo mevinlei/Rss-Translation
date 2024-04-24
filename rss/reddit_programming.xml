@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 00:36:32 GMT</lastBuildDate>
+    <item>
+      <title>了解 Kubernetes 中的 Nginx Ingress</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbjhuk/understanding_nginx_ingress_in_kubernetes/</link>
+      <description><![CDATA[ 由   提交 /u/xuezhongyu01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbjhuk/understanding_nginx_ingress_in_kubernetes/</guid>
+      <pubDate>Tue, 23 Apr 2024 23:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>是不是太晚了？ 27岁，全职妈妈，想学习web开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbiw1q/is_it_too_late_27_years_old_fulltime_mom_want_to/</link>
+      <description><![CDATA[我是一名全职妈妈，我想学习网络开发，以便在在家工作的同时在经济上帮助我的丈夫并照顾我的孩子。现在我正在学习 HTML-CSS 和 Javascript。对于像我这样的初学者有什么建议吗？  我每天应该渲染多少小时才能掌握 Javascript。我正在努力尽快学习。如果我完成课程，我还有工作机会吗？  谢谢您的回答。由于对学习编程的负面评论，我有点失去希望，因为人工智能，学习编程将毫无用处。 🥹   由   提交/u/CattySan_Mackens   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbiw1q/is_it_too_late_27_years_old_fulltime_mom_want_to/</guid>
+      <pubDate>Tue, 23 Apr 2024 23:05:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>追踪 Fujitsu LIFEBOOK AH532 上的 UEFI 异常</title>
+      <link>https://www.reddit.com/r/programming/comments/1cbiu0y/tracking_down_a_uefi_quirk_on_the_fujitsu/</link>
+      <description><![CDATA[ 由   提交/u/TimSchumi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cbiu0y/tracking_down_a_uefi_quirk_on_the_fujitsu/</guid>
+      <pubDate>Tue, 23 Apr 2024 23:03:26 GMT</pubDate>
+    </item>
     <item>
       <title>Metropolis算法是什么？</title>
       <link>https://www.reddit.com/r/programming/comments/1cbes40/what_is_the_metropolis_algorithm/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Distinct-Curve-660   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cbcswx/ssl_tls_https_in_hindi/</guid>
       <pubDate>Tue, 23 Apr 2024 19:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVG 动画</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbba87/animation_in_svg/</link>
-      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbba87/animation_in_svg/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个普通开发人员的工作效率如何比 10 人团队高 10 倍？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbb6xl/how_can_a_single_average_developer_be_10_times/</link>
-      <description><![CDATA[ 由   提交/u/FoxInTheRedBox  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbb6xl/how_can_a_single_average_developer_be_10_times/</guid>
-      <pubDate>Tue, 23 Apr 2024 17:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>狡猾的优化陷阱：没有免费的啤酒，只有便宜的啤酒</title>
-      <link>https://www.reddit.com/r/programming/comments/1cbatoo/guile_optimization_gotchas_there_is_no_free_beer/</link>
-      <description><![CDATA[ 由   提交/u/aartaka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cbatoo/guile_optimization_gotchas_there_is_no_free_beer/</guid>
-      <pubDate>Tue, 23 Apr 2024 17:42:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
