@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 15:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 21:08:56 GMT</lastBuildDate>
     <item>
-      <title>当网站没有尾部斜杠时出现 404</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbzrvl/getting_a_404_when_website_doesnt_have_trailing/</link>
-      <description><![CDATA[我有点不知所措，甚至不确定这是正确的 Reddit 子版块 - 所以请耐心等待。我在一家精品投资基金中运行所有技术（但这不是我的背景）。我建立了一个筹款网站，但我不断遇到这个问题，其中以下情况为真： www.example.com - 有效 example.com/ - 有效 example.com - 不起作用（Safari 上除外） 该网站托管在 Framer 中，DNS 通过 Route53 运行，我有一个 Cloudfront 发行版处理http 到https。 Framer 并没有真正提供帮助，他们的基本回答是“它确实应该有效”。 我很乐意支付 reddit gold 甚至咨询费来解决它。   由   提交/u/g1ven2fly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbzrvl/getting_a_404_when_website_doesnt_have_trailing/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:34:32 GMT</pubDate>
+      <title>推荐的 Web 仪表板语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc9cbb/recommended_language_for_a_web_dashboard/</link>
+      <description><![CDATA[     &lt; /td&gt; 我一直涉足编程，但从未涉足 Web 开发。真的可以使用一些关于从哪里开始我想做的事情的建议。我使用 Visual Studio 在 Visual Basic 中开发了这个应用程序作为 Windows 应用程序。本质上，它会访问 SQL Server 数据库，提取数据并显示数据，根据值更改颜色等。它每 5 分钟提取一次数据并自动刷新。它的使用并不广泛，因此为每个使用它的人安装它并不是什么大问题。然而，我希望获得网络开发方面的经验，并认为这将是一个值得尝试的好项目。  我没有与 SQL Server 结婚，但希望使用可以从 Node-Red 写入的数据库（我用它从设备获取信息并将记录写入 SQL Server） 。我还附上了仪表板的图片。感谢您提前的建议！    由   提交 /u/bbestvin   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc9cbb/recommended_language_for_a_web_dashboard/</guid>
+      <pubDate>Wed, 24 Apr 2024 20:54:24 GMT</pubDate>
     </item>
     <item>
-      <title>实际上什么是实例小时？它是如何计算的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbznmu/what_is_actually_an_instance_hour_and_how_does_it/</link>
-      <description><![CDATA[我是 Web 开发领域的新手。几乎所有托管提供商都提供 750 个免费实例小时，有些甚至每月提供。基本上可以运行一整月，因为750/24&gt;31。所以我的问题是：它是否仅同时计入 1 个用户/查看者，如果 2 个人一起打开该页面，则算作 2 个实例小时？因为否则它很可能永远不会超过 750 小时限制。   由   提交/u/Mason-YuT   /u/Mason-YuT  reddit.com/r/webdev/comments/1cbznmu/what_is_actually_an_instance_hour_and_how_does_it/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbznmu/what_is_actually_an_instance_hour_and_how_does_it/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:29:40 GMT</pubDate>
+      <title>在本地托管项目？您可以通过 http://FBI.com 访问它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc90m3/hosting_a_project_locally_you_can_access_it_via/</link>
+      <description><![CDATA[这不是玩笑   由   提交/u/rcmaehl  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc90m3/hosting_a_project_locally_you_can_access_it_via/</guid>
+      <pubDate>Wed, 24 Apr 2024 20:41:08 GMT</pubDate>
     </item>
     <item>
-      <title>现代电子邮件活动软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbz7k1/modern_email_campaign_software/</link>
-      <description><![CDATA[自从有人问这个问题以来，似乎已经过去了几年：您这些天在使用什么 ECRM？ 对于上下文，我终于想要离开 Mailchimp（由于定价），但自从我使用另一个 ECRM 以来已经有一段时间了（哈哈）。我最后使用的是 Active Campaign 和 Exact Target。我目前主要处理时事通讯内容、通知，没有自动化。列表大小可以在 10-100k 之间变化。    由   提交 /u/Nessasephla   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbz7k1/modern_email_campaign_software/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:11:31 GMT</pubDate>
+      <title>这个招聘人员合法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc7wvu/is_this_recruiter_legit/</link>
+      <description><![CDATA[我对受雇“离岸”工作的美国人的一些见解特别感兴趣。以下是我从一家名为 Tech Advidus 的公司的招聘人员那里收到的大部分电子邮件：  职位名称：Web 开发人员位置：100% 远程工作类型：全职/兼职薪酬：每小时 70 美元 工作描述：网站和 Web 应用程序的创建、维护和优化是 Web 开发人员的核心职责。这需要采用各种语言和技术，包括 HTML、CSS、JavaScript 和服务器端框架，对 Web 应用程序的前端和后端进行编码和编程。为了将视觉创意转化为跨各种设备和浏览器响应灵敏、安全且高性能的可用数字解决方案，我与设计和客户团队密切合作。我还定期进行测试、调试和故障排除，以解决问题并增强用户体验。为了满足客户和用户不断变化的需求，我的职责还包括跟上新的 Web 技术，遵守最佳编码标准，并不断提高 Web 解决方案的性能、安全性和可扩展性。 工作范围/主要职责：*自定义 Web 应用程序必须由 Web 开发人员规划、构建和测试。 *使用正确的编码语言为我们的网络工作进行前端开发，确保可用性。 *在遵循公司代码标准的同时完成所有编程任务。 * 在网站内容审查期间与客户合作，同时管理和完成请求的更新。 * 使用适当的代码语言为我们的网络计划执行前端开发，以确保可用性。 技能/资格： •必须能够采用设计、复制和营销规范，并开发 HTML 布局实用且精致。 •该职位要求熟练掌握JavaScript、Ajax、J-Query、Flash 等交互技术。它还需要 HTML、XHTML、CSS、XML、RSS 和 Java 的知识...... • 必须完全理解所有与Web 相关的技术，例如XHTML、CSS、XML、RSS、JavaScript、Ajax 和Flash 编程技能... • 调试和HTML 编码专业知识。 • 了解网站的设计和可用性 • 从开发的角度来看，强大的组织能力能够创建清晰的代码交互和结果图像。 • 扎实的 SQL 知识和创建复杂查询的能力 福利：健康保险健康计划人寿保险健康保险 401(k) 牙科保险 带薪休假工作类型：全职[远程]薪资：每小时 70 美元  经过一番研究，我发现他们在印度、德国和美国都有办事处。我们已经到了她给我发了一份筛选/面试问题文件的地步，它看起来是合法的。  我不知道我是否有点滑稽，因为我不习惯这种可能性。我已经有 6 年的经验了，所以我不认为这个薪水超出了我的能力范围。  网站已附上。   由   提交/u/LemonEverythingPlez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc7wvu/is_this_recruiter_legit/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:57:40 GMT</pubDate>
     </item>
     <item>
-      <title>关于规范 URL 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbz5at/questions_about_canonical_urls/</link>
-      <description><![CDATA[ 我应该在 URL 中使用尾部斜杠吗？我个人更喜欢没有它们的网址，它看起来更干净，而且短了 1 个字符。 404 页面应该有一个规范的网址吗？  如果我不希望某个页面被编入索引，是否应该避免在该页面上指示规范 URL？    由   提交 /u/Spaghettinoz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbz5at/questions_about_canonical_urls/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:08:57 GMT</pubDate>
+      <title>交互式地图建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc7r05/interactive_map_suggestions/</link>
+      <description><![CDATA[什么是最好的软件库（Apple MapKit JS/Google Maps/其他任何东西），我可以用它来构建具有固定的特定兴趣点的交互式地图在地图上？ 这个想法是在网络上托管地图，让人们浏览它并单击感兴趣的点来展开描述、图片、视频。 P.S.我不是开发人员，但足够聪明，可以尝试一些事情。我尝试使用 Google 地图来做到这一点，我发现我需要将所有全球​​兴趣点保留在单个 HTML 中，并在每次用户实际放大的位置时加载它们。我没有找到优化的方法，似乎是错误的。    由   提交 /u/Most_Ring6698   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc7r05/interactive_map_suggestions/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:51:06 GMT</pubDate>
     </item>
     <item>
-      <title>iPhone 上的背景颜色变成灰色，图像明亮。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbywjb/background_color_turns_grey_on_iphone_with_bright/</link>
-      <description><![CDATA[我在电子商务网站上遇到问题。 产品图片的背景为白色。 在较新的 iPhone 上，至少14 Pro及更新版本，页面背景颜色变成浅灰色。尝试截图时，页面背景为白色。 我怀疑手机正在尝试对图像进行HDR，因此让页面变暗。有人知道如何停止这种行为吗？ 发生这种情况的示例：https://filtoria.no/save-vsr-150-fra-2019   由   提交 /u/jtveter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbywjb/background_color_turns_grey_on_iphone_with_bright/</guid>
-      <pubDate>Wed, 24 Apr 2024 13:59:18 GMT</pubDate>
+      <title>节点 v22.0.0（当前）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc6xma/node_v2200_current/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc6xma/node_v2200_current/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:17:39 GMT</pubDate>
     </item>
     <item>
-      <title>将应用程序的 REST API 登录添加到具有网站现有“内部”（不确定正确的词）登录的系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbyb22/adding_a_rest_api_login_for_an_app_to_a_system/</link>
-      <description><![CDATA[（我所说的“内部”是指它不使用像 oauth 这样的东西）。 我正在开发一个webapp 为网站用户提供了相当基本的登录 - 人们输入他们的用户名和密码，它会根据数据库中的用户名和（散列）密码进行检查，然后（假设它匹配）创建一个令牌并将其存储在（PHP ) 与用户名的会话。在后续页面加载时，PHP 代码确保会话中存储的令牌有效并获取代码的用户 ID。该令牌在会话期间保持有效。 现在正在创建一个移动（iOS 和 Android）应用程序来补充该网站，我的任务是创建一个 REST API 来与应用程序。我对身份验证的最初想法是大致遵循与网站相同的流程 - 应用程序发送用户名和密码，然后我创建并发回令牌。后续 API 请求包括供我验证的令牌和用户名。鉴于没有会话，我想我会手动实现超时，以便在指定的不活动时间后使令牌无效，此时需要重新发送用户名和密码才能获取新令牌。 这是一种有效的方法吗？或者我应该做一些不同的事情，因为它是通过 API 与应用程序通信而不是使用会话？请注意，我不打算更改网站的登录方式，但我希望尽可能多地重复使用该代码。 谢谢！ &lt; /div&gt;  由   提交/u/lindymad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbyb22/adding_a_rest_api_login_for_an_app_to_a_system/</guid>
-      <pubDate>Wed, 24 Apr 2024 13:32:52 GMT</pubDate>
+      <title>Datastar v0.12.3（实时超媒体）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc6sdr/datastar_v0123_realtime_hypermedia/</link>
+      <description><![CDATA[https://data-star.dev&lt; /p&gt; 越来越多的人进入了 HOWL 堆栈。 Datastar 是一个单一的包含项，使您能够使用更少的代码和统一的模型来制作实时超媒体应用程序。 主要更改发布更改是..  更多详细错误仍然很小 text/event-stream&lt; /code&gt; 依赖于 Azure 的 fetch-event-source 的修改版本。他们处理错误和分块的能力比我更好。新版本已经过测试，在单个页面上渲染了 40 亿个片段，没有错误。 实际的拼写检查示例和文档 社区提供的全新入门指南，感谢 LiamGaudy 和 rphumulock！ SSE Go 的助手不再有外部部门 data-merge-store 重命名为基于社区反馈的data-store 更宽松的存储表达式解析将使手写变得更容易 用于设置 SSE 的后端示例 每个 github 问题都会产生更多示例 Fetch指标可以更好地处理转换和稳定 查看转换 API 集成更小、使用更简单 更多文章  如果您开始使用更复杂的 UI如果细粒度信号和更强大的插件框架有意义，但希望保持声明性，请尝试一下！   由   提交 /u/opiniondevnull   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc6sdr/datastar_v0123_realtime_hypermedia/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:11:49 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人使用 Go 和 htmecks 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbxrmp/anyone_else_working_with_go_and_htmecks/</link>
-      <description><![CDATA[我一直在使用部署在廉价 VPS 上的 Go 单体构建全栈应用程序，并使用 htmecks 作为响应式前端。 架构简单，性能高，开发体验简单，作为后端工程师，无需学习前端框架就能编写响应式前端，这是一种乐趣。 我并不是说没有前端框架一切都能做，前端框架肯定很有用。我只是好奇是否有人使用过这个堆栈，想开始对话。    提交人    /u/matta9001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbxrmp/anyone_else_working_with_go_and_htmecks/</guid>
-      <pubDate>Wed, 24 Apr 2024 13:09:04 GMT</pubDate>
+      <title>关于 Higbee & Associates 的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc6kn9/advice_re_higbee_associates/</link>
+      <description><![CDATA[我的一位客户收到了 Higbee &amp; 的一封信。同事们声称，他们网站上的一张图片的版权归美联社所有，他们要求数千美元的赔偿。按照我在 Reddit 上其他地方找到的建议，他们大多代表那些并不真正关心的客户表现得咄咄逼人，我将引用的照片换成了我拍摄的原始照片，并告诉他们忽略这封信。今天，律师事务所升级为打电话要求确认收到这封信。 我应该给我的客户什么建议吗？这是一家非常小的企业，所以他们或我都无法承担最初的需求金额（这也是违规发生的原因，客户向我发送图片以供使用，而我不会单独检查每张图片）。他们是否继续忽视、回电但要求免除费用，或者不得不承担潜在诉讼的费用？我知道没有人可以在这里提供法律建议，但如果有人与他们有过类似的交易并且可以告诉你事情的经过，我将不胜感激。  &amp; #32；由   提交 /u/scatteredinwinds   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc6kn9/advice_re_higbee_associates/</guid>
+      <pubDate>Wed, 24 Apr 2024 19:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 webdev 中找到测试人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbxcr1/how_do_you_find_testers_in_webdev/</link>
-      <description><![CDATA[嗨， 最近几周，我对我想要使用的即时消息网站有了一个非常基本的想法。&lt; /p&gt; 我花了几天时间开发了它，它很有效 - 如果太多人同时加入，可能效果不太好 - 但现在，我想知道它是否能让任何人感兴趣。 来自游戏开发，我会寻找焦点玩家，但在网络开发中，你如何找到人们对这个概念发表意见/评论？  &amp;# 32；由   提交/u/Aslan85  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbxcr1/how_do_you_find_testers_in_webdev/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:50:27 GMT</pubDate>
+      <title>除了核心产品之外，你们的技术堆栈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc5qc9/whats_your_tech_stack_for_everything_outside_the/</link>
+      <description><![CDATA[我想到的是：  着陆页 分析 &lt; li&gt;电子邮件旅程 电子邮件简讯/活动 邮箱 博客 常见问题解答 文档 票务系统  我正在研究 Mailchimp，因为他们做了上面提到的很多工作。但我很好奇你推荐什么。   由   提交/u/Puzzles9193  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc5qc9/whats_your_tech_stack_for_everything_outside_the/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:29:31 GMT</pubDate>
     </item>
     <item>
-      <title>HTML 属性与 DOM 属性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbx7qe/html_attributes_vs_dom_properties/</link>
-      <description><![CDATA[       由   提交/u/jaffathecake  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbx7qe/html_attributes_vs_dom_properties/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:43:49 GMT</pubDate>
+      <title>选择堆栈/开发语言的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc5k2k/advice_picking_a_stack_dev_languages/</link>
+      <description><![CDATA[在退出游戏一段时间后，希望重新开始一些 Web 开发作为副业 - 寻找一些关于堆栈/语言的建议那些比我拥有更多经验/知识的人。 我以前的知识 大约 8-9 年前，我作为一个小小的兴趣获得了计算机科学硕士学位。我对 Java、C#、.Net、Javascript 有了一定程度的精通，并且已经在 HTML/CSS 方面有了一定的基础，尽管我肯定支持最新的开发和玩具。我在开发方法和良好实践方面有良好的基础，但有一段时间没有编码了，我的语言记忆力有点生疏。 我的目标 希望在业余时间专注于小型公司网站，如果客户想要的话，最终可以扩展到更多的东西，但理想情况下，一旦达到一定的复杂性，就把它们交给其他专业人员，这样我就不会陷入复杂的支持问题。 在我那个时代，WordPress 网站似乎确实是廉价、轻松地制作小型公司网站的理想选择，托管很便宜，但我的 pHp 有点缺乏更多定制需求。 另一方面，我的 C# / . Net 更强大，但托管总是更贵，而且 8 年前，似乎没有一个好的 CMS 选择，我确信情况已经改变，但如果我打算将网站移交给其他开发人员，感觉就像开发随着需求的扩大（至少 8 年前），客户将更难找到继续开发 C# 的开发人员 所以说真的，TLDR 我应该专注于更新我的 C#/. Net 并找到一个好的 CMS 或 从头开始​​学习 pHp 并让 WordPress 成为我的首选 优点/缺点以及我可能错过了这么长时间的游戏的重大新闻感谢以及关于过去 5 年左右 webdev 格局如何变化的任何提示.. 干杯！   由   提交/u/PixelScriptsUK  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc5k2k/advice_picking_a_stack_dev_languages/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:22:38 GMT</pubDate>
     </item>
     <item>
-      <title>任何对 3-6 个月合同感兴趣的前端开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbw5wo/anyone_interested_in_a_36_month_contract_front/</link>
-      <description><![CDATA[我的团队正在招聘一名精通 React、TypeScript、Storybook 并可能了解 Ant Design 系统的前端开发人员。  如果有兴趣请给我留言，这将是合同角色。这可能需要通过我们首选的供应商之一进行注册。    由   提交 /u/BeautifulDataViz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbw5wo/anyone_interested_in_a_36_month_contract_front/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:50:41 GMT</pubDate>
+      <title>创建一个与 Meta 的 Horizo​​n OS 竞争的 OSS 需要什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc5b8u/what_would_it_take_to_create_an_oss_competitor_to/</link>
+      <description><![CDATA[编辑：如果有人可以为这个问题提出更合适的子方案，请在评论中告诉我。  &lt; p&gt;假设您是现代的 Linus，想要创建一个替代大型现有操作系统的操作系统，供世界各地的黑客和修补匠使用。 您创建“Linux 操作系统”的方法是什么？ “扩展现实” 2024 年的操作系统？ 您是否建议查看任何资源以了解有关创建扩展现实操作系统的更多信息？   由   提交/u/Sufficient_Alarm_836   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc5b8u/what_would_it_take_to_create_an_oss_competitor_to/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>有没有相对较短的高效全栈（JS、React、Node 等）课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbvolx/any_efficient_full_stack_js_react_node_etc/</link>
-      <description><![CDATA[我有一些不错的知识&amp;前端和开发经验总的来说，我还是一个初学者，只是想继续制作项目。  我听到了很多关于 ODIN 的好消息，甚至过去也做过一些，但我真的不想在课程上花费数月甚至一年以上的时间（我知道一些这里的人不会喜欢这样，但我就是不喜欢，这往往会导致我停止/与编码不一致）。  有谁知道任何好的、真正高效的、最好是 MERN 堆栈的课程（或者可能是教程？），这些课程不是很长，但知识仍然非常丰富？    由   提交/u/jaymovies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbvolx/any_efficient_full_stack_js_react_node_etc/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:24:07 GMT</pubDate>
+      <title>本地服务器，全球客户端 – 我缺少什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc4z7v/local_server_global_client_what_am_i_missing/</link>
+      <description><![CDATA[我正在考虑我的小团队正在制作的这个客户端-服务器产品的各种部署选项。 OnPrem 和 SaaS 各有优缺点，这种混合方法似乎是一个很好的中间立场。 这就是我的想法：我们将打包用户在其计算机上安装的 python 服务器。然后，用户打开我们的互联网托管 Web 客户端。客户端在 localhost:5000 调用 API。 客户很高兴，因为他们的文件永远不会离开他们的机器。我们实时分析用户使用我们产品的行为。我们可以快速、方便地向客户推送修复程序。服务器只响应我们的客户端，因为我们设置了允许的来源。 我一直在尝试 POC，到目前为止它的工作没有任何问题。但我知道我绝对不是第一个想到这个的人。但我不记得见过任何这样部署的产品。这让我相信这个想法存在一些我似乎忽略的大问题。 这些问题是什么？你见过/做过这样的事情吗？   由   提交 /u/DrowningMongol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc4z7v/local_server_global_client_what_am_i_missing/</guid>
+      <pubDate>Wed, 24 Apr 2024 18:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>您将如何优化此 PostgreSQL 数据库查询来执行注册？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbv32p/how_will_you_optimize_this_postgresql_database/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbv32p/how_will_you_optimize_this_postgresql_database/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:49:03 GMT</pubDate>
+      <title>在移动浏览器上查看本地主机端口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc4tk8/viewing_localhost_ports_on_a_mobile_browser/</link>
+      <description><![CDATA[我一直在阅读有关通过移动浏览器连接到本地主机端口以帮助移动开发的内容，特别是针对移动响应能力的样式。  使用 2015 MBP、Galaxy S21 和 S21 上的 Google Chrome。  以下是我尝试过的方法，但没有成功： p&gt;  我关闭了计算机上的防火墙 我在计算机上的 5500 端口上运行本地主机端口 MBP 和手机连接到同一端口WiFi 我的手机上的数据已关闭 尝试通过 http: 在我的移动浏览器上连接//ip.address:5500  为了通过移动浏览器查看本地主机端口，我错过了什么？ &amp; #x200b; ​   由   提交/u/Temporary_Syrup_6758   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc4tk8/viewing_localhost_ports_on_a_mobile_browser/</guid>
+      <pubDate>Wed, 24 Apr 2024 17:54:07 GMT</pubDate>
     </item>
     <item>
-      <title>5 月下旬使用 React 制作游戏的 Game jam (React Jam)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbutkh/game_jam_for_making_games_using_react_in_late_may/</link>
-      <description><![CDATA[       由   提交/u/bfelbo  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbutkh/game_jam_for_making_games_using_react_in_late_may/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:31:57 GMT</pubDate>
+      <title>对 Meta.ai 编码的第一印象？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc3iqp/first_impressions_of_metaai_for_coding/</link>
+      <description><![CDATA[它与竞争对手相比如何？我已经使用过它一次并且印象深刻，我喜欢它解释事物的方式并且似乎输出干净的代码，但现在下结论还为时过早，而且我没有一个很好的参考框架：一般的聊天机器人。&lt; /p&gt;   由   提交/u/bad-taf  /u/bad-taf  reddit.com/r/webdev/comments/1cc3iqp/first_impressions_of_metaai_for_coding/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc3iqp/first_impressions_of_metaai_for_coding/</guid>
+      <pubDate>Wed, 24 Apr 2024 17:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>4年的经验，我仍然感觉像个新鲜人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbu770/4_years_of_experience_and_i_still_feel_like_a/</link>
-      <description><![CDATA[长话短说，我在各种技术堆栈方面拥有 4 年经验。我曾在不同的公司工作过，所以自然地，我学到了各种技术。我曾经以为只要你付给我足够的钱，我就能学到你想要的任何东西。辞去上一份工作后，我开始总结自己的经历。我知道很多事情，但我都不是其中的专家。经过深思熟虑，我决定成为其中一个堆栈的专家。我不会完全放弃其他堆栈，但我将主要关注其中一个堆栈，并在较小程度上研究其他堆栈。 我使用过的技术堆栈是：  Laravel、React、JavaScript、MySQL Yii、Vue.JS、PostgreSQL、Microsoft SQL Server .NET Core、Angular、TypeScript、PostgreSQL + Microsoft SQL Server&lt; /li&gt;  我使用过 Redis、CSS、Bootstrap 和 AWS Lambda。我对 .NET Core 堆栈有更多的经验。鉴于我的背景，我应该重点掌握哪个堆栈？我对 .NET Core 堆栈和 Laravel 有更多的了解。 任何改善我职业生涯的想法或一般建议 - 如果有的话 - 谢谢大家！   由   提交 /u/8something8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbu770/4_years_of_experience_and_i_still_feel_like_a/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:50:50 GMT</pubDate>
+      <title>iOS / 安卓游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc2huu/ios_android_game/</link>
+      <description><![CDATA[嗨，我想问一下我应该用什么软件/引擎制作我想要的 Ios 和 android 游戏，我在 google 上查了一下，但到处都是我看到的是 unity，这是最好的解决方案，unity 的更新怎么样，货币化，unity 有费用吗？有什么不同的方法吗，或者取决于游戏的类型，就像我不太了解，但我想构建这个游戏，感谢您的理解。   由   提交 /u/baftjarjusufi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc2huu/ios_android_game/</guid>
+      <pubDate>Wed, 24 Apr 2024 16:24:02 GMT</pubDate>
     </item>
     <item>
-      <title>Lit v3 在整体应用程序中无法正常工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cbtzlq/lit_v3_does_not_work_properly_in_a_monolith/</link>
-      <description><![CDATA[在迁移到 lit webcomponents v3 之前，我们在 Monolith 应用程序中使用 lit v2。我们从来没有遇到过任何问题。现在，迁移后，我们遇到了多个错误，例如“Uncaught TypeError: $ is not a function”。通常$是JQuery，对吧？你能帮我一下吗？   由   提交/u/guilhermepp13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cbtzlq/lit_v3_does_not_work_properly_in_a_monolith/</guid>
-      <pubDate>Wed, 24 Apr 2024 09:35:19 GMT</pubDate>
+      <title>伙计们，请原谅我的新手，并告诉我这段代码有什么问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cc1zjg/guys_please_excuse_my_noviceness_and_tell_me_what/</link>
+      <description><![CDATA[app.patch(&quot;/task/:id/edit&quot;, async (req, res) =&gt; { const { id } = req.params等待Task.findByIdAndUpdate(id, req.body, { runValidators: true, new: true }) res.redirect(“/task”) })  I我无法呈现更新的任务。是因为我没有通过更新的任务吗？ DB不应该自动更新吗？我可以重定向，但任务未更新。   由   提交 /u/Neither-River6217    reddit.com/r/webdev/comments/1cc1zjg/guys_please_excuse_my_noviceness_and_tell_me_what/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cc1zjg/guys_please_excuse_my_noviceness_and_tell_me_what/</guid>
+      <pubDate>Wed, 24 Apr 2024 16:04:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
