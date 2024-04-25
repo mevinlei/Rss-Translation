@@ -1,17 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>帖子 IndieHackers</title>
+    <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:10:10 GMT</lastBuildDate>
     <item>
-      <title>开源对你来说意味着什么？</title>
-      <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
-      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。也就是说，对我来说，开源允许更多的协作、定制和自由。 
-我很想知道开源对您意味着什么，以及为什么您愿意或不愿意使用开源平台。 
-请告诉我！
+      <title>如何实现应用内消息传递？</title>
+      <link>https://feed.indiehackers.world/post/01107b2c9d</link>
+      <description><![CDATA[在用户和群组之间构建应用内消息传递的最佳方法是什么？
+是否有任何 SAAS 产品可以提供这些功能，或者我是否必须从头开始构建它。
+我确实找到了一些，但它们似乎价格过高。让我知道你的想法
 Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/01107b2c9d</guid>
+      <pubDate>Thu, 25 Apr 2024 18:47:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源对您意味着什么？</title>
+      <link>https://feed.indiehackers.world/post/f72bf8d4db</link>
+      <description><![CDATA[我已经编码几个月了。我真的在考虑建立一个开源平台。话虽如此，对我来说，开源允许更多的协作、定制和自由。
+我很好奇开源对你意味着什么，以及你为什么喜欢或不喜欢使用开源平台。
+让我知道！
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f72bf8d4db</guid>
       <pubDate>Thu, 25 Apr 2024 15:52:53 GMT</pubDate>
     </item>
@@ -36,24 +46,24 @@ Discord 独立黑客聊天广告这里]]></description>
       <title>请帮我决定我的 B2B 增长机构名称</title>
       <link>https://feed.indiehackers.world/post/2a7f4126e1</link>
       <description><![CDATA[谢谢！！
-Discord 独立黑客聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/2a7f4126e1</guid>
       <pubDate>Fri, 19 Apr 2024 11:49:13 GMT</pubDate>
     </item>
     <item>
       <title>优惠：厨师随时可用的工作委员会</title>
       <link>https://feed.indiehackers.world/post/8b4a7408f4</link>
-      <description><![CDATA[嗨，黑客们，我为 souschefjobs.com 构建了一个简单的工作板设计。这是一个很好的机会
-Discord 独立黑客聊天广告这里]]></description>
+      <description><![CDATA[嗨，黑客们，我为 souschefjobs.com 构建了一个简单的职位公告板设计。这是一个很好的机会
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8b4a7408f4</guid>
       <pubDate>Fri, 19 Apr 2024 11:47:06 GMT</pubDate>
     </item>
     <item>
       <title>您的团队使用 PagerDuty 和 Slack 吗？对我们的 v1 有任何反馈吗？</title>
       <link>https://feed.indiehackers.world/post/f134f0ce12</link>
-      <description><![CDATA[或者填写调查问卷，因为我们正在考虑为其他值班系统构建集成。
-所以请让我知道你的想法或创意，我期待着一起学习并让我们的值班体验更好。
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[或者填写民意调查，因为我们正在考虑为其他待命系统构建集成。
+所以请让我知道您的想法或想法，我期待着共同学习并让我们的随叫随到体验变得更好。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f134f0ce12</guid>
       <pubDate>Thu, 18 Apr 2024 20:01:48 GMT</pubDate>
     </item>
@@ -105,7 +115,7 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Sun, 07 Apr 2024 23:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>愿意接受指导——如果有人感兴趣的话？</title>
+      <title>向导师开放——如果有人感兴趣的话？</title>
       <link>https://feed.indiehackers.world/post/1f35f37edf</link>
       <description><![CDATA[我的简历中有简要详细信息，但我在用户体验领域建立了职业生涯 - 与我来自 BBC 的朋友一起经营我自己的伦敦代理机构天和兄弟。我们设计并构建了员工用来移动媒体的用户界面。
 现在，我正在建立一家初创公司解决架构和技术方面的反馈问题。施工 – 3D 协作带来很多乐趣。我们去年完成了天使轮融资。
@@ -132,15 +142,6 @@ Discord 独立黑客聊天广告这里]]></description>
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/caeb2aaa7b</guid>
       <pubDate>Sat, 06 Apr 2024 09:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关选择电子邮件转发/路由服务的建议</title>
-      <link>https://feed.indiehackers.world/post/a55d31d4b8</link>
-      <description><![CDATA[我正在寻找一种允许我管理电子邮件路由和转发的电子邮件服务。我尝试过用于电子邮件路由的 Resend 和用于电子邮件转发的 Improvmx 等服务。然而，我最终支付了 29 美元，因为我必须订阅专业计划，因为我想添加额外的域，尽管对于我所支付的费用来说，使用率相当低。
-您对类似服务的体验如何？
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a55d31d4b8</guid>
-      <pubDate>Wed, 03 Apr 2024 00:05:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
