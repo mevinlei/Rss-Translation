@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 05:38:10 GMT</lastBuildDate>
     <item>
-      <title>[媒体]亚马逊到底有多狠？</title>
-      <link>https://t.me/hn_summary/86433</link>
-      <description><![CDATA[亚马逊到底有多无情？
-在《万物之战》中，达纳·马蒂奥利 (Dana Mattioli) 深入探讨了亚马逊的残酷策略，强调了该公司采用激进的方式来压制 Diapers.com。该书探讨了亚马逊涉嫌滥用权力和反垄断问题，引起人们对该公司面临的持续法律斗争的关注。尽管马蒂奥利的调查很彻底，但一些批评者认为，她对亚马逊的片面描述实际上可能会赢得人们对这家科技巨头的同情。该书提出了有关企业集中度的重要问题，以及面对亚马逊等强大寡头垄断企业更新竞争法的必要性。最终，它要求读者考虑亚马逊在市场上的主导地位的复杂性。]]></description>
-      <guid>https://t.me/hn_summary/86433</guid>
-      <pubDate>Thu, 25 Apr 2024 18:11:06 GMT</pubDate>
+      <title>[媒体] 在 fpcomplete.com 上这篇发人深省的文章中，作者挑战了传统 [...]</title>
+      <link>https://t.me/hn_summary/86535</link>
+      <description><![CDATA[类型安全并不重要
+在 fpcomplete.com 上这篇发人深省的文章中，作者提出了挑战编程语言中类型安全的传统观点。虽然承认类型安全对于减少运行时错误的重要性，但作者认为最终目标是减少错误，而不仅仅是类型安全本身。通过对代码更改应用精算方法并强调减少错误的价值，作者建议静态代码分析和 linting 工具等其他技术也可以在提高代码质量方面发挥至关重要的作用。作者通过 JavaScript 的实际示例演示了静态分析如何在编译时捕获错误，强调了软件开发中减少错误的更广泛原理。]]></description>
+      <guid>https://t.me/hn_summary/86535</guid>
+      <pubDate>Fri, 26 Apr 2024 05:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Swan 是一个使用 FPGA 的轻量级语言模型执行环境，在 [...]</title>
-      <link>https://t.me/hn_summary/86432</link>
-      <description><![CDATA[Swan – 使用 FPGA 的轻量级语言模型执行环境 
-Swan 是一种使用 FPGA 的轻量级语言模型执行环境，以 C++ 实现，可使用高级综合 (HLS) 在通用 FPGA 上高效运行语言模型。它旨在为资源有限的边缘设备中的人工智能应用程序在 FPGA 上实现语言模型推理。 Swan支持常见的FPGA板卡，可扩展且易于定制，并考虑了语言模型的大小限制。它以其多功能性、可扩展性和轻量级架构而与众不同。该项目受 llama2.c 启发，在 Apache License 2.0 下发布，欢迎社区贡献。]]></description>
-      <guid>https://t.me/hn_summary/86432</guid>
-      <pubDate>Thu, 25 Apr 2024 18:02:59 GMT</pubDate>
+      <title>[媒体]令人兴奋的消息！</title>
+      <link>https://t.me/hn_summary/86534</link>
+      <description><![CDATA[全球海面温度 – 新纪录
+令人兴奋的消息！全球海面温度创下新纪录。这些数据对于了解气候变化及其对海洋的影响至关重要。请继续关注这一突破性发现的更多更新。 #ClimateChange #SeaSurfaceTemperature #RecordBreakingDiscovery]]></description>
+      <guid>https://t.me/hn_summary/86534</guid>
+      <pubDate>Fri, 26 Apr 2024 05:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>在一篇措辞严厉的博客文章中，Jeff Geerling 宣称企业开源已死，并指出 [...]</title>
-      <link>https://t.me/hn_summary/86431</link>
-      <description><![CDATA[Jeff Geerling：企业开源已死
-Jeff Geerling 在一篇措辞严厉的博客文章中宣称企业开源已死，并指出 HashiCorp、Redis、Red Hat 等公司最近放弃真正的开源原则，转而采用利润驱动的战略。 Geerling 强调了围绕 HashiCorp 转向“商业源码许可证”以及 IBM 以 64 亿美元收购该公司的争议。他强调维护真正的开源价值观的重要性，并警告不要为需要贡献者许可协议的项目做出贡献。尽管企业开源已经消亡，Geerling 仍然看到了小型开发团队在开源社区中产生积极影响的机会。]]></description>
-      <guid>https://t.me/hn_summary/86431</guid>
-      <pubDate>Thu, 25 Apr 2024 17:57:54 GMT</pubDate>
+      <title>[媒体]为了庆祝 Ubuntu 24.04 的发布，Noble Numbat, .NET 现已从 [...]</title>
+      <link>https://t.me/hn_summary/86533</link>
+      <description><![CDATA[Ubuntu 24.04 中 .NET 的新功能
+为庆祝 Ubuntu 24.04 Noble Numbat 的发布，.NET 从第一天起就在官方 Ubuntu 源中可用。这标志着 Canonical 和 Microsoft 合作的一个重要里程碑，.NET 6 在发布几个月后就被添加到 Ubuntu 22.04 中。Ubuntu 24.04 上 .NET 8 的安装过程非常简单，并且容器映像已经可用。Microsoft 和 Canonical 之间的合作确保了 .NET 跨平台的安全性和支持。Ubuntu 上 .NET 集成的激动人心的发展即将到来，为开发人员带来无缝体验。]]></description>
+      <guid>https://t.me/hn_summary/86533</guid>
+      <pubDate>Fri, 26 Apr 2024 05:20:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] FCC 以 3 比 2 投票决定恢复网络中立性规则，禁止封锁和节流 [...]</title>
-      <link>https://t.me/hn_summary/86430</link>
-      <description><![CDATA[FCC 在 3-2 年内恢复禁止阻止和限制的网络中立性规则投票
-FCC 以 3 比 2 投票决定恢复网络中立规则，禁止屏蔽和限制合法内容。互联网服务提供商计划在法庭上对抗这些规则，声称他们已经遵循网络中立原则。游说团体认为，这些规则阻碍了宽带部署，并威胁到缩小数字鸿沟的进展。法庭之争将集中于联邦通信委员会是否可以将宽带定义为电信服务。 FCC 专员斯塔克斯为这一决定辩护，称其符合过去的做法和 1996 年《电信法》。争议在于关于这些恢复规定的必要性和影响的持续争论。]]></description>
-      <guid>https://t.me/hn_summary/86430</guid>
-      <pubDate>Thu, 25 Apr 2024 17:56:49 GMT</pubDate>
+      <title>[媒体]医生揭示了开发新药的真实成本，对制药公司提出了挑战 [...]</title>
+      <link>https://t.me/hn_summary/86532</link>
+      <description><![CDATA[新药开发成本可能远低于行业宣称、试验揭露
+医生们揭示了开发新药的真实成本，挑战了制药行业数十亿美元的说法。无国界医生组织 (MSF) 斥资 3400 万欧元进行四种药物联合治疗耐药结核病的试验，这凸显了试验费用透明度的必要性。无国界医生试验的成功促使世界卫生组织在 40 个国家推荐了这种治疗方法。业界声称一种药物的平均成本为 23 亿美元，但无国界医生组织的披露旨在通过揭露研发的真实成本来增加获得救生药物的机会。争议在于行业索赔与实际审判费用之间的差异。]]></description>
+      <guid>https://t.me/hn_summary/86532</guid>
+      <pubDate>Fri, 26 Apr 2024 05:07:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的研究介绍了 CatLIP，这是一种通过 [...] 提高剪辑视觉准确性的新颖方法</title>
-      <link>https://t.me/hn_summary/86429</link>
-      <description><![CDATA[CatLIP：剪辑视觉精度提高 2.7 倍，网络预训练速度提高 2.7 倍-规模数据
-我们的研究引入了 CatLIP，这是一种通过利用网络规模数据进行预训练来提高剪辑视觉准确性的新颖方法。通过利用来自网络的大量不同数据，CatLIP 的预训练速度比现有方法快 2.7 倍。这种创新技术不仅提高了准确性，而且显着减少了预训练所需的时间。借助 CatLIP，我们正在突破剪辑视觉技术的界限，并为未来更高效、更有效的模型铺平道路。探索我们在 arxiv.org 上的发现，以更深入地了解这一突破性的成果方法。]]></description>
-      <guid>https://t.me/hn_summary/86429</guid>
-      <pubDate>Thu, 25 Apr 2024 17:55:45 GMT</pubDate>
+      <title>[媒体]领先的金融科技公司 Stripe 正在通过去[...]</title>
+      <link>https://t.me/hn_summary/86531</link>
+      <description><![CDATA[Stripe 将付款与其堆栈的其余部分分离
+Stripe 是领先的金融科技公司，正在通过将支付与其其他服务堆栈脱钩来做出重大改变。此举允许企业使用 Stripe 的其他工具，而无需使用其支付服务。该公司还在旧金山举行的开发者活动上宣布了新的嵌入式金融功能和人工智能工具。这一战略转变旨在解决复杂的支付环境并为用户提供更大的灵活性。此外，Stripe 还推出了人工智能驱动的结账和欺诈工具，扩展了其嵌入式金融产品，并添加了基于使用情况的计费选项。这些更新使 Stripe 能够在竞争激烈的金融科技市场中更好地满足客户不断变化的需求。]]></description>
+      <guid>https://t.me/hn_summary/86531</guid>
+      <pubDate>Fri, 26 Apr 2024 04:47:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Hive 是一个人工智能开源市场，旨在促进透明度、创新 [...]</title>
-      <link>https://t.me/hn_summary/86428</link>
-      <description><![CDATA[显示 HN：Hive – 人工智能开源市场
-Hive 是一个人工智能开源市场，旨在促进人工智能社区的透明度、创新和利润分享。通过研究中心、模型中心和代理中心，人工智能研究人员可以获得工作资助，机器学习工程师可以基于研究构建模型并发布它们，代理构建者可以开发使用模型并支付模型费用的代理。这种独特的方法创造了飞轮效应，推动社区内的协作和发展。加入我们 hivenetwork.ai，成为这一突破性计划的一部分.]]></description>
-      <guid>https://t.me/hn_summary/86428</guid>
-      <pubDate>Thu, 25 Apr 2024 17:54:40 GMT</pubDate>
+      <title>[媒体] Web 开发简史。</title>
+      <link>https://t.me/hn_summary/86530</link>
+      <description><![CDATA[Web 开发简史。为什么你的框架不重要
+通过 gebna.gg。从一台服务器处理所有事情的简单时代到 SPA 和 React 等框架的兴起，Web 开发的演变令人着迷。了解 GraphQL 如何彻底改变 API 设计，以及 Gatsby 和 Next.js 等工具如何改变游戏规则。探索“云”的影响以及更简单的云平台的出现。并了解使用 JavaScript 作为 Web 开发中的主导语言所面临的挑战。对于任何对不断变化的 Web 开发世界感兴趣的人来说，这篇文章都是必读的。 （根据故事文本的 67% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86530</guid>
+      <pubDate>Fri, 26 Apr 2024 04:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] DDC OLED：如何从 HDMI 端口驱动微型显示器。</title>
-      <link>https://t.me/hn_summary/86427</link>
-      <description><![CDATA[DDC OLED：如何从 HDMI 端口驱动微型显示器。 （2022）
-在对一个毫无意义的项目的异想天开的追求中，作者成功地使用 DDC 协议将微型 OLED 显示器直接连接到 HDMI 端口。该过程涉及焊接、访问 Linux 上的 i2c 设备以及使用 Python 脚本将数据发送到显示器。令人惊讶的是，作者实现了每秒5-10帧的刷新率，突破了DDC协议的极限。为了将显示器转变为监视器，作者解决了 xrandr 和虚拟帧缓冲区的复杂性。这个非传统的实验在不需要额外硬件的情况下就产生了一个正常运行的显示器，展示了作者的聪明才智和决心。 （根据故事文本的 57% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86427</guid>
-      <pubDate>Thu, 25 Apr 2024 17:52:35 GMT</pubDate>
+      <title>[媒体]教你两岁的孩子阅读不仅是可能的，而且可以带来难以置信的好处[...]</title>
+      <link>https://t.me/hn_summary/86529</link>
+      <description><![CDATA[如何教两岁的孩子阅读
+教两岁的孩子阅读不仅是可能的，而且对他们的认知发展和未来的教育成功非常有益。虽然许多学校都在努力达到阅读标准，但家长有机会通过教孩子们在很小的时候阅读来让他们抢占先机。早期阅读与改善认知结果有关，并可以帮助孩子培养对语言和学习的热爱。通过使用语音和创建英语语言的低维渲染，父母可以帮助他们的孩子学习阅读句子甚至简单的故事。教孩子阅读是一种充实而有益的经历，可以加强亲子关系，并为孩子未来的成功奠定基础。]]></description>
+      <guid>https://t.me/hn_summary/86529</guid>
+      <pubDate>Fri, 26 Apr 2024 03:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]“Not A N and-powered Device”项目是一台由 NAND 门和 [...]</title>
-      <link>https://t.me/hn_summary/86426</link>
-      <description><![CDATA[Show HN：我用 NAND 门制作了一台可编程计算机
-“Not A N and-powered Device”项目是一台由网络上模拟的 NAND 门制成的 16 位计算机，具有自己的 CPU、机器代码语言、汇编语言等。它是基于Jack-VM-Hack平台的从Nand到Tetris的课程。该项目包括 Average、Pong 和 2048 等示例程序，以及 Overflow 和 GeneticAlgorithm 等独特程序。作者强调了为解决硬件限制而做出的技术挑战和优化，使该项目在其他项目中脱颖而出。该项目还提供了有关用 Jack 语言编写 NAND 程序的详细文档。 （根据故事文本的 19% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/86426</guid>
-      <pubDate>Thu, 25 Apr 2024 17:46:29 GMT</pubDate>
+      <title>在我的上一篇文章中，我声称您的项目不需要数据库，但在 s [...]</title>
+      <link>https://t.me/hn_summary/86528</link>
+      <description><![CDATA[我们错了，我们需要一个数据库
+在我之前的文章中，我声称您的项目不需要数据库，但是在看到我的游戏 Binary Duel 的限制后，我意识到我错了。最初激增的玩家数量很快就减少了，这就促使了对排行榜、登录系统等的需求。凭借 Golang 的灵活性，我能够轻松实现这些功能，而无需依赖外部依赖项。我还找到了巧妙的解决方案，例如缓存排行榜和使用股票代码进行批量写入操作。虽然我现在很享受这个过程，但我知道随着项目的扩展，我可能必须重写所有内容。请继续关注 Binary Duel 的改进更新！]]></description>
+      <guid>https://t.me/hn_summary/86528</guid>
+      <pubDate>Fri, 26 Apr 2024 03:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>一组行星科学家发表了支持第 9 号行星存在的新证据 [...]</title>
-      <link>https://t.me/hn_summary/86425</link>
-      <description><![CDATA[发现行星 9 的新证据
-一组行星科学家发表了支持第 9 号行星存在的新证据，这是一颗位于海王星轨道之外的假想行星。通过计算机模拟和跟踪长周期物体的运动，他们发现这些物体的不规则行为可以用一颗遥远行星的引力来解释。虽然模拟没有确定行星的位置，但研究人员认为这是最合理的解释。该团队承认还有其他可能的因素在起作用，但表示它们的可能性较小。即将建成的智利维拉鲁宾天文台预计将为寻找第九行星提供进一步的证据。]]></description>
-      <guid>https://t.me/hn_summary/86425</guid>
-      <pubDate>Thu, 25 Apr 2024 17:44:24 GMT</pubDate>
+      <title>[媒体] 隆重推出 Meegle，这是一种创新的 Jira 替代方案，可提供工作流程可视化 [...]</title>
+      <link>https://t.me/hn_summary/86527</link>
+      <description><![CDATA[显示 HN：具有工作流程可视化功能的 Meegle – Jira 替代方案 
+隆重推出 Meegle，这是 Jira 的创新替代方案，可提供工作流程可视化，以释放视频制作中的创造力。了解 Meegle 如何帮助领先的媒体初创公司 Mediastorm 在短短一年内制作了 130 个成功视频。深入探讨视频制作的中心主题，了解 Meegle 如何驾驭这一关键方面来支持创造力和效率。访问 www.meegle.com 了解有关此游戏的更多信息-用于简化项目管理流程的更改工具。]]></description>
+      <guid>https://t.me/hn_summary/86527</guid>
+      <pubDate>Fri, 26 Apr 2024 03:45:09 GMT</pubDate>
     </item>
     <item>
-      <title>联邦贸易委员会认为，对于有价值的员工来说，竞业禁止协议是不必要的，因为贸易 [...]</title>
-      <link>https://t.me/hn_summary/86424</link>
-      <description><![CDATA[竞业禁止协议的结束是一场科技工作地震
-联邦贸易委员会认为，对于有价值的员工来说，竞业禁止协议是不必要的，因为商业秘密法和保密协议已经保护敏感信息。 FTC 主席 Lina M. Khan 认为，禁止竞业禁止将带来更多初创企业和经济活力。尽管一些企业可能会对这一裁决感到不安，但竞业禁止长期以来一直因限制工作流动性和创新而受到批评。竞业禁止的结束可能会导致科技就业市场发生翻天覆地的变化，让工人能够自由地寻求更好的机会，并有可能促进创业。围绕这一问题的争议凸显了保护企业和赋予工人权力之间的紧张关系。]]></description>
-      <guid>https://t.me/hn_summary/86424</guid>
-      <pubDate>Thu, 25 Apr 2024 17:43:20 GMT</pubDate>
+      <title>[媒体]直接式效果，也称为代数效果和效果处理程序，正在获得越来越多的 [...]</title>
+      <link>https://t.me/hn_summary/86526</link>
+      <description><![CDATA[直接风格效果说明
+直接风格效果，也称为代数效果和效果处理程序，在 Unison 和 OCaml 等编程语言中越来越受欢迎。他们的目标是以更自然的编码风格提供 monad 的好处。 Inner-Product.com 上的这篇文章解释了以下内容：以 Scala 3 实现为例，了解直接风格效果的原因和方式。这篇文章深入探讨了效果系统的设计空间，讨论了推理和构图的重要性、直接风格与单一风格、描述和动作之间的分离，以及推理和组合效果。还提供了 Scala 3 中用于打印到控制台的直接式效果系统的实现。 （根据 47% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86526</guid>
+      <pubDate>Fri, 26 Apr 2024 03:44:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
