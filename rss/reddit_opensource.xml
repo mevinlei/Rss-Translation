@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:10:50 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Fri, 26 Apr 2024 21:08:14 GMT</lastBuildDate>
+    <item>
+      <title>开放人工智能模型很棒，但我们需要诚实地面对三个令人不安的事实</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</link>
+      <description><![CDATA[       由   提交 /u/alexvoica   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdvhq3/open_ai_models_are_great_but_we_need_to_be_honest/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源CDN服务器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</link>
+      <description><![CDATA[是否存在？人们自己建造这些东西吗？只有我觉得这很有用吗？ 快速的 Google 搜索并没有透露太多信息，但我可能错过了:)   由   提交 /u/supportingthedogs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cdsxgj/open_source_cdn_server/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>Just Open-Sourced AppUpdater，一个 Mac 应用程序静默更新框架，作为 Sparkle 的轻量级替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</link>
@@ -34,13 +48,6 @@
       <pubDate>Fri, 26 Apr 2024 11:46:45 GMT</pubDate>
     </item>
     <item>
-      <title>💡什么是对开源的贡献，什么不是</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</link>
-      <description><![CDATA[ 由   提交/u/suchdevblog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdj8j0/what_contributing_to_opensource_is_and_what_it/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:43:16 GMT</pubDate>
-    </item>
-    <item>
       <title>Android 上的 LibreOffice Calc 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdieqj/libreoffice_calc_alternative_on_android/</link>
       <description><![CDATA[嘿！ 所以在我的电脑上我使用 LibreOffice 创建/编辑任何文档。大多数情况下，我使用计算器。我想随时随地在手机上处理一些文档。  有什么好的 Android 应用程序可以创建/编辑 OpenDocument 文件吗？我发现了很多“OpenDocument Reader”应用程序。但我想编辑文档。 我的文件存储在我的 NAS（SMB 共享）上，我可以通过 VPN 访问它 谢谢！   由   提交/u/Leonix260  [链接] [评论]]]></description>
@@ -64,7 +71,7 @@
     <item>
       <title>Reddit 未读评论 - 我已更新浏览器扩展以获取新评论，以处理新的 Reddit 设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</link>
-      <description><![CDATA[大家好。 几个月前，我在这里发布了有关我的 Chrome/Firefox 浏览器扩展的信息，该扩展可以跟踪 Reddit 中的新评论线程更容易。不幸的是，就在我发布它一个月后，Reddit 完全改变了设计，并使扩展无法使用。在过去的几天里，我花了一些时间来更新它以处理新的设计。 除此之外，我还添加了“立即”将当前线程标记为已读的复选框。  新的 Reddit 设计不再使用模式来显示线程，因此我花时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及消除这些事件的逻辑。此外，我还添加了重试逻辑，以更稳健的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是很有趣的体验。 Popup 是用 React Hook Form 和 RadixUI 主题组件制作的。 请尝试一下，从用户的角度分享您的印象，或者作为开发人员查看代码并分享您的建议，可以做什么以更好的方式。您认为它是您每天都想使用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（请参阅 Readme 中的屏幕截图）。 md)，它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY  &amp;# 32；由   提交/u/nemanja_codes  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 几个月前，我在这里发布了关于我的 Chrome/Firefox 浏览器扩展程序的信息，该扩展程序可以更轻松地跟踪 Reddit 帖子中的新评论。不幸的是，在我发布它仅一个月后，Reddit 就完全改变了设计，导致扩展程序无法使用。在过去的几天里，我花了一些时间来更新它以处理新设计。 除此之外，我还添加了“立即”复选框，将当前帖子标记为已读。 新的 Reddit 设计不再使用模式来显示帖子，因此我花了一些时间完全重构了附加 onUrlChange、onScroll 和 onKeyDown 事件以及去抖动这些事件的逻辑。此外，我还添加了重试逻辑，以更强大的方式处理线程加载状态。 新的 Reddit 网站使用影子 DOM，查询它并为其编写选择器是一种有趣的体验。 Popup 由 React Hook Form 和 RadixUI 主题组件制作而成。 请尝试一下，并从用户的角度分享您的印象，或者查看代码并以开发人员的身份分享您的建议，看看可以做些什么更好的事情。你认为这是你想每天都用的东西吗？ 提醒一下，它适用于当前的 www.reddit.com（参见 Readme.md 中的屏幕截图），它不支持 www.old.reddit.com 和 www.new.reddit.com。 Github 存储库： https://github.com/nemanjam/r​​eddit-unread-comments Youtube 演示： （它是为具有旧 Reddit 设计的初始版本制作的，但所有功能也适用于新版本） https://www.youtube.com/watch?v=dHw0pM3ZzqY    由   提交  /u/nemanja_codes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdbfke/reddit_unread_comments_i_have_updated_my_browser/</guid>
       <pubDate>Fri, 26 Apr 2024 03:37:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，我很高兴地说，我们的开源项目 keyshade 获得了第一个赞助商，它是面向开发人员的配置管理工具。我们已经磨练了近4个月的开发时间，也感谢匿名赞助商对我们士气的提振。感谢所有为我们的项目做出贡献的贡献者。  我们非常感谢为确保配置共享安全而做出的任何形式的贡献。如果您想成为 keyshade 系列的一员，并希望我们更快地交付项目，请为 keyshade.xyz 做出贡献来帮助我们.   由   提交/u/kriptonian_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd15mk/guess_who_just_landed_their_first_sponsor_for_our/</guid>
       <pubDate>Thu, 25 Apr 2024 20:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Burr 构建电子邮件助手</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</link>
-      <description><![CDATA[        提交人    /u/benizzy1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccxu20/building_an_email_assistant_with_burr/</guid>
-      <pubDate>Thu, 25 Apr 2024 18:01:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

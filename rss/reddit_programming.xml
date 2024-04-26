@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:07:50 GMT</lastBuildDate>
+    <item>
+      <title>软件演化法则</title>
+      <link>https://www.reddit.com/r/programming/comments/1cdwht2/laws_of_software_evolution/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cdwht2/laws_of_software_evolution/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成、合并数据并执行微调</title>
+      <link>https://www.reddit.com/r/programming/comments/1cdvkfk/generating_merging_data_and_executing_fine_tuning/</link>
+      <description><![CDATA[ 由   提交 /u/SecretAggressive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cdvkfk/generating_merging_data_and_executing_fine_tuning/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>C#_ToolsPuls.DLL，这是一个为 C# 开发人员提供一组有用函数的库。</title>
+      <link>https://www.reddit.com/r/programming/comments/1cdv2ag/c_toolspulsdll_this_is_a_library_that_provides_a/</link>
+      <description><![CDATA[ 由   提交 /u/Mohamed-Rabie-X   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cdv2ag/c_toolspulsdll_this_is_a_library_that_provides_a/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化的 WFH 设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1cdtokx/an_optimized_wfh_setup/</link>
+      <description><![CDATA[ 由   提交/u/ryanlpeterman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cdtokx/an_optimized_wfh_setup/</guid>
+      <pubDate>Fri, 26 Apr 2024 19:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你应该成为一名构建者而不是一名编码员</title>
+      <link>https://www.reddit.com/r/programming/comments/1cdsgmx/why_you_should_be_a_builder_instead_of_a_coder/</link>
+      <description><![CDATA[ 由   提交/u/adawgdeloin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cdsgmx/why_you_should_be_a_builder_instead_of_a_coder/</guid>
+      <pubDate>Fri, 26 Apr 2024 18:16:58 GMT</pubDate>
+    </item>
     <item>
       <title>10 个 CSS 专业技巧，让代码更简洁、更有趣</title>
       <link>https://www.reddit.com/r/programming/comments/1cds7m4/10_css_pro_tips_for_cleaner_and_more_enjoyable/</link>
@@ -20,25 +55,11 @@
       <pubDate>Fri, 26 Apr 2024 17:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用 egui 在 Pure Rust 中构建平铺窗口管理器 GUI</title>
+      <title>使用 egui 在纯 Rust 中构建平铺窗口管理器 GUI</title>
       <link>https://www.reddit.com/r/programming/comments/1cdr0ad/building_a_tiling_window_manager_gui_in_pure_rust/</link>
-      <description><![CDATA[  由    /u/toxait  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/toxait  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdr0ad/building_a_tiling_window_manager_gui_in_pure_rust/</guid>
       <pubDate>Fri, 26 Apr 2024 17:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 训练营</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdqz2l/python_bootcamp/</link>
-      <description><![CDATA[我们即将开始由 TutoringWala 主办的免费 Python 训练营！  使用链接注册 分享并帮助社区成长！ 辅导#python #bootcamp #education #SAT #college #STEM   由   提交/u/Jbonds0007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdqz2l/python_bootcamp/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:16:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法为 RandomForest ML 模型提供自定义输入</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdqsvr/unable_to_give_custom_input_to_randomforest_ml/</link>
-      <description><![CDATA[ 由   提交/u/_the_baddie_rohit_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdqsvr/unable_to_give_custom_input_to_randomforest_ml/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:09:12 GMT</pubDate>
     </item>
     <item>
       <title>全职 Rust 游戏开发 3 年之后的经验教训，以及为什么我们要抛弃 Rust</title>
@@ -69,7 +90,7 @@
       <pubDate>Fri, 26 Apr 2024 15:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>ClangQL：现在支持函数所有信息、全局变量、源位置</title>
+      <title>ClangQL：现在支持所有信息、全局变量、源位置的函数</title>
       <link>https://www.reddit.com/r/programming/comments/1cdofk5/clangql_now_supports_functions_all_info_global/</link>
       <description><![CDATA[ 由   提交 /u/AmrDeveloper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdofk5/clangql_now_supports_functions_all_info_global/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/0ff5ec  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cdo3g8/your_guide_to_ensure_ontime_delivery/</guid>
       <pubDate>Fri, 26 Apr 2024 15:20:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌再次推迟 cookie 淘汰</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdmrlz/google_delays_cookie_phaseout_once_again/</link>
-      <description><![CDATA[ 由   提交/u/DonutAccomplished422  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdmrlz/google_delays_cookie_phaseout_once_again/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 20 万行 Convex，这是一个用 Rust 从头开始​​构建的“反应式”数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdlloi/open_sourcing_200k_lines_of_convex_a_reactive/</link>
-      <description><![CDATA[ 由   提交/u/Pinkman  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdlloi/open_sourcing_200k_lines_of_convex_a_reactive/</guid>
-      <pubDate>Fri, 26 Apr 2024 13:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>抛弃 dotenv：Node.js 现在原生支持 .env 文件加载</title>
-      <link>https://www.reddit.com/r/programming/comments/1cdla0s/ditch_dotenv_nodejs_now_natively_supports_env/</link>
-      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cdla0s/ditch_dotenv_nodejs_now_natively_supports_env/</guid>
-      <pubDate>Fri, 26 Apr 2024 13:21:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
