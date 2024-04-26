@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 00:37:37 GMT</lastBuildDate>
     <item>
-      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代方案</title>
+      <title>我们勉强避开的 XZ 后门位置很可怕。似乎这种供应链攻击仍然是可能的，开发人员不会/不能彻底、持续地评估他们使用的库。有没有一个整体的方案来解决这个问题？有人在做这方面的工作吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</link>
+      <description><![CDATA[ 由   提交/u/ScruffyLineout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cd59oj/the_xz_backdoor_situ_we_narrowly_avoided_is_scary/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CrabGrab 构建您自己的开源、跨平台 Loom 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</link>
-      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们深信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想分享一个我们正在开发的库和工具，以从开源社区获取反馈/想法。如果您曾经想构建自己的开源 Loom 替代方案或将屏幕共享/录制集成到您的应用程序中，我们刚刚发布了一个跨平台（现在是 Mac 和 Windows，接下来是 Linux）Rust 库，可以让您做到这一点，称为 CrabGrab： https://github.com/AugmendTech/CrabGrab （此处的箱子：https://crates.io/crates/crabgrab)。 它是为我们的“更智能”应用程序提供动力的核心屏幕捕获引擎。 Loom 替代方案位于 augmend.com，我们坚信与任何想要构建自己的或使用它来做一些有趣的事情（例如 screen）的人分享这些东西 -与 Clippy 共享：https://github.com/AugmendTech/Snippy。  很想听听您的想法。谢谢！   由   提交/u/diamondbishop  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cd2451/build_your_own_open_source_crossplatform_loom/</guid>
       <pubDate>Thu, 25 Apr 2024 20:40:38 GMT</pubDate>
     </item>
@@ -34,13 +41,6 @@
       <pubDate>Thu, 25 Apr 2024 16:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>Fedora 40 和 Ubuntu 24.04 - 如何安装和使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</link>
-      <description><![CDATA[       由   提交 /u/nmariusp   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ccumhj/fedora_40_and_ubuntu_2404_how_to_install_and_use/</guid>
-      <pubDate>Thu, 25 Apr 2024 15:19:35 GMT</pubDate>
-    </item>
-    <item>
       <title>🚀 发布：自动化文档</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccmw5h/release_automated_documentation/</link>
       <description><![CDATA[您好 Reddit， 我很高兴向您介绍自动化文档。该工具记录访问过的网站、剪贴板更改、活动窗口和键入的文本 - 所有这些都组织成 Markdown 文件以便于查看。 主要功能：  自动记录网站和剪贴板数据 监视活动窗口并记录击键 输出到 Markdown，以实现简单明了  非常适合任何希望自动化文档编写的人。我计划通过 Ollama 增强其功能以获取更详细的说明，请继续关注！ 在此处下载： https://github.com/tilltmk/automated-documentation  非常感谢您的反馈和贡献。    由   提交 /u/tilltmk   [链接] [评论]]]></description>
@@ -64,12 +64,12 @@
     <item>
       <title>ScrumMD：我的 GPL CLI 工具，用于使用 Markdown 格式的卡片管理 Scrum</title>
       <link>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</link>
-      <description><![CDATA[        由    /u/thelochok  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/thelochok   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cceoxr/scrummd_my_gpl_cli_tool_for_managing_scrum_with/</guid>
       <pubDate>Thu, 25 Apr 2024 00:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>Resend、Mailgun、Sendgrid 的开源替代品</title>
+      <title>Resend、Mailgun、Sendgrid 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</link>
       <description><![CDATA[       由   提交 /u/SoftwareCitadel   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ccawk8/an_opensource_alternative_to_resend_mailgun/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 24 Apr 2024 17:58:08 GMT</pubDate>
     </item>
     <item>
-      <title>Android 启动器类似于 Neo Launcher 或 Nova Launcher</title>
+      <title>类似于 Neo Launcher 或 Nova Launcher 的 Android Launcher</title>
       <link>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</link>
       <description><![CDATA[我一直在使用 Nova，直到一家数据收集公司购买了它。然后我切换到 Neo Launcher，但它总是锁定，迫使我锁定和解锁我的手机。自 2022 年以来，它一直没有更新 要求 - 我可以更改应用程序图标 - 它有一个应用程序抽屉 - 没有简单的分析或数据收集和销售 - 没有持久的搜索或 Google 搜索不会被删除或关闭 - 像 Nova 这样的桌面可以让我在上面放置应用程序图标。我不喜欢像 Niagara 这样的极简启动器，无论它多么时尚和快速。   由   提交 /u/BriniaSona   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cc1aqk/android_launcher_similar_to_neo_launcher_or_nova/</guid>
