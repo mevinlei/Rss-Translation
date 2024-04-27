@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:10:27 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 但专门用于帮助编程/编码？</title>
+      <link>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</link>
+      <description><![CDATA[没有想到任何特定的语言，但我开始发现 ChatGPT 对于协助通用“编程”非常有帮助。任务（创建简单的配置等）。 它帮助解决的随机问题（不是我使用的确切查询，但类似）： -&gt;请创建有效的 Nginx 入口规则，以将 HTTP 转发到此服务的端口 8088 -&gt;嘿ChatGPT！请编写一个 ipv4 网络配置，该配置从 10.0.0.1 开始，网关为 10.0 .0.125。我需要足够的空间容纳大约 100 个本地 IP。 -&gt;请创建一个家庭助理自动化，以在午夜自动关闭“卧室”房间的灯 （我想这两个示例都是 YAML！） 这引导了我想知道是否有一个利用 ChatGPT（或另一个 LLM）的工具专门用于帮助生成代码片段，并且可能会产生更有用的输出。 TIA 适用于任何建议！   由   提交/u/danielrosehill  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ceihny/chatgpt_but_specifically_for_helping_with/</guid>
+      <pubDate>Sat, 27 Apr 2024 16:26:26 GMT</pubDate>
+    </item>
     <item>
       <title>排班表软件</title>
       <link>https://www.reddit.com/r/software/comments/1ced21w/shift_schedule_software/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 27 Apr 2024 12:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>迫切需要预算友好的 TTS 软件用于 Uni Readings</title>
+      <title>迫切需要经济实惠的 TTS 软件用于大学阅读</title>
       <link>https://www.reddit.com/r/software/comments/1cectuq/desperately_need_budgetfriendly_tts_software_for/</link>
       <description><![CDATA[你好，reddit！ 我很难跟上大学课程的所有阅读内容。文本转语音 (TTS) 软件很有帮助，但我很难找到适合我的需求和预算的好选择。 情况如下： Natural Voices ：我需要一个声音自然的 TTS 阅读器。某些程序中的机械声音让我感觉不适。 PDF 支持：该软件必须能够阅读 PDF，因为这是我的大多数教科书的格式。 Edge 的限制：我已经尝试过 Microsoft Edge 中的内置阅读器，但它会读取每个图中的每个单词（不仅是图的描述，还包括图本身内部的任何字母。）每个页面上的章节名称，这非常令人沮丧。&lt; /p&gt; 预算限制：我淹没在学费中，无法承担像 NaturalReader 的高级版本那样昂贵的每月订阅费用。 Balabolka - 它与 Edge 的内置功能在复制时具有类似的限制文本中的所有副本。 谁能推荐一款符合这些标准的 TTS 软件（桌面版或 Android 版）？如果有任何建议，我将不胜感激！ 附加说明：我已经探索了一些不太合法的选项，但这些选项往往已经过时。 非常感谢感谢您的帮助！   由   提交 /u/__FirstOfHerName__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cectuq/desperately_need_budgetfriendly_tts_software_for/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>是否可以创建交互式背景图像？</title>
       <link>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</link>
-      <description><![CDATA[大家好， 前几天我有一个想法，出于好奇，我想知道它是否真的可以执行。我相信您已经看过拉斯维加斯球体，以及它有时如何显示为观看飞机和其他事物的表情符号（如果您还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，这非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标四处移动？或者它可能已经存在？如果没有，人们将如何实际创建类似的东西？   由   提交/u/pin_kRobot   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 前几天我有一个想法，出于好奇，我想知道它是否真的可以执行。我相信您已经看过拉斯维加斯球体，以及它有时如何显示为观看飞机和其他事物的表情符号（如果您还没有，请在 YouTube 上搜索拉斯维加斯球体表情符号，这非常酷） 是否有可能以表情符号的形式制作拉斯维加斯球体的图像，其中球体的眼睛会跟随鼠标四处移动？或者也许它已经存在？如果没有，人们将如何实际创建类似的东西？   由   提交/u/pin_kRobot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ceamlg/is_it_possible_to_create_an_interactive/</guid>
       <pubDate>Sat, 27 Apr 2024 09:38:45 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>Windows 11 文件夹的问题</title>
       <link>https://www.reddit.com/r/software/comments/1cdvove/issues_with_windows_11_folder/</link>
-      <description><![CDATA[你好， 我的 sims 4 mods 文件夹现在显示出截然不同的属性，我不知道为什么。 当我打开文件夹时，信息栏显示其中有 9937 个项目，但在属性上，它显示有 26k。它*应该*是 26k，但是一大堆东西似乎丢失了，我不知道为什么。 我知道这些文件已安装，因为一些“丢失”的文件被安装了。那些来自curseforge，我将它们重新安装到昨晚遇到问题的同一文件夹中。 Curseforge 也没有显示任何安装问题，因此我安装的文件应该位于那里。 我还尝试将 mods 文件夹复制/粘贴到其他位置，并且发生了同样的问题。 请帮助我，我很生气： D  谢谢   由   提交 /u/HappyPenguin1608   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我的 sims 4 mods 文件夹现在显示出截然不同的属性，我不知道为什么。 当我打开文件夹时，信息栏显示其中有 9937 个项目，但在属性上，它显示有 26k。它*应该*是26k，但是一大堆东西似乎丢失了，我不知道为什么。 我知道这些文件已安装，因为一些“丢失”的文件被安装了。那些来自curseforge，我将它们重新安装到昨晚遇到问题的同一文件夹中。 Curseforge 也没有显示任何安装问题，因此我安装的文件应该位于那里。 我还尝试将 mods 文件夹复制/粘贴到其他位置，并且发生了同样的问题。 请帮助我，我很生气： D  谢谢   由   提交 /u/HappyPenguin1608   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cdvove/issues_with_windows_11_folder/</guid>
       <pubDate>Fri, 26 Apr 2024 20:28:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以录制我的声音，然后让人工智能创建将文本转语音的提示返回到我的声音中？</title>
-      <link>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</link>
-      <description><![CDATA[我希望创建一些人工智能生成的积极肯定。  &amp;# 32；由   提交/u/Alchemist0029   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cdu2ce/is_it_possible_to_have_my_voice_recorded_then/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:22:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
