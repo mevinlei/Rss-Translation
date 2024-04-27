@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 21:08:25 GMT</lastBuildDate>
     <item>
       <title>开源 dos 4</title>
       <link>https://www.reddit.com/r/opensource/comments/1cekbxb/open_sourcing_dos_4/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>硬盘操作系统和第二个硬盘+外部便携式硬盘+VeraCrypt？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</link>
-      <description><![CDATA[我有硬盘操作系统和第二个硬盘+外部便携式硬盘。如果我要加密硬盘操作系统，第二个硬盘会自动加密吗？如果我将加密硬盘操作系统和第二个硬盘+外部便携式硬盘，毕竟我将取消\提取便携式硬盘，会发生什么？如果没有便携式硬盘，我将无法解密硬盘操作系统和第二个硬盘？   由   提交 /u/DotaFSS   [链接] [评论]]]></description>
+      <description><![CDATA[我有 hdd OS 和第二个 hdd+外部便携式 hdd。如果我加密 hdd OS，第二个 hdd 会自动加密吗？如果我加密 hdd OS 和第二个 hdd+外部便携式 hdd，完成所有这些操作后我将取消插拔\提取便携式 hdd，会发生什么？没有便携式 hdd，我将无法解密 hdd OS 和第二个 hdd？    提交人    /u/DotaFSS   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cedufk/hdd_os_and_second_hddexternal_portable/</guid>
       <pubDate>Sat, 27 Apr 2024 12:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>通过命令行方式从 Kindle 中提取所有突出显示内容（包括不是从 Jeff 那里买来的文档中的突出显示内容）</title>
+      <title>一种命令行方式，可以从 Kindle 中提取所有要点（包括不是从 Jeff 那里购买的文档中的要点）</title>
       <link>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</link>
-      <description><![CDATA[       由   提交/u/edwardianpug  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/edwardianpug  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ceawcw/a_commandline_way_to_pull_all_your_highlights_off/</guid>
       <pubDate>Sat, 27 Apr 2024 09:57:26 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Windows 的 AudioSharing RTSP 替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</link>
-      <description><![CDATA[https://apps.gnome.org/fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道是否有适用于 Windows 的可行替代方案。 我通常在 VLC Media Player 上观看视频，我想将声音直接传输到我的手机上（声音好得多）。     提交人    /u/clara59000   [link] [评论]]]></description>
+      <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
     </item>
