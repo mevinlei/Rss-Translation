@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:10:22 GMT</lastBuildDate>
+    <item>
+      <title>需要流程图建模方面的帮助</title>
+      <link>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</link>
+      <description><![CDATA[我正在寻找可以根据研讨会期间的讨论自动创建流程图的工具。由于目前还没有与 Microsoft Visio 相当的 CoPilot，因此我需要一个可以简化项目复杂流程映射的解决方案。您能推荐一些可能对此有所帮助的工具吗？    由   提交/u/leodatavinci   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ce6x29/need_help_with_flow_chart_modelling/</guid>
+      <pubDate>Sat, 27 Apr 2024 05:36:31 GMT</pubDate>
+    </item>
     <item>
       <title>每天在 12 小时内自动处理 70,000 份手写患者记录</title>
       <link>https://www.reddit.com/r/automation/comments/1cdnuzz/automating_the_processing_of_70k_handwritten/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>是的……里面有一个坏的</title>
       <link>https://www.reddit.com/r/automation/comments/1cdlp6j/yeptheres_a_bad_one_in_there/</link>
-      <description><![CDATA[      周五干得好。 BC 527 线未收到信号。去找吧。它是黄色的。    由   提交/u/timdtechy612  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      周五干得不错。Wire BC 527 没有收到信号。快去找它。它是黄色的。     由    /u/timdtechy612   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cdlp6j/yeptheres_a_bad_one_in_there/</guid>
       <pubDate>Fri, 26 Apr 2024 13:40:20 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>从图像中读取文本并将其放入电子邮件中？</title>
       <link>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</link>
-      <description><![CDATA[有没有我可以使用的免费程序或系统，可以让我自动执行从图像中读取参考号并将其转换为的过程可编辑的文本，然后插入到电子邮件中？ 我过去使用自动热键取得了巨大成功，但当时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？   由   提交/u/Structure_Spoon  [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何免费程序或系统可以让我自动执行从图像中读取参考编号、将其转换为可编辑文本，然后插入电子邮件的过程？ 我过去曾使用自动热键，取得了巨大的成功，但那时我不记得它能够读取图像并转换为文本。想知道我是否需要完全不同的东西，或者什么。有什么建议吗？    提交人    /u/Structure_Spoon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cafjd6/read_text_from_an_image_and_put_it_into_an_email/</guid>
       <pubDate>Mon, 22 Apr 2024 16:42:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Capable-Start-5497   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1c8p78i/how_accurate_are_ai_subtitle_generators_for_videos/</guid>
       <pubDate>Sat, 20 Apr 2024 12:49:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 便携版中的 Imacros 10 - 它的书签在哪里？！</title>
-      <link>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</link>
-      <description><![CDATA[您好！我使用了多个 Firefox 便携版。现在他们必须更新到版本116。相应地，我将他们的Imacros更新到版本10.0...并将js重写为iim。但问题是每个 Firefox 副本在 iMacros 中都有自己的书签！ iMacros 脚本不再以文件的形式存在，而是以难以理解的形式存在。  我可以通过 iims 将便携式浏览器的不同实例指向同一位置吗？  如果有人能回答，请表示尊重和感激。    由   提交/u/sergeyosipov2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1c8ooiq/imacros_10_in_firefox_portable_where_are_its/</guid>
-      <pubDate>Sat, 20 Apr 2024 12:22:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
