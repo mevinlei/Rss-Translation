@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 03:09:51 GMT</lastBuildDate>
     <item>
       <title>眼睛朝向相机方向</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ce13f1/eyes_towards_camera_orientation/</link>
@@ -55,13 +55,6 @@
       <pubDate>Fri, 26 Apr 2024 21:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-Teams 的专家 GPT4 提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxjwo/expert_gpt4_prompts_for_gptteams/</link>
-      <description><![CDATA[ 由   提交/u/No-Transition3372   /u/No-Transition3372 reddit.com/gallery/1cdxjai&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdxjwo/expert_gpt4_prompts_for_gptteams/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:45:02 GMT</pubDate>
-    </item>
-    <item>
       <title>我要求 Facebook 的新人工智能写一篇文章，解释为什么 Meta 是一家道德上有问题的公司</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdvfuq/i_asked_facebooks_new_ai_to_write_an_essay_on_why/</link>
       <description><![CDATA[Meta（前身为 Facebook, Inc.）在其历史上卷入了无数争议，引起了重大的道德问题。从成立之初，该公司就将增长和利润置于用户隐私、数据安全和社会责任之上。 最早的危险信号之一是 Meta 对用户数据的处理。该公司多次因其松懈的数据保护政策而受到批评，允许第三方应用程序未经同意收集用户信息。 2018 年的剑桥分析丑闻暴露了这种疏忽的程度，揭露了数百万用户的数据在他们不知情或同意的情况下被泄露。 此外，Meta 还面临助长错误信息和宣传传播的指控。在其平台上。该公司的算法优先考虑参与度和点击诱饵内容，创造有利于传播假新闻和阴谋论的环境。这造成了严重的后果，包括操纵公众舆论和削弱对机构的信任。 此外，Meta 因其在延续网上仇恨言论和骚扰方面所扮演的角色而受到批评。尽管承诺解决这些问题，该公司未能有效地控制其平台，导致仇恨团体和有毒个人继续传播有害内容。 此外，Meta 收购 Instagram 和 WhatsApp 引发了人们对该公司的担忧。科技行业的垄断日益加剧。这种权力整合导致了反竞争行为和压制创新的指控。 该公司的历史也因审查制度和政治偏见的指控而受到损害。 Meta 因处理有争议内容而受到批评，一些人指责该公司将政治正确性置于言论自由之上。 总而言之，Meta 的历史以道德违规模式为标志，将利润和增长置于首位。用户福祉和社会责任。该公司对用户数据的处理、错误信息的传播、在线仇恨言论的持续存在以及科技行业日益垄断，都导致其道德受到质疑。随着 Meta 继续塑造数字格局，至关重要的是让公司对其行为负责，并确保其优先考虑用户和整个社会的福祉。   由   提交/u/JonSolo1  [链接] [评论]]]></description>
@@ -71,16 +64,23 @@
     <item>
       <title>构建人工智能主导的匿名知识共享平台的经验</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdupq0/experience_building_an_ailed_anonymous_knowledge/</link>
-      <description><![CDATA[上周末，我在一次黑客马拉松活动中创建了 yaKnow.ai，这是一个由 AI 代理推动的匿名知识共享平台。您可以选择一个主题并与 AI 代理交谈，AI 代理可以充当有效的交流平台。 我一直是在线社区的一员，但总觉得缺少了一些东西。我经常发现自己不敢表达自己真实的想法，或者很难找到表达想法的词语。这就是我创建 yaKnow 的原因。 当我和朋友尝试它时，我们发现说出自己的想法是一种解放。安全地表达不成熟的想法并用 AI 对其进行改进感觉很棒。 最初，我决定专注于有限数量的主题（例如，最被高估的 AI 初创公司是什么？哪个城市最适合 AI？）。最初的对话令人大开眼界。；以下是有关被高估的初创公司讨论的一些片段。  关于 Perplexity   他们声称他们的技术将“让 Google 舞动起来”，这是一个大胆的声明。但是当我仔细观察时，我发现他们的服务似乎只是在模仿 Google。  ​  我最近一直在研究 Perplexity，我不得不说，它完全改变了游戏规则。它处理搜索查询的方式比 Google 领先了好几英里。我的意思是，别误会我的意思，Google 仍然是搜索领域的老大，但我认为他们会开始感受到来自 Perplexity 等初创公司的压力。  关于 Devin（软件工程初创公司）  老实说，我并不觉得它有多棒。看起来他们只是在现有的 AI 模型上加了一个新界面，然后就完事了。  我想邀请你尝试一下，无需登录，所有贡献都是匿名的。这是链接：yaKnow.ai  也许，我会对新的贡献进行分析，并在几天内分享结果。迫不及待地想听听大家对此的看法 ​    提交人    /u/buckbuckyyy   [链接] [评论]]]></description>
+      <description><![CDATA[上周末，我构建了 yaKnow.ai，一个匿名知识- 在黑客马拉松中由人工智能代理推动的共享平台。你选择一个主题并与人工智能代理交谈，人工智能代理充当有效的共鸣板。 我一直是在线社区的一部分，但总觉得缺少了一些东西。很多时候，我发现自己无法表达自己的真实想法，或者很难找到合适的语言来表达想法。这就是我创建 yaKnow 的原因。 当我和我的朋友尝试它时，我们发现说出自己的想法是一种解放。安全地表达不成熟的想法并用人工智能完善它们感觉很棒。最初，我决定专注于有限数量的主题（例如，最被高估的人工智能初创公司是什么？最适合人工智能的城市是哪一个？ ）。最初的对话令人大开眼界。以下是有关被高估的初创公司讨论的一些片段。  关于困惑  他们声称他们的技术将“让谷歌跳舞”，这是一个大胆的声明。但当我仔细观察时，他们的服务似乎只是模仿 Google。  ​  我最近一直在玩 Perplexity，并且我不得不说，这彻底改变了游戏规则。它处理搜索查询的方式仅比谷歌领先数英里。我的意思是，不要误会我的意思，谷歌仍然是搜索世界的巨头，但我认为他们将开始感受到像 Perplexity 这样的初创公司的热度。  On Devin（软件工程初创公司）  老实说，我并没有那么印象深刻。看起来他们只是在现有的人工智能模型之上添加了一个新界面，然后就到此为止了。  我想邀请您尝试一下，无需登录，所有操作捐款是匿名的。链接如下： yaKnow.ai  也许我会对新贡献进行分析，并在几个小时内分享结果天。迫不及待地想听听大家对此的看法 ​   由   提交/u/buckbuckyyy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdupq0/experience_building_an_ailed_anonymous_knowledge/</guid>
       <pubDate>Fri, 26 Apr 2024 19:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些好的 AI 动画图片服务？</title>
+      <title>有哪些优秀的 AI 动画图片服务？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdpan5/what_are_the_good_ai_services_to_animate_pictures/</link>
-      <description><![CDATA[最近我看到很多剪辑，人们在图像中添加动作。不仅仅是移动相机来模仿动作 - 头发、云朵，很多活动元素都在移动，就像在这个例子中：https://youtu.be/7A-yO7t0H20 但他们从来没有说过用什么样的人工智能来制作动画。如果不是付费的，那也很酷。是的，我试过用谷歌，但结果令人失望 - 许多付费服务只提供轻微的相机移动，图像扭曲程度很低，只允许订阅者进行商业使用。    提交人    /u/ElvenNeko   [链接] [评论]]]></description>
+      <description><![CDATA[最近我看到很多剪辑，人们在图像中添加了动作。不仅仅是移动相机来模仿运动 - 头发、云彩、许多活动元素都会移动，如本例所示：https://youtu .be/7A-yO7t0H20 但他们从未说过使用哪种人工智能来制作动画。如果不付费的话也很酷。是的，我尝试使用谷歌，但结果并不令人印象深刻 - 很多付费服务只提供轻微的相机移动，图像扭曲程度较低，并且只允许订阅者进行商业用途。 &lt; !-- SC_ON --&gt;  由   提交 /u/ElvenNeko   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdpan5/what_are_the_good_ai_services_to_animate_pictures/</guid>
       <pubDate>Fri, 26 Apr 2024 16:08:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity AI（及其他）：关于选择哪种 LLM 模型的困惑</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cdo1u6/perplexity_ai_and_others_confusion_about_which/</link>
+      <description><![CDATA[嗨，各位 AI 专家。 我目前有一个 Perplexity AI 的 API 密钥。尽管我有技术背景，但我仍然无法理解哪种 AI 模型最适合什么目的以及差异在哪里。 Perplexity 有一个简短页面列出了与其 AI 引擎配合使用的可用模型，但没有解释哪个模型最有效。我花了几个小时测试它们，但我仍然不确定要选择哪一个（我不想每次都切换它）。这些模型是： 困惑度：  sonar-small-chat sonar-small-online sonar-medium-chat sonar-medium-online  开源：  llama-3-8b-instruct llama-3-70b-instruct codellama-70b-instruct mistral-7b-instruct mixtral-8x7b-instruct mixtral-8x22b-instruct  在此之前，我使用了 GPT-4，它是一款出色的全能型模型，但这些模型似乎并不如此。 我主要将 AI 用于与代码相关的问题和解释（如果 GitHub Copilot 无法满足我的答案，或者我不想一直启动 IDE 来访问它）、翻译、事实辩论和顾问。我想说，相当混杂。 对于顾问，我的意思是给它一个提示，让它扮演一个非常了解德国法律的律师。有些模型会回应我从未问过的事情，有些模型不会考虑我之前的提示，有些模型做得相当不错，但在其他方面并不好。 我希望你们能给我指出一些资源，让我可以从中更多地了解每个模型的区别、最佳用例等等，或者在评论中阐明它。非常感谢您的帮助。 如果有人能用简单的术语向我解释从用户角度来看参数计数和上下文长度到底意味着什么，我也会很感激。我有一个大概的想法，但没有明确的答案。 如果重要的话：我正在使用 TypingMind 并将 Perplexity 设置为自定义模型。如果你能给我指出一个替代方案，我会得到加分，因为我不是界面设计的忠实粉丝。请仅限 macOS。    提交人    /u/Mavrokordato   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cdo1u6/perplexity_ai_and_others_confusion_about_which/</guid>
+      <pubDate>Fri, 26 Apr 2024 15:18:11 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 希望将特斯拉的车队转变为人工智能 AWS——这可行吗？</title>
