@@ -4,16 +4,16 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:07:48 GMT</lastBuildDate>
     <item>
-      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</link>
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  或者是否有更简单的方法或许可以用更少的步骤来实现自动化？   由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf63tx/automate_jotform_submissions_generate_excel/</guid>
       <pubDate>Sun, 28 Apr 2024 13:12:38 GMT</pubDate>
     </item>
     <item>
-      <title>自动提交 JotForm，生成 Excel 图表并将其发送给用户。</title>
+      <title>自动提交 JotForm、生成 Excel 图表并将其发送给用户。</title>
       <link>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</link>
       <description><![CDATA[如何在 make .com/ Integromat 中执行以下操作  从 JotForm 表单中提取响应。 （ 30 个问题，量表评分为 1-10） 将每个结果添加到现有 Excel 工作表的列中的预定义单元格中，以便使用表单编号更新现有图表。 生成使用 pdf .co 等工具生成 Excel 图表的 pdf 将其发送给通过电子邮件填写 JotForm 表单的用户。  &lt;!-- SC_ON - -&gt;  由   提交/u/Effective-Divide-291   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cf3wof/automate_jotform_submissions_generate_excel/</guid>
@@ -27,14 +27,14 @@
       <pubDate>Sun, 28 Apr 2024 07:50:14 GMT</pubDate>
     </item>
     <item>
-      <title>从 Excel 函数获取行时流程失败</title>
+      <title>使用“从 Excel 获取行”函数流程失败</title>
       <link>https://www.reddit.com/r/automation/comments/1cew5d2/flow_fails_with_get_row_from_excel_function/</link>
-      <description><![CDATA[      嗨， 我正在构建一个自动化程序，当用户填写表单时，它将使用“使用 GPT 创建文本”生成一些项目符号。然后，项目符号将添加到同一个响应文件中，其中包含一个列“Summary”。 表单和响应位于我的 OneDrive for Business 文件夹中。 我使用“获取一行”通过“响应 ID”找到相应的行，然后使用“更新行”进行更新。 问题是它有时工作正常，但几乎大多数时候都会失败并返回“未找到键值”。我检查了响应 Excel 文件，该值在那里。 我试过，在获取一行之前放置一个 Compose，以确保它不是数据类型问题。 我试过使用 Do Unitl，但仍然失败。 任何线索都将不胜感激。 ​ https://preview.redd.it/0ijoy1p3x4xc1.png?width=453&amp;format=png&amp;auto=webp&amp;s=b53c036078b6c5bc2160559908356d46a1fb6fd3 https://preview.redd.it/dt2su5p3x4xc1.png?width=342&amp;format=png&amp;auto=webp&amp;s=61d0e6e578ba265c5211d6ae702d52195d8a3cb7 https://preview.redd.it/b04294p3x4xc1.png?width=676&amp;format=png&amp;auto=webp&amp;s=82bee6365db630eda53f9f342642e19f727bfc9a https://preview.redd.it/wfqk33p3x4xc1.png?width=757&amp;format=png&amp;auto=webp&amp;s=a272968c9b8834e84c838effb9f0ba7412bb6c15    提交人    /u/sumofjack   [链接] [评论] ]]></description>
+      <description><![CDATA[        由   提交 /u/sumofjack   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cew5d2/flow_fails_with_get_row_from_excel_function/</guid>
       <pubDate>Sun, 28 Apr 2024 02:53:30 GMT</pubDate>
     </item>
     <item>
-      <title>CRM 太让人沮丧了！帮帮忙</title>
+      <title>CRM太令人沮丧了！帮助程序</title>
       <link>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</link>
       <description><![CDATA[我作为销售代表加入了一家新公司，这是我第一次使用 CRM，该软件非常耗时且令人沮丧！ ！大家是怎么处理的？！ 如何快速学习平台？我已经浏览了视频和其他内容，但仍然无法掌握它。 （我们使用 Salesforce）   由   提交/u/anony705  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ceaom6/crm_is_so_frustrating_helppp/</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>关于气动原理图的问题。</title>
       <link>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</link>
-      <description><![CDATA[      我今天对这些 Fesco 气阀进行了大量的学习，学到了很多东西。还有一些具体的事情我找不到太多信息，如果有人能帮助我，那就太好了。我不确定左上角的这个“12”是什么意思。我知道它是一个双向制动器，但十二是什么意思？另外，我不确定制动器上方的“I”是什么。（我不知道它是 L、i 还是一条线。我猜它只是一条线。）    提交人    /u/xTreated   [link] [评论] ]]></description>
+      <description><![CDATA[     &lt; td&gt; 今天我对这些 Fesco 空气阀进行了相当多的学习，并且学到了很多东西。还有一些具体的事情我找不到太多信息，如果有人能帮助我那就太棒了。我不确定这个“12”是什么意思左上角的意思是。我知道它是一个 2 路制动装置，但是这 12 路是什么意思？我也不确定“我”是什么。位于制动装置上方。 （不知道它是 L,i 还是只是一条线。我假设它只是一条线。）   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cd7uy2/question_about_pneumatic_schematics/</guid>
       <pubDate>Fri, 26 Apr 2024 00:42:34 GMT</pubDate>
     </item>
     <item>
       <title>关于“Festo”设备的问题</title>
       <link>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</link>
-      <description><![CDATA[      所以我从来没有真正深入研究过这整个作品的相互作用，我只是想得到更多的信息和整个事情是如何运作的，如果有人可以解释或发送链接（图片很棒）会很有帮助。我不确定这是一个大模块还是一堆小模块的组合。我知道基础知识，空气通过它，它有过滤器，它显示 psi，它有传感器指示它是否处于适合机器使用的压力等。我只是不太确定这整个事情的内部运作，只是想学习和了解更多信息！    提交人    /u/xTreated   [link] [评论] ]]></description>
+      <description><![CDATA[   所以我从未真正深入研究过整篇文章的相互作用，我只是想获得更多信息以及整个事情是如何运作的，如果有人可以解释或发送链接（图片会很棒），那将会非常有帮助。我不确定这是一个大模块还是一堆较小模块的组合。我知道基础知识，空气通过它，它有过滤器，它向您显示 psi，它有传感器指示它是否处于适合机器使用的适当压力等。我只是不太确定整个事情的相互作用，就像学习并获得更多信息！   由   提交/u/xTreated  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cctyep/question_about_festo_equipment/</guid>
       <pubDate>Thu, 25 Apr 2024 14:52:38 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>欣赏</title>
       <link>https://www.reddit.com/r/automation/comments/1cbfbyt/appreciation/</link>
-      <description><![CDATA[感谢 r/automation 的帮助用我的代码，你是最好的🙏🏾💪🏾🔥   由   提交/u/Gen-Zed-7547   [链接] [评论]]]></description>
+      <description><![CDATA[感谢 r/automation 帮助我编写代码，你是最棒的🙏🏾💪🏾🔥    提交人    /u/Gen-Zed-7547   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cbfbyt/appreciation/</guid>
       <pubDate>Tue, 23 Apr 2024 20:41:18 GMT</pubDate>
     </item>

@@ -4,18 +4,32 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:09:50 GMT</lastBuildDate>
+    <item>
+      <title>巴勒斯坦领导人呼吁美国阻止以色列拉法攻势</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68916315</link>
+      <description><![CDATA[马哈茂德·阿巴斯表示，对城市的任何袭击都可能导致大量巴勒斯坦人完全逃离加沙。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68916315</guid>
+      <pubDate>Sun, 28 Apr 2024 19:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界中央厨房恢复对加沙的粮食援助</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68915931</link>
+      <description><![CDATA[在以色列罢工导致七名工人死亡后，该援助组织已停止在加沙分发食物。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68915931</guid>
+      <pubDate>Sun, 28 Apr 2024 18:47:51 GMT</pubDate>
+    </item>
     <item>
       <title>躯干谋杀案调查中发现更多遗骸</title>
       <link>https://www.bbc.co.uk/news/uk-england-manchester-68917261</link>
       <description><![CDATA[在自然保护区发现遗体后，警方确认受害者是一名来自索尔福德的 60 多岁男子。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-england-manchester-68917261</guid>
-      <pubDate>Sun, 28 Apr 2024 18:07:41 GMT</pubDate>
+      <pubDate>Sun, 28 Apr 2024 18:44:57 GMT</pubDate>
     </item>
     <item>
-      <title>哈里斯：爱尔兰“不会提供移民漏洞”</title>
+      <title>爱尔兰表示“不会提供移民漏洞”</title>
       <link>https://www.bbc.com/news/articles/c2vw51eggwqo</link>
-      <description><![CDATA[爱尔兰总理表示，不能允许其他国家的移民政策损害爱尔兰的移民政策。]]></description>
+      <description><![CDATA[部长们表示，寻求庇护者正在越过边境，以避免英国将一些人送往卢旺达的计划。]]></description>
       <guid>https://www.bbc.com/news/articles/c2vw51eggwqo</guid>
       <pubDate>Sun, 28 Apr 2024 18:05:57 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Sun, 28 Apr 2024 16:11:59 GMT</pubDate>
     </item>
     <item>
-      <title>陆军参谋长称乌克兰前线局势恶化</title>
+      <title>乌克兰陆军参谋长表示，俄罗斯的袭击正在将我们击退</title>
       <link>https://www.bbc.co.uk/news/world-europe-68916317</link>
       <description><![CDATA[亚历山大·西尔斯基（Oleksandr Syrskyi）表示，乌克兰军队已从顿涅茨克东部的阵地撤出。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68916317</guid>
@@ -62,25 +76,11 @@
       <pubDate>Sun, 28 Apr 2024 15:04:11 GMT</pubDate>
     </item>
     <item>
-      <title>巴勒斯坦领导人呼吁美国阻止以色列拉法攻势</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68916315</link>
-      <description><![CDATA[马哈茂德·阿巴斯表示，对城市的任何袭击都可能导致大量巴勒斯坦人完全逃离加沙。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68916315</guid>
-      <pubDate>Sun, 28 Apr 2024 14:25:55 GMT</pubDate>
-    </item>
-    <item>
       <title>萨尔蒙德表示，独立计划是优素福支持的代价</title>
       <link>https://www.bbc.com/news/articles/crgyxq90325o</link>
       <description><![CDATA[这位阿尔巴领导人要求苏格兰民族党关注独立，而不是“分裂”的身份政治。]]></description>
       <guid>https://www.bbc.com/news/articles/crgyxq90325o</guid>
       <pubDate>Sun, 28 Apr 2024 12:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：龙卷风袭击中国电线的瞬间</title>
-      <link>https://www.bbc.co.uk/news/world-asia-68915201</link>
-      <description><![CDATA[袭击中国广东省的龙卷风造成五人死亡、数十人受伤。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-asia-68915201</guid>
-      <pubDate>Sun, 28 Apr 2024 11:51:38 GMT</pubDate>
     </item>
     <item>
       <title>蓝铃花林地变成了“荒凉的荒地”</title>
@@ -92,14 +92,14 @@
     <item>
       <title>丹·保尔特投奔工党后，部长捍卫 NHS 记录</title>
       <link>https://www.bbc.co.uk/news/uk-politics-68915259</link>
-      <description><![CDATA[丹·保尔特表示“患者应该得到更好的待遇”，克里斯·菲利普则否认保守党正在降低 NHS 的优先地位。]]></description>
+      <description><![CDATA[在丹·保尔特表示“患者应该得到更好的”之后，克里斯·菲尔普否认保守党正在降低国民医疗服务体系的优先地位。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-politics-68915259</guid>
       <pubDate>Sun, 28 Apr 2024 10:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>“单身时购买第一套住房要困难得多”</title>
+      <title>“单身时购买第一套房子要困难得多”</title>
       <link>https://www.bbc.com/news/articles/c72plr8v94xo</link>
-      <description><![CDATA[一份报告称，越来越需要两个高收入来支付抵押贷款，导致数百万人陷入困境。]]></description>
+      <description><![CDATA[一份报告称，越来越需要两份高收入才能负担得起抵押贷款，导致数百万人陷入困境。]]></description>
       <guid>https://www.bbc.com/news/articles/c72plr8v94xo</guid>
       <pubDate>Sun, 28 Apr 2024 00:10:18 GMT</pubDate>
     </item>

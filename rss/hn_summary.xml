@@ -4,86 +4,88 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 14:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 20:39:41 GMT</lastBuildDate>
     <item>
-      <title>远程工作是未来吗？</title>
-      <link>https://t.me/hn_summary/86859</link>
-      <description><![CDATA[远程工作是未来吗？
-作为过去三年一直在远程工作的人，我正在考虑完全远程工作，但担心是否有可能不得不回到办公室工作。许多公司已开始将员工召回办公室，但我相信远程工作将持续下去。您对远程工作的未来有何看法？加入新闻讨论远程工作趋势是否会持续下去。 ycombinator.com。]]></description>
-      <guid>https://t.me/hn_summary/86859</guid>
-      <pubDate>Sun, 28 Apr 2024 14:57:50 GMT</pubDate>
+      <title>“dotenv”项目是一个 Unix 实用程序，允许用户从 [...]</title>
+      <link>https://t.me/hn_summary/86906</link>
+      <description><![CDATA[显示 HN：Dotenv（如果它是 Unix 实用程序）
+“dotenv”项目是一个 Unix 实用程序，允许用户从当前目录中名为 .env 的文件加载环境变量。可以通过在命令前添加“dotenv”前缀或在脚本的 shebang 行中包含“dotenv”来使用它。该项目的独特之处在于它是一个小型、独立的实用程序。它提供了 dotenv 实用程序的安装说明和联机帮助页。用户可以自定义dotenv文件路径以及文件中键值对的格式。该项目由 Yifan Gu 撰写，最后更新于 2024 年 4 月 28 日。]]></description>
+      <guid>https://t.me/hn_summary/86906</guid>
+      <pubDate>Sun, 28 Apr 2024 20:39:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 上周我用一台新显示器升级了我的设置，消除了两根电缆。</title>
-      <link>https://t.me/hn_summary/86858</link>
-      <description><![CDATA[Thorsten Ball：我的设置，2024 年 4 月
-上周我用一台新显示器升级了我的设置，消除了两根电缆。我的 Steelcase Gesture 椅子和 Ology 办公桌都是可靠的投资。 Razer Pro Glide XXL 桌垫让我在炎热的夏季免于手臂出汗。我的 Focusrite Scarlett 2i2 音频接口可无缝工作，安装在桌子下方，打造整洁的工作空间。 Shure Beta 87A 麦克风和 Elgato Wave Mic Arm LP 是我强烈推荐的最新产品。 Bose QC-45 耳机提供舒适感和出色的音质。 Razer DeathAdder V2 游戏鼠标改变了游戏规则，提供精确度和易用性。罗技 C920 HD Pro 网络摄像头和 Elgato Key Light Air 和 Ring Light 为视频通话提供一致的照明。我的 Ember 智能马克杯在测验中获胜，它可以让我的咖啡保持在完美的温度。配备 Gateron G Pro Brown 轴的 Keychron Q3 键盘虽然笨重但可靠。总的来说，我的设置是为了最大限度地提高舒适度和生产力而量身定制的。 （根据 84% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86858</guid>
-      <pubDate>Sun, 28 Apr 2024 14:42:43 GMT</pubDate>
+      <title>[媒体] 在 Valentina Alto 的 Medium 页面上这篇开创性的文章中，我们深入研究了这个世界 [...]</title>
+      <link>https://t.me/hn_summary/86905</link>
+      <description><![CDATA[GraphRAG 与 LangChain 和 Neo4j
+在 Valentina Alto 的 Medium 页面上这篇开创性的文章中，我们通过 LangChain 和 Neo4j 深入研究了 GraphRAG 的世界。本系列的第 1 部分重点介绍法学硕士时代的图数据库入门，阐明这些结构如何彻底改变多智能体框架。 LangChain 库 LangGraph 于 2024 年 1 月推出，改变了该领域的游戏规则，为数据分析和应用程序开发提供了令人兴奋的可能性。请继续关注有关在不断发展的技术领域中利用基于图形的技术的力量的更多见解和实用技巧。]]></description>
+      <guid>https://t.me/hn_summary/86905</guid>
+      <pubDate>Sun, 28 Apr 2024 20:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]我们的论文介绍了 LoRA+，这是一种有效适应大型模型的新颖方法 [...]</title>
-      <link>https://t.me/hn_summary/86857</link>
-      <description><![CDATA[LoRA+：大型模型的高效低阶自适应&lt; br /&gt;
-我们的论文介绍了 LoRA+，这是一种通过低秩更新有效适应大型模型的新颖方法。通过利用模型的低秩结构，LoRA+ 显着降低了自适应的计算成本，同时保持了高性能。我们的实验证明了 LoRA+ 在各种任务和数据集上的有效性，展示了其实际应用的潜力。这种方法为以资源高效的方式适应大型模型提供了一种有前途的解决方案，使其成为机器学习领域的研究人员和从业者的宝贵工具。请浏览 arxiv.org 上的全文，了解更多详细信息和见解。 ]]></description>
-      <guid>https://t.me/hn_summary/86857</guid>
-      <pubDate>Sun, 28 Apr 2024 14:28:33 GMT</pubDate>
+      <title>[媒体] 标题：臭氧扰乱大型烟草、糖果和酒精行业</title>
+      <link>https://t.me/hn_summary/86904</link>
+      <description><![CDATA[Ozempic 将颠覆大型烟草、糖果公司和酒类品牌
+标题：臭氧扰乱大型烟草、糖果和酒精工业
+
+加工食品和酒精公司的主导地位可能会受到 Ozempic 等 GLP-1 药物的崛起的挑战。摩根士丹利 (Morgan Stanley) 的一项调查显示，服用 GLP-1 药物的用户表示，在快餐上花的钱更少，吸烟更少，饮酒更少。消费者行为的这种转变可能会影响大型连锁餐厅以及多力多滋和好时等零食公司。到 2030 年，GLP-1 药物的市场预计将达到 1050 亿美元，预计将有数百万美国人使用它们。虽然用药物依赖取代加工食品成瘾的想法似乎存在争议，但健康益处大于成本。监管机构可以在确保公平获取这些药物方面发挥作用。请继续关注有关 GLP-1 和成瘾的更多研究。]]></description>
+      <guid>https://t.me/hn_summary/86904</guid>
+      <pubDate>Sun, 28 Apr 2024 20:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>在 20 世纪 50 年代，物理学家 Jean Hoerni 做出了一项开创性的发现，该发现将彻底改变 [...]</title>
-      <link>https://t.me/hn_summary/86856</link>
-      <description><![CDATA[集成电路的发明：Jean Hoerni 的专利笔记本
-20 世纪 50 年代，物理学家 Jean Hoerni 做出了一项突破性的发现，彻底改变了半导体行业。他的“平面工艺”思想为现代集成电路的发展铺平了道路。霍尔尼与仙童半导体公司的罗伯特·诺伊斯一起工作，他的创新导致了嵌入芯片“平面”中的晶体管的诞生。诺伊斯通过添加一层连接晶体管的金属进一步增强了这一想法，从而发明了单片集成电路。该领域两个巨头之间的合作为我们今天使用的十亿晶体管集成电路奠定了基础。]]></description>
-      <guid>https://t.me/hn_summary/86856</guid>
-      <pubDate>Sun, 28 Apr 2024 14:15:27 GMT</pubDate>
+      <title>[媒体]“科学不存在”：约会应用程序可以帮助我们找到灵魂伴侣吗？</title>
+      <link>https://t.me/hn_summary/86903</link>
+      <description><![CDATA[“科学不存在”：约会应用程序对我们有帮助吗找到我们的灵魂伴侣？
+关于约会应用是否能帮助我们找到灵魂伴侣的争论仍在继续，最近的一起集体诉讼指控 Match Group 使用掠夺性商业模式来吸引用户。尽管这些应用程序很受欢迎，但其有效性的科学依据却很缺乏。社会学家伊丽莎白·布鲁赫指出，在线约会已经改变了社会现实，超过一半的美国异性恋伴侣在网上认识。虽然一些研究表明，网上认识的人的婚姻满意度稍差一些，但通过数据收集和研究改善婚介的潜力即将显现。约会应用程序的未来仍然不确定，但有一点是明确的：它们将继续存在。]]></description>
+      <guid>https://t.me/hn_summary/86903</guid>
+      <pubDate>Sun, 28 Apr 2024 20:21:25 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在“心流状态”之战中，开发人员与经理的干扰作斗争 [...]</title>
-      <link>https://t.me/hn_summary/86855</link>
-      <description><![CDATA[碎片化思维对心流状态的威胁比中断更大
-在争夺“心流状态”的过程中，开发人员要与低估成本的经理和同事的干扰作斗争。心流状态的概念由心理学家 Mihaly Csikszentmihalyi 推广，但随着时间的推移，它已经被淡化了。对心流的最大威胁不是外部干扰，而是内部碎片，开发人员允许自己暂停注意力以完成分散注意力的任务。研究表明，自我干扰比外部干扰更具破坏性。为了对抗碎片化思维，开发人员可以创建正念实践、减少技术债务并使信息更容易获取。关键是解决内部障碍，以保持生产力和创造力。 （根据 88% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86855</guid>
-      <pubDate>Sun, 28 Apr 2024 14:00:18 GMT</pubDate>
+      <title>[媒体]此网页内容探讨了在 1 个大气压下生长钻石的迷人过程，[...]</title>
+      <link>https://t.me/hn_summary/86902</link>
+      <description><![CDATA[在 1 个大气压下生长钻石
+该网络内容探讨了在 1 个大气压下生长钻石的迷人过程，重点介绍了该领域的各种研究和专家的研究。钻石化学气相沉积的讨论引起了争议，概述了最新的进展和挑战。令人惊讶的进展包括使用液态金属（例如镓）作为金刚石合成的催化剂，展示了该行业的创新方法。内容深入探讨了钻石形成的复杂性，为钻石科学和技术的未来提供了见解。 （根据 48% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/86902</guid>
+      <pubDate>Sun, 28 Apr 2024 20:19:21 GMT</pubDate>
     </item>
     <item>
-      <title>随着特斯拉首席执行官埃隆·马斯克推动自动驾驶的未来，全国各地的诉讼 [...]</title>
-      <link>https://t.me/hn_summary/86854</link>
-      <description><![CDATA[诉讼考验特斯拉关于司机对撞车事故负全部责任的说法
-随着特斯拉首席执行官埃隆·马斯克推动自动驾驶的未来，全国各地的诉讼正在对该公司关于驾驶员对涉及自动驾驶仪的事故负全部责任的说法提出质疑。至少有八起即将进行的试验涉及致命事故，据称司机依赖自动驾驶仪，导致悲剧。这些案件凸显了令人震惊的细节，包括凤凰城的一名妇女在驾驶特斯拉撞上一辆报废的汽车后死亡，以及田纳西州的一名男子逆向行驶，导致致命车祸。尽管特斯拉辩称驾驶员必须保持控制，但联邦监管机构对该技术的局限性表示担忧。这些案件的结果可能会对特斯拉的未来产生重大影响，因为该公司面临着股价下跌以及对其自动驾驶系统的严格审查。]]></description>
-      <guid>https://t.me/hn_summary/86854</guid>
-      <pubDate>Sun, 28 Apr 2024 13:57:13 GMT</pubDate>
+      <title>[媒体] 洛杉矶地铁公交车上安装了人工智能摄像头，以帮助售票车 [...]</title>
+      <link>https://t.me/hn_summary/86901</link>
+      <description><![CDATA[安装在地铁公交车上的人工智能摄像头对非法停放车辆进行罚单&lt; /a&gt;
+洛杉矶地铁公交车上安装了人工智能摄像头，以帮助停放在公交车道上的售票车，计划于今年夏天进行测试，并于 2024 年底全面实施。该计划旨在改善公交车时间、增加乘客量并解决出行问题的担忧。摄像头只会在观察到潜在违规行为时进行记录，并且在开罚单之前将由人工审核录像。华盛顿特区和纽约市已经实施了类似的计划，展示了人工智能技术在旅行安全方面的扩展。 2021 年，使用视频成像处理违规停车行为合法化，违规记录最多保留六个月。]]></description>
+      <guid>https://t.me/hn_summary/86901</guid>
+      <pubDate>Sun, 28 Apr 2024 20:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]五月。</title>
-      <link>https://t.me/hn_summary/86853</link>
-      <description><![CDATA[少校。尼尔斯·奥拉夫将军爵士
-来认识一下国王企鹅尼尔斯·奥拉夫三世少将，他拥有挪威国王卫队上校的尊贵头衔。这只帝企鹅的血统可以追溯到 1972 年，当时挪威国王卫队收养了一只名为尼尔斯·奥拉夫 (Nils Olav) 的企鹅，以纪念他们的指挥官。尼尔斯·奥拉夫三世 (Nils Olav III) 每次到访都会获得晋升，甚至于 2008 年被授予爵士爵位，成为挪威军队中第一只获此殊荣的企鹅。尼尔斯·奥拉夫 (Nils Olav) 最近于 2023 年晋升少将，获得了吉尼斯世界纪录认可的排名最高的企鹅称号。]]></description>
-      <guid>https://t.me/hn_summary/86853</guid>
-      <pubDate>Sun, 28 Apr 2024 13:53:29 GMT</pubDate>
+      <title>[媒体]美国人已经看到了向大型汽车、SUV 和皮卡卡车的重大转变 [...]</title>
+      <link>https://t.me/hn_summary/86900</link>
+      <description><![CDATA[鲁莽的政策让我们的街道上挤满了大型汽车
+美国人已明显转向大型汽车，SUV 和皮卡车占美国新车销量的 80% 以上。这一趋势受到有利于大型车辆的联邦政策的推动，例如企业平均燃油经济性标准，该标准激励汽车制造商生产更多SUV和卡车。鸡税等保护主义措施也阻止了更小、更省油的汽车进入美国市场。悍马税和油耗税等漏洞进一步刺激了人们购买重型、低效车辆。其结果是形成一个有利于汽车制造商的监管环境，但以牺牲道路安全和环境为代价。 （根据故事文本的 63% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86900</guid>
+      <pubDate>Sun, 28 Apr 2024 20:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]股市应该永不休市吗？</title>
-      <link>https://t.me/hn_summary/86852</link>
-      <description><![CDATA[股市永远不应该关闭吗？
-纽约证券交易所正在考虑全天候交易股票的想法，引发了关于 24/7 交易所优点的争论。在疫情和加密货币交易的成功推动下，散户投资者活动的增加引发了人们对延长交易时间的兴趣。尽管一些人相信让市场决定全天候交易的可行性，但对流动性、结算风险和人员配置问题的担忧仍然存在。美国证券交易委员会目前正在审查首个 24 小时交易的提案，其中提出了如何保护投资者免受价格波动影响以及谁应该承担延长交易时间的成本等问题。]]></description>
-      <guid>https://t.me/hn_summary/86852</guid>
-      <pubDate>Sun, 28 Apr 2024 13:42:22 GMT</pubDate>
+      <title>[媒体] dailysceptic.org 上的内容讨论了德国对 [...]</title>
+      <link>https://t.me/hn_summary/86899</link>
+      <description><![CDATA[绿党通过欺诈手段欺骗部长并推动德国核能淘汰
+dailysceptic.org 上的内容讨论了德国在日本福岛灾难后决定逐步淘汰核电这一有争议的决定，尽管德国没有类似的风险。作者批评政府的能源政策，将其归咎于激进的反核情绪和加强与俄罗斯关系的政治动机。文章强调了政府官员为推动核能淘汰而使用的欺骗手段，包括伪造专家报告和隐瞒信息。作者讽刺性地将政府中的关键人物描绘为无能且受意识形态议程驱使的人。文章最后批评了政府对能源危机的处理以及令人尴尬的内部文件的发布。（基于 95% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/86899</guid>
+      <pubDate>Sun, 28 Apr 2024 20:05:06 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]GitHub 上的“docker-phobia”项目允许用户分析 Docker 镜像并优化 [...]</title>
-      <link>https://t.me/hn_summary/86851</link>
-      <description><![CDATA[显示 HN：Docker 恐惧症：使用树形图分析 Docker 映像大小
-GitHub 上的“docker-phobia”项目允许用户分析 Docker 镜像并优化它们的大小。通过使用树状图可视化图像大小，用户可以轻松识别哪些文件和文件夹占用了最多空间。该工具有助于使 Docker 镜像更精简、更高效。该项目通过提供用户友好的界面来浏览图像层并直观地表示每个组件的大小，从而脱颖而出。用户可以通过简单的命令安装docker-phobia，并使用它来有效地分析和优化Docker镜像。]]></description>
-      <guid>https://t.me/hn_summary/86851</guid>
-      <pubDate>Sun, 28 Apr 2024 13:29:45 GMT</pubDate>
+      <title>在自主代理的世界中，能够以最少的 [...]</title>
+      <link>https://t.me/hn_summary/86898</link>
+      <description><![CDATA[OSWorld：对真实计算机中开放式任务的多模式代理进行基准测试&lt; /a&gt;
+在自主代理的世界中，以最少的人为干预完成复杂的计算机任务的能力是人机交互的游戏规则改变者。然而，现有的基准不足以反映现实世界计算机使用的多样性和复杂性。进入 OSWorld，这是一个突破性的多模式代理真实计算机环境，支持跨各种操作系统的交互式学习。通过涉及真实 Web 和桌面应用程序、操作系统文件 I/O 和多应用程序工作流程的 369 项任务的基准测试，OSWorld 揭示了当前基于 LLM/VLM 的代理的重大缺陷。这种全面的分析为开发更有效的计算机助手提供了宝贵的见解。]]></description>
+      <guid>https://t.me/hn_summary/86898</guid>
+      <pubDate>Sun, 28 Apr 2024 20:04:02 GMT</pubDate>
     </item>
     <item>
-      <title>被誉为“铁路之父”的乔治·史蒂芬森 (George Stephenson) 是印度河时期的一名英国工程师 [...]</title>
-      <link>https://t.me/hn_summary/86850</link>
-      <description><![CDATA[乔治·斯蒂芬森
-乔治·斯蒂芬森，被誉为“铁路之父”，是工业革命时期的英国工程师。他开创了铁路运输，设计了第一台在公共铁路线上运送乘客的蒸汽机车。斯蒂芬森为防止地雷爆炸而开发的安全灯面临争议，因为他被指控窃取了汉弗莱·戴维的想法。尽管面临挑战，斯蒂芬森对铁路系统的创新设计和改进彻底改变了交通运输。他在斯托克顿和达灵顿铁路以及其他项目上的工作为现代铁路奠定了基础，使他成为工业革命的关键人物。 （根据 34% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/86850</guid>
-      <pubDate>Sun, 28 Apr 2024 13:17:37 GMT</pubDate>
+      <title>[媒体]芬兰初创公司 Solar Foods 已开始生产由电力和空气制成的食品 [...]</title>
+      <link>https://t.me/hn_summary/86897</link>
+      <description><![CDATA[轻食：芬兰初创公司开始“利用空气和太阳能制造食物” &#39;
+芬兰初创公司 Solar Foods 已开始在赫尔辛基附近万塔的工厂生产由电力和空气制成的食品。他们的产品中使用的蛋白质来自利用太阳的可再生电力分解水的过程，将氢气和氧气供给酿造容器中的微生物。这种创新方法可以减少对用于动物饲料和牧场的大片土地的需求，从而彻底改变食品工业。虽然有些人可能将实验室种植的食品视为一种威胁，但 Solar Foods 的联合创始人 Pasi Vainikka 相信传统耕作方法和新技术的共存可以提供高质量、可持续的食品选择。]]></description>
+      <guid>https://t.me/hn_summary/86897</guid>
+      <pubDate>Sun, 28 Apr 2024 19:56:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,25 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 18:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 21:09:02 GMT</lastBuildDate>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了一切。我有一个在后端运行的 AGPLv3 软件。它完全没有修改。在我的应用程序中，我只提供了一个指向该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？    提交人    /u/thehazarika   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsoi/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我有指向未经修改的托管版本的超链接，是否违反 AGPLv3？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</link>
+      <description><![CDATA[标题总结了这一点。我有一个在后端运行的 AGPLv3 软件。这是完全未经修改的。在我的应用程序中，我只提供了该应用程序的链接。我的应用程序现在也必须是 AGPLv3 吗？   由   提交 /u/thehazarika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cfdsm3/do_i_violate_agplv3_if_i_have_a_hyperlink_to_a/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:50:25 GMT</pubDate>
+    </item>
     <item>
       <title>为什么公司要为开源做出贡献？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</link>
-      <description><![CDATA[嗨，我是编程新手，想得到一些澄清。为什么公司要付钱给员工从事开源工作？我知道他们自己可能也在使用那个项目。但还有其他原因吗？为什么这些公司要开源自己的项目？比如 Facebook 就有很多像 react 或 Llama AI 这样的项目。如果他们把所有项目都保留为专有的，难道他们不会受益更多吗？    提交人    /u/krystln   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我是编程新手，想得到一些说明。为什么公司付钱给员工从事开源工作？我知道他们自己可能正在使用该项目。但还有其他原因吗？为什么这些公司要开源自己的项目？就像 Facebook 有很多项目，比如 React 或 Llama AI。通过保留所有所有权，他们不会受益更多吗？   由   提交 /u/krystln   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfbxbh/why_do_companies_contribute_to_open_source/</guid>
       <pubDate>Sun, 28 Apr 2024 17:32:14 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/auv1107  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cdmjfc/just_opensourced_appupdater_a_mac_app_silent/</guid>
       <pubDate>Fri, 26 Apr 2024 14:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 MS-DOS 4.0 - 微软开源博客</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</link>
-      <description><![CDATA[       由   提交/u/hells_itch  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdkblv/open_sourcing_msdos_40_microsoft_open_source_blog/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>公开共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</link>
-      <description><![CDATA[   一个&gt;   由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cdjm3k/openly_shared/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:03:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
