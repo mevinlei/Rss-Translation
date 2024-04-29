@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 06:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:11:11 GMT</lastBuildDate>
     <item>
       <title>如何熟悉一个新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cflh9e/how_to_familiarize_yourself_with_a_new_project/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>知道美国开源公司的目录吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
-      <description><![CDATA[GitHub 是否提供公司搜索功能，或者是否有一些了不起的人在那里编制了一个列表？ 我已经尝试了 1) Crunchbase 和 2) F6S 上的开源行业过滤器，但结果仅限于几百个。 提前谢谢！    提交人    /u/HeyTomesei   [link] [评论]]]></description>
+      <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
       <pubDate>Sun, 28 Apr 2024 21:46:29 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Sun, 28 Apr 2024 11:59:12 GMT</pubDate>
     </item>
     <item>
-      <title>Naticord - 用 Python 制作的原生 Discord 客户端。</title>
+      <title>Naticord - 用 Python 编写的原生 Discord 客户端。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</link>
-      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github. com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我很无聊，所以决定用 Python 制作一个 Discord 客户端，并使用 PyQt5 中的 UI。 https://github。 com/n1d3v/naticord 希望大家喜欢！我将不断解决问题。   由   提交 /u/xyqnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ces8zg/naticord_a_native_discord_client_made_in_python/</guid>
       <pubDate>Sat, 27 Apr 2024 23:33:34 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>分叉项目命名</title>
       <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
-      <description><![CDATA[我分叉了一个弃用的项目并想更新它。如果原始项目名为“ProjectName”，我可以称我的分叉为“Varthe 的 ProjectName”吗？有没有更合适的名字？我当然会归功于原始创建者。    提交人    /u/varthe   [link] [comments]]]></description>
+      <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
