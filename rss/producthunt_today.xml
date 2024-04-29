@@ -2,19 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 03:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 06:12:19 GMT</lastBuildDate>
     <item>
       <title>基因</title>
       <link>https://www.producthunt.com/posts/genai</link>
       <description><![CDATA[
-适合所有人的聊天机器人
-
+            适合所有人的聊天机器人
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/genai</guid>
       <pubDate>Sun, 28 Apr 2024 04:07:59 GMT</pubDate>
@@ -51,12 +51,12 @@
       <title>快速标记</title>
       <link>https://www.producthunt.com/posts/quickticks</link>
       <description><![CDATA[
-            您的生产力伴侣
-          
+您的生产力伴侣
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/quickticks</guid>
       <pubDate>Sat, 27 Apr 2024 12:13:39 GMT</pubDate>
