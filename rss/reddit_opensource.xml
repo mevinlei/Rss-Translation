@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:15:48 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Mon, 29 Apr 2024 15:09:33 GMT</lastBuildDate>
+    <item>
+      <title>对开源的威胁来自公司操纵</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</link>
+      <description><![CDATA[   /u/fagnerbrack  [link] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cg1fah/the_threat_to_open_source_comes_from_corporate/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>看看 OSI 是否会在您附近举办研讨会。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfxb3c/see_if_osi_is_coming_near_you_to_host_a_workshop/</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 29 Apr 2024 00:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>知道美国开源公司的名录吗？</title>
+      <title>知道美国开源公司的目录吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</link>
       <description><![CDATA[GitHub 是否提供公司搜索功能，或者有一些很棒的人在那里编制了一个列表？ 我都尝试过开源行业过滤器针对 1) Crunchbase 和 2) F6S，但结果仅限于几百个。 提前致谢！   由   提交 /u/HeyTomesei   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cfi3sh/know_of_any_directory_of_us_open_source_companies/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>分叉项目命名</title>
       <link>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</link>
-      <description><![CDATA[我分叉了一个弃用的项目并想更新它。如果原始项目名为“ProjectName”，我可以称我的分叉为“Varthe 的 ProjectName”吗？有没有更合适的名字？我当然会归功于原始创建者。    提交人    /u/varthe   [link] [comments]]]></description>
+      <description><![CDATA[我分叉了一个已弃用的项目并想要更新它。如果原始项目名为“ProjectName”，我可以将我的分支称为“Varthe&#39;s ProjectName”吗？有没有更合适的名字？我当然会感谢原创者。   由   提交 /u/varthe   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cea1ap/forked_project_naming/</guid>
       <pubDate>Sat, 27 Apr 2024 08:58:58 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[https://apps.gnome.org/ fr/AudioSharing/ 我真的很喜欢这个应用程序，并且想知道 Windows 是否有可行的替代方案。我通常在 VLC 媒体播放器上观看视频，我想将声音直接传输到我的手机（声音更好）。    由   提交/u/clara59000  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ce9j6v/audiosharing_rtsp_alternative_for_windows/</guid>
       <pubDate>Sat, 27 Apr 2024 08:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>florisboard 抛光支持 ?</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</link>
-      <description><![CDATA[我正在查看 github 页面 https://github .com/florisboard/florisboard/wiki 但没有有关语言支持的信息。也尝试通过 fdroid 应用程序搜索但没有信息。表示 persion 和希伯来语。   由   提交/u/444rj44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ce5ktq/florisboard_polish_support/</guid>
-      <pubDate>Sat, 27 Apr 2024 04:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
