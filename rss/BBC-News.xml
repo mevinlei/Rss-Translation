@@ -4,11 +4,67 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 30 Apr 2024 06:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:12:43 GMT</lastBuildDate>
     <item>
-      <title>BBC在菲律宾船上被中国水炮击中</title>
+      <title>观看：有人看到男子在屋外携带剑</title>
+      <link>https://www.bbc.co.uk/news/uk-68926885</link>
+      <description><![CDATA[在伦敦东部，包括两名警察在内的多人被一名持剑男子打伤。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68926885</guid>
+      <pubDate>Tue, 30 Apr 2024 08:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>收购失败后电讯报出售</title>
+      <link>https://www.bbc.co.uk/news/business-68926764</link>
+      <description><![CDATA[《每日电讯报》和《星期日电讯报》的所有权将被转让给阿布扎比支持的竞标者。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68926764</guid>
+      <pubDate>Tue, 30 Apr 2024 08:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>警方公布在树林中发现躯干的男子姓名</title>
+      <link>https://www.bbc.co.uk/news/uk-68921832</link>
+      <description><![CDATA[警方称，在自然保护区发现的用塑料包裹的遗体属于 67 岁的斯图尔特·埃弗雷特 (Stuart Everett)。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68921832</guid>
+      <pubDate>Tue, 30 Apr 2024 08:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>政府否认失去了可能被卢旺达驱逐者的踪迹</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68924392</link>
+      <description><![CDATA[英国内政部承认，一些指定前往卢旺达的寻求庇护者可能会在被拘留之前潜逃。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68924392</guid>
+      <pubDate>Tue, 30 Apr 2024 08:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>哥伦比亚大学因违反加沙抗议最后期限而对学生实施停职处罚</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68923528</link>
+      <description><![CDATA[亲巴勒斯坦团体在不顾最后期限拆除营地后占领了汉密尔顿大厅。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68923528</guid>
+      <pubDate>Tue, 30 Apr 2024 08:10:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃诺市公众和警察袭击后持剑男子被拘留</title>
+      <link>https://www.bbc.co.uk/news/live/uk-england-london-68926446</link>
+      <description><![CDATA[英国伦敦标准时间 07:00 前不久，包括两名警察在内的多人在伦敦东部遭到袭击。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-england-london-68926446</guid>
+      <pubDate>Tue, 30 Apr 2024 08:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>特殊学校学生在安静的房间里遭受“折磨”</title>
+      <link>https://www.bbc.co.uk/news/uk-68897335</link>
+      <description><![CDATA[BBC 获得了机密材料，揭露了 39 名学生遭受骇人听闻的虐待和忽视的情况。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-68897335</guid>
+      <pubDate>Tue, 30 Apr 2024 07:52:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>“新的脱欧贸易检查将使我每年损失 20 万英镑”</title>
+      <link>https://www.bbc.com/news/articles/c72pz0vjd57o</link>
+      <description><![CDATA[企业警告成本上升，但政府表示新的边境模式将改善生物安全。]]></description>
+      <guid>https://www.bbc.com/news/articles/c72pz0vjd57o</guid>
+      <pubDate>Tue, 30 Apr 2024 06:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBC登上被中国水炮击中的菲律宾船只</title>
       <link>https://www.bbc.co.uk/news/world-asia-68925650</link>
-      <description><![CDATA[BBC的乔纳森·海德目睹了有争议的南中国海的对抗。]]></description>
+      <description><![CDATA[BBC记者乔纳森·海德亲眼目睹了南海争议海域的对峙。]]></description>
       <guid>https://www.bbc.co.uk/news/world-asia-68925650</guid>
       <pubDate>Tue, 30 Apr 2024 05:45:48 GMT</pubDate>
     </item>
@@ -20,34 +76,6 @@
       <pubDate>Tue, 30 Apr 2024 05:23:00 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行行政总裁意外辞职</title>
-      <link>https://www.bbc.com/news/articles/czkvnd4g44ro</link>
-      <description><![CDATA[欧洲最大的银行表示，诺埃尔·奎因将在担任该职位近五年后退休。]]></description>
-      <guid>https://www.bbc.com/news/articles/czkvnd4g44ro</guid>
-      <pubDate>Tue, 30 Apr 2024 05:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>体育界要求政府解决水污染问题</title>
-      <link>https://www.bbc.com/sport/articles/c6py0plmn0zo</link>
-      <description><![CDATA[英国各地的水上运动组织联合起来，呼吁政府采取紧急行动，解决河流、湖泊和沿海水域的污染问题。]]></description>
-      <guid>https://www.bbc.com/sport/articles/c6py0plmn0zo</guid>
-      <pubDate>Tue, 30 Apr 2024 05:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>特殊学校学生在安静的房间里遭受“折磨”</title>
-      <link>https://www.bbc.co.uk/news/uk-68897335</link>
-      <description><![CDATA[BBC 获得的机密材料揭示了影响 39 名学生的令人震惊的虐待和忽视行为。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68897335</guid>
-      <pubDate>Tue, 30 Apr 2024 04:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>报纸：“你只能责怪优素福”和“奇异恩典”</title>
-      <link>https://www.bbc.co.uk/news/blogs-the-papers-68925388</link>
-      <description><![CDATA[周二的头版充斥着胡姆扎·优素福宣布辞职的消息。]]></description>
-      <guid>https://www.bbc.co.uk/news/blogs-the-papers-68925388</guid>
-      <pubDate>Tue, 30 Apr 2024 04:34:26 GMT</pubDate>
-    </item>
-    <item>
       <title>苏格兰民族党寻求新领导人，分歧暴露</title>
       <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-68925698</link>
       <description><![CDATA[无论谁接替即将辞去苏格兰首席大臣职务的胡姆扎·优素福，都将面临巨大的挑战。]]></description>
@@ -55,39 +83,11 @@
       <pubDate>Tue, 30 Apr 2024 04:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>政府否认失去了可能被卢旺达驱逐者的踪迹</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-68924392</link>
-      <description><![CDATA[英国内政部承认，一些指定前往卢旺达的寻求庇护者可能会在被拘留之前潜逃。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-68924392</guid>
-      <pubDate>Tue, 30 Apr 2024 03:32:39 GMT</pubDate>
-    </item>
-    <item>
       <title>面临被驱逐的妇女告诉她，她可以应对露宿街头的情况</title>
       <link>https://www.bbc.com/news/articles/cd18gy0yjl3o</link>
-      <description><![CDATA[瑟罗克市议会表示，相信海蒂·多德森（Heidi Dodson）如果无家可归，她会“相当好”地应对。]]></description>
+      <description><![CDATA[瑟罗克议会表示，相信海蒂·多德森即使无家可归，也能“相当好地”应对。]]></description>
       <guid>https://www.bbc.com/news/articles/cd18gy0yjl3o</guid>
       <pubDate>Tue, 30 Apr 2024 01:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国国民医疗服务体系（NHS）在病房分配中强调生物性别</title>
-      <link>https://www.bbc.co.uk/news/health-68923861</link>
-      <description><![CDATA[政府建议，跨性别女性不应被安置在 NHS 单一性别女性病房。]]></description>
-      <guid>https://www.bbc.co.uk/news/health-68923861</guid>
-      <pubDate>Tue, 30 Apr 2024 01:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>哥伦比亚大学停课学生违反加沙抗议最后期限</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68923528</link>
-      <description><![CDATA[随着哥伦比亚活动分子解散的最后期限到来，州警在德克萨斯州一所大学逮捕了示威者。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68923528</guid>
-      <pubDate>Tue, 30 Apr 2024 01:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国称以色列军队侵犯人权</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68925495</link>
-      <description><![CDATA[但美国国务院表示，在以色列采取行动后，所有五个单位仍然有资格获得美国的军事援助。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68925495</guid>
-      <pubDate>Tue, 30 Apr 2024 00:56:30 GMT</pubDate>
     </item>
     <item>
       <title>查尔斯国王重返公众活动并参观癌症中心</title>
@@ -97,18 +97,18 @@
       <pubDate>Mon, 29 Apr 2024 23:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>一个孩子说她的房间里有怪物。有 60,000 只蜜蜂</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68924955</link>
-      <description><![CDATA[塞勒·克拉斯抱怨说，她位于北卡罗来纳州夏洛特农舍的房间里有“墙上的怪物”。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68924955</guid>
-      <pubDate>Mon, 29 Apr 2024 23:09:00 GMT</pubDate>
-    </item>
-    <item>
       <title>秘密文件称伊朗青少年被安全部队猥亵并杀害</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68840881</link>
       <description><![CDATA[革命卫队传递给 BBC 的文件提供了尼卡·沙卡拉米最后行动的令人毛骨悚然的细节。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68840881</guid>
       <pubDate>Mon, 29 Apr 2024 23:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>卢旺达政策是否正在推动移民前往爱尔兰？</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68920391</link>
+      <description><![CDATA[爱尔兰政府声称超过 80% 的寻求庇护者是从北爱尔兰越过边境的。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68920391</guid>
+      <pubDate>Mon, 29 Apr 2024 18:35:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
