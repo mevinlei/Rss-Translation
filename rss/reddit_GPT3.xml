@@ -3,15 +3,8 @@
   <channel>
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
-    <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:13:17 GMT</lastBuildDate>
-    <item>
-      <title>在 ChatGPT 上致力于此。 《星际迷航》多元宇宙角色扮演游戏，揭示了我们生活在一个模拟世界中，但如果你仔细看看，还会发现更多。很有意思。 ChatGPT 免费。 (iHaru) 西格玛 37：星际迷航零年（联邦泰坦又名克拉克定律）</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1cgpku9/working_on_this_on_chatgpt_star_trek_multiverse/</link>
-      <description><![CDATA[   https://chat.openai.com/g/g-Z0Z3eTDEI-iharu-sigma37-trek-year-zero 完全免费。数千页的背景材料和奥秘。 寻求反馈和讨论。   由   提交 /u/LookIntoAGlassOnion   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1cgpku9/working_on_this_on_chatgpt_star_trek_multiverse/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:31:27 GMT</pubDate>
-    </item>
+    <description>AI 文本生成技术的 Reddit 子版块</description>
+    <lastBuildDate>Tue, 30 Apr 2024 15:07:45 GMT</lastBuildDate>
     <item>
       <title>越狱 ChatGPT</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cgm4gx/jailbraking_chatgpt/</link>
@@ -20,7 +13,7 @@
       <pubDate>Tue, 30 Apr 2024 06:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>大学中的人工智能焦虑</title>
+      <title>大学里的人工智能焦虑</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cg1yt5/ai_anxiety_in_college/</link>
       <description><![CDATA[大家好， 最近我一直在思考技术在教育中的作用，尤其是人工智能。作为一名大学生，我很想听听您将人工智能技术用于教育目的的经历。 您是否曾对使用人工智能工具或平台进行课程作业感到不安或焦虑？也许您担心隐私、控制或人工智能对您学习体验的整体影响。 我特别有兴趣了解社会规范和文化价值观如何影响我们对人工智能的看法教育。您认为对技术和教育的文化态度会影响学生如何看待人工智能并与人工智能互动吗？ 请随意分享您的任何故事、见解或担忧。期待您的回复。谢谢！   由   提交/u/Mother_Office_9680   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1cg1yt5/ai_anxiety_in_college/</guid>
@@ -36,7 +29,7 @@
     <item>
       <title>AI 模型：嵌入提示</title>
       <link>https://www.reddit.com/r/GPT3/comments/1cco9is/ai_model_embed_prompts/</link>
-      <description><![CDATA[那么我如何将提示嵌入模型中？这样我就可以通过 OpenAI-API 使用它了？我不是指微调。这对我的目的来说太过分了。    提交人    /u/MOCO04   [link] [comments]]]></description>
+      <description><![CDATA[那么如何将提示嵌入到模型中呢？那么我可以通过 OpenAI-API 使用它吗？我的意思不是微调。这对于我的目的来说太过分了。    由   提交/u/MOCO04  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1cco9is/ai_model_embed_prompts/</guid>
       <pubDate>Thu, 25 Apr 2024 10:10:57 GMT</pubDate>
     </item>
@@ -85,7 +78,7 @@
     <item>
       <title>我认为聊天 gpt 已经疯了</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c9roj9/i_think_chat_gpt_has_gone_insane/</link>
-      <description><![CDATA[      我给了它 Reddit UWU 语言好玩并打破了它    提交人    /u/Sea-Knowledge4435   [链接] [评论] ]]></description>
+      <description><![CDATA[       我为了好玩而给了它 Reddit UWU 语言，然后破坏了它   由   提交/u/Sea-Knowledge4435  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c9roj9/i_think_chat_gpt_has_gone_insane/</guid>
       <pubDate>Sun, 21 Apr 2024 20:22:33 GMT</pubDate>
     </item>
@@ -106,9 +99,16 @@
     <item>
       <title>在德语中使用 CHATGPT3 / 从正式演讲切换到非正式演讲</title>
       <link>https://www.reddit.com/r/GPT3/comments/1c6wr03/using_chatgpt3_in_german_switching_from_formal_to/</link>
-      <description><![CDATA[大家好， ​ 我使用 ChatGPT 最常见的任务之一正在优化工作邮件。对于英语，我觉得这很有效，但是当用德语写邮件时，它总是使用高度正式的演讲“Sie 而不是 DU”。  我有一些客户坚持要求你使用“Du”来表达。以他们的形式交流。我仍然希望给这位客户的邮件仍然使用专业和雄辩的语言，但使用“Du”字样。而不是“谢”。  有没有人想出一个提示可以帮助 ChatGPT 更好地理解我需要的语气语言？   由   提交 /u/c00lstone   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， ​ 我使用 ChatGPT 的最常见任务之一是优化工作邮件。对于英语，我觉得这很有效，但在用德语写邮件时，它总是使用非常正式的语音“Sie”，而不是 DU。 我有一些客户坚持要求您在他们的表格通信中使用“Du”。我仍然希望给这个客户的邮件仍然使用专业和雄辩的语言，但使用“Du”而不是“Sie”。 有人想出一个提示来帮助 ChatGPT 更好地理解我需要的语气语言吗？    提交人    /u/c00lstone   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1c6wr03/using_chatgpt3_in_german_switching_from_formal_to/</guid>
       <pubDate>Thu, 18 Apr 2024 06:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想我稍微破坏了 GPT</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</link>
+      <description><![CDATA[       正在写一些诗句，这些词在我的脑海中留下了很酷的流畅感。所以它满足了我的要求。   由   提交/u/No_Atmosphere_5485   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1c5oanf/i_think_i_broke_gpt_a_little/</guid>
+      <pubDate>Tue, 16 Apr 2024 19:02:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

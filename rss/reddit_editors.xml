@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:08:10 GMT</lastBuildDate>
     <item>
       <title>使用 Macbook 作为 Windows 10 PC 的第二个显示器？</title>
       <link>https://www.reddit.com/r/editors/comments/1cgpfw1/use_macbook_as_a_second_monitor_for_windows_10_pc/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 30 Apr 2024 03:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>Lucid 链接备份策略</title>
+      <title>Lucid Link 备份策略</title>
       <link>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</link>
       <description><![CDATA[认为今天是开始讨论 Lucid Link 理想备份策略的合适时机。 大约两个几个月前，我发表了这篇文章： https://www.reddit.com /r/editors/comments/1beq8e8/lucid_link_in_combination_with_syncthing/ 一旦我的数据恢复在线，我将实施此策略并确保我的所有 Lucid Link 项目也与我的同步服务器。 有趣的是，我们只是在一个项目中尝试 Lucid。如果这种事件发生在我们所有的项目上，那将是最坏的情况。 我的一位同事正在制作另一部作品，该作品已经使用 Lucid Link 一段时间了，她告诉我他们正在处理中今天本地备份。我很好奇他们为本地备份做了什么，以及他们如何能够如此快速地做出反应，并且不松懈。 我将尝试一下我最初的想法，看看它是如何工作的。我们经常使用 Syncthing，因此如果它运行良好，它会很好地配合。   由   提交/u/Magic_MTN   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgiblc/lucid_link_backup_strategy/</guid>
@@ -62,9 +62,9 @@
       <pubDate>Mon, 29 Apr 2024 23:35:32 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere Pro，音频混合剪辑，但单个轨道看起来不错</title>
+      <title>Premiere Pro，音频混合剪辑，但单个音轨看起来不错</title>
       <link>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</link>
-      <description><![CDATA[您好！我正在准备交付序列并遇到问题。根据音轨混音器，主混音正在剪辑。然而，轨道本身没有被剪辑。事实上，我只播放一个音轨，并且没有子混音、轨道效果或剪辑效果。所有音轨和混音的音量设置为统一。有人见过这个吗？ Premiere Pro 24.3、Macbook Pro M3 [编辑：问题通过系统重新启动修复。提醒您在发帖前尝试基本的故障排除]   由   提交/u/Powerful-Bread5543  /u/Powerful-Bread5543 reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[您好！我正在准备一个要交付的序列，遇到了一个问题。根据音轨混音器，主混音正在剪辑。但是，没有任何音轨本身被剪辑。事实上，我只播放了一个音轨，没有子混音、音轨效果或剪辑效果。所有音轨和混音的音量都设置为统一。有人见过这种情况吗？ Premiere Pro 24.3，Macbook Pro M3 [编辑：问题已通过系统重启得到解决。提醒您在发布之前尝试基本的故障排除]    提交人    /u/Powerful-Bread5543   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cgc3wa/premiere_pro_audio_mix_clipping_but_individual/</guid>
       <pubDate>Mon, 29 Apr 2024 22:11:27 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>清晰链接已关闭</title>
       <link>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</link>
-      <description><![CDATA[你们这段时间都在干嘛？    提交人    /u/mjgoodenow   [link] [comments]]]></description>
+      <description><![CDATA[你们这段时间都在做什么？   由   提交 /u/mjgoodenow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg5tws/lucid_link_down/</guid>
       <pubDate>Mon, 29 Apr 2024 18:03:23 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 29 Apr 2024 17:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>要不要诚实</title>
+      <title>是或不是……诚实</title>
       <link>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</link>
       <description><![CDATA[当与导演/制片人或任何一般客户会面时，他们询问您对（镜头/剧本/电影等）的诚实意见，您如何处理这个问题？我确实认为诚实是最好的方法，但很多时候，当被问到这个问题时，你并没有建立关系，而且你不知道他们对内容的感受。有时他们会睁大眼睛看到它的缺陷，有时他们会认为它是一件杰作，但实际上它与杰作相去甚远。想法？    由   提交 /u/neederman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cg3msn/to_be_or_not_to_be_honest/</guid>
