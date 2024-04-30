@@ -4,20 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 03:09:52 GMT</lastBuildDate>
+    <item>
+      <title>用 Java 实现您自己的垃圾收集器</title>
+      <link>https://www.reddit.com/r/programming/comments/1cgi7it/implementing_your_own_garbage_collector_in_java/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cgi7it/implementing_your_own_garbage_collector_in_java/</guid>
+      <pubDate>Tue, 30 Apr 2024 02:50:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git：您可能会使用的一些提高生产力的技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1cggbix/git_some_productivity_tips_you_might_use/</link>
+      <description><![CDATA[  由    /u/hizacharylee  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cggbix/git_some_productivity_tips_you_might_use/</guid>
+      <pubDate>Tue, 30 Apr 2024 01:18:00 GMT</pubDate>
+    </item>
     <item>
       <title>问 HN：互联网泡沫破裂期间的就业市场是什么样的？</title>
       <link>https://www.reddit.com/r/programming/comments/1cgf1fd/ask_hn_what_was_the_job_market_like_during_the/</link>
       <description><![CDATA[ 由   提交/u/fractalfellow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cgf1fd/ask_hn_what_was_the_job_market_like_during_the/</guid>
       <pubDate>Tue, 30 Apr 2024 00:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于预算笔记本电脑来说，哪个品牌更适合用于编程？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cgefo0/what_brand_is_better_for_a_budget_laptop_to_use/</link>
-      <description><![CDATA[嗨，这是我在这里发表的第一篇文章。 I 29(F) 我正在学习如何编码，我想学习 Python。我有 600-800 美元的预算来购买笔记本电脑，我想知道我应该选择戴尔、宏碁、华硕、联想还是惠普？我也很感激任何关于购买时要寻找什么的建议。作为女人，我觉得只要我走进任何科技商店，他们就会尝试提供可爱的笔记本电脑哈哈哈，所以我想做好准备并知道要寻找什么。抱歉我的英语不好。英语是我的第二语言（我住在智利，但我要去美国度假，我打算在那里购买我的笔记本电脑）。添加了一个随机链接，以便能够在此处发布。   由   提交/u/Informal_Ad_2130   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cgefo0/what_brand_is_better_for_a_budget_laptop_to_use/</guid>
-      <pubDate>Mon, 29 Apr 2024 23:51:46 GMT</pubDate>
     </item>
     <item>
       <title>三字节修复</title>
@@ -64,7 +71,7 @@
     <item>
       <title>文件系统和存储基准测试的九年研究</title>
       <link>https://www.reddit.com/r/programming/comments/1cg9mt6/a_nine_year_study_of_file_system_and_storage/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cg9mt6/a_nine_year_study_of_file_system_and_storage/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:45 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>探索数据库清理之谜</title>
       <link>https://www.reddit.com/r/programming/comments/1cg9mqk/exploring_the_enigma_of_database_vacuuming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cg9mqk/exploring_the_enigma_of_database_vacuuming/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:41 GMT</pubDate>
     </item>
     <item>
       <title>fend - 任意精度单位感知计算器</title>
       <link>https://www.reddit.com/r/programming/comments/1cg9mor/fend_an_arbitraryprecision_unitaware_calculator/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cg9mor/fend_an_arbitraryprecision_unitaware_calculator/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:37 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cg9mnf/functional_semantics_in_imperative_clothing/</guid>
       <pubDate>Mon, 29 Apr 2024 20:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>6502 – 逆向工程指南（如何阅读模具镜头）[pdf]</title>
-      <link>https://www.reddit.com/r/programming/comments/1cg9kgg/6502_guideline_to_reverse_engineering_how_to_read/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cg9kgg/6502_guideline_to_reverse_engineering_how_to_read/</guid>
-      <pubDate>Mon, 29 Apr 2024 20:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
