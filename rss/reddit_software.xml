@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 06:11:32 GMT</lastBuildDate>
+    <item>
+      <title>需要软件（最好是免费软件）来知道我的互联网何时恢复</title>
+      <link>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</link>
+      <description><![CDATA[昨天我们遭遇了巨大的雷暴，我们一整天都没有互联网，但是当它回来时，除了手动检查，因为我离开电脑太久没有任何信号，所以从它回来到我检查过了大约 4 个小时 是否有软件或免费软件可以让当我的互联网恢复时，我会收到警报吗？   由   提交/u/thejuanwelove  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cgksri/need_software_preferably_freeware_to_know_when_my/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:09:32 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找显示程序 - 请帮忙</title>
       <link>https://www.reddit.com/r/software/comments/1cgf4md/in_search_of_display_program_please_help/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>价格合理的 PDF 编辑器</title>
       <link>https://www.reddit.com/r/software/comments/1cgdrdf/reasonably_priced_pdf_editor/</link>
-      <description><![CDATA[我希望有人能推荐一款价格合理的pdf编辑器。 （Adobe Pro 订阅对我来说太贵了。） 我想要做的主要事情是通过合并 pdf、删除页面或将其他 pdf 插入到其中来重新组织 pdf。另一个文档的特定部分。裁剪和调整页面大小对我来说也非常有用。对于满足我尚未预料到的需求的更广泛的功能，我们表示赞赏。 如果我付费，我更愿意能够安装该软件一次并将其安装在我的计算机上，而不是付费订阅。 当然，如果有一个好的、免费的、无间谍软件的选项，那就太好了，但我不介意支付合理的费用价格，特别是如果我可以支付一次并拥有该软件。 谢谢！   由   提交/u/JdUmberto   [链接] [评论]]]></description>
+      <description><![CDATA[我希望有人能推荐一款价格合理的 pdf 编辑器。（Adobe Pro 订阅对我来说太贵了。） 我最想做的事情是通过合并、删除页面或将其他 pdf 插入另一个文档的特定部分来重新组织 pdf。裁剪和调整页面大小对我来说也非常有用。希望能提供更广泛的功能来满足我尚未预料到的需求。 如果我要付费，我更愿意只安装一次软件并将其放在我的电脑上，而不是付费订阅。 当然，如果有免费且不含间谍软件的好选择，那就太好了，但我不介意支付合理的价格，特别是如果我可以一次付费并拥有该软件的话。 谢谢！    提交人    /u/JdUmberto   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cgdrdf/reasonably_priced_pdf_editor/</guid>
       <pubDate>Mon, 29 Apr 2024 23:21:19 GMT</pubDate>
     </item>
@@ -43,21 +50,21 @@
     <item>
       <title>显然不再允许使用 SAI Production Manager (Flexi 12) 进行远程打印</title>
       <link>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</link>
-      <description><![CDATA[我使用 SAI Production Manager 打印到 HP Latex 360。直到上周，我还不得不使用一台运行 Windows 7 的旧电脑。上周我终于得到了一台运行 Windows 10 的更新电脑，但我们的 IT 经理不得不联系 SAI 技术支持来更新软件以使其兼容。我很高兴，因为该程序总是在旧电脑上启动，除非尝试近一个小时。这简直是天壤之别。 但是，有一个问题。在更新之前，我已将几个打印设置添加到 Production Manager，这使我能够打印到我们位于不同城市的其他地点的 latex 打印机。更新后，我再也无法这样做了。当我尝试添加其他打印机/IP 地址等时，作业会显示在作业队列中，似乎被撕毁，然后一旦进入打印队列，就会保持在 0%。我可以 ping 打印机，并且可以在互联网上看到界面页面（尽管我无法在此页面添加作业）。我们的 IT 人员无法弄清楚，而 SAI 只是想向我们推销新软件。  这是公司为了向您推销更多产品而减少功能的情况，还是我们忽略了什么？ 是否有需要允许的权限在软件更新时可能被“关闭”了？ ​ 欢迎任何帮助。 谢谢。    提交人    /u/endorrawitch   [link] [评论]]]></description>
+      <description><![CDATA[我使用 SAI Production Manager 打印到 HP Latex 360。直到上周，我还不得不使用一台运行 Windows 7 的旧电脑。上周我终于得到了一台运行 Windows 10 的更新计算机，但我们的 IT 经理必须联系 SAI 技术支持来更新软件，以使其兼容。我很高兴，因为如果不尝试近一个小时，该程序总是无法在旧计算机上启动。这是白天和黑夜。 但是，有一个问题。在更新之前，我在 Production Manager 中添加了几个打印设置，使我能够打印到不同城市其他地点的乳胶打印机。更新后我不能再这样做了。当我尝试添加其他打印机/IP 地址等时，作业出现在作业队列中，似乎在撕裂，然后一旦进入打印队列就保持为 0%。我可以 ping 通打印机，并且可以在互联网上看到接口页面（尽管我无法在此页面上添加作业）。我们的 IT 人员无法弄清楚这一点，而 SAI 只是想向我们出售新软件。  这是一家公司为了向您销售更多产品而减少功能的案例，还是我们忽略了某些事情？是否有需要允许的权限可能在软件更新时被“关闭”？ ​ 欢迎任何帮助。谢谢。   由   提交 /u/endorrawitch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg8p9s/remote_printing_with_sai_production_manager_flexi/</guid>
       <pubDate>Mon, 29 Apr 2024 19:57:45 GMT</pubDate>
     </item>
     <item>
       <title>托管连接服务如何提高软件性能？</title>
       <link>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</link>
-      <description><![CDATA[​ ​ 我在一家专门从事数字化业务的公司工作内容创建和分发，因此我们非常依赖我们的软件系统来跨不同平台和不同客户端快速管理和分发大文件。但随着我们的客户群不断增长（我希望它能够持续增长），我们注意到我们的网络设置确实难以跟上，尤其是在流量高峰期。那么...我们如何正确解决此问题？ ​ 我已阅读有关托管连接服务以及它们如何提高我们的性能和可靠性的信息。软件应用程序，这就是为什么这是标题中的主要问题。我们的想法是，通过使用托管服务，我们可以获得更一致的互联网速度，这应该有助于满足大量数据和高用户需求。但它到底是如何运作的，投资会是什么样子，以及我错过了什么？因为我发现的定义听起来好得令人难以置信。 ​ 此外，在我们考虑使用这些服务之前，我需要更多地了解它们的功能和限制。  ​ 我希望从你们那里得到一些好的建议，特别是如果这里有人在类似的环境中工作的话。非常感谢！   由   提交/u/Sparrowhaw3  [链接] [评论]]]></description>
+      <description><![CDATA[​ ​ 我在一家专门从事数字内容创作和分发的公司工作，因此我们非常依赖我们的软件系统来管理大型文件，并在不同平台和不同客户之间快速分发。但随着我们的客户群不断增长（我希望它能继续增长），我们注意到我们的网络设置确实难以跟上，尤其是在高峰流量时段。那么...我们如何正确解决这个问题？ ​ 我读过有关托管连接服务以及它们如何提高我们软件应用程序的性能和可靠性的文章，这就是为什么这是标题中的主要问题。这个想法是，通过使用托管服务，我们可以获得更稳定的互联网速度，这应该有助于处理大量数据和高用户需求。但它到底是如何运作的，投资会是什么样子，我错过了什么？因为我发现的定义听起来好得令人难以置信。 ​ 此外，在我们考虑使用这些服务之前，我需要更多地了解它们的功能和限制。 ​ 我希望从你们那里得到一些好的建议，特别是如果这里有人在类似的环境中工作。非常感谢！    提交人    /u/Sparrowhaw3   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg6a1p/how_do_managed_connectivity_services_work_for/</guid>
       <pubDate>Mon, 29 Apr 2024 18:21:00 GMT</pubDate>
     </item>
     <item>
       <title>使用 ipad 收集数据的软件建议？请参阅正文以获取更多信息。</title>
       <link>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</link>
-      <description><![CDATA[嗨。我最近换了工作，需要在外出完成实地工作时在 iPad 上创建自己的文档来收集数据。之前，我有一个可填写的 PDF 文档，我相信它最初是在 Excel 中创建的，然后转换为 PDF 以在 PDF Expert 应用程序中编辑。我经常需要使用的编辑工具是自由输入文本字段、添加带有文本的便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来就像是将一张实际的方格纸扫描叠加到 Excel 工作表的几页上。我之前的公司没有人记得最初是谁制作的表格或如何制作的，我们也不确定原始 Excel 版本在哪里。 我的问题是：   使用 Excel 创建文档然后将其转换为可填写的 PDF 是创建此类文档的最佳方法吗？  如果不是，请建议其他方法。     提交人    /u/LiquidAmbar247   [link] [评论]]]></description>
+      <description><![CDATA[嗨。我最近换了工作，需要在外出完成现场工作时在 iPad 上创建自己的文档来收集数据。以前，我有一个可填写的 PDF 文档，我认为该文档最初是在 Excel 中创建的，然后转换为 PDF 以便在 PDF Expert 应用程序中进行编辑。我经常需要使用的编辑工具是在文本字段中自由输入、添加文本便签、使用下拉菜单填充预定字段、单击复选框以及使用绘图工具在方格纸上绘图 - 看起来像这是一张实际的方格纸扫描件，叠加在几页 Excel 工作表上。我之前公司的任何人都不记得最初是谁制作了该表格或如何制作的，而且我们不确定原始 Excel 版本在哪里。 我的问题是：   正在使用Excel 创建文档，然后将其转换为可填写的 PDF，这是创建此类文档的最佳方法吗？ 如果不是，请建议其他方法。    由   提交/u/LiquidAmbar247   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg5b4q/software_advice_for_data_collecting_with_ipad_see/</guid>
       <pubDate>Mon, 29 Apr 2024 17:43:08 GMT</pubDate>
     </item>
@@ -90,25 +97,18 @@
       <pubDate>Mon, 29 Apr 2024 15:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>如何从视频中提取所有帧并在 Twitter 上发布</title>
+      <title>如何提取视频中的所有帧以发布到 Twitter</title>
       <link>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</link>
       <description><![CDATA[我不知道你们中是否有人见过这样的 Twitter 帐户：“每一帧都按顺序来自 ______”。 （最好的例子是 Breaking_frames）——但是我和我的朋友想为我们最喜​​欢的节目做这件事，但我们不确定最重要的是什么有效的方法是。 我看到人们引用了 Breaking Frames 的创建者和他的代码，但我没有能够找到它。我不确定他们所指的代码是否只是关于如何对机器人进行编程以发送推文，或者机器人是否也在提取帧？我对编码真的知之甚少，所以如果我说得不清楚，我深表歉意。 我知道无论如何这是一次衷心的努力，我完全同意。我只是想找出执行此类操作的最佳方法，而无需手动截取每一帧。我感谢任何和所有的帮助！感谢您抽出时间   由   提交 /u/Nicoleiosis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cg07bb/how_to_extract_all_frames_from_a_video_to_post_on/</guid>
       <pubDate>Mon, 29 Apr 2024 14:15:50 GMT</pubDate>
     </item>
     <item>
-      <title>我无法在文件资源管理器中打开任何文件</title>
+      <title>我无法在文件资源管理器上打开任何文件</title>
       <link>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</link>
       <description><![CDATA[沙漏符号出现在鼠标图标旁边，但从未加载。一旦播放视频文件的电影和电视应用程序弹出一秒钟，然后就消失了。   由   提交/u/EarthwormJim_17   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cfzp8f/i_cant_open_any_files_on_file_explorer/</guid>
       <pubDate>Mon, 29 Apr 2024 13:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是想问一下 APK 网站</title>
-      <link>https://www.reddit.com/r/software/comments/1cfza0b/just_want_to_ask_about_an_apk_site/</link>
-      <description><![CDATA[无法在 Google Play 上下载游戏，请在 APK 网站上查看。它叫softontop，下载APK安全吗？   由   提交 /u/Yeetdatnoodle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cfza0b/just_want_to_ask_about_an_apk_site/</guid>
-      <pubDate>Mon, 29 Apr 2024 13:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
