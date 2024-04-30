@@ -4,7 +4,16 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:12:53 GMT</lastBuildDate>
+    <item>
+      <title>在真空中工作很艰难。请批评我的网站！</title>
+      <link>https://feed.indiehackers.world/post/37e8083f33</link>
+      <description><![CDATA[该网站是 nemomakes.com。这是我的设计机构，我试图了解我们的服务和定价对用户来说是否足够清晰。请回答下面的民意调查。如果没有合适的答案，请在评论中添加您的回复。
+我为参与投票的任何人提供 10% 的设计服务折扣。
+Discord 独立黑客聊天广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/37e8083f33</guid>
+      <pubDate>Tue, 30 Apr 2024 15:54:28 GMT</pubDate>
+    </item>
     <item>
       <title>您是否使用像 Bard 这样的聊天机器人进行搜索？</title>
       <link>https://feed.indiehackers.world/post/682f2e2796</link>
@@ -95,10 +104,10 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Fri, 19 Apr 2024 11:49:13 GMT</pubDate>
     </item>
     <item>
-      <title>优惠：为厨师准备的工作委员会</title>
+      <title>优惠：厨师现成的招聘信息板</title>
       <link>https://feed.indiehackers.world/post/8b4a7408f4</link>
-      <description><![CDATA[嗨，黑客们，我为 souschefjobs.com 构建了一个简单的职位公告板设计。这是一个很好的机会
-Discord Indiehackers Chat广告这里]]></description>
+      <description><![CDATA[嗨，黑客们，我为 souschefjobs.com 构建了一个简单的工作板设计。这是一个很好的机会
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/8b4a7408f4</guid>
       <pubDate>Fri, 19 Apr 2024 11:47:06 GMT</pubDate>
     </item>
@@ -112,16 +121,16 @@ Discord 独立黑客聊天广告这里]]></description>
       <pubDate>Thu, 18 Apr 2024 20:01:48 GMT</pubDate>
     </item>
     <item>
-      <title>使用身份验证即服务，还是自行构建？</title>
+      <title>使用身份验证即服务，还是自己构建？</title>
       <link>https://feed.indiehackers.world/post/ca51cd5d30</link>
       <description><![CDATA[然而，对于我想要实现的目标来说，它们似乎都太过强大，只是使用电子邮件和密码进行简单的用户身份验证。我不需要授权、用户角色、多重身份验证、单点登录等。我也不期望有大量的注册用户。
-💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这种特殊服务？否则，您为什么决定自己编写代码？
+💡 你们中是否有人通过使用身份验证即服务来外包他们的用户管理？如果是这样，为什么要提供这项特定服务？否则，您为什么决定自己编写代码？
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/ca51cd5d30</guid>
       <pubDate>Mon, 15 Apr 2024 17:29:31 GMT</pubDate>
     </item>
     <item>
-      <title>有医疗快递员职位的招聘信息吗？</title>
+      <title>医疗快递工作的工作委员会？</title>
       <link>https://feed.indiehackers.world/post/9a0dbdcdbd</link>
       <description><![CDATA[早在 2023 年，我就通过 webdeveloperjobs.io 开始了我的求职委员会之旅。这
 https://www.indiehackers.com/post/not- so-revolutionary-job-board-for-web-developers-ddbeb643d2
@@ -129,16 +138,6 @@ https://www.indiehackers.com/post/not- so-revolutionary-job-board-for-web-develo
 Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9a0dbdcdbd</guid>
       <pubDate>Fri, 12 Apr 2024 17:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个全自动直销网站</title>
-      <link>https://feed.indiehackers.world/post/9a3230c9f8</link>
-      <description><![CDATA[大家好，
-我是 Stephen，拥有全栈 Web 开发背景。
-我只是想分享 Projek，一个由 t3 堆栈 + cjdropshipping API。
-Discord 独立黑客聊天广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/9a3230c9f8</guid>
-      <pubDate>Fri, 12 Apr 2024 05:47:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
