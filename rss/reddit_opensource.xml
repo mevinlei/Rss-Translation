@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 06:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:10:32 GMT</lastBuildDate>
+    <item>
+      <title>iOS 待办事项应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</link>
+      <description><![CDATA[有人对可以离线工作并在 iPhone 上工作的开源 ToDo 应用程序有任何建议吗？我尝试过 Joplin 和 Logseq，但我很挣扎，因为它不直观，尤其是对于 Markdown 等新手来说。我很少使用笔记本电脑，因此核心功能需要在我的 iPhone 上运行。谢谢！   由   提交/u/raynethedark  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chgsez/ios_todo_app/</guid>
+      <pubDate>Wed, 01 May 2024 08:14:05 GMT</pubDate>
+    </item>
     <item>
       <title>Android Mi Calc开源替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</link>
       <description><![CDATA[https://imgur.com/a/Z1ig0Xz 我一直在寻找 Mi Calc 的开源替代品，我正在寻找的是在输入计算时换行的能力。 并且请不要建议搜索应用程序在 f-droid 或类似商店中，我已经记不清我在 f-droid 和其他存储库上检查过多少个 calc 应用程序，而且到目前为止，我还没有找到能够复制该行为的应用程序。 提前致谢。   由   提交 /u/ZarTham   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1che8u9/android_mi_calc_open_source_alternative/</guid>
       <pubDate>Wed, 01 May 2024 05:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>BlueSeer 软件 6.8 版发布，具有新的车间作业扫描功能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</link>
-      <description><![CDATA[BlueSeer 6.8 版本最近已发布。它包括许多错误修复以及操作员作业扫描服务订单形式的新功能。这一新功能可以更好地了解车间运营活动，并更真实、更准确地捕获实时劳动力成本。此处提供了演示新功能的视频教程。 https://www.youtube.com/watch?v=oWwQOPz5vCw &lt; !-- SC_ON --&gt;  由   提交/u/freetechtools  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ch2xdc/blueseer_software_version_68_released_with_new/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:30:12 GMT</pubDate>
     </item>
     <item>
       <title>Refact.ai——开源代码助手——引入项目意识！</title>
@@ -57,7 +57,7 @@
     <item>
       <title>如何从现有的开源项目中构建一个单独的新项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我正在考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
+      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
       <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>寻找免费的应用程序来转录音频文件</title>
       <link>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</link>
-      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我已经尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一个可以免费转录音频文件的可靠应用程序。我尝试了一些选项，但它们要么对可以免费处理的音频长度有限制，要么准确性有很多不足之处。我希望找到可以处理较长音频文件而不会遇到太多麻烦的东西。 有人对特别擅长处理各种口音和清晰录音的免费转录软件或服务有建议吗？如果它用户友好并且不需要太多技术知识，那就加分了！ 提前感谢您的帮助！  &amp; #32；由   提交 /u/Still-Bar-6004   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cg1njf/looking_for_a_free_app_to_transcribe_audio_files/</guid>
       <pubDate>Mon, 29 Apr 2024 15:15:32 GMT</pubDate>
     </item>
