@@ -4,9 +4,23 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 18:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:08:59 GMT</lastBuildDate>
     <item>
-      <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
+      <title>关于 Guix 的发泄</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
+      <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话如此专注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile “一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。  Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。   由   提交 /u/flaming0sis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</guid>
+      <pubDate>Wed, 01 May 2024 19:43:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>支持开源代码的两个（新的？）论点</title>
+      <link>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</link>
+      <description><![CDATA[ 在商业环境之外开发的代码可以在较小的时间压力下创建，并且可能源自“神圣灵感”。或“尤里卡时刻”。这样的代码更有可能比在时间压力下在单调的小隔间中创建的代码具有更高的质量，该代码只需要“足够好”即可。 （“它编译了，发布它！”）。商业代码通常更具有经济意义，购买两倍速度的计算机，而不是将代码优化为两倍速度，而开源代码通常只关心没有严格时间限制的改进。  开源通常具有“竞争力”。因为它是公开的，所以更多的人，包括局外人和陌生人，可以贡献改进，以获得朋友和同行的恶名/善意。示例：想象一下，参加 Linux 内核开发工作，并能够说您已经在内核中拥有代码。  只是我的两个字节。   由   提交 /u/Joonicks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1chu2l9/two_new_arguments_in_favor_of_open_source_code/</guid>
+      <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Websurfx - 用 rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
       <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 01 May 2024 17:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>Twitter(X)开源使用</title>
+      <title>Twitter(X) 开源使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</link>
       <description><![CDATA[   大家好， 我正在构建一个类似于 Twitter (X) 的平台，但是针对非常不同的目标受众。 我可以在我的项目中使用 Twitter 的源代码吗？ 还有其他我可以使用的开源项目吗？ 谢谢   由   提交 /u/autopilotwing   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>密码管理器与 Android、Linux 和 Windows 上的客户端相互同步</title>
+      <title>密码管理器可在 Android、Linux 和 Windows 上与客户端相互同步</title>
       <link>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</link>
       <description><![CDATA[Android、Linux 和 Linux 上是否有带有客户端的密码管理器彼此同步的 Windows？ 我不需要一个可以自动集成并提交不同应用程序密码的密码管理器。我只需要 1 个开源的，可以保存凭证并在 android、Linux（基于 debian）和 Android、Linux（基于 debian）之间同步。通过互联网或蓝牙的 Windows。   由   提交/u/GL4389  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[https://github.com/Never-Over /tach tach 是一个轻量级 Python 工具，可在 Python 项目中强制执行边界和依赖关系。受 nx 的启发，tach 可帮助您维护解耦且模块化的 Python 代码库。该工具的早期版本称为 modguard，我们在此处分享了该工具。 默认情况下，Python 允许您在任何地方导入和使用任何内容。随着时间的推移，这会导致本来应该分开的模块紧密耦合在一起，并且域边界被打破。我们在一家独角兽初创公司中亲身经历了这一点，该公司的工程团队暂停了一年多的开发，试图将软件包拆分为独立的服务。这次尝试最终失败了。 出现此问题的原因是：  添加到现有包比创建新包要容易得多&lt; /li&gt; 初级开发人员对现有架构的了解有限 外部压力导致走捷径并忽视最佳实践  我们为解决这个问题所做的努力总是功亏一篑。拼凑而成的解决方案将尝试从不同角度解决这个问题，例如开发人员教育、代码所有者、标准指南、重构等等。然而，这些都没有解决根本原因。 使用 tach，您可以：  声明您的包 ( package.yml) 定义包之间的依赖关系 (tach.yml) &lt; p&gt;强制执行这些依赖项（tach 检查）  您还可以为每个包强制执行严格的接口。这意味着只有 __init__.py 中直接列出的导入才能被其他包导入。 tach 是：  完全开源 能够逐步采用（tach init 和 tach add）  无需运行时占用空间即可实现 可与现有工具互操作  我们希望您尝试一下！我们希望收到任何反馈。 GitHub   由   提交/u/the1024  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgt3t2/tach_a_python_tool_to_enforce_modular_design/</guid>
       <pubDate>Tue, 30 Apr 2024 13:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>上周的 FOSS：Gentoo 禁止 AI 代码、GNOME 资金困境、Ubuntu 24.04、Fedora 40 和其他新闻</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</link>
-      <description><![CDATA[       由   提交 /u/antsaregay   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg4sue/last_week_in_foss_gentoo_bans_ai_code_gnome/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从现有的开源项目中构建一个单独的新项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</link>
-      <description><![CDATA[我发现了一个与我的需求相关的优秀开源项目，我为它做出了一些贡献，但我开始意识到我想创建一个与原来的项目相似但有点不同。这就是为什么我考虑使用它作为我的全新项目的基础，该项目将偏离原来的项目。那么我该怎么做呢？我的意思是，我是否分叉它并开始进行自己的修改，从不将 PR 发送到原始项目（因为我的项目会有所不同），或者这样做的良好实践/方法是什么？我也可能将其扩展到更大的东西。请指导我！   由   提交/u/deadclown_09   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cg4ghr/how_to_build_a_separate_new_project_from_an/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:08:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
