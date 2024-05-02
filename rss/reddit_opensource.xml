@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 01 May 2024 21:08:59 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 02 May 2024 00:36:54 GMT</lastBuildDate>
     <item>
       <title>关于 Guix 的发泄</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
@@ -20,14 +20,14 @@
       <pubDate>Wed, 01 May 2024 18:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>Websurfx - 用 rust 编写的元搜索引擎（v1.15.0 版本）</title>
+      <title>Websurfx - 用 Rust 编写的元搜索引擎（v1.15.0 版本）</title>
       <link>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</link>
       <description><![CDATA[大家好！！ Websurfx 是 searx&lt; 的开源替代品/code&gt; 它提供了一个外观现代、速度快、尊重隐私、安全的元搜索引擎。 通过帖子的媒介，我想分享 v1.15.0 websurfx 项目的版本。 GitHub 版本：https:// github.com/neon-mmd/websurfx/releases/tag/v1.15.0 深入帖子：https://programming.dev/post/13475052   由   提交 /u/RevolutionaryAir1922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chszin/websurfx_a_meta_search_engine_written_in_rust/</guid>
       <pubDate>Wed, 01 May 2024 18:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>请求人们在咨询/技术销售中使用的 CRM 推荐</title>
+      <title>请求人们在咨询/技术销售中使用的 CRM 的建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</link>
       <description><![CDATA[嗨， 我正在寻找安装本地开源 CRM，它提供以下功能并用作流行 CRM 的替代品： 联系人管理 互动跟踪 潜在客户管理 团队管理 销售渠道管理 任务和活动管理 报告和分析 集成功能 定制和可扩展性 🙏  &lt; /div&gt;  由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chsxfi/requesting_recommendations_for_crm_that_people/</guid>
@@ -50,19 +50,19 @@
     <item>
       <title>Twitter(X) 开源使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</link>
-      <description><![CDATA[   大家好， 我正在构建一个类似于 Twitter (X) 的平台，但是针对非常不同的目标受众。 我可以在我的项目中使用 Twitter 的源代码吗？ 还有其他我可以使用的开源项目吗？ 谢谢   由   提交 /u/autopilotwing   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      大家好， 我正在构建一个类似于 Twitter (X) 的平台，但用途非常不同目标受众。 我可以将 Twitter 的源代码用于我的项目吗？ 还有其他我可以使用开源项目吗？ 谢谢     提交人    /u/autopilotwing   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chna9m/twitterx_opensource_use/</guid>
       <pubDate>Wed, 01 May 2024 14:16:22 GMT</pubDate>
     </item>
     <item>
       <title>寻找具有远程 SSH 的 MS Visual Studio Code 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</link>
-      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（符合 POSIX 标准），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
+      <description><![CDATA[基本上是标题。 MS Visual Studio Code 非常出色，它的远程 SSH 功能允许您登录服务器，但我们有一个专有服务器（兼容 POSIX），我们无法将其与 VS Code 一起使用，因为远程 SSH 功能不起作用，并且真的很喜欢这样的东西。感谢您的想法。   由   提交 /u/the4amfriend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chiskd/looking_for_an_alternative_to_ms_visual_studio/</guid>
       <pubDate>Wed, 01 May 2024 10:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>密码管理器可在 Android、Linux 和 Windows 上与客户端相互同步</title>
+      <title>密码管理器与 Android、Linux 和 Windows 上的客户端相互同步</title>
       <link>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</link>
       <description><![CDATA[Android、Linux 和 Linux 上是否有带有客户端的密码管理器彼此同步的 Windows？ 我不需要一个可以自动集成并提交不同应用程序密码的密码管理器。我只需要 1 个开源的，可以保存凭证并在 android、Linux（基于 debian）和 Android、Linux（基于 debian）之间同步。通过互联网或蓝牙的 Windows。   由   提交/u/GL4389  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chhslv/password_manager_with_clients_on_android_linux/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 30 Apr 2024 19:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>OpenSeneca - 用于协调世界各地所有法学硕士（并节省资金）的开源库。</title>
+      <title>OpenSeneca - 开源库，用于协调世界各地所有法学硕士（并省钱）。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</link>
       <description><![CDATA[大家好！ 我非常高兴地宣布，我们刚刚发布了 OpenSeneca，我们正在寻找合作者来继续这一使命。我们正在创建一个开源 Python 库来协调来自不同供应商的不同 LLM并通过一个简单的界面访问它们。它始于一个非常简单的前提。让我们想象一下，我们正在开发基于人工智能的软件，例如聊天机器人。如果用户输入“hello”，即使使用更小、更小的 llama3-8B 也能得到良好的响应，为什么还要使用 gpt-4？当然是更便宜的模型？现在让我们尝试用数学、哲学、心理学等的即时意图来扩展这个想法。 通过高效、智能地选择最佳模型，您可以节省相当多的费用API 调用中的资金。 这是 github 存储库：https://github.com/OpenSenecaAI/openseneca&lt; br /&gt; 我们愿意接受反馈、未来的想法和问题:)   由   提交 /u/ottaviofogliata   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cgwyav/openseneca_the_opensource_library_to_orchestrate/</guid>
