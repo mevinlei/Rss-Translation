@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Thu, 02 May 2024 06:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:12:56 GMT</lastBuildDate>
     <item>
-      <title>Take-Two 互动软件公司</title>
-      <link>https://t.me/hn_summary/87500</link>
-      <description><![CDATA[Take-Two Interactive 关闭了坎巴拉太空计划工作室拦截游戏
-Take-Two Interactive Software Inc. 通过关闭两家子公司，在游戏行业掀起波澜，其中包括总部位于伦敦的 Roll7，动作游戏 Rollerdrome 的开发商。关闭工作室并向员工提供遣散协议的决定是公司各部门大规模裁员的一部分。此举引发了争议，并引发了人们对 Take-Two 旗下其他工作室未来的质疑。请继续关注有关游戏世界这一令人惊讶的发展的更多更新。]]></description>
-      <guid>https://t.me/hn_summary/87500</guid>
-      <pubDate>Thu, 02 May 2024 06:11:33 GMT</pubDate>
+      <title>[媒体] 1945 年，数学家乔治·波利亚 (George Pólya) 的著作《如何解决问题》彻底改变了数学教育 [...]</title>
+      <link>https://t.me/hn_summary/87533</link>
+      <description><![CDATA[如何解决它（使用光线投射）
+1945 年，数学家乔治·波利亚 (George Pólya) 的著作《如何解决问题》彻底改变了数学教育和计算机科学。这篇文章探讨了如何使用 Pólya 的问题解决方法在 Golang 中渲染 3D 对象。通过提出“数据是什么？”等关键问题。和“未知是什么？”，我们使用 Möller-Trumbore 交叉算法制定计划。该程序为每个像素投射光线，根据与三角形的交点更新颜色。测试和重构至关重要，代码可以成为更先进的光线追踪算法的垫脚石。查看 GitHub 中的 raycaster 代码并探索更多计算机图形资源。]]></description>
+      <guid>https://t.me/hn_summary/87533</guid>
+      <pubDate>Thu, 02 May 2024 12:12:56 GMT</pubDate>
     </item>
     <item>
-      <title>在 amznbargains.com 上查看我的最新项目！</title>
-      <link>https://t.me/hn_summary/87499</link>
-      <description><![CDATA[显示 HN：我构建了一个 SvelteKit -fe 和 -be scraper收集Amzn仓库优惠
-在 amznbargains.com 上查看我的最新项目！我创建了一个 SvelteKit 前端和后端抓取工具，将所有最好的亚马逊仓库交易收集到一个地方。该工具可让您轻松找到打折商品并节省购买费用。另外，作为亚马逊合作伙伴，我们可能会从符合资格的购买中赚取佣金，但请放心，这不会影响我们为您选择最优惠的价格。不要错过这些超值优惠！]]></description>
-      <guid>https://t.me/hn_summary/87499</guid>
-      <pubDate>Thu, 02 May 2024 05:00:10 GMT</pubDate>
+      <title>[媒体] Optery 是一家远程优先公司，正在寻找一位具有专业知识的工程技术主管 [...]</title>
+      <link>https://t.me/hn_summary/87532</link>
+      <description><![CDATA[Optery (YC W22) – 具有 Django 和 Python 经验的工程技术主管（远程）
+Optery 是一家远程优先公司，正在寻找一位精通 Django 和 Python 的工程技术主管，以推动消费者数据安全和隐私产品的开发。该职位涉及技术领导、系统设计、安全性和合规性、性能优化以及使用尖端技术进行创新。理想的候选人将拥有 10 年以上的经验、强大的沟通技巧和对网络安全的热情。Optery 提供有竞争力的薪酬、股权、带薪休假和家庭办公室津贴。虽然总部位于旧金山湾区，但该职位完全是远程的，优先考虑在美国工作时间工作。]]></description>
+      <guid>https://t.me/hn_summary/87532</guid>
+      <pubDate>Thu, 02 May 2024 12:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 ValuCents，这是一款革命性的网络应用程序，旨在帮助您在杂货上省钱。</title>
-      <link>https://t.me/hn_summary/87498</link>
-      <description><![CDATA[显示 HN：我构建了一个网络应用程序来帮助您省钱杂货
-隆重推出 ValuCents，这是一款革命性的网络应用程序，旨在帮助您在杂货上省钱。通过分析您的购物偏好和习惯，ValuCents 可以根据您的需求提供个性化的优惠建议，确保您不会错过对您来说最重要的优惠。通过 ValuCents 告别超支，开启更智能的购物体验。今天就开始在 valucents.com 存钱。]]></description>
-      <guid>https://t.me/hn_summary/87498</guid>
-      <pubDate>Thu, 02 May 2024 04:59:06 GMT</pubDate>
+      <title>[媒体] 波音供应商 Spirit AeroSystems 的前质量审核员 Joshua Dean 遭遇了悲剧 [...]</title>
+      <link>https://t.me/hn_summary/87531</link>
+      <description><![CDATA[另一位与波音有关的举报人已去世
+波音供应商 Spirit AeroSystems 的前质量审核员约书亚·迪恩 (Joshua Dean) 在突发严重感染后不幸去世。迪恩提出了安全担忧并指控波音公司存在不当行为，他是过去两个月内第二位去世的与波音公司有关的举报人。他的健康状况不断恶化，包括乙型流感、耐甲氧西林金黄色葡萄球菌、肺炎和中风，导致他的生命陷入了令人心碎的斗争。迪恩的家人和律师称赞他在安全问题上挺身而出的勇气，而精神航空系统公司则面临着财务困难和不确定的未来。迪恩去世之前，另一位举报人约翰·巴尼特 (John Barnett) 最近去世，引发了阴谋论并呼吁航空业保持透明度。]]></description>
+      <guid>https://t.me/hn_summary/87531</guid>
+      <pubDate>Thu, 02 May 2024 11:28:35 GMT</pubDate>
     </item>
     <item>
-      <title>立即使用 YC-GPT 彻底改变您获得创业之旅指导的方式。</title>
-      <link>https://t.me/hn_summary/87497</link>
-      <description><![CDATA[Show HN：我根据 YC 公开内容制作了一个启动顾问聊天机器人
-立即使用 YC-GPT 彻底改变您获得创业之旅指导的方式。该聊天机器人是一个游戏规则改变者，可根据 Y Combinator 的公共内容提供个性化建议和见解。告别无休止的研究，迎接触手可及的即时专家建议。通过 YC-GPT 加入无争议的创业指导革命。]]></description>
-      <guid>https://t.me/hn_summary/87497</guid>
-      <pubDate>Thu, 02 May 2024 04:58:01 GMT</pubDate>
+      <title>矿物紫云石以其鲜艳的蓝色而闻名，可以在埋藏的尸体上生长并迷惑[...]</title>
+      <link>https://t.me/hn_summary/87530</link>
+      <description><![CDATA[生长在埋葬尸体上的鲜艳蓝色矿物让考古学家感到困惑
+维维安石矿物以其鲜艳的蓝色而闻名，它可以在埋葬的尸体上生长，这让考古学家感到困惑。当磷酸盐从腐烂的遗骸中泄漏出来，并在缺氧的环境中与铁和水结合时，就会形成蓝铁矿，并逐渐变成更深的蓝色。这种现象已在骨骼、牙齿、皮肤，甚至脂肪细胞中发现。虽然紫铁矿可以提供有关死后状况的宝贵信息，但由于它会干扰聚合酶链式反应，因此也会阻碍 DNA 分析。尽管面临诸多挑战，紫铜矿仍帮助保存了人类遗骸并揭示了有关埋葬地点的见解，使其成为考古学领域中一种迷人而复杂的矿物。]]></description>
+      <guid>https://t.me/hn_summary/87530</guid>
+      <pubDate>Thu, 02 May 2024 11:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Firecrawl 是一项 API 服务，可以抓取任何网站并将其转换为干净的 Markdown，[...]</title>
-      <link>https://t.me/hn_summary/87496</link>
-      <description><![CDATA[显示 HN：利用法学硕士从网络中提取结构化数据
-Firecrawl 是一项 API 服务，可以抓取任何网站并将其转换为干净的 Markdown，从而提高语言模型 (LLM) 响应的准确性。它消除了对站点地图的需求，并提供爬行、抓取、搜索和智能数据提取等功能。该项目仍处于早期开发阶段，计划将自定义模块合并到单一存储库中。 Firecrawl 因其专注于清洁数据以改善 LLM 响应而脱颖而出，并提供易于使用的 API、Python 和 Node SDK，以及与 Langchain 和 LLama Index 的集成。提供自托管选项，欢迎贡献。]]></description>
-      <guid>https://t.me/hn_summary/87496</guid>
-      <pubDate>Thu, 02 May 2024 04:56:58 GMT</pubDate>
+      <title>[媒体]简街很大。</title>
+      <link>https://t.me/hn_summary/87529</link>
+      <description><![CDATA[简街很大。喜欢，大
+Jane Street 是一家秘密且利润丰厚的贸易公司，正在金融界掀起波澜。该公司在股票和固定收益交易领域拥有巨大的影响力，其收入令人震惊，甚至超过了高盛等行业巨头。尽管取得了成功，简街仍然偏执和谨慎，利用期权和风险管理策略来防范市场波动。该公司独特的薪酬方式和对协作的重视导致人员流动率极低，并拥有高技能的员工队伍。随着计划进一步扩展到各个市场，Jane Street 未来的成功尚不确定，但受到竞争对手的密切关注。]]></description>
+      <guid>https://t.me/hn_summary/87529</guid>
+      <pubDate>Thu, 02 May 2024 11:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>在 haggainuchi.com 上通过头部跟踪在浏览器中体验空间音频。</title>
-      <link>https://t.me/hn_summary/87495</link>
-      <description><![CDATA[在浏览器中显示 HN：带有头部跟踪的空间音频
-在 haggainuchi.com 上通过头部跟踪在浏览器中体验空间音频。该演示包含由位于您周围不同位置的虚拟铜管乐器演奏的巴赫合唱曲。通过利用耳间时间和强度差异以及耳廓过滤，可以根据您的头部运动来定位声音。神经网络对头部相关传递函数 (HRTF) 的效果进行插值，以模拟任何方向的耳廓效果。这项创新技术可让您直接从浏览器获得身临其境的音频体验。通过这个独特的演示探索空间音频的可能性。]]></description>
-      <guid>https://t.me/hn_summary/87495</guid>
-      <pubDate>Thu, 02 May 2024 04:55:54 GMT</pubDate>
+      <title>介绍我们在 DHIME 的最新创新——人工智能舞蹈教练！</title>
+      <link>https://t.me/hn_summary/87528</link>
+      <description><![CDATA[Show HN：我们打造了一位人工智能舞蹈教练&lt; br /&gt;
+介绍我们在 DHIME 的最新创新——人工智能舞蹈教练！告别固定的时间表和通勤去舞蹈班。借助我们的人工智能舞蹈教练，您可以随时随地在自己的私密空间内学习舞蹈。无需担心其他人看着您 - 我们的人工智能舞蹈教练可根据您的需求提供个性化的反馈和指导。体验 DHIME 在线学习舞蹈的便利。今天就访问我们的网站开始您的舞蹈之旅！]]></description>
+      <guid>https://t.me/hn_summary/87528</guid>
+      <pubDate>Thu, 02 May 2024 10:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Meeting Meter，这是一款由 Titus Blair 开发的免费 Chrome 插件，可让您 [...]</title>
-      <link>https://t.me/hn_summary/87494</link>
-      <description><![CDATA[显示 HN：Meeting Meter - 实时跟踪您的会议费用免费 Chrome 插件
-介绍 Meeting Meter，这是一款由 Titus Blair 开发的免费 Chrome 插件，可让您实时跟踪会议费用。只需输入参与者姓名和小时费率，即可计算会议过程中的总费用。Meeting Meter 的与众不同之处在于其对隐私和数据安全的承诺。所有信息都存储在您的设备本地，不会与第三方共享，并且可以随时轻松删除。使用 Meeting Meter 控制您的会议费用，并在不损害您的隐私的情况下随时了解您的费用。立即下载插件并开始跟踪您的会议费用。]]></description>
-      <guid>https://t.me/hn_summary/87494</guid>
-      <pubDate>Thu, 02 May 2024 04:54:50 GMT</pubDate>
+      <title>嘿黑客新闻社区！</title>
+      <link>https://t.me/hn_summary/87527</link>
+      <description><![CDATA[展示 HN：Demo.fun – 用于记录精美产品的浏览器扩展演示
+嘿黑客新闻社区！我很高兴介绍 www.demo.fun&quot; rel=&quot;nofollow&quot;&gt;https://www.demo.fun，一个浏览器扩展用于创建令人惊叹的基于网络的产品演示。作为一名充满热情的产品演示爱好者，演示。 fun 对我来说是一种热爱的劳动，与我的价格更高的竞争对手 Arcade 不同，demo.fun 提供具有实时播放功能的非线性编辑环境，允许无缝编辑和预览，同时这两个应用程序都会捕获点击。demo.fun 将它们视为动态事件的一部分，而不仅仅是幻灯片。另外，demo.fun 是自举的并且更具成本效益。我对未来的功能有宏伟的计划，并致力于完善产品演示。尝试一下 www.demo.fun&quot; rel=&quot;nofollow&quot;&gt;https://www.demo.fun 体验差异！]]></description>
+      <guid>https://t.me/hn_summary/87527</guid>
+      <pubDate>Thu, 02 May 2024 10:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]网络犯罪分子和民族国家间谍在受感染的路由器内共存，使用 [...]</title>
-      <link>https://t.me/hn_summary/87493</link>
-      <description><![CDATA[黑客为控制家庭和办公室路由器而展开混战无处不在
-网络犯罪分子和民族国家间谍在受感染的路由器内共存，利用它们获取经济利益和间谍活动。黑客共享对路由器的访问权限，一些组织为僵尸网络安装恶意软件，而另一些组织则利用漏洞进行网络间谍活动。联邦调查局发现了一个克里姆林宫支持的组织使用路由器作为僵尸网络，从而导致了临时的消毒行动。 Pawn Storm 是一个著名的黑客组织，利用僵尸网络进行代理登录和攻击，包括利用 Microsoft Exchange 中的零日漏洞。尽管 FBI 做出了努力，Pawn Storm 仍然可以访问受感染的资产，这凸显了全球路由器控制权争夺战正在进行。]]></description>
-      <guid>https://t.me/hn_summary/87493</guid>
-      <pubDate>Thu, 02 May 2024 04:53:46 GMT</pubDate>
+      <title>[媒体]年轻人比成年人聪明吗？</title>
+      <link>https://t.me/hn_summary/87526</link>
+      <description><![CDATA[年轻人比成年人聪明吗？研究表明差异正在缩小
+研究表明，年轻人和老年人之间的认知差异随着时间的推移而逐渐缩小，这挑战了年轻人天生更聪明的假设。教育、医疗保健和营养等因素有利于年轻一代，有助于他们的认知优势。令人惊讶的是，认知缺陷在成年早期就开始出现，早在 25 岁时就开始出现认知能力下降。最近的研究表明，智商的增长正在趋于平稳，老年人的认知能力有所改善。这对痴呆症研究具有影响，因为现代老年人的表现可能优于前几代人。最终，随着年龄的增长，我们的认知能力将比祖父母更强。]]></description>
+      <guid>https://t.me/hn_summary/87526</guid>
+      <pubDate>Thu, 02 May 2024 10:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>通过我们创新的平台 app.signalchain.xyz 发现最新流行的 memecoins。</title>
-      <link>https://t.me/hn_summary/87492</link>
-      <description><![CDATA[显示 HN：发现最热门的新铸造模因币 
-通过我们的创新平台探索最新流行的模因币 app.signalchain.xyz&lt; /a&gt;.只需使用您的电子邮件登录即可访问在市场上越来越受欢迎的新铸造模因币的精选列表。保持领先地位并利用加密货币世界的下一个大趋势。加入我们的投资者和交易者社区，他们总是在寻找下一个大事件。不要错过这个发现独特且令人兴奋的模因币的机会，它们可能会给您带来可观的回报。立即注册并开始探索！]]></description>
-      <guid>https://t.me/hn_summary/87492</guid>
-      <pubDate>Thu, 02 May 2024 04:52:42 GMT</pubDate>
+      <title>[媒体]以独特的方式衡量经济压力，“脱衣舞者指数”已成为 [...]</title>
+      <link>https://t.me/hn_summary/87525</link>
+      <description><![CDATA[The Stripper 指数：非正统的衰退衡量标准
+以独特的方式衡量经济压力，“脱衣舞者指数”已成为经济衰退的非官方指标。依赖现金小费的脱衣舞娘报告收入大幅下降，这预示着潜在的经济问题。其他奇怪的指标包括亚足联赢得超级碗的球队预测股市下跌、表明经济衰退的“口红效应”，甚至还有提供对房地产市场洞察的“毛茸茸的小狗指数”和“蚊子指数”。尽管经济学家持怀疑态度，但日常观察可以提供有关美国经济状况的宝贵线索。]]></description>
+      <guid>https://t.me/hn_summary/87525</guid>
+      <pubDate>Thu, 02 May 2024 10:14:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 推出“Gemini Web Chat”，这是一个 VSCode 扩展，可让您与 [...]</title>
-      <link>https://t.me/hn_summary/87491</link>
-      <description><![CDATA[显示 HN: VS Code ext 到 GeminiAI 聊天文本/图像-无需离开IDE即可上传
-隆重推出“Gemini Web Chat”，这是一个 VSCode 扩展，允许您在不离开 IDE 的情况下与 Gemini 进行交互。此扩展利用 Gemini Pro API 的强大功能来提供代码生成、反馈等。其独特之处在于能够利用 Gemini 的多模式功能上传图像和文本输入。慷慨的免费套餐限制使其可供所有用户使用。由于 Gemini API 密钥存储在本地，因此您的数据安全得到保证。从 VS Code Marketplace 安装扩展并直接从 IDE 开始与 Gemini 聊天。]]></description>
-      <guid>https://t.me/hn_summary/87491</guid>
-      <pubDate>Thu, 02 May 2024 04:51:39 GMT</pubDate>
+      <title>[媒体]1979年，吉米·卡特总统提名保罗·沃尔克接任美联储主席 [...]</title>
+      <link>https://t.me/hn_summary/87524</link>
+      <description><![CDATA[沃尔克宣布反通胀措施
+1979年，吉米·卡特总统提名保罗·沃尔克接任美联储主席，标志着美联储转向对抗高通胀。沃尔克把对抗通货膨胀作为首要任务，导致联邦基金利率大幅提高到20%，1980年通货膨胀率达到11.6%的峰值。尽管遭到批评和抗议，沃尔克的紧缩货币政策最终导致通货膨胀下降，通货膨胀率下降。严重衰退的结束。沃尔克领导下的美联储的大胆行动为持续增长和低通胀时期（即“大稳健”）奠定了基础。]]></description>
+      <guid>https://t.me/hn_summary/87524</guid>
+      <pubDate>Thu, 02 May 2024 10:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
