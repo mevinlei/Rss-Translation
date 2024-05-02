@@ -4,11 +4,39 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 02 May 2024 06:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:09:28 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 字幕</title>
+      <link>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</link>
+      <description><![CDATA[大家好， 是我太昏暗了，还是Premiere的字幕系统完全无法使用了？以前，我很高兴能够进行编辑，让它转录编辑和快乐的日子，我们出发。 现在，似乎没有转录序列的选项：我必须导出仅 vox 的视频，重新导入该视频并点击各种按钮，直到我可以强制它转录导出内容。 Adobe 是否破坏了它？ （我正在使用Mac 上的版本 24.3.0（Build 59）。）   由   提交 /u/Bee_Thirteen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ciasxq/premiere_pro_subtitles/</guid>
+      <pubDate>Thu, 02 May 2024 08:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bridge 适合文件预览和文件管理吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</link>
+      <description><![CDATA[这更适合“内容创建者”。对于编辑器类型，我并不想在专业的工作流程中实现这一点。我使用 Soundly 来处理音频，它非常棒。我不需要审查任何对话：这纯粹是为了构建视觉效果（我后来最常将其路由到后期效果中）。  我有无数的视频和静态图像/插图/动画资源。这是压倒性的，因为我不是文件管理专家，所以我也总是希望更改我的文件夹结构并重命名内容。问题是，这会以一百万种不同的方式扰乱一百万个不同的项目。自从我开始大量使用 Productions 以来，我只是垃圾邮件项目。因此，必须一直重新链接所有内容是一场噩梦（如果这是一个简单的更改，Premier 可以自动重新链接，那么没有问题，但如果我也移动文件等，它可能会变得一团糟：这不是一个经常出现的问题，我尝试对我所做的事情进行深思熟虑，所以我只是列出了主要关心的问题，因为我非常多动症，如果我开始“感觉”混乱，事情就会滚雪球）。  我喜欢 Bridge，也喜欢留在 Adob​​e 生态系统中的想法。我对云计算并不是非常热衷，但我希望如此，这只会让我在以后/如果我想再次开始一些更像是生意的事情时有更多的选择。我只是不知道我是否喜欢Bridge，当使用一个新程序时，很难分辨什么是自己知识的限制，什么是自己的限制 我将我的资产保存在外部T7上固态硬盘。我的主程序现在需要重新格式化，它只是有时会出现问题（例如，它无法在本机 Finder Mac OS 中维护标签分类）。但我想要   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</guid>
+      <pubDate>Thu, 02 May 2024 08:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 2024 播放灰色溶解覆盖错误？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</link>
+      <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，一些编辑器的全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎可以工作，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</guid>
+      <pubDate>Thu, 02 May 2024 06:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有运动技能共识的编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1ci8lgw/editor_with_motion_skills_consensus/</link>
+      <description><![CDATA[由于我目前正在经历被裁员的过程，并且不断地联系联系人、摸清就业市场（英国） ) &amp;更新简历、Reel Folio 等。  通过这个过程，我开始思考，所有这些角色都需要具有动作技能的编辑，根据我的经验，我觉得 60-70% 的时间里有问题的动作只是动画文本，另外 10-20% 是静止图像，其余只是过渡或“动态”图像的一些变化。帧运动。 当然，他们会很高兴地请您聘请一位成熟的 3D 动态图形艺术家，您知道他也会进行编辑。只是为了将功能放在选项卡上，但我注意到该技能集在某种程度上没有得到充分利用。  至少在我工作过的机构中，我很少看到客户被说服在最初并不希望加入的简报中添加高端动作作品。 &lt;然后，随着时间的推移，拥有这种技能的人会感到无聊，然后离开去从事自由职业，或者去某个真正专业的地方工作，并且有要求这种工作的客户。  只是我注意到的一个有趣的现象，想知道是否有人经历过类似的情况？   由   提交 /u/Cheetokeys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ci8lgw/editor_with_motion_skills_consensus/</guid>
+      <pubDate>Thu, 02 May 2024 06:19:21 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere Pro 数据隐私问题：我正在向客户提供源文件</title>
       <link>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</link>
-      <description><![CDATA[您好，我和大家一样，在 PC 上使用 Premiere Pro 处理多个项目。项目保存在不同硬盘上的文件中（内容和 Adob​​e Premiere 文件项目）。这是一个有点棘手的问题。 客户 1：他们想要源文件和所有媒体。这没问题，他们为传输支付了额外费用。 客户 2：项目包含敏感数据/内容。项目与所有相关数据一起保存在完全不同的硬盘上。 我的担心：如果我将整个客户 1 文件夹（所有数据）传输到云端仅供客户 1 访问，客户 1 是否能够以某种方式查看/访问任何客户 2 信息？元数据或文件名？ 我之所以紧张，是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 盘）。此外，当我从直接图标打开 Premiere 时，Premiere 会显示我处理过的项目的历史记录。每次打开其他 Premiere 项目之前，我都会确保关闭 Premiere。 总的来说，我只想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。    提交人    /u/netherlanddwarf   [link] [评论]]]></description>
+      <description><![CDATA[您好，我在 PC 上的 Premiere Pro 上处理多个项目（和大家一样）。项目保存在不同硬盘驱动器上的文件中（内容和 adobe Premiere 文件项目）。这是一个有点棘手的问题。  客户 1：他们想要源文件和所有媒体。这很好，他们支付了额外的传输费用。 客户端 2：项目包含敏感数据/内容。该项目与所有相关数据保存在完全不同的硬盘驱动器上。 我担心：如果我将整个客户端 1 文件夹（所有数据）传输到云端以供客户端 1 访问，客户端 1 是否能够以某种方式查看/有权访问任何客户端 2 信息？元数据或文件名？ 我紧张的原因是因为其他自动保存的文件夹/缓存等（全部保存到我的 C 驱动器）。另外，当我从直接图标打开 Premiere 时，Premiere 会显示我所从事的项目的历史记录。我总是确保每次打开其他 Premiere 项目之前关闭 Premiere。 总的来说，我只是想确保客户端 1 根本无法访问客户端 2 的数据。 感谢您的聆听。   由   提交 /u/netherlanddwarf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci8f8p/premiere_pro_data_privacy_question_im_giving_a/</guid>
       <pubDate>Thu, 02 May 2024 06:08:19 GMT</pubDate>
     </item>
@@ -29,21 +57,21 @@
     <item>
       <title>客户声称他可以在广播电视上“看到”3:2 下拉的隔行扫描</title>
       <link>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</link>
-      <description><![CDATA[20 年来，我一直在 23.98p 时间线中进行编辑，并以 23.98p 的速度从这些时间线中导出母版。然后，对于广播交付成果，我使用 23.98p 主控导出 29.97 (59.94i) 广播交付成果，使用真正的上场优先、隔行扫描 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我知道这基本上是自 20 世纪 50 年代以来所有 24fps 电影源转换为广播电视的方式（至少在北美）。  我现在有一位客​​户建议我使用 Apple Compressor 使用“最佳（运动补偿）”转换为广播交付成果。 “重定时质量”中的选项设置。显然，这将使用光流创建新的插值逐行帧，而不是仅使用 3:2 下拉非破坏性地将原始逐行帧分割成场。  他希望我这样做，因为他说当他查看广播交付成果时，他实际上可以看到隔行扫描。当我告诉他隔行扫描的交付成果仅适用于在支持隔行扫描播放的电视（而不是在逐行扫描计算机屏幕上）上观看/播放时，他反驳说，即使他看到自己的电视，他仍然可以注意到隔行扫描伪像。广播电视上的广告。 我在电视上看过以这种方式投放的所有广告广告，但从未注意到任何奇怪的地方。事实上，我之所以这么热衷于这样做，是因为我总是注意到，只需重复逐行帧或使用某种帧混合过程，某个点就会从 23.98 转换为 29.97。它像拇指酸痛一样突出。 但我愿意在这一点上犯错。我只是好奇我的客户是否疯了，或者我是那个需要现实检查的人？    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
+      <description><![CDATA[20 年来，我一直在 23.98p 时间轴上进行编辑，并以 23.98p 的速度从这些时间轴导出母版。然后，对于广播交付品，我使用 23.98p 母版导出 29.97 (59.94i) 广播交付品，使用真正的上场优先隔行 3:2 下拉（没有任何帧混合或插值）。 我一直这样做，因为我明白，自 1950 年代以来，所有 24fps 电影源基本上都是通过这种方式转换为广播电视（至少在北美是这样）。 现在，我的一个客户建议我使用 Apple Compressor 转换为广播交付品，并在“重定时质量”设置中使用“最佳（运动补偿）”选项。这显然会使用光流创建新的、插值的逐行帧，而不是仅使用 3:2 下拉将原始逐行帧非破坏性地拆分为场。  他希望我这样做，因为他说他在观看广播交付物时实际上可以看到隔行扫描。当我告诉他隔行交付物仅用于在支持隔行扫描播放的电视上观看/播放（而不是在逐行扫描计算机屏幕上）时，他反驳说，即使在广播电视上看到他的广告，他仍然可以注意到隔行扫描伪影。  我看过以这种方式在电视上播放的每一个商业广告，从未发现任何奇怪的东西。事实上，我之所以如此挑剔地这样做，是因为我总是注意到广告何时通过重复逐行帧或使用某种帧混合过程从 23.98 转换为 29.97。它显得格格不入。 但我愿意承认我错了。我只是好奇我的客户是不是疯了，或者我才是需要接受现实检验的人？    提交人    /u/doctorpebkac   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci486u/client_claims_that_he_can_see_the_interlacing/</guid>
       <pubDate>Thu, 02 May 2024 02:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>在 Premiere 中制作多机位时我的 AE 做错了什么？</title>
+      <title>在 Premiere 中制作多机位镜头时，我的 AE 做错了什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</link>
-      <description><![CDATA[我刚刚开始了一份新的工作，担任编辑，还有一位我以前从未合作过的助理编辑。我注意到所有的“多镜头”他说他制作的并不是真正的多镜头，但似乎所有角度都在时间轴上同步。因此，我无法在多机位视图中观看它，这使得编辑此类节目非常困难。 我不确定它们是如何像这样同步的，以及是否存在快速纠正它的方法，或者他是否必须一起制作新的多机位？    由   提交/u/One-Patient-3417   [链接] [评论]]]></description>
+      <description><![CDATA[我刚开始做剪辑师，和一位之前没合作过的助理剪辑师合作。我注意到他说他制作的所有“多机位”其实都不是多机位，但似乎是所有角度在时间线上同步。因此，我无法在多机位视图中观看，这使得在这种节目中剪辑非常困难。 我不确定它们是如何像这样同步的，是否有快速纠正方法，或者他是否必须一起制作新的多机位？    提交人    /u/One-Patient-3417   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chza3j/what_is_my_ae_doing_wrong_when_making_multicams/</guid>
       <pubDate>Wed, 01 May 2024 22:26:51 GMT</pubDate>
     </item>
     <item>
       <title>我应该终止与客户的合同吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1chy2xx/should_i_end_my_contract_with_my_client/</link>
-      <description><![CDATA[[我不知道为什么 Reddit 发布了三次这篇文章，我已经删除了额外的克隆帖子，所以如果您对以下任何内容发表评论这些，我邀请您在这里分享您的评论] 上个月，我开始与一位客户合作，他需要根据最近的人类历史和事件制作视频。 视频的风格非常基础，但使用了大量的表情包和巧妙的幽默，与千禧一代和后来几代观众产生了很好的共鸣。对于我正在制作的此类视频，我能给出的最接近的参考是一个名为 Sciencephile the AI 的 YouTube 频道。这不是我工作的频道，但我们的风格非常相似。 我从他们的配音艺术家那里收到了文本脚本和音频旁白，但仅此而已。该脚本很简单 - 只是音频的文本版本，没有其他说明或指示。 这一切都取决于我。上个月我制作了几个视频，我的客户对此非常满意。 我必须多次阅读脚本并听旁白并弄清楚如何翻译某些内容无趣的东西有趣但不分散注意力，信息丰富但不无聊。 我必须找出所有模因（或创建一些我自己的），所有各种图像/视频等，并找到一种方法让一切变得连贯且有趣。 但问题是，这一切都需要很多时间。最初我以为我只需要从互联网上获取一堆表情包并提交视频即可。 但最近的视频长达 1 个小时以上，要始终如一地完成所有这些工作非常棘手。  p&gt; 客户希望每周制作一个视频，但自从我和他一起制作第一个视频以来，我已经错过了每个截止日期几天甚至几周。 我一直认为我正在被懒惰，但有时在我开始在时间线上编辑所有任务之前查看我需要完成的所有不同任务是非常令人沮丧的。 我知道让人们发笑是一项极其艰巨的任务，我很幸运能够成为视频编辑和单口喜剧演员的结合体。客户也看到了我的这些品质，并认为我是完成这项工作的合适人选，但对我来说最大的障碍和失败是所需的时间和我造成的延误。 有时我会感到害怕，不知道还能告诉他什么。我已经错过了我们约定的所有最后期限，他很好地适应了，但这种工作方式不能长期持续，最终他会放弃我。他承认很难找到像我这样的人，但我不能长期利用这种优势。 我已经准确地告诉了他问题所在，我觉得我可能会不得不退出这个项目，只是因为我知道我永远不会在每周 1 个视频的截止日期之前完成，而且我将不断失去制作未来视频的动力。 我有什么选择？我很乐意继续制作这些视频，但我需要找出最有效的处理方式。我觉得这些视频有可能火爆，当它们爆发时我也想参与其中。但我真的需要帮助来了解如何做得更好。 有人可以帮助我提供一些提示/先前的经验或其他东西吗？ 抱歉，文字很长，我需要把它说出来并寻求帮助。   由   提交/u/x3noborg  [链接] [评论]]]></description>
+      <description><![CDATA[[我不知道 Reddit 为什么要三次发布此帖子，我删除了其他克隆帖子，所以如果您对其中任何帖子发表了评论，我邀请您在此处分享您的评论] 上个月，我开始与一位客户合作，他需要根据最近的人类历史和事件制作视频。 视频的风格非常简单，但使用了大量模因并巧妙地运用了幽默，引起了千禧一代和后代观众的共鸣。我能给出的与我正在制作的视频最接近的参考是一个名为 Sciencephile the AI 的 YouTube 频道。这不是我工作的频道，但我们的风格非常相似。 我从他们的配音演员那里收到了文本脚本和音频旁白，但仅此而已。脚本很简单 - 只是音频的文本版本，没有其他说明或方向。 一切都取决于我。上个月我已经制作了几个视频，我的客户非常满意。 我必须多次通读脚本，听取旁白，弄清楚如何将无趣的东西转化为有趣但不分散注意力、信息丰富但不无聊的东西。 我必须找出所有的模因（或创建一些我自己的模因）、各种图像/视频等，并想办法让它们连贯而有趣。 但问题是，这一切都要花费太多时间。起初我想我只需要从互联网上贴上一堆表情包然后提交视频即可。 但最近的视频都超过 1 小时，要始终如一地做到这一切极其棘手。 客户希望每周有 1 个视频，但自从我和他合作的第一个视频以来，我每天都会错过最后期限几天甚至几周。 我一直认为我很懒，但有时候，甚至在我开始在时间线上编辑所有内容之前，看看我需要做的所有各种任务就很令人沮丧。 我知道让人们发笑是一项极其艰巨的任务，我很幸运能够同时成为视频编辑者和脱口秀喜剧演员。客户也看到了我的这些品质，觉得我是做这项工作的合适人选，但对我来说最大的障碍和失败是花费的时间和我造成的延误。 我有时会抓狂，不知道还能告诉他什么。我错过了我们约定的所有截止日期，他很好心地通融了我，但这种工作方式不能长期持续下去，最终他会放弃我。他承认很难找到像我这样的人，但我不能长期利用这种优势。 我已经告诉他问题到底是什么，我觉得我可能不得不放弃这个项目，因为我知道我永远无法在每周 1 个视频的截止日期前完成，而且我会继续失去制作未来视频的动力。 我有什么选择？我很想继续制作这些视频，但我需要找出最有效的制作方法。我觉得这些视频有爆红的潜力，我想在它们爆红的时候在场。但我真的需要帮助来了解如何做得更好。 有人能帮我提供一些提示/先前的经验或其他什么吗？ 抱歉写了这么长一段文字，我需要发泄一下并寻求帮助。    提交人    /u/x3noborg   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chy2xx/should_i_end_my_contract_with_my_client/</guid>
       <pubDate>Wed, 01 May 2024 21:39:29 GMT</pubDate>
     </item>
@@ -71,44 +99,16 @@
     <item>
       <title>多伦多/洛杉矶/纽约是否有适合长期工作的邮局？</title>
       <link>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</link>
-      <description><![CDATA[我已经在商业领域剪辑了大约 5 年，收入来自一家后期制作公司的全职工作。签约一家公司对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想要保留的 - 但我希望进入长篇/故事片行业。我做了大量的研究，似乎找不到任何主要专注于长篇（严格来说是剪辑，而不是视觉特效/音频/等）的后期制作公司，我可以把目光投向这些公司。考虑到每个项目的范围，我一直认为剪辑故事片更像是一项“自由职业”游戏，而不是广告，但为了以防万一我错了，我想在这里说一下。我目前住在多伦多，但愿意搬到美国。甚至跳回助理编辑，如果这是让我涉足故事片领域所需要的。    由    /u/hipwithyoungsters  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我已经涉足商业领域大约 5 年了 - 通过在邮局从事全职工作获得收入。与一家公司签约对我来说很有效，因为它提供了稳定的收入和相对较低的风险，这就是我想保留的 - 但我希望跳入长篇/专题游戏。我已经做了相当多的研究，但似乎找不到任何我可以关注的主要专注于长篇（严格编辑，而不是视觉特效/音频/等）的后期制作公司。我一直认为切割功能更多的是“自由职业”。无论如何，考虑到每个项目的范围，游戏比广告更重要，但我想在这里运行它，以防万一我错了。我目前住在多伦多，但愿意搬到美国。甚至跳回到助理编辑，如果这就是我在功能上涉足的必要条件。    由   提交/u/hipwithyoungsters  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chqy4i/are_there_any_post_houses_in_torontolanyc_for/</guid>
       <pubDate>Wed, 01 May 2024 16:49:53 GMT</pubDate>
     </item>
     <item>
       <title>达芬奇节点问题</title>
       <link>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</link>
-      <description><![CDATA[嗨！我正在研究创建 3D 相机效果的 DaVinci Resolve 教程。当尝试应用“投影”时对文本和连接节点的影响，它们没有连接起来。这种情况不仅发生在这种效应上，而且也发生在其他效应上。有什么解决方案吗？   由   提交/u/Maureceo  [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我正在制作一个 DaVinci Resolve 教程，创建 3D 相机效果。当尝试将“阴影”效果应用于文本并连接节点时，它们不会链接起来。这不仅发生在这个效果上，也发生在其他效果上。有什么解决办法吗？    提交人    /u/Maureceo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1chpppw/davinci_nodes_problem/</guid>
       <pubDate>Wed, 01 May 2024 15:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Adob​​e Premiere 导出 LUT：导出什么、不导出什么？本以为 HSL 可能会延续下去，但事实并非如此。</title>
-      <link>https://www.reddit.com/r/editors/comments/1chpmqw/exporting_luts_from_adobe_premiere_what_is/</link>
-      <description><![CDATA[客户给我发了一个 LUT，然后说 LUT 有错误，想知道我是否可以修复肤色。因此，我使用了 HSL 滑块，他们希望保留该 LUT，但从 Premiere 导出 LUT 不会保留 HSL 调整。我猜这只是 LUT 的本质；它只是一个转换数组，所以我猜 HSL 的掩码不会被保留。似乎可以与基本校正一起使用。我还猜测曲线会被保留，但我想我会问而不是测试。   由   提交 /u/CyJackX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chpmqw/exporting_luts_from_adobe_premiere_what_is/</guid>
-      <pubDate>Wed, 01 May 2024 15:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了漫长的不人道的工作时间</title>
-      <link>https://www.reddit.com/r/editors/comments/1chnavk/so_sick_of_the_long_inhumane_hours/</link>
-      <description><![CDATA[标题说明了一切。我们生活在当今工人权利的时代，推动每周工作 4 天等，但出于某种原因，生产行业仍然依赖不人道的工时来满足任意期限，以实现某人的愿景。当最后期限迫在眉睫而我们却在原地踏步时，我总是被动地、专业地试图推迟，但到头来却从未坚持下来。我喜欢工作以外的生活——人际关系、购物、洗衣服、锻炼——但由于生产的鞭策，我无法实现任何这些事情。由于最后期限，我推迟了体检。 有什么替代方案？找一份朝九晚五的公司工作？    提交人    /u/AbbreviationsLife206   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chnavk/so_sick_of_the_long_inhumane_hours/</guid>
-      <pubDate>Wed, 01 May 2024 14:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>给你的建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1chh7e5/tips_for_dit/</link>
-      <description><![CDATA[我在一部短片中担任剪辑，但我的角色更侧重于数据管理、文件传输 现在我是再次要求做 dit 工作，但这一次不仅仅是我以前所做的，我应该为此期待或准备什么？截至目前，我们还没有与 dp 举行技术会议，而且录制日期也临近了，所以我对此感到害怕和焦虑   由   提交 /u/Due_Barracuda8746   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chh7e5/tips_for_dit/</guid>
-      <pubDate>Wed, 01 May 2024 08:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人的工作或机会让你在个人层面上感到奇怪？</title>
-      <link>https://www.reddit.com/r/editors/comments/1chfxw0/has_anyone_had_a_job_or_opportunity_that_weirded/</link>
-      <description><![CDATA[好吧，我应该先声明一下，我刚从大学毕业，刚刚开始在这个行业中摸爬滚打。我得到了一个为一部独立电影做调色的机会，但结果并不好。我的意思是，那是一个非常奇怪的情况。我从一个朋友的朋友那里得到了这份工作，他们之前的编辑离开了（他们只是说他离开了，并且不再和他们说话了），他们需要尽快完成这项工作。我想我可以提供帮助，介入并完成这项工作，同时也利用它作为建立联系的机会。我也会免费做这件事作为经验。 所以，我去了这个地址，结果发现它是一个公寓大楼，这敲响了一些警钟，但我没有管它。然后导演/编剧/主演见了我，把我带进了屋子，一切似乎都很顺利，直到他带我去他在大楼里的公寓看电影，并谈论我需要做什么。现在他没有带电脑给我看电影，所以我们只能在我的笔记本电脑上观看，而且这不是 mp4 粗剪，而是项目文件，里面有损坏的镜头，他希望我修复并进行混音。我看着这个时间线，一团糟，但我坚持了下来，因为我不想让这个我刚认识的人失望。当我们看电影时，我尽量表现得尽可能专业，但看电影很艰难。最后我记下了笔记，准备开始，但命运似乎另有安排。我修复了镜头，但花费的时间比我预期的要长，我想处理一下颜色，让这个人知道我能做什么。他的计划是使用 DaVinci 来做颜色，我没问题，但当我尝试正常的文件传输方式时，什么也没发生。DaVinci 只是像往常一样运行，好像我没有做我该做的事情，所以我试了一次又一次，还是没有结果。甚至没有错误代码，所以我无法找出问题所在。我尝试了所有我知道的方法，但都不起作用，所以现在他告诉我这个存储设备是他的主存储的备份，主存储已经坏了。我开始担心我的电脑也会发生这种情况，我告诉他，由于你的文件太乱，我想我做不到。长话短说，我只是告诉他我无能为力，并试图尽快离开那里。他一直跟我说话，好像我明天会回来继续工作，我试图说我不能，但他一直无视我，和我一起走到外面。我应该说我没有车，所以我坐地铁去那里，幸运的是我决定发短信给一个朋友来接我，因为我觉得这个家伙会跟着我回家。我吓坏了，上了车，当我回到家时，我打电话给那个人，坚定地说我无能为力，应该找别人。他终于同意了，从那以后我就没再和他说过话。  有没有人有过类似的经历？    提交人    /u/No_Reason828   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1chfxw0/has_anyone_had_a_job_or_opportunity_that_weirded/</guid>
-      <pubDate>Wed, 01 May 2024 07:14:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
