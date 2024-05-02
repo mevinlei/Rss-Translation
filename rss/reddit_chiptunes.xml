@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Thu, 02 May 2024 03:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:11:44 GMT</lastBuildDate>
+    <item>
+      <title>STR8 位中级紧急（翻拍）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1ci6vfr/str8_bit_mid_level_urgency_remake/</link>
+      <description><![CDATA[        提交人    /u/FiberSauce   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1ci6vfr/str8_bit_mid_level_urgency_remake/</guid>
+      <pubDate>Thu, 02 May 2024 04:35:27 GMT</pubDate>
+    </item>
     <item>
       <title>XTD 麻醉剂（14 分钟）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chzi5f/xtd_stupefacient_14_mins/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>在 Furnace Tracker 中混合和匹配声音芯片？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</link>
-      <description><![CDATA[我正在做一个向 Kirby 音乐和 Dreamland 系列致敬的项目。我希望能够将 gameboy 脉冲和波表通道与一些 snes 样本通道结合使用。通过浏览文档和基本的谷歌搜索，我没有找到答案，但想问一下，在我仔细阅读手册的每一页或联系支持人员之前，你们中是否有人知道如何做到这一点。我的猜测是，由于 Furnace 致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于 Kirby snes 游戏总是为音效保留 3 个通道，我只会使用 5 个通道，并且为了获得更清晰的界面，我想消除未使用的通道。有办法吗？   由    /u/knotalie  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个项目，向《星之卡比》音乐尤其是《梦境》系列致敬。我希望能够将 Gameboy 脉冲和波表通道与一些 snes 示例通道结合使用。通过浏览文档和基本的谷歌搜索，我还没有找到答案，但在我浏览手册的每一页或联系支持人员之前，我想问问你们是否知道如何做到这一点。我的猜测是，由于 Furnace 如此致力于模拟特定芯片的功能，因此所有通道都一起处理，这是不可能的，但现在是 2024 年，Furnace 本身的存在就是一个奇迹。后续问题：由于卡比snes游戏总是保留3个声道用于音效，我只会使用5个声道，并且为了更干净的界面，希望消除未使用的声道。有办法做到这一点吗？   由   提交/u/knotalie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chrtwk/mixing_and_matching_soundchips_in_furnace_tracker/</guid>
       <pubDate>Wed, 01 May 2024 17:25:26 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>GINKO ULTRA 的 Wavehalo 仪式</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</link>
-      <description><![CDATA[      作曲/演奏/录制：GINKO ULTRA    由   提交 /u/GINKO-ULTRA-3000   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      由 GINKO ULTRA 创作/表演/录制     由   提交  /u/GINKO-ULTRA-3000   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1choq4l/wavehalo_ritual_by_ginko_ultra/</guid>
       <pubDate>Wed, 01 May 2024 15:17:45 GMT</pubDate>
     </item>
     <item>
-      <title>[Atari 8 位] 围绕 St. Germain 的“So Fute”创作的芯片音乐</title>
+      <title>[Atari 8 位] 以 St. Germain 的《So Flute》为主题创作的芯片音乐</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</link>
       <description><![CDATA[       由   提交/u/makarybrauner  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chjlf2/atari_8bit_chiptune_created_around_so_flute_by_st/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Bit-Crushed Acid（NES/GB Chiptune 风格的 Acid Techno）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1chhqpk/bitcrushed_acid_acid_techno_in_nesgb_chiptune/</link>
-      <description><![CDATA[       由   提交/u/Walter_Powerbright  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/Walter_Powerbright 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1chhqpk/bitcrushed_acid_acid_techno_in_nesgb_chiptune/</guid>
       <pubDate>Wed, 01 May 2024 09:20:20 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>🎵 [NES/GB] 忍者龙剑传‘神奇龙’|重制+混音</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ch4i73/nesgb_ninja_gaiden_the_amazing_ryu_remasterremix/</link>
-      <description><![CDATA[    /u/giantassgoddamnsnake 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/giantassgoddamnsnake   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ch4i73/nesgb_ninja_gaiden_the_amazing_ryu_remasterremix/</guid>
       <pubDate>Tue, 30 Apr 2024 21:33:49 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>Cheri Cheri Lady 16 位 SNES 金属版（无控制台限制） werc85</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cgts5o/cheri_cheri_lady_16bit_snes_metal_version_no/</link>
-      <description><![CDATA[      享受！😁    由   提交  /u/we8bit   [链接] [评论] ]]></description>
+      <description><![CDATA[      尽情享受！ 😁   由   提交/u/we8bit  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cgts5o/cheri_cheri_lady_16bit_snes_metal_version_no/</guid>
       <pubDate>Tue, 30 Apr 2024 14:09:39 GMT</pubDate>
     </item>
     <item>
       <title>最好的chiptune/bitpop mac 插件？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</link>
-      <description><![CDATA[我知道这是一个初学者的问题，但我喜欢使用 Serum 和 Magical 8bit 插件    提交人    /u/Emergency_Order8279   [link] [comments]]]></description>
+      <description><![CDATA[我知道这是一个初学者问题，但我喜欢使用 Serum 和 Magical 8bit 插件 &lt;!-- SC_ON - -&gt;  由   提交 /u/Emergency_Order8279   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1cgq507/best_mac_plugins_for_chiptunebitpop/</guid>
       <pubDate>Tue, 30 Apr 2024 11:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯数据中的chiptune/breakcore/glitch补丁</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1cg5jb4/chiptunebreakcoreglitch_patch_in_pure_data/</link>
-      <description><![CDATA[   /u/4r7i0_  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1cg5jb4/chiptunebreakcoreglitch_patch_in_pure_data/</guid>
-      <pubDate>Mon, 29 Apr 2024 17:52:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
