@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 03 May 2024 12:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 15:10:04 GMT</lastBuildDate>
+    <item>
+      <title>deadetempovisions 用人工智能制作了很棒的视频，他是如何使用它的？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/</link>
+      <description><![CDATA[我对创建关于 arte 的哲学辩论不感兴趣，我只是想了解如何制作这样的视频： https://www.instagram.com/reel/C3gnBV6J5zP/?igsh=N3J6dHV1eWtxOWI0 创作者说他只是制作文本，然后 ia 制作视频，制作剪辑，然后将它们组合起来，没有任何后期效果，有评论说他可能使用 Pika、Firefly 或 Midjourney。  对不起，我的英语不是我的母语   由   提交 /u/Friendly-Culture1870    reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cjagf1/deadetempovisions_makes_awesome_videos_with_ai/</guid>
+      <pubDate>Fri, 03 May 2024 14:45:21 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么好的软件可以像Google Drive这样的云服务上传和下载？</title>
       <link>https://www.reddit.com/r/editors/comments/1cj4lt9/is_there_any_good_software_to_upload_and_download/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 03 May 2024 09:41:38 GMT</pubDate>
     </item>
     <item>
-      <title>Tube 音频库 sfx</title>
+      <title>电子管音频库 sfx</title>
       <link>https://www.reddit.com/r/editors/comments/1cj2sf9/tube_audio_library_sfx/</link>
       <description><![CDATA[大家好。我有几个关于 YouTube 音乐库中的 SFX 的问题。我阅读了这些条款，但他们只讨论音乐而不是音效。 我的问题是。 1) 我可以在 YouTube 之外的项目中使用它们（商业项目和音效项目）吗？非商业用途），使用它们时我需要注明出处吗？ 2) 如果我需要注明出处，我该向谁出示？ YouTube？它不像音乐那样标明是谁创建的。 3) 有没有一种方法可以快速下载整个库，而不必单击每个文件？ 谢谢帮助。   由   提交 /u/rrafeiteira   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cj2sf9/tube_audio_library_sfx/</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Premire 陷入“创建代理工作”的困境</title>
       <link>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</link>
-      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它就会卡在“”上“创建代理作业”。媒体编码器端似乎也没有发生任何操作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0 ( Build 59)// 素材：来自 HDD 的 BRAW   由   提交/u/GreenToad56  [链接] [评论]]]></description>
+      <description><![CDATA[我试图将一组大约 30 个 4k 分辨率剪辑转换为代理，但每当我按照步骤制作它们时，它都会卡在“创建代理作业”上。媒体编码器端似乎也没有发生任何动作 CPU：Intel Core i5 10300H// GPU：NVIDIA GEForce GTX 1650 Ti + RAM：8GB// 软件：Adobe Premier Pro：版本 24.3.0（内部版本 59）// 素材：来自 HDD 的 BRAW    提交人    /u/GreenToad56   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cixnjp/premire_is_stuck_on_creating_proxy_jobs/</guid>
       <pubDate>Fri, 03 May 2024 02:24:21 GMT</pubDate>
     </item>
@@ -62,9 +69,9 @@
       <pubDate>Thu, 02 May 2024 08:50:38 GMT</pubDate>
     </item>
     <item>
-      <title>Bridge 是否适合文件预览和文件管理？</title>
+      <title>Bridge 适合文件预览和文件管理吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</link>
-      <description><![CDATA[这更适合“内容创建者”。对于编辑器类型，我并不想在专业的工作流程中实现这一点。我使用 Soundly 来处理音频，它非常棒。我不需要审查任何对话：这纯粹是为了构建视觉效果（我后来最常将其路由到后期效果中）。  我有无数的视频和静态图像/插图/动画资源。这是压倒性的，因为我不是文件管理专家，所以我也总是希望更改我的文件夹结构并重命名内容。问题是，这会以一百万种不同的方式扰乱一百万个不同的项目。自从我开始大量使用 Productions 以来，我只是垃圾邮件项目。因此，必须一直重新链接所有内容是一场噩梦（如果这是一个简单的更改，Premier 可以自动重新链接，那么没有问题，但如果我也移动文件等，它可能会变得一团糟：这不是一个经常出现的问题，我尝试对我所做的事情进行深思熟虑，所以我只是列出了主要关心的问题，因为我非常多动症，如果我开始“感觉”混乱，事情就会滚雪球）。  我喜欢 Bridge，也喜欢留在 Adob​​e 生态系统中的想法。我对云计算并不是非常热衷，但我希望如此，这只会让我在以后/如果我想再次开始一些更像是生意的事情时有更多的选择。我只是不知道我是否喜欢Bridge，当使用一个新程序时，很难分辨什么是自己知识的限制，什么是自己的限制 我将我的资产保存在外部T7上固态硬盘。我的主程序现在需要重新格式化，它只是有时会出现问题（例如，它无法在本机 Finder Mac OS 中维护标签分类）。但我想要   由   提交 /u/T00Human   [链接] [评论]]]></description>
+      <description><![CDATA[这更适合“内容创建者”类型的编辑，我并没有尝试在专业工作流程中实现这一点。我使用 Soundly 来处理音频，它很棒。我不需要审查任何对话：这纯粹是为了构建视觉效果（我后来最常将其路由到后期效果中）。 我有无数的视频和静态图像/插图/动画资产。这太让人不知所措了，而且由于我不是文件管理专家，所以我也一直在寻找更改文件夹结构和重命名东西的方法。问题是，这会以一百万种不同的方式弄乱一百万个不同的项目。而且自从我开始大量使用 Productions 以来，我只是在垃圾邮件中发送项目。因此，一直重新链接所有内容简直是一场噩梦（如果是简单的更改，Premier 可以自动重新链接，这不是问题，但如果我移动文件等，就会变得一团糟：这不是一个常见问题，我会尝试预先考虑我所做的事情，所以我只是列出了主要问题，因为我患有注意力缺陷多动症，如果我开始*感觉*混乱，问题就会像滚雪球一样越滚越大）。  我喜欢 Bridge，我喜欢留在 Adob​​e 生态系统中的想法。我不是特别喜欢云，但我想成为云，这让我在未来有更多的选择，当我想再次开始一些更像生意的事情时。我只是不知道我是否喜欢 Bridge，当使用新程序时，很难分辨什么是你自己知识的局限性，什么是  我将资产保存在外部 T7 SSD 上。我现在的主要文件需要重新格式化，它有时会出现问题（例如，它无法在原生 Finder Mac OS 中维护标签分类）。但我想    提交人    /u/T00Human   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ciaptt/is_bridge_good_for_file_preview_and_file/</guid>
       <pubDate>Thu, 02 May 2024 08:44:24 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>Premiere 2024 播放灰色溶解覆盖错误？</title>
       <link>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</link>
-      <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，一些编辑器的全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎可以工作，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是 AE，我们最近将所有 Mac 系统更新为最新版本的 Premiere (24.3)，直到几周前一切都很顺利。在所有类型的叠化过程中，编辑器的某些全屏播放中会出现灰色叠加层（请参阅随附的两个视频作为示例）。有趣的是，编辑器导出时不会出现灰色叠加层。虽然我们可以让剪辑师不使用全屏播放，但这在我的工作室中不是一个选项。 第一个文件名为 PremierePro_FadeExample_Export 是几个带有溶解功能的剪辑的简单导出；灰色覆盖层溶解明显不存在。  另一个视频 PremierePro_FadeExample_Recording 是全屏播放期间的录制，灰色覆盖层溶解问题。 到目前为止，我们已经尝试了以下解决方法：  放置黑色遮罩可以解决该问题，但要求编辑人员对每个问题都这样做序列是不可能的。 渲染整个序列似乎有效，但不一致。  破坏 Premiere 版本似乎也有效，但问题最终会出现，甚至降到 24.0。  AE 使用的系统是 Mac Mini （规格如下），但编辑们已经充分增强了 Mac Studios。  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7  Mac Mini 系统规格： CPU - 3.2 GHz 6 核 Intel Core i7 li&gt; GPU - Intel UHD Graphics 630 1536MB RAM - 16GB 2667 MHz DDR4 软件规格：Sonoma 14.4  我们&#39;我已经检查了首映设置，但到目前为止一无所获。如果您有任何帮助，我们将不胜感激。 如果您有任何问题或需要我详细说明，请随时询问。  谢谢！   由   提交 /u/NakedRobots   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci968q/premiere_2024_playback_grey_dissolve_overlay_bug/</guid>
       <pubDate>Thu, 02 May 2024 06:56:32 GMT</pubDate>
     </item>
     <item>
-      <title>具有运动技能共识的编辑</title>
+      <title>具有动作技能共识的编辑器</title>
       <link>https://www.reddit.com/r/editors/comments/1ci8lgw/editor_with_motion_skills_consensus/</link>
-      <description><![CDATA[由于我目前正在经历被裁员的过程，并且正在接触联系人、了解就业市场（英国）和更新简历、Reel Folio 等。 通过这个过程，我开始思考，所有这些职位都要求具有动作技能的编辑，根据我的经验，我觉得 60-70% 的时间里，所涉及的动作只是动画文本，另外 10-20% 是静止图像，剩下的只是一些过渡或“动态”帧移动的变化。 当然，他们会很乐意为你聘请一位成熟的 3D 动态图形艺术家，你知道他也做编辑。只是为了拥有选项卡上的能力，但我注意到的是，技能组合有点未得到充分利用。  至少在我工作过的机构中，我很少看到客户一开始并不想加入高端动作工作，而是选择加入。  然后，随着时间的推移，拥有该技能的人会感到无聊，然后离开，要么去做自由职业者，要么去某个真正专门从事该工作的地方工作，并有客户要求这种工作。  我注意到一个有趣的现象，想知道是否有人经历过类似的事情？    提交人    /u/Cheetokeys   [link] [评论]]]></description>
+      <description><![CDATA[由于我目前正在经历被裁员的过程，并且不断地联系联系人、摸清就业市场（英国） ) &amp;更新简历、Reel Folio 等。  通过这个过程，我开始思考，所有这些角色都需要具有动作技能的编辑，根据我的经验，我觉得 60-70% 的时间里有问题的动作只是动画文本，另外 10-20% 是静止图像，其余只是过渡或“动态”图像的一些变化。帧运动。 当然，他们会很高兴地请您聘请一位成熟的 3D 动态图形艺术家，您知道他也会进行编辑。只是为了将功能放在选项卡上，但我注意到该技能集在某种程度上没有得到充分利用。  至少在我工作过的机构中，我很少看到客户被说服在最初并不希望加入的简报中添加高端动作作品。 &lt;然后，随着时间的推移，拥有这种技能的人会感到无聊，然后离开去从事自由职业，或者去某个真正专业的地方工作，并且有客户要求这种工作。  只是我注意到的一个有趣的现象，想知道是否有人经历过类似的情况？   由   提交 /u/Cheetokeys   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci8lgw/editor_with_motion_skills_consensus/</guid>
       <pubDate>Thu, 02 May 2024 06:19:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我真的不想在车库里安装我的旧 Mac Pro Xenon 塔，用完整的 FCP 7 工作室来刻录视频 DVD。我的日常驾驶是 m3 pro MacBook pro。我有一个 USB 供电的外部 CD/DVD/蓝光刻录机。很确定 Premier 2024（或媒体编码器）可以导出正确的 mpeg2 文件，但我一辈子都不记得如何制作视频 DVD。 Roxio Toast 的 8 个左右版本都无法在基于 Intel 的 MacBook 上运行。我只记得它必须是 ISO XXXX 类型的刻录，并且根目录中需要一个 VIDEO_TS 和一个 AUDIO_TS 文件夹。有什么想法吗？当然，旧塔有 DVD Studio Pro，作为 FCP Studio 的一部分，但是，我真的不想立即将其清空并准备再次运行。更新的硅软件对我来说并非不可能，但我试图保持简单，但为带有内置 DVD 播放器的电视和露营用的便携式 DVD 播放器制作可播放的 DVD。   由   提交/u/Listo4486  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ci5h2s/burning_a_169_dvd_in_2024/</guid>
       <pubDate>Thu, 02 May 2024 03:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从整理转向编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</link>
-      <description><![CDATA[我很难看到这里树上的叶子。我一直在 Flame 的一家高端邮局担任助理美术师，很喜欢那里的环境和人，但对伴奏工作失去了兴趣，而对编辑更感兴趣。我梦想中的许多公司都是我们的供应商，而且他们离商店也很近，这真是太酷了。  当他们对我的未来进行投资时，表明我对编辑感兴趣是否明智？他们不提供编辑服务，因此这可能会导致我失业。事情已经发展到我开始失去兴趣的地步，但我已经证明了我的技能。  关于如何处理这样的事情有什么建议吗？    由   提交/u/chlass  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ci5a57/moving_from_finishing_to_editorial/</guid>
-      <pubDate>Thu, 02 May 2024 03:08:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
