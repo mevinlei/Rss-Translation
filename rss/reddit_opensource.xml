@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 04 May 2024 06:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:10:35 GMT</lastBuildDate>
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>开源维护者 - 告诉我你的挣扎</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</link>
-      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 相结合，可以帮助解决很多此类问题。 最大的项目是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
+      <description><![CDATA[我最近看到了这篇 2021 年的博文： 开源维护者如何让贡献者和他们自己开心 本文讨论了开源项目维护者面临的一些问题：  受欢迎的项目可以吸引如此多的潜在贡献者，以至于维护者必须花费更多的时间来协调他们的活动，而不是编写代码 为了培育社区和吸引贡献，需要受到欢迎 &gt; 通常比任何人实际能做的工作还要多 ...以及更多  我正在开发项目，我相信通过将 LLM 与 Github Actions 结合起来可以帮助解决很多这些问题。 最大的是什么作为开源维护者，您生活中的痛点是什么？   由   提交 /u/stellarcitizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciq1xo/open_source_maintainers_tell_me_about_your/</guid>
       <pubDate>Thu, 02 May 2024 20:32:54 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 19:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我发现了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
+      <title>我一直在寻找一个开源的拖放 GUI/网站构建器，并且，我找到了 2、Grapesjs 和 Vvvebjs，但是，由于某种原因，它们都没有拖放功能，尽管这么说，确实一个人必须首先启用/禁用某些东西？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</link>
       <description><![CDATA[两者都使用“block”系统中的元素不是独立存在于页面上而是相互强制的，一个人不能制作 6 个文本框，然后将它们放在页面上的不同位置，它们都必须被压缩..so..它不起作用？   由   提交/u/savant78  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cio1bb/i_was_looking_for_an_open_source_drag_and_drop/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
-      <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：标题有误。我主要在寻找专门用于 Facebook Messenger 的包装器。 尝试了 Frost，但它对我不起作用。在我尝试登录后它崩溃了。我四处寻找替代方案，但目前一无所获。希望有人能启发我。    提交人    /u/HiroCode   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
       <pubDate>Thu, 02 May 2024 16:27:58 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Thu, 02 May 2024 03:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>发泄对 Guix 的不满</title>
+      <title>关于 Guix 的发泄</title>
       <link>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</link>
-      <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话如此专注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile “一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。 Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。 编辑：我读到，nonguix 在某个 ycombinator 帖子上没有得到很好的维护，并用它运行。请随意投反对票，无论如何，这正是我所期待的。    由   提交 /u/flaming0sis   [链接] [评论]]]></description>
+      <description><![CDATA[从我的一次性帐户发帖，因为之前已经说过这一点，但我想再说一遍：Guix 可能是最好的 Linux 发行版，如果不是的话所以全神贯注于 GNU 正统观念。 “最佳”是主观的，但我的意思是使用 Guile“一路向下”并访问其所有很酷的功能（同像性）来配置您的整体操作系统。 Nix 对专有软件有更好的方法，默认情况下选择退出，但在需要时允许您选择加入。但它由于是一种特定于领域的语言而受到阻碍。如果 Guix 真的接管了，这对每个人来说都是件好事，但要做到这一点，它必须是实用的。是的，这是 Reddit 的开源子版块，我认为推广开源的最佳方式就是将其发布出去，即使它不是“纯粹的”。是的，有 nonguix，但据我所知，它维护得不是很好。编辑补充说，GPL 还禁止 Guix 的非自由分支，这很烦人。要制作一个基于 Nix 原则的基于 lisp/scheme 的发行版/包管理器，必须从头开始开发。 编辑：我读到，nonguix 在某个 ycombinator 帖子上没有得到很好的维护，并用它运行。请随意投反对票，无论如何，这正是我所期待的。    由   提交 /u/flaming0sis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1chv8xx/venting_about_guix/</guid>
       <pubDate>Wed, 01 May 2024 19:43:18 GMT</pubDate>
     </item>
