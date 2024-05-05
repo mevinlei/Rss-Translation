@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 05 May 2024 12:13:49 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sun, 05 May 2024 15:08:01 GMT</lastBuildDate>
+    <item>
+      <title>自动跳过视频无声部分的视频播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</link>
+      <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
+      <pubDate>Sun, 05 May 2024 14:07:16 GMT</pubDate>
+    </item>
     <item>
       <title>时间表制作者</title>
       <link>https://www.reddit.com/r/software/comments/1ckprqw/timetable_maker/</link>
@@ -36,14 +43,14 @@
     <item>
       <title>艺术灵感/类似 Pinterest 的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</link>
-      <description><![CDATA[你好！我正在寻找一个可以帮助激发艺术灵感的程序，该程序可用于使用设备上/上传到设备上的文件创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。一般的激发灵感的程序也可以！    提交人    /u/vuurren   [link] [评论]]]></description>
+      <description><![CDATA[你好！我正在寻找一个程序来帮助获得艺术灵感，该程序可用于使用设备上的文件/上传到它来创建情绪板，有点像 pinterest，但是是一个程序。由于担心网站的寿命，我不想使用 pinterest。有助于激发灵感的一般程序也很好！   由   提交 /u/vuurren   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckgro6/art_inspirationpinterestlike_software/</guid>
       <pubDate>Sun, 05 May 2024 02:13:06 GMT</pubDate>
     </item>
     <item>
       <title>剪辑抓取器</title>
       <link>https://www.reddit.com/r/software/comments/1ckghgf/clipgrab/</link>
-      <description><![CDATA[Clipgrab 安全吗？我正在尝试找到一种下载 YouTube 视频的方法，我尝试了 Clipgrab。我确定我在官方网站上，然后下载了它。我收到了 Windows 安全风险通知，告诉我它给了我一个 PUP（潜在有害程序）。我卸载了它。我从其他人那里听说 Clipgrab 是安全的（只要你使用他们的官方网站），但我只是想仔细检查一下。如果没有，我正在寻找其他（最好是简单的）网站来下载 yt 视频，谢谢:)  （如果这违反了第一条规则，我也表示歉意，我已经看到其他人在过去，所以我认为没关系，ofc 我只是将其用于个人用途）   由   提交/u/Emili7689  [链接] [评论]]]></description>
+      <description><![CDATA[Clipgrab 安全吗？我正在寻找一种下载 YouTube 视频的方法，并且尝试了 Clipgrab。我确保自己是在官方网站上，然后下载了它。我收到了 Windows 安全风险通知，告诉我它给了我一个 PUP（潜在有害程序）。我卸载了它。我从其他人那里听说 Clipgrab 是安全的（只要您使用他们的官方网站），但我只是想再检查一下。如果不安全，我正在寻找其他（最好是简单的）网站来下载 YouTube 视频，谢谢 :)  （如果这违反了第一条规则，也深表歉意，我过去曾看到其他人发布过关于 clipgrab 的帖子，所以我认为它没问题，当然我只是将它用于个人用途）    提交人    /u/Emili7689   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckghgf/clipgrab/</guid>
       <pubDate>Sun, 05 May 2024 01:57:46 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>我创建了一个简单的开源电视节目重命名工具：BulkRename</title>
       <link>https://www.reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/</link>
-      <description><![CDATA[嗨嗨！ 由于我积累了大量数据，我想正确命名文件并保持一切井然有序。这就是为什么我几年前开发了一个工具来帮我完成这项工作。我知道还有其他工具，如 sonarr/radarr，但当我开发这个工具时，我找不到任何免费软件可以完全满足我的要求：整齐地命名我的电视节目。 最近我决定将该工具作为开源发布，现在它已经准备就绪。它非常易于安装和使用，功能保持在最低限度。安装、使用、参数和开发都有详细记录，请参阅下面的链接。如果我忘记了某些内容或者某些内容不清楚，请告诉我。 项目链接 GitHub 存储库：https://github.com/Ramo-Y/BulkRename Docker Hub：https://hub.docker.com/r/ramoy/bulkrename 安装 对于最简单的安装，您可以使用以下 docker-compose.yml： version: &#39;3.7&#39; services: bulkrename: image: ramoy/bulkrename:latest container_name: &quot;bulkrename&quot;环境：ASPNETCORE_URLS：http：//*：8080 SupportedFileEndings：“mkv；mp4；m4v；avi” FoldersToIgnore：“。@__thumb” # 例如，这是由 QNAP 生成的导致错误的文件夹 TZ：“Europe/Zurich” 端口： - “8080：80” 卷： - “/share/Downloads/Files：//app//Files//” # 重命名时必须位于其中的电视节目文件文件夹 - “/share/Downloads/Logs：//app//Logs//” # 可选，以便在 docker 外部使用日志  使用方法 简单总结一下，在工具的工作文件夹中创建一个文件夹结构，如下所示： /WorkingDirectory /The Walking Dead /Season 01 twd.s1e01.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e02.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e03.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e04.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e05.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e06.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv  然后您可以通过 Web 界面打开预览，显示文件重命名的方式。新名称将如下所示（通常在 Web UI 中显示为前后预览，但我无法在此处插入图像，请参阅文档）： /WorkingDirectory /The Walking Dead /Season 01 The Walking Dead - S01E01.mkv The Walking Dead - S01E02.mkv The Walking Dead - S01E03.mkv The Walking Dead - S01E04.mkv The Walking Dead - S01E05.mkv The Walking Dead - S01E06.mkv  如果一切看起来不错，您可以确认重命名并保存历史记录（如果您愿意）。 还有一个历史记录选项卡，其中显示所有重命名历史记录。要激活此功能，必须在 PersistanceMode 中设置 Json 或 Database。请参阅 PersistanceMode 结论 该工具已经为我节省了大量时间，我对结果一直很满意。当然还有改进的空间，但它确实完成了工作。如果您有任何变更请求或改进建议，请随时在此处写下它们，在 GitHub 上创建问题，或直接在 GitHub 上发出拉取请求（请按照文档中的开发说明进行操作）。 某些功能适用于非常高级的环境，例如在 Seq 中登录或存储在 SQL 数据库中，但如果您不需要它们，您可以将其保持禁用状态。 请不要根据颜色选择和设计来评判我，我是一名后端开发人员，我害怕 CSS。    提交人    /u/Ramo-Y   [链接] [评论]]]></description>
+      <description><![CDATA[嗨嗨！ 由于我积累了大量数据，我想正确命名文件并将所有内容保留在命令。这就是为什么我多年前开发了一个可以为我完成这项工作的工具。我知道还有其他工具，例如 sonarr/radarr，但是当我开发该工具时，我找不到任何免费软件能够完全满足我的要求：整齐地命名我的电视节目。 最近我决定以开源方式发布该工具，现在它已准备就绪。它非常易于安装和使用，并且功能保持在最低限度。安装、使用、参数、开发都有详细记录，参见下面的链接。如果我忘记了某些内容或不清楚，请告诉我。 项目链接 GitHub 存储库：https://github.com/Ramo-Y/BulkRename Docker 中心：https://hub.docker.com/r/ramoy/bulkrename 安装 对于最简单的安装，可以使用以下 docker-compose.yml： 版本：&#39;3.7&#39; 服务：bulkrename：图像：ramoy/bulkrename：最新container_name：“bulkrename”环境：ASPNETCORE_URLS：http://*:8080 SupportedFileEndings：“mkv;mp4;m4v;avi”要忽略的文件夹：“.@__thumb” # 例如，这是由 QNAP 生成的文件夹，该文件夹会导致错误 TZ:“Europe/Zurich”端口： - “8080:80”卷：-“/share/Downloads/Files://app//Files//” # 重命名时您的电视节目文件必须位于其中的文件夹 - “/share/Downloads/Logs://app//Logs//” # 可选择在 docker 外部提供日志 用法 简单总结一下，您可以在工具的工作文件夹中创建一个文件夹结构，如下所示： &lt; pre&gt;/WorkingDirectory /行尸走肉 /第 01 季 twd.s1e01.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e02.GERMAN.5.1.UNTOUCHED .DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e03.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e04.GERMAN .5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd.s1e05.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv twd .s1e06.GERMAN.5.1.UNTOUCHED.DUBBED.DL.AC3.1080p.WEB-DL.h264-TvR.mkv  然后您可以通过 Web 界面打开预览，显示如何该文件将被重命名。新名称将如下所示（通常在 Web UI 中显示为前后预览，但我无法在此处插入图像，请参阅 文档): /WorkingDirectory /The Walking Dead /Season 01 The Walking Dead - S01E01.mkv Dead - S01E02.mkv The Walking Dead - S01E03.mkv The Walking Dead - S01E04.mkv The Walking Dead - S01E05.mkv The Walking Dead - S01E06.mkv  如果一切看起来都不错，你如果您愿意，可以确认重命名并保存历史记录。 还有一个历史记录选项卡，其中显示所有重命名历史记录。要激活此功能，必须在 PersistanceMode 中设置 Json 或 Database。请参阅PersistanceMode 结论 该工具已经为我节省了大量时间，而且我对结果一直很满意。当然还有改进的空间，但它已经完成了工作。如果您有任何更改请求或改进建议，请随时将其写在此处，在 GitHub 上创建问题，或直接在 GitHub 上提出拉取请求（请按照 文档）。 某些函数适用于非常高级的环境，例如 Seq 中的日志记录或 SQL 中的存储数据库，但如果您不需要它们，可以将它们禁用。 请不要在颜色选择和设计上评判我，我是后端开发人员，我害怕 CSS。    由   提交 /u/Ramo-Y   /u/Ramo-Y  reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ck143d/i_created_a_simple_opensource_tvshow_renaming/</guid>
       <pubDate>Sat, 04 May 2024 14:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>OneDrive/GDrive/Mega 的便携版？</title>
-      <link>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</link>
-      <description><![CDATA[我是一名自由职业者。我真的很讨厌安装软件。他们总是隐藏着大量的文件。与便携式版本不同，它位于一个文件夹中并且不会徘徊。如果我想删除它，它们不会留下残留文件。 我正在处理多个帐户，通过拥有便携式版本，我可以同时打开云存储帐户并进行管理   由   提交 /u/Juniorzkie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cjzj9t/portable_version_of_onedrivegdrivemega/</guid>
-      <pubDate>Sat, 04 May 2024 12:46:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
