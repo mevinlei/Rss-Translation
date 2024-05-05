@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 May 2024 18:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 21:08:57 GMT</lastBuildDate>
     <item>
       <title>开源 Android 应用程序 - 如何双重检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>在 Django 和 Headless CMS 之间进行网站开发选择：寻求建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</link>
-      <description><![CDATA[嘿r/opensource， 我一直在深入研究我正在为一家酒店业主开发的网站项目的决策过程。他们热衷于拥有一个强大的管理界面来管理网站的各个方面，包括图库、博客、活动、电子邮件和付款。虽然我已经做了相当多的研究，但我仍然在纠结是使用 Django 强大的管理功能还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和集成的可能性。 Next.js 前端。 尽管我付出了努力，但我发现自己有点进退两难。这是我可以利用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与Next.js 前端？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面用户友好性和可定制性如何？&lt; /li&gt; 性能和可扩展性：在为此项目选择 Django 和无头 CMS 时，我应该牢记任何性能或可扩展性注意事项吗？ 成本和部署：哪些开源无头 CMS 选项允许自托管，无需额外的部署成本？这些 CMS 的部署过程与部署 Django 应用程序相比如何？ 客户满意度：根据您的经验，与 Django Admin 提供的管理界面相比，客户对 Django Admin 提供的管理界面的满意度如何？开源无头 CMS 平台在易用性和功能方面的优势？  尽管我进行了研究，但我仍然发现自己在权衡利弊。您根据自己的经验提出的见解、建议或最佳实践将对指导我做出决定非常有帮助。 提前感谢您的帮助！   由   提交/u/Noor_Slimane_9999   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，r/opensource， 我正在为一家酒店老板做网站项目，研究其决策过程。他们希望拥有一个强大的管理界面来管理网站的各个方面，包括画廊、博客、活动、电子邮件和付款。虽然我已经做了大量的研究，但我仍在犹豫是使用 Django 的强大管理功能，还是探索使用开源无头 CMS（如 Strapi 或 Payload）来简化内容管理和与 Next.js 前端集成的可能性。 尽管我付出了努力，但我还是陷入了困境。以下是我可以使用您的专业知识的地方：  开发复杂性：根据您的经验，在 Django 中构建所有内容与将无头 CMS 与 Next.js 前端集成之间的开发复杂性如何？ 管理界面：与 Django Admin 相比，Strapi 或 Payload 等开源无头 CMS 平台提供的管理界面的用户友好性和可定制性如何？ 性能和可扩展性：在为该项目在 Django 和无头 CMS 之间进行选择时，我是否应该牢记任何性能或可扩展性注意事项？ 成本和部署：哪些开源无头 CMS 选项允许自托管而无需额外的部署成本？与部署 Django 应用程序相比，这些 CMS 的部署流程如何？ 客户满意度：根据您的经验，就易用性和功能性而言，客户对 Django Admin 提供的管理界面与开源无头 CMS 平台提供的管理界面的满意度如何？  尽管我做了研究，但我仍然在权衡利弊。您根据经验提出的见解、建议或最佳实践将对我做出决定非常有帮助。 提前感谢您的帮助！    提交人    /u/Noor_Slimane_9999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cke5ly/choosing_between_django_and_headless_cms_for/</guid>
       <pubDate>Sat, 04 May 2024 23:57:49 GMT</pubDate>
     </item>
@@ -57,26 +57,26 @@
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
       <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
     </item>
     <item>
       <title>设计师愿意贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</link>
-      <description><![CDATA[大家好， 我是一名拥有大约 4 年经验的产品设计师。我希望参与开源社区。我知道这更像是一种开发工作，但我想知道是否有任何应用程序、网站或产品需要帮助…… 如果您有任何联系人或产品，我应该联系他们，他们的 UX/UI 很糟糕，那就太好了  谢谢！    提交人    /u/mrtpontpont   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我是一名产品设计师，拥有大约 4 年的经验。我想加入开源社区。我知道这更多的是开发方面的事情，但我想知道是否有任何应用程序、网站或产品需要帮助...... 如果您有任何联系人或产品，我应该联系他们的用户体验/用户界面很糟糕的地方，我应该联系，那就太好了 谢谢！    由   提交/u/mrtpontpont  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjf6cj/designer_would_like_to_contribute/</guid>
       <pubDate>Fri, 03 May 2024 18:02:24 GMT</pubDate>
     </item>
     <item>
       <title>业务问题 - 开源供应商的成功渠道合作伙伴模式？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</link>
-      <description><![CDATA[大家好， 我正在研究为一家开源软件组织的经销商/MSP/集成商/等9 构建渠道合作伙伴计划，并正在寻找一些建议和示例，以了解如何构建一个好的计划。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能尽快完成（尽可能！）。 您认为什么样的开源供应商的程序才是好的？您最喜欢哪些程序？最重要的是，为什么？ 提前感谢您允许我提出这个非技术性的问题！    提交人    /u/jph-reelyactive   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我正在研究为经销商/MSP/集成商/等建立渠道合作伙伴计划。9开源软件组织，正在寻找一些建议和示例来说明如何制作一个好的程序。我在封闭软件领域已经做过很多次了，但这是第一次在开源领域，希望能把它走出大门（尽可能多！）。 您认为什么才是伟大的来自开源供应商的程序？您最喜欢什么？非常重要的是，为什么？ 提前感谢您提出这个非技术问题！   由   提交/u/jph-reelyactive  /u/jph-reelyactive  reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjb0ge/business_question_successful_channel_partner/</guid>
       <pubDate>Fri, 03 May 2024 15:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>微软开发者博客搜索工具</title>
+      <title>Microsoft 开发人员博客搜索工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</link>
       <description><![CDATA[    /u/elliotkillick   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ciz1bd/microsoft_developer_blogs_search_tool/</guid>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 02 May 2024 19:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>有任何适用于 Android 的开源 Facebook 客户端/包装器吗？</title>
+      <title>有没有适用于 Android 的开源 FaceBook 客户端/包装器？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</link>
       <description><![CDATA[编辑：标题中有错误。我主要是专门寻找 Facebook Messenger 的包装器。 尝试过 Frost，但这对我不起作用。我尝试登录后它崩溃了。我四处寻找替代方案，但到目前为止一无所获。希望有人能启发我。   由   提交 /u/HiroCode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cik0b5/any_open_source_facebook_client_wrapper_for/</guid>
