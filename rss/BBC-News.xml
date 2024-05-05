@@ -4,20 +4,20 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 05 May 2024 06:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 09:11:55 GMT</lastBuildDate>
+    <item>
+      <title>谈判继续进行，以色列人集会争取人质协议</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-68960585</link>
+      <description><![CDATA[在开罗进一步停火谈判之前，数万人在特拉维夫和耶路撒冷抗议。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-68960585</guid>
+      <pubDate>Sun, 05 May 2024 08:15:30 GMT</pubDate>
+    </item>
     <item>
       <title>“我在 50 多岁时患上阿尔茨海默氏症的几率是 50:50”</title>
       <link>https://www.bbc.co.uk/news/health-68932988</link>
       <description><![CDATA[约翰·詹宁斯可能从他母亲那里继承了一种可能引发这种疾病早发的基因。]]></description>
       <guid>https://www.bbc.co.uk/news/health-68932988</guid>
       <pubDate>Sun, 05 May 2024 04:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>谈判继续进行，以色列人集会争取人质协议</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-68960585</link>
-      <description><![CDATA[在开罗进一步停火谈判之前，数万人在特拉维夫和耶路撒冷抗议。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-68960585</guid>
-      <pubDate>Sun, 05 May 2024 03:57:50 GMT</pubDate>
     </item>
     <item>
       <title>克里斯·梅森：工党险胜西米德兰兹郡获胜，戏剧之夜</title>
@@ -43,7 +43,7 @@
     <item>
       <title>朝鲜武器正在杀害乌克兰人。影响要大得多</title>
       <link>https://www.bbc.co.uk/news/world-asia-68933778</link>
-      <description><![CDATA[坠毁在哈尔科夫的一枚导弹显示了平壤使用武器的惊人规模。]]></description>
+      <description><![CDATA[一枚在哈尔科夫坠毁的导弹显示了平壤武器使用的惊人规模。]]></description>
       <guid>https://www.bbc.co.uk/news/world-asia-68933778</guid>
       <pubDate>Sat, 04 May 2024 22:06:02 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>90 秒内谁赢得了市长选举</title>
       <link>https://www.bbc.co.uk/news/uk-politics-68958322</link>
-      <description><![CDATA[英格兰选民参加了全国各地新市长选举的投票。]]></description>
+      <description><![CDATA[英国选民已参加全国各地新市长选举。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-politics-68958322</guid>
       <pubDate>Sat, 04 May 2024 21:26:36 GMT</pubDate>
     </item>
     <item>
       <title>汗历史性地第三次担任伦敦市长</title>
       <link>https://www.bbc.co.uk/news/uk-england-london-68952475</link>
-      <description><![CDATA[这位工党候选人以超过 276,000 票击败了保守党竞争对手苏珊·霍尔 (Susan Hall)。]]></description>
+      <description><![CDATA[工党候选人以超过 276,000 票的优势击败了保守党对手苏珊·霍尔 (Susan Hall)。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-england-london-68952475</guid>
       <pubDate>Sat, 04 May 2024 21:03:27 GMT</pubDate>
     </item>
@@ -78,21 +78,21 @@
     <item>
       <title>地图和图表中的地方选举结果</title>
       <link>https://www.bbc.com/news/articles/c8v36l6d54do</link>
-      <description><![CDATA[分析 2024 年地方选举结果，包括伦敦市长和英格兰各地议会。]]></description>
+      <description><![CDATA[分析 2024 年地方选举的结果，包括伦敦市长和英格兰各地的议会。]]></description>
       <guid>https://www.bbc.com/news/articles/c8v36l6d54do</guid>
       <pubDate>Sat, 04 May 2024 19:56:51 GMT</pubDate>
     </item>
     <item>
       <title>萨迪克·汗如何第三次赢得伦敦的青睐</title>
       <link>https://www.bbc.co.uk/news/uk-england-london-68959313</link>
-      <description><![CDATA[工党候选人连续第三次当选伦敦市长——但接下来呢？]]></description>
+      <description><![CDATA[这位工党候选人连续第三次担任伦敦市长 - 但接下来呢？]]></description>
       <guid>https://www.bbc.co.uk/news/uk-england-london-68959313</guid>
       <pubDate>Sat, 04 May 2024 19:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>工党庆祝西米德兰兹市长获胜加剧了保守党的困境</title>
+      <title>布雷弗曼告诉 BBC，苏纳克需要承认糟糕的选举结果并改变路线</title>
       <link>https://www.bbc.co.uk/news/live/uk-politics-68609732</link>
-      <description><![CDATA[保守党在地方和市长选举中一波连败后，工党的理查德帕克击败了安迪街。]]></description>
+      <description><![CDATA[布雷弗曼表示，地方选举结果——包括工党在西米德兰兹郡意外获胜——是总理决定的结果。]]></description>
       <guid>https://www.bbc.co.uk/news/live/uk-politics-68609732</guid>
       <pubDate>Sat, 04 May 2024 02:06:59 GMT</pubDate>
     </item>
