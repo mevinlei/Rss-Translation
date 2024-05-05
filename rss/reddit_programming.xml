@@ -4,11 +4,18 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 05 May 2024 03:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 06:10:41 GMT</lastBuildDate>
+    <item>
+      <title>为什么选择 ULID 而不是传统的 UUID 或 ID 来进行数据库识别？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</link>
+      <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ckklm9/why_choose_ulids_over_traditional_uuids_or_ids/</guid>
+      <pubDate>Sun, 05 May 2024 06:09:12 GMT</pubDate>
+    </item>
     <item>
       <title>闯入科技就业市场：如何脱颖而出并获得关注</title>
       <link>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</link>
-      <description><![CDATA[  由    /u/superc0w  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckficn/hacking_the_tech_job_market_how_to_stand_out_and/</guid>
       <pubDate>Sun, 05 May 2024 01:05:12 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>变形金刚仪表板🤖📈</title>
       <link>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</link>
-      <description><![CDATA[ 由   提交/u/v4nn4  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/v4nn4  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ckea92/transformers_dashboard/</guid>
       <pubDate>Sun, 05 May 2024 00:03:53 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/SamNwutobo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ck3usm/plutobook_paged_html_rendering_library/</guid>
       <pubDate>Sat, 04 May 2024 16:10:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用Python和2captcha绕过hCaptcha</title>
-      <link>https://www.reddit.com/r/programming/comments/1ck357a/how_to_bypass_hcaptcha_using_python_and_2captcha/</link>
-      <description><![CDATA[ 由   提交/u/Organic_Drawing_3339   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ck357a/how_to_bypass_hcaptcha_using_python_and_2captcha/</guid>
-      <pubDate>Sat, 04 May 2024 15:39:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
