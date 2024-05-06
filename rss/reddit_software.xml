@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 06 May 2024 06:12:15 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Mon, 06 May 2024 09:10:41 GMT</lastBuildDate>
+    <item>
+      <title>类似FL studios的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1clcvlc/similar_software_like_fl_studios/</link>
+      <description><![CDATA[我正在寻找类似的免费音乐制作软件，例如 FL studios   由   提交/u/goldzorvday  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1clcvlc/similar_software_like_fl_studios/</guid>
+      <pubDate>Mon, 06 May 2024 07:07:28 GMT</pubDate>
+    </item>
     <item>
       <title>嵌入式 LUKS (E-LUKS)：物联网安全的硬件解决方案——“物联网 (IoT) 安全是开发人员必须面对的最重要问题之一。” E-LUKS“框架”“类似于Linux系统中用于加密数据分区的Linux统一密钥设置（LUKS）解决方案”。</title>
       <link>https://www.reddit.com/r/software/comments/1clbmf8/embedded_luks_eluks_a_hardware_solution_to_iot/</link>
@@ -27,14 +34,14 @@
       <pubDate>Mon, 06 May 2024 01:43:31 GMT</pubDate>
     </item>
     <item>
-      <title>海量文件的文件管理器</title>
+      <title>适用于大量文件的文件管理器</title>
       <link>https://www.reddit.com/r/software/comments/1cl63yc/file_manager_for_huge_numbers_of_files/</link>
       <description><![CDATA[我一直在使用totalcommander来执行任务，例如将照片从手机和相机移到我的Windows计算机上，然后从那里移到我的计算机上NAS 备份。  我的手机上有成千上万张照片，因此 TotalCommander 检查每个文件并复制丢失的文件的过程需要几个小时。很长时间。就像24小时一样。尽管通过 USB 3 连接并使用最先进的 PCIE SSD。 必须有更好的方法，对吧？ 此外，多年来和各种文件迁移，我留下了相当多的冗余目录和文件重复项。有什么好的实用程序可以用来排序和删除这些重复项，或者将所有内容重构到年&gt;月&gt;日之类的文件夹中？   由   提交 /u/craciant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl63yc/file_manager_for_huge_numbers_of_files/</guid>
       <pubDate>Mon, 06 May 2024 00:38:22 GMT</pubDate>
     </item>
     <item>
-      <title>谁能帮我在 Windows 11 上安装 Czkawka？</title>
+      <title>有人能帮我在 Windows 11 上安装 Czkawka 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1cl5lx8/can_anyone_help_me_get_czkawka_installed_on/</link>
       <description><![CDATA[我在 Github 上找到了 Windows zip 文件并下载了它，解压了文件，但是当我双击“windows_czkawka_cli.exe”时没有任何反应。  还尝试按照说明使用 Winget 安装 Czkawka。在 CMD 提示符（以管理员身份运行）中，它显示它已成功安装，但我在应用程序的“开始”菜单列表下或在 Program Files 或 Program Files (x86) 中找不到它。以下位置中有 .exe 的副本，但双击它不会执行任何操作。 C:\Users\[用户名]\AppData\Local\Microsoft\WinGet\ Packages\qarmin.czkawka.cli_Microsoft.Winget.Source_8wekyb3d8bbwe    由   提交 /u/haley_joel_osteen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl5lx8/can_anyone_help_me_get_czkawka_installed_on/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>帮助解决这个烦人的功能</title>
       <link>https://www.reddit.com/r/software/comments/1cl3fdr/help_with_this_annoying_feature/</link>
-      <description><![CDATA[每次我按下 alt+space（误点击）时，这个按钮都会弹出并关闭我的工作窗口，我该如何取消激活它？我在 Windows 11 上 https://preview.redd.it/6norf7dgpoyc1.png?width=862&amp;format=png&amp;auto=webp&amp;s=fc9df0cbbeb96bca3fb280edb3a2d5e53228798f   由    /u/samuelgtrzz__  提交  [链接] [评论]]]></description>
+      <description><![CDATA[每次我按 alt+ 空格（误点击）时，它都会上升并关闭我的工作窗口，我该如何取消激活它？我使用的是 Windows 11 https:/ /preview.redd.it/6norf7dgpoyc1.png?width=862&amp;format=png&amp;auto=webp&amp;s=fc9df0cbbeb96bca3fb280edb3a2d5e53228798f   由   提交/u/samuelgtrzz__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cl3fdr/help_with_this_annoying_feature/</guid>
       <pubDate>Sun, 05 May 2024 22:30:03 GMT</pubDate>
     </item>
@@ -69,14 +76,14 @@
       <pubDate>Sun, 05 May 2024 20:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>音乐播放器可以在转到下一首歌曲之前重复一首歌曲 X 次</title>
+      <title>音乐播放器可以重复播放一首歌曲 X 次，然后再播放下一首歌曲</title>
       <link>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</link>
       <description><![CDATA[对于至少要循环一次的音乐（例如视频游戏音乐）   由   提交 /u/Clairvoidance   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ckvci4/music_player_that_can_repeat_a_song_x_times/</guid>
       <pubDate>Sun, 05 May 2024 16:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>自动跳过视频无声部分的视频播放器</title>
+      <title>自动跳过视频静音部分的视频播放器</title>
       <link>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</link>
       <description><![CDATA[youtube 上有一些扩展可以做到这一点，但我找不到一个程序可以做到这一点，这会有很大的帮助   由   提交 /u/IAmNotNeru   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cks21g/video_player_that_automatically_skips_the_silent/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[filminator dot net  使用点符号代替单词 dot  &lt; p&gt;​   由   提交 /u/filminator_developer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cknzu5/the_coolest_movie_app_in_the_world_just_released/</guid>
       <pubDate>Sun, 05 May 2024 10:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持批量和4K下载的YouTube视频下载器</title>
-      <link>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</link>
-      <description><![CDATA[嘿伙计们。只是想知道是否有支持批量或队列下载以及 4k 下载器的 YouTube 视频下载器。我目前正在使用此下载器，但它不支持队列/批量下载。我必须等到第一次下载完成后才能添加另一个视频链接。谢谢！   由   提交 /u/Sekiroweb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ckk68y/youtube_video_downloader_that_supports_bulk_and/</guid>
-      <pubDate>Sun, 05 May 2024 05:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
