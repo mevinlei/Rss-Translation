@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 May 2024 09:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 12:16:15 GMT</lastBuildDate>
     <item>
       <title>大家好，我正在寻找一个网站，该网站提供按用户主题分类的各种开源软件的概述。知道我在哪里可以找到这个吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1clcdr2/hi_everyone_im_looking_for_a_website_that/</link>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 05 May 2024 22:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>开源 Android 应用程序 - 如何双重检查？</title>
+      <title>开源 Android 应用程序 - 如何仔细检查？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</link>
       <description><![CDATA[是否有推荐的应用程序或移动网站可用于验证您要下载的开源应用程序是否合法？我通常从 FDroid 获得我的，所以我确信它们没问题，但我希望能够了解要查找的内容和/或在整个过程中添加另一个检查的工具。 此外，什么是很好的应用程序（最好是免费的），我可以学习 Android 编码。谢谢！    由   提交/u/DameWasistlos  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ckvi5n/open_source_android_app_how_to_double_check/</guid>
@@ -57,21 +57,21 @@
     <item>
       <title>我一直在使用名为 Grapesjs 的开源软件，但是，由于某种原因，一个人无法拖动项目？一个人选择固定位置，但是，然后一个人无法将前文本框拖动到它的位置..一个人必须将其放在顶部和左侧像素距离..但是，不起作用？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</link>
-      <description><![CDATA[一个人无法完成数百件事情，一个人必须能够拖放？    由   提交/u/savant78  [链接] [评论]]]></description>
+      <description><![CDATA[一个人不能用数百种东西做到这一点，一个人必须能够拖放？    提交人    /u/savant78   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ck1bme/ive_been_using_an_open_source_software_called/</guid>
       <pubDate>Sat, 04 May 2024 14:16:04 GMT</pubDate>
     </item>
     <item>
       <title>公共文档 OSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</link>
-      <description><![CDATA[我们一直在使用 outline/outline，但它主要专注于内部文档。在与客户共享公共链接时，它目前是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决这个问题，并且可能基于 Next.JS 构建  而且我们没有时间构建静态 NextJS 网站服务文档，因为团队规模小，文档大量由非技术人员编写。    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
+      <description><![CDATA[我们一直在使用大纲/大纲，但它主要集中在内部文档上。目前向我们的客户共享公共链接时使用的是 PITA。 ​ 我们正在寻找非常相似的 OSS 来帮助解决此问题，并且可能是基于 Next 构建的。 JS  而且我们没有时间构建静态 NextJS 网站来提供文档，因为团队规模较小，而且文档主要由非技术人员编写。   由   提交/u/piyushsingariya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cjy4f7/oss_for_public_documentation/</guid>
       <pubDate>Sat, 04 May 2024 11:28:14 GMT</pubDate>
     </item>
     <item>
       <title>一国对数字主权的追求</title>
       <link>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cji5c8/one_states_quest_for_digital_sovereignty/</guid>
       <pubDate>Fri, 03 May 2024 20:25:35 GMT</pubDate>
     </item>
