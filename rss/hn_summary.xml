@@ -4,89 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Mon, 06 May 2024 17:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 00:33:26 GMT</lastBuildDate>
     <item>
-      <title>您是否厌倦了筛选无休止的研究论文来寻找对您真正重要的论文？</title>
-      <link>https://t.me/hn_summary/88203</link>
-      <description><![CDATA[显示 HN：SOTA Stream – 根据您的兴趣定制的每日研究论文&lt; /a&gt;
-您是否厌倦了筛选无休止的研究论文来寻找对您真正重要的论文？ SOTA Stream 就是您的最佳选择。这项每日电子邮件服务提供专门针对您的研究兴趣定制的最新 arXiv 论文，节省您的时间并让您保持领先地位。告别 Twitter 的噪音，迎接对您来说最重要的精选论文。另外，一路上还可以享受一些古怪的学术笑话。立即免费注册，不错过人工智能研究领域的任何精彩内容。]]></description>
-      <guid>https://t.me/hn_summary/88203</guid>
-      <pubDate>Mon, 06 May 2024 17:55:41 GMT</pubDate>
+      <title>[媒体] 代码中的对称性经常被忽视，但它在可读性和调试方面起着至关重要的作用。</title>
+      <link>https://t.me/hn_summary/88250</link>
+      <description><![CDATA[对称性
+代码中的对称性经常被忽视，但它在可读性和调试方面起着至关重要的作用。通过快速扫描不对称性，您可以查明潜在问题并节省识别错误的时间。对称性可以在代码的各个层面上找到，从语法到结构，并且是组织的标志。它需要纪律和努力来确保对称性，但回报是更容易重构、调试和扩展代码。花时间增强对称性可以防止质量问题，并使代码从长远来看更易于管理。]]></description>
+      <guid>https://t.me/hn_summary/88250</guid>
+      <pubDate>Tue, 07 May 2024 00:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>在我上一篇文章的后续文章中，我分享了如何在 Cru 中使用直方图进行指标汇总 [...]</title>
-      <link>https://t.me/hn_summary/88202</link>
-      <description><![CDATA[直方图有效
-在我上一篇文章的后续文章中，我分享了如何在 Crunchy Bridge 的指标仪表板中使用直方图进行指标汇总，效果出奇地好。通过按天将原始数据划分到表中并生成不同粗度的聚合，我们能够显着减少需要从数据库检索的数据量，从而加快图表渲染速度。直方图的可合并属性允许灵活地调整分辨率。尽管最初担心错误，但新系统在生产中表现出色。选择正确的直方图实现至关重要，由于限制，HdrHistogram 的 Go 端口并不适用。事实证明，OpenHistogram Go 端口更适合。]]></description>
-      <guid>https://t.me/hn_summary/88202</guid>
-      <pubDate>Mon, 06 May 2024 17:53:06 GMT</pubDate>
+      <title>[媒体]这个项目为 Swift 并发提供了高性能通道，灵感来自 go 的 chan [...]</title>
+      <link>https://t.me/hn_summary/88249</link>
+      <description><![CDATA[用于 Swift 并发的异步通道
+该项目受 go 通道行为的启发，为 Swift 并发提供了高性能通道。它允许跨线程或 Swift 异步任务发送和接收值。该项目的目标是尽可能快，尽管它可能达不到那个水平。它提供无缓冲和缓冲通道、关闭通道、序列操作以及用于等待多个通道操作的选择功能。该项目包括将其性能与 go 和 Apple 的异步算法通道实现进行比较的基准。作者还提到了之前的一个项目 Swigo，用于传统的 Swift 并发。]]></description>
+      <guid>https://t.me/hn_summary/88249</guid>
+      <pubDate>Tue, 07 May 2024 00:27:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]NBER 关于口罩强制成本的工作文件介绍了对超过 4 个国家的调查结果</title>
-      <link>https://t.me/hn_summary/88201</link>
-      <description><![CDATA[口罩强制费用
-NBER 关于口罩强制成本的工作文件介绍了对 4,000 多名参与者进行的调查结果，调查结果显示他们是否愿意支付 3 个月的强制口罩豁免费用。虽然大多数受访者不愿意支付，但平均每人愿意支付 525 美元，有些人愿意支付超过 5,000 美元。年轻受访者比年长受访者表现出更高的支付意愿。论文还讨论了支付意愿与支付意愿之间的差异，以及他人行为对个体对掩盖看法的影响。作者建议在没有法律授权的情况下考虑私营部门机构的选择。]]></description>
-      <guid>https://t.me/hn_summary/88201</guid>
-      <pubDate>Mon, 06 May 2024 17:51:01 GMT</pubDate>
+      <title>[媒体] 通过 NoteQuiz 探索一种有趣且有效的学习钢琴简谱的方法。</title>
+      <link>https://t.me/hn_summary/88248</link>
+      <description><![CDATA[Show HN：我通过游戏化学习钢琴简谱来学得更快
+通过 NoteQuiz 探索学习钢琴简谱的有趣而有效的方法。沉浸在一系列随机音符中，并按照自己的节奏练习敲击正确的琴键。这种游戏化的学习方法可以让您提高技能而不会感到压力。告别枯燥的练习，转而采用一种更有吸引力的方式来掌握钢琴乐谱。访问 www.notequiz.app 开始更快、更多地学习今天高效。]]></description>
+      <guid>https://t.me/hn_summary/88248</guid>
+      <pubDate>Tue, 07 May 2024 00:22:16 GMT</pubDate>
     </item>
     <item>
-      <title>Web 内容讨论了 Cython 的使用，Cython 是一种类似 Python 的语言，它将 C 扩展添加到 [...]</title>
-      <link>https://t.me/hn_summary/88200</link>
-      <description><![CDATA[更快的排序数组交集
-网页内容讨论了使用 Cython（一种类似 Python 的语言，为 Python 项目添加了 C 扩展）来提高 SearchArray 项目中排序数组交集的性能。本文深入探讨了使用咆哮位图方法对排序数组进行交集的复杂性，并介绍了快速搜索的概念以实现更快的交集。作者展示了使用 Cython 和定制方法来优化交集，从而显著提高性能。使用 Cython 创建用于交集的 C 函数突出了本机代码在 Python 项目性能提升方面的优势。（基于 52% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/88200</guid>
-      <pubDate>Mon, 06 May 2024 17:49:56 GMT</pubDate>
+      <title>[媒体]微软正在通过其新的 MAI-1 模型震撼人工智能世界，这可能会挑战 [...]</title>
+      <link>https://t.me/hn_summary/88247</link>
+      <description><![CDATA[微软新AI模型可能挑战GPT-4和Google Gemini
+微软正在通过其新的 MAI-1 模型震撼人工智能世界，有可能挑战 GPT-4 和谷歌 Gemini 等模型。由前 Google AI 领导者 Mustafa Suleyman 领导的 MAI-1 拥有高达 5000 亿个参数，甚至可以与现有最大的模型相媲美。此举标志着微软致力于独立于 OpenAI 进行人工智能开发，他们与 OpenAI 有着重要的合作伙伴关系。 MAI-1 的确切目的仍然悬而未决，但它在微软 Build 开发者大会上的亮相可能会改变人工智能领域的游戏规则。请继续关注这一突破性发展的更多更新。]]></description>
+      <guid>https://t.me/hn_summary/88247</guid>
+      <pubDate>Mon, 06 May 2024 23:55:07 GMT</pubDate>
     </item>
     <item>
-      <title>Artifact Attestations 现已在 GitHub 上推出公开测试版，提供了一种链接软件 artifac [...]</title>
-      <link>https://t.me/hn_summary/88199</link>
-      <description><![CDATA[工件证明 - 现已公开测试版
-Artifact Attestations 现已在 GitHub 上推出公开测试版，提供了一种将软件工件链接回其源代码和构建指令的方法。此功能允许项目维护人员创建防篡改的书面记录，从而增强软件供应链的安全性。使用 GitHub Actions 和 GitHub CLI 工具可以轻松设置该过程。独特的方面是使用 Sigstore，这是一个用于签名和验证软件工件的开源项目。 GitHub 现在是根证书颁发机构，简化了签名过程。对于公共存储库，证明被写入不可变的分类账中，而私有存储库则具有内部私有数据库。该计划旨在推动文化转变，以了解软件组件的起源。]]></description>
-      <guid>https://t.me/hn_summary/88199</guid>
-      <pubDate>Mon, 06 May 2024 17:48:22 GMT</pubDate>
+      <title>[媒体] 隆重推出 Stempad，这是 STEM 领域人士的终极文本编辑器。</title>
+      <link>https://t.me/hn_summary/88246</link>
+      <description><![CDATA[Show HN：我建立了一个科学概念&lt; br/&gt;
+隆重推出 Stempad，这是 STEM 领域人士的终极文本编辑器。借助 Stempad，您只需使用键盘即可快速记下科学笔记，从而以数字格式提供白板灵活性。这种创新工具具有针对各种科学学科量身定制的模块类型，使其成为研究人员、学生和专业人士的必备工具。前往 www.stempad.io 亲自尝试 Stempad 并进行彻底变革您记笔记和组织科学工作的方式。]]></description>
+      <guid>https://t.me/hn_summary/88246</guid>
+      <pubDate>Mon, 06 May 2024 23:42:00 GMT</pubDate>
     </item>
     <item>
-      <title>一项新的研究表明，阿尔茨海默病的遗传性可能比以前已知的要高 [...]</title>
-      <link>https://t.me/hn_summary/88198</link>
-      <description><![CDATA[阿尔茨海默病的遗传性可能比以前已知的更高 
-阿尔茨海默病的遗传性可能比之前已知的更为频繁，一项新的研究表明，拥有两个 APOE4 基因拷贝实际上可以确保与该疾病相关的生物学变化。这一发现可能会导致检测和治疗方法的转变，因为 APOE4 现在被认为是该疾病的一种遗传形式，而不仅仅是一种危险因素。该研究强调了认识遗传风险及其对诊断和治疗的影响的重要性，特别是对于那些拥有两个 APOE4 基因拷贝的人，他们在生命早期患阿尔茨海默病的风险更大。]]></description>
-      <guid>https://t.me/hn_summary/88198</guid>
-      <pubDate>Mon, 06 May 2024 17:47:18 GMT</pubDate>
+      <title>[媒体]研究人员发现了一种名为 TunnelVision 的新型攻击，该攻击可以危害虚拟机 [...]</title>
+      <link>https://t.me/hn_summary/88245</link>
+      <description><![CDATA[针对几乎所有 VPN 应用程序的新型攻击破坏了其全部目的
+研究人员发现了一种名为 TunnelVision 的新型攻击，它几乎可以危害所有 VPN 应用程序，迫使它们在加密隧道之外发送和接收流量。这种攻击本质上使 VPN 变得毫无用处，允许攻击者读取、丢弃或修改流量。该攻击通过操纵 DHCP 服务器将流量从 VPN 隧道转移出去。令人惊讶的是，Android 是唯一不受此攻击影响的操作系统，而 Linux 则提供了一些缓解措施。最有效的修复方法包括在虚拟机中运行 VPN 或通过蜂窝设备进行连接。此攻击对 VPN 安全和用户隐私具有重大影响。]]></description>
+      <guid>https://t.me/hn_summary/88245</guid>
+      <pubDate>Mon, 06 May 2024 23:37:57 GMT</pubDate>
     </item>
     <item>
-      <title>五亿年前，地球上的生命蓬勃发展。</title>
-      <link>https://t.me/hn_summary/88197</link>
-      <description><![CDATA[五亿年前，地球上的生命蓬勃发展。你可以感谢磁铁。
-十亿年前，地球磁场减弱，导致地球上生命的爆发。地球历史上的这一令人惊讶的转折实际上可能是我们今天所知的生命繁荣的催化剂。如果没有磁层的保护，地球就会受到有害太阳风的轰击，使生命难以为继。这一发现揭示了磁铁在地球生命进化中所发挥的关键作用，它充当了生命繁衍生息的安全毯。]]></description>
-      <guid>https://t.me/hn_summary/88197</guid>
-      <pubDate>Mon, 06 May 2024 17:44:45 GMT</pubDate>
+      <title>[媒体] 法国初创公司 Greenerwave 正在凭借其 [...] 彻底改变卫星互联网技术。</title>
+      <link>https://t.me/hn_summary/88244</link>
+      <description><![CDATA[智能天线塑造卫星互联网技术的未来
+法国初创公司 Greenerwave 正在利用其可重构智能表面 (RIS) 终端彻底改变卫星互联网技术，与传统相控阵天线相比，该终端可显着降低成本和能耗。这项创新技术可以实现汽车和飞机上的卫星终端等新应用。 Greenerwave 与 Intelsat 合作开发定制终端，他们的超表面天线技术有潜力降低卫星通信成本并扩大连接选项。 Greenerwave 获得 1500 万欧元资金，计划在今年年底前投入生产终端，并计划在未来扩展到 5G 网络。]]></description>
+      <guid>https://t.me/hn_summary/88244</guid>
+      <pubDate>Mon, 06 May 2024 23:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 隆重推出 Rispose.com，这是一款革命性工具，可让您嵌入 OpenAI Assistan [...]</title>
-      <link>https://t.me/hn_summary/88196</link>
-      <description><![CDATA[显示 HN：Rispose.com – 嵌入 OpenAI 助手的免费工具在任何网站上
-隆重推出 Rispose.com，这是一款革命性工具，可让您嵌入 OpenAI您网站上的免费助手。告别重复的客户支持问题，让人工智能处理繁重的工作。借助 Rispose，您可以根据自己的数据训练 AI 助手，确保与网站访问者进行个性化且高效的交互。通过这种创新且经济高效的解决方案，将您的客户支持提升到一个新的水平。通过 Rispose.com 向客户服务的未来问好。&lt; br/&gt;]]></description>
-      <guid>https://t.me/hn_summary/88196</guid>
-      <pubDate>Mon, 06 May 2024 17:42:02 GMT</pubDate>
+      <title>[媒体] 通过 Caniemail.com 了解最新的 CSS 功能和电子邮件客户端更新！</title>
+      <link>https://t.me/hn_summary/88243</link>
+      <description><![CDATA[Caniemail.com（类似于 caniuse，但用于电子邮件内容）
+通过 Caniemail.com&lt; 了解最新的 CSS 功能和电子邮件客户端更新/a&gt;!与 Caniuse 类似，但专门针对电子邮件内容量身定制，我们的网站提供了 CSS 属性及其在各种电子邮件客户端之间的兼容性的完整列表。从 CSS text-wrap 到 CSS shape-outside，我们都能满足您的需求。另外，请随时了解我们每月关于电子邮件客户端更改的更新，例如 macOS 上的新 Outlook。不要错过可能影响您的电子邮件设计的重要信息 - 请访问 Caniemail。今天！]]></description>
+      <guid>https://t.me/hn_summary/88243</guid>
+      <pubDate>Mon, 06 May 2024 23:27:48 GMT</pubDate>
     </item>
     <item>
-      <title>标题：一个说俄语的错误导致我的应用程序崩溃</title>
-      <link>https://t.me/hn_summary/88195</link>
-      <description><![CDATA[一个讲俄语并导致我的应用程序崩溃的错误&lt; br/&gt;
-标题：一个说俄语的错误导致我的应用程序崩溃
-
-摘要：
-作者讲述了一次令人沮丧的经历，他们的应用程序中存在一个错误，该错误导致使用俄罗斯手机的用户崩溃。尽管进行了大量测试和故障排除，但只有在考虑用户所在国家/地区时才发现该问题。当设备语言设置为俄语时，该错误与 SQLite 中的字符编码有关。代码中的一个简单修复解决了问题，强调了开发应用程序时考虑所有可能场景的重要性。作者建议使用Android的ROOM进行持久数据存储，以避免将来出现类似问题。]]></description>
-      <guid>https://t.me/hn_summary/88195</guid>
-      <pubDate>Mon, 06 May 2024 17:39:28 GMT</pubDate>
+      <title>[媒体] 近日，博士在接受《华尔街日报》采访时表示。</title>
+      <link>https://t.me/hn_summary/88242</link>
+      <description><![CDATA[Neuralink 联合创始人暗示他因安全问题离开埃隆·马斯克的公司&lt; /a&gt;
+Neuralink 与埃隆·马斯克 (Elon Musk) 联合创始人本杰明·拉波波特 (Benjamin Rapoport) 博士最近在接受《华尔街日报》采访时透露，出于安全考虑，他离开公司创办了 Precision Neuroscience。 Rapoport 博士强调了开发神经接口时微创性和安全性的重要性，并将 Neuralink 使用穿透性微电极与 Precision 的表面微电极（覆盖大脑而不造成损伤）进行了对比。尽管 Neuralink 面临批评，包括虐待猴子的指控，但脑机接口技术的最新进展仍然令人兴奋。围绕脑机接口的安全性和侵入性的争议仍然是业界争论的话题。]]></description>
+      <guid>https://t.me/hn_summary/88242</guid>
+      <pubDate>Mon, 06 May 2024 23:22:44 GMT</pubDate>
     </item>
     <item>
-      <title>隆重推出 PeerDB Streams，这是一种简单的本机解决方案，用于将 Postgres 数据复制到队列 [...]</title>
-      <link>https://t.me/hn_summary/88194</link>
-      <description><![CDATA[显示 HN：Peerdb 流 – 简单的本机 Postgres 更改数据捕获&lt; /a&gt;
-隆重推出 PeerDB Streams，这是一种简单的本机解决方案，用于将 Postgres 数据复制到 Kafka 和 Google PubSub 等队列。联合创始人 Sai Srirampur 强调了用户在使用 Debezium 等现有工具时面临的挑战，Debezium 以其复杂性和陡峭的学习曲线而闻名。 PeerDB 旨在通过用户友好的 UI、CLI 选项、使用 Lua 脚本的行级转换以及与非 Kafka 目标的本机连接器来简化流程。重点是优化 Postgres 特定的功能以实现更快的数据移动。 PeerDB 的愿景是彻底改变 Postgres 的数据移动，他们欢迎反馈以进一步增强其产品。探索 PeerDB Streams 以获得无缝的 Postgres CDC 体验。]]></description>
-      <guid>https://t.me/hn_summary/88194</guid>
-      <pubDate>Mon, 06 May 2024 17:36:51 GMT</pubDate>
+      <title>[媒体]在太空中航行了四十多年后，航行者号航天器仍在继续前进，显示[...]</title>
+      <link>https://t.me/hn_summary/88241</link>
+      <description><![CDATA[Voyager 的计算机
+在太空中度过了四十多年之后，航海者号宇宙飞船仍在坚持不懈，展示了良好工程和一点运气的力量。机上的计算机对于任务的成功至关重要，但有关它们的详细技术信息很难获得。计算机和命令子系统 (CCS) 处理命令，姿态和关节控制子系统 (AACS) 保持航行者导向，飞行数据子系统 (FDS) 管理来自科学仪器的数据。由于内存位置损坏，FDS 及其用于处理数据的定制设计几乎结束了任务。尽管面临挑战，Voyager 计算机已被证明具有弹性和创新性。]]></description>
+      <guid>https://t.me/hn_summary/88241</guid>
+      <pubDate>Mon, 06 May 2024 23:08:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
