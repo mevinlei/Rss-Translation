@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 07 May 2024 06:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 09:09:49 GMT</lastBuildDate>
+    <item>
+      <title>SRT 至 EBU-STL</title>
+      <link>https://www.reddit.com/r/editors/comments/1cm7c2j/srt_to_ebustl/</link>
+      <description><![CDATA[大家好，我需要将在 Da Vinci Resolve 中制作的字幕从 SRT 格式转换为 EBU-STL 格式。有人对实现这一目标的最有效方法有建议吗？一项挑战是保留客户要求的特定样式，包括字体和阴影。如何确保在转换过程中保留这些数据？提前致谢！    由   提交 /u/focusbitchfocus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cm7c2j/srt_to_ebustl/</guid>
+      <pubDate>Tue, 07 May 2024 08:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>自由职业者网站？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm4uxv/freelance_website/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>使用谷歌照片使幕后花絮存档可搜索？</title>
       <link>https://www.reddit.com/r/editors/comments/1clubo4/using_google_photos_to_make_broll_archive/</link>
-      <description><![CDATA[切片师们大家好， 前几天，我的公司收到了托管我们 b-roll 的素材库网站的授权如果我们能提供手部的镜头，就可以获得许可。由于我们已经有一段时间没有向他们上传新的镜头了，所以我花了一天的最后两个小时根据我的记忆挖掘我能找到的任何东西。这让我们思考，如果我们能够以某种方式批量导出所有剪辑的缩略图，并刻录剪辑名称，然后上传到谷歌照片并让人工智能霸主为我们标记所有缩略图，会怎么样？我们的想法是，当出现这样的请求时，我们可以直接进入谷歌照片并搜索“手”。或“自行车”。或者“编辑用 Thunderbolt3 电缆窒息了自己”。 有人尝试过这个吗？有任何工作流程建议甚至其他服务可以使基于标签的搜索成为可能吗？   由   提交/u/Jordan_Ingram  [链接] [评论]]]></description>
+      <description><![CDATA[各位切片师，大家好， 前几天，我公司从一家托管我们 B-roll 的素材库网站获得了授权，要求我们提供手部素材。由于我们有一段时间没有上传新素材给他们了，所以我花了一天中的最后两个小时，根据我的记忆挖掘我能找到的一切。这让我们想到，如果我们能以某种方式批量导出所有剪辑的缩略图，并把剪辑名称刻录进去，然后上传到 Google Photos，让 AI 领主为我们标记所有缩略图，会怎么样？这个想法是，当出现这样的请求时，我们可以直接进入 Google Photos，搜索“手”或“自行车”或“编辑用雷电 3 电缆勒死自己”。 有人试过吗？有任何工作流程建议或其他服务可以实现这种基于标签的搜索吗？    提交人    /u/Jordan_Ingram   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clubo4/using_google_photos_to_make_broll_archive/</guid>
       <pubDate>Mon, 06 May 2024 21:13:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[/r/editors 是一个社区面向后期制作专业人士。 每周，我们都会使用此帖子与任何对编辑或后期制作有疑问的人进行公开讨论，**无论您的职业或专业地位如何。**  再次强调，如果您是新来的，请知道这个 Reddit 子版块是针对专业人士的。我们的模组团队修剪了 Reddit 子版块，并在此发布了新手级别的问题。  ​ 如果您不确定自己属于哪一类？这就是您正在寻找的主题。 关键规则：彼此保持良好（且耐心）。没有自我推销。没有盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/ about/rules/) 如果您不在该领域工作，这就是您应该提出问题的地方 什么样的问题对于该主题来说是公平的游戏？   学校值得吗？ 职业问题？ 哪个编辑器*您应该付费？*（免费工具？请参阅/r/videoediting) 考虑副业吗？ 我应该设置什么费率是？ （参见 WIKI） 从学校毕业？并需要入门建议？  ​ 此子版块有一个 wiki。 请随意建议它需要的页面。 我们有一个姊妹版 Reddit /r/videoediting。如果您不以此为生，这是理想的选择 - 但此帖子适合所有人！   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cleg76/ask_a_pro_weekly_monday_mon_may_06_2024_no_stupid/</guid>
       <pubDate>Mon, 06 May 2024 09:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频同步不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1cl8ek4/audio_sync_not_working/</link>
-      <description><![CDATA[我正在尝试在 Davinci Resolve 18 的媒体页面中同步音频。 我在媒体页面中，我的音频和视频都已导入到项目中。我分别在视频预览和波形预览中找到视频和音频上隔板关闭的点。 我按下波形监视器下方的小链环按钮。它似乎是链接的，当我按下播放时，音频和视频会同步移动。但是，新音频无法通过我的耳机播放。 一旦我单击另一个剪辑并返回到此剪辑，两个剪辑就不再同步。 我是什么缺少？   由   提交/u/MaxKCoolio  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cl8ek4/audio_sync_not_working/</guid>
-      <pubDate>Mon, 06 May 2024 02:35:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
