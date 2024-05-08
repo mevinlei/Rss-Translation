@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 08 May 2024 00:30:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 03:11:24 GMT</lastBuildDate>
+    <item>
+      <title>内存魔法：不同的编程语言如何处理它</title>
+      <link>https://www.reddit.com/r/programming/comments/1cmrgrj/memory_magic_how_different_programming_languages/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cmrgrj/memory_magic_how_different_programming_languages/</guid>
+      <pubDate>Wed, 08 May 2024 00:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>PSVita Homebrew 开发入门</title>
       <link>https://www.reddit.com/r/programming/comments/1cmr02h/getting_started_with_psvita_homebrew_development/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>如何将 Genezio 与 Express 结合使用以实现轻松且无差错的 API 管理</title>
       <link>https://www.reddit.com/r/programming/comments/1cmoajj/how_to_use_genezio_with_express_for_easy_and/</link>
-      <description><![CDATA[ 由   提交 /u/vbgdn   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/vbgdn  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmoajj/how_to_use_genezio_with_express_for_easy_and/</guid>
       <pubDate>Tue, 07 May 2024 22:11:32 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Tue, 07 May 2024 18:23:04 GMT</pubDate>
     </item>
     <item>
-      <title>编码面试很愚蠢（ish）</title>
+      <title>编程面试很蠢</title>
       <link>https://www.reddit.com/r/programming/comments/1cmhs7a/coding_interviews_are_stupid_ish/</link>
       <description><![CDATA[ 由   提交/u/louis11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmhs7a/coding_interviews_are_stupid_ish/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 07 May 2024 17:10:48 GMT</pubDate>
     </item>
     <item>
-      <title>C++ 软件工具</title>
+      <title>C++ 中的软件工具</title>
       <link>https://www.reddit.com/r/programming/comments/1cmh112/software_tools_in_c/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmh112/software_tools_in_c/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cmh0z2/learning_and_reviewing_system_internals_tactics/</guid>
       <pubDate>Tue, 07 May 2024 17:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读 HDD 规划</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmh0m8/read_planning_for_hdds/</link>
-      <description><![CDATA[ 由   提交/u/max-dolthub  /u/max-dolthub  dolthub.com/blog/2024-05-06-hdd-read-planning/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmh0m8/read_planning_for_hdds/</guid>
-      <pubDate>Tue, 07 May 2024 17:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

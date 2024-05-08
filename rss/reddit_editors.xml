@@ -4,7 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Wed, 08 May 2024 00:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 03:11:13 GMT</lastBuildDate>
     <item>
       <title>以迷你拖车开头的拖车有什么关系？</title>
       <link>https://www.reddit.com/r/editors/comments/1cmrbdq/whats_the_deal_with_trailers_starting_with_a_mini/</link>
@@ -13,32 +13,25 @@
       <pubDate>Wed, 08 May 2024 00:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>主要驱动器问题，Windows 上的 APFS 下降速度很快，有什么想法吗？</title>
+      <title>主要驱动问题，Windows 上的 APFS 下降很快，有什么想法吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cmqhld/major_drive_issues_apfs_on_windows_dropping_fast/</link>
-      <description><![CDATA[Hello reddit， 我的办公室和移动编辑工作都使用 MBP（APL Silicon）和 Windows 系统（10 pro）。我已经使用 paragon 多年了，HFS+ 仍然非常稳定，但 APFS+ 最近给我带来了一些问题。 第一个也是最奇怪的，大约 3 周前，我试图访问一个 sandisk pro g40 TB 驱动器，上面有我们的日报，当我回到家时，驱动器根本无法安装在我的 MBP 上。它会显示在磁盘实用程序中，但会是灰色的...最后，我彻底清理了整个系统并重新开始，以确保软件和硬件不是问题，最终我将驱动器重新格式化为 HFS+。但是现在我对该驱动器失去了信心，我正尝试通过 san disk 获取它的 RMA。 我的救命稻草是，虽然它无法安装在我的 mac 上，但它仍然可以通过 paragon 的 APFS+ 安装在我的 windows 上，而且我能够恢复数据。 然后今天 - 5 月 7 日，突然另一个驱动器，也是一个 sandisk professional，但这次是一个 4TB blade 驱动器，突然在我的 windows 和我的 mac 上停止工作。同样格式化为 APFS，无法在我的 mac 上安装，APFS+ 无法在我或我妻子的 PC 上读取它。我能够通过一个名为 Hetman Partician Recovery 的程序直观地恢复基本文件结构，谢天谢地，驱动器上的所有内容都已备份，接受我今天正在处理的工作 :/ 现在我开始害怕了，到目前为止只有 APFS 驱动器，但如果我的 HFS 驱动器突然停止工作，我就完蛋了。目前停止所有工作并订购一些更大的机械驱动器来备份我的 NVMe，但这似乎真的很奇怪。多年使用并且 paragon 没有问题，考虑切换 macdrive，但发生了一些事情导致这些驱动器关闭，它们之间唯一的共同点是它们都是 APFS 并且都用于 mac 和 pc。 blade 驱动器甚至通过 4 托架文档与其他 3 个 HFS+ 驱动器共享一个插槽，然后变得不可读。有趣的是，sandisk dsahboard 应用程序在插入 PC 时可以看到驱动器，甚至对其进行了诊断检查，结果正常，但除此之外，从 hetman 恢复了一个基本的文件夹结构，驱动器突然就坏了。就在 APFS+ 停止工作之前，我确实遇到了另一个程序的驱动程序问题，我重新安装了该程序，它强制系统重启，卡住了 15 分钟以上，然后我最终强制关闭系统并重新启动...但该程序无关紧要。当系统重新启动时，一个 APFS 驱动器无法读取。 如果问题出在 paragon，那么 macdrive 会更好吗？ 有什么想法吗？ 系统规格： PC - Ryzen 3950x、64gigs 的 3200 匹配内存条、3080ti GPU、带有 4/4TB NVMe 驱动器的 SandDisk Pro Blade Dock + 基本刀片穿梭盒式读取器。 3 个驱动器格式化为 HFS+，1 个驱动器（问题驱动器格式化为 APFS。底座通过 USB 4.0 电缆连接到我的 PC，进入 3.2 gen 2 端口。 PC 操作系统 - Windows 10 Pro 版本 22H2 Mac - 14 英寸 MBP，m3 max，36 GB 内存（light max 不是全屏）基本配置，1TB 内部驱动器空间 Mac OS - Sonoma 14.4.1 软件 - Paragon APFS+（最新更新）我也从它们运行 HFS+，但到目前为止，这个没有任何问题。 驱动器 - SanDisk g40 4TB Thunderbolt 3 驱动器和 SanDisk Pro - Pro blade 4TB NVMe Mag 我已经在每个系统上尝试了多个端口，包括 USB 3.0、USB 4.0 和 TB 4.0 电缆。 素材是通过读卡器在片场获取的，并使用 Offshoot（正式名称为 Hedge）通过传输日志进行传输。我所有的素材都备份了，只是我的导出文件丢失了，我担心的是 APFS 驱动器突然丢失。 发生故障的无关驱动程序来自一个名为 reWASD 的程序，我运行的版本很旧，所以我的许可证需要重新提交，软件需要更新。该软件确实会在系统级别进行修改，最终在第一次重启时超时崩溃。    提交人    /u/MrMoviePhone   [链接] [评论]]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmqhld/major_drive_issues_apfs_on_windows_dropping_fast/</guid>
       <pubDate>Tue, 07 May 2024 23:48:08 GMT</pubDate>
     </item>
     <item>
-      <title>使用 MacBook m1 pro 卸载威尼斯镜头</title>
+      <title>使用 macbook m1 pro 卸载威尼斯的镜头</title>
       <link>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</link>
       <description><![CDATA[大家好，我有一项数据整理工作，需要在我的 Macbook Pro M1 Pro 上卸载 Venice 1 素材。我正在运行较旧的 mac OS Monterey。我听说片场存在这样的问题：在新的 Mac 操作系统上卸载到 SSD 时，Venice 1 可能会损坏文件。想知道是否有人以前听说过这个，如果有的话有什么解决方案。感谢任何见解/建议，谢谢。 Mac 规格：macOS Monterey 12.2.1、apple m1 pro、16GB 内存。  仅供参考，我们将使用 Sony Venice 6k、X-OCN LT、23.98、1.85 取景、ISO 基准 (500) 进行拍摄  &amp; #32；由   提交 /u/SunnyInRealLife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmoa7z/offloading_venice_footage_with_macbook_m1_pro/</guid>
       <pubDate>Tue, 07 May 2024 22:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>有人认识到这种转变吗？搜索该资产以避免重新创建它。</title>
+      <title>有人认出这个转变吗？正在搜索此资产以避免重新创建它。</title>
       <link>https://www.reddit.com/r/editors/comments/1cmkj3z/does_anyone_recognize_this_transition_searching/</link>
       <description><![CDATA[5 秒后！我将向找到它的人赠送一份真正的 Reddit 礼物。 https://www. youtube.com/watch?v=R8M7Yi_rNVE 它看起来是几何/等距/线条形状，但我在我所属的任何股票平台上都找不到它。   由   提交 /u/orodltro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmkj3z/does_anyone_recognize_this_transition_searching/</guid>
       <pubDate>Tue, 07 May 2024 19:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁知道哪里可以找到这个音效</title>
-      <link>https://www.reddit.com/r/editors/comments/1cmj9os/anyone_know_where_i_can_find_this_sound_effect/</link>
-      <description><![CDATA[这个   由   提交 /u/LawandK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cmj9os/anyone_know_where_i_can_find_this_sound_effect/</guid>
-      <pubDate>Tue, 07 May 2024 18:44:16 GMT</pubDate>
     </item>
     <item>
       <title>Frame.io 删除了使用免费 Adob​​e Cloud 帐户进行链接共享下载的功能？</title>
@@ -48,14 +41,14 @@
       <pubDate>Tue, 07 May 2024 16:08:38 GMT</pubDate>
     </item>
     <item>
-      <title>建立内部MAM图书馆的平台（库存）</title>
+      <title>内部MAM库构建平台（库存）</title>
       <link>https://www.reddit.com/r/editors/comments/1cmdg1s/platform_for_building_internal_mam_library_stock/</link>
       <description><![CDATA[大家好！  做一些代理工作，并尝试使用各种网站（最好是 YouTube 等可预览缩略图）建立素材库。我想按类别分隔媒体，并通过插入 URL 来输入剪辑，这样我就不需要下载每个剪辑。有人做过类似的事情吗？考虑过使用 Figma 或 Miro。我们有能力花钱，但这里似乎不需要更大的 MAMS。   由   提交 /u/basicinsomniac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmdg1s/platform_for_building_internal_mam_library_stock/</guid>
       <pubDate>Tue, 07 May 2024 14:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>在担任自由编辑的同时兼职编辑工作？</title>
+      <title>做自由编辑的同时还能兼职编辑吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm9l4t/parttime_editing_job_while_freelancing_as_editor/</link>
       <description><![CDATA[由于目前这里大多数人的工作状况仍然很糟糕，我想知道这里是否有人有过打工的经验例如，当项目到来时，广告代理公司仍在网站上做自由职业？ 您会如何与代理机构联系？在 LinkedIn 上写下任何全职工作机会，然后在第一条消息中请求兼职职位？如果他们也以自由职业者的身份在网站上进行编辑，他们可能会不高兴，对吗？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm9l4t/parttime_editing_job_while_freelancing_as_editor/</guid>
@@ -83,7 +76,7 @@
       <pubDate>Tue, 07 May 2024 04:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>按照小时费率还是按照实物交付物收取交付费用？</title>
+      <title>按小时收费还是按实际交付物收费？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm2h93/charging_for_deliverables_based_on_hourly_rate_or/</link>
       <description><![CDATA[只是好奇你们中的一些人如何向客户收取最终交付成果的费用？在我的市场中，我的大多数代理客户习惯于根据固定的每次交付成本来收取交付费用。我确信这是旧磁带时代的延续，当时我们根据制作并发送到当地电视台的 BetaSP 配音数量来收费。 但是现在有了如此多不同的编码格式和规范，像模拟时代那样对数字交付内容收费没有多大意义。我花了很多时间解析令人困惑且经常矛盾和无意义的规格表（就像我刚刚做的那样，他们需要 1920x1080 H264 的 a:30 以 5 Mb/秒的比特率，但文件大小不能超过4 兆字节！），所以我试图向客户证明，从现在开始，交付成果必须按小时计费。 不过，我可能搬起石头砸自己的脚，因为我的客户知道我已经编写了 Python 脚本来自动为具有“已知良好”功能的本地电台创建可交付成果。眼镜。因此，对于这些电台，我只需将 ProRes 母版拖到脚本输入上，我就可以在几秒钟内生成具有不同规格的 6 个不同的可交付成果。所以他们认为所有这些事情都很简单！ 我知道解决所有这些问题的正确解决方案是按照我的正常小时费率向他们收费，但我的许多客户都是前面提到的长期、老派广告代理类型，所以当我告诉他们我不能像在磁带时代那样对可交付成果进行计费时，他们可能会生气！    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm2h93/charging_for_deliverables_based_on_hourly_rate_or/</guid>
@@ -92,7 +85,7 @@
     <item>
       <title>编辑装备：将 NVME 驱动器放入 RAID</title>
       <link>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</link>
-      <description><![CDATA[我正在设置一个视频编辑工作站，并尝试充分利用我的 z790 主板（Asus Hero BTF）上的 5 个 NVME 插槽。第一个插槽仅用于我的操作系统和暂存盘，但我想对其他 4 个插槽进行 RAID，以便快速读取/写入项目文件。 请先回答这个问题：您知道主板上 NVME 驱动器的软件 raid 解决方案对编辑有意义吗？我见过提到英特尔 RST、英特尔 VROC、StorageSpaces、DrivePool、REFS、XFS，但没有一个主题突出以速度为导向或可供 Win10 计算机上的专业消费者使用。 问题我想大多数人都会对我大喊大叫：我真的“需要”吗？如果我已经在使用 NVME 驱动器，那么 RAID 带来的额外速度。是的。让我们假设答案是肯定的。   由   提交 /u/besttype   [链接] [评论]]]></description>
+      <description><![CDATA[我正在设置一个视频编辑工作站，并试图充分利用我的 z790 主板 (Asus hero BTF) 上的 5 个 NVME 插槽。第一个插槽只用于我的操作系统和暂存盘，但我想将其他 4 个插槽一起组成 RAID，以便对项目文件进行闪电般的快速读写。 请先回答这个问题：您是否知道主板上适合编辑的 NVME 驱动器的软件 raid 解决方案？我见过提到 Intel RST、Intel VROC、StorageSpaces、DrivePool、REFS、XFS，但没有一个主题以速度为导向或可供 Win10 机器上的专业消费者使用而脱颖而出。 我认为大多数人会对我大喊大叫：如果我已经在使用 NVME 驱动器，我真的“需要”RAID 的额外速度吗？是的。让我们假装答案是肯定的。    提交人    /u/besttype   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</guid>
       <pubDate>Tue, 07 May 2024 00:43:09 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[我有一位客户，他在收款方面有着出色的技巧。但我从未见过他全神贯注于任何事情。他拍摄了很长的采访，然后把它们交给我编辑成 5 分钟的商业影片或商业简介，但没有真正的方向。这个过程通常涉及大量的修改（首先是他的修改，然后是客户的修改），从而导致视频质量不佳。通常，他的修改笔记会导致客户质疑作品的逻辑结构，而我最终会回到旧的剪辑。他的理念是给客户他们想要的东西，但我们似乎从未获得回报。 我如何让他专注于实际产品？他似乎太忙于收集业务，无暇专注于实际制作高质量的视频。 去年，我为一家小型企业编辑了一个 5 分钟的迷你文档，其中使用了一个小时的采访和花絮，当时客户特别想要一个 1 分钟的垂直移动广告，完全没有对话。这只是一次沟通失误……我花了一周时间拍摄一部客户甚至不想要的电影。  最近，我花了 70 个小时对他和他的客户提取的选择进行编辑。当我向客户展示时，所有的选择都是错误的。我一直都有报酬，但该死的，我想为更关心我的人工作。   由   提交 /u/RibbitClyde   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1clvi4y/anyone_have_advice_for_working_for_the_unorganized/</guid>
       <pubDate>Mon, 06 May 2024 22:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在 30 天后取消的最佳素材网站吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</link>
+      <description><![CDATA[我正在为医疗保健行业的客户编辑一个项目。我需要一些有关红细胞和医生/患者互动的素材。我通常不使用库存素材，因此我将要求我的客户购买许可证。我想知道是否有一个网站可以提供当月单一价格下载的所有内容，因为我计划在该月结束后取消。任何建议将不胜感激！    由   提交/u/kikokiko12  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1clumzj/best_stock_footage_site_that_i_can_cancel_after/</guid>
+      <pubDate>Mon, 06 May 2024 21:26:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
