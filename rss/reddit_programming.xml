@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 08 May 2024 15:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 18:12:01 GMT</lastBuildDate>
+    <item>
+      <title>别再追着尾巴了：维护复杂系统的实用指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1cna0uk/stop_chasing_your_tail_a_practical_guide_to/</link>
+      <description><![CDATA[ 由   提交/u/lauluz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cna0uk/stop_chasing_your_tail_a_practical_guide_to/</guid>
+      <pubDate>Wed, 08 May 2024 17:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>xkcd《机器》的开发笔记</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn9tzf/development_notes_from_xkcds_machine/</link>
+      <description><![CDATA[ 由   提交/u/chromakode  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn9tzf/development_notes_from_xkcds_machine/</guid>
+      <pubDate>Wed, 08 May 2024 17:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgres 变更数据捕获 (CDC) 中的简单行级转换</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn98rv/simple_rowlevel_transformations_in_postgres/</link>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn98rv/simple_rowlevel_transformations_in_postgres/</guid>
+      <pubDate>Wed, 08 May 2024 16:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习和回顾系统内部结构：战术和心理学</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn8f4r/learning_and_reviewing_system_internals_tactics/</link>
+      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn8f4r/learning_and_reviewing_system_internals_tactics/</guid>
+      <pubDate>Wed, 08 May 2024 16:11:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>两年写 RFC – 我的团队的统计</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn80fy/two_years_of_writing_rfcs_statistics_of_my_team/</link>
+      <description><![CDATA[ 由   提交/u/Tiendil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn80fy/two_years_of_writing_rfcs_statistics_of_my_team/</guid>
+      <pubDate>Wed, 08 May 2024 15:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>DenseNet 深度神经网络架构解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn7f4h/densenet_deep_neural_network_architecture/</link>
+      <description><![CDATA[ 由   提交/u/research_pie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn7f4h/densenet_deep_neural_network_architecture/</guid>
+      <pubDate>Wed, 08 May 2024 15:29:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTMX、alpine.js 和 Go 中的简单 Todo 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn70ow/simple_todo_app_in_htmx_alpinejs_and_go/</link>
+      <description><![CDATA[ 由   提交/u/CodeByExample  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn70ow/simple_todo_app_in_htmx_alpinejs_and_go/</guid>
+      <pubDate>Wed, 08 May 2024 15:13:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有错误消息在某种程度上都是不好的</title>
+      <link>https://www.reddit.com/r/programming/comments/1cn6y74/all_error_messages_are_necessarily_bad_to_some/</link>
+      <description><![CDATA[ 由   提交/u/Tekmo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cn6y74/all_error_messages_are_necessarily_bad_to_some/</guid>
+      <pubDate>Wed, 08 May 2024 15:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>客户身份迁移之旅</title>
       <link>https://www.reddit.com/r/programming/comments/1cn5f96/a_customer_identity_migration_journey/</link>
@@ -43,7 +99,7 @@
     <item>
       <title>使用 Kafka Streams 估算 Pi</title>
       <link>https://www.reddit.com/r/programming/comments/1cn41sn/estimating_pi_with_kafka_streams/</link>
-      <description><![CDATA[  由    /u/AdjointFunctor  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/AdjointFunctor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cn41sn/estimating_pi_with_kafka_streams/</guid>
       <pubDate>Wed, 08 May 2024 13:03:43 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cn3ybi/what_software_developers_hate/</guid>
       <pubDate>Wed, 08 May 2024 12:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试失败应该是可操作的</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn3dwp/test_failures_should_be_actionable/</link>
-      <description><![CDATA[ 由   提交/u/codingindoc  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn3dwp/test_failures_should_be_actionable/</guid>
-      <pubDate>Wed, 08 May 2024 12:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>超棒的正则表达式：适用于所有主流正则表达式风格的最佳正则表达式工具、教程、库等</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn2yiv/awesome_regex_the_best_regex_tools_tutorials_libs/</link>
-      <description><![CDATA[ 由   提交 /u/slevlife    [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn2yiv/awesome_regex_the_best_regex_tools_tutorials_libs/</guid>
-      <pubDate>Wed, 08 May 2024 12:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Winglang 中间件</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn2y12/in_search_for_winglang_middleware/</link>
-      <description><![CDATA[ 由   提交/u/congolomera  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn2y12/in_search_for_winglang_middleware/</guid>
-      <pubDate>Wed, 08 May 2024 12:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI/ML 缺少 docker build | docker run 工作流程？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn21lh/the_docker_build_docker_run_workflow_missing_from/</link>
-      <description><![CDATA[ 由   提交/u/iamjessew  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn21lh/the_docker_build_docker_run_workflow_missing_from/</guid>
-      <pubDate>Wed, 08 May 2024 11:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Tailwind CSS 和 Alpinejs 创建上下文菜单</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmzx4l/how_to_creat_a_contextual_menu_with_tailwind_css/</link>
-      <description><![CDATA[ 由   提交 /u/Michael_andreuzza   [链接]   创建上下文菜单[评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmzx4l/how_to_creat_a_contextual_menu_with_tailwind_css/</guid>
-      <pubDate>Wed, 08 May 2024 08:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 PostgreSQL 中使用 JSONB 类型的实用指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmzaim/a_practical_guide_to_using_the_jsonb_type_in/</link>
-      <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmzaim/a_practical_guide_to_using_the_jsonb_type_in/</guid>
-      <pubDate>Wed, 08 May 2024 08:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们替换synchronized关键字</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmz7pr/lets_replace_the_synchronized_keyword/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmz7pr/lets_replace_the_synchronized_keyword/</guid>
-      <pubDate>Wed, 08 May 2024 08:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot 真的提高了我的工作效率吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1cmy2x4/did_github_copilot_really_increase_my_productivity/</link>
-      <description><![CDATA[ 由   提交/u/Xadartt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cmy2x4/did_github_copilot_really_increase_my_productivity/</guid>
-      <pubDate>Wed, 08 May 2024 06:43:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
