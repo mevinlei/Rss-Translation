@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 08 May 2024 06:11:52 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 08 May 2024 09:09:24 GMT</lastBuildDate>
+    <item>
+      <title>推荐一款可以定期将在线电子邮件和附件备份到驻留在外部硬盘驱动器上的电子邮件客户端的软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1cmyde3/recommendation_for_a_software_that_can_backup/</link>
+      <description><![CDATA[非常理想的软件，可以定期将所有在线电子邮件从 gmail 备份到希捷硬盘之类的设备。为了对抗可笑的新 Whatsapp 谷歌存储和类似的存储。如果是实时的就更好了。   由   提交 /u/usmannaeem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cmyde3/recommendation_for_a_software_that_can_backup/</guid>
+      <pubDate>Wed, 08 May 2024 07:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>请确定使用什么股票市场软件/在线金融工具来显示此 SBUX 收益报告？谢谢！</title>
       <link>https://www.reddit.com/r/software/comments/1cmwsxg/please_identify_what_stock_market_software_online/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>您对 Obsidian 软件有何看法？</title>
       <link>https://www.reddit.com/r/software/comments/1cmjave/what_is_your_opinion_on_the_software_obsidian/</link>
-      <description><![CDATA[https://obsidian.md 我遇到了它。看起来不错。但不容易采用。     提交人    /u/NoShirt158   [link] [评论]]]></description>
+      <description><![CDATA[https://obsidian.md 我遇到了。看起来不错。但不容易被采纳。    由   提交/u/NoShirt158  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cmjave/what_is_your_opinion_on_the_software_obsidian/</guid>
       <pubDate>Tue, 07 May 2024 18:45:32 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！  我一直是这个子项目的长期潜伏者和偶尔的贡献者，我很欣赏定期在这里自愿提供的专业知识。我不确定我正在寻找的东西是否是不寻常的，或者我是否只是没有正确的术语来搜索它，但这里是： 我正在寻找一个类似于 Google 我的地图或 OSM uMap 的工具（最好是基于网络的工具，但我可以使用任何能让我探索这个概念的工具），它允许我绘制多边形和 POI，然后沿着时间轴对它们进行关键帧设置以显示变化随着时间的推移，区域和兴趣点。  例如，我想绘制“家”的 POI并将其移动到我在 2000 年、2010 年、2020 年等居住的地方。我还想为我的家乡绘制一个多边形并使其相应地改变。如果它可以处理 KML、CSV 或 GeoJSON 数据导入，则加分。  非常感谢您提供的任何建议！    由   提交/u/darkbloo64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cma40e/custom_maps_with_time_controls/</guid>
       <pubDate>Tue, 07 May 2024 11:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>互动时间线</title>
-      <link>https://www.reddit.com/r/software/comments/1cm8zaq/interactive_timeline/</link>
-      <description><![CDATA[嗨！我在一家拥有许多锯木厂的企业集团工作，我希望将文档和历史数字化，以便员工和公众能够看到。我想要一个在线时间表，突出显示某些年份内发生的事件（我们公司成立于 1899 年，因此有大量内容需要涵盖）。 ​ I希望时间线是动态和交互式的，我希望能够制作对象（例如我们拥有的锯木厂）并制作它，以便人们可以按对象/锯木厂的名称，然后发送到我有的另一个页面有关该特定地点的更多信息。 ​ 该工具可以是付费版本，如果我可以为其附加一个域，那就太好了。  ​ 有人知道任何替代方案吗？ ​ 谢谢！ &lt; /div&gt;  由   提交 /u/Anthrophaxiom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cm8zaq/interactive_timeline/</guid>
-      <pubDate>Tue, 07 May 2024 10:51:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新投稿：编辑</title>
+    <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 08 May 2024 06:11:46 GMT</lastBuildDate>
+    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
+    <lastBuildDate>Wed, 08 May 2024 09:09:19 GMT</lastBuildDate>
+    <item>
+      <title>文件损坏</title>
+      <link>https://www.reddit.com/r/editors/comments/1cmxx9n/corrupted_file/</link>
+      <description><![CDATA[嗨 我的相机（索尼 a 7iii）在拍摄过程中因电池电量不足而关闭 - 现在无法播放和编辑它录制的视频文件。有人遇到过这种情况吗？知道修复文件或转换文件的选项吗？    提交人    /u/Omer76rise   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cmxx9n/corrupted_file/</guid>
+      <pubDate>Wed, 08 May 2024 06:33:16 GMT</pubDate>
+    </item>
     <item>
       <title>整合您的 Adob​​e 团队</title>
       <link>https://www.reddit.com/r/editors/comments/1cmxfqe/consolidate_your_adobeteam/</link>
@@ -64,14 +71,14 @@
     <item>
       <title>建立内部MAM图书馆的平台（库存）</title>
       <link>https://www.reddit.com/r/editors/comments/1cmdg1s/platform_for_building_internal_mam_library_stock/</link>
-      <description><![CDATA[大家好！ 正在做一些代理工作，并尝试使用各种网站建立一个素材库，最好是带有可预览缩略图的 YouTube。我想按类别分开媒体，并通过插入 URL 输入剪辑，这样我就不需要下载每个剪辑。有人做过类似的事情吗？考虑过使用 Figma 或 Miro。我们有能力花钱，但更大的 MAMS 似乎在这里不需要。    提交人    /u/basicinsomniac   [link] [评论]]]></description>
+      <description><![CDATA[大家好！  做一些代理工作，并尝试使用各种网站（最好是 YouTube 等可预览缩略图）建立素材库。我想按类别分隔媒体，并通过插入 URL 来输入剪辑，这样我就不需要下载每个剪辑。有人做过类似的事情吗？考虑过使用 Figma 或 Miro。我们有能力花钱，但这里似乎不需要更大的 MAMS。   由   提交 /u/basicinsomniac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cmdg1s/platform_for_building_internal_mam_library_stock/</guid>
       <pubDate>Tue, 07 May 2024 14:37:07 GMT</pubDate>
     </item>
     <item>
       <title>在担任自由编辑的同时兼职编辑工作？</title>
       <link>https://www.reddit.com/r/editors/comments/1cm9l4t/parttime_editing_job_while_freelancing_as_editor/</link>
-      <description><![CDATA[由于目前大多数人的工作情况仍然非常糟糕，我想知道是否有人有过在广告公司兼职的经历，比如在项目来临时还在网站上做自由职业者？ 在这种情况下，你会如何与广告公司接洽？在 LinkedIn 上写任何全职工作机会，并在第一条消息中要求兼职职位？如果他们也以自由职业者的身份在网站上编辑，他们可能不会高兴，对吧？    提交人    /u/Zeigerful   [链接] [评论]]]></description>
+      <description><![CDATA[由于目前这里大多数人的工作状况仍然很糟糕，我想知道这里是否有人有过打工的经验例如，当项目到来时，广告代理公司仍在网站上做自由职业？ 您会如何与代理机构联系？在 LinkedIn 上写下任何全职工作机会，然后在第一条消息中请求兼职职位？如果他们也以自由职业者的身份在网站上进行编辑，他们可能会不高兴，对吗？   由   提交 /u/Zeigerful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm9l4t/parttime_editing_job_while_freelancing_as_editor/</guid>
       <pubDate>Tue, 07 May 2024 11:26:36 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[只是好奇你们中的一些人如何向客户收取最终交付成果的费用？在我的市场中，我的大多数代理客户习惯于根据固定的每次交付成本来收取交付费用。我确信这是旧磁带时代的延续，当时我们根据制作并发送到当地电视台的 BetaSP 配音数量来收费。 但是现在有了如此多不同的编码格式和规范，像模拟时代那样对数字交付内容收费没有多大意义。我花了很多时间解析令人困惑且经常矛盾和无意义的规格表（就像我刚刚做的那样，他们需要 1920x1080 H264 的 a:30 以 5 Mb/秒的比特率，但文件大小不能超过4 兆字节！），所以我试图向客户证明，从现在开始，交付成果必须按小时计费。 不过，我可能搬起石头砸自己的脚，因为我的客户知道我已经编写了 Python 脚本来自动为具有“已知良好”功能的本地电台创建可交付成果。眼镜。因此，对于这些电台，我只需将 ProRes 母版拖到脚本输入上，我就可以在几秒钟内生成具有不同规格的 6 个不同的可交付成果。所以他们认为所有这些事情都很简单！ 我知道解决所有这些问题的正确解决方案是按照我的正常小时费率向他们收费，但我的许多客户都是前面提到的长期、老派广告代理类型，所以当我告诉他们我不能像在磁带时代那样对可交付成果进行计费时，他们可能会生气！    由   提交 /u/doctorpebkac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cm2h93/charging_for_deliverables_based_on_hourly_rate_or/</guid>
       <pubDate>Tue, 07 May 2024 03:38:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑装备：将 NVME 驱动器放入 RAID</title>
-      <link>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</link>
-      <description><![CDATA[我正在设置一个视频编辑工作站，并尝试充分利用我的 z790 主板（Asus Hero BTF）上的 5 个 NVME 插槽。第一个插槽仅用于我的操作系统和暂存盘，但我想对其他 4 个插槽进行 RAID，以便快速读取/写入项目文件。 请先回答这个问题：您知道主板上 NVME 驱动器的软件 raid 解决方案对编辑有意义吗？我见过提到英特尔 RST、英特尔 VROC、StorageSpaces、DrivePool、REFS、XFS，但没有一个主题突出以速度为导向或可供 Win10 计算机上的专业消费者使用。 问题我想大多数人都会对我大喊大叫：我真的“需要”吗？如果我已经在使用 NVME 驱动器，那么 RAID 带来的额外速度。是的。让我们假设答案是肯定的。   由   提交 /u/besttype   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1clyztk/editing_rig_putting_nvme_drive_into_a_raid/</guid>
-      <pubDate>Tue, 07 May 2024 00:43:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
