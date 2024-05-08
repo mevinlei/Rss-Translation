@@ -3,12 +3,33 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 08 May 2024 18:11:55 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Wed, 08 May 2024 21:11:22 GMT</lastBuildDate>
+    <item>
+      <title>我可以让“绘制我的步行路线”更加准确吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</link>
+      <description><![CDATA[我知道当GPS首次公开时，美国政府出于对恐怖分子的恐惧而对其准确性进行了限制。但是，我也知道这些限制最终被取消了。那么，为什么当我使用“Map My Walk”时，它可能会偏离 15 英尺以上（即，在同一条车道上走环形轨道时，会显示我改变 2 个或更多车道以及在田野上行走） ）。有没有办法让它更准确？   由   提交/u/Rich-Imagination2444   reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cncpgk/can_i_make_map_my_walk_more_accurate/</guid>
+      <pubDate>Wed, 08 May 2024 19:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计小型住宅村的最佳建筑设计软件是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</link>
+      <description><![CDATA[我正在与我的非营利组织和城市合作开展一个项目，我也是一名工程专业的学生。我想尝试使用软件来设计一个小家庭过渡村的概念，向他们展示这个提案。最好使用什么软件来执行此操作？我想向他们展示一些可以更好地传达我的想法的东西。  我还有一台电脑。   由   提交/u/soko603  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnbtuf/what_would_be_the_best_architecture_design/</guid>
+      <pubDate>Wed, 08 May 2024 18:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可能用一本字典来统治所有这些？</title>
+      <link>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</link>
+      <description><![CDATA[有没有人找到一种方法来拥有自己的拼写字典，并且可以使用 Git 将其备份到某个地方？  我在多台机器上使用多个 IDE、记事本和第二大脑应用程序，我希望只需单击“添加到词典”即可。一次。将字典更新到中央存储库，然后允许我的所有其他设备使用同一字典。我目前正在“添加到词典”多次使用同一个单词 如果我有勇气打开包含“glorpuscles”这样的单词的同一个文件，或“meowssacre”在两种不同的设备上，所有这些都是为了安抚那些在我们的屏幕上画红蛇的计算机侏儒，以吓唬我们遵守语言合规性和严格的拼写规则。  您目前正在这样做吗？您能告诉我如何或从哪里开始寻找吗？  我今天可能在互联网搜索 gnomes 上遇到了困难，但我无法使用我选择的搜索引擎找到一个很好的答案。这可能是我想得太多了。  非常感谢。   由   提交/u/14PulsarsV1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cnbcyb/is_it_possible_to_have_one_dictionary_to_rule/</guid>
+      <pubDate>Wed, 08 May 2024 18:14:49 GMT</pubDate>
+    </item>
     <item>
       <title>是否有程序/方法可以更改照片文件的日期以匹配 EXIF 元数据日期？</title>
       <link>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</link>
-      <description><![CDATA[我发现了一个名为“的软件照片日期更改器”但它是付费的。我想要类似的软件，但免费。   由   提交 /u/Accomplished-Scar513    reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我发现了一款​​名为“Photo Date Changer”的软件，但需要付费。我想要一款类似的免费软件。    提交人    /u/Accomplished-Scar513   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cna70s/is_there_a_programmethod_to_change_photo_files/</guid>
       <pubDate>Wed, 08 May 2024 17:25:45 GMT</pubDate>
     </item>
@@ -22,7 +43,7 @@
     <item>
       <title>寻找一个可以提示操作和创建图像的人工智能应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1cn3yu9/looking_for_an_ai_app_that_manipulate_and_create/</link>
-      <description><![CDATA[你们知道电脑或手机上有一个应用程序或软件可以创建图像的草图形式并参考所输入的提示吗？做它的事。我不太擅长解释，但我希望你明白这一点。（抱歉英语不好）   由   提交 /u/DueNectarine8151   [链接] [评论]]]></description>
+      <description><![CDATA[你们知道电脑或手机上有什么应用程序或软件可以创建图像的草图形式并参考已输入的提示并执行其操作吗？我不太会解释，但我希望你能明白我的意思。（抱歉我的英语不好）    提交人    /u/DueNectarine8151   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cn3yu9/looking_for_an_ai_app_that_manipulate_and_create/</guid>
       <pubDate>Wed, 08 May 2024 13:00:07 GMT</pubDate>
     </item>
@@ -69,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 05:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>寻找创办软件公司。如何找到合作的开发商？</title>
+      <title>想要创办软件公司。如何找到合作伙伴开发商？</title>
       <link>https://www.reddit.com/r/software/comments/1cmwmyo/looking_to_start_software_company_how_to_find_a/</link>
       <description><![CDATA[我是一名营销专家，希望创办一家软件公司。我在数字和实体电子商务领域拥有丰富的经验，但在软件/编码领域的经验不多。  如何找到渴望为初创公司工作的软件开发人员？理想情况下，我正在寻找与之建立合作伙伴关系的人。 感谢所有帮助！   由   提交 /u/ninjabnw   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cmwmyo/looking_to_start_software_company_how_to_find_a/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[我使用的是手机而不是电脑。我正在寻找一个可以在整个网页上调整 HSV 的浏览器扩展程序，因为某些网站包含眼睛疲劳元素。 我查看了该扩展程序，但它是来自可疑网站的链接，我没有时间找到原始仓库是谁，因为我正在打电话。请尽快回复。   由   提交/u/mekkyz-stuffz   /u/mekkyz-stuffz reddit.com/r/software/comments/1cmuhb7/urgent_ adjustment_hsv_in_an_entire_webpage/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cmuhb7/urgent_adjusting_hsv_in_an_entire_webpage/</guid>
       <pubDate>Wed, 08 May 2024 03:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>jdownloader2 安全吗，没有广告软件链接</title>
-      <link>https://www.reddit.com/r/software/comments/1cmu9oz/is_jdownloader2_safe_with_the_no_adware_link/</link>
-      <description><![CDATA[标题   由   提交/u/Kolton_russo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cmu9oz/is_jdownloader2_safe_with_the_no_adware_link/</guid>
-      <pubDate>Wed, 08 May 2024 02:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺顿安装程序 6000</title>
-      <link>https://www.reddit.com/r/software/comments/1cmsyge/norton_installer_6000/</link>
-      <description><![CDATA[ 由   提交/u/Pete_Joe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cmsyge/norton_installer_6000/</guid>
-      <pubDate>Wed, 08 May 2024 01:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI重写技术</title>
-      <link>https://www.reddit.com/r/software/comments/1cmrs4h/ai_rewriting_technology/</link>
-      <description><![CDATA[大家好，我正在尝试帮助我的工作团队找到一款优秀的 AI 写作软件，以协助我们撰写报告。目前，ChatGPT 的工作方式非常适合我们的需求，但该网站保存了所有内容，而我们在这里处理的是机密信息。 很多您为这种事情购买的程序仍然相当新，所以我并不相信我在网上找到的评论，因为有太多好评，而负面评论不够多，无法正确了解我正在处理的问题。 可能是一个长远的目标，但我想我可以在这里问，因为我会从真正的人那里得到真正的信息，他们可能比我更了解这些东西。任何建议都将不胜感激。 附言我们尝试了 Grammarly，但老板对它的工作并不满意，我觉得它有点烦人。    提交人    /u/Chexpet   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cmrs4h/ai_rewriting_technology/</guid>
-      <pubDate>Wed, 08 May 2024 00:52:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
