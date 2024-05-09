@@ -4,13 +4,20 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 09 May 2024 12:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 15:09:50 GMT</lastBuildDate>
     <item>
-      <title>我想开始制作动态图形，但不知道从哪里开始</title>
-      <link>https://www.reddit.com/r/editors/comments/1cnvhgp/i_want_to_start_motion_graphics_but_dont_know/</link>
-      <description><![CDATA[我是一名使用 davinci resolve 进行编辑的视频编辑，我对制作动态图形和类似的东西很感兴趣，但我不知道从哪里开始使用 After Effects（我知道 After Effects 的基础知识）比如我应该直接从动态图形教程/基础知识开始，还是应该完全学习/理解 After Effects，然后再进行动态图形制作。任何建议或建议都将不胜感激 😃    提交人    /u/Technical-Tourist886   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cnvhgp/i_want_to_start_motion_graphics_but_dont_know/</guid>
-      <pubDate>Thu, 09 May 2024 11:58:08 GMT</pubDate>
+      <title>Premiere Pro 无法自动重新链接的解决方法</title>
+      <link>https://www.reddit.com/r/editors/comments/1cnz748/a_workaround_for_premiere_pro_not_relinking/</link>
+      <description><![CDATA[您好， 有时我会遇到这样的问题：当我所做的只是更改项目所在的存储。因此卷名称下面的所有目录保持不变。然而 Premiere 并没有重新链接它们。有些项目从来没有发生过这种情况，有时它只是发生了，上次发生这种情况时我找不到解决方案。 这一次，因为我最近接触了一些管道工具和 XML 语言，所以我有了一个想法。我在 mac 上使用 BBEdit 将项目作为文本文件打开。结果这只是一个 XML 文件。我进行了基本的查找和替换以查找所有目录行，并使用新的目录行更改了卷名称。然后它就成功了。 有人使用过这个解决方案并在过去遇到过问题吗？ 系统规格：Apple Mackbook Pro M1 Pro，8 CPU 16GB RAM &lt; p&gt;软件规格：Premiere Pro 2024.1.0 素材规格：Prores Proxy，来自设置的原始 .waw 音频。    由   提交 /u/demirdelenbaris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cnz748/a_workaround_for_premiere_pro_not_relinking/</guid>
+      <pubDate>Thu, 09 May 2024 14:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们都是如何在 Mac 上预览 MXF 文件的？</title>
+      <link>https://www.reddit.com/r/editors/comments/1cnz2zd/how_are_you_all_previewing_mxf_files_on_your_mac/</link>
+      <description><![CDATA[我通常使用桥接器在驱动器之间复制和粘贴 mxf 文件或决定将哪些文件导入 PPro。仍然没有办法在查找器中按图标排序以快速查看您正在查看的内容吗？    提交人    /u/GuyNamedLindsey   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cnz2zd/how_are_you_all_previewing_mxf_files_on_your_mac/</guid>
+      <pubDate>Thu, 09 May 2024 14:48:54 GMT</pubDate>
     </item>
     <item>
       <title>如何在自由职业者简历中列出经常性预订？</title>
@@ -29,7 +36,7 @@
     <item>
       <title>在这种特殊情况下，时间表分辨率是否会影响出口质量？</title>
       <link>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</link>
-      <description><![CDATA[前几天我正在与某人交谈，并意识到我从未真正考虑过这个特定的实例... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有什么区别吗？ 1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，4K 时间线有什么好处吗？首先将 4K 素材放入高清时间轴中是否会造成明显的质量损失？   由   提交 /u/carterketchup   [链接] [评论]]]></description>
+      <description><![CDATA[前几天我和某人聊天，突然意识到我从来没有真正考虑过这个特定情况... 如果您有 4K 素材并计划以 1080p 导出，时间线是 4K 还是 1080p 有区别吗？1080p 显然使编辑更加流畅，但是当最终交付为 1080p 时，时间线为 4K 有什么好处吗？首先将 4K 素材放入高清时间线是否会有明显的质量损失？    提交人    /u/carterketchup   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnq757/does_timeline_resolution_affect_export_quality_in/</guid>
       <pubDate>Thu, 09 May 2024 06:06:14 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 08 May 2024 20:43:59 GMT</pubDate>
     </item>
     <item>
-      <title>在 Windows 上快速浏览素材的方法 - 有什么建议吗？</title>
+      <title>在 Windows 上快速浏览镜头的方法 - 有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1cne7rd/fast_ways_to_look_through_footage_on_windows_any/</link>
       <description><![CDATA[大家好 -  我通常在公司为我提供的 MacBook 上进行编辑，但我计划为其构建一台 PC编辑和游戏。有没有可以快速浏览素材的程序？当我在 Windows 机器上双击 MP4 素材时，它说存在编码问题。我认为这是因为我以 LOG 拍摄后的比特率。我需要下载 VLC 吗？或者是否有其他程序可以快速浏览并标记素材？   由   提交/u/V8Bowl  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cne7rd/fast_ways_to_look_through_footage_on_windows_any/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我自 2021 年以来一直在家办公。从那时起，我的 iMac 就一直积满灰尘，因为它总是从我的办公桌上被推到我最新的设备上我想知道是否有一种方法可以将它用作工作计算机的额外显示器，然后在一天结束时将其切换回我的个人计算机。 有人有类似的设置吗这个？ 我知道 Apple 不再支持此版本 iMac 的屏幕共享，但想知道是否有办法通过第三方设备或其他技术魔法来解决这个问题。 所讨论的 iMac 是 Retina 5k 27 英寸，2017 年。4.2Ghz 四核 Intel 处理器，40GB 内存   由   提交 /u/TamarrowNVRdies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cnabfx/using_an_imac_retina_5k_27inch_2017_as_an_extra/</guid>
       <pubDate>Wed, 08 May 2024 17:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>骗局？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cn9fyt/scam/</link>
-      <description><![CDATA[嗨，我是安妮·戴维森。罗致恒富招聘人员。很高兴认识您。 您对远程工作感兴趣吗？它可以在家里完成，没有时间和地点的限制。每天工作30-60分钟。按日计酬，无经验要求，日薪$200-$800。如果您想参与，请联系我们的负责人了解更多信息！ 负责人WhatsApp：+1xxxxxxc0 这是一个改善您生活的绝佳机会。不要错过它。 （要求：22岁以上）   由   提交/u/50shadezofpete  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cn9fyt/scam/</guid>
-      <pubDate>Wed, 08 May 2024 16:53:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
