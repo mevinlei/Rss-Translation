@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 09 May 2024 00:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 03:10:08 GMT</lastBuildDate>
+    <item>
+      <title>Windows 游戏启动器用 HTML5、JS、Django 和 wxPython 完成，然后使用 pyInstaller 和 NSIS 编译安装程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1cnlc2x/windows_game_launcher_done_in_html5_js_django_and/</link>
+      <description><![CDATA[ 由   提交/u/addisonio  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cnlc2x/windows_game_launcher_done_in_html5_js_django_and/</guid>
+      <pubDate>Thu, 09 May 2024 01:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能风险矩阵：风险缓解策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1cnkhcn/the_ai_risk_matrix_a_strategy_for_risk_mitigation/</link>
+      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cnkhcn/the_ai_risk_matrix_a_strategy_for_risk_mitigation/</guid>
+      <pubDate>Thu, 09 May 2024 00:50:09 GMT</pubDate>
+    </item>
     <item>
       <title>构建 AI 助理费用跟踪器 SwiftUI 应用程序 |第 1 部分 | iOS/iPadOS | macOS |视觉操作系统 |聊天GPT</title>
       <link>https://www.reddit.com/r/programming/comments/1cnk41w/build_an_ai_assistant_expense_tracker_swiftui_app/</link>
-      <description><![CDATA[  由    /u/alfianlo  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/alfianlo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cnk41w/build_an_ai_assistant_expense_tracker_swiftui_app/</guid>
       <pubDate>Thu, 09 May 2024 00:32:21 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>Postgres 变更数据捕获 (CDC) 中的简单行级转换</title>
       <link>https://www.reddit.com/r/programming/comments/1cn98rv/simple_rowlevel_transformations_in_postgres/</link>
-      <description><![CDATA[  由    /u/saipeerdb  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/saipeerdb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cn98rv/simple_rowlevel_transformations_in_postgres/</guid>
       <pubDate>Wed, 08 May 2024 16:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习和回顾系统内部结构：战术和心理学</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn8f4r/learning_and_reviewing_system_internals_tactics/</link>
-      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn8f4r/learning_and_reviewing_system_internals_tactics/</guid>
-      <pubDate>Wed, 08 May 2024 16:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>写 RFC 的两年时间——我的团队的统计数据</title>
-      <link>https://www.reddit.com/r/programming/comments/1cn80fy/two_years_of_writing_rfcs_statistics_of_my_team/</link>
-      <description><![CDATA[ 由   提交/u/Tiendil  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cn80fy/two_years_of_writing_rfcs_statistics_of_my_team/</guid>
-      <pubDate>Wed, 08 May 2024 15:54:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

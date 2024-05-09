@@ -3,10 +3,17 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 May 2024 00:37:22 GMT</lastBuildDate>
+    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Thu, 09 May 2024 03:10:41 GMT</lastBuildDate>
     <item>
-      <title>有没有 discord 开源客户端？我不在乎它是否违反服务条款，我只想要一个可以工作并且比原始应用程序更安全的客户端</title>
+      <title>好的笔记替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cnmi5x/goodnotes_alternative/</link>
+      <description><![CDATA[我正在寻找开源 Goodnotes 替代品。使用案例：导入规划 PDF（多页）并使用我的 Apple Pencil 在其上进行数字规划。我使用数字贴纸、手写、多种颜色/荧光笔以及捏合缩放。我并不真正使用输入的文本，但希望它同步到我的手机以供参考。谢谢！   由   提交/u/raynethedark  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cnmi5x/goodnotes_alternative/</guid>
+      <pubDate>Thu, 09 May 2024 02:31:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>有discord开源客户端吗？我不在乎它是否违反服务条款，我只想要一个能够工作并且比原始应用程序更安全的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/</link>
       <description><![CDATA[如果它不是一个废弃的项目，我会更喜欢它。   由   提交/u/JPXTUY-RETRO   /u/JPXTUY-RETRO reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cniq8s/is_is_there_a_discord_open_source_client_i_dont/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 08 May 2024 06:47:25 GMT</pubDate>
     </item>
     <item>
-      <title>有开源的体育/比赛预订系统吗？</title>
+      <title>有开源体育/游戏预订系统吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmw34v/is_there_open_source_sportsgame_booking_system/</link>
       <description><![CDATA[你好， 我正在寻找具有以下功能的东西：  &lt; p&gt;用户可以创建游戏（例如网球比赛） 他们可以在日历中安排游戏 其他人可以加入游戏或者创建者可以指定他们有多少玩家  是否有具有这些功能的东西？ &lt;!-- SC_ON - -&gt;  由   提交 /u/nocubicles   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmw34v/is_there_open_source_sportsgame_booking_system/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>如果我没有钱起诉罪犯，张贴许可证有何意义？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cms9g4/whats_the_point_of_posting_a_liscense_if_i_dont/</link>
-      <description><![CDATA[这是一个半开玩笑，但我从未见过认真讨论过这个问题。  &amp; #32；由   提交 /u/farteMonster   [链接] [评论]]]></description>
+      <description><![CDATA[这是个半开玩笑的话题，但我从未见过有人认真讨论过这个问题。    提交人    /u/farteMonster   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cms9g4/whats_the_point_of_posting_a_liscense_if_i_dont/</guid>
       <pubDate>Wed, 08 May 2024 01:16:37 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 00:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>从事开源软件实习/资助工作。</title>
+      <title>在开源软件领域从事实习/资助工作。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</link>
       <description><![CDATA[今天我看到，Processing 基金会设立了拨款，为人们在 4 个月内为其项目编写一些功能提供补贴。  我知道还有 Google 的代码之夏（今年已结束），还有尼克斯之夏。  您知道还有其他实习项目可以为开源做出贡献并从中赚取生活工资吗？    由   提交/u/RagingBass2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmqays/working_with_internshipgrants_in_open_source/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是一名瑞典人，大约 3 岁，在大型科技公司工作。当尝试更新我的简历时，我很困惑在哪里以及如何提及我的开源贡献： 贡献背景：这些是对 GitHub 上托管的云原生计算基金会 (CNCF) 项目所做的，其中我介绍了新功能。在其中一个项目中，我交付了一项关键的架构功能，这使我成为了该项目的维护者。 考虑到变更的规模和性质，我认为这些应该在简历中提及。所以我的问题是：  我应该将其放在工作经验中吗？ （鉴于这些与我作为公司的工程师有关）或者应该将其与项目一起放置？或者一个单独的部分来提及开源贡献？ 我应该详细说明这些贡献吗？在我最大的贡献中，也就是让我成为维护者的那一贡献中，我在 GitHub 问题中向项目维护者和管理员提出了该功能的精心设计和算法，所以我应该只用一两行提及它所实现的目标吗？到我的 PR 链接和解释该功能的链接？  提前致谢！   由   提交/u/Acrylonitrile-28  /u/Acrylonitrile-28 reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cmhmuf/how_to_mention_open_source_contributions_in_resume/</guid>
       <pubDate>Tue, 07 May 2024 17:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我找到一种方法在午夜后完全阻止我的笔记本电脑。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</link>
-      <description><![CDATA[我倾向于在计算机 (Windows 10) 上呆到很晚，这对我的健康非常不利。但我还是忍不住。我想找到一种方法来阻止它，那是很难撤消的。  它可能涉及向某人提供密码，但如果我不必这样做，那就更好了。 我已经使用了 Cold turkey 拦截器，但它太容易卸载了. 而且 Freedom 软件似乎不起作用。 我还需要无法使用此方法或替代方法更改计算机的时间，否则我就只能改变时间...... 最好的是如果我有两个或什至更多的解决方案，这样会更烦人和难以删除块。 我经常停留在互联网，但我也看以前下载的电影/电视节目，或者阅读文档... 我找到了一种阻止 Youtube 的方法，效果很好，但我不记得了指导方针是。 非常感谢   由   提交 /u/Loxarr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cmfxic/help_me_find_a_way_to_completely_block_my_laptop/</guid>
-      <pubDate>Tue, 07 May 2024 16:22:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
