@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 09 May 2024 09:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:13:46 GMT</lastBuildDate>
+    <item>
+      <title>使用您的 AWS 账户订阅 Enterprise Hub</title>
+      <link>https://huggingface.co/blog/enterprise-hub-aws-marketplace</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/enterprise-hub-aws-marketplace</guid>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用英特尔 Gaudi 2 和英特尔至强构建经济高效的企业 RAG 应用</title>
       <link>https://huggingface.co/blog/cost-efficient-rag-applications-with-intel</link>
@@ -48,14 +55,14 @@
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>推出开放思维链排行榜</title>
+      <title>开放思想排行榜链简介</title>
       <link>https://huggingface.co/blog/leaderboard-cot</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-cot</guid>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>万事通，精通某项技能，多用途变压器代理</title>
+      <title>万事通，多才多艺，多用途变压器代理</title>
       <link>https://huggingface.co/blog/jat</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/jat</guid>
@@ -76,39 +83,32 @@
       <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Gradio 的重新加载模式让你快速开发 AI 应用</title>
+      <title>利用 Gradio 的重新加载模式快速实现 AI 应用程序</title>
       <link>https://huggingface.co/blog/gradio-reload</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-reload</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面、无污染的评估</title>
+      <title>LiveCodeBench 排行榜简介 - 对代码法学硕士进行全面且无污染的评估</title>
       <link>https://huggingface.co/blog/leaderboard-livecodebench</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-livecodebench</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在拥抱人脸端点上运行隐私保护推理</title>
+      <title>在拥抱脸部端点上运行隐私保护推理</title>
       <link>https://huggingface.co/blog/fhe-endpoints</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fhe-endpoints</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Ryght 在 Hugging Face 的专家支持下开启医疗保健和生命科学之路</title>
+      <title>Ryght 在 Hugging Face 专家支持下助力医疗保健和生命科学发展</title>
       <link>https://huggingface.co/blog/ryght-case-study</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ryght-case-study</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>隆重推出 Idefics2：面向社区的强大 8B 视觉语言模型</title>
-      <link>https://huggingface.co/blog/idefics2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/idefics2</guid>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

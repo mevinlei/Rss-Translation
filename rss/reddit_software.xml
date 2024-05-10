@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 10 May 2024 09:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:14:36 GMT</lastBuildDate>
+    <item>
+      <title>将 Galaxy Buds 固件/软件闪存到我的耳塞上。</title>
+      <link>https://www.reddit.com/r/software/comments/1com4z4/flash_galaxy_buds_firmwaresoftware_to_my_earbuds/</link>
+      <description><![CDATA[您好， 我想知道是否有任何方法可以将固件/软件刷新到我的 Redmi Buds 4 Pro。这会有什么问题吗？   由   提交 /u/ImWafsel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1com4z4/flash_galaxy_buds_firmwaresoftware_to_my_earbuds/</guid>
+      <pubDate>Fri, 10 May 2024 10:17:43 GMT</pubDate>
+    </item>
     <item>
       <title>不同的宏记录器，具有比 jitbit 更好的图像识别能力</title>
       <link>https://www.reddit.com/r/software/comments/1cohrf4/different_macro_recorder_with_better_image/</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 10 May 2024 05:13:06 GMT</pubDate>
     </item>
     <item>
-      <title>机器人开发以自动化网页导航进行购买</title>
+      <title>开发机器人来自动化网页导航以进行购买</title>
       <link>https://www.reddit.com/r/software/comments/1coe3of/bot_development_to_automate_webpage_navigation/</link>
       <description><![CDATA[我正在寻找有关如何编写机器人代码以在高需求网站上进行购买的信息。我是一名软件开发人员，所以我觉得这是我至少应该能够学习的东西。我从来没有真正研究过这个，所以我不知道使用了什么技术和工具。有人可以购买已经开发的机器人并修改代码以在不同的网站上工作吗？这是问这类问题的正确 subreddit 吗？   由   提交 /u/ChrisOnEarth1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1coe3of/bot_development_to_automate_webpage_navigation/</guid>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 09 May 2024 19:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了我一直想要的 AI meme 应用</title>
+      <title>我制作了我一直想要的人工智能模因应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1co3xie/i_made_the_ai_meme_app_i_always_wanted/</link>
       <description><![CDATA[大家好， 我在这里看到了一些帖子，询问有关构建模因的软件。如果您像我一样并且在创建有趣的表情包时遇到困难，那么这个应用程序可能适合您！我想要一种方法来使用我拍摄的照片即时创建模因，但我找不到方法来做到这一点。所以我构建了它！ 认识 gigglz.app。只需上传照片，按下按钮，人工智能就会将您的照片变成搞笑的表情包。 无需注册即可免费试用！ 如果有任何反馈，请告诉我你认为呢。    由   提交 /u/EuphoricBuffalo3542   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co3xie/i_made_the_ai_meme_app_i_always_wanted/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>对图像搜索/注释/索引工具有什么建议吗？</title>
       <link>https://www.reddit.com/r/software/comments/1co0jme/any_suggestions_for_image_search_annotation/</link>
-      <description><![CDATA[我需要一个工具来帮助检索图像。我们有超过 5TB 的数码照片，这些照片是在过去 22 年拍摄的，在寻找特定内容或与特定主题相关的内容时遇到了困难。我正在寻找一个可以解析所有图像并具有某种索引的工具，我可以在其中搜索诸如“站在公共汽车前面的学生”之类的术语，它会显示具有该主题的图像。任何建议都非常感谢。    提交者    /u/AbbreviationsNo3907   [链接] [评论]]]></description>
+      <description><![CDATA[我需要一个工具来帮助检索图像。我们在过去 22 年里拍摄了超过 5TB 的数码照片，在寻找特定的或与特定主题相关的东西时遇到了困难。我正在寻找一种工具，可以解析所有图像并具有某种索引，我可以在其中搜索“学生站在公共汽车前”等术语，并且它会显示具有该主题的图像。任何建议都非常感谢。   由   提交 /u/AbbreviationsNo3907   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co0jme/any_suggestions_for_image_search_annotation/</guid>
       <pubDate>Thu, 09 May 2024 15:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件删除工具 - Windows 11，2024 年 5 月发布</title>
-      <link>https://www.reddit.com/r/software/comments/1co0c57/file_removal_tools_windows_11_may_2024_post/</link>
-      <description><![CDATA[TLDR: 尝试从我的计算机和外部驱动器中删除单个文件。 bleachbit.org 的 Bleachbit 仍然有用吗？橡皮擦作为 https://sourceforge.net/projects/eraser/ 中的程序安全吗？   我知道我可以使用 Microsoft 的 SDelete 之类的程序来删除内容，但我希望有一个值得信赖的程序，我可以用它来保存自己的命令行输入并自动执行一些操作。我只需要从文件资源管理器和外部驱动器中删除特定文件，并且我想确保这些段被正确覆盖以防止数据恢复。 我还想确保我使用的程序是安全的用来。我正在考虑的两个程序是 BleachBit 和 Eraser。对于这些程序对于我的用例的安全性和可用性有什么想法吗？   由   提交/u/DryBobcat50   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1co0c57/file_removal_tools_windows_11_may_2024_post/</guid>
-      <pubDate>Thu, 09 May 2024 15:43:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
