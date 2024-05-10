@@ -4,9 +4,37 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 10 May 2024 00:37:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:09:52 GMT</lastBuildDate>
     <item>
-      <title>每晚的游戏时间？查看我的 Discord 团队生成器！</title>
+      <title>所有 JavaScript 开发人员都需要了解的函数</title>
+      <link>https://www.reddit.com/r/programming/comments/1cofemy/functions_that_all_javascript_developers_need_to/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cofemy/functions_that_all_javascript_developers_need_to/</guid>
+      <pubDate>Fri, 10 May 2024 02:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简单的软件，用于模拟与人工智能的类人交互</title>
+      <link>https://www.reddit.com/r/programming/comments/1cof1ol/a_simple_software_for_simulating_humanlike/</link>
+      <description><![CDATA[ 由   提交/u/Dull_Barnacle2284   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cof1ol/a_simple_software_for_simulating_humanlike/</guid>
+      <pubDate>Fri, 10 May 2024 02:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>JSR 不是另一个包管理器</title>
+      <link>https://www.reddit.com/r/programming/comments/1codpmy/jsr_is_not_another_package_manager/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1codpmy/jsr_is_not_another_package_manager/</guid>
+      <pubDate>Fri, 10 May 2024 01:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>特征切片</title>
+      <link>https://www.reddit.com/r/programming/comments/1cocy2n/feature_slicing/</link>
+      <description><![CDATA[ 由   提交/u/brownmousesky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cocy2n/feature_slicing/</guid>
+      <pubDate>Fri, 10 May 2024 00:49:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>每晚都有游戏环节？查看我的 Discord 团队生成器！</title>
       <link>https://www.reddit.com/r/programming/comments/1coc16h/nightly_gaming_sessions_check_out_my_discord_team/</link>
       <description><![CDATA[ 由   提交 /u/xootersmite   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1coc16h/nightly_gaming_sessions_check_out_my_discord_team/</guid>
@@ -36,14 +64,14 @@
     <item>
       <title>免费索引会议：了解 Netflix、Uber、DoorDash、LinkedIn、Meta Build 搜索和人工智能应用程序如何</title>
       <link>https://www.reddit.com/r/programming/comments/1co8ms5/free_index_conference_hear_how_netflix_uber/</link>
-      <description><![CDATA[ 由   提交/u/julie-m-2010   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/julie-m-2010  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1co8ms5/free_index_conference_hear_how_netflix_uber/</guid>
       <pubDate>Thu, 09 May 2024 21:32:11 GMT</pubDate>
     </item>
     <item>
       <title>Protobuf 版本在这里：不要惊慌</title>
       <link>https://www.reddit.com/r/programming/comments/1co8eld/protobuf_editions_are_here_dont_panic/</link>
-      <description><![CDATA[  由    /u/Optimal-Builder-2816  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Optimal-Builder-2816   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1co8eld/protobuf_editions_are_here_dont_panic/</guid>
       <pubDate>Thu, 09 May 2024 21:22:23 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>buddy,好友分配器,下载buddy的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/programming/comments/1co7zr4/github_cozisbuddy_buddy_allocator/</link>
-      <description><![CDATA[  由   ​​ /u/caromobiletiscrivo  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交​​/u/caromobiletiscrivo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1co7zr4/github_cozisbuddy_buddy_allocator/</guid>
       <pubDate>Thu, 09 May 2024 21:05:09 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>在 vscode 中可视化和导航您的打字稿代码库</title>
       <link>https://www.reddit.com/r/programming/comments/1co5jpy/visualize_and_navigate_your_typescript_codebase/</link>
-      <description><![CDATA[  由    /u/0x5afe  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/0x5afe  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1co5jpy/visualize_and_navigate_your_typescript_codebase/</guid>
       <pubDate>Thu, 09 May 2024 19:23:07 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/eberkut  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1co59xv/its_always_tcp_nodelay_every_damn_time/</guid>
       <pubDate>Thu, 09 May 2024 19:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>绿面具。 PostgreSQL数据库匿名工具发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1co56r8/greenmask_postgresql_database_anonymization_tool/</link>
-      <description><![CDATA[ 由   提交/u/anyweny  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1co56r8/greenmask_postgresql_database_anonymization_tool/</guid>
-      <pubDate>Thu, 09 May 2024 19:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理技术债务</title>
-      <link>https://www.reddit.com/r/programming/comments/1co4ovn/how_to_deal_with_technical_debt/</link>
-      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1co4ovn/how_to_deal_with_technical_debt/</guid>
-      <pubDate>Thu, 09 May 2024 18:47:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>硅图形公司的兴衰</title>
-      <link>https://www.reddit.com/r/programming/comments/1co3is8/the_rise_and_fall_of_silicon_graphics/</link>
-      <description><![CDATA[ 由   提交 /u/31415926535897932379   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1co3is8/the_rise_and_fall_of_silicon_graphics/</guid>
-      <pubDate>Thu, 09 May 2024 17:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Rust 和 wgpu 构建了实时射线黑洞追踪器！</title>
-      <link>https://www.reddit.com/r/programming/comments/1co2mnm/built_a_realtime_ray_black_hole_tracer_in_rust/</link>
-      <description><![CDATA[ 由   提交 /u/cleggacus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1co2mnm/built_a_realtime_ray_black_hole_tracer_in_rust/</guid>
-      <pubDate>Thu, 09 May 2024 17:21:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

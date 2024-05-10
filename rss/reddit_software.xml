@@ -3,17 +3,24 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 10 May 2024 00:37:00 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Fri, 10 May 2024 03:09:46 GMT</lastBuildDate>
     <item>
-      <title>是否有提供完全远程嵌入式工作的网站？</title>
+      <title>开发机器人来自动化网页导航以进行购买</title>
+      <link>https://www.reddit.com/r/software/comments/1coe3of/bot_development_to_automate_webpage_navigation/</link>
+      <description><![CDATA[我正在寻找有关如何编写机器人代码以在高需求网站上进行购买的信息。我是一名软件开发人员，所以我觉得这是我至少应该能够学习的东西。我从来没有真正研究过这个，所以我不知道使用了什么技术和工具。有人可以购买已经开发的机器人并修改代码以在不同的网站上工作吗？这是问这类问题的正确 subreddit 吗？   由   提交 /u/ChrisOnEarth1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1coe3of/bot_development_to_automate_webpage_navigation/</guid>
+      <pubDate>Fri, 10 May 2024 01:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有完全远程嵌入式工作的网站？</title>
       <link>https://www.reddit.com/r/software/comments/1co8ehu/are_there_any_websites_for_fully_remote_embedded/</link>
       <description><![CDATA[如果没有，出于税务原因，我可能会接受 182 天或更短的国内停留时间。但是，最好是完全远程   由   提交 /u/jamawg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co8ehu/are_there_any_websites_for_fully_remote_embedded/</guid>
       <pubDate>Thu, 09 May 2024 21:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>我对收到的工作机会感到非常困惑和焦虑。请帮忙🙏</title>
+      <title>我对收到的工作邀请感到很困惑和焦虑。请帮帮我 😭</title>
       <link>https://www.reddit.com/r/software/comments/1co786p/im_so_confused_and_anxious_about_the_job_offer_i/</link>
       <description><![CDATA[（大家请帮我提建议。我没有人可以问；我所有的亲戚和朋友都在做生意。） 我来自三级理工学院，2024届学生。我最近收到了一家公司的“助理 ERP 顾问”职位邀请。拥有 5 LPA 工资和 42 个月的债券。一个人必须偿还加入以来收到的所有工资，才能解除这种束缚。我们的大学招生已经停止了，这是我手里唯一的offer。我更喜欢Web开发和DSA，这与当前的报价完全不匹配。 我的问题是： 1.我将来可以从ERP领域转向Web开发吗？ （请帮我解答这个问题） 2. 有没有公司为 ERP 顾问支付高薪？ 3. 可以加入这家初创公司，期待未来的发展吗？ 我请求大家双手合十🙏🏻🙇🏻‍♂️。大家好，请帮忙提出宝贵的建议。我将不胜感激每一个建议。 我也愿意接受任何机会和推荐。我有很好的DSA技能，可以解决多维DP问题。我可以发送我的简历来获取所有建议和机会。”   由   提交 /u/mikey_invinsible   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co786p/im_so_confused_and_anxious_about_the_job_offer_i/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 09 May 2024 19:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了我一直想要的人工智能模因应用程序</title>
+      <title>我制作了我一直想要的 AI meme 应用</title>
       <link>https://www.reddit.com/r/software/comments/1co3xie/i_made_the_ai_meme_app_i_always_wanted/</link>
       <description><![CDATA[大家好， 我在这里看到了一些帖子，询问有关构建模因的软件。如果您像我一样并且在创建有趣的表情包时遇到困难，那么这个应用程序可能适合您！我想要一种方法来使用我拍摄的照片即时创建模因，但我找不到方法来做到这一点。所以我构建了它！ 认识 gigglz.app。只需上传照片，按下按钮，人工智能就会将您的照片变成搞笑的模因。 无需注册即可免费试用！ 如果有任何反馈，请告诉我你认为呢。    由   提交 /u/EuphoricBuffalo3542   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co3xie/i_made_the_ai_meme_app_i_always_wanted/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>有什么软件可以创建可操作的 3D 模型？</title>
       <link>https://www.reddit.com/r/software/comments/1co3gcf/any_software_that_allows_creation_of_a_3d_model/</link>
-      <description><![CDATA[是否有任何软件可以让我创建一个老人的 3D 模型。然后使用该模型来改变姿势或举起手臂、张开嘴等。基本上创建一个角色并将其用作木偶。    由   提交/u/ProperAd3031   [链接] [评论]]]></description>
+      <description><![CDATA[有没有软件可以让我创建一个 3D 模型，例如一个老人。然后使用该模型来改变姿势或抬起手臂、张开嘴巴等动作。基本上就是创建一个角色并将其用作木偶。     提交人    /u/ProperAd3031   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1co3gcf/any_software_that_allows_creation_of_a_3d_model/</guid>
       <pubDate>Thu, 09 May 2024 17:56:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美好的一天， 我有一个 mp3 播放器（禅宗马赛克很重要），我得到了一堆 m4a 文件（ 200) 我想放入播放器中的音乐。问题是，播放器无法识别 m4a 格式。我尝试了几个转换器（在线和软件），它们要么每天最多处理 10 个文件，要么根本不起作用，文件损坏并且无法播放。我尝试了 VLC，它也会删除元数据。&lt; br /&gt; 专有软件（创意中心）可以识别专辑，但我不知道它是否可以将文件传输到播放器（我已经使用太久了，现在拒绝启动） 有人知道吗知道我能做什么吗？   由   提交 /u/DechireLAnusRex   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cnyfff/problems_with_a_mp3_player_and_m4a_format/</guid>
       <pubDate>Thu, 09 May 2024 14:19:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>“usbredir 是用于通过网络连接发送 USB 设备流量的网络协议的名称。它也是提供解析库、usbredirhost 库和实现该协议的几个实用程序的软件包的名称。”该协议“完全独立于香料”。</title>
-      <link>https://www.reddit.com/r/software/comments/1cnw2b5/usbredir_is_the_name_of_a_network_protocol_for/</link>
-      <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cnw2b5/usbredir_is_the_name_of_a_network_protocol_for/</guid>
-      <pubDate>Thu, 09 May 2024 12:28:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
