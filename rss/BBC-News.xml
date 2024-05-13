@@ -4,13 +4,76 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 13 May 2024 15:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:11:14 GMT</lastBuildDate>
     <item>
-      <title>部分移民法“不应适用于北爱尔兰”</title>
+      <title>梅琳达·法兰西·盖茨退出盖茨基金会</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-69005778</link>
+      <description><![CDATA[盖茨女士于 2021 年宣布与微软联合创始人比尔盖茨分居。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-69005778</guid>
+      <pubDate>Mon, 13 May 2024 17:39:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“可怕的分娩经历让我接受治疗”</title>
+      <link>https://www.bbc.co.uk/news/health-69002375</link>
+      <description><![CDATA[数百名妇女联系了 BBC 新闻，讲述了她们分娩时的痛苦经历。]]></description>
+      <guid>https://www.bbc.co.uk/news/health-69002375</guid>
+      <pubDate>Mon, 13 May 2024 17:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBC 调查后逮捕移民走私者</title>
+      <link>https://www.bbc.com/news/articles/c6pyyqep831o</link>
+      <description><![CDATA[欧洲最臭名昭著的人口走私犯之一巴尔赞·马吉德 (Barzan Majeed) 表示，他将数千人运过英吉利海峡。]]></description>
+      <guid>https://www.bbc.com/news/articles/c6pyyqep831o</guid>
+      <pubDate>Mon, 13 May 2024 17:15:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>因“气味”而移动露宿者的权力下降</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-69005091</link>
+      <description><![CDATA[在国会议员强烈反对后，因“气味”而让人们继续前进的权力将不再出现在法案中。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-69005091</guid>
+      <pubDate>Mon, 13 May 2024 16:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>卢旺达计划：NI法院裁决给部长们带来打击</title>
       <link>https://www.bbc.co.uk/news/uk-northern-ireland-69001673</link>
       <description><![CDATA[贝尔法斯特一家法院裁定英国政府的行为非法削弱了寻求庇护者的权利。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-northern-ireland-69001673</guid>
-      <pubDate>Mon, 13 May 2024 14:51:03 GMT</pubDate>
+      <pubDate>Mon, 13 May 2024 16:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯称军队进入哈尔科夫附近的边境城镇</title>
+      <link>https://www.bbc.com/news/articles/crgyymn8y3ro</link>
+      <description><![CDATA[乌克兰担心如果俄罗斯军队进入哈尔科夫的炮兵射程内可能发生的情况。]]></description>
+      <guid>https://www.bbc.com/news/articles/crgyymn8y3ro</guid>
+      <pubDate>Mon, 13 May 2024 16:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>母子因 XL 欺负男孩而被判入狱</title>
+      <link>https://www.bbc.com/news/articles/c1ejjz3jv5xo</link>
+      <description><![CDATA[法庭获悉，这只狗给男孩造成了“灾难性的、改变生活的伤害”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c1ejjz3jv5xo</guid>
+      <pubDate>Mon, 13 May 2024 15:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着以色列军队返回贾巴利亚，加沙人逃离</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-69001835</link>
+      <description><![CDATA[据报道，以色列称其目标是哈马斯重新集结的地区，因此发生了激烈的战斗。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-69001835</guid>
+      <pubDate>Mon, 13 May 2024 15:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普副总统有望在六个美洲原住民保留地被取缔</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-69004304</link>
+      <description><![CDATA[随着克里斯蒂·诺姆的争议不断增加，六个原住民部落禁止她进入他们的保留地。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-69004304</guid>
+      <pubDate>Mon, 13 May 2024 15:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙战争对以色列阵亡将士纪念日造成沉重影响</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-69004356</link>
+      <description><![CDATA[随着人们对以色列战争结果的疑问越来越多，整个国家陷入悲痛之中。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-69004356</guid>
+      <pubDate>Mon, 13 May 2024 15:07:39 GMT</pubDate>
     </item>
     <item>
       <title>女军人称高级军官强奸了她</title>
@@ -20,20 +83,6 @@
       <pubDate>Mon, 13 May 2024 14:19:06 GMT</pubDate>
     </item>
     <item>
-      <title>史蒂夫·布西密在纽约随机袭击事件中出拳</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-69002525</link>
-      <description><![CDATA[这位《大西洋帝国》明星在曼哈顿遭到路人袭击后需要住院治疗。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-69002525</guid>
-      <pubDate>Mon, 13 May 2024 14:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>青少年承认在车祸中杀死了三名朋友</title>
-      <link>https://www.bbc.com/news/articles/crgyywjkyklo</link>
-      <description><![CDATA[杰克·洛伊驾驶的汽车里，他的朋友伊恩·坎农、芬利·约翰斯和泰勒·约翰斯顿都死在了车里。]]></description>
-      <guid>https://www.bbc.com/news/articles/crgyywjkyklo</guid>
-      <pubDate>Mon, 13 May 2024 13:51:12 GMT</pubDate>
-    </item>
-    <item>
       <title>布鲁塞尔表示，欧洲电视网欧盟旗帜禁令令人遗憾</title>
       <link>https://www.bbc.com/news/articles/cw4dd9lzx02o</link>
       <description><![CDATA[该委员会副主席表示，禁止欧洲电视网使用欧盟旗帜是送给“欧洲敌人”的礼物]]></description>
@@ -41,60 +90,18 @@
       <pubDate>Mon, 13 May 2024 13:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>选举线划定后，总理攻击斯塔默的防守</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-69001810</link>
-      <description><![CDATA[里希·苏纳克表示，工党在国防开支方面不会与保守党匹敌，但基尔爵士表示，该党只会带来混乱。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-69001810</guid>
-      <pubDate>Mon, 13 May 2024 13:27:47 GMT</pubDate>
+      <title>欧洲歌唱大赛冠军解释他们如何打破奖杯</title>
+      <link>https://www.bbc.co.uk/news/entertainment-arts-69002336</link>
+      <description><![CDATA[比赛归来的瑞士歌手尼莫在苏黎世机场受到数百名歌迷的迎接。]]></description>
+      <guid>https://www.bbc.co.uk/news/entertainment-arts-69002336</guid>
+      <pubDate>Mon, 13 May 2024 12:52:06 GMT</pubDate>
     </item>
     <item>
-      <title>查尔斯国王将军事职责移交给威廉</title>
-      <link>https://www.bbc.co.uk/news/uk-69002623</link>
-      <description><![CDATA[国王象征性地将接力棒移交给他的长子。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-69002623</guid>
-      <pubDate>Mon, 13 May 2024 13:23:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称，拯救阿瑟·拉宾霍-休斯的关键机会错失</title>
-      <link>https://www.bbc.com/news/articles/c2vww6eq990o</link>
-      <description><![CDATA[一份报告称，当局错过了拯救这名六岁儿童的三个关键机会。]]></description>
-      <guid>https://www.bbc.com/news/articles/c2vww6eq990o</guid>
-      <pubDate>Mon, 13 May 2024 13:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普担心“很多女性”有故事可卖——科恩</title>
+      <title>迈克尔·科恩声称他在特朗普的指示下支付了封口费</title>
       <link>https://www.bbc.co.uk/news/live/world-us-canada-68993696</link>
-      <description><![CDATA[迈克尔·科恩声称，特朗普在参加总统竞选时告诉他要为丑闻做好准备。]]></description>
+      <description><![CDATA[唐纳德·特朗普的前律师表示，他“按照老板的指示”为花花公子模特筹集了资金。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-us-canada-68993696</guid>
       <pubDate>Mon, 13 May 2024 12:39:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>“没人相信我，我在厕所里生下了孩子”</title>
-      <link>https://www.bbc.co.uk/news/health-69002375</link>
-      <description><![CDATA[数百名妇女联系了 BBC 新闻，讲述了她们分娩时的痛苦经历。]]></description>
-      <guid>https://www.bbc.co.uk/news/health-69002375</guid>
-      <pubDate>Mon, 13 May 2024 11:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列停止纪念阵亡将士纪念日</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-69003583</link>
-      <description><![CDATA[全国各地响起了两分钟长的警笛，生活短暂陷入停顿。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-69003583</guid>
-      <pubDate>Mon, 13 May 2024 11:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯声称军队进入哈尔科夫附近的边境城镇</title>
-      <link>https://www.bbc.com/news/articles/crgyymn8y3ro</link>
-      <description><![CDATA[乌克兰担心如果俄罗斯军队进入哈尔科夫的炮兵射程内可能发生的情况。]]></description>
-      <guid>https://www.bbc.com/news/articles/crgyymn8y3ro</guid>
-      <pubDate>Mon, 13 May 2024 11:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着以色列军队返回贾巴利亚，加沙人逃离</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-69001835</link>
-      <description><![CDATA[据报道，以色列称其目标是哈马斯重新集结的地区，因此发生了激烈的战斗。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-69001835</guid>
-      <pubDate>Mon, 13 May 2024 10:17:55 GMT</pubDate>
     </item>
     <item>
       <title>在感染血液丑闻中，我因艾滋病毒而失去了我的妈妈、爸爸和小妹妹</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[因受感染的血液丑闻而支离破碎的家庭在 BBC 全景节目中打破了沉默。]]></description>
       <guid>https://www.bbc.co.uk/news/health-68835807</guid>
       <pubDate>Mon, 13 May 2024 04:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>“袋子里煮”和其他五个英国电影和电视艺术学院电视时刻</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68987541</link>
-      <description><![CDATA[颁奖典礼在一年中最热的一天举行，明星们都感到闷热。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68987541</guid>
-      <pubDate>Sun, 12 May 2024 21:42:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
