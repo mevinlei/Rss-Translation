@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 May 2024 18:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 21:09:29 GMT</lastBuildDate>
+    <item>
+      <title>对功能最丰富、功能最强大的自由开源软件视频编辑器有什么看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</link>
+      <description><![CDATA[正如标题中所说，我想知道您认为 FOSS 中功能最丰富的视频编辑器是什么。不，我不是在寻找 Davinci Resolve。到目前为止，我已经尝试过 Shotcut 和 Kdenlive，但我使用它们的时间不够长，无法判断其中一个是否比另一个更强大（尽管我觉得 kdenlive 可以做得更多） 我还没有尝试过其他的，所以如果有人尝试过，我想听听您对这个问题的看法   由   提交 /u/OhItsuMe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cr6383/opinions_on_most_featurerich_and_powerful_foss/</guid>
+      <pubDate>Mon, 13 May 2024 18:10:44 GMT</pubDate>
+    </item>
     <item>
       <title>有没有提供“货到付款”选项的轻量级电子商务平台？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cr41mc/any_liteweight_ecommerce_platform_with_cash_on/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/peazip   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cpf103/peazip_980_released/</guid>
       <pubDate>Sat, 11 May 2024 11:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找自由音乐应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1comgdp/looking_for_foss_music_apps/</link>
-      <description><![CDATA[Blackhole 不再出现在 f-droid 上，我什至不知道你现在是否可以信任它。 Vimusic 最后更新于 2022 年。还有其他选择吗？我使用 yt music 作为我的主要应用程序。   由   提交 /u/ArcDark1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1comgdp/looking_for_foss_music_apps/</guid>
-      <pubDate>Fri, 10 May 2024 10:38:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
