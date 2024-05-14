@@ -4,86 +4,98 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 14 May 2024 08:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:09:12 GMT</lastBuildDate>
     <item>
-      <title>[媒体]苹果公司宣布，安全研究人员发现的一个内核漏洞是[...]</title>
-      <link>https://t.me/hn_summary/89460</link>
-      <description><![CDATA[Apple 表示内核漏洞不符合悬赏资格&lt; br/&gt;
-苹果公司宣布，安全研究人员发现的内核漏洞不符合其漏洞赏金计划的资格。这一决定在网络安全界引发了争议，许多人质疑苹果确定哪些漏洞有资格获得奖励的标准。一些人认为，由于这个特定漏洞对用户安全的潜在影响，应该受到奖励。苹果公司在这个问题上的立场令许多人感到惊讶，因为他们此前以慷慨的漏洞赏金计划而闻名。这一决定凸显了围绕错误赏金计划正在进行的争论以及网络安全透明度的重要性。]]></description>
-      <guid>https://t.me/hn_summary/89460</guid>
-      <pubDate>Tue, 14 May 2024 08:54:34 GMT</pubDate>
+      <title>[媒体]2024年3月26日，当地时间0129分，悬挂新加坡旗的集装箱船Dali experi [...]</title>
+      <link>https://t.me/hn_summary/89586</link>
+      <description><![CDATA[NTSB 关于集装箱船与关键桥梁接触和桥梁倒塌的报告 [pdf](https://news.ycombinator.com/item?id=40359993)
+2024年3月26日，当地时间0129，悬挂新加坡国旗的集装箱船Dali在驶离巴尔的摩港时遭遇电力和推进力损失。这导致船只撞击弗朗西斯·斯科特基大桥的南部码头，导致桥梁的一部分倒塌到船上并流入帕塔普斯科河。不幸的是，六名建筑工人死亡，一名重伤。美国国家运输安全委员会正在与美国海岸警卫队协调领导调查。 Dali 的推进系统由现代 MAN B&amp;W 柴油发动机提供动力，其配电系统是调查的核心。该事件已被列为重大海上事故。 （根据故事文本的 32% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89586</guid>
+      <pubDate>Tue, 14 May 2024 21:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 您是否正在努力帮助不懂技术的家庭成员从 3G 手机过渡到 [...]</title>
-      <link>https://t.me/hn_summary/89459</link>
-      <description><![CDATA[LineageOS 是一款适合不懂技术的人的完美简约智能手机
-您是否正在努力帮助不懂技术的家庭成员从 3G 手机过渡到更现代的设备？ LineageOS 就是您的最佳选择，它是完美的简约智能手机操作系统。借助 LineageOS，您可以自定义智能手机，使其仅包含家庭成员所需的基本功能，而无需使用 Android 或 iOS 的任何压倒性的臃肿软件或侵入性功能。通过使用 LineageOS，您可以创建简单且用户友好的智能手机体验，非常适合那些只想拨打电话、发送消息、拍照和备份数据的用户。查看支持的设备列表，立即开始简化您所爱之人的智能手机体验！]]></description>
-      <guid>https://t.me/hn_summary/89459</guid>
-      <pubDate>Tue, 14 May 2024 08:50:29 GMT</pubDate>
+      <title>[媒体]在Highlight.io，我们的 ClickHouse 设置在 o [...]</title>
+      <link>https://t.me/hn_summary/89585</link>
+      <description><![CDATA[优化 ClickHouse：对我们有用的策略
+在 Highlight.io，我们的 ClickHouse 设置遇到了严重的扩展问题在加入大客户后，导致我们的 Kafka 队列积压和 CPU 负载高。这篇文章详细介绍了我们从未经优化的 CPU 密集型集群到更高效、更经济的配置的历程，从而增强了客户的实时体验。关键策略包括使用更大的批量插入、将数据保留在较宽的部分、按粒度优化顺序以及避免投影。我们还专注于 TTL 优化和清除旧部件以有效管理活动分区。这些策略显着降低了 CPU 负载并提高了性能。如需更多见解，请通过 Twitter 或 LinkedIn 联系我们。]]></description>
+      <guid>https://t.me/hn_summary/89585</guid>
+      <pubDate>Tue, 14 May 2024 21:07:01 GMT</pubDate>
     </item>
     <item>
-      <title>Verilator 是一个开源 SystemVerilog 模拟器和 lint 系统，旨在提供快速 [...]</title>
-      <link>https://t.me/hn_summary/89458</link>
-      <description><![CDATA[Verilator：开源 SystemVerilog 模拟器和 lint 系统 
-Verilator 是一个开源 SystemVerilog 模拟器和 lint 系统，旨在提供快速的模拟性能，优于许多闭源商业模拟器。它接受 Verilog 或 SystemVerilog，执行 lint 代码质量检查，编译为多线程 C++ 或 SystemC，并为前端工具创建 XML。它在工业界和学术界得到广泛应用，得到了 Arm 和 RISC-V 供应商的支持。 Verilator 通过提供高速仿真、社区驱动的开发和商业支持选项而脱颖而出。它可能并不适合所有用例，但建议将 SystemVerilog 迁移到 C++/SystemC 或实现高速仿真。]]></description>
-      <guid>https://t.me/hn_summary/89458</guid>
-      <pubDate>Tue, 14 May 2024 08:45:21 GMT</pubDate>
+      <title>[媒体] 在阿肯色大学研究人员的一项研究中，人工智能模型，特别是 GPT-4 [...]</title>
+      <link>https://t.me/hn_summary/89584</link>
+      <description><![CDATA[当前的人工智能模型在发散思维任务上比人类更具创造力
+阿肯色大学研究人员的一项研究发现，人工智能模型（特别是 GPT-4）在衡量创造力潜力的发散思维任务中表现优于人类。使用替代用途任务、后果任务和发散关联任务对人类参与者 (N=151) 和 GPT-4 进行评估。即使在控制响应流畅度的情况下，人工智能在原创性和精细化方面也表现出了更高的创造力。这挑战了创造力是人类独特特征的观念。然而，该研究承认，关于人工智能缺乏元认知过程和情感影响的持续争论，而这些是人类创造力不可或缺的一部分。研究结果表明，创造性任务的处理方式可能会发生转变，突显人工智能在产生新想法方面的能力不断增强。 （根据故事文本的 24% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89584</guid>
+      <pubDate>Tue, 14 May 2024 21:03:56 GMT</pubDate>
     </item>
     <item>
-      <title>我们很高兴地宣布 Anthropic 的人工智能助手 Claude 现已在欧洲推出！</title>
-      <link>https://t.me/hn_summary/89457</link>
-      <description><![CDATA[Claude 现已在欧洲推出
-我们很高兴地宣布 Anthropic 的人工智能助手 Claude 现已在欧洲推出！用户可以访问网页版Claude.ai， Claude iOS 应用程序和 Claude Team 企业计划。 Claude 精通多种欧洲语言，并提供用户友好的界面，可无缝集成到工作流程中。该应用程序是免费的，专业版的价格为每月 18 欧元 + 增值税，团队计划的价格为每位用户每月 28 欧元 + 增值税。 Anthropic 致力于创建以人为本的人工智能系统，我们很高兴能够将 Claude 3 模型系列的先进功能带给欧洲更多用户。]]></description>
-      <guid>https://t.me/hn_summary/89457</guid>
-      <pubDate>Tue, 14 May 2024 08:44:15 GMT</pubDate>
+      <title>[媒体]《卫报》的一项调查发现，大学前讲师乔纳森·基珀曼 (Jonathan Keeperman) [...]</title>
+      <link>https://t.me/hn_summary/89583</link>
+      <description><![CDATA[极右 Twitter 帐户和出版社背后的美国大学讲师
+《卫报》的一项调查发现，加州大学欧文分校前讲师乔纳森·基珀曼 (Jonathan Keeperman) 是极右翼出版社 Passage Press 和颇具影响力的 Twitter 人物“洛梅兹”的幕后黑手。基珀曼在 UCI 任职期间参与了极右互联网论坛，现已成为原法西斯运动的重要人物。 Passage Press 出版极右翼知识分子和历史法西斯作家的作品，并举办现场活动和文学奖项。基珀曼尚未回应置评请求，但在社交媒体上批评了记者。 《卫报》的身份识别基于公司记录、财产契约和在线材料。 （根据故事文本的 64% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/89583</guid>
+      <pubDate>Tue, 14 May 2024 20:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]brandur.org 上使用 Postgres 的应用程序的通知程序模式探索了 po [...]</title>
-      <link>https://t.me/hn_summary/89456</link>
-      <description><![CDATA[使用 Postgres 的应用程序的通知程序模式
-brandur.org 上使用 Postgres 的应用程序的通知程序模式探索了Postgres 中强大的监听/通知功能，并引入了通知程序模式的概念来优化其使用。虽然监听/通知在理论上很简单，但许多应用程序并未最佳地使用它，从而导致资源浪费。通知程序模式涉及为每个进程保留一个 Postgres 连接，从而允许多个组件有效地订阅主题。通过减少侦听/通知所需的连接数量，通知程序模式提供了显着的优势，尤其是在像 Go 这样的语言中。本文提供了有关有效实现通知程序模式的代码片段和见解。 （根据 94% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/89456</guid>
-      <pubDate>Tue, 14 May 2024 08:43:10 GMT</pubDate>
+      <title>[媒体] 先生</title>
+      <link>https://t.me/hn_summary/89582</link>
+      <description><![CDATA[花园出土带有古代文字的石头
+西尼尔先生推测，最近出土的砂岩尺寸为 11 厘米（4 英寸），雕刻于公元 4 世纪至 6 世纪之间，可能是罗马士兵携带的纪念品。他将其描述为“非常有触觉的东西”，感觉应该被握住。吉尔摩女士提出了另一种理论，认为爱尔兰商人可能用它来进行交流。该团队强调了奥甘书写系统的独特性，该系统仅由一到五组的平行线组成，并表明它可以为采用拉丁岛文字之前的爱尔兰语言提供有价值的见解。]]></description>
+      <guid>https://t.me/hn_summary/89582</guid>
+      <pubDate>Tue, 14 May 2024 20:47:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]小学英语老师竭尽全力送你至少[...]</title>
-      <link>https://t.me/hn_summary/89455</link>
-      <description><![CDATA[你在学校没有学过的语言学术语&lt; br/&gt;
-小学英语老师会尽最大努力让你至少对语言的运作方式有一个粗略的了解。也许您可以区分从属子句和独立子句，以及及物动词和不及物动词。但是，除非您在大学主修语言学，或者经常花空闲时间阅读语法博客，否则您可能不知道描述语言机制的大量词汇。这里有 15 个我们最喜欢的术语，从两栖等正式术语到雪克隆等口语术语。当一个句子或短语的语法结构适合多种解释时，就会出现两义性或两栖性。这种歧义的发生方式有无数种。也许介词短语的放置让人不清楚该短语所修饰的内容，正如格劳乔·马克思在这个经典笑话中所利用的那样：“一天早上，我射杀了一头穿着睡衣的大象。”我不知道他是怎么穿上我的睡衣的。”或者也许某个单词的功能并不明显，这种情况在头条新闻中经常发生（有时甚至会产生搞笑的效果）。例如，在“Eye Drops Off Shelves”中，“drops”是一个名词，但如果您将其误认为是动词，那么标题就会有不同的含义。 （模棱两可的标题是它们自己的两义性子集，通俗地称为“崩溃之花”。）我们通常认为构词法是采用词根并添加词缀（如前缀和后缀），因此生成的词比您想象的要长。以前有过。从朋友那里，可以交友、交友、交友。但它并不总是这样：回构是通过删除词缀来创建新单词的过程。英语中充满了令人惊讶的倒转形式。例如，窃贼并不是从盗窃中产生的。窃贼（Burglar）首先出现，然后人们创造了“burgle”作为动词来描述窃贼的行为。立法并不是立法、立法者或立法者的词干；而是立法的词干。这三个实际上早于它。许多复合词在复合词本身中包含主语（也称为中心词）。西瓜是瓜，青鸟是鸟，卧室是房间。但也有一些离心复合词，其中中心词不是实际术语的一部分。这些复合词的特定类别涉及对对象（名词）执行的动作（动词）。例如，割喉者并不是真正的割喉者；而是割喉者。从字面上或比喻上来说，这是一个割断喉咙的人。稻草人吓跑乌鸦，胆大妄为的人敢于魔鬼，等等。尽管它们的正式名称是“施动和工具性外心动词-名词 (V-N) 复合词”，但历史语言学家布莱恩·休斯 (Brianne Hughes) 给它们起了一个更朗朗上口的绰号：残酷的复合词。虽然它们在英语中并不是很常见，但您可能会开始在意想不到的地方注意到它们。从技术上讲，威廉·莎士比亚的姓氏算作一个残酷的复合词：“摇动长矛的人。”行动中的不对称。 / Kevin Winter/GettyImages 您可能听说过委婉语：根据韦氏词典，使用“令人愉快或无攻击性”的语言来代替“可能冒犯或暗示令人不快的事物”的术语。去世是“死亡”的委婉说法，而“做爱”是“做爱”的委婉说法。非言语表达恰恰相反：故意使用粗俗的语言来描述或多或少无害的事物。例如，Rugrat 是“还在地毯上爬行的小孩子”的错语，而救护车追逐者是“人身伤害律师”的错语。Eggcorns 是听错的表达方式，实际上使感觉——例如根深蒂固而不是技术上正确的版本，根深蒂固，自由统治而不是自由支配。这个词是由语言学家杰夫·普鲁姆（Geoff Pullum）创造的，是对橡子被误认为蛋玉米的历史的认可。您可能会觉得很烦人，很多人将房地产经纪人发音为“REEL-uh-ter”而不是“REEL-ter”，但他们“]]></description>
-      <guid>https://t.me/hn_summary/89455</guid>
-      <pubDate>Tue, 14 May 2024 08:22:59 GMT</pubDate>
+      <title>网站：nian.llmonpy.ai</title>
+      <link>https://t.me/hn_summary/89581</link>
+      <description><![CDATA[GPT-4o 的内存突破 – 针中针 
+标题：GPT-4o 的内存突破 – 针中之针
+网站：nian.llmonpy.ai
+
+GPT-4o 在 Needlestack 基准测试中的 Needle 上实现了一个重要的里程碑，该基准测试旨在测试大型语言模型 (LLM) 从广泛的上下文窗口中保留和调用信息的效果。该基准测试涉及一个充满数千首打油诗的提示，然后是有关特定打油诗的问题。之前的模型，包括 GPT-4 Turbo 和 Claude-3 Sonnet，在这项任务上都遇到了困难。然而，GPT-4o 已经接近完美，这引起了人们对 OpenAI 所做改进的好奇。相比之下，Mistral 的模型，尤其是新的 8x22 模型，表现不佳，凸显了标记化差异的挑战。有趣的是，重复目标打油诗可以显着提高性能，正如 GPT-3.5-turbo 所见。基准代码可用于进一步探索和模型支持。]]></description>
+      <guid>https://t.me/hn_summary/89581</guid>
+      <pubDate>Tue, 14 May 2024 20:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>在 OffectiveCon 2024 的主题演讲中，Solar Designer 深入探讨了密码cr 的世界 [...]</title>
-      <link>https://t.me/hn_summary/89454</link>
-      <description><![CDATA[密码破解：过去、现在、未来（OffectiveCon 2024）
-在 OffectiveCon 2024 的主题演讲中，Solar Designer 深入探讨了密码破解的世界，探索其过去、现在和未来。密码是至关重要的身份验证因素，可用于多种目的，包括数据访问和安全审核。演讲重点关注离线密码破解的演变和优化，将优化问题分解为速度和焦点。此次演讲的历史背景可以追溯到 20 世纪 60 年代，还展望了密码破解的未来。虽然看起来很简单，但密码破解是一个严肃的领域，它不断发展并吸引新的贡献者，塑造新防御的设计。]]></description>
-      <guid>https://t.me/hn_summary/89454</guid>
-      <pubDate>Tue, 14 May 2024 07:49:59 GMT</pubDate>
+      <title>[媒体]VMware Fusion Pro 13 现已免费供个人使用，遵循 VMware 的协议 [...]</title>
+      <link>https://t.me/hn_summary/89580</link>
+      <description><![CDATA[VMware Fusion Pro 13 免费供个人使用&lt; br /&gt;
+在 VMware 以 690 亿美元的价格被 Broadcom 收购后，VMware Fusion Pro 13 现已免费供个人使用。此更新允许用户在 Apple Silicon Mac 上免费运行 Windows 11，只需从 Broadcom 的支持门户注册并下载即可。对于商业用途，需要付费订阅，可通过 Broadcom Advantage 合作伙伴购买。 VMware 的产品线经理 Michael Roy 对利用这些多功能虚拟工具继续创新表示兴奋。有关在 Mac 上安装 Windows 11 的更多详细信息和指南，请查看官方公告和演练。 
+
+争议：博通的收购及其对 VMware 产品的影响可能会被一些用户视为争议。
+
+独特/聪明：为如此强大的工具提供免费的个人使用许可证是一个令人惊讶且慷慨的举动。]]></description>
+      <guid>https://t.me/hn_summary/89580</guid>
+      <pubDate>Tue, 14 May 2024 20:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我最近对 ​​Dockerfile 定义的探索中，我遇到了一个令人惊讶的问题 [...]</title>
-      <link>https://t.me/hn_summary/89453</link>
-      <description><![CDATA[在 Dockerfile 中使用 ARG – 小心陷阱&lt; br/&gt;
-在我最近对 ​​Dockerfile 定义的探索中，我遇到了一个令人惊讶的构建参数问题，让我摸不着头脑。该问题源于 Dockerfile 中 ARG 和 FROM 指令之间的微妙交互。我发现在 FROM 指令之前用 ARG 声明的变量在 FROM 指令之后无法访问。为了解决这个问题，我必须重新排列 Dockerfile 中的 ARG 指令。通过将 CAPVER 的 ARG 指令移到 FROM 指令之后，我能够使用所需的 DEBVER 和 CAPVER 值成功构建自定义映像。这次经历教会了我理解 ARG 和 FROM 在 Dockerfile 定义中如何交互的重要性。快乐建造！]]></description>
-      <guid>https://t.me/hn_summary/89453</guid>
-      <pubDate>Tue, 14 May 2024 07:43:49 GMT</pubDate>
+      <title>[媒体] 密歇根大学的学者发现，一个恶意车辆 [...]</title>
+      <link>https://t.me/hn_summary/89579</link>
+      <description><![CDATA[恶意车辆可以阻塞美国的“智能”十字路口
+密歇根大学的学者发现，单一恶意车辆可以利用美国智能交通控制系统的漏洞，特别是交通部实施的智能交通信号系统（I-SIG）。该系统位于纽约和帕洛阿尔托等城市，使用车辆到基础设施 (V2I) 技术来管理交通流量。然而，研究人员发现了一个他们称之为“最后车辆优势”的缺陷，该缺陷允许单辆车重复发送欺骗数据，欺骗系统认为十字路口已满。这可能会导致严重的流量延迟，从而抵消 I-SIG 系统的优势。尽管该攻击的实际应用有限，但该研究强调了智能交通系统需要更好的安全性。研究结果已在圣地亚哥举行的 NDSS 研讨会上公布。]]></description>
+      <guid>https://t.me/hn_summary/89579</guid>
+      <pubDate>Tue, 14 May 2024 20:15:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]对于开发者来说令人兴奋的消息！</title>
-      <link>https://t.me/hn_summary/89452</link>
-      <description><![CDATA[显示 HN：在 Cursor IDE 中使用 GPT-4o 
-对于开发商来说，这是一个令人兴奋的消息！我们很高兴地宣布，我们已将 GPT-4o 集成到 Cursor IDE 中，彻底改变了您的编码方式。借助 GPT-4o 的强大功能，您现在可以在 IDE 中生成代码片段、调试错误，甚至获取优化代码的建议。告别繁琐的编码任务，迎接更高效、更高效的工作流程。不要错过这个改变游戏规则的更新，启用 JavaScript 并在 twitter.com。 #GPT4o #CursorIDE #codingrevolution]]></description>
-      <guid>https://t.me/hn_summary/89452</guid>
-      <pubDate>Tue, 14 May 2024 07:11:34 GMT</pubDate>
+      <title>[媒体]俄勒冈大学的新研究表明，冷暴是一种流行的趋势 [...]</title>
+      <link>https://t.me/hn_summary/89578</link>
+      <description><![CDATA[新研究表明，冷潜水可能有助于心脏健康 
+俄勒冈大学的新研究表明，Instagram 红人中流行的冷泳可能会给健康带来实实在在的好处。该研究发表在 2023 年 12 月版《热生物学杂志》上，发现冷水浸泡 15 分钟可以降低心率、血压和皮质醇水平，同时还能改善情绪。由克里斯·明森教授和研究生艾玛·里德领导的这项研究跟踪了大学生的各种健康指标，发现血管剪切应力模式的轻微变化，这可以增强心血管健康。未来的研究将探讨反复冷水浸泡和其他环境压力因素对健康的长期影响。这项工作强调了冷潜对运动员和公众的潜在好处。 
+
+—作者：Rachel Lukowicz-Bedford，神经科学研究所]]></description>
+      <guid>https://t.me/hn_summary/89578</guid>
+      <pubDate>Tue, 14 May 2024 20:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Michelle Khare 等 YouTube 顶级创作者正在通过高质量的内容改变游戏规则 [...]</title>
-      <link>https://t.me/hn_summary/89451</link>
-      <description><![CDATA[YouTube 赢得电视流媒体大战的秘密武器：顶级创作者&lt; /a&gt;
-米歇尔·卡雷 (Michelle Khare) 等 YouTube 顶级创作者正在通过可与传统电视相媲美的高质量内容来改变游戏规则。通过像重现哈里·胡迪尼魔术这样的剧集，卡雷和其他人正在突破该平台所能实现的界限。尽管没有资格获得艾美奖，YouTube 节目仍然吸引了大量观众，仅在美国就有 1.5 亿观众。像 GMM 的瑞德和林克这样的创作者正在引领潮流，创建以新方式与观众联系的独立电视。 YouTube 的成功归功于其创作者，该平台有望继续在电视流媒体大战中占据主导地位。]]></description>
-      <guid>https://t.me/hn_summary/89451</guid>
-      <pubDate>Tue, 14 May 2024 07:10:29 GMT</pubDate>
+      <title>[媒体] 网址：www.nature.com</title>
+      <link>https://t.me/hn_summary/89577</link>
+      <description><![CDATA[2023年夏天的温暖是过去两千年来无与伦比的&lt; br /&gt;
+标题：2023夏日温暖两千年来无与伦比
+网站：www.nature.com 
+
+据报道，2023 年是有记录以来最热的一年，北半球夏季异常温暖。通过结合观测到的和重建的6月至8月的地表气温，研究人员发现2023年是北半球过去2000年来最温暖的温带夏季，比自然气候变率的95%置信范围高出半摄氏度以上。公元 536 年重建的最冷夏季与 2023 年之间的温差达到惊人的 3.93°C。这种极端的温暖与温室气体引起的变暖趋势一致，并因正在发生的厄尔尼诺事件而进一步加剧。研究结果强调了国际碳减排协议的迫切需要。]]></description>
+      <guid>https://t.me/hn_summary/89577</guid>
+      <pubDate>Tue, 14 May 2024 20:10:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

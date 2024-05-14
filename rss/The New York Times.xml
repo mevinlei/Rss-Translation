@@ -4,34 +4,83 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 14 May 2024 18:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 20:50:25 GMT</lastBuildDate>
     <item>
       <title>诺贝尔奖获得者、短篇小说大师爱丽丝·门罗去世，享年 92 岁</title>
       <link>https://www.nytimes.com/2024/05/14/books/alice-munro-dead.html</link>
       <description><![CDATA[她的故事被广泛认为是无与伦比的，融合了平凡的人物和非凡的主题。]]></description>
       <guid>https://www.nytimes.com/2024/05/14/books/alice-munro-dead.html</guid>
-      <pubDate>Tue, 14 May 2024 18:10:18 GMT</pubDate>
+      <pubDate>Tue, 14 May 2024 20:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>撞上巴尔的摩大桥的船只在出发前发生两次电力故障</title>
+      <link>https://www.nytimes.com/2024/05/14/us/baltimore-bridge-collapse-electrical-failure.html</link>
+      <description><![CDATA[美国国家运输安全委员会的一份报告称，船员甚至在船舶离开港口之前就调整了船舶的电气配置。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/us/baltimore-bridge-collapse-electrical-failure.html</guid>
+      <pubDate>Tue, 14 May 2024 20:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯在俄罗斯军事进展中访问乌克兰</title>
+      <link>https://www.nytimes.com/2024/05/14/us/politics/blinken-ukraine-russia-war.html</link>
+      <description><![CDATA[拜登政府几个月来一直警告称，国会推迟批准援助计划将使乌克兰人变得脆弱。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/us/politics/blinken-ukraine-russia-war.html</guid>
+      <pubDate>Tue, 14 May 2024 20:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>格鲁吉亚议会最终批准“外国代理人”措施</title>
+      <link>https://www.nytimes.com/2024/05/14/world/europe/georgia-parliament-foreign-agents-bill.html</link>
+      <description><![CDATA[总统发誓要否决这项立法，批评者称这可能会使该国重新回到俄罗斯的轨道上。执政党表示可以推翻否决。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/world/europe/georgia-parliament-foreign-agents-bill.html</guid>
+      <pubDate>Tue, 14 May 2024 19:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌在 2024 年 I/O 大会上推出人工智能搜索概述功能</title>
+      <link>https://www.nytimes.com/2024/05/14/technology/google-artificial-intelligence-products.html</link>
+      <description><![CDATA[这家科技巨头展示了如何将人工智能融入其中。更深入地了解其产品和用户的生活，从搜索到执行任务的所谓代理。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/technology/google-artificial-intelligence-products.html</guid>
+      <pubDate>Tue, 14 May 2024 19:35:32 GMT</pubDate>
     </item>
     <item>
       <title>迈克·约翰逊参观特朗普刑事审判，说出他不能说的话</title>
       <link>https://www.nytimes.com/2024/05/14/nyregion/mike-johnson-trump-trial.html</link>
       <description><![CDATA[在唐纳德·J·特朗普因刑事指控受审的曼哈顿法院外，迈克·约翰逊袭击了一名关键证人，该证人将这位前总统与掩盖支付给色情明星的封口费的计划联系起来。]]></description>
       <guid>https://www.nytimes.com/2024/05/14/nyregion/mike-johnson-trump-trial.html</guid>
-      <pubDate>Tue, 14 May 2024 17:21:52 GMT</pubDate>
+      <pubDate>Tue, 14 May 2024 19:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>囚犯遭伏击越狱后法国正在进行搜捕</title>
+      <link>https://www.nytimes.com/2024/05/14/world/europe/france-prison-ambush.html</link>
+      <description><![CDATA[法国当局表示，武装袭击者袭击了监狱车队，杀死了两名警卫并释放了一名囚犯。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/world/europe/france-prison-ambush.html</guid>
+      <pubDate>Tue, 14 May 2024 18:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储主席对减缓通胀的信心“不如以前那么高”</title>
+      <link>https://www.nytimes.com/2024/05/14/business/economy/fed-powell-inflation.html</link>
+      <description><![CDATA[美联储主席杰罗姆·H·鲍威尔(Jerome H. Powell)表示，在通货膨胀出人意料地顽固之后，央行准备维持利率不变。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/business/economy/fed-powell-inflation.html</guid>
+      <pubDate>Tue, 14 May 2024 18:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌可以提供人工智能吗？无需破坏网络即可获得答案？</title>
+      <link>https://www.nytimes.com/2024/05/14/technology/google-ai-answers.html</link>
+      <description><![CDATA[出版商长期以来一直担心人工智能会导致读者离开他们的网站。他们即将查明这些担忧是否有根据。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/technology/google-ai-answers.html</guid>
+      <pubDate>Tue, 14 May 2024 18:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的“她”时代已经到来</title>
+      <link>https://www.nytimes.com/2024/05/14/technology/ai-chatgpt-her-movie.html</link>
+      <description><![CDATA[新的聊天机器人技术可以像人类一样说话、大笑和唱歌。接下来会发生什么谁也说不准。]]></description>
+      <guid>https://www.nytimes.com/2024/05/14/technology/ai-chatgpt-her-movie.html</guid>
+      <pubDate>Tue, 14 May 2024 18:08:50 GMT</pubDate>
     </item>
     <item>
       <title>俄罗斯拘留高级将领，扩大军事清洗</title>
       <link>https://www.nytimes.com/2024/05/14/world/europe/russia-detains-general-yuri-kuznetsov.html</link>
       <description><![CDATA[尤里·库兹涅佐夫中将成为过去一个月内第二位因腐败指控而被拘留的高级国防官员。]]></description>
       <guid>https://www.nytimes.com/2024/05/14/world/europe/russia-detains-general-yuri-kuznetsov.html</guid>
-      <pubDate>Tue, 14 May 2024 17:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登对中国电动汽车、芯片和其他商品征收更高关税</title>
-      <link>https://www.nytimes.com/2024/05/14/us/politics/biden-china-tariffs.html</link>
-      <description><![CDATA[总统宣布在前总统唐纳德·J·特朗普关税的基础上，对战略行业的中国进口商品加征关税。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/us/politics/biden-china-tariffs.html</guid>
-      <pubDate>Tue, 14 May 2024 17:08:14 GMT</pubDate>
+      <pubDate>Tue, 14 May 2024 17:18:30 GMT</pubDate>
     </item>
     <item>
       <title>特朗普如何改变共和党？他的刑事审判嘉宾名单讲述了这个故事。</title>
@@ -41,60 +90,11 @@
       <pubDate>Tue, 14 May 2024 16:33:51 GMT</pubDate>
     </item>
     <item>
-      <title>哈佛大学与抗议者达成协议结束营地</title>
-      <link>https://www.nytimes.com/2024/05/14/us/harvard-encampment-gaza-protest.html</link>
-      <description><![CDATA[双方的声明揭示了协议要求的一些细微差别。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/us/harvard-encampment-gaza-protest.html</guid>
-      <pubDate>Tue, 14 May 2024 16:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国将停止购买俄罗斯铀，减少向莫斯科提供的现金</title>
-      <link>https://www.nytimes.com/2024/05/14/climate/russia-nuclear-uranium-import-ban.html</link>
-      <description><![CDATA[一项新法律加速美国电力公司停止使用俄罗斯浓缩铀为美国核电站供电。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/climate/russia-nuclear-uranium-import-ban.html</guid>
-      <pubDate>Tue, 14 May 2024 16:21:58 GMT</pubDate>
-    </item>
-    <item>
       <title>艾丽丝·门罗，一位文学炼金术士，从卑微的生活中创作出伟大的小说</title>
       <link>https://www.nytimes.com/2024/05/14/books/review/alice-munro-appraisal.html</link>
       <description><![CDATA[这位诺贝尔奖获得者擅长创作短篇小说，这些短篇小说的范围新颖，跨越数十年，内容亲切而精确。]]></description>
       <guid>https://www.nytimes.com/2024/05/14/books/review/alice-munro-appraisal.html</guid>
       <pubDate>Tue, 14 May 2024 16:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储主席对减缓通胀的信心“不如以前那么高”</title>
-      <link>https://www.nytimes.com/2024/05/14/business/economy/fed-powell-inflation.html</link>
-      <description><![CDATA[美联储主席杰罗姆·H·鲍威尔表示，在通货膨胀出人意料地顽固之后，央行准备维持利率不变。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/business/economy/fed-powell-inflation.html</guid>
-      <pubDate>Tue, 14 May 2024 15:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登对华贸易战与特朗普有何不同</title>
-      <link>https://www.nytimes.com/2024/05/14/us/politics/biden-trump-china-trade.html</link>
-      <description><![CDATA[总统正在尝试与盟友一起采取有针对性的方法，在争夺清洁能源未来的竞赛中击败北京。这些不是他的前任的目标。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/us/politics/biden-trump-china-trade.html</guid>
-      <pubDate>Tue, 14 May 2024 14:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国如何在汽车和太阳能领域占据如此主导地位</title>
-      <link>https://www.nytimes.com/2024/05/14/business/china-exports-manufacturing.html</link>
-      <description><![CDATA[对工业的巨额补贴，加上中国的销售疲软，为出口繁荣奠定了基础，引发了人们对其他地方工厂失业的担忧。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/business/china-exports-manufacturing.html</guid>
-      <pubDate>Tue, 14 May 2024 09:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他巴士计划：墨西哥正在将移民推回南方</title>
-      <link>https://www.nytimes.com/2024/05/14/world/americas/mexico-migrants-busing-border.html</link>
-      <description><![CDATA[为了回应拜登政府遏制移民流动的压力，墨西哥悄悄地将数千名移民从美国边境运送到该国南部深处的地点。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/world/americas/mexico-migrants-busing-border.html</guid>
-      <pubDate>Tue, 14 May 2024 09:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>普京将访习，测试“无限制”伙伴关系</title>
-      <link>https://www.nytimes.com/2024/05/14/world/asia/putin-china-xi.html</link>
-      <description><![CDATA[莫斯科为其乌克兰战争寻求更多支持。但北京方面可能会疏远欧洲，而欧洲是帮助中国经济复苏所需的重要贸易伙伴。]]></description>
-      <guid>https://www.nytimes.com/2024/05/14/world/asia/putin-china-xi.html</guid>
-      <pubDate>Tue, 14 May 2024 08:30:31 GMT</pubDate>
     </item>
     <item>
       <title>莎拉·保尔森敢于扮演你又爱又恨的人</title>
