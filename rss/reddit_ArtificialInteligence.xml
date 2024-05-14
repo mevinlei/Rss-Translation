@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 14 May 2024 00:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 03:10:15 GMT</lastBuildDate>
     <item>
-      <title>如果 ChatGPT-4o 每 3 小时只允许 8 次提示，那么免费的 ChatGPT-4o 到底有什么意义呢？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cregeh/exactly_what_is_the_point_of_chatgpt4o_being_free/</link>
-      <description><![CDATA[他们一直告诉我们这些新的人工智能工具非常出色且很有帮助，但除非你付费，否则对任何人都没有多大帮助。 3 小时内为免费用户提供 8 个提示（有人在另一个 Reddit 子版块中这么说）。 是的，它说即使免费用户也可以使用它，但我们只能勉强做 8 个提示，这没什么。 当免费用户几乎无法用它做任何事情时，他们不应该说这是免费用户的。 哦，他们还展示了如何通过语音聊天和学习语言（在 youtube 的一些视频中） ）。哪个免费用户能在 3 小时内完成 8 次提示？    由   提交 /u/Resident-Street-4847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cregeh/exactly_what_is_the_point_of_chatgpt4o_being_free/</guid>
-      <pubDate>Tue, 14 May 2024 00:01:01 GMT</pubDate>
+      <title>LLM 的主要风险</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crhkj6/the_main_risk_with_llms/</link>
+      <description><![CDATA[我不担心这个能力。一旦我们经历了免费而不是几代人并了解我们实际上想用它做什么，这将改变游戏规则。  问题在于它是反软件。过去 40 年来，软件最令人惊奇的好处是它的启动成本非常低廉。如今，拥有法学硕士，您需要数十亿美元来建立自己的法学硕士。只有少数公司能够负担得起。  有两条路。第一个并不那么可怕，人工智能模型变成了“操作系统”。没事儿。另一条路是它们成为围墙花园，让公司很难真正盈利。  这是反竞争行为的新狂野西部。   由   提交 /u/RunninADorito   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crhkj6/the_main_risk_with_llms/</guid>
+      <pubDate>Tue, 14 May 2024 02:36:16 GMT</pubDate>
     </item>
     <item>
-      <title>自动化</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crcl7d/automation/</link>
-      <description><![CDATA[针对 AI 经验丰富的人的问题。我想构建一些机器人来自动化我的部分工作。我计划学习一些 Python，这样我就可以跟踪正在发生的事情并在必要时进行编辑。不过，我想使用人工智能来生成大部分代码，所以我所要做的就是在必要时进行测试和编辑。  执行此操作的最佳人工智能选项有哪些？ 提前感谢您的反馈。   由   提交/u/randomdudeinFL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crcl7d/automation/</guid>
-      <pubDate>Mon, 13 May 2024 22:35:59 GMT</pubDate>
+      <title>Reddit 和 AI 撰写的帖子？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crgyr8/reddit_and_aiwritten_posts/</link>
+      <description><![CDATA[只是好奇是否有任何关于 Reddit 上有多少帖子是人工智能生成的研究。 TIA 用于回复（来自人类！）   由   提交/u/Cali773  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crgyr8/reddit_and_aiwritten_posts/</guid>
+      <pubDate>Tue, 14 May 2024 02:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>相机4o</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crgxv2/camera_4o/</link>
+      <description><![CDATA[大家好，我来自巴西 我是 GPT-Plus 订阅者，很高兴能够使用新的相机功能在 GPT4o 中。尽管遵循了所有说明并确保我的应用程序已更新，但我似乎无法访问此功能。 还有其他人遇到过此问题吗？任何有关如何启用或解决此问题的建议将不胜感激。 提前致谢！   由   提交 /u/REDEY3S   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crgxv2/camera_4o/</guid>
+      <pubDate>Tue, 14 May 2024 02:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>就一个问题。我如何与 LLM 交谈？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crfh0p/just_a_question_how_do_i_just_talk_to_an_llm/</link>
+      <description><![CDATA[我是这里的菜鸟。 所有这些不同的法学硕士，我不知道如何与其中一个交谈我的声音而不是打字。  谷歌主页......嘿谷歌。还是没用。亚历克斯？？？？同样的垃圾。这些大公司怎么不知道如何直接与法学硕士交谈？ 是在其他地方吗？我缺少什么？   由   提交 /u/keyholderWendys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crfh0p/just_a_question_how_do_i_just_talk_to_an_llm/</guid>
+      <pubDate>Tue, 14 May 2024 00:50:46 GMT</pubDate>
     </item>
     <item>
       <title>从哪儿开始？</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[我是一名拥有 CS 学士学位的全栈开发人员。我想开始了解人工智能，但很难知道该去哪里寻找，而且 YouTube 和 Google 上有太多的骗子。 我有几个问题希望获得指导：  如何在日常生活中探索使用人工智能？我已经开始使用 ChatGPT 来进行故障排除帮助或构思，我已经使用 stablediffusion web 几次来演示图像，但我觉得我才刚刚开始触及表面。我如何详细了解这些工具如何改善我的生活？ 是否可以运行我自己的这些人工智能模型版本？我假设您可以运行自己的稳定扩散版本，例如学习“即时工程”并避免支付费用，但我不知道其缺点是什么。  如何开始使用人工智能？我看过 Corridor Digital 的一段视频，他们训练了自己的 AI 模型，将视频转换为动画；我怎样才能制作出这样的自己的酷项目？    由   提交/u/freew1ll_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crccev/where_to_start/</guid>
       <pubDate>Mon, 13 May 2024 22:25:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全由人工智能驱动的 YouTube 频道拥有近 100 万订阅者？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1crbxop/completely_ai_driven_youtube_channel_with_almost/</link>
-      <description><![CDATA[不确定这是否是放置此内容的正确位置，但我想你们可能有一些想法： 采取看看“法庭后果”频道。每个视频都有一个通用标题，通常不太适合内容，每个缩略图都是人工智能生成的，脚本通常是通用的（不会对任何一次案例说太多，故事之间的过渡通常很奇怪/不连贯），解说员的声音听起来像人工智能；甚至频道的描述看起来都是人工智能生成的。这是怎么回事？ https://www.youtube.com/@CourtroomConsequences/videos   由   提交/u/A_Seducing_Goose   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1crbxop/completely_ai_driven_youtube_channel_with_almost/</guid>
-      <pubDate>Mon, 13 May 2024 22:08:11 GMT</pubDate>
     </item>
     <item>
       <title>关于AI配音的问题</title>
@@ -48,16 +55,9 @@
       <pubDate>Mon, 13 May 2024 20:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 忽略了在他们的 ChatGPT 4o 演示中演示这一点 - 大量的新速率限制。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cr9n4k/openai_neglected_to_demo_this_on_their_chatgpt_4o/</link>
-      <description><![CDATA[我的帐户有使用限制吗？ 自 2024 年 5 月 13 日起，Plus 用户将能够发送 80 GPT-4o 上每 3 小时发送一条消息。 GPT-4 上每 3 小时 40 条消息。 ChatGPT Team 工作区中用户的消息上限大约是 ChatGPT Plus 的两倍。 请注意，未使用的消息不会累积（即，如果您等待 6 小时，则不会有 80 条消息可供使用）在接下来的 3 小时内使用 GPT-4）。  在某些情况下，对于 Plus 用户，我们可能会根据可用容量动态调整消息限制，以便优先考虑让最广泛的人可以访问 GPT-4。 https://help.openai.com/en/articles/6950777-what-is- chatgpt-plus#h_d78bb59065   由   提交/u/latro666  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cr9n4k/openai_neglected_to_demo_this_on_their_chatgpt_4o/</guid>
-      <pubDate>Mon, 13 May 2024 20:32:58 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有办法改变现有歌曲的歌词并让人工智能渲染它？就像封面一样？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cr9916/is_there_a_way_to_change_lyrics_of_an_existing/</link>
-      <description><![CDATA[我下周要向我的伴侣求婚，并在 2019 年写了我版本的“Lover”泰勒·斯威夫特的歌曲引起了我们的共鸣。有没有办法让人工智能唱这首歌？    由   提交/u/robo_boy_  [链接] [评论]]]></description>
+      <description><![CDATA[下周我将向我的伴侣求婚，并在 2019 年写了我版本的“Lover”泰勒·斯威夫特的歌曲引起了我们俩的共鸣。有没有办法让人工智能唱这首歌？    由   提交/u/robo_boy_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cr9916/is_there_a_way_to_change_lyrics_of_an_existing/</guid>
       <pubDate>Mon, 13 May 2024 20:16:57 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Mon, 13 May 2024 07:49:11 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
