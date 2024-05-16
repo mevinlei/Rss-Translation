@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 May 2024 03:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 06:10:55 GMT</lastBuildDate>
     <item>
       <title>米特拉分析</title>
       <link>https://www.producthunt.com/posts/miitra-analytics</link>
@@ -132,18 +132,32 @@
       <pubDate>Tue, 14 May 2024 20:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>中间件</title>
-      <link>https://www.producthunt.com/posts/middleware-2</link>
+      <title>Jovu 扩增</title>
+      <link>https://www.producthunt.com/posts/jovu-by-amplication</link>
       <description><![CDATA[
-            软件工程团队的开源 DORA 指标
+            唯一可投入生产的人工智能代码生成
           
 
-讨论&lt; /a&gt;
+讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/middleware-2</guid>
-      <pubDate>Fri, 10 May 2024 16:17:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jovu-by-amplication</guid>
+      <pubDate>Tue, 14 May 2024 18:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>积木</title>
+      <link>https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1</link>
+      <description><![CDATA[
+            您团队的线框图工具，来自 Figma
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blocks-e659617c-f661-4ec1-bd0a-5b7b2bf417a1</guid>
+      <pubDate>Tue, 14 May 2024 14:16:12 GMT</pubDate>
     </item>
     <item>
       <title>点按扫描仪</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/videotopage</guid>
       <pubDate>Thu, 09 May 2024 21:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>主题排序器</title>
-      <link>https://www.producthunt.com/posts/topicranker</link>
-      <description><![CDATA[
-            根据 SERP 中的弱点查找易于排名的关键字
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/topicranker</guid>
-      <pubDate>Wed, 08 May 2024 19:04:07 GMT</pubDate>
     </item>
     <item>
       <title>温暖大作战</title>
