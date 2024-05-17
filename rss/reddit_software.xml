@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 17 May 2024 06:12:24 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Fri, 17 May 2024 09:10:47 GMT</lastBuildDate>
+    <item>
+      <title>性能应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1cu0dby/a_performance_app/</link>
+      <description><![CDATA[嘿，大家知道吗，有一个应用程序可以降低某些应用程序的性能水平，这样我就可以更顺利地使用更强大的应用程序？我是一名视频编辑，我的表现确实很滞后..   由   提交/u/venty123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cu0dby/a_performance_app/</guid>
+      <pubDate>Fri, 17 May 2024 08:41:02 GMT</pubDate>
+    </item>
     <item>
       <title>您好，社区，软件开发人员或 IT 服务... ⚠</title>
       <link>https://www.reddit.com/r/software/comments/1ctv63c/hi_community_for_software_developers_or_it/</link>
@@ -13,9 +20,9 @@
       <pubDate>Fri, 17 May 2024 03:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>有没有软件可以帮助我在 Windows 10 上安装实体电脑游戏？</title>
+      <title>有没有可以帮助我在 Windows 10 上安装实体电脑游戏的软件？</title>
       <link>https://www.reddit.com/r/software/comments/1ctu2mc/is_there_a_software_that_helps_me_install/</link>
-      <description><![CDATA[好吧，Windows 10 和物理光盘对我来说一直很痛苦，为了观看电影和连续剧，至少我需要其他软件才能打开它们，所以我想现在可能也是一样的，我放了一张游戏光盘但没有安装，只是让我看到它的一些内部文件，但就是这样，没有安装或类似的东西    提交人    /u/0b0d1   [link] [评论]]]></description>
+      <description><![CDATA[Windows 10 和物理光盘对我来说很痛苦，至少对于观看电影和连续剧我需要其他软件才能打开它们，所以我我猜现在可能是一样的，我放了一张游戏光盘但没有安装，只是让我看到它的一些内部文件，但仅此而已，没有安装或周围的东西 &lt;！-- SC_ON - -&gt;  由   提交/u/0b0d1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctu2mc/is_there_a_software_that_helps_me_install/</guid>
       <pubDate>Fri, 17 May 2024 02:02:12 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>用于视频的 PhotoPea？</title>
       <link>https://www.reddit.com/r/software/comments/1ctgub4/a_photopea_for_videos/</link>
-      <description><![CDATA[  由    /u/-t8Q  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/-t8Q  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctgub4/a_photopea_for_videos/</guid>
       <pubDate>Thu, 16 May 2024 16:20:43 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>PDM 整合与管理.pdf</title>
       <link>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</link>
-      <description><![CDATA[我正在寻找 PDF 文件管理软件。我希望提供一组不应更改但应专门分组的技术文档。目标是使用该软件作为 PDM 来停止打印、复制和更改，尤其是删除，同时仍具有查看功能。  我在 pdf 论坛和软件组之间交叉发布此内容。    由   提交 /u/engineeredmofo   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找 PDF 文件的管理软件。我希望提供一组不应更改但应专门分组的技术文档。目标是将该软件用作 PDM，以停止打印、复制和更改（尤其是删除），同时仍具有查看功能。  我正在 pdf 论坛和软件组之间交叉发布此内容。     提交人    /u/engineeredmofo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</guid>
       <pubDate>Thu, 16 May 2024 13:33:51 GMT</pubDate>
     </item>
@@ -85,30 +92,23 @@
     <item>
       <title>如何仅使用命令行获取音频输入和视频输入并将它们混合在一起？</title>
       <link>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</link>
-      <description><![CDATA[大家好，新来的。 我收到了这个非常长的视频，我什至无法在视频编辑器中打开它已经有了，我也有那个视频的音频。它们匹配得很好而且很容易。 问题是我可以使用什么库或程序或其他任何东西来组合这些输入并获得视频文件的单个输出以及我选择作为参数的音频？谢谢   由   提交/u/c0deLikeAPro   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是新来的。 我有一个很长的视频，我甚至无法在我拥有的视频编辑器中打开它，而且我还有该视频的音频。它们匹配起来很容易。 问题是我可以使用什么库或程序或其他什么来组合这些输入并获得带有我选择作为参数的音频的视频文件的单个输出？谢谢    提交人    /u/c0deLikeAPro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</guid>
       <pubDate>Thu, 16 May 2024 11:31:20 GMT</pubDate>
     </item>
     <item>
       <title>PDF 阅读器可以像网络浏览器一样浏览大文件吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</link>
-      <description><![CDATA[我有一本巨大的教科书，内容中有超文本链接。我想要将内容页面固定在单独的选项卡中，然后“在新选项卡中”打开同一文件的某些主题。否则，在查找某些信息时来回走动非常烦人。你知道有什么可以像这样工作的东西吗？    提交人    /u/Pipettess   [link] [评论]]]></description>
+      <description><![CDATA[我有一本巨大的教科书，内容中有超文本链接。我想要的是将内容页面固定在单独的选项卡中，然后“在新选项卡中”打开同一文件的某些主题。不然找一些资料的时候来来回回很烦人。你知道有什么可以像这样工作吗？   由   提交 /u/Pipettess   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</guid>
       <pubDate>Thu, 16 May 2024 10:36:28 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用 firestart 并向我解释一下吗？</title>
+      <title>有谁使用过 firestart 并且可以向我解释一下吗？</title>
       <link>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</link>
       <description><![CDATA[ 由   提交/u/Dragee92  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</guid>
       <pubDate>Thu, 16 May 2024 10:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 OpenBabel、MKL 和 GPL 许可证的问题</title>
-      <link>https://www.reddit.com/r/software/comments/1ct6wd3/question_regarding_openbabel_mkl_and_gpl_licenses/</link>
-      <description><![CDATA[大家好， 希望这个主题适合这个子，如果有更好的地方可以问这个，请随时建议. 我有一个关于计算化学开源软件许可的问题。我的包使用 OpenBabel API，如果我正确理解常见问题解答，这意味着我必须提供该软件包遵循 GPL 许可证。不过，我也在使用 RFScoreVS 可执行文件，它需要 Intel 的 MKL 才能顺利运行。我没有直接重新分发可执行文件，但我的安装脚本从 github 下载可执行文件。我不确定我是否完全理解GNU GPL 网站上描述的法律术语，或者链接或重新分发库之间的区别。如果有人有这方面的经验，我很想听听您的经历！似乎如果我只使用 OpenBabel CLI 界面，我不需要在 GNU GPL 下分发我的包（“但是，您可以以未修改的形式与您的产品一起分发 Open Babel 以使用命令行界面，” ;) 我想这在任何情况下都是一个选择。 感谢您的帮助！   由   提交/u/Tonylac77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ct6wd3/question_regarding_openbabel_mkl_and_gpl_licenses/</guid>
-      <pubDate>Thu, 16 May 2024 06:55:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

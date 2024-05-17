@@ -4,20 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 17 May 2024 06:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 09:10:05 GMT</lastBuildDate>
     <item>
-      <title>我该如何利用人工智能来工作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</link>
-      <description><![CDATA[我听说人们将人工智能描述为一种工具，它使研究和写作比 5 年前容易 10 倍，但我还没有尝试过任何东西这确实有帮助。  我使用 Copilot 进行研究，但由于它有产生幻觉和误解数据的习惯，我无论如何都需要检查来源，所以它并不能节省我的时间。这包括要求它总结文本，我发现它的效果不足以证明使用的合理性。 当我想写一些东西时，我要求它写我想要的东西，但我只是发现文本最终不足以让我使用，所以无论如何我都必须写它。 我很想知道我可以做些什么来更好地使用这项新技术，如果有我可以做的技术的话尝试一下，或者我可以尝试的新应用程序。我很乐意推荐，欢呼。    由   提交/u/mr_arcane_69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwlqu/how_can_i_use_ai_for_work/</guid>
-      <pubDate>Fri, 17 May 2024 04:22:38 GMT</pubDate>
+      <title>麻省理工学院的研究人员利用机器学习和卫星远程绘制粮食作物地图</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0i8w/mit_researchers_remotely_map_food_crops_using/</link>
+      <description><![CDATA[作物地图可帮助科学家和政策制定者跟踪全球粮食供应，并估计它们如何随着气候变化和人口增长而发生变化。据估计，小农农场养活了世界三分之二的农村人口，生产了世界 80% 的粮食。 密切关注种植的作物和地点对于跟踪和预测世界各地的粮食供应至关重要。但只有少数国家有资源来创建准确的地图。 因此，麻省理工学院的工程师结合使用 Google 街景图像、机器学习和卫星数据来自动确定整个地区种植的农作物，而无需要求对每个农场进行现场评估。 在此处了解更多信息：   由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu0i8w/mit_researchers_remotely_map_food_crops_using/</guid>
+      <pubDate>Fri, 17 May 2024 08:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>本地法学硕士服务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwjlz/local_llm_services/</link>
-      <description><![CDATA[鉴于运营 LLM 的成本会持续下降，什么时候我们会开始看到本地酿造的 LLM 为当地一小部分用户提供服务？就像实体店一样，但数字企业会向新手最终用户销售本地化版本的 LLM 作为服务。     提交人    /u/served_it_too_hot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctwjlz/local_llm_services/</guid>
-      <pubDate>Fri, 17 May 2024 04:19:06 GMT</pubDate>
+      <title>可以理解流程图的模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu07k2/a_model_that_can_understand_flowcharts/</link>
+      <description><![CDATA[大家好， 有没有可以理解流程图的开源模型？我的意思是，给定一个流程图，它提供了流程图中内容以及流程的不同步骤的描述。 最重要的是它必须是开源的并且可以在本地运行. 谢谢   由   提交/u/kyokay-25  /u/kyokay-25  reddit.com/r/ArtificialInteligence/comments/1cu07k2/a_model_that_can_understand_flowcharts/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu07k2/a_model_that_can_understand_flowcharts/</guid>
+      <pubDate>Fri, 17 May 2024 08:28:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较 Bland AI、Retell 和 Vapi Voice Bot 有何优缺点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cu01ye/what_are_pros_and_cons_when_you_compare_bland_ai/</link>
+      <description><![CDATA[您好！我最近测试了这三个。我的经验是，您可以看到单提示和多提示语音机器人代理之间的语音机器人质量差异，但特定解决方案的输出差异并不大。 但是，我仍然可以看到一些差异： 平淡的人工智能 在控制多提示语音机器人方面最强大，但可能性越大，失败的地方就越多。我可以测试拨打实际电话号码。 复述 多提示语音机器人设置功能较弱，但用户体验更流畅。具有多种可能性的相同问题等于多种失败的可能性。没有用户管理。使用 OpenAI 语音。如果不向实际电话号码提供我的账单详细信息并查看延迟，则无法测试通话。 Vapi 仅限单提示语音机器人。没有用户管理。使用 OpenAI 语音。如果不向实际电话号码提供我的账单详细信息并查看延迟，则无法测试通话。 我很想听听您的经验和学习，以及最适合您的方法。 此外，我有很多关于延迟的知识，所以如果您有兴趣了解这方面知识，我会分享的。:)    提交人    /u/atlaua-the-goddess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cu01ye/what_are_pros_and_cons_when_you_compare_bland_ai/</guid>
+      <pubDate>Fri, 17 May 2024 08:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能“大脑”图</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</link>
+      <description><![CDATA[我看过一次采访，Geoffrey Hinton 说我们目前还不完全了解人工智能的“思维”是如何运作的。这让我想起了 Karl Sims 的《虚拟生物》一文中的这段话。他说他不完全了解进化的虚拟生物的大脑是如何运作的。然而，他确实有它们的“大脑”图表。它们的结构和对称性让我着迷。 所以我很好奇，聊天机器人或文本到视频生成器是否有类似的图表？我只是觉得这些图表很有趣，值得一看和思考。  对 Karl Sims 的采访（约 1995 年）：https://youtu.be/WmrTNrtE-Lk?si=T7b2K1ps-7FAnF21&amp;t=2m57s（时间戳为 2:57）    提交人    /u/CzeckeredBird   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctyqog/ai_brain_diagrams/</guid>
+      <pubDate>Fri, 17 May 2024 06:41:49 GMT</pubDate>
     </item>
     <item>
       <title>最新版本发布后，您订阅了哪些 AI？</title>
@@ -27,23 +41,16 @@
       <pubDate>Fri, 17 May 2024 03:26:56 GMT</pubDate>
     </item>
     <item>
-      <title>我妈妈看到假照片就以为它们是真的</title>
+      <title>我妈妈看着假照片并认为它们是真的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/</link>
       <description><![CDATA[她会给我看她 Facebook 上的照片，这些照片的日期可以追溯到 1850 年代至 1900 年代，当时她刚开始接触我告诉她，它们都是人工智能生成的假图片，她对此非常恼火，而且有点不相信我，所以我只是要求她停止向我展示并自己欣赏它们，这样我就不会为她毁掉它们，她显然忘记了我告诉她它们是假的，这没关系，但是酥油..我必须经常看这些照片😅还有其他人有类似的事情发生吗？哈哈   由   提交/u/dewey-finnn   /u/dewey-finnn  reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctsang/my_mum_looks_at_fake_photos_and_thinks_theyre_real/</guid>
       <pubDate>Fri, 17 May 2024 00:29:48 GMT</pubDate>
     </item>
     <item>
-      <title>有趣的问题......我们知道这会如何发展吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctos76/interesting_question_do_we_know_how_this_might_go/</link>
-      <description><![CDATA[ 由   提交 /u/WingedButt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctos76/interesting_question_do_we_know_how_this_might_go/</guid>
-      <pubDate>Thu, 16 May 2024 21:42:41 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 和 Reddit 合作：为什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctnjcj/openai_and_reddit_partnership_why/</link>
-      <description><![CDATA[ 由   提交 /u/enoumen   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctnjcj/openai_and_reddit_partnership_why/</guid>
       <pubDate>Thu, 16 May 2024 20:51:02 GMT</pubDate>
     </item>
@@ -78,28 +85,21 @@
     <item>
       <title>人工智能可以通过哪些方式帮助智力中等或较低的人？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctk0fc/what_are_some_ways_artificial_intelligence_might/</link>
-      <description><![CDATA[我完全失明，天赋异禀，却没有工作，所以我身边住着许多贫穷、没有受过教育的人。考虑到我周围的人多么缺乏灵感，人工智能可以腾出时间做其他事情的想法很奇怪。我也想到那些无聊透顶的退休人员。人工智能如何才能为任何人或所有人的生活质量做出全面改善，特别是考虑到很少有人足够聪明，能够像那些出于某种原因认为他们会做到的聪明人一样奋力拼搏？    提交人    /u/heavensdumptruck   [链接] [评论]]]></description>
+      <description><![CDATA[我完全失明，有天赋但没有工作，所以我生活在许多贫穷的未受过教育的人周围。 A.I. 的概念例如，可以腾出时间，所以考虑到我周围的人都没有灵感，所以可以做其他事情就很奇怪。我也想到那些无聊得发疯的退休人员。 A.I. 会怎样？为任何人或所有人的生活质量的全面改善做出贡献，特别是考虑到很少有人有足够的智慧，能够像那些聪明的人一样，出于某种原因认为他们会这样做？   由   提交 /u/heavensdumptruck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctk0fc/what_are_some_ways_artificial_intelligence_might/</guid>
       <pubDate>Thu, 16 May 2024 18:31:40 GMT</pubDate>
     </item>
     <item>
-      <title>AGI 辩论简化（1 vs 2）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctjcso/agi_debate_simplified_1_vs_2/</link>
-      <description><![CDATA[如果科学家已经证明从根本上（数学上）不可能开发出与人类持续一致的人工智能，您会如何看待进一步投资于开发高度先进的人工智能系统？也称为“AGI”。 哲学上：为什么物种 A 会发展出物种 B，这是另一个在链条中比 A 更优越或更高​​的理性实体/新物种（B &gt; A）？ 答案：“因为AGI将帮助我们并解决我们的问题。” 数学证明的主要思想：不可能保证它永远尊重其创造者的价值观。 数学证明的主要思想：不可能保证它永远尊重其创造者的价值观。 p&gt; 答案：？ 1）“哦，好吧，让我们抱最好的希望吧。” 2）“那么根本不应该开发它。” 3）（其他东西） ——- 受到这个AGI的启发问题   由   提交/u/Maybe-reality842  /u/Maybe-reality842 reddit.com/r/ArtificialInteligence/comments/1ctjcso/agi_debate_simplified_1_vs_2/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctjcso/agi_debate_simplified_1_vs_2/</guid>
-      <pubDate>Thu, 16 May 2024 18:05:00 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有人因为人工智能而改变了自己的人生决定？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</link>
-      <description><![CDATA[例如，在大学开始课程、转行、组建家庭、结婚、搬家等。 或者我可能没有想到的任何小决定   由   提交/u/broxue  [链接] [评论]]]></description>
+      <description><![CDATA[例如，在大学开始一门课程，转行，建立家庭，结婚，搬家等。 或者任何我可能没有想到的小决定    提交人    /u/broxue   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ctc3mh/has_anyone_changed_their_mind_about_any_life/</guid>
       <pubDate>Thu, 16 May 2024 12:48:16 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则[请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>

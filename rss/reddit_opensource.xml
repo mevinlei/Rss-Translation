@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 May 2024 06:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 09:11:17 GMT</lastBuildDate>
+    <item>
+      <title>寻求视频会议解决方案的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cu0dex/seeking_advice_in_video_conferencing_solutions/</link>
+      <description><![CDATA[我正在探索为我们提供所有 API、Webhook 和开发灵活性的视频会议解决方案。 我需要的功能：&lt; /p&gt;  会议跟踪（开始/结束会议）（Webhook 和 API） 完成后的录音（Webhook 和 API） 参与者加入/离开跟踪（Webhook 和 API）- 访问控制（谁可以加入会议、主持人、共同主持人等） 未来的会议安排。 （如果会议按需启动，我们可以照顾） 出勤追踪（谁参加，何时参加，参加了多长时间，参加了多少次） 其他课堂功能（多个视频渲染、屏幕共享、聊天、举手等）  所有平台可用性。 使用情况： 每月 2.5 - 500 万分钟（用户总分钟数） 5K - 10K 会议 我遇到了 3 种解决方案  外部提供商，例如 Zoom Meeting SDK。 - 一切都将在 Zoom 上发生，我们将公开 API 和 Webhooks。 （仅后端工作） 由解决方案提供商管理的嵌入式 SDK。 （前端和后端工作。） 自托管解决方案，例如 BigBlueButton。 （前端、后端和基础设施）  问题：  自托管解决方案可能会出现哪些问题，例如BigBlueButton。 考虑到托管成本，托管解决方案是否经济。 还有其他更好的替代方案吗？此用例。  编辑：修复了格式问题。   由   提交/u/ResearchFew9387  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cu0dex/seeking_advice_in_video_conferencing_solutions/</guid>
+      <pubDate>Fri, 17 May 2024 08:41:13 GMT</pubDate>
+    </item>
     <item>
       <title>发布 MJ PDF v2.2.0，开源 Android PDF 阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctsmdm/announcing_mj_pdf_v220_opensource_android_pdf/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/ryevdokimov  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cs37cq/free_and_opensource_warehousemanufacturing/</guid>
       <pubDate>Tue, 14 May 2024 21:06:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 AI 定义 – 5 月 13 日每周更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</link>
-      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</guid>
-      <pubDate>Tue, 14 May 2024 15:09:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
