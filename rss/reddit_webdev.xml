@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 17 May 2024 03:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 06:12:46 GMT</lastBuildDate>
+    <item>
+      <title>今晚需要帮助 - 正在创造历史</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cty3pd/need_help_tonight_history_being_made/</link>
+      <description><![CDATA[大家好，我需要一个在洛杉矶担任程序员 Web 开发人员的人，或者可以和我一起进行 Zoom 或其他我要做的事情的人犹太历史与该计划，但我需要帮助。我不知道我在做什么，只要我能即兴发挥，今晚谁能帮忙，这是为了报酬。   由   提交/u/Professional_Care453  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cty3pd/need_help_tonight_history_being_made/</guid>
+      <pubDate>Fri, 17 May 2024 05:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 API 可将 PDF、URL、YouTube 等提供给 OpenAI 的新 GPT-4o 视觉模型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cty255/open_source_api_to_feed_pdfs_urls_youtube_etc_to/</link>
+      <description><![CDATA[ 由   提交/u/ToeIntelligent4472   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cty255/open_source_api_to_feed_pdfs_urls_youtube_etc_to/</guid>
+      <pubDate>Fri, 17 May 2024 05:55:39 GMT</pubDate>
+    </item>
     <item>
       <title>Chrome 桌面上的图像呈现奇怪</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctvas2/image_rendering_oddly_on_chrome_desktop/</link>
@@ -13,7 +27,7 @@
       <pubDate>Fri, 17 May 2024 03:08:26 GMT</pubDate>
     </item>
     <item>
-      <title>Bluehost/Wordpress 网站由于 Cloudflare 问题而关闭了吗？</title>
+      <title>Bluehost / Wordpress 网站因 Cloudflare 问题而关闭？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctufre/bluehost_wordpress_site_went_down_due_to/</link>
       <description><![CDATA[我们注意到今天下午 1:00（中部标准时间）左右我们的网站出现故障。尝试访问该引用时出现的错误是“无效的 SSL 证书”错误代码 526。浏览器正常工作，Cloudflare 正常工作，但主机出现错误。 我一直在与 Bluehost 合作解决该问题，他们立即使用我们的主域 URL 更新了 A 记录。在对他们为什么更新 A 记录感到困惑后，他们告诉我问题出在 CDN 上。 他们说这是 cloudflare 服务器的问题，更新 A 记录将修复它传播后。 我有很多问题 - Bluehost 代表在询问时没有解决这些问题。什么可能导致此类问题？团队中没有人破坏我们的 DNS 记录。我管理的其他网站没有这个问题，并且它们使用相同的基础设施运行。  我非常感谢一些见解和教育。我并不完全理解 Web 开发的这一部分，也只是入门级的知识。   由   提交 /u/Cafebonbonz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctufre/bluehost_wordpress_site_went_down_due_to/</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>网络上有什么新鲜事</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctu23e/whats_new_in_the_web/</link>
-      <description><![CDATA[   /u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctu23e/whats_new_in_the_web/</guid>
       <pubDate>Fri, 17 May 2024 02:01:27 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>软件变慢的速度是否比硬件变快的速度快？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctoail/is_software_getting_slower_faster_than_hardware/</link>
-      <description><![CDATA[最近我们在当地的一个程序员小组进行了一次讨论，有一个新手问他应该购买哪款 Mac 笔记本电脑。他想要一台 Mac，因为有些任务需要 Mac。我的直接建议是购买 m1，因为他试图优化预算。我的观点是它速度很快并且可以处理他的所有工作负载。但我遭到了一点反对，说“Android Studio”是“Android Studio”。在小组中的一些 m1 mac 上速度不够快，因此他们切换到了 m3。 当我们在小组中讨论此问题时，意见分歧约为 50/50。有些人说他们有 m1 mac，它运行得很好，而另一些人则说它还可以，但在某些任务上落后了。 令我惊讶的是，我记得 m1 出现时，它就像是来自未来的产品外星人。它远远领先于任何竞争对手，没有人认为它无法处理任何事情。我记得当时 Jonathan Blow（游戏开发者）在他的直播中回答了有关 m1 的问题，并说了这样的话：“是的，它很快，但我不在乎。”再过几年，软件就会变得缓慢，但这并不重要”。当时我对这个产品很着迷，约翰看起来像一个脾气暴躁的老派程序员。但现在感觉很奇怪。我并不是说 m1 很慢或不好，只是我们正在讨论它是否可以处理一些基本的程序员工作负载，并且它不是 100%“当然”。很奇怪。 我想知道其他组是否也有类似情况，或者我们组中是否存在一些统计错误？  &amp;# 32；由   提交 /u/tootac   [链接] [评论]]]></description>
+      <description><![CDATA[最近，我们在本地的一个程序员小组中进行了讨论，其中有一个新手问题，关于他应该购买哪款 Mac 笔记本电脑。他想要一台 Mac，因为有些任务需要 Mac。我立即建议他购买一台 M1，因为他正在尝试优化预算。我的观点是，它速度很快，可以处理他所有的工作量。但我收到了一些反对意见，说“Android Studio”在该小组的一些 M1 Mac 上不够快，所以他们改用了 M3。 当我们在小组中讨论这个问题时，意见分歧很大，大约各占一半。一些人说他们有 M1 Mac，它运行完美，而另一些人说它还可以，但在某些任务上会滞后。 令我惊讶的是，我记得当 M1 刚问世时，它就像是来自未来外星人的产品。它远远领先于任何竞争对手，没有人认为它无法处理任何事情。我记得当时 Jonathan Blow（游戏开发者）在他的直播中回答了关于 m1 的一个问题，并说了类似这样的话：“是的，它很快，但我不在乎。再过几年，软件速度就会赶上它，那就无所谓了。”当时我对这个产品很着迷，John 看起来像一个脾气暴躁的老派程序员。但现在感觉很奇怪。我并不是说 m1 很慢或不好，只是我们正在讨论它是否可以处理一些基本的程序员工作量，而它不是 100%“当然”的，这种想法很奇怪。 我想知道其他组是否也有类似的情况，或者我们组是否只是存在一些统计错误？    提交人    /u/tootac   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctoail/is_software_getting_slower_faster_than_hardware/</guid>
       <pubDate>Thu, 16 May 2024 21:21:21 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>状态管理</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctn6v6/state_management/</link>
-      <description><![CDATA[如何处理 nextjs + supabase 网站的状态管理？ 示例：一个用户已登录且仅具有访问权限输入 1 内容。第二个用户只能访问类型 2 内容。如何根据用户存储类型 1 和 2 并仅显示它们各自的内容？我应该使用像 redux 这样的东西，还是可以将他们想要的内容类型存储在用户属性或数据库中的某些内容上，然后提供相应的内容？  &amp; #32；由   提交/u/naga-satya1  /u/naga-satya1 reddit.com/r/webdev/comments/1ctn6v6/state_management/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[如何处理 nextjs + supabase 网站的状态管理？ 示例：一个用户已登录且仅具有访问权限输入 1 内容。第二个用户只能访问类型 2 内容。如何根据用户存储类型 1 和 2 并仅显示它们各自的内容？我应该使用像 redux 这样的东西，还是可以将他们想要的内容类型存储在用户属性或数据库中的某些内容上，然后提供相应的内容？   &amp; #32；由   提交/u/naga-satya1   /u/naga-satya1 reddit.com/r/webdev/comments/1ctn6v6/state_management/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctn6v6/state_management/</guid>
       <pubDate>Thu, 16 May 2024 20:37:22 GMT</pubDate>
     </item>
@@ -83,9 +97,9 @@
       <pubDate>Thu, 16 May 2024 20:02:14 GMT</pubDate>
     </item>
     <item>
-      <title>Angular 新手</title>
+      <title>角度新手</title>
       <link>https://www.reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/</link>
-      <description><![CDATA[我想构建一个仪表板。有小费吗？我拥有 React 和 Tailwind CSS 的中级技能。从未使用过 Material UI。我以为选择一个新框架会很容易，但是哟！  无论如何，我如何创建一个带有漂亮图表、饼图和条形图的仪表板。充实可以连接到后端的东西的最快方法是什么？我发现在线 React 教程比 Angular 的质量更高且最新。  友善一点。我是一个敏感的人。    由   提交/u/Economics-Unique  /u/Economics-Unique  reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[我想构建一个仪表板。有小费吗？我拥有 React 和 Tailwind CSS 的中级技能。从未使用过 Material UI。我以为选择一个新框架会很容易，但是哟！  无论如何，我如何创建一个带有漂亮图表、饼图和条形图的仪表板。充实可以连接到后端的东西的最快方法是什么？我发现在线 React 教程比 Angular 的质量更高且最新。  友善一点。我是一个敏感的人。    由   提交 /u/Economics-Unique   /u/Economics-Unique  reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctlx5o/new_to_angular/</guid>
       <pubDate>Thu, 16 May 2024 19:48:54 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿伙计们，为了让我一直非常热衷的项目更加投入，我希望你们能够尝试一下我的网络应用程序在 https://sparkify.vercel.app 上，sparks 是一个开源社交媒体平台，使用户能够使用人工智能发现和创造新想法，以及与他人实时沟通。让我知道你们的想法！   由   提交 /u/Additional_Hall_3034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ctlqcc/try_out_my_social_media_project/</guid>
       <pubDate>Thu, 16 May 2024 19:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Squarespace 上转移域名还是购买套餐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ctlbk6/transfer_domain_on_squarespace_or_buy_the_package/</link>
-      <description><![CDATA[大家好！ 我是一名自由职业者（与 webdev 无关），我想建立一个网站来展示我的作品，没什么复杂的。 我对 Web 开发完全陌生，我一直在尝试 Squarespace，到目前为止我还挺喜欢它的，但我想知道是在其他地方购买域名并将其转移到 Squarespace 更好/更安全，还是最好在 Squarespace 中获取带有域名的包？ 这两种方式的优缺点是什么？我看到很多关于 porkbun 购买域名的建议，所以如果我决定独立购买，我认为这是我的选择。 提前感谢帮助！    提交人    /u/logi_throwaway   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ctlbk6/transfer_domain_on_squarespace_or_buy_the_package/</guid>
-      <pubDate>Thu, 16 May 2024 19:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>从工作区转移到版本化包的合理存储库设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ctjko8/what_is_a_reasonable_repo_setup_to_move_from/</link>
-      <description><![CDATA[嘿， 我们当前正在使用 npm 工作区设置。它包含 3 个产品使用的共享库。这对于代码的快速开发和可重用性来说是令人惊奇的，但我们正在慢慢增加依赖于库的应用程序，并且随着每个新应用程序的出现，随着 PR 大小的增长，它开始变得越来越困难。 每当有人更改库时，他们都需要立即修复所有使用者。 我们如何才能将其转移到版本化设置而不补偿开发体验？我在 npm 链接上阅读了一些内容，有人还向我推荐了 yalc，但所有这些通常都会带来一个缺点（对监视模式的支持不舒服，经常不得不失败 package.json 等） 对我来说完美的设置是：  我可以运行我的应用程序并更改库，接收即时反馈。 理想情况下，我没有触摸我的 package.json - 我增加库版本，进行更改，立即引用该库，并且可能在本地进行某种“代理”的环境配置。我的应用程序到本地链接的版本化库，无需在 npm 注册表中查找。  这可能吗？   由   提交 /u/Sossenbinder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ctjko8/what_is_a_reasonable_repo_setup_to_move_from/</guid>
-      <pubDate>Thu, 16 May 2024 18:13:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
