@@ -3,21 +3,14 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 May 2024 21:09:57 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Fri, 17 May 2024 00:38:49 GMT</lastBuildDate>
     <item>
       <title>德国主权技术基金现在支持 FFmpeg</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</link>
       <description><![CDATA[    &lt; /a&gt;   由   提交/u/vmbrasseur  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctmhx5/germanys_sovereign_tech_fund_now_supporting_ffmpeg/</guid>
       <pubDate>Thu, 16 May 2024 20:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winamp 的源代码将于 2024 年 9 月 24 日提供</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ctm2yz/winamps_source_code_will_be_available_on/</link>
-      <description><![CDATA[       由   提交/u/TheBigCore  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ctm2yz/winamps_source_code_will_be_available_on/</guid>
-      <pubDate>Thu, 16 May 2024 19:55:14 GMT</pubDate>
     </item>
     <item>
       <title>VFCFinder 重点介绍开源软件中的安全补丁</title>
@@ -43,12 +36,12 @@
     <item>
       <title>揭晓 ClearlyDefined：这项免费的 SBOM 服务已获准起飞</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctd8lx/unveiling_clearlydefined_this_free_sbom_service/</link>
-      <description><![CDATA[       由    /u/opensourceinitiative  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctd8lx/unveiling_clearlydefined_this_free_sbom_service/</guid>
       <pubDate>Thu, 16 May 2024 13:44:01 GMT</pubDate>
     </item>
     <item>
-      <title>我的开源 Android 应用程序和非 Android 应用程序，其中一些我想更改！</title>
+      <title>我的开源 Android 应用程序和非 Android 应用程序有些我想更改！</title>
       <link>https://www.reddit.com/r/opensource/comments/1ctbs70/my_open_source_android_apps_and_not_so_android/</link>
       <description><![CDATA[大家好！  正如标题所述，这里是我的一些建议以及我可以改进的地方。  开源： Atennapod：播客应用 Apktool：用于修改应用程序（自行研究） Audile：Shazam替代方案，实际上指向多个流媒体服务的链接，而不仅仅是 Apple Music。 Aurora Store：Google Play 替代方案 Bitwarden：用于存储密码 Ente 照片：加密存储照片的开源平台，希望尽快实现自我托管。 F-droid：开源应用商店 Firefox + Firefox nightly：浏览互联网。 F-droid：开源应用商店 Firefox + Firefox nightly：浏览互联网。 p&gt; Libretube：YouTube 替代品，当您连接的服务器正常工作时非常有用，再次希望尽快通过 Piped.video 进行自我托管，或者为自己带来不愉快。  Mullvad VPN：高度尊重隐私的开源 VPN。 有机地图：用作离线替代方案或在漫游费用昂贵的外国时使用。  &gt; Gmaps WV：是 google 地图网站的包装，虽然 google 地图有点粗略，但比 google 地图更可靠。 Fossify gallery：看起来像 google 照片的照片替代品&lt; /p&gt; Pocket Paint：只是一个照片编辑/涂鸦应用程序。 Protonmail：比 gmail 更好的替代品。 Scrambled exif：元数据删除器，也可以使用这个和您的照片存储空间明显更小。 Simplelogin：提供电子邮件别名 xtra：twitch 客户端，您也可以使用您的 twitch 帐户登录并完美运行。 Signal ：不属于 Facebook 的 WhatsApp 替代品。 我使用的非开源应用程序以及我想要更改的其中一些应用程序： 部落冲突：我真正玩的唯一游戏和我的朋友。抱歉，没有更改这个。 Google 相机：在我找到更好的相机之前，我不会更改，而且我有一个 degoogled 像素，因此防火墙阻止了连接。 Discord：甚至不要使用不和谐，真正将其用于大学项目。 银行应用程序：实际上没有开源替代方案。 Railcard/trainapp 尝试使用浏览器门票但是比较麻烦。 Snapchat：我认为它是一个儿童应用程序，但21岁每个人都用它来交流，也是我唯一使用的社交媒体。我也尽可能避免使用它。  YouTube/tiktok：这些应用程序是用 vanced 修改的，希望我没有使用这些，但我不必向 tiktok 提供登录数据，直到有一个 tiktok 客户端为止我不会删除。与 YouTube 一样，除非管道/恶意客户改进，否则我无法改变。 希望您喜欢这篇长文 XD   由   提交 /u/marksism__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ctbs70/my_open_source_android_apps_and_not_so_android/</guid>
@@ -83,9 +76,9 @@
       <pubDate>Wed, 15 May 2024 18:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>通过全球研讨会系列，开源人工智能定义更接近现实</title>
+      <title>通过一系列全球研讨会，开源人工智能定义更接近现实</title>
       <link>https://www.reddit.com/r/opensource/comments/1csj6b3/the_open_source_ai_definition_gets_closer_to/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1csj6b3/the_open_source_ai_definition_gets_closer_to/</guid>
       <pubDate>Wed, 15 May 2024 12:05:59 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cruhbi/open_source_ai_definition_weekly_update_may_13/</guid>
       <pubDate>Tue, 14 May 2024 15:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找基于实际使用情况的网络抓取工具的建议。请突出显示任何特定的优点或缺点。 🙏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1crsh00/i_am_looking_for_recommendations_based_on_actual/</link>
+      <description><![CDATA[ 由   提交 /u/Saiyyidi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1crsh00/i_am_looking_for_recommendations_based_on_actual/</guid>
+      <pubDate>Tue, 14 May 2024 13:42:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
