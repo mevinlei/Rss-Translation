@@ -3,12 +3,26 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 17 May 2024 09:10:47 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Fri, 17 May 2024 12:14:55 GMT</lastBuildDate>
+    <item>
+      <title>跟踪波形问题</title>
+      <link>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</link>
+      <description><![CDATA[我不确定这是否是发布此内容的正确位置，但它就在这里。我刚刚下载了 Tracktion Waveform 并且是第一次使用。我是一个完全的初学者，我一直在试图弄清楚为什么它不允许我从左侧延伸剪辑。为了描述我正在尝试做的事情，我正在尝试扩展第一张图像，以便边缘与第 4 条齐平，并且我知道剪辑的开头有一些空间来允许这样做（如图 2 所示） ）但我尝试过的一切都没有奏效。大多数教程视频都说只需按住 Alt 并从角落的三角形拖动即可，但这不适用于左侧的此剪辑。我已取消选中自动速度选项，因为这似乎不允许进行操作。对于一个完全的初学者来说，任何帮助都是值得的。   由   提交/u/deanofcool  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cu1542/tracktion_waveform_question/</guid>
+      <pubDate>Fri, 17 May 2024 09:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于考试的交互式视频软件</title>
+      <link>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</link>
+      <description><![CDATA[我需要在工作中培训员工，并希望通过与多项选择题互动的视频软件来完成此任务，并且我能够查看他们给出的答案/给我发送了总分。有人对此有什么建议吗？谢谢！   由   提交 /u/AliceAensland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cu0wsd/interactive_video_software_for_exams/</guid>
+      <pubDate>Fri, 17 May 2024 09:20:51 GMT</pubDate>
+    </item>
     <item>
       <title>性能应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1cu0dby/a_performance_app/</link>
-      <description><![CDATA[嘿，大家知道吗，有一个应用程序可以降低某些应用程序的性能水平，这样我就可以更顺利地使用更强大的应用程序？我是一名视频编辑，我的表现确实很滞后..   由   提交/u/venty123  [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，你们是否知道有一个应用程序可以降低某些应用程序的性能水平，这样我就可以更顺利地使用更强大的应用程序？我是一名视频编辑，我的表现确实很滞后..   由   提交/u/venty123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cu0dby/a_performance_app/</guid>
       <pubDate>Fri, 17 May 2024 08:41:02 GMT</pubDate>
     </item>
@@ -20,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 03:01:27 GMT</pubDate>
     </item>
     <item>
-      <title>有没有可以帮助我在 Windows 10 上安装实体电脑游戏的软件？</title>
+      <title>有没有软件可以帮助我在 Windows 10 上安装实体电脑游戏？</title>
       <link>https://www.reddit.com/r/software/comments/1ctu2mc/is_there_a_software_that_helps_me_install/</link>
       <description><![CDATA[Windows 10 和物理光盘对我来说很痛苦，至少对于观看电影和连续剧我需要其他软件才能打开它们，所以我我猜现在可能是一样的，我放了一张游戏光盘但没有安装，只是让我看到它的一些内部文件，但仅此而已，没有安装或周围的东西 &lt;！-- SC_ON - -&gt;  由   提交/u/0b0d1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctu2mc/is_there_a_software_that_helps_me_install/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>Numla HR 擅离职守流程 |休假应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1ctkrku/numla_hrs_awol_process_time_off_app/</link>
-      <description><![CDATA[ 由   提交/u/waqararif  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/waqararif  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctkrku/numla_hrs_awol_process_time_off_app/</guid>
       <pubDate>Thu, 16 May 2024 19:02:59 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>如何处理调度？</title>
       <link>https://www.reddit.com/r/software/comments/1ctin60/how_to_handle_scheduling/</link>
-      <description><![CDATA[嗨， 我在一所大学的作家中心负责日程安排。我正在寻找一种方法让我的导师在学期开始时选择轮班。目前，我们一直在使用共享的 Google 表格，其中包含每天和时间段的单元格，但我们总是遇到这样的问题：人们会删除彼此的姓名或在被允许之前进行选择（选择是按资历进行的，一个选择每学年的天数）。  我所需要的只是能够  允许 2 个人选择轮班（导师两人一组工作，每个时段都是开放时间） 强制执行资历选择流程（周一为高年级，周二为低年级，等等） 防止人们在轮班中覆盖某人的姓名或显示被视为缺席的轮班。 防止人们在轮班中覆盖某人的姓名。 li&gt;  我曾考虑在 Google Forms 上使用选择消除器插件，或者只是坚持使用 Google Sheet，但在我过去的使用中，这两种方法都不太可靠。无论我最终使用什么软件或选择，这些都不需要面向学生/客户。我们为此有单独的软件。我使用的是 Mac，但可以轻松访问 Windows 机器以及任何平台/操作系统。我非常感谢任何建议（最好是免费的，但灵活）。 谢谢！   由   提交 /u/IncredouslyWarmIce   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我在一所大学的作家中心负责日程安排。我正在寻找一种方法让我的导师在学期开始时选择轮班。目前，我们一直在使用共享的 Google 表格，其中包含每天和时间段的单元格，但我们总是遇到这样的问题：人们会删除彼此的姓名或在被允许之前进行选择（选择是按资历进行的，一个选择每学年的天）。  我所需要的只是能够  允许 2 个人选择轮班（导师两人一组工作，每个时段都是开放时间） 强制执行资历选择流程（周一为高年级，周二为低年级，等等） 防止人们在轮班中覆盖某人的姓名或显示被视为缺席的轮班。 防止人们在轮班中覆盖某人的姓名。 li&gt;  我曾考虑在 Google Forms 上使用选择消除器插件，或者只是坚持使用 Google Sheet，但在我过去的使用中，这两种方法都不太可靠。无论我最终使用什么软件或选择，这些都不需要面向学生/客户。我们为此有单独的软件。我使用的是 Mac，但可以轻松访问 Windows 计算机以及任何平台/操作系统。我非常感谢任何建议（最好是免费的，但灵活）。 谢谢！   由   提交 /u/IncredouslyWarmIce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctin60/how_to_handle_scheduling/</guid>
       <pubDate>Thu, 16 May 2024 17:35:47 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>适用于智能手机的 KDenLive？</title>
       <link>https://www.reddit.com/r/software/comments/1ctgtvy/a_kdenlive_for_smartphone/</link>
-      <description><![CDATA[  由    /u/-t8Q  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/-t8Q  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctgtvy/a_kdenlive_for_smartphone/</guid>
       <pubDate>Thu, 16 May 2024 16:20:17 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>PDM 整合与管理.pdf</title>
       <link>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</link>
-      <description><![CDATA[我正在寻找 PDF 文件的管理软件。我希望提供一组不应更改但应专门分组的技术文档。目标是将该软件用作 PDM，以停止打印、复制和更改（尤其是删除），同时仍具有查看功能。  我正在 pdf 论坛和软件组之间交叉发布此内容。     提交人    /u/engineeredmofo   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找 PDF 文件管理软件。我希望提供一组不应更改但应专门分组的技术文档。目标是使用该软件作为 PDM 来停止打印、复制和更改，尤其是删除，同时仍具有查看功能。  我在 pdf 论坛和软件组之间交叉发布此内容。    由   提交 /u/engineeredmofo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctd0w8/pdf_pdm_consolidation_and_management/</guid>
       <pubDate>Thu, 16 May 2024 13:33:51 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>如何仅使用命令行获取音频输入和视频输入并将它们混合在一起？</title>
       <link>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</link>
-      <description><![CDATA[大家好，我是新来的。 我有一个很长的视频，我甚至无法在我拥有的视频编辑器中打开它，而且我还有该视频的音频。它们匹配起来很容易。 问题是我可以使用什么库或程序或其他什么来组合这些输入并获得带有我选择作为参数的音频的视频文件的单个输出？谢谢    提交人    /u/c0deLikeAPro   [link] [评论]]]></description>
+      <description><![CDATA[大家好，新来的。 我收到了这个非常长的视频，我什至无法在视频编辑器中打开它已经有了，我也有那个视频的音频。它们匹配得很好而且很容易。 问题是我可以使用什么库或程序或其他任何东西来组合这些输入并获得视频文件的单个输出以及我选择作为参数的音频？谢谢   由   提交/u/c0deLikeAPro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ctaq1c/how_can_i_take_audio_input_and_video_input_and/</guid>
       <pubDate>Thu, 16 May 2024 11:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>PDF 阅读器可以像网络浏览器一样浏览大文件吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</link>
-      <description><![CDATA[我有一本巨大的教科书，内容中有超文本链接。我想要的是将内容页面固定在单独的选项卡中，然后“在新选项卡中”打开同一文件的某些主题。不然找一些资料的时候来来回回很烦人。你知道有什么可以像这样工作吗？   由   提交 /u/Pipettess   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ct9uup/pdf_reader_for_browsing_huge_files_like_web/</guid>
-      <pubDate>Thu, 16 May 2024 10:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁使用过 firestart 并且可以向我解释一下吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</link>
-      <description><![CDATA[ 由   提交/u/Dragee92  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ct9ij3/does_anyone_use_firestart_and_can_explain/</guid>
-      <pubDate>Thu, 16 May 2024 10:12:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
