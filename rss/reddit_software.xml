@@ -4,9 +4,16 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 19 May 2024 09:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 12:14:17 GMT</lastBuildDate>
     <item>
-      <title>调查如何有效地提供 IT 教育</title>
+      <title>寻找有关我的开源密码管理器应用程序 - NewPass 的反馈！</title>
+      <link>https://www.reddit.com/r/software/comments/1cvmr83/looking_for_feedback_on_my_open_source_password/</link>
+      <description><![CDATA[大家好， 我一直在开发一个名为 NewPass，旨在提供安全且用户友好的密码管理解决方案。经过付出大量努力，我很高兴与大家分享，并很高兴听到您的想法和建议。 主要功能： - 安全存储：使用强大的加密功能可确保您的密码安全。 - 用户友好的界面：设计直观且易于使用。 - 开源：该代码可在 GitHub 上找到，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问 网站 或 GitHub 存储库。 提前致谢！ &lt; /div&gt;  由   提交 /u/Geeero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1cvmr83/looking_for_feedback_on_my_open_source_password/</guid>
+      <pubDate>Sun, 19 May 2024 12:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查以了解如何有效地提供 IT 教育</title>
       <link>https://www.reddit.com/r/software/comments/1cvjnjm/survey_to_understand_how_to_effectively_provide/</link>
       <description><![CDATA[ 由   提交/u/eren_rndm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvjnjm/survey_to_understand_how_to_effectively_provide/</guid>
@@ -15,14 +22,14 @@
     <item>
       <title>带叠加功能的马赛克制作软件</title>
       <link>https://www.reddit.com/r/software/comments/1cvhtqa/mosaic_making_software_with_overlay/</link>
-      <description><![CDATA[大家好！所以我想用图片制作马赛克（如果可以这样称呼的话），我尝试过使用 Andrea Mosaic，效果很好，但我现在想是否有应用程序/软件可以让你定向任何方向的图片（不仅是 90 或 180°，例如 45 或 68° 等），无需成为网格的一部分，并且让图像重叠。这是一个例子。谢谢！   由   提交/u/Parisix78  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我想用图片制作马赛克（如果可以这样称呼的话），我试过使用 Andrea Mosaic，效果很好，但现在我想知道是否有应用程序/软件可以让您将图片定向到任何方向（不仅是 90 度或 180 度，例如 45 度或 68 度等），而不必成为网格的一部分，并让图像叠加。这是一个例子。谢谢！    提交人    /u/Parisix78   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvhtqa/mosaic_making_software_with_overlay/</guid>
       <pubDate>Sun, 19 May 2024 06:26:28 GMT</pubDate>
     </item>
     <item>
       <title>如何使用Jdownloader从xtremevideos下载</title>
       <link>https://www.reddit.com/r/software/comments/1cvhar7/how_to_use_jdownloader_to_download_from/</link>
-      <description><![CDATA[你好  希望你一切都好！  有人知道如何在有链接时使用 jdownloader 下载视频 https://ardirilisertugrul.net/kutul-amare/1.php?id=33    提交人    /u/mosid455   [link] [评论]]]></description>
+      <description><![CDATA[你好 希望你一切顺利！  当您有链接https:// 时，如何使用 jdownloader 下载视频ardirilisertugrul.net/kutul-amare/1.php?id=33   由   提交/u/mosid455  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cvhar7/how_to_use_jdownloader_to_download_from/</guid>
       <pubDate>Sun, 19 May 2024 05:52:28 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Sun, 19 May 2024 01:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>轻量级开源 Markdown 编辑器，支持类似 Notepad++ 的标签页</title>
+      <title>一个轻量级的开源 Markdown 编辑器，支持 Notepad++ 等选项卡</title>
       <link>https://www.reddit.com/r/software/comments/1cv9zz5/a_lightweight_open_source_markdown_editor_that/</link>
       <description><![CDATA[我正在寻找一个开源 Markdown 编辑器应用程序，其 UI 类似于 Notepad++ 或类似网络浏览器，这意味着我可以在单个窗口中打开多个文件选项卡。  我测试了一些，但问题是我想看到样式中的降价，而不仅仅是看到文本。我测试的软件感觉就像我在编码。    由   提交 /u/stoopidoMan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cv9zz5/a_lightweight_open_source_markdown_editor_that/</guid>
@@ -71,14 +78,14 @@
     <item>
       <title>不会审查我的话的语音转文本软件</title>
       <link>https://www.reddit.com/r/software/comments/1cv8sds/speech_to_text_software_that_doesnt_censor_my/</link>
-      <description><![CDATA[我正在寻找一款可以在电脑上使用的语音转文本软件，它实际上允许我咒骂，无法咒骂真的很丢脸。这就像有人告诉我，由于我的不便，我不允许访问日常生活的这一部分    提交人    /u/timjimti   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一款可以在我的电脑上使用的语音转文本软件，它实际上可以让我咒骂无法做到这一点真的很丢脸。就像我被告知，由于我的不便，我不被允许访问日常生活的这一部分   由   提交/u/timjimti   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cv8sds/speech_to_text_software_that_doesnt_censor_my/</guid>
       <pubDate>Sat, 18 May 2024 22:14:50 GMT</pubDate>
     </item>
     <item>
       <title>帮助我检测电脑中无用文件夹的软件</title>
       <link>https://www.reddit.com/r/software/comments/1cv8k9o/a_software_to_help_me_to_detect_useless_folders/</link>
-      <description><![CDATA[嘿。我有一个存储问题。有很多无用的文件夹（其中一些包含大文件。例如，最近我发现一个文件夹包含许多我永远不会使用的 camtasia 项目），我想检测我有一段时间没使用的文件夹。我无法通过手动搜索磁盘找到无用的文件夹。请告诉我解决方案。 ​ 非常糟糕，是吧？    提交人    /u/iv_damke   [链接] [评论]]]></description>
+      <description><![CDATA[嘿。我有存储问题。有很多有用的文件夹（其中一些有很大的文件。例如最近我发现了一个文件夹，里面有许多我永远不会使用的 camtasia 项目），我想检测我有一段时间没有使用的文件夹。我无法通过手动搜索磁盘来找到无用的文件夹。请告诉我一个解决方案。 ​ 很糟糕吧？   由   提交 /u/iv_damke   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cv8k9o/a_software_to_help_me_to_detect_useless_folders/</guid>
       <pubDate>Sat, 18 May 2024 22:04:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[标题说明了一切 - 需要针对 Windows 进行编辑（whiteout）。有什么建议么？谢谢    由   提交 /u/Dickens63   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cv53qa/free_pdf_software_with_redacting/</guid>
       <pubDate>Sat, 18 May 2024 19:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>能够上传并剪辑 30GB 的视频吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</link>
-      <description><![CDATA[我有一个近 3 小时长的视频（在笔记本电脑上），我只需要最后 3 分钟 - 但我只能找到有限的选项对于视频修剪，Clipchamp 不会加载超过 2 - 3% 的视频，因为文件太大。关于如何修剪这个有什么想法吗？   由   提交/u/truetoorangeandblue  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1cuz84l/able_to_upload_and_cut_a_30gb_video/</guid>
-      <pubDate>Sat, 18 May 2024 15:01:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,106 +4,100 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Sun, 19 May 2024 05:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 12:01:40 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 一名声称访问了 4900 万份戴尔客户记录的威胁行为者告诉 Tec [...]</title>
-      <link>https://t.me/hn_summary/90373</link>
-      <description><![CDATA[4900 万戴尔客户地址被泄露
-一名声称访问过 4900 万戴尔客户记录的威胁者告诉 TechCrunch，他暴力破解了一个在线公司门户网站，直接从戴尔的服务器上抓取了客户数据，包括实际地址。TechCrunch 证实部分数据是合法的。戴尔在发给客户的电子邮件中承认了这一漏洞，但淡化了风险，称所涉及的信息并不高度敏感。黑客 Menelik 利用合作伙伴门户网站，在近三周的时间里每分钟发送超过 5,000 个请求，却没有被发现。他后来在一个黑客论坛上列出了被盗数据。戴尔确认收到了 Menelik 的电子邮件，但声称他们已经意识到了这一漏洞。该公司已通知执法部门并正在调查此事。值得注意的是，Menelik 暗示戴尔可能已经通知了未受影响的客户，这给该公司的回应增添了一层争议。]]></description>
-      <guid>https://t.me/hn_summary/90373</guid>
-      <pubDate>Sun, 19 May 2024 05:46:32 GMT</pubDate>
+      <title>[媒体] 标题：前 OpenAI 员工报告损失了 85% 的家庭净资产</title>
+      <link>https://t.me/hn_summary/90398</link>
+      <description><![CDATA[前 OpenAI 员工报告损失了 85% 的家庭净资产&lt; /a&gt;
+标题：前 OpenAI 员工报告损失了 85% 的家庭净资产
+
+网站：www.lesswrong.com
+
+摘要：本文讨论了一位 OpenAI 前员工的财务不幸，据报道他损失了 85% 的家庭净资产。作者将乌克兰、俄罗斯等周边国家的地缘政治局势进行了类比。明斯克协议旨在和平解决冲突，但乌克兰从未充分执行，导致紧张局势持续存在。作者认为，乌克兰的行为，例如通过歧视俄语人口的法律和表达夺回克里米亚的意图，助长了冲突。这篇颇具争议的文章暗示，像格鲁吉亚这样的国家应该避免通过可能被俄罗斯用作入侵借口的法律。笔者认为，与俄罗斯接壤的欧盟国家由于情况不同，并没有面临类似的威胁。]]></description>
+      <guid>https://t.me/hn_summary/90398</guid>
+      <pubDate>Sun, 19 May 2024 12:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 伊比利亚山猫 (Lynx pardinus) 的数量显着增加，数量翻了一番 [...]</title>
-      <link>https://t.me/hn_summary/90372</link>
-      <description><![CDATA[伊比利亚山猫的数量在短短三年内翻了一番 
-根据 2023 年的人口普查，伊比利亚山猫 (Lynx pardinus) 的数量显着增加，在过去三年中翻了一番，达到 2,021 只。尽管取得了这些进展，该物种仍然濒临灭绝，需要 750 只正在繁殖的雌性才能达到有利的保护状态；目前仅检测到406个。圈养繁殖中心发挥了至关重要的作用，自 2011 年以来已释放了 372 只山猫。西班牙和葡萄牙的山猫数量正在不断扩大，其中安达卢西亚、卡斯蒂利亚-拉曼恰、埃斯特雷马杜拉和穆尔西亚的数量较多。然而，道路事故和偷猎仍然是重大威胁。由于2015年以来的积极趋势，生态转型部仍然保持乐观。]]></description>
-      <guid>https://t.me/hn_summary/90372</guid>
-      <pubDate>Sun, 19 May 2024 05:46:29 GMT</pubDate>
+      <title>在这篇博文中，作者深入研究了部分级联的概念，这是一种 [...]</title>
+      <link>https://t.me/hn_summary/90397</link>
+      <description><![CDATA[你本可以发明分数级联
+在这篇博文中，作者深入研究了部分级联的概念，这是一种跨多个排序数组进行高效搜索的技术。问题始于拥有 \( k \) 个排序数组，每个数组的大小为 \( n \)，目标是在每个数组中搜索一个元素（或其前任元素）。虽然对每个数组单独进行二进制搜索会导致 \( O(k \log n) \) 运行时间，但分数级联旨在通过重用搜索结果来优化这一点。
+
+作者解释了一个巧妙的方法：通过将最后一个数组中的所有其他元素合并到倒数第二个数组中，并重复此过程，第一个数组最终只有两倍大。这允许更有效的搜索过程。该技术在分层范围树和 3D 正交范围搜索等上下文中特别有用。
+
+突出显示的一个独特方面是需要存储指向级联元素的前驱元素的指针，以确保高效导航。这篇文章还讨论了分数级联的概括，例如级联元素的固定分数 \( \alpha \) 并将该技术应用于任意图。
+
+提供练习来加深理解，包括分数级联如何降低范围树中的查询复杂性以及用于构建数据结构的替代指针设置。]]></description>
+      <guid>https://t.me/hn_summary/90397</guid>
+      <pubDate>Sun, 19 May 2024 10:59:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]欧盟新的数字市场法案 (DMA) 旨在通过 [...]</title>
-      <link>https://t.me/hn_summary/90371</link>
-      <description><![CDATA[大型科技公司对欧盟：“死掉”&lt; br /&gt;
-欧盟新的数字市场法案 (DMA) 旨在通过让技术更加受用户控制和更具竞争力来赋予公众权力。主要规则包括迫使科技巨头允许第三方应用商店、确保平台之间的互操作性、禁止自我偏好以及加强隐私保护。然而，像苹果和 Meta 这样的大型科技公司却强烈抵制这些变化。例如，苹果公司引入了令人困惑的费用和条件来破坏 DMA，而 Meta 则提出了“付费或同意”的隐私系统，但这是被禁止的。这些高风险的冲突可能会为科技监管开创全球先例，挑战这些强大公司的垄断行为。 
-
-争议：苹果和 Meta 对 DMA 的抵制，包括苹果对第三方应用商店的惩罚措施以及 Meta 提出的“Pay or Ok”隐私系统。
-
-独特/聪明：DMA 有潜力在技术监管方面掀起一场全球竞争，将数据、电力和金钱返还给用户和工人。]]></description>
-      <guid>https://t.me/hn_summary/90371</guid>
-      <pubDate>Sun, 19 May 2024 05:36:20 GMT</pubDate>
+      <title>[媒体]在 BBC.com 的文章“国际象棋和 18 世纪人工智能”中，作者 [...]</title>
+      <link>https://t.me/hn_summary/90396</link>
+      <description><![CDATA[国际象棋与 18 世纪人工智能 (2013)
+在 BBC.com 上的文章“国际象棋与 18 世纪人工智能”中，作者探讨了人们对 18 世纪国际象棋自动机 Turk 的迷恋，以及它如何反映人类对复杂问题的优雅解决方案的渴望。计算机科学先驱查尔斯·巴贝奇 (Charles Babbage) 受到 Turk 的启发，构思了他的“差分机”，这是第一台计算机，其驱动力是对完美解决方案的希望。文章指出，虽然我们经常在解决方案中寻求美，但现实通常更笨重和巧妙。它还深入探讨了埃德加·爱伦·坡等人物的怀疑态度，他怀疑土耳其人的秘密是一个隐藏的人类棋手，这引发了人们对这位隐藏天才的身份和本质的质疑。争议在于对优雅解决方案的渴望与对更愤世嫉俗、更实际的现实的接受之间的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/90396</guid>
+      <pubDate>Sun, 19 May 2024 10:57:16 GMT</pubDate>
     </item>
     <item>
-      <title>在 yarchive.net 上，经典 Usenet 帖子的宝库深入探讨了计算机的各个方面 [...]</title>
-      <link>https://t.me/hn_summary/90370</link>
-      <description><![CDATA[有关计算机体系结构、操作系统和语言的经典 Usenet 帖子
-在 yarchive.net 上，经典 Usenet 帖子的宝库深入探讨了计算机体系结构、操作系统和编程语言的各个方面。这些讨论由 John R. Mashey、Linus Torvalds 和 Dennis Ritchie 等知名人士参与，涵盖了广泛的主题。 
-
-在计算机体系结构方面，这些帖子探讨了 64 位处理器背后的演变和基本原理、缓存管理的复杂性以及 RISC 和 CISC 体系结构之间的争论。有争议的话题包括 128 位处理器的可行性和 Pentium 4 的性能，这引发了专家之间的激烈争论。
-
-编程语言的讨论范围从 C 和 Fortran 的细微差别到编译器优化和 COBOL 的特性。独特的见解包括 Dennis Ritchie 对 C 语言“extern”的看法以及 Linus Torvalds 对 C 语言中“== 运算符”的看法。
-
-总体而言，该网站提供了有关基础计算概念的丰富历史视角，反映了当时的共识和争议。 （根据 31% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90370</guid>
-      <pubDate>Sun, 19 May 2024 05:36:17 GMT</pubDate>
+      <title>[媒体]Amana是一家著名的美国公司，专门生产厨房电器。</title>
+      <link>https://t.me/hn_summary/90395</link>
+      <description><![CDATA[微波炉不是中国制造的
+Amana 是一家知名的美国厨房电器公司。虽然他们的一些高端商用产品是在美国制造的，但他们广泛使用的中型微波炉是在韩国生产的。值得注意的是，Amana 的商用微波炉通常声音较大，底部没有传统的玻璃板。然而，它们以更高的功率和更容易的维护来弥补这一点。对于优先考虑美国制造的商品或特定电器功能的消费者来说，制造地点和产品特征的这种区别至关重要。]]></description>
+      <guid>https://t.me/hn_summary/90395</guid>
+      <pubDate>Sun, 19 May 2024 09:59:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]通用汽车 (GM) 推出了 2024 款雪佛兰 Equinox EV，旨在打造长期 [...]</title>
-      <link>https://t.me/hn_summary/90369</link>
-      <description><![CDATA[通用汽车如何将价值 35,000 美元的雪佛兰 Equinox 电动汽车打造为 319 英里的续航里程冠军
-通用汽车 (GM) 推出了 2024 款雪佛兰 Equinox EV，旨在让远程电动汽车 (EV) 变得更加实惠。前轮驱动 2LT 车型的续航里程为 319 英里，税前起价为 43,295 美元，而基本 LT 车型的首发售价为 34,995 美元，具有相同的续航里程。这使其成为在美国获得超过 300 英里电动续航里程的最便宜方式。通用汽车通过利用其 Ultium 平台上的共享组件实现了这一目标，该平台还支持凯迪拉克 Lyriq 和 Blazer EV 等车型。尽管因软件错误和生产问题而受挫，通用汽车仍对其电动汽车产品线在 2024 年卷土重来持乐观态度。尽管与竞争对手相比，Equinox EV 的充电速度不够先进，但仍然提供 Super Cruise 和 Google Assistant 等强大的功能。值得注意的是，它不会取代汽油驱动的 Equinox，后者仍然是最畅销的。]]></description>
-      <guid>https://t.me/hn_summary/90369</guid>
-      <pubDate>Sun, 19 May 2024 05:15:07 GMT</pubDate>
+      <title>[媒体]在这篇开创性的文章中，我们探讨了将 QLC SSD 转换为 [...]</title>
+      <link>https://t.me/hn_summary/90394</link>
+      <description><![CDATA[将 QLC SSD 转变为 SLC SSD
+在这篇开创性的文章中，我们使用 Crucial BX500 作为测试对象，探索将 QLC SSD 转换为 SLC SSD 的过程。这一转变显着增强了 SSD 的耐用性和性能。该过程涉及使用 SATA 至 USB 3.0 适配器和夹具等特定工具，并且需要使用 Silicon Motion 的 MPTools 仔细修改固件。值得注意的是，这种方法会使 SSD 的保修失效并擦除所有数据，因此备份至关重要。此次转换将 SSD 的 TBW 从 120TB 提升至 4,000TB，增幅高达 3333%。这种创新方法虽然存在风险，但可以显着提升性能。 （根据 49% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90394</guid>
+      <pubDate>Sun, 19 May 2024 09:55:54 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：为什么科技期刊的文笔这么差？</title>
-      <link>https://t.me/hn_summary/90368</link>
-      <description><![CDATA[问HN：为什么科技期刊的文笔这么差？
-标题：问HN：为什么科技期刊的文笔这么差？
-网站：news.ycombinator.com
+      <title>Ken Silverman 在 advsys.net 上的官方主页全面概述了他的生活 [...]</title>
+      <link>https://t.me/hn_summary/90393</link>
+      <description><![CDATA[肯·西尔弗曼的官方主页
+Ken Silverman 在 advsys.net 上的官方主页提供了以下内容的全面概述他的生活和项目。 Ken 是罗德岛州居民，是一位充满热情的计算机程序员，以创建用于《毁灭公爵 3D》等游戏的构建引擎而闻名。他的其他著名项目包括 Build2、Voxlap 和 Ken&#39;s Labyrinth。 Ken 的编程之旅始于 1983 年的一台 TI-99/4A 计算机，开启了以创新软件开发和合作为标志的职业生涯，例如共同创立了 Ardfry Imaging 和 Voxon。他的兴趣涵盖太阳能、几何谜题和音乐。该网站还详细介绍了他的学术历史和他的主要计算机的时间表。 
 
-我目前正在进行一项有关网络攻击的案例研究，这需要我深入研究计算机科学和工程方面的学术文章。尽管参考风格和文章结构不同，但我发现这些论文很难阅读——不是因为主题复杂，而是因为对英语语言规则的遵守不力。这些所谓的同行评审期刊表现出糟糕的写作惯例、句子结构、语法和拼写。在丢弃多篇写得不好的文章后，我对各期刊的持续低质量感到困惑，即使是那些影响因子很高的期刊。我怀疑许多研究人员的母语不是英语，有些文章可能会被翻译，但同行评审过程不应该纠正这些众多的错误吗？]]></description>
-      <guid>https://t.me/hn_summary/90368</guid>
-      <pubDate>Sun, 19 May 2024 04:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]抵押贷款经常被误解为银行与客户之间的简单贷款，但 [...]</title>
-      <link>https://t.me/hn_summary/90367</link>
-      <description><![CDATA[抵押贷款是一种制成品
-抵押贷款经常被误解为银行和客户之间的简单贷款，但它们实际上是由专门的发起者创建并通过复杂的供应链销售的复杂制造产品。 Bits About Money 的这篇文章深入研究了美国抵押贷款市场，解释了为什么企业家难以获得抵押贷款、为什么支付地址发生变化以及为什么大多数银行不再拥有抵押贷款。它强调了房利美和房地美等政府资助实体在社会化不付款风险方面的作用以及抵押贷款服务权的重要性。这篇文章还谈到了一种有争议的说法，即抵押贷款证券化的目的是为了让华尔街富裕起来，并指出抵押贷款证券化通过将抵押贷款转移到更适合应对利率波动的实体（例如养老基金）来帮助稳定金融体系。 （根据 92% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/90367</guid>
-      <pubDate>Sun, 19 May 2024 04:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 加州用于资助道路维护的汽油税收入由于 ri [...]</title>
-      <link>https://t.me/hn_summary/90366</link>
-      <description><![CDATA[提案将要求驾车者按行驶里程而不是每加仑汽油付费税
-由于电动汽车的兴起，加州用于资助道路维护的汽油税收入正在下降。为了解决这个问题，一项新的试点计划建议用里程税取代汽油税，根据司机的行驶里程收费。加州交通局发言人 Lauren Prehoda 强调，维护道路每年花费 8 至 90 亿美元，主要由汽油税资助。加州拥有超过 120 万辆混合动力或电动汽车，燃油税收入正在下降，导致每年损失 2 亿美元。拟议的加州道路收费将通过各种方法跟踪里程，平衡效率和隐私。 6 月份开始的为期 6 个月的试点计划将测试该系统，志愿者的收入最高可达 400 美元。州立法机关将决定是否永久实施道路收费。 
+令人惊讶/聪明：Ken 的优化技巧：“sub eax, 128”-&gt;“add eax, -128”是一个聪明的编程见解。
 
-争议：该提案引发了有关车辆里程跟踪的隐私问题。]]></description>
-      <guid>https://t.me/hn_summary/90366</guid>
-      <pubDate>Sun, 19 May 2024 04:42:48 GMT</pubDate>
+有争议：内容中没有突出显示重大争议。 （根据 70% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90393</guid>
+      <pubDate>Sun, 19 May 2024 09:43:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Retrospex 是一款旨在转换图像以适应 Commodo 图形模式的工具 [...]</title>
-      <link>https://t.me/hn_summary/90365</link>
-      <description><![CDATA[Retrospex：转换图像以适合 Commodore 64 图形模式 
-Retrospex 是一款旨在转换图像以适合 Commodore 64 图形模式的工具，使其成为复古计算爱好者开发工具链的重要组成部分。它与 ImageMagick 和 png2prg 等其他工具无缝协作，确保兼容性和易用性。 Retrospex 为输出文件名、图形模式、调色板、抖动矩阵和抖动深度提供各种选项，为图像转换提供了灵活性。该项目因其与 png2prg 兼容的特定设计以及集成到工作流程（包括调整大小、规范化以及将图像转换为 C64 可执行文件）的能力而脱颖而出。]]></description>
-      <guid>https://t.me/hn_summary/90365</guid>
-      <pubDate>Sun, 19 May 2024 04:37:43 GMT</pubDate>
+      <title>[媒体]2024年初以来，美国对部分以色列定居者实施制裁，原因是 [...]</title>
+      <link>https://t.me/hn_summary/90392</link>
+      <description><![CDATA[如何使用免费卫星图像监测西岸定居点的扩张&lt; /a&gt;
+自2024年初以来，美国对一些威胁约旦河西岸和平的以色列定居者实施制裁，此举引发了对其潜在影响的争论。以色列在约旦河西岸的定居点被国际法视为非法，自 1967 年以来不断扩大，目前已容纳约 50 万定居者。 2023 年是该地区自 2005 年以来巴勒斯坦人死亡人数最多的一年，联合国警告称灾难迫在眉睫。为了监控定居点扩张，Google Earth Pro 和 Sentinel Hub EO 浏览器等免费卫星工具非常有用。尽管图像质量和新近度存在一些限制，这些工具使研究人员能够跟踪随时间的变化。 Bellingcat 提供了如何有效使用这些工具的详细指南，强调了准确解读卫星图像的实践重要性。]]></description>
+      <guid>https://t.me/hn_summary/90392</guid>
+      <pubDate>Sun, 19 May 2024 09:41:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：higherorderco.com</title>
-      <link>https://t.me/hn_summary/90364</link>
-      <description><![CDATA[弯曲并行语言
-标题：弯曲并行语言
-网站：higherorderco.com
-
-1997 年，Yves Lafont 推出了交互组合器，这是一种并发计算模型，在几个关键领域的性能优于图灵机和 λ 微积分。在此突破性模型的基础上，我们开发了 HVM，这是一种高级语言的编译器和评估器，可以自动实现近乎理想的加速，有效处理多达 1000 多个线程。 Bend 是一种从头开始创建的新语言，旨在充分利用 HVM 的功能。这种创新方法有望在并行计算方面取得重大进步。
-
-令人惊讶/独特/聪明：HVM 以近乎理想的加速处理超过 1000 个线程的能力尤其令人印象深刻，并凸显了并行计算中显着提高性能的潜力。]]></description>
-      <guid>https://t.me/hn_summary/90364</guid>
-      <pubDate>Sun, 19 May 2024 03:38:25 GMT</pubDate>
+      <title>[媒体]埃隆·马斯克和特斯拉声称全自动驾驶汽车即将准备就绪 [...]</title>
+      <link>https://t.me/hn_summary/90391</link>
+      <description><![CDATA[特斯拉的自动驾驶技术并非“指日可待” – 集体诉讼
+埃隆·马斯克和特斯拉关于全自动驾驶汽车即将准备就绪的说法正面临法律审查。一名法官否认特斯拉试图驳回一项集体诉讼，该诉讼指控该公司误导车主，让他们相信他们的车辆很快就会实现完全自动驾驶功能。这起诉讼源于 2016 年的一段宣传视频，认为特斯拉的“完全自动驾驶”（FSD）功能（仅是二级自动驾驶）被虚假宣传。美国地区法官丽塔·林 (Rita Lin) 允许有关疏忽和欺诈的指控继续进行，但她驳回了其他一些指控。该诉讼要求自 2016 年以来购买或租赁配备 Autopilot、增强型 Autopilot 和 FSD 功能的特斯拉汽车的用户获得赔偿。尽管马斯克不断承诺即将实现自动驾驶，但特斯拉距离交付真正的自动驾驶汽车还很远。该公司还面临联邦调查，调查其自动驾驶功能是否导致了致命事故，以及是否夸大了其进展。]]></description>
+      <guid>https://t.me/hn_summary/90391</guid>
+      <pubDate>Sun, 19 May 2024 09:36:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]我有阿尔茨海默病家族史。</title>
+      <link>https://t.me/hn_summary/90390</link>
+      <description><![CDATA[我有阿尔茨海默病家族史。我想了解自己的风险
+二十多年来，我一直在报道阿尔茨海默病，但常常只看到渐进的进展。然而，在拍摄纪录片《最后的阿尔茨海默氏症患者》时，我观察到仅通过改变生活方式，患者的病情就有显着改善，这激发了我对自己因家族史而面临的风险的好奇心。与神经学家理查德·艾萨克森博士一起接受深入的大脑评估既令人着迷又令人不安。这些测试揭示了令人惊讶的见解，例如潜在的阅读障碍诊断以及与认知功能相关的各种代谢问题。艾萨克森博士的整体方法，包括饮食改变和体育锻炼，强调了早期干预和优化大脑健康的潜力，挑战了传统的“疾病护理”医学模式。 （根据 77% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90390</guid>
+      <pubDate>Sun, 19 May 2024 09:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体]文章“No Mow May”不会解决我们的生物多样性问题，最初由[...]发表</title>
+      <link>https://t.me/hn_summary/90389</link>
+      <description><![CDATA[“不割草”无法解决我们的生物多样性问题
+文章《五月不割草》不会解决我们的生物多样性问题，最初由 Undark 发表并在《琼斯妈妈》上转载，文章批评了五月不割草倡议，该倡议鼓励房主让自己的草坪生长以支持授粉媒介。尽管最初的热情和威斯康星州阿普尔顿的支持研究，该研究后来由于严重缺陷而被撤回。植物病理学家萨拉·史翠克 (Sara Stricker) 认为，这一运动是误导性的，对生物多样性的好处微乎其微。批评者指责她存在行业偏见，但她坚称自己的目标是促进知情讨论。该文章强调了草坪转化对生物多样性的复杂性，指出虽然传统草坪生态较差，但有效的替代方案需要细致入微、针对具体情况的方法。有争议的是，这篇文章强调了与更广泛的生态恢复举措相比，“五月无割草”等小规模努力的影响有限。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/90389</guid>
+      <pubDate>Sun, 19 May 2024 09:03:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
