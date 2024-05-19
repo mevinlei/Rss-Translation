@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 19 May 2024 00:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 03:11:10 GMT</lastBuildDate>
+    <item>
+      <title>如何理解代码如何变成实际的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cve6hd/how_to_understand_how_code_turns_into_an_actual/</link>
+      <description><![CDATA[就像我了解 html/css/javascript 的作用一样，但是我在哪里可以了解到如何将所有这些变成一个可以在 google 上搜索的网站？使它“打开”的代码发生了什么？互联网？   由   提交/u/1991banksy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cve6hd/how_to_understand_how_code_turns_into_an_actual/</guid>
+      <pubDate>Sun, 19 May 2024 02:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netlify 函数 Mac 与 Linux</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvde8g/netlify_functions_mac_vs_linux/</link>
+      <description><![CDATA[我刚刚从 Linux 迁移到 Mac，突然我的所有 Netlify 函数都无法使用 netlify-cli 运行。这尤其奇怪，因为我正在使用 nvm 和 npm ci，并且两者中都有干净的工作目录。 具体问题是我把所有内容都写成了 ESM 而不是 CJS，问题在于它们被视为 CJS，并给出一个错误，抱怨在模块外使用 import。我预计会有一些细微的差别，但事实并非如此。 强调一下，这是通过 nvm 和 .nvmrc 的完全相同版本的节点。两者上的干净工作目录。相同的分支（实际上不会因分支而异）。甚至在 Mac 上运行了 npm ci。相同的 .env（未通过 git 同步，我使用了 scp）。我几乎找不到任何不同。  此外，这在 package.json 中有 &quot;type&quot;: &quot;module&quot;，扩展名为 .js。将扩展名更改为 .mjs 最终只会抛出有关使用 require() 导入模块的错误（并且解决此问题的节点 22 还不是一个选项）。    提交人    /u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvde8g/netlify_functions_mac_vs_linux/</guid>
+      <pubDate>Sun, 19 May 2024 02:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以一起学习的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvc6ub/someone_to_learn_with/</link>
+      <description><![CDATA[你好。我发现除非有人监督我，否则很难独自完成项目。当我试图建造一些东西时，我总是在灌木丛中徘徊。我知道 naman kaya ko，但如果我独自构建一些东西，方向和动力就不在我身上。从这个意义上说，我正在尝试找到以下任一内容。 1. 有人要求我构建一些东西，给出指示，设定截止日期并审查代码。 （是免费指导吗？很可能。抱歉。好得令人难以置信）。 2. 或者有人和我一起建立一些东西，最好是一个网站，我们都可以学习。我们必须共享相同的技术堆栈才能发挥作用。 3. 或者建议我可以做些什么来解决这个限制。我希望我可以参加新兵训练营，但我认为他们的节奏非常慢（之前能够加入免费计划），而且对于像我这样出于爱好而这样做的人来说价格昂贵。我也不喜欢看 youtube 教程。他们很慢。我更喜欢直接阅读回购代码并尝试从中学习。我能够创建看起来不错的全栈网站，带有身份验证，但目前速度缓慢。堆栈包括 next.js、tailwind、framer-motion、Sql(prisma) 和 next-auth。希望这里允许这样做。谢谢。   由   提交/u/ilbrigz101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvc6ub/someone_to_learn_with/</guid>
+      <pubDate>Sun, 19 May 2024 01:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 URL 将问题传递给 ChatGPT？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvby0t/pass_questions_to_chatgpt_via_url/</link>
+      <description><![CDATA[你知道如何将参数放入 URL 有什么方法 或者一些工作周围这样做到ChatGPT（或其他类似的人工智能？） 也许使用一些解决方法 - 比如我自己网站上的iframe - 就像我向 www.mysite.com/ai?q=%s 进入网站后，我会按一个按钮在框架或 iram 中填写表格ChatGPT 被加载并通过 DOM 加载 - 填写文本框并按搜索... 如果能够将请求发送到两个甚至更多引擎，那就太酷了 - 比方说OpenAI 和 Gemini 例如，您可以使用以下方式进行 Google 搜索： https://www.google.com/search?q={0} 或 Google 图片 https://www.google.com/search?q={0}&amp;tbm=isch &lt; p&gt;谷歌翻译 https:/ /translate.google.com/?sl=auto&amp;tl=en&amp;text={0}&amp;op=translate Bing https://www.bing.com/search?q={0} DuckDuck&lt; /p&gt; https://duckduckgo.com/?q={0} DeepL https://www.deepl.com/translator# auto/en/{0}   由   提交 /u/Multiversal_Love   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvby0t/pass_questions_to_chatgpt_via_url/</guid>
+      <pubDate>Sun, 19 May 2024 00:49:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Firebase 中拥有数组包含的多个过滤器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cvbugr/how_to_have_multiple_filter_of_arraycontains_in/</link>
+      <description><![CDATA[     &lt; td&gt; 我想查询具有包含两个元素的数组的文档。 我尝试了这个，显然它不起作用，它说： UserProfile.vue:104 FirebaseError: 每个析取最多允许 1 个“ARRAY_CONTAINS”过滤器。 &lt; a href=&quot;https://preview.redd.it/6r7eoy265a1d1.png?width=455&amp;format=png&amp;auto=webp&amp;s=d146b3960a4a38ef80f6ff6ad472d41e34c1aee7&quot;&gt;https://preview.redd.it/6r7eoy265a1d1.png?width =455&amp;format=png&amp;auto=webp&amp;s=d146b3960a4a38ef80f6ff6ad472d41e34c1aee7 我正在考虑使用两个单独的查询手动过滤，还有其他解决方案吗？   由   提交/u/Zafugus  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cvbugr/how_to_have_multiple_filter_of_arraycontains_in/</guid>
+      <pubDate>Sun, 19 May 2024 00:44:26 GMT</pubDate>
+    </item>
     <item>
       <title>制作这个便当盒生成器来发现有趣的布局。你们可以挑剔一下吗？也许可以分享一下您将如何将其提升到一个新的水平？我想将其连接到 ChatGPT 来生成文本，并将其链接到中途机器人来生成图像。</title>
       <link>https://www.reddit.com/r/webdev/comments/1cvaox5/made_this_bento_box_generator_to_discover/</link>
-      <description><![CDATA[https://codepen.io/kevinb1014/pen /Baejwyd   由   提交 /u/kevbookis   [链接] [评论]]]></description>
+      <description><![CDATA[https://codepen.io/kevinb1014/pen/Baejwyd    由   提交  /u/kevbookis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cvaox5/made_this_bento_box_generator_to_discover/</guid>
       <pubDate>Sat, 18 May 2024 23:47:15 GMT</pubDate>
     </item>
@@ -22,7 +57,7 @@
     <item>
       <title>Twitter Feed 嵌入？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cv9v5g/twitter_feed_embed/</link>
-      <description><![CDATA[我想向正在全面开发的网站添加 Twitter X feed从头开始。该网站目前旨在在桌面上查看，并且提要仅应显示在页面的一侧 - 并且以较小的字体大小。 使用官方的publish.twitter。 com 页面不好。它的自定义选项太有限，而且我无法使其紧凑。我尝试在检查/开发控制台中乱搞，但似乎无法改变它的外观。 我使用 Elfsight 尝试了另一个选项。它允许更多的定制，以及自定义CSS（我无法开始工作），但是，我能够进一步向小部件添加样式，除非在某个点之后它会出现错误......例如在以下情况下变得不可见我将某些 div 高度设置为 100%，或者工具的某些部分没有调整大小或间隔很奇怪，几个小时的挖掘没有做任何事情。 是否有准系统的第三方 twitter/我可以使用 x feed 选项或基本网络抓取 API 来简单地以编程方式查看网站并返回文本、图像/视频 URL 等，以便我可以手动生成自己的 feed？我完全可以创建自己的基本提要（老实说，正在寻找类似于旧的 Twitter 提要嵌入的东西...更小，紧凑，能够隐藏在网页的一侧）...   由   提交/u/ActualFactualAnthony  [链接] [评论]]]></description>
+      <description><![CDATA[我想向正在全面开发的网站添加 Twitter X feed从头开始。该网站目前旨在在桌面上查看，并且提要仅应显示在页面一侧 - 并且以较小的字体大小。 使用官方的publish.twitter。 com 页面不好。它的自定义选项太有限，而且我无法使其紧凑。我尝试在检查/开发控制台中乱搞，但似乎无法改变它的外观。 我使用 Elfsight 尝试了另一个选项。它允许更多的定制，以及自定义CSS（我无法开始工作），但是，我能够进一步向小部件添加样式，除非在某个点之后它会出现错误......例如在以下情况下变得不可见我将某些 div 高度设置为 100%，或者工具的某些部分没有调整大小或间隔很奇怪，几个小时的挖掘没有做任何事情。 是否有准系统的第三方 twitter/我可以使用 x feed 选项或基本网络抓取 API 来简单地以编程方式查看网站并返回文本、图像/视频 URL 等，以便我可以手动生成自己的 feed？我完全可以创建自己的基本提要（老实说，正在寻找类似于旧的 Twitter 提要嵌入的东西...更小，紧凑，能够隐藏在网页的一侧）...   由   提交/u/ActualFactualAnthony  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv9v5g/twitter_feed_embed/</guid>
       <pubDate>Sat, 18 May 2024 23:06:12 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>[Showoff Saturday] The Pipette - 产品制造商的时事通讯</title>
       <link>https://www.reddit.com/r/webdev/comments/1cv8wch/showoff_saturday_the_pipette_a_newsletter_for/</link>
-      <description><![CDATA[      ​ 移液器动画 大家好 - 我们推出了时事通讯，移液器：https://verticolabs.com/newsletter/ 我们希望创建一些东西来模仿我们如何与朋友和亲密同事交换优质资源和链接。  分享是为了获得一些额外的动力，我认为这个社区会欣赏网站部分的一些额外的 TLC。动画（在登陆页面上）仅使用 SVG 动画，没有 CSS 或 JS（除了单击播放按钮时重新启动动画）。  在时事通讯发行方面，我们使用 Wordpress 编写时事通讯，然后获取其内容并生成完整的 Sendgrid HTML 模板。这为我们提供了一个制作内容的地方，并拥有一致的电子邮件+网络版本。  感谢有关内容、设计等的任何想法或建议！   由   提交 /u/fractalfellow   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[      ​ The Pipette 的动画 大家好 - 我们推出了一份时事通讯，The Pipette：https://verticolabs.com/newsletter/ 我们想要创建一些东西来模仿我们如何与朋友和亲密同事交换优秀的资源和链接。 分享是为了获得一些额外的动力，我认为这个社区会感谢我们在网站部分投入的一些额外的 TLC。动画（在登陆页面上）仅使用 SVG 动画，没有 CSS 或 JS（除了在单击播放按钮时重新启动动画）。 在时事通讯发行方面，我们使用 Wordpress 编写时事通讯，然后获取其内容并输出完整的 Sendgrid HTML 模板。这为我们提供了一个制作内容的单一场所，并拥有一致的电子邮件 + 网络版本。  感谢您对内容、设计等的任何想法或建议！    提交人    /u/fractalfellow   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv8wch/showoff_saturday_the_pipette_a_newsletter_for/</guid>
       <pubDate>Sat, 18 May 2024 22:19:53 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我正在开发一个项目，该项目使用 Neo4j 处理数据，使用 GraphQL 处理 API。  我在选择用于可视化数据的库时遇到了困难，而且我不喜欢 Neo4j 提供的现有仪表板创建选项。  有人对使用 JavaScript 处理/可视化图形数据有任何建议吗？  通过可视化，我的意思是探索节点/关系图。    由   提交 /u/TragicBuffalo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cv73xe/what_to_use_for_visualizing_graph_data/</guid>
       <pubDate>Sat, 18 May 2024 20:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube到MP3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv711y/youtube_to_mp3/</link>
-      <description><![CDATA[您好，我是一名软件后端开发人员，我编写 Java Web 应用程序和 REST API。我开发了这个 API，目前在 RapidAPI 市场上，您可以转换和下载多种格式的 YouTube 视频。  易于与任何类型的前端技术集成，这是网址：https:// rapidapi.com/marcocollat​​ina/api/youtube-to-mp315 我们希望进一步成长和改进！ 非常感谢您的反馈，谢谢。 干杯。   由   提交/u/Collaxx87  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv711y/youtube_to_mp3/</guid>
-      <pubDate>Sat, 18 May 2024 20:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在有点不知所措。我一直关注的这个堆栈值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv6vcz/kinda_at_at_a_loss_right_now_is_this_stack_that/</link>
-      <description><![CDATA[基本上是标题。信息如下：  HTML、CSS、JS |基金会 |  Node、Express、MongoDB（可能要学习 SQL...）Bootstrap、React、Typescript、PHP - Wordpress，我并不像普通 js 那样真正喜欢 JQuery它现在能做的就是.. Git、Next.js  这是一个适合自由职业者的完整堆栈。我主要对电子商务网站和品牌的自由职业感兴趣，所以我也涉足托管、数字营销——主要是 tiktok 广告、元广告和一点点 PPC、页面搜索引擎优化，对于页面外我只想其他人。  我认为这是可靠的，我给了自己（21）今年剩下的时间，能够以便宜 4 倍的价格开始做新手工作，以积累经验、评论和声誉。但每次我登录 reddit 时，我都会看到一篇关于一些新框架或产品的帖子，这些框架或产品已经问世，或者已经问世了一段时间，我什至不知道其名称，然后我就坐在那里……？但如果我也想学习这个，我就必须进入精神病院。    由   提交/u/Cataclyps-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv6vcz/kinda_at_at_a_loss_right_now_is_this_stack_that/</guid>
-      <pubDate>Sat, 18 May 2024 20:46:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找文件的 svg 图标包（扩展名）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv635m/looking_for_svg_icon_pack_for_files_extensions/</link>
-      <description><![CDATA[我正在尝试为正在开发的应用程序寻找 svg 图标。它就像一个云端硬盘应用程序，因此需要显示所有类型文件的图标。我检查了 oneDrive、dropBox 和一些其他云端硬盘提供商。他们都有自己的专有图标。但是当我尝试查找一些开源图标时，我看不到任何图标。看起来没有像 font-awesome、xicons、material-icons 这样的专注于文件类型图标的开源项目。我看到的只有 flaticon、freepik 等，我必须一个接一个地下载每个图标，而且还不免费。  我尝试了 vscodematerial-icon-theme。它有很棒的图标，但它们更适合 IDE 而不是文件浏览器。我可以从一些 linux GUI 主题中提取图标，但想在这里检查是否有人知道一些不需要大量工作的图标包？     提交人    /u/vicks9880   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv635m/looking_for_svg_icon_pack_for_files_extensions/</guid>
-      <pubDate>Sat, 18 May 2024 20:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv60ww/ai_for_coding/</link>
-      <description><![CDATA[有没有办法让像 gpt 或 claude 这样的 AI 模型能够访问我的所有代码库并相应地帮助我？  我一直在使用 poe 模型，依赖于代码部分的复制粘贴，但在寻找更有效的解决方案，我也尝试将代码推送到公共存储库并共享它，但这没有用。  有什么想法吗？我错过了什么吗？  非常感谢您的帮助。谢谢:)    由   提交 /u/Awkward_Luck2022   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv60ww/ai_for_coding/</guid>
-      <pubDate>Sat, 18 May 2024 20:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>商业用途网页模板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cv5ls5/business_use_web_templates/</link>
-      <description><![CDATA[我开始为小客户进行自由 Web 开发。我觉得没有必要重新发明轮子并从头开始创建，所以我想看看是否有某些地方可以寻找模板。更具体地说，是使用 ReactJS 和 TailwindCSS 的模板。由于这是用于商业用途，我不想在不应该的情况下侵犯版权或重复使用。对此很陌生，所以寻求其他人的帮助。先感谢您。    由   提交 /u/SirRupertt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cv5ls5/business_use_web_templates/</guid>
-      <pubDate>Sat, 18 May 2024 19:49:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
