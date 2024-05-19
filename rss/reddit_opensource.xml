@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 May 2024 18:11:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 21:09:45 GMT</lastBuildDate>
     <item>
       <title>显示热键 1.3.2 发布！使用热键立即应用显示设置！</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvnql2/display_hot_keys_132_released_instantly_apply/</link>
@@ -20,7 +20,7 @@
       <pubDate>Sun, 19 May 2024 12:00:39 GMT</pubDate>
     </item>
     <item>
-      <title>a.i💔开源？</title>
+      <title>a.i 💔 开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</link>
       <description><![CDATA[   /u/carlospinheirotorres   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cvlo3q/ai_open_source/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>browsermob-proxy 功能是否有真正的竞争者</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</link>
-      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等也是如此。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[因此，我一直在使用 browsermob-proxy 进行编程代理访问，到目前为止非常满意。现在我的需求已经发生了变化，并且由于没有维护的 browsermob-proxy 已经很旧并且不支持 wss 等，我陷入了困境。  mitmproxy 很棒并且维护得很好，但是我无法通过受控会话创建 har，在其中我可以执行 new_har 的操作，然后在与客户端相同的程序运行时中处理所有请求。 我希望能够以编程方式控制代理会话，并且需要对 HTTP/2 和 HTTP/2 的支持。 QUIC 对于 websocket 来说会很棒，当然对于 ssl 终止等。 在这种情况下要考虑的正确方法甚至正确的代理是什么。    由   提交/u/droned-s2k   /u/droned-s2k  reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuu7bl/is_there_a_true_contender_for_browsermobproxy/</guid>
       <pubDate>Sat, 18 May 2024 10:21:04 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Sat, 18 May 2024 08:27:06 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个支持 Vim 的 Windows 开源便签程序</title>
+      <title>寻找支持 Vim 的 Windows 开源便签程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</link>
       <description><![CDATA[我知道这听起来很具体，但你必须问。我经常使用 Windows 便笺，并且真的宁愿停止使用它而转而使用开源的东西。最终，我真的希望能够在键入 Vim 命令时使用它们，这就是促使我首先寻找替代方案的原因。   由   提交 /u/Verbais   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cupbut/looking_for_an_open_source_sticky_note_program/</guid>
@@ -78,14 +78,14 @@
     <item>
       <title>我构建了一个运行本地法学硕士的开源答案引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</link>
-      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在 Github 上完全开源 (github.com/rashadphz/farfalle/) 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我构建了一个名为 Farfalle 的开源人工智能答案引擎。  它是 Perplexity 的自托管替代品，通过 ollama 支持本地模型。它具有从头开始构建的生成式 UI，具有来自后端的流事件。 演示视频展示了我在我的 M1 Macbook Pro 上使用 llama3 在本地运行它。 Open-来源：代码在Github上完全开源（github.com/rashadphz/farfalle/） 存储库包含有关如何在本地运行项目以及如何使用 Ollama + Docker 设置项目的说明。   由   提交/u/rashadphil  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuguyx/i_built_an_opensource_answer_engine_that_runs/</guid>
       <pubDate>Fri, 17 May 2024 21:30:36 GMT</pubDate>
     </item>
     <item>
       <title>有助于应对气候变化的开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1cuf8m4/open_source_projects_that_help_with_climate_change/</link>
-      <description><![CDATA[是否有任何开源项目致力于帮助应对气候变化？任何技术堆栈都可以，但 C++ 是我目前最擅长的语言     提交人    /u/1v0ryh4t   [link] [comments]]]></description>
+      <description><![CDATA[是否有任何致力于帮助气候变化的开源项目？任何技术堆栈都可以，但 C++ 是我目前最好的语言    由   提交/u/1v0ryh4t  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cuf8m4/open_source_projects_that_help_with_climate_change/</guid>
       <pubDate>Fri, 17 May 2024 20:20:14 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Fri, 17 May 2024 16:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>Winamp 宣布将开放其源代码，以便能够协作开发其传奇的 Windows 播放器。</title>
+      <title>Winamp 宣布将开放其源代码，以便协作开发其适用于 Windows 的传奇播放器。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</link>
-      <description><![CDATA[        由    /u/Puzzleheaded-Eye8414 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[    /u/Puzzleheaded-Eye8414   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cu8ri8/winamp_has_announced_that_it_is_opening_up_its/</guid>
       <pubDate>Fri, 17 May 2024 15:54:28 GMT</pubDate>
     </item>

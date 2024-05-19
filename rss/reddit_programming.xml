@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 19 May 2024 18:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 21:09:10 GMT</lastBuildDate>
+    <item>
+      <title>人工智能在汽车测试数据分析中的 5 大用例</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvy1ru/top_5_use_cases_for_ai_in_automotive_testing_data/</link>
+      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvy1ru/top_5_use_cases_for_ai_in_automotive_testing_data/</guid>
+      <pubDate>Sun, 19 May 2024 20:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁更痴心妄想？</title>
+      <link>https://www.reddit.com/r/programming/comments/1cvxoyx/who_is_more_delusional/</link>
+      <description><![CDATA[ 由   提交/u/Patryk_99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cvxoyx/who_is_more_delusional/</guid>
+      <pubDate>Sun, 19 May 2024 20:35:04 GMT</pubDate>
+    </item>
     <item>
       <title>软件开发中永恒的技能</title>
       <link>https://www.reddit.com/r/programming/comments/1cvu1x3/timeless_skills_in_software_development/</link>
@@ -13,14 +27,14 @@
       <pubDate>Sun, 19 May 2024 17:53:21 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 Kubernetes 对我的 SaaS 业务来说是一个错误</title>
+      <title>为什么 Kubernetes 对于我的 SaaS 业务来说是一个错误</title>
       <link>https://www.reddit.com/r/programming/comments/1cvtixc/why_kubernetes_was_a_mistake_for_my_saas_business/</link>
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvtixc/why_kubernetes_was_a_mistake_for_my_saas_business/</guid>
       <pubDate>Sun, 19 May 2024 17:29:02 GMT</pubDate>
     </item>
     <item>
-      <title>HVM2 101：新的（？）并行计算创新的无障碍指南</title>
+      <title>HVM2 101：新（？）并行计算创新的无障碍指南</title>
       <link>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</link>
       <description><![CDATA[ 由   提交/u/CrowSufficient  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvte9n/hvm2_101_an_accessible_guide_to_new_parallel/</guid>
@@ -34,7 +48,7 @@
       <pubDate>Sun, 19 May 2024 17:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>从开发者角度看我使用 n8n 的经历</title>
+      <title>从开发人员角度来看我使用 n8n 的经验</title>
       <link>https://www.reddit.com/r/programming/comments/1cvsqek/my_experience_using_n8n_from_a_developer/</link>
       <description><![CDATA[ 由   提交/u/superjet1  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvsqek/my_experience_using_n8n_from_a_developer/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>我希望我早点知道 BCR</title>
       <link>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</link>
-      <description><![CDATA[为编码面试做好准备是很困难的，尤其是当您不确定 DSA 时。甚至当你在公司写一段片段时也可能如此。我知道只要有机会，我就想优化我的代码。所以我一直的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了“最佳可想象运行时”，在本文中，我尝试尽我所能总结这个概念。   由   提交 /u/Siddhapan   [链接] [评论]]]></description>
+      <description><![CDATA[为编码面试做好准备是很困难的，尤其是当您不确定 DSA 时。甚至当你在公司写一段片段时也可能如此。我知道只要有机会，我就想优化我的代码。所以我一直的问题是“它足够好吗？”。我其实不知道该停在哪里。就在那时，我遇到了“最佳可想象运行时”，在本文中，我试图尽我最大的能力总结这个概念。   由   提交 /u/Siddhapan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvqsg3/i_wish_i_knew_about_bcr_earlier/</guid>
       <pubDate>Sun, 19 May 2024 15:26:14 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Sun, 19 May 2024 13:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>关于现代 CSS 你需要了解什么</title>
+      <title>你需要了解的现代 CSS</title>
       <link>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</link>
       <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvo7xr/what_you_need_to_know_about_modern_css/</guid>
@@ -78,12 +92,12 @@
     <item>
       <title>寻找有关我的开源密码管理器应用程序 - NewPass 的反馈！</title>
       <link>https://www.reddit.com/r/programming/comments/1cvmoox/looking_for_feedback_on_my_open_source_password/</link>
-      <description><![CDATA[大家好， 我一直在开发一个名为 NewPass，旨在提供安全且用户友好的密码管理解决方案。经过付出大量努力，我很高兴与大家分享，并很高兴听到您的想法和建议。 主要功能： - 安全存储：使用强大的加密功能可确保您的密码安全。 - 用户友好的界面：设计直观且易于使用。 - 开源：该代码可在 GitHub 上找到，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问 网站 或 GitHub 存储库。 提前致谢！ &lt; /div&gt;  由   提交/u/Geeero  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我一直在开发一款名为 NewPass 的开源 Android 应用，旨在为管理密码提供安全且用户友好的解决方案。经过大量努力，我很高兴与大家分享，并希望听到您的想法和建议。 主要功能： - 安全存储：使用强加密来保证您的密码安全。 - 用户友好界面：设计直观且易于使用。 - 开源：代码可在 GitHub 上获得，因此您可以查看、贡献或分叉它。 我正在寻找： - 有关功能和界面的反馈 - 改进建议 - 错误报告 如果您有兴趣，请访问网站或GitHub repo。 提前致谢！    由    /u/Geeero  提交  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvmoox/looking_for_feedback_on_my_open_source_password/</guid>
       <pubDate>Sun, 19 May 2024 12:01:21 GMT</pubDate>
     </item>
     <item>
-      <title>生产驱动开发：高效组织的方法</title>
+      <title>生产驱动的开发：高效组织的方法</title>
       <link>https://www.reddit.com/r/programming/comments/1cvm6fm/production_driven_development_an_approach_for/</link>
       <description><![CDATA[ 由   提交/u/ebbbeeno  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvm6fm/production_driven_development_an_approach_for/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Akmandev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cvm652/software_engineering_levels/</guid>
       <pubDate>Sun, 19 May 2024 11:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>图形程序员的生与死</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</link>
-      <description><![CDATA[ 由   提交/u/ebbbeeno  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvkko2/life_and_death_of_a_graphics_programmer/</guid>
-      <pubDate>Sun, 19 May 2024 09:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>8-Puzzle-Solver,使用 AI 搜索技术解决 8 难题,下载8-Puzzle-Solver的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/programming/comments/1cvkgxp/github_mohammedelfatihsalah8puzzlesolver_using_ai/</link>
-      <description><![CDATA[我的项目是做什么的 大家好 我很高兴分享我的项目一直致力于：一款使用 Python 和 Pygame 构建的交互式 8 谜题游戏。该项目还包括多个基于经典搜索算法的求解器。 技术细节：  Python：项目中的主要语言。 Pygame：用于渲染和处理用户交互。 搜索算法：实现深度优先搜索 (dfs) 和 A 星搜索来解决难题。默认情况下使用星形搜索，因为它比 dfs 更快地找到解决方案  目标受众 这是我为了好玩而做的一个玩具项目。您可以在 GitHub 中找到该项目：链接 我很乐意收到您的反馈、贡献，如果您找到了它有趣或有帮助，请在 GitHub 上给它一个星。您的支持和反馈将帮助我改进并添加更多功能！感谢您查看我的项目！   由   提交 /u/MohamedElfatih   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cvkgxp/github_mohammedelfatihsalah8puzzlesolver_using_ai/</guid>
-      <pubDate>Sun, 19 May 2024 09:34:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
