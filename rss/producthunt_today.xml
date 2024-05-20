@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <title>Product Hunt — 每天提供最好的新产品</title>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 May 2024 15:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 18:12:49 GMT</lastBuildDate>
     <item>
-      <title>格式化</title>
-      <link>https://www.producthunt.com/posts/formatify</link>
+      <title>艾迪</title>
+      <link>https://www.producthunt.com/posts/edde-ai</link>
       <description><![CDATA[
-            终极免费客户端转换器应用程序
-          
+您的学术助理，撰写论文、引用论文等
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/formatify</guid>
-      <pubDate>Sun, 19 May 2024 12:44:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/edde-ai</guid>
+      <pubDate>Sun, 19 May 2024 21:23:30 GMT</pubDate>
     </item>
     <item>
       <title>YouTube 简化版</title>
@@ -104,6 +104,20 @@
       <pubDate>Fri, 17 May 2024 14:27:53 GMT</pubDate>
     </item>
     <item>
+      <title>尝试</title>
+      <link>https://www.producthunt.com/posts/coba</link>
+      <description><![CDATA[
+            美国与墨西哥权力的关系
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/coba</guid>
+      <pubDate>Thu, 16 May 2024 17:24:37 GMT</pubDate>
+    </item>
+    <item>
       <title>智能力</title>
       <link>https://www.producthunt.com/posts/smartli</link>
       <description><![CDATA[
@@ -118,7 +132,7 @@
       <pubDate>Tue, 14 May 2024 08:26:35 GMT</pubDate>
     </item>
     <item>
-      <title>比布尔</title>
+      <title>毕布尔</title>
       <link>https://www.producthunt.com/posts/beeble</link>
       <description><![CDATA[
             最安全的电子邮件交换和文件存储平台
@@ -130,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/beeble</guid>
       <pubDate>Fri, 10 May 2024 17:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>三角臂</title>
-      <link>https://www.producthunt.com/posts/jib</link>
-      <description><![CDATA[
-            快速、流畅、基于语音的 AI
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/jib</guid>
-      <pubDate>Fri, 10 May 2024 15:29:46 GMT</pubDate>
     </item>
     <item>
       <title>诺科基地</title>
@@ -177,18 +177,18 @@
       <title>网络工作室内容管理系统</title>
       <link>https://www.producthunt.com/posts/webstudio-cms</link>
       <description><![CDATA[
-最好的 CMS 就是您已经使用的 CMS
+            最好的 CMS 就是您已经使用的 CMS
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/webstudio-cms</guid>
       <pubDate>Tue, 07 May 2024 18:52:22 GMT</pubDate>
     </item>
     <item>
-      <title>追踪我的影片</title>
+      <title>跟踪我的视频</title>
       <link>https://www.producthunt.com/posts/track-my-videos</link>
       <description><![CDATA[
             在一个仪表板中跟踪您的所有 TikTok 和 Reels
@@ -205,12 +205,12 @@
       <title>迭代</title>
       <link>https://www.producthunt.com/posts/iterate-3</link>
       <description><![CDATA[
-轻松管理即时消息
+            快速管理变得简单
+          
 
-
-讨论
-|
-链接
+讨论&lt; /a&gt;
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/iterate-3</guid>
       <pubDate>Tue, 30 Apr 2024 03:37:19 GMT</pubDate>
