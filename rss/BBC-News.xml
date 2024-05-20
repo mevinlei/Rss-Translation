@@ -4,55 +4,90 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 20 May 2024 09:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 12:18:39 GMT</lastBuildDate>
     <item>
-      <title>刚果民主共和国军队表示挫败了政变企图</title>
+      <title>国际刑事法院检察官寻求逮捕以色列和哈马斯领导人</title>
+      <link>https://www.bbc.com/news/articles/c3ggpe3qj6wo</link>
+      <description><![CDATA[他们因涉嫌在 10 月 7 日袭击和随后的战争中犯下战争罪而被通缉。]]></description>
+      <guid>https://www.bbc.com/news/articles/c3ggpe3qj6wo</guid>
+      <pubDate>Mon, 20 May 2024 12:07:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>观看：伊朗国家电视台如何报道总统去世的消息</title>
+      <link>https://www.bbc.co.uk/news/world-middle-east-69037323</link>
+      <description><![CDATA[视频显示了导致总统和外交部长丧生的直升机坠毁现场。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-middle-east-69037323</guid>
+      <pubDate>Mon, 20 May 2024 11:43:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>央行副行长表示夏季可能降息</title>
+      <link>https://www.bbc.com/news/articles/c033wprzep6o</link>
+      <description><![CDATA[本·布罗德本特 (Ben Broadbent) 的评论是在预计显示通胀下降的数据公布之前发表的。]]></description>
+      <guid>https://www.bbc.com/news/articles/c033wprzep6o</guid>
+      <pubDate>Mon, 20 May 2024 11:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会议员呼吁赔偿水寄生虫爆发</title>
+      <link>https://www.bbc.com/news/articles/c2eep2g95rpo</link>
+      <description><![CDATA[托特尼斯议员安东尼·曼格纳尔 (Anthony Mangnall) 表示，他希望西南水务公司向德文郡的公司支付“应得的”赔偿。]]></description>
+      <guid>https://www.bbc.com/news/articles/c2eep2g95rpo</guid>
+      <pubDate>Mon, 20 May 2024 11:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Top Gear》明星报名参加新的公路旅行系列</title>
+      <link>https://www.bbc.com/news/articles/cxrr47k2l6ro</link>
+      <description><![CDATA[帕迪·麦吉尼斯和克里斯·哈里斯将环游欧洲，解决中年问题。]]></description>
+      <guid>https://www.bbc.com/news/articles/cxrr47k2l6ro</guid>
+      <pubDate>Mon, 20 May 2024 11:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>六十年代流行歌手 Frank Ifield 去世，享年 86 岁</title>
+      <link>https://www.bbc.com/news/articles/c0vv1ngrq5yo</link>
+      <description><![CDATA[这位歌手是第一个连续三次在英国排行榜上获得冠军的人。]]></description>
+      <guid>https://www.bbc.com/news/articles/c0vv1ngrq5yo</guid>
+      <pubDate>Mon, 20 May 2024 10:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>GB News 违规后可能面临 Ofcom 处罚</title>
+      <link>https://www.bbc.com/news/articles/cyxxlge97deo</link>
+      <description><![CDATA[广播监管机构表示，该网络被发现违反了应有的公正性规则。]]></description>
+      <guid>https://www.bbc.com/news/articles/cyxxlge97deo</guid>
+      <pubDate>Mon, 20 May 2024 10:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>OnlyFans 对英国广播公司 (Ofcom) 拒绝的 BBC 报告提出投诉</title>
+      <link>https://www.bbc.co.uk/news/uk-69030337</link>
+      <description><![CDATA[针对一份强调非法图片源自 OnlyFans 的报告的投诉已被驳回。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-69030337</guid>
+      <pubDate>Mon, 20 May 2024 09:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>男孩在河流死亡后仍处于危急状态</title>
+      <link>https://www.bbc.com/news/articles/c977117r1p8o</link>
+      <description><![CDATA[周六，两名十几岁的男孩在泰恩河奥文厄姆桥附近遇到了麻烦。]]></description>
+      <guid>https://www.bbc.com/news/articles/c977117r1p8o</guid>
+      <pubDate>Mon, 20 May 2024 09:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗宣布为总统哀悼五天</title>
+      <link>https://www.bbc.com/news/articles/cpwwql21747o</link>
+      <description><![CDATA[最高领袖阿亚图拉·阿里·卡梅内伊在总统和外交部长去世后表示哀悼。]]></description>
+      <guid>https://www.bbc.com/news/articles/cpwwql21747o</guid>
+      <pubDate>Mon, 20 May 2024 09:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚果民主共和国军队称已挫败政变企图</title>
       <link>https://www.bbc.com/news/articles/cxeeydypv32o</link>
       <description><![CDATA[刚果民主共和国军队表示，他们已经制止了一场涉及刚果和外国士兵的未遂政变。]]></description>
       <guid>https://www.bbc.com/news/articles/cxeeydypv32o</guid>
       <pubDate>Mon, 20 May 2024 08:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>Lyse Doucet：莱西总统去世后伊朗下一步该怎么办？</title>
-      <link>https://www.bbc.com/news/articles/c1dd99jgl09o</link>
-      <description><![CDATA[莱希的死将考验强硬派掌控所有权力部门的体系，莉丝·杜塞特 (Lyse Doucet) 写道。]]></description>
-      <guid>https://www.bbc.com/news/articles/c1dd99jgl09o</guid>
-      <pubDate>Mon, 20 May 2024 08:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>受感染的血液受害者正在等待NHS有史以来最大灾难的报告</title>
-      <link>https://www.bbc.co.uk/news/health-69022726</link>
-      <description><![CDATA[在血液感染丑闻中，超过 30,000 人感染了艾滋病毒和丙型肝炎，目前已有 3,000 人死亡。]]></description>
-      <guid>https://www.bbc.co.uk/news/health-69022726</guid>
-      <pubDate>Mon, 20 May 2024 08:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：伊朗国家电视台宣布莱西去世</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-69037316</link>
-      <description><![CDATA[据官方媒体报道，伊朗总统易卜拉欣·莱西在直升机失事中丧生。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-69037316</guid>
-      <pubDate>Mon, 20 May 2024 07:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>德里气温突破45摄氏度，酷热难当</title>
-      <link>https://www.bbc.com/news/articles/c888e0730zpo</link>
-      <description><![CDATA[印度北部部分地区正遭受强烈热浪的侵袭，这种热浪将持续一周。]]></description>
-      <guid>https://www.bbc.com/news/articles/c888e0730zpo</guid>
-      <pubDate>Mon, 20 May 2024 06:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>简介：易卜拉欣·莱西，伊朗强硬派总统</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-57421235</link>
-      <description><![CDATA[这位 2021 年就任总统的神职人员镇压异见并对西方采取强硬立场。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-57421235</guid>
-      <pubDate>Mon, 20 May 2024 05:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>儿童密谋接管切尔西花展</title>
-      <link>https://www.bbc.co.uk/news/uk-england-london-69026064</link>
-      <description><![CDATA[今年的活动包括初级评委和一个由儿童设计的“成人禁止进入”的花园。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-london-69026064</guid>
-      <pubDate>Mon, 20 May 2024 05:11:35 GMT</pubDate>
+      <title>调查称，受感染的血液丑闻受害者因掩盖真相而出卖</title>
+      <link>https://www.bbc.co.uk/news/live/uk-69025640</link>
+      <description><![CDATA[数千人因受污染的血液制品和输血感染艾滋病毒和丙型肝炎。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-69025640</guid>
+      <pubDate>Mon, 20 May 2024 08:36:22 GMT</pubDate>
     </item>
     <item>
       <title>创纪录的目击事件后对亚洲黄蜂发出警告</title>
@@ -62,13 +97,6 @@
       <pubDate>Mon, 20 May 2024 05:10:31 GMT</pubDate>
     </item>
     <item>
-      <title>“我的儿子接受了受感染的血液治疗，但我们对此保密”</title>
-      <link>https://www.bbc.com/news/articles/cp4g4llnqllo</link>
-      <description><![CDATA[安吉拉·纽科姆说，她对儿子被诊断出患有艾滋病的情况一无所知。]]></description>
-      <guid>https://www.bbc.com/news/articles/cp4g4llnqllo</guid>
-      <pubDate>Mon, 20 May 2024 05:05:36 GMT</pubDate>
-    </item>
-    <item>
       <title>巴黎残奥会地铁残疾人通道“耻辱”</title>
       <link>https://www.bbc.com/news/articles/cyrlr5m4rj0o</link>
       <description><![CDATA[慈善机构表示，在奥运会之前缺乏改善巴黎地铁交通的工作是“可耻的”。]]></description>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 20 May 2024 00:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>研究称水务投资者已撤资数十亿美元</title>
-      <link>https://www.bbc.com/news/articles/cw4478wnjdpo</link>
-      <description><![CDATA[一份报告显示，股东已筹集了数十亿美元，但由于水费似乎将上涨而未能投资。]]></description>
-      <guid>https://www.bbc.com/news/articles/cw4478wnjdpo</guid>
-      <pubDate>Sun, 19 May 2024 23:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国安全顾问敦促内塔尼亚胡将战争与“政治战略”联系起来</title>
-      <link>https://www.bbc.com/news/articles/cd117gqjn4yo</link>
-      <description><![CDATA[杰克·沙利文的访问正值以色列军队继续在加沙（包括拉法）开展军事行动。]]></description>
-      <guid>https://www.bbc.com/news/articles/cd117gqjn4yo</guid>
-      <pubDate>Sun, 19 May 2024 21:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪迪在视频显示攻击前女友卡西后道歉</title>
-      <link>https://www.bbc.com/news/articles/cyrr61417ylo</link>
-      <description><![CDATA[美国有线电视新闻网 (CNN) 获得的视频显示，2016 年，他在酒店走廊上踢推卡西·文图拉 (Cassie Ventura)。]]></description>
-      <guid>https://www.bbc.com/news/articles/cyrr61417ylo</guid>
-      <pubDate>Sun, 19 May 2024 20:07:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗总统易卜拉欣·莱西在直升机失事中丧生 - 国家电视台</title>
+      <title>伊朗总统易卜拉欣·莱西在直升机失事中丧生</title>
       <link>https://www.bbc.co.uk/news/live/world-middle-east-69035051</link>
       <description><![CDATA[外交部长侯赛因·阿米尔-阿卜杜拉希安也被证实在伊朗西北部周日发生的坠机事件中丧生。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-middle-east-69035051</guid>
       <pubDate>Sun, 19 May 2024 14:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么维基解密的朱利安·阿桑奇面临美国的引渡要求</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68282613</link>
-      <description><![CDATA[维基解密创始人朱利安·阿桑奇希望发起新的呼吁。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68282613</guid>
-      <pubDate>Sun, 19 May 2024 10:29:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
