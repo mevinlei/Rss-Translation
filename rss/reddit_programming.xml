@@ -4,9 +4,23 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 00:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 03:10:23 GMT</lastBuildDate>
     <item>
-      <title>🚀 来认识一下 genson-rs：快速生成千兆字节数据的 JSON 模式！</title>
+      <title>Python 基础知识直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
+      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
+      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>React Conf 2024 的新增内容</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</link>
+      <description><![CDATA[ 由   提交 /u/hizacharylee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwv536/whats_new_at_react_conf_2024/</guid>
+      <pubDate>Tue, 21 May 2024 00:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 来认识一下 genson-rs：为千兆字节的数据快速生成 JSON 模式！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</link>
       <description><![CDATA[ 由   提交/u/gopherman12  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</guid>
@@ -27,9 +41,9 @@
       <pubDate>Tue, 21 May 2024 00:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>比较桌面开发工具 Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
+      <title>比较桌面开发工具、Qt、Electron 和 macOS Native（Objective-C 和 Swift）</title>
       <link>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</link>
-      <description><![CDATA[  由    /u/bbm_engineer  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/bbm_engineer  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwtdmz/comparing_desktop_development_tools_qt_electron/</guid>
       <pubDate>Mon, 20 May 2024 23:14:26 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Mon, 20 May 2024 21:55:20 GMT</pubDate>
     </item>
     <item>
-      <title>逆转 Apple II 的 Choplifter - 源代码和文章来自 Blondihacks</title>
+      <title>Apple II 的 Reversing Choplifter —— Blondihacks 上的源代码和文章</title>
       <link>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwr4pk/reversing_choplifter_for_apple_ii_source_code_and/</guid>
@@ -78,7 +92,7 @@
     <item>
       <title>Uber 将 1 万亿条记录从 DynamoDB 迁移到 LedgerStore，每年节省 600 万美元</title>
       <link>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</link>
-      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/rgancarz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwm04c/uber_migrates_1_trillion_records_from_dynamodb_to/</guid>
       <pubDate>Mon, 20 May 2024 18:03:26 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/waterslurpingnoises   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwlede/optimizing_sql_queries_postgresql_best_practices/</guid>
       <pubDate>Mon, 20 May 2024 17:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cample-html - 新的开源工具，用于轻松获取服务器端 HTML 并将其添加到 DOM。</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</link>
-      <description><![CDATA[ 由   提交/u/antonmak1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwklmw/camplehtml_new_open_source_tool_for_easily/</guid>
-      <pubDate>Mon, 20 May 2024 17:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoJS 2 - 随机 Boogaloo。使用纯 HTML 和 CSS 制作具有“随机性”的井字游戏。没有JavaScript！</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwk5d0/nojs_2_stochastic_boogaloo_making_a_tictactoe/</link>
-      <description><![CDATA[ 由   提交/u/Prof_Farnsworth1729  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwk5d0/nojs_2_stochastic_boogaloo_making_a_tictactoe/</guid>
-      <pubDate>Mon, 20 May 2024 16:46:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
