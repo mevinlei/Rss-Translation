@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 21 May 2024 03:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:12:58 GMT</lastBuildDate>
     <item>
-      <title>Python 基础知识直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</link>
-      <description><![CDATA[高级后端开发人员介绍的Python教程，以及一些有趣且易于使用的库。加入并提出问题或提出建议   由   提交/u/whitechoc6  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cwwrxz/python_basics_live_stream/</guid>
-      <pubDate>Tue, 21 May 2024 02:00:49 GMT</pubDate>
+      <title>使用 CompletableFuture 实现异步超时</title>
+      <link>https://www.reddit.com/r/programming/comments/1cwz98m/implementing_async_timeouts_with_completablefuture/</link>
+      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cwz98m/implementing_async_timeouts_with_completablefuture/</guid>
+      <pubDate>Tue, 21 May 2024 04:16:26 GMT</pubDate>
     </item>
     <item>
       <title>React Conf 2024 的新增内容</title>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 21 May 2024 00:39:20 GMT</pubDate>
     </item>
     <item>
-      <title>🚀 来认识一下 genson-rs：为千兆字节的数据快速生成 JSON 模式！</title>
+      <title>🚀 认识 genson-rs：针对 GB 数据的超快 JSON 模式生成！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</link>
       <description><![CDATA[ 由   提交/u/gopherman12  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwuy3j/meet_gensonrs_blazingfast_json_schema_generation/</guid>
@@ -34,7 +34,7 @@
       <pubDate>Tue, 21 May 2024 00:15:12 GMT</pubDate>
     </item>
     <item>
-      <title>我制作的很酷的应用程序：使用 OpenAI 的 Whisper 以任何语言离线转录音频！</title>
+      <title>我制作的酷应用：使用 OpenAI 的 Whisper 以任何语言离线转录音频！</title>
       <link>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</link>
       <description><![CDATA[ 由   提交/u/WeatherZealousideal5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwui6i/cool_app_i_made_transcribe_audio_offline_in_any/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>saalikmueen/go-grpc-实现：Golang + Gin + Docker + gRPC + NGINX</title>
       <link>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</link>
-      <description><![CDATA[ 由   提交/u/saalik_m   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/saalik_m  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwsmua/saalikmubeengogrpcimplementation_golang_gin/</guid>
       <pubDate>Mon, 20 May 2024 22:40:22 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>使用 Nodejs 的开源 linkedin 自动化</title>
       <link>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</link>
-      <description><![CDATA[  由    /u/Ranorkk  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Ranorkk  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cwq34m/open_source_linkedin_automation_with_nodejs/</guid>
       <pubDate>Mon, 20 May 2024 20:50:56 GMT</pubDate>
     </item>

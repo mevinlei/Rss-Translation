@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了娱乐？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 21 May 2024 03:10:19 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Tue, 21 May 2024 06:12:50 GMT</lastBuildDate>
+    <item>
+      <title>我在 Premiere 中创建了大约 48 小时的代理，我可以导出 xml 并且仍然在 Resolve 中使用原始代理和代理吗？提前致谢</title>
+      <link>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</link>
+      <description><![CDATA[正如标题所示，我花了几天时间为一些 blackmagic 素材创建代理，而我们的导演决定改为在 Resolve 中进行编辑。我可以使用我已经创建的代理吗？或者我必须创建新的代理...   由   提交 /u/MyCommentIsNo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1cwyr5z/i_created_about_48_hours_of_proxies_in_premiere/</guid>
+      <pubDate>Tue, 21 May 2024 03:47:45 GMT</pubDate>
+    </item>
     <item>
       <title>再次爱上了编辑。</title>
       <link>https://www.reddit.com/r/editors/comments/1cwxsdm/fell_in_love_with_editing_again/</link>
@@ -13,23 +20,16 @@
       <pubDate>Tue, 21 May 2024 02:54:13 GMT</pubDate>
     </item>
     <item>
-      <title>有人参加过 Noble Desktop 编辑训练营课程吗？他们值得吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1cwvbp9/has_anybody_taken_the_noble_desktop_editing/</link>
-      <description><![CDATA[基本上只是标题，想要了解有关视频编辑的更多信息，并可能在其中寻求某种职业生涯。我试图在网上查找有关他们的信息，但没有找到太多有关他们的信息。    由   提交 /u/crazyzjm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1cwvbp9/has_anybody_taken_the_noble_desktop_editing/</guid>
-      <pubDate>Tue, 21 May 2024 00:48:15 GMT</pubDate>
-    </item>
-    <item>
       <title>外部驱动器不断无故弹出</title>
       <link>https://www.reddit.com/r/editors/comments/1cwv0t2/external_drives_keep_ejecting_for_no_reason/</link>
-      <description><![CDATA[嗨， 我正在运行一个完全更新的 Mac Studio M2 Max 操作系统，我注意到我的许多驱动器不断断开连接然后重新安装，没有明显的原因。这种情况发生在我的有源台式机驱动器和固态硬盘上。 我将努力解决并尝试排除故障，但我想联系一下，问问我是否遗漏了什么。在任何时候，我通常都会将所有端口都用满，包括我的苹果显示器上的驱动器。我将首先用更高质量的电缆替换电缆，看看是否有区别。有人推荐我应该买的品牌吗？我通常为我的相机设备购买 Alvin 的电缆，但不确定是否用于外围设备。 还有其他你会考虑的吗？这种情况发生在新旧驱动器上以及所有端口上，所以我不认为这是一个有缺陷的端口 - 我在想也许我只是插入了太多设备？ 请指教，因为我在这里拔头发！！    提交人    /u/neilatron   [link] [评论]]]></description>
+      <description><![CDATA[嘿， 我正在运行 mac studio M2 Max 完全最新的操作系统，我注意到许多我的驱动器不断断开连接，然后无明显原因地重新安装。我的供电台式机驱动器和 SSD 都会出现这种情况。 我将解决并尝试排除故障，但我想我应该联系并询问是否有明显遗漏的东西。在任何给定时间，我通常都会让所有端口的驱动器都达到最大，包括我的苹果显示器上的驱动器。我将首先用更高质量的电缆替换电缆，看看这是否会产生影响。有人推荐我应该买的品牌吗？我通常为我的相机设备购买 Alvin&#39;s 电缆，但不确定是否适用于外围设备。  您还有其他考虑吗？新的和旧的驱动器以及所有端口都会发生这种情况，所以我不认为这是一个有缺陷的端口 - 我想也许我只是插入了太多设备？ 请告知我&#39;我把我的头发拉出来！！   由   提交/u/neilatron  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwv0t2/external_drives_keep_ejecting_for_no_reason/</guid>
       <pubDate>Tue, 21 May 2024 00:33:10 GMT</pubDate>
     </item>
     <item>
       <title>重新链接“智能”Adobe 生态系统事物。</title>
       <link>https://www.reddit.com/r/editors/comments/1cwsou4/relinking_smart_adobeecosystem_things/</link>
-      <description><![CDATA[我在一个项目中使用 .mogrts 和 Adob​​e stock music，该项目在几个编辑之间共享和传递。 我们遇到的一个烦人的问题是重新链接 mogrts 所需的媒体和 Adob​​e stock music 的音频。 目前我发现重新链接 mogrts 的唯一方法（对于第一次打开项目的人）是将 mogrt 导入时间线，以便 PPRO 将必要的媒体下载到运动图形模板内容的暂存盘位置，然后指向该文件夹以重新链接 mogrt 所需的媒体。 对于音乐，即使我与某人共享 Adob​​e Stock 播放列表，他们也必须手动下载每个曲目然后重新链接。 在每种情况下，我都可以将媒体从我的运动图形模板暂存位置和下载的音乐发布到共享文件位置并让它们重新链接到该位置，但我觉得应该是一种更简单、更智能的方法 - 特别是如果我们都在 Adob​​e 生态系统中。 这些东西在团队项目中效果更好吗？我从未使用过它们，也找不到 Adob​​e 关于这些主题的任何文档。 如果这是一个我自己可以轻松完成的搜索，我很抱歉，但公平地说，我找不到它    提交人    /u/LocalMexican   [link] [评论]]]></description>
+      <description><![CDATA[我在一个项目中使用 .mogrts 和 Adob​​e 库存音乐，该项目正在几个编辑器之间共享和来回传递。 我们遇到的一个烦人的问题是重新链接 mogrts 所需的媒体和 Adob​​e 库存音乐的音频。 目前我发现重新链接 mogrts 的唯一方法（对于某人）谁是第一次打开该项目）的方法是将 mogrt 导入到时间线中，以便 PPRO 将必要的媒体下载到运动图形模板内容的暂存盘位置，然后指向该文件夹以重新链接 mogrt 所需的媒体. 对于音乐，即使我与某人共享 Adob​​e Stock 播放列表，他们也必须手动下载每个曲目然后重新链接。 在每种情况下，我都可以发布媒体从我的动态图形模板暂存位置并将音乐下载到共享文件位置，然后将它们重新链接到该位置，但我觉得应该有一种更简单、更智能的方法来做到这一点 - 特别是如果我们都在 Adob​​e 生态系统内. 这些事情在团队项目中效果更好吗？我从未使用过它们，也无法从 Adob​​e 找到有关这些主题的任何文档。 如果我自己进行的搜索很简单，我深表歉意，但公平地说，我未能找到它&lt; /p&gt;   由   提交 /u/LocalMexican   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwsou4/relinking_smart_adobeecosystem_things/</guid>
       <pubDate>Mon, 20 May 2024 22:42:53 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>寻找视频编辑器 - 简短形式</title>
       <link>https://www.reddit.com/r/editors/comments/1cwqzdk/looking_for_video_editors_short_form/</link>
-      <description><![CDATA[嗨， 我正在为几个不同领域的一些即将推出的项目寻找一些简短的视频编辑器。可能每月 10-15 小时，预算起价为 20 美元/小时（很乐意根据经验增加）。所有视频也将尽可能详细地进行介绍。 简而言之，我们是英国的一家品牌工作室，拥有有机的社交合作伙伴关系，每个帐户每周发布大约 5-10 个视频，结识来自世界各地的新创意，并希望在不久的将来进行合作，这将是令人难以置信的！ Ps。上一篇帖子因违反规则而被删除，但我现在已按照规则重新发布了该帖子。   由   提交 /u/Dutsford   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我正在为几个不同领域的一些即将开展的项目寻找一些短视频编辑。可能每月工作 10-15 小时，预算从 20 美元/小时起（根据经验，可能会增加）。所有视频的简介也会尽可能好。 简而言之，我们是英国的一家品牌工作室，拥有有机社交合作伙伴关系，我们每个帐户每周发布大约 5-10 个视频，结识来自各地的新创意人员并希望在不久的将来合作将是一件非常棒的事情！ Ps。上一篇帖子由于违反规则而被删除，但是我现在根据规则重新发布了帖子。    提交人    /u/Dutsford   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwqzdk/looking_for_video_editors_short_form/</guid>
       <pubDate>Mon, 20 May 2024 21:28:40 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 20 May 2024 16:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>这样的编辑要多久才能学会？</title>
+      <title>要学多久才能学会这样的编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/</link>
       <description><![CDATA[https://www.tiktok.com/ t/ZPRKdoqRu/ https://www.tiktok.com/t/ZPRKdKmk1/  我想学习动态图形和基本视频编辑，目前担任数字营销助理。如果我每天练习几个小时，需要多长时间才能达到这一点？   由   提交/u/C3-D0  /u/C3-D0  reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1cwjf03/how_long_to_learn_to_edit_like_this/</guid>
