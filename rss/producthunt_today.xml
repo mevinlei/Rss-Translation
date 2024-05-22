@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt — 每天提供最好的新产品</title>
+    <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 May 2024 15:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 18:12:59 GMT</lastBuildDate>
     <item>
       <title>漫步修复</title>
       <link>https://www.producthunt.com/posts/ramblefix-2</link>
@@ -65,12 +65,12 @@
       <title>格兰诺拉麦片</title>
       <link>https://www.producthunt.com/posts/granola</link>
       <description><![CDATA[
-            供连续会议人员使用的人工智能记事本
-          
+为连续开会的人提供的 AI 记事本
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/granola</guid>
       <pubDate>Tue, 21 May 2024 16:20:21 GMT</pubDate>
@@ -118,15 +118,15 @@
       <pubDate>Mon, 20 May 2024 15:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>引文</title>
+      <title>报价</title>
       <link>https://www.producthunt.com/posts/quotion</link>
       <description><![CDATA[
-几分钟内将 Apple Notes 转换为博客
-
+            Apple Notes 只需几分钟即可添加到博客
+          
 
 讨论
-|
-链接
+            |
+            链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/quotion</guid>
       <pubDate>Fri, 17 May 2024 09:03:52 GMT</pubDate>
@@ -188,7 +188,7 @@
       <pubDate>Wed, 08 May 2024 16:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>Sonos Ace</title>
+      <title>索诺斯王牌</title>
       <link>https://www.producthunt.com/posts/sonos-ace</link>
       <description><![CDATA[
             完善个人聆听
