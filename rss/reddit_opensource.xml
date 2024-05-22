@@ -4,9 +4,16 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 21 May 2024 21:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:38:13 GMT</lastBuildDate>
     <item>
-      <title>寻找开源职位匹配平台。</title>
+      <title>GitHub 上有哪些 JavaScript、Python 和 Go 的新热门项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</link>
+      <description><![CDATA[我正在 GitHub 上寻找一些目前很流行的新鲜且令人兴奋的项目，尤其是 JavaScript、Python 和 Go 领域的项目。无论是一个创新的库、一个很酷的框架，还是一个有趣的应用程序，我很想听听社区最近都在讨论什么。如果您遇到过任何正在获得关注或只是值得的项目退房，请在此处分享！提前致谢！   由   提交/u/ human-g30   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1cxlrg7/what_are_some_new_trending_projects_on_github_in/</guid>
+      <pubDate>Tue, 21 May 2024 23:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找开源工作匹配平台。</title>
       <link>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</link>
       <description><![CDATA[在我的公司，我们希望使用某种软件来帮助我们将人员与特定的职位列表相匹配。我发现了一些我们可以使用的 saas 选项，例如 RChilli、HiRize 或 TextKernel，但还没有看到任何可以实现我们想要的功能的开源选项。到目前为止，该项目的范围将是解析我们所有客户的简历，然后根据解析后的职位描述，返回最适合的人员列表。有谁知道一个好的开源项目可以帮助我们解决这个问题吗？   由   提交 /u/GroundZer01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cxfulz/looking_for_open_source_job_matching_platform/</guid>
@@ -27,14 +34,14 @@
       <pubDate>Tue, 21 May 2024 14:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/Tabs）| FOSS WebExtension - GitHub</title>
+      <title>TabSessionManager (sienori)：Chrome 和 Firefox 的备份/恢复会话（Windows/选项卡）| FOSS WebExtension - GitHub</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</link>
-      <description><![CDATA[        提交人    /u/RedditNoobie777   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/RedditNoobie777   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx168t/tabsessionmanager_sienori_backuprestore/</guid>
       <pubDate>Tue, 21 May 2024 06:21:26 GMT</pubDate>
     </item>
     <item>
-      <title>我正在考虑开源一个人工智能文章生成器，希望听听你的意见</title>
+      <title>我正在考虑开源人工智能文章生成器，希望得到您关于如何实现它的意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</link>
       <description><![CDATA[当我开始第一个项目时，我遇到了获得 SEO 可见性以及生成内容和排名需要多长时间的问题。一个捷径是通过人工智能生成博客文章，但大多数工具质量都很低。 所以我开始尝试结合网络抓取和法学硕士，结果要好得多，内容丰富这更有意义（减少“深入研究”......）。我最终将其产品化（人工智能博客文章）。但我相信对于 OSS 社区来说，拥有一个任何人都可以用来启动他们的 SEO 流量的自托管版本可能会很棒。另外，社区的贡献会让它变得更好。 免责声明：我希望你们中的一些人批评人工智能生成的内容，我也这样做。然而，我将其视为流量开始进入的起点 - 这就是人性化发挥作用的点，重写非常有意义。 您认为这样做会有用吗？它开源吗？   由   提交/u/rbatista191  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cx0on1/i_am_thinking_about_opensourcing_an_ai_article/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>Spring 的 Phoenix 模板引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</link>
-      <description><![CDATA[几个月前，我发布了一篇关于 Pheonix 的文章，这是一个我开始开发的 Spring boot 模板引擎。它引起了一些关注，我从这里得到了很好的反馈。我继续开发它，让它变得更好、更快。经过几个月的工作，我有了一个新版本，我认为值得再次发布。我想收集尽可能多的反馈，让 Phoenix 变得更好。它还没有准备好用于生产，还有很多事情需要做（参见“问题”）。 什么是Phoenix Phoenix是Spring和Spring Boot的现代模板引擎，旨在通过提供一种创建复杂和模块化模板的方法来促进复杂Web应用程序的开发，这些模板受益于服务器端渲染，从而更好地集成前端和后端。 Phoenix与Thymeleaf或Freemarker 与目前其他现有模板引擎相比，Phoenix具有几个优势：  能够将Java代码直接集成到HTML模板中，而无需学习新的语法或特殊的实用程序。 一种更容易理解的语法，只需要一个特殊字符@即可将Java代码集成到HTML代码中。 可以组合和重用的片段或组件，使代码更易于维护。 速度，速度，速度 - Phoenix模板经过编译，渲染速度比 Thymeleaf 快几个数量级。在我的（初步）基准测试中，Phoenix 甚至比 Rocker 稍快一点 借助 Phoenix View，您可以轻松地从任何控制器返回网页或 JSON 对象&gt; 反向路由 - Spring 的一项全新功能。URL 在运行时写入模板中，无需手动编写。您只需提及控制器和方法，Phoenix 就会计算出正确的 URL。这样，您就可以更改控制器中的 URL，而无需修改模板。 通过从 JS 调用后端来动态修改页面，以获得可随时添加到 DOM 的片段/模块。 几乎 100% 兼容 Rocker（并致力于实现完全兼容） 易于配置*（正在进行中以减少必要的依赖项）。  为什么是 Phoenix 而不是 React/Angular/Vue？ Phoenix 并非旨在取代 JS 框架。相反，Phoenix 旨在利用现有的 JS 框架添加 SSR，从而提高页面渲染速度和 FE-BE 集成。您不再需要始终返回复杂的 JSON；您可以直接提供一个包含所有需要的 HTML 页面，仅此而已。关于 SSR 与非 SSR 可能会有一场争论，因此 Phoenix 试图结合两者的优势。 开源 Phoenix 是完全开源的，可以完全免费使用。它还不够稳定，无法用于生产，但我将继续开发它，致力于稳定性和性能，并尝试添加其他功能。当然，⭐ 是值得赞赏的。 更多详情：https://pazvanti.github.io/Phoenix/ 我的博客：https://petrepopescu.tech 意见、反馈、批评等。 这篇文章是为了收集反馈。所以，我欢迎你们的任何意见或批评。请避免使用诸如“让我们回到 JSP”之类的评论（Phoenix 完全不同，性能更高且更易于集成）或“当有 React/Angular/Vue/另一个 JS 框架时，为什么要使用这个”（我相信基于 JS 的 FE 框架和提供 SSR 的 BE 端的更多集成变体都有空间）。    提交人    /u/pazvanti2003   [link] [评论]]]></description>
+      <description><![CDATA[几个月前，我发布了有关 Pheonix 的文章，这是我开始开发的 Spring boot 模板引擎。它成功地引起了一些关注，我从这里得到了非常好的反馈。我继续开发它，让它更好更快。经过几个月的工作，我有了一个新版本，我相信值得再次发布。我想收集尽可能多的反馈，让凤凰城变得更好。它尚未准备好用于生产使用，还有很多事情需要完成（请参阅“问题”）。 什么是 Phoenix Phoenix 是一个现代模板引擎，用于Spring 和 Spring Boot 旨在通过提供一种创建复杂和模块化模板的方法来促进复杂 Web 应用程序的开发，该模板受益于服务器端渲染，以便更好地集成前端和后端。 Phoenix 与 Thymeleaf 或 Freemarker  与目前其他现有模板引擎相比，Phoenix 具有以下几个优势：  能够将 Java 代码直接集成到 HTML 模板中，而无需学习新的语法或特殊的语法。  一种更容易理解的语法，只需要一个特殊字符@即可将Java代码集成到HTML代码中。 可以的片段或组件可以组合和重用，使代码更易于维护。 速度，速度，速度 - Phoenix 模板经过编译，提供的渲染速度比 Thymeleaf 快几个数量级。在我的（基本）基准测试中，Phoenix 甚至比 Rocker 稍快 借助 Phoenix View，您可以轻松地从任何控制器返回网页或 JSON 对象 反向路由 - Spring 的一个全新功能。 URL 在运行时写入模板中，无需手动写入。您只需要提及控制器和方法，Phoenix 就会计算出正确的 URL。这样，您就可以在控制器中更改 URL，而无需修改模板。 通过从 JS 调用后端来动态修改页面，以获得可随时添加到 DOM 的片段/模块。  与 Rocker 几乎 100% 兼容（并致力于实现完全兼容性） 易于配置*（正在进行中以减少必要的依赖性）。  为什么选择 Phoenix 而不是 React/Angular/Vue？ Phoenix 无意成为 JS 框架的替代品。相反，Phoenix 的目标是利用现有的 JS 框架添加 SSR，从而提高页面渲染速度和 FE-BE 集成。您不再需要总是返回复杂的 JSON；您可以直接提供一个 HTML 页面，其中包含所需的所有内容，仅此而已。关于 SSR 与非 SSR 可能存在很大的争论，因此 Phoenix 尝试结合两者的优点。 开源 Phoenix 完全开源，可以完全用于自由的。它还不够稳定，无法在生产中使用，但我将继续开发它，致力于稳定性和性能，并尝试添加其他功能。当然，值得赞赏。 更多详细信息：https://pazvanti.github.io/Phoenix/  我的博客：https://petrepopescu.tech 意见、反馈、批评等。 这篇文章是为了收集反馈。因此，我欢迎您提出任何意见或批评。请避免使用诸如“让我们回到 JSP”之类的评论。 （Phoenix 完全不同，性能更高且更易于集成）或“当有 React/Angular/Vue/另一个 JS 框架时为什么要使用它”？ （我相信基于 JS 的 FE 框架和提供 SSR 的 BE 端更集成的变体都有空间）。   由   提交/u/pazvanti2003  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1cwbeoz/phoenix_template_engine_for_spring/</guid>
       <pubDate>Mon, 20 May 2024 09:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客：RISC-V 硬件上的自动化内核测试</title>
-      <link>https://www.reddit.com/r/opensource/comments/1cwb0pb/blog_automated_kernel_testing_on_riscv_hardware/</link>
-      <description><![CDATA[ 由   提交/u/ArtistSad8600  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1cwb0pb/blog_automated_kernel_testing_on_riscv_hardware/</guid>
-      <pubDate>Mon, 20 May 2024 09:02:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
