@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 22 May 2024 03:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 06:12:56 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个程序让彼得·格里芬提醒你</title>
+      <link>https://www.reddit.com/r/programming/comments/1cxqkq7/i_have_created_a_program_to_have_peter_griffin/</link>
+      <description><![CDATA[ 由   提交/u/EggWhites87  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1cxqkq7/i_have_created_a_program_to_have_peter_griffin/</guid>
+      <pubDate>Wed, 22 May 2024 03:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>Python + Flutter Web/移动应用开发直播</title>
       <link>https://www.reddit.com/r/programming/comments/1cxouhv/python_flutter_webmobile_app_dev_live_stream/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 22 May 2024 00:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>Kotlin 2.0.0 中的新功能</title>
+      <title>Kotlin 2.0.0 的新增功能</title>
       <link>https://www.reddit.com/r/programming/comments/1cxmzqy/whats_new_in_kotlin_200/</link>
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxmzqy/whats_new_in_kotlin_200/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 21 May 2024 23:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>“[PATCH] mmc：核心：允许检测锁定的卡”，作者：Daniel Kucera [CMD42、sd 卡、密码]</title>
+      <title>“[PATCH] mmc：核心：允许检测锁定的卡”作者：Daniel Kucera [CMD42，SD 卡，密码]</title>
       <link>https://www.reddit.com/r/programming/comments/1cxl0ah/patch_mmc_core_allow_detection_of_locked_cards_by/</link>
       <description><![CDATA[ 由   提交/u/throtaway16830261   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxl0ah/patch_mmc_core_allow_detection_of_locked_cards_by/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 22:27:33 GMT</pubDate>
     </item>
     <item>
-      <title>结合 GitOps、平台和人工智能，解锁科技仙境</title>
+      <title>结合 GitOps、平台和 AI 解锁科技仙境</title>
       <link>https://www.reddit.com/r/programming/comments/1cxjhjc/unlocking_the_tech_wonderland_by_combining_gitops/</link>
       <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxjhjc/unlocking_the_tech_wonderland_by_combining_gitops/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1cxd7ob/compilers_for_free_rubyconf_2013_talk/</guid>
       <pubDate>Tue, 21 May 2024 17:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>psyche-c：自动编译部分可用的 C 程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1cxd7ap/psychec_automatic_compilation_of/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cxd7ap/psychec_automatic_compilation_of/</guid>
-      <pubDate>Tue, 21 May 2024 17:16:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
