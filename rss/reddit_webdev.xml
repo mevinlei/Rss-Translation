@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 23 May 2024 15:09:33 GMT</lastBuildDate>
+    <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 23 May 2024 18:12:10 GMT</lastBuildDate>
     <item>
-      <title>有没有地方可以获得专业网络开发人员的咨询？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyv0mr/is_there_any_place_to_get_consulting_from_a_pro/</link>
-      <description><![CDATA[现在只是想法阶段。希望与专业的网络开发人员讨论如何从头到尾完成这个项目。实际完成项目时不需要帮助，只需指导如何开始、使用工具（前端和后端）以及任何其他必要的东西。    ;由   提交 /u/Big_Concentrate8340   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyv0mr/is_there_any_place_to_get_consulting_from_a_pro/</guid>
-      <pubDate>Thu, 23 May 2024 15:05:50 GMT</pubDate>
+      <title>对于新建项目，您会推荐哪家 SSO 提供商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyzgz0/which_ssoprovider_would_you_recommend_for_a_green/</link>
+      <description><![CDATA[如果您今天开始一个新项目并需要与尽可能多的平台进行 SSO 集成，您会选择哪个提供商？我们希望至少支持以下登录：  LinkedIn Facebook/Instagram Google GitHub&lt; /li&gt;  我们正在 VueJS 中构建一个 Web 应用程序，后端在 NestJS 中构建。我们不一定需要插件或特定的 VueJS 相关组件来实现它。如果 SSO 提供商提供 REST-API，则一切都很好。   由   提交/u/tf1155  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyzgz0/which_ssoprovider_would_you_recommend_for_a_green/</guid>
+      <pubDate>Thu, 23 May 2024 18:10:16 GMT</pubDate>
     </item>
     <item>
-      <title>悬停效果不起作用，求助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyuh3d/hover_effect_not_working_help_out/</link>
-      <description><![CDATA[      所需的全部 html 内容都在  内标签。我在第 85 行使用了悬停，但这并没有反映在页面上。请帮忙了解如何消除该错误。   由   提交/u/HeatheN_101   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyuh3d/hover_effect_not_working_help_out/</guid>
-      <pubDate>Thu, 23 May 2024 14:43:03 GMT</pubDate>
+      <title>这个东西叫什么？以及如何删除它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyzfbw/what_is_this_thing_called_and_how_to_remove_it/</link>
+      <description><![CDATA[      https://preview.redd.it/tajo45lxu72d1.png?width=451&amp;format=png&amp;auto=webp&amp;s=19802349d0f5f9 b33cd583ff1a18fecba9767813 这个滑动条叫什么？我已经很努力地寻找这个了。我向聊天机器人寻求帮助，但他们给出的答案是随机的。另外，如果有人知道如何在我的 CSS 中删除它，那将会非常有帮助，因为当我要求聊天机器人执行此操作时，它们会使整个导航栏不可见。我的元素仍然会移动，因为它们可以通过触摸移动。   由   提交 /u/Dark_Shadowxd   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyzfbw/what_is_this_thing_called_and_how_to_remove_it/</guid>
+      <pubDate>Thu, 23 May 2024 18:08:31 GMT</pubDate>
     </item>
     <item>
-      <title>在哪里可以找到可靠的资源，证明默认情况下所有浏览器都启用 autocomplete=on ？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyudon/where_can_i_find_a_reliable_resource_that_proves/</link>
-      <description><![CDATA[我知道默认情况下大多数浏览器的自动完成属性为“on”。是否有像 mdn 文档这样可靠的资源，可以显示哪个浏览器具有 autocomplete=on，哪个浏览器没有？   由   提交 /u/JudoboyWalex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyudon/where_can_i_find_a_reliable_resource_that_proves/</guid>
-      <pubDate>Thu, 23 May 2024 14:39:03 GMT</pubDate>
+      <title>用于表单中的 Markdown 编辑器 WebComponent</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyz27k/markdown_editor_webcomponent_for_use_in_form/</link>
+      <description><![CDATA[大家好。我正在寻找一个易于使用的 Web 组件来编辑 Markdown。我有一个服务器渲染的应用程序，所以我真的不想使用 javascript 来编写一些东西。 理想情况下，我想要一个可以用作文本区域替代品的 Web 组件，并且其行为与提交 from 时的 textarea 的行为完全相同。    我的文本   &lt;/form&gt; 有人知道这样的Web组件吗？   由   提交 /u/Tiim_B   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyz27k/markdown_editor_webcomponent_for_use_in_form/</guid>
+      <pubDate>Thu, 23 May 2024 17:53:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 2024 年找到一份开发工作而不死在里面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cytvxh/how_to_get_a_dev_job_in_2024_without_dying_inside/</link>
-      <description><![CDATA[   /u/hottown  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cytvxh/how_to_get_a_dev_job_in_2024_without_dying_inside/</guid>
-      <pubDate>Thu, 23 May 2024 14:17:52 GMT</pubDate>
+      <title>使用 Popover API 创建一个无需 Javascript 即可工作的汉堡菜单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyyoq3/créer_un_menu_hamburger_fonctionnant_sans/</link>
+      <description><![CDATA[ 由   提交/u/teotimepacreau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyyoq3/créer_un_menu_hamburger_fonctionnant_sans/</guid>
+      <pubDate>Thu, 23 May 2024 17:37:39 GMT</pubDate>
     </item>
     <item>
-      <title>是否有适用于博客的 Bricks Builder 的主题/预制版本？我还有一生的时间，但是，目前我需要一个启动并运行的网站，从头开始设置的时间更少。有什么好的选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyszqz/is_there_any_theme_premade_version_for_bricks/</link>
-      <description><![CDATA[提前致谢，感谢大家的帮助，我正在为此寻找预制解决方案。   由   提交/u/cloudsabovesofluffy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyszqz/is_there_any_theme_premade_version_for_bricks/</guid>
-      <pubDate>Thu, 23 May 2024 13:38:28 GMT</pubDate>
+      <title>推进我们对非对称密码学的惊人赌注</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyykhq/advancing_our_amazing_bet_on_asymmetric/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyykhq/advancing_our_amazing_bet_on_asymmetric/</guid>
+      <pubDate>Thu, 23 May 2024 17:32:35 GMT</pubDate>
     </item>
     <item>
-      <title>有什么方法可以创建机器人/自动将多个图像重新发送到 Whatsapp 组中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cysuuu/any_way_to_create_a_botautomate_resending/</link>
-      <description><![CDATA[我甚至不确定它是否是正确的子主题，但有一点上下文。 我是一个手表经销商，我与其他经销商建立了多个 whatsapp 群组，我们会在其中发送我们拥有的手表库存。您必须发送每只手表的图片和说明，因此我只是手动将每张图片重新发送到多个组中。问题是您一次只能使用一张图片（如果不是，则不会发送文本）并且一次只能发送 5 个组。 我使用 whatsapp 业务，但我没有使用任何类型的 whatsapp API，但我愿意使用它。我正在寻找某种自动化，但不确定从哪里开始。我愿意雇人来编码，但我不确定我应该通过 whatsapp API 还是通过其他方式来完成 谢谢    提交人    /u/eduwini   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cysuuu/any_way_to_create_a_botautomate_resending/</guid>
-      <pubDate>Thu, 23 May 2024 13:31:53 GMT</pubDate>
+      <title>请帮助？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyyj23/help_please/</link>
+      <description><![CDATA[大家好，我是一名初级 UI UX 人员，我主要在 Figma、Photoshop 和 Illustrator 中工作，打开了很多选项卡等等。您对这款笔记本电脑有何看法？它对我来说效果好吗？  笔记本电脑 APPLE MacBook Air 13 mgnd3ze/a，Apple M1，13.3&quot;视网膜显示屏，8GB，SSD 256GB，集成显卡，macOS Big Sur，金色 - 键盘布局 INT 谢谢！    由   提交/u/Square-Contest-1121   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyyj23/help_please/</guid>
+      <pubDate>Thu, 23 May 2024 17:30:54 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法将此图像的背景设置为谷歌背景颜色？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cysov6/is_there_a_way_to_set_the_background_of_this/</link>
-      <description><![CDATA[      大家好， 我想设置图像与谷歌背景混合，而不是像这张图片中的灰色框中那样。有没有办法做到这一点？提前非常感谢 https:/ /preview.redd.it/1wrzfs2gg62d1.png?width=415&amp;format=png&amp;auto=webp&amp;s=e4885eb456aa2e096abf28f8a6fc4f9ef1ef6c69   由   提交 /u/thelocalobserver   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cysov6/is_there_a_way_to_set_the_background_of_this/</guid>
-      <pubDate>Thu, 23 May 2024 13:23:52 GMT</pubDate>
+      <title>数据表和制表器哪个更快？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyybs8/which_is_faster_datatables_or_tabulator/</link>
+      <description><![CDATA[我有大量数据，其中包含预加载的 html 数据。哪一个处理速度更快，而且性能不会过高。制表器似乎很容易定制。数据表似乎更难创建自定义主题。   由   提交/u/anonymous_persona_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyybs8/which_is_faster_datatables_or_tabulator/</guid>
+      <pubDate>Thu, 23 May 2024 17:22:23 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook 用画布渲染一些文本以逃避广告拦截器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cysojc/facebook_renders_some_text_with_canvas_to_escape/</link>
-      <description><![CDATA[       由   提交/u/freecodeio  [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cysojc/facebook_renders_some_text_with_canvas_to_escape/</guid>
-      <pubDate>Thu, 23 May 2024 13:23:22 GMT</pubDate>
+      <title>Sofascore 使用 Fast-API 随机化响应？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyxl9e/sofascore_randomizing_response_using_fastapi/</link>
+      <description><![CDATA[我一直在尝试使用 FastAPI 从 SofaScore 获取数据，但遇到了一个奇怪的问题。每当我刷新网站时，目标数字似乎都会随机变化。我决定通过在五秒窗口内刷新页面来进行快速比较，我发现大约有 500 个更改，大部分都在目标中。 我认为可能是 FastAPI 导致了问题，所以我尝试在 Python 中使用简单的“请求”库。但令我惊讶的是，我遇到了同样的问题。 出于好奇，我决定尝试一下 PHP 代码，令人惊讶的是，它有效！我刷新了页面大约五次，响应保持一致。 您认为 SofaScore 在检测到响应来自机器人时可能会改变响应吗？如果是这样，为什么 PHP 似乎可以绕过这个而不需要用户代理？ 我将不胜感激对此的任何见解或帮助。谢谢！   由   提交/u/Kempas1337   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyxl9e/sofascore_randomizing_response_using_fastapi/</guid>
+      <pubDate>Thu, 23 May 2024 16:52:15 GMT</pubDate>
     </item>
     <item>
-      <title>你坚持的爱好项目是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cysiiz/whats_a_hobby_project_that_you_stuck_with/</link>
-      <description><![CDATA[你认为是什么让你坚持下来，或者是什么有帮助？   由   提交 /u/vangenta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cysiiz/whats_a_hobby_project_that_you_stuck_with/</guid>
-      <pubDate>Thu, 23 May 2024 13:15:22 GMT</pubDate>
+      <title>Safari 技术预览版 195 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyxfnc/release_notes_for_safari_technology_preview_195/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyxfnc/release_notes_for_safari_technology_preview_195/</guid>
+      <pubDate>Thu, 23 May 2024 16:45:55 GMT</pubDate>
     </item>
     <item>
-      <title>构建 Android 应用程序需要哪些资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyrvdh/what_resources_do_you_need_to_build_an_android_app/</link>
-      <description><![CDATA[我有一个做营销的朋友，她计划学习编码并构建一个与食品相关的应用程序的测试版。我对一些可以帮助她的事情很感兴趣，并希望得到您的见解。 您认为像她这样的人需要多长时间才能开始自己创建一个应用程序？此外，她需要哪些资源来实现这一目标？有什么推荐的课程、工具或平台吗？ 她还考虑在她学习的同时让开发人员启动该项目，以便她最终可以接手。她在哪里可以找到负担得起且可靠的开发人员来帮助她？    提交人    /u/vibe_keeper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyrvdh/what_resources_do_you_need_to_build_an_android_app/</guid>
-      <pubDate>Thu, 23 May 2024 12:44:09 GMT</pubDate>
+      <title>当条款和条件很重要且不断更新时，如何保留哪些用户已同意最新条款以及哪些用户尚未同意的历史记录？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyx6ms/when_terms_and_conditions_are_important_and/</link>
+      <description><![CDATA[当条款和条件相关且将来很可能更新时，您如何跟踪已接受条款和条件的用户最新版本还有哪些用户还没有？另外，您如何跟踪所有版本的条款和条件？如何存储所有这些详细信息？   由   提交 /u/El_Mario_Verde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyx6ms/when_terms_and_conditions_are_important_and/</guid>
+      <pubDate>Thu, 23 May 2024 16:35:19 GMT</pubDate>
     </item>
     <item>
-      <title>分享你的技术栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyrgkr/share_you_tech_stacks/</link>
-      <description><![CDATA[嗨，我刚刚在 Daily Dev 上创建了一个小队，人们可以在其中分享他们的 Web 开发（和其他平台）技术堆栈。  这是发现构建产品的最佳工具的好方法，但如果周围有更多的人而不只是我，那就太酷了:) 所以，如果您愿意，请查看并加入！  邀请链接：https://dly.to/6xe4hhkAfdA    由   提交 /u/Bright-Vegetable8852    reddit.com/r/webdev/comments/1cyrgkr/share_you_tech_stacks/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyrgkr/share_you_tech_stacks/</guid>
-      <pubDate>Thu, 23 May 2024 12:22:26 GMT</pubDate>
+      <title>Next.js 15 RC</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyx35t/nextjs_15_rc/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyx35t/nextjs_15_rc/</guid>
+      <pubDate>Thu, 23 May 2024 16:31:09 GMT</pubDate>
     </item>
     <item>
-      <title>初级开发搞砸的项目继续“追捕”你......？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyrfl8/junior_dev_messed_up_projects_continue_to_hunt/</link>
-      <description><![CDATA[作为初级开发人员，您是否曾经有过一个项目，一直“困扰”您？你，由于错误、执行不力、管理不善等原因你是如何处理的？重构它，修补它，然后放手直到需要为止？如果有效就让它这样吧？ 编辑：更改了“狩猎” “出没”   由   提交 /u/Rigidyragidywrecked   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyrfl8/junior_dev_messed_up_projects_continue_to_hunt/</guid>
-      <pubDate>Thu, 23 May 2024 12:21:00 GMT</pubDate>
+      <title>需要有关将对象保存到 JSON 文件的帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cywads/need_help_on_saving_objects_to_a_json_file/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cywads/need_help_on_saving_objects_to_a_json_file/</guid>
+      <pubDate>Thu, 23 May 2024 15:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>基于 JSON 的 AJAX 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyqd15/json_based_ajax_application/</link>
-      <description><![CDATA[我想编写一个与模块通信的应用程序，我需要比常规 URL 编码格式更多的控制。 To更具体地说，如果index.php需要与authenticate.php通信，URL编码常量可能会很有用： /?user=me&amp;password=yes 但是，随着事情比如多项选择下拉菜单和其他东西，我不确定我是否错过了依赖 JSON 对象来使其更加通用的机会。 我喜欢通用化，这就是为什么我问这个问题。 我不知道是否有很多应用程序都是这样工作的，但我的目标是在这个问题上有经验的人，或者至少有这个概念，因为这不是我的主要分支。  所以，基本上，页面之间的所有通信都将基于 JSON 对象和视图，我将把它放在索引页面上，该索引页面将完成所有交互，而控制器和模型将更多或较少交织在一起。 任何建议都会有所帮助！ 谢谢 实际示例： 您有login.php 您输入您的凭据。 它们将在 URL 中发送为 authenticate.php?token=:base64 以下内容 {“user ”:”me”, “password”: “yes”}  （可以是 POST，我只是以 GET 方法为例。） 然后进行身份验证。 php 显示： {“success”: “1”} 或者 {“success”: “0”} 对于所有页面，依此类推。 另一个示例，menu.php 可以显示： {“errcode”: “0”, “html_content”: “; ... &lt;/div&gt;”} （基本上所有应该显示某些内容的页面都会像最后一个一样工作。） 这是一个好主意吗？   由   提交 /u/anth3nna   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyqd15/json_based_ajax_application/</guid>
-      <pubDate>Thu, 23 May 2024 11:20:08 GMT</pubDate>
+      <title>FirebaseError：文档引用无效。文档引用必须有偶数个段，但 [id] 有 1.... 试图知道问题是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyw4ac/firebaseerror_invalid_document_reference_document/</link>
+      <description><![CDATA[异步函数handleFormSubmit(event: React.FormEvent) { event.preventDefault(); try { if (userDeet.email &amp;&amp; userDeet.password) { // 如果电子邮件和密码字段不为空 // 创建一个用户 const res = wait createUserWithEmailAndPassword( auth, userDeet.email, userDeet.password ); // 设置用户数据 wait setDoc(doc(db, &quot;users&quot;, res.user.uid), { username: userDeet.username, email: userDeet.email, id: res.user.uid, Blocked: [], }); // 创建一个 uuserchats wait setDoc(doc(db, &quot;userChats&quot;, res.user.uid), { chats: [], }); } } catch (错误) { console.log(错误); } }    由   提交/u/Emmyxiano  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyw4ac/firebaseerror_invalid_document_reference_document/</guid>
+      <pubDate>Thu, 23 May 2024 15:52:07 GMT</pubDate>
     </item>
     <item>
-      <title>没有教程就无法构建项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyqcr6/cannot_build_projects_without_a_tutorial/</link>
-      <description><![CDATA[我可以按照 youtube 上的教程编写项目。但是每当我想在没有任何教程的情况下自己构建项目时，我就无法这样做。如何在不观看 YouTube 视频的情况下学习自己构建项目   由   提交 /u/Primary_Move_7784   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyqcr6/cannot_build_projects_without_a_tutorial/</guid>
-      <pubDate>Thu, 23 May 2024 11:19:42 GMT</pubDate>
+      <title>如何估算我的网站的价格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyvyfr/how_to_estimate_the_price_for_my_website/</link>
+      <description><![CDATA[我有一个网站，时不时有人问我是否在卖它，但我不知道要价多少，甚至不知道如何谈判。您能否就如何估算合理价格提供任何建议？ 一些统计数据：  我每周拥有大约 8000 个唯一用户（根据 cloudflare 的数据） 我的网站除了一个非常简陋的自愿捐款链接外没有任何盈利手段，在 2.5 年的时间里我赚了大约 4k 美元。运行服务器的费用为 15 美元/分钟。 我认为订阅计划效果非常好，对于大多数用户来说，花钱购买这项服务是值得的。  我的工具在我所在的地区相对受欢迎，但我根本没有推广过它，甚至没有向英语受众推广过，所以我相信这里有增长的潜力。 &lt; /ul&gt; 我纯粹是一个技术人员，所以我担心我无法发掘我项目的全部潜力，因为我在营销/管理方面非常糟糕。所以我考虑卖掉它，但在谈判过程中可能很容易欺骗我，哈哈。 我在考虑 20k 或 15k，但不确定期望这样的金额是否现实，或者也许恰恰相反，我定价太便宜了。   由   提交 /u/Kozjar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyvyfr/how_to_estimate_the_price_for_my_website/</guid>
+      <pubDate>Thu, 23 May 2024 15:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>如何处理微前端的职责也分散在应用程序中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyprfz/how_to_deal_with_microfrontend_that_owns/</link>
-      <description><![CDATA[大家好。 这是我的问题。我有一个微前端，它拥有我的应用程序的整个设置域。我的应用程序是一个网络监控应用程序，有很多设置（网络默认值、扫描频率、扫描仪类型等）。 所有这些设置都已放入特定的（垂直）微前端中，该微前端将页面公开给处理特定页面中的所有这些设置，以便某些设置的更改可能只会影响该微前端。 该企业现在开始要求提供应用程序中某些设置的快捷方式。例如，速度测试类型的设置除了放在全局设置页面之外，还应该放在速度测试结果图旁边。该快捷方式具有不同的 UI，但具有相同的业务逻辑。 团队犹豫是否决定是否 1. 全局设置微前端应该公开一个新的入口点，其中只有一个可以挂载的设置进入专用页面（由另一个微前端中的另一个团队部署）或2.如果我们应该克隆每个想要拥有自己的快捷方式的微前端中的逻辑或3.我们应该概括业务逻辑在库中并公开库（UI + 业务逻辑）以便在不同的微前端中使用 我看到的主要区别是解决方案 1。我只需要进行一次部署即可更改将来任何与设置相关的事情，而使用解决方案 2 或 3 时，我需要部署多个项目才能在整个应用程序中进行一致的更改。但是，另一方面，解决方案 1 强制微前端设置根据其他微前端需求公开具有多种 UI 样式的多个入口点。 您对此有一些经验吗？有什么建议么？    由   提交 /u/Gloomy-Macaroon-4283   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyprfz/how_to_deal_with_microfrontend_that_owns/</guid>
-      <pubDate>Thu, 23 May 2024 10:42:06 GMT</pubDate>
+      <title>在深入 Leetcode 之前我应该​​了解多少 DSA？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyvtxq/how_much_dsa_should_i_know_before_i_dive_into/</link>
+      <description><![CDATA[我不仅希望解决挑战，而且希望以高效的方式完成任务。   由   提交/u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyvtxq/how_much_dsa_should_i_know_before_i_dive_into/</guid>
+      <pubDate>Thu, 23 May 2024 15:40:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
