@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
-    <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 22 May 2024 21:08:42 GMT</lastBuildDate>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Thu, 23 May 2024 15:08:30 GMT</lastBuildDate>
     <item>
       <title>通过 Hugging Face 在 AWS Inferentia2 上部署模型</title>
       <link>https://huggingface.co/blog/inferentia-inference-endpoints</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Dell Enterprise Hub 构建本地 AI</title>
+      <title>利用 Dell Enterprise Hub 在本地构建 AI</title>
       <link>https://huggingface.co/blog/dell-enterprise-hub</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/dell-enterprise-hub</guid>
@@ -41,6 +41,13 @@
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>通过键值缓存量化解锁更长的生成</title>
+      <link>https://huggingface.co/blog/kv-cache-quantization</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/kv-cache-quantization</guid>
+      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>PaliGemma – Google 的尖端开放视觉语言模型</title>
       <link>https://huggingface.co/blog/paligemma</link>
       <description><![CDATA[]]></description>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>推出开放阿拉伯语法学硕士排行榜</title>
+      <title>开放阿拉伯语 LLM 排行榜简介</title>
       <link>https://huggingface.co/blog/leaderboard-arabic</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-arabic</guid>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>强大的 ASR + 二值化 + 带有 Hugging Face Inference Endpoints 的推测解码</title>
+      <title>通过 Hugging Face 推理端点实现强大的 ASR + 二值化 + 推测解码</title>
       <link>https://huggingface.co/blog/asr-diarization</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/asr-diarization</guid>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高结构化生成的即时一致性</title>
-      <link>https://huggingface.co/blog/evaluation-structured-outputs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/evaluation-structured-outputs</guid>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
