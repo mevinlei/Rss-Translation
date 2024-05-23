@@ -4,13 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 23 May 2024 09:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 12:16:25 GMT</lastBuildDate>
     <item>
-      <title>大多数人并不关心你的“热门观点”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyoegv/most_people_dont_care_about_your_hot_take/</link>
-      <description><![CDATA[这是我从一开始就注意到的事情，也是过去几年困扰 Web 开发的一个真正问题。当尝试研究和了解特定框架时（其中已经太多了，让我们说实话，大多数时候文档都很糟糕），我总是会尝试找到一些人们解释主要概念的视频。总是有人（我他妈的也在看着你，西奥）会制作一个关于它的视频，这对试图了解它的人来说没有任何实际好处，相反，它只会导致更多的混乱，不知道用什么工具来学习它。使用。我想不出还有哪个工作领域的 YouTube 如此臃肿，有这么多人只是在某个主题上发表不请自来的意见，而没有为观众提供任何实际的好处。我对这些人的进一步参与是因为人们的本性以及寻求戏剧性或刺激性的倾向导致了他们的受欢迎。但必须有更好的前进方向。对于该领域的新手来说，这绝对是一场狗屎秀。   由   提交/u/Guy_Rohvian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyoegv/most_people_dont_care_about_your_hot_take/</guid>
-      <pubDate>Thu, 23 May 2024 09:06:58 GMT</pubDate>
+      <title>基于 JSON 的 AJAX 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyqd15/json_based_ajax_application/</link>
+      <description><![CDATA[我想编写一个与模块通信的应用程序，我需要比常规 URL 编码格式更多的控制。 To更具体地说，如果index.php需要与authenticate.php通信，URL编码常量可能会很有用： /?user=me&amp;password=yes 但是，随着事情比如多项选择下拉菜单和其他东西，我不确定我是否错过了依赖 JSON 对象来使其更加通用的机会。 我喜欢通用化，这就是为什么我问这个问题。 我不知道是否有很多应用程序都是这样工作的，但我的目标是在这个问题上有经验的人，或者至少有这个概念，因为这不是我的主要分支。  所以，基本上，页面之间的所有通信都将基于 JSON 对象和视图，我将把它放在索引页面上，该索引页面将完成所有交互，而控制器和模型将更多或较少交织在一起。 任何建议都会有所帮助！ 谢谢 实际示例： 您有login.php 您输入您的凭据。 它们将在 URL 中发送为 authenticate.php?token=:base64 以下内容 {“user ”:”me”, “password”: “yes”}  （可以是 POST，我只是以 GET 方法为例。） 然后进行身份验证。 php 显示： {“success”: “1”} 或者 {“success”: “0”} 对于所有页面，依此类推。 另一个示例，menu.php 可以显示： {“errcode”: “0”, “html_content”: “; … &lt;/div&gt;”} （基本上所有应该显示某些内容的页面都会像最后一个一样工作。） 这是一个好主意吗？   由   提交 /u/anth3nna   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyqd15/json_based_ajax_application/</guid>
+      <pubDate>Thu, 23 May 2024 11:20:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有教程就无法构建项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyqcr6/cannot_build_projects_without_a_tutorial/</link>
+      <description><![CDATA[我可以按照 youtube 上的教程编写项目。但是每当我想在没有任何教程的情况下自己构建项目时，我就无法这样做。如何在不观看 YouTube 视频的情况下学习自己构建项目   由   提交 /u/Primary_Move_7784   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyqcr6/cannot_build_projects_without_a_tutorial/</guid>
+      <pubDate>Thu, 23 May 2024 11:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理微前端的职责也分散在应用程序中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyprfz/how_to_deal_with_microfrontend_that_owns/</link>
+      <description><![CDATA[大家好。 这是我的问题。我有一个微前端，它拥有我的应用程序的整个设置域。我的应用程序是一个网络监控应用程序，有很多设置（网络默认值、扫描频率、扫描仪类型等）。 所有这些设置都已放入特定的（垂直）微前端中，该微前端将页面公开给处理特定页面中的所有这些设置，以便某些设置的更改可能只会影响该微前端。 该企业现在开始要求提供应用程序中某些设置的快捷方式。例如，速度测试类型的设置除了放在全局设置页面之外，还应该放在速度测试结果图旁边。该快捷方式具有不同的 UI，但具有相同的业务逻辑。 团队犹豫是否决定是否 1. 全局设置微前端应该公开一个新的入口点，其中只有一个可以挂载的设置进入专用页面（由另一个微前端中的另一个团队部署）或2.如果我们应该克隆每个想要拥有自己的快捷方式的微前端中的逻辑或3.我们应该概括业务逻辑在库中并公开库（UI + 业务逻辑）以便在不同的微前端中使用 我看到的主要区别是解决方案 1。我只需要进行一次部署即可更改将来任何与设置相关的事情，而使用解决方案 2 或 3 时，我需要部署多个项目才能在整个应用程序中进行一致的更改。但是，另一方面，解决方案 1 强制微前端设置根据其他微前端需求公开具有多种 UI 样式的多个入口点。 您对此有一些经验吗？有什么建议么？    由   提交 /u/Gloomy-Macaroon-4283   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyprfz/how_to_deal_with_microfrontend_that_owns/</guid>
+      <pubDate>Thu, 23 May 2024 10:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站如何检测您是否离线或失去连接？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyp63h/how_can_websites_detect_if_youre_offline_or_lose/</link>
+      <description><![CDATA[以 reddit 为例，当您在该网站上但突然不再连接到互联网时，会显示此警告： “您似乎已离线。连接到互联网重新加载” 怎么样？您没有连接，但仍然显示来自 reddit.com 的警告 我找到了 javascript 变量 navigator.onLine，这似乎是一个可能的答案我的问题，但是还有其他方法可以检测离线情况吗？   由   提交/u/michaelbelgium  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyp63h/how_can_websites_detect_if_youre_offline_or_lose/</guid>
+      <pubDate>Thu, 23 May 2024 10:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有 GPT API 集成的免费 NextJS + Shadcn UI 样板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyp231/free_nextjs_shadcn_ui_boilerplate_with_gpt_api/</link>
+      <description><![CDATA[       由   提交 /u/craciunfredy   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyp231/free_nextjs_shadcn_ui_boilerplate_with_gpt_api/</guid>
+      <pubDate>Thu, 23 May 2024 09:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于迭代器和生成器您需要了解的所有信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cyoste/all_you_need_to_know_about_iterators_and/</link>
+      <description><![CDATA[    /u/apfelbenny   [link] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cyoste/all_you_need_to_know_about_iterators_and/</guid>
+      <pubDate>Thu, 23 May 2024 09:35:54 GMT</pubDate>
     </item>
     <item>
       <title>通过 Cloudflare 购买了一个网站，有人知道是否有一个无需代码即可构建网站的好工具？</title>
@@ -34,13 +69,6 @@
       <pubDate>Thu, 23 May 2024 07:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>mysql 服务器无法工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cymwf6/mysql_server_wont_work/</link>
-      <description><![CDATA[为什么 mysql 服务器无法在任何 Linux 发行版上运行。它总是给我错误，例如无法通过套接字连接到本地服务器和访问被拒绝..并且没有解决方案有效..我应该做什么，我不想使用Windows  [编辑]  我尝试了 Ubuntu、fedora 和 arch .. 本地主机在无法连接到所有发行版上的本地服务器后拒绝我的访问.. 我更改了文件和用户的用户和权限，但没有任何效果。 .我总是使用包管理器安装 mysql-server..我应该从 mysql 站点下载它吗？    由   提交 /u/hussinHelal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cymwf6/mysql_server_wont_work/</guid>
-      <pubDate>Thu, 23 May 2024 07:18:32 GMT</pubDate>
-    </item>
-    <item>
       <title>具有 SSL 证书的 Azure、Cloudflare 和 Namecheap - 帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1cylb6v/azure_cloudflare_and_namecheap_with_ssl_certs_help/</link>
       <description><![CDATA[我有一些开发人员正在构建托管在 Azure 中的 SaaS 产品。一部分流量将是 HL7（通过 VPN），因此我们将有一个只能在 VPN 后面访问的私有子网。但是，该产品还将支持 webhook/API，因此我们将拥有一个公共子网和托管该服务的虚拟机。他们告诉我，我需要购买证书，并给了我所需的所有文件。 我只是对所有行话和需要做什么感到困惑......这是当前的设置 Namecheap 是注册商和网站托管，名称服务器设置为顶级域 (example.com) 的 Cloudflare 名称服务器，我们将为 Azure 上托管的所有内容使用子域（例如 app.example.com） 。  如果我通过 DigiCert 或其他地方购买证书，我可以在 Azure 和网站上使用相同的 CERT 吗？  我需要将证书加载到cloudflare、azure 和namecheap 中吗？ 设计这一切的最佳和最简单的方法是什么？ &lt; !-- SC_ON --&gt;  由   提交/u/syndakitz   [链接] [评论]]]></description>
@@ -55,7 +83,7 @@
       <pubDate>Thu, 23 May 2024 05:15:15 GMT</pubDate>
     </item>
     <item>
-      <title>有没有 Shopify 开发人员想要合作？</title>
+      <title>有 Shopify 开发人员想要合作吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cykvgq/any_shopify_devs_wanna_collab/</link>
       <description><![CDATA[我在 ecomm 工作，主要为我的公司做 UX/UI 设计。有很多想法可以自动化一些商店经理遇到的一些日常任务和功能请求。想知道开发人员是否有兴趣与我合作开发一些 Shopify 应用程序？我在美国。   由   提交 /u/SML​​XL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cykvgq/any_shopify_devs_wanna_collab/</guid>
@@ -71,7 +99,7 @@
     <item>
       <title>我应该从什么开始？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cyjcqv/what_should_i_start_on/</link>
-      <description><![CDATA[我打算自己做一个日历网站，前端和后端的Web开发都得靠自己。我应该先从什么开始？我应该先开始后端练习，还是先用 CSS 设计网站，然后再进行后端开发？我在这方面是个菜鸟，需要一些帮助，特别是在规划和学习资源方面。   由   提交 /u/Zoyduck   [链接] [评论]]]></description>
+      <description><![CDATA[我计划自己制作一个日历网站，并且必须依靠自己完成 Web 开发前端和后端的一切工作。我应该先从哪里开始？我应该先开始练习后端还是先用 CSS 设计我的网站，然后再进行后端开发？我在这方面是个菜鸟，需要一些帮助，特别是在规划和学习资源方面。    提交人    /u/Zoyduck   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cyjcqv/what_should_i_start_on/</guid>
       <pubDate>Thu, 23 May 2024 03:35:28 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在寻找一个程序，最好是人工智能，用它我可以从上传的图像创建 3D 产品视频，然后将它们上传到我的网站。你能推荐什么？  我做了一些研究，但我想你可以在一分钟内回答我需要几天的时间   由   提交 /u/GdUpFromFeetUp100   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cyj1re/3d_videos_creating_for_products/</guid>
       <pubDate>Thu, 23 May 2024 03:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么API数据没有获取到</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyitsn/why_api_data_not_fetched/</link>
-      <description><![CDATA[app.py  fromflask import Flask, render_template, request import requests from alpha_vantage.timeseries import TimeSeries import datetime app = Flask(__name__) # 替换为您的 Alpha Vantage API 密钥 API_KEY = &quot;xxxxxxxxxx&quot;; def get_stock_data(symbol): url = f&quot;https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&amp;symbol={symbol}&amp;apikey={API_KEY}&quot;响应= requests.get（url）数据=响应.json（）返回数据defcalculate_yearly_return（数据，今天，符号）：尝试：如果“时间序列（每日）”是在数据中： daily_data = data[“时间序列（每日）”] one_month_ago = datetime.datetime.strptime(today, &quot;%Y-%m-%d&quot;) - datetime.timedelta(days=30) one_month_ago_str = one_month_ago.strftime(&quot;%m-%d&quot;) opening_price_today = float(daily_data[today][&quot;4.收盘价&quot;]) opening_price_one_month_ago = float(daily_data[one_month_ago_str][&quot;4.收盘价&quot;]) return (ending_price_today - opening_price_one_month_ago) / opening_price_one_month_ago * 100 else: # 处理数据不可用的情况 return None except Exception as e: print(f&quot;Error getting data for {symbol if symbol else &#39;unknown symbol&#39;}: {e}&quot;) return None @app.route(“/”,methods=[“GET”,“POST”]) def index(): if request.method == “POST”:ticker1 = request.form[“ticker1” ;]ticker2 = request.form[“ticker2”]years = int(request.form[“years”]) Today = datetime.date.today().strftime(“%Y-%m-%d”) ) data1 = get_stock_data(ticker1) data2 = get_stock_data(ticker2) return_1 =calculate_yearly_return(data1, Today,ticker1) return_2 =calculate_yearly_return(data2, Today,ticker2) return render_template(“index.html”,ticker1=ticker1, return_1=return_1 ,ticker2=ticker2, return_2=return_2,years=years) else: return render_template(&quot;index.html&quot;) if __name__ == &quot;__main__&quot;: app.run(debug=True)  index.html ;  &lt;头&gt; 股票年回报率计算器 &lt;/头&gt; &lt;正文&gt; 股票年回报计算器 &lt;form method=“post”&gt; &lt;标签=“ticker1”&gt;Ticker 1：&lt;/label&gt; &lt;输入类型=“文本”; id=&quot;ticker1&quot;;名称=“ticker1”必填&gt; &lt;br&gt; &lt;标签=“ticker2”&gt;Ticker 2（可选）：&lt;/label&gt; &lt;输入类型=“文本”; id＝“ticker2”； name=“ticker2”&gt; &lt;br&gt; &lt;label for=“years”&gt;年 (1-20)： &lt;输入类型=“数字” id=“年”名称=“年份”；分钟＝“1”最大值＝“20”必填&gt; &lt;br&gt; &lt;输入类型＝“提交” value=&quot;计算&quot;&gt; &lt;/表格&gt; {% if ticker1 %} &lt;h2&gt;结果：&lt;/h2&gt; &lt;p&gt;&lt;b&gt;{{ticker1 }}&lt;/b&gt;年回报率（过去{{years}}年）：{% if return_1 %}{{ return_1 }}%{% else %}数据不可用{% endif %}&lt;/p&gt; {% if ticker2 %} &lt;p&gt;&lt;b&gt;{{ticker2 }}&lt;/b&gt;年回报率（过去{{years}}年）：{% if return_2 %}{{ return_2 }}%{% else %}数据不可用{% endif %}&lt;/p&gt; {% endif %} {% endif %} &lt;/body&gt;  flask 运行后的终端输出 $ cd Finalproject Finalproject/ $ Flask run * 调试模式：关闭 警告：这是一个开发服务器。不要在生产部署中使用它。请改用生产 WSGI 服务器。 * 运行于 https://special-waffle-6vvppwxxr66c575w-5000.app.github.dev 按 CTRL+C 退出 * 重新启动 stat 127.0.0.1 - - [23/May/2024 08:28:38] &quot;GET /HTTP/1.1” 200 - 获取 AAPL 数据时出错：“2024-05-23”127.0.0.1 - - [23/May/2024 08:28:45]“POST / HTTP/1.1” 200 - 获取 AAPL 数据时出错：“2024-05-23”127.0.0.1 - - [23/May/2024 08:32:13]“POST / HTTP/1.1” 200 -  截图：https://www.canva.com/design/DAGGA4E5YPY/gpcaz2BONtbnxeloDcF4GA/edit?utm_content=DAGGA4E5YPY&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton    由   提交 /u/DigitalSplendid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyitsn/why_api_data_not_fetched/</guid>
-      <pubDate>Thu, 23 May 2024 03:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人从 Next.js 生态系统切换到 Laravel 吗？推荐还是不推荐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyhv24/has_anyone_switched_from_nextjs_ecosystem_to/</link>
-      <description><![CDATA[我看到关于“Next.js 太复杂”、“Next.js 一团糟”的趋势在慢慢变化（可能有点夸张或煽动，但或多或​​少总结了这种趋势） 我想知道是否有人使用 Next.js 或任何其他以 JS 为中心的后端框架（Nuxt.js、svelte……）已经切换到 Laravel。 切换的体验如何？你已经了解 PHP 了吗？你为什么要切换？你建议这样做吗？ 我个人不太喜欢使用 php partials 或混合 html 和 php 的模板，但我想我对继续在前端使用 react 或 vue 并拥有功能齐全的 php 后端没有任何问题    提交人    /u/saito200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyhv24/has_anyone_switched_from_nextjs_ecosystem_to/</guid>
-      <pubDate>Thu, 23 May 2024 02:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷进近的幻灯片。分享您的建议或经验。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyhjyl/powerpoint_for_cold_approaches_share_your_advice/</link>
-      <description><![CDATA[您好，我将整理一个幻灯片来向未来的客户展示。我的目标是进行一次演示，以便潜在客户可以直观地了解为什么他们需要一个网站或更新的网站。如果有人有任何建议或他们想告诉/展示给客户的事情，我很乐意听到，并且可能会添加到幻灯片中！   由   提交/u/Catholic_Priest420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyhjyl/powerpoint_for_cold_approaches_share_your_advice/</guid>
-      <pubDate>Thu, 23 May 2024 01:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cyhikw/having_trouble_with_reviews/</link>
-      <description><![CDATA[我正在为一位私人教练朋友构建一个网页。我正在使用 HTML、CSS 和 JavaScript。他希望他的客户能够撰写评论并将其发布在他的页面上。我做了一些挖掘，但我发现的大部分内容只详细介绍了如何从外部来源（Google、Yelp 等）收集评论，而不是网页本身。有人能指出我正确的方向吗？    由   提交 /u/Automatic-Rule2999    reddit.com/r/webdev/comments/1cyhikw/having_trouble_with_reviews/&quot;&gt;[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cyhikw/having_trouble_with_reviews/</guid>
-      <pubDate>Thu, 23 May 2024 01:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
