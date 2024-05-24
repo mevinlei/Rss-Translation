@@ -4,11 +4,18 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 24 May 2024 03:10:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 06:12:13 GMT</lastBuildDate>
+    <item>
+      <title>微软在阿联酋的交易可能会将重要的美国芯片和人工智能技术输送到国外</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1czcleg/microsofts_deal_in_uae_may_send_important_us/</link>
+      <description><![CDATA[根据微软总裁 Brad Smith 的说法，该公司与阿拉伯联合酋长国支持的人工智能公司 G42 达成的高调协议可能会导致先进芯片的转让和工具。一位资深共和党国会议员警告称，这可能会对国家安全产生影响。在此处阅读更多信息   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1czcleg/microsofts_deal_in_uae_may_send_important_us/</guid>
+      <pubDate>Fri, 24 May 2024 04:37:23 GMT</pubDate>
+    </item>
     <item>
       <title>有免费的人工智能程序吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1czai9g/are_there_any_free_ai_programs/</link>
-      <description><![CDATA[我有一部 Android 手机。 （要友善，哈哈）。旧笔记本电脑（宏碁）。  我听说过 ChatGPT，但没有任何 Microsoft 的东西。  或者任何具有人工智能的应用程序？   由   提交 /u/WhileExtension6777   [链接] [评论]]]></description>
+      <description><![CDATA[我有一部安卓手机。（要好点哈哈）。旧笔记本电脑（宏碁）。 我听说过 ChatGPT，但没有任何微软的东西。 或者任何有 AI 的应用程序？    提交人    /u/WhileExtension6777   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1czai9g/are_there_any_free_ai_programs/</guid>
       <pubDate>Fri, 24 May 2024 02:37:16 GMT</pubDate>
     </item>
@@ -34,11 +41,11 @@
       <pubDate>Fri, 24 May 2024 00:01:56 GMT</pubDate>
     </item>
     <item>
-      <title>我该如何使用小说中的文字冒险？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cz6ipi/how_am_i_supposed_to_use_the_text_adventure_in/</link>
-      <description><![CDATA[我想做一个文字冒险，其中我的玩家和扮演角色的人工智能创造不同的人形物种来居住在像精灵和兽人这样的世界中。问题是我没有看到任何关于如何使用它的解释，并且在胡思乱想之后我觉得我现在理解得更少了。  有什么建议吗？    由   提交/u/Kaiser_Richard_1776   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cz6ipi/how_am_i_supposed_to_use_the_text_adventure_in/</guid>
-      <pubDate>Thu, 23 May 2024 23:11:06 GMT</pubDate>
+      <title>如何准备机器接管</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cz759s/how_to_prepare_for_the_machine_takeover/</link>
+      <description><![CDATA[我发现自己对未来感到焦虑，以及我需要什么技能才能不被电脑化的时代所落后。我们做什么？我们如何开始？ 8 年前，我后悔没有开始计算机科学职业，我不想再次落后。那么我们研究什么呢？我们如何跟上进度？    由   提交 /u/IndependenceSlow5809   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cz759s/how_to_prepare_for_the_machine_takeover/</guid>
+      <pubDate>Thu, 23 May 2024 23:41:15 GMT</pubDate>
     </item>
     <item>
       <title>我准备好接受人工智能实习了吗？</title>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 23 May 2024 21:47:14 GMT</pubDate>
     </item>
     <item>
-      <title>使用 LLM 实现更丰富的文档模板</title>
+      <title>使用法学硕士实现更丰富的文档模板</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cz3y74/using_llms_for_richer_document_templating/</link>
-      <description><![CDATA[我和我的联合创始人发现我们最近写了很多冷邮件，并且对现有的电子邮件模板解决方案不满意。  通常，您将使用某种形式的模板语言来起草电子邮件并在适当的位置注入变量和动态子句。它有效，但需要付出很大的努力才能编写良好的个性化模板。  为了强调需要定制的具体示例，就像您要注入类似这样的内容： 我注意到您是 {{ customer.title } } 在 {{customer.company}}。  它可能会呈现如下内容： 我注意到您是 IT 和 IT 部门的副总裁。普华永道会计师事务所的技术系统。  高度个性化的电子邮件如下所示： 我注意到您是普华永道 (PwC) 的 IT 和技术副总裁。  对于我们来说，我们意识到我们发送的电子邮件规模仍然很小，而且 GPT 的成本已经下降了很多，因此我们构建了一个内部工具来“编译” ;使用人工智能从类似 jinja 的模板发送电子邮件。 啊哈！瞬间想到了使用 LLM 作为渲染引擎 而不是 Jinja/Nunchucks/etc。  对于像我们发送的电子邮件规模（低至数百封）这样的事情，这样做的成本是相当可观的，而且结果也非常好。现在，我们还可以使用有效的伪代码编写电子邮件，而不必担心修改联系人数据以匹配模板，或者担心数据中是否缺少字段。 例如： #主题{{“插入一些与通过其公司或头衔进行连接相关的主题，以更合适的为准” }} # Body 嗨，{{first name}}，希望此消息您一切顺利。我是来自 MailMerge-JS 的 Bob，这是一家正在构建自动化电子邮件外展工具的初创公司。我看到了您的个人资料，对您在{{公司行业}}的往绩印象深刻，并想向您展示我们的工具如何帮助您自动化{{根据其职位插入使用外展工具的原因}}您愿意吗下周愿意快速聊天吗？最好，Bob @ MailMerge-JS  我们最终围绕此构建了一个开源工具，用于冷电子邮件发送，但我也可以看到这种渲染风格的其他应用程序。    由   提交 /u/warmsaluter   [链接] [评论]]]></description>
+      <description><![CDATA[我和我的联合创始人发现我们最近写了很多冷邮件，并且对现有的电子邮件模板解决方案不满意。  通常，您将使用某种形式的模板语言来起草电子邮件并在适当的位置注入变量和动态子句。它有效，但需要付出很大的努力才能编写良好的个性化模板。  为了强调需要定制的具体示例，就像您要注入类似这样的内容： 我注意到您是 {{ customer.title } } 在 {{customer.company}}。  它可能会呈现如下内容： 我注意到您是 IT 和 IT 部门的副总裁。普华永道会计师事务所的技术系统。  高度个性化的电子邮件如下所示： 我注意到您是普华永道 (PwC) 的 IT 和技术副总裁。  对于我们来说，我们意识到我们发送的电子邮件规模仍然很小，而且 GPT 的成本已经下降了很多，因此我们构建了一个内部工具来“编译” ;使用人工智能从类似于 jinja 的模板发送电子邮件。 啊哈！瞬间想到了使用 LLM 作为渲染引擎 而不是 Jinja/Nunchucks/etc。  对于像我们发送的电子邮件规模（低至数百封）这样的事情，这样做的成本是相当可观的，而且结果也非常好。现在，我们还可以使用有效的伪代码编写电子邮件，而不必担心修改联系人数据以匹配模板，或者担心数据中是否缺少字段。 例如： #主题{{“插入一些与通过其公司或头衔进行连接相关的主题，以更合适的为准” }} # Body 嗨，{{first name}}，希望此消息您一切顺利。我是来自 MailMerge-JS 的 Bob，这是一家正在构建自动化电子邮件外展工具的初创公司。我看到了您的个人资料，对您在{{公司行业}}的往绩印象深刻，并想向您展示我们的工具如何帮助您自动化{{根据其职位插入使用外展工具的原因}}您愿意吗下周愿意快速聊天吗？最好，Bob @ MailMerge-JS  我们最终围绕此构建了一个开源工具，用于冷电子邮件发送，但我也可以看到这种渲染风格的其他应用程序。    由   提交 /u/warmsaluter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cz3y74/using_llms_for_richer_document_templating/</guid>
       <pubDate>Thu, 23 May 2024 21:16:07 GMT</pubDate>
     </item>
@@ -76,13 +83,6 @@
       <pubDate>Thu, 23 May 2024 20:52:28 GMT</pubDate>
     </item>
     <item>
-      <title>AI模型可以直观地思考和计算3D对象的变换、组合、并和除吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cz0o0p/can_an_ai_model_think_and_calculate_3d_objects/</link>
-      <description><![CDATA[你知道，我们人类可以在脑海中以不同的方式直观地想象 3D 形状及其变换。例如，我可以在脑海中想象一个圆锥体部分放入一个球体中。那么，人工智能有可能做到这一点吗？   由   提交/u/gizia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1cz0o0p/can_an_ai_model_think_and_calculate_3d_objects/</guid>
-      <pubDate>Thu, 23 May 2024 19:00:02 GMT</pubDate>
-    </item>
-    <item>
       <title>你对你的人工智能有礼貌吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1cyyp0l/are_you_polite_to_your_ai/</link>
       <description><![CDATA[我经常发现自己会说“你能......”之类的话吗？或“请再做一次”。你对 AI 是礼貌、中立还是粗鲁？   由   提交 /u/baalzimon   [链接] [评论]]]></description>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 23 May 2024 16:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户访问更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可以在 Mod-bot 中使用的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
