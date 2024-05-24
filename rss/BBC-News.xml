@@ -4,41 +4,83 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 24 May 2024 12:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:11:50 GMT</lastBuildDate>
     <item>
-      <title>“一片混乱”：马略卡岛一栋建筑倒塌致四人死亡</title>
-      <link>https://www.bbc.com/news/articles/cldd222zn4po</link>
-      <description><![CDATA[两名德国人、一名西班牙人和一名塞内加尔国民在西班牙岛上的事件中丧生。]]></description>
-      <guid>https://www.bbc.com/news/articles/cldd222zn4po</guid>
-      <pubDate>Fri, 24 May 2024 11:34:02 GMT</pubDate>
+      <title>选举民意调查追踪：各党派如何比较？</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-68079726</link>
+      <description><![CDATA[人们如何表示他们将在英国大选中投票？我们的民意调查跟踪器衡量趋势。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-68079726</guid>
+      <pubDate>Fri, 24 May 2024 15:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>前邮局老板被指控在爱乐之城</title>
+      <link>https://www.bbc.com/news/articles/cd11e45n3p5o</link>
+      <description><![CDATA[Paula Vennells 被问到她对远程访问副邮政局长计算机了解多少]]></description>
+      <guid>https://www.bbc.com/news/articles/cd11e45n3p5o</guid>
+      <pubDate>Fri, 24 May 2024 15:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏纳克对禁烟令不会成为法律感到失望</title>
+      <link>https://www.bbc.co.uk/news/uk-politics-69058303</link>
+      <description><![CDATA[随着议会因选举而关闭，《烟草和电子烟法案》是被废除的新法律之一。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-politics-69058303</guid>
+      <pubDate>Fri, 24 May 2024 14:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>鞭打、烫伤、谋杀儿子的妈妈被判入狱</title>
+      <link>https://www.bbc.com/news/articles/c999rzy8eddo</link>
+      <description><![CDATA[她三岁的儿子 Dwelaniyah 在她谋杀前几周遭受了大面积烧伤。]]></description>
+      <guid>https://www.bbc.com/news/articles/c999rzy8eddo</guid>
+      <pubDate>Fri, 24 May 2024 14:20:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>奇怪的谷歌人工智能搜索错误在网上疯传</title>
+      <link>https://www.bbc.com/news/articles/cd11gzejgz4o</link>
+      <description><![CDATA[谷歌为《AI Overview》给出的答案进行了辩护，称其为“孤立的例子”。]]></description>
+      <guid>https://www.bbc.com/news/articles/cd11gzejgz4o</guid>
+      <pubDate>Fri, 24 May 2024 14:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大周末在卢顿拉开帷幕，贝基·希尔首次登上主舞台</title>
+      <link>https://www.bbc.co.uk/news/live/entertainment-arts-69057673</link>
+      <description><![CDATA[今年的 BBC Radio 1 音乐节将持续三天，今晚的头条新闻是 Chase &amp; Status。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/entertainment-arts-69057673</guid>
+      <pubDate>Fri, 24 May 2024 14:11:44 GMT</pubDate>
     </item>
     <item>
       <title>世界忽视苏丹种族灭绝的风险——联合国专家</title>
       <link>https://www.bbc.com/news/articles/c511vgzvl2eo</link>
       <description><![CDATA[联合国专家警告说，随着世界的注意力集中在乌克兰和加沙，苏丹正面临种族灭绝。]]></description>
       <guid>https://www.bbc.com/news/articles/c511vgzvl2eo</guid>
-      <pubDate>Fri, 24 May 2024 11:23:48 GMT</pubDate>
+      <pubDate>Fri, 24 May 2024 14:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>另一名女性指控迪迪性侵犯</title>
+      <link>https://www.bbc.com/news/articles/c3ggdryj2v1o</link>
+      <description><![CDATA[该诉讼指控说唱歌手殴打、性侵犯和疏忽造成精神痛苦。]]></description>
+      <guid>https://www.bbc.com/news/articles/c3ggdryj2v1o</guid>
+      <pubDate>Fri, 24 May 2024 12:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国最高法院命令以色列停止在拉法的军事行动</title>
+      <link>https://www.bbc.co.uk/news/live/world-69055989</link>
+      <description><![CDATA[国际法院还表示，必须开放与埃及接壤的拉法过境点，以便“大规模”人道主义援助进入。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/world-69055989</guid>
+      <pubDate>Fri, 24 May 2024 12:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>“一片混乱”：马略卡岛建筑倒塌造成四人死亡</title>
+      <link>https://www.bbc.com/news/articles/cldd222zn4po</link>
+      <description><![CDATA[目击者告诉英国广播公司，他们听到一声爆炸声，一家两层楼的餐厅倒塌，造成四人死亡。]]></description>
+      <guid>https://www.bbc.com/news/articles/cldd222zn4po</guid>
+      <pubDate>Fri, 24 May 2024 11:34:02 GMT</pubDate>
     </item>
     <item>
       <title>汤姆·赫兰德饰演的罗密欧让观众惊叹多于评论家</title>
       <link>https://www.bbc.com/news/articles/cv22rp4gvgjo</link>
-      <description><![CDATA[评论将这位蜘蛛侠明星的舞台表演描述为“好”、“好”和“完全OK”。]]></description>
+      <description><![CDATA[评论将这位蜘蛛侠明星的舞台表演描述为“好”，“很好”和“完全没问题”。]]></description>
       <guid>https://www.bbc.com/news/articles/cv22rp4gvgjo</guid>
       <pubDate>Fri, 24 May 2024 10:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>露西·莱比谋杀婴儿案上诉被驳回</title>
-      <link>https://www.bbc.com/news/articles/c9773l3qzl4o</link>
-      <description><![CDATA[去年，这位 34 岁的男子因谋杀婴儿罪被判有期徒刑 14 个月。]]></description>
-      <guid>https://www.bbc.com/news/articles/c9773l3qzl4o</guid>
-      <pubDate>Fri, 24 May 2024 09:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于销售下滑，四月份商店遭受重创</title>
-      <link>https://www.bbc.com/news/articles/cyee98xe730o</link>
-      <description><![CDATA[由于大雨导致购物者呆在家里，上个月零售额的跌幅远超预期。]]></description>
-      <guid>https://www.bbc.com/news/articles/cyee98xe730o</guid>
-      <pubDate>Fri, 24 May 2024 09:43:17 GMT</pubDate>
     </item>
     <item>
       <title>狗狗币狗 Kabosu 在作为模因 14 年后去世</title>
@@ -48,65 +90,23 @@
       <pubDate>Fri, 24 May 2024 09:30:05 GMT</pubDate>
     </item>
     <item>
-      <title>陆军撤回拒绝因乳腺癌基因而被拒绝的少女申请</title>
+      <title>陆军对因乳腺癌基因而被拒绝的青少年做出了让步</title>
       <link>https://www.bbc.com/news/articles/cl40ex5rrnko</link>
       <description><![CDATA[陆军因拒绝一名可能携带增加乳腺癌风险基因的青少年而被指控性别歧视。]]></description>
       <guid>https://www.bbc.com/news/articles/cl40ex5rrnko</guid>
       <pubDate>Fri, 24 May 2024 09:12:22 GMT</pubDate>
     </item>
     <item>
-      <title>新上限下能源费用将从 7 月起再次下降</title>
-      <link>https://www.bbc.com/news/articles/cxeey91v540o</link>
-      <description><![CDATA[一个使用普通数量天然气和电力的家庭每年将支付1,568英镑。]]></description>
-      <guid>https://www.bbc.com/news/articles/cxeey91v540o</guid>
-      <pubDate>Fri, 24 May 2024 09:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙又发现三具以色列人质尸体</title>
-      <link>https://www.bbc.com/news/articles/cjrr9wqjnveo</link>
-      <description><![CDATA[10 月 7 日哈马斯袭击以色列时，有 252 人被劫为人质，其中包括这三名男性受害者。]]></description>
-      <guid>https://www.bbc.com/news/articles/cjrr9wqjnveo</guid>
-      <pubDate>Fri, 24 May 2024 09:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>维内尔斯告诉她，她在“la-la land”，因为邮局的定罪将被推翻</title>
-      <link>https://www.bbc.co.uk/news/live/uk-69056259</link>
-      <description><![CDATA[一项撤销副邮政局长因 Horizo​​n IT 丑闻而被定罪的法律将于今天晚些时候生效。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/uk-69056259</guid>
-      <pubDate>Fri, 24 May 2024 08:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴布亚新几内亚大规模山体滑坡恐造成多人死亡</title>
-      <link>https://www.bbc.com/news/articles/c4nnl8qg19jo</link>
-      <description><![CDATA[山体滑坡发生在凌晨，掩埋了六个高地村庄的 100 栋房屋。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4nnl8qg19jo</guid>
-      <pubDate>Fri, 24 May 2024 07:09:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏格兰对于英国大选的决定有多重要？</title>
-      <link>https://www.bbc.com/news/articles/cw44p9x4z02o</link>
-      <description><![CDATA[凯尔·斯塔默爵士和里希·苏纳克希望这次选举标志着苏格兰民族党统治时代的结束。]]></description>
-      <guid>https://www.bbc.com/news/articles/cw44p9x4z02o</guid>
-      <pubDate>Fri, 24 May 2024 05:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看 BBC 深入隐秘战争丛林前线</title>
+      <title>观看 BBC 到达隐藏战争的丛林前线</title>
       <link>https://www.bbc.com/news/videos/cxeevn4pe1jo</link>
       <description><![CDATA[BBC 在缅甸待了一个月，那里的年轻医务人员、教师和战士正在推动反对军政府统治的革命。]]></description>
       <guid>https://www.bbc.com/news/videos/cxeevn4pe1jo</guid>
       <pubDate>Thu, 23 May 2024 21:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>第一次投票？你需要知道什么</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-62064552</link>
-      <description><![CDATA[英国首相苏纳克宣布英国大选将于 7 月 4 日举行。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-62064552</guid>
-      <pubDate>Thu, 23 May 2024 14:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着苏纳克访问北爱尔兰，斯塔默发起苏格兰运动</title>
+      <title>随着领导人在英国各地竞选，议员在选举前大规模出走</title>
       <link>https://www.bbc.co.uk/news/live/uk-politics-69051548</link>
-      <description><![CDATA[首相声称经济已经“占据一席之地”，而工党领袖则表示他只会做出他能信守的承诺。]]></description>
+      <description><![CDATA[100 多名议员表示，他们将在 7 月 4 日大选前辞职。]]></description>
       <guid>https://www.bbc.co.uk/news/live/uk-politics-69051548</guid>
       <pubDate>Thu, 23 May 2024 03:08:58 GMT</pubDate>
     </item>
