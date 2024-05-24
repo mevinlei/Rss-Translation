@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 24 May 2024 00:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 03:11:13 GMT</lastBuildDate>
+    <item>
+      <title>为旅行社创建 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czaesf/creating_a_webapp_for_a_travel_agency/</link>
+      <description><![CDATA[嘿！所以我刚刚得到了一份演出机会。这真的很简单，他们是一家小公司，正在寻找一些东西来代替他们的 exel 表，用于客户、预订等。基本上是一个网络应用程序，员工可以登录以添加新客户、套餐等类似内容. 虽然他们的预算确实很小，所以我不想花太长时间从头开始构建网络应用程序。有什么好的服务或工具可以帮助构建网络应用程序吗？越简单越好（也许不需要编码？） 谢谢！   由   提交/u/Mathue24  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czaesf/creating_a_webapp_for_a_travel_agency/</guid>
+      <pubDate>Fri, 24 May 2024 02:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助改进我的文章侧边栏上的导航</title>
+      <link>https://www.reddit.com/r/webdev/comments/1czadoh/need_help_improving_navigation_on_my_article/</link>
+      <description><![CDATA[我有一个网站，侧边栏包含 40-50 篇不同文章的链接。当我点击侧边栏底部的链接时，文章内容会出现在页面顶部，让我不得不向上滚动才能阅读。如果我想点击侧边栏底部附近的另一个链接，我必须再次向下滚动，点击链接，然后向上滚动才能阅读新文章。这种不断上下滚动真的很不方便，也不方便用户使用。有人对如何解决这个问题有什么建议吗？    提交人    /u/PratikkkPaudel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1czadoh/need_help_improving_navigation_on_my_article/</guid>
+      <pubDate>Fri, 24 May 2024 02:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何托管我的 React 和 Express 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cz9p1c/how_should_i_host_my_react_and_express_app/</link>
+      <description><![CDATA[当我在本地工作时，我单独托管它们，并使用诸如 nodemon 之类的东西，以便能够在不重新加载的情况下进行更改。因此，express 在 localhost:5000 上运行，并在 3000 上做出反应。 但在我们的测试部署中，我们通过 Express 后端构建前端，因此所有内容都托管在一个端口上。这样做有什么坏处？因为与单独托管它们相比，这更容易、更便宜。我在托管方面没有太多经验，所以我不知道什么是最好的等。 我们目前正在使用渲染，因为它非常容易设置并且价格便宜（我们目前正在使用带有旋转功能的免费版本） ，但我们会在网站准备好后进行升级。） 如果有人使用过渲染，您知道 7 美元的型号可以处理多少流量吗？我知道这取决于站点，但我正在寻找估计。 因此，如果我能很好地了解分别托管前端和后端与在一个端口上托管所有内容的优点/缺点，那就太好了！    由   提交 /u/tojzl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cz9p1c/how_should_i_host_my_react_and_express_app/</guid>
+      <pubDate>Fri, 24 May 2024 01:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有人总是发现 Instagram 图形 API 随机损坏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1cz8a27/does_anyone_else_always_find_the_instagram_graph/</link>
+      <description><![CDATA[我已经在一个项目中使用 Instagram API 几年了，但它总是出现故障。要么 Meta 只会更改端点，他们会更改所需的验证（他们突然禁用了我的访问权限，直到我大约一年前注册了一家企业），或者有时它只是一次无法工作几天，因为似乎没有原因只是以后就好了。当它停止工作时，响应通常只是一个随机错误代码，也不会提供任何有用的信息，因此我需要花一整天的时间来调试该问题（如果甚至有一个我可以调试的问题）。 或者当然是美妙的随机“违规”。 “向我们证明您的应用程序使用了该 API！” *发送视频，详细说明其使用方式以及如何遵循指南* “已拒绝” *发送申诉，要求澄清我的违规行为* “申诉已批准” Wat？ 我主要用它来访问用户节点以获取电子邮件等内容验证，所以这不是世界末日，但伙计，我似乎运气不好。还有其他人遇到此问题并找到解决方法吗？   由   提交 /u/ColonelShrimps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1cz8a27/does_anyone_else_always_find_the_instagram_graph/</guid>
+      <pubDate>Fri, 24 May 2024 00:38:42 GMT</pubDate>
+    </item>
     <item>
       <title>您或您工作的维护成本是多少？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cz7u0c/whats_your_or_your_jobs_maintenance_cost/</link>
@@ -34,7 +62,7 @@
       <pubDate>Thu, 23 May 2024 23:20:25 GMT</pubDate>
     </item>
     <item>
-      <title>StackOverflow 是一个有毒的提问场所，还是我只是太戏剧化了？</title>
+      <title>StackOverflow 是不是一个不适合提问的地方，还是我只是在夸张？</title>
       <link>https://www.reddit.com/r/webdev/comments/1cz5827/is_stackoverflow_a_toxic_place_to_ask_questions/</link>
       <description><![CDATA[我不知道，但我对该网站的体验很奇怪。无论我如何很好地格式化我的问题并提供信息，我仍然会被随机的 d1ckh3ads 攻击。不确定是否只是我没有融入社区氛围，或者它们是否总体上有毒。   由   提交/u/w333l  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cz5827/is_stackoverflow_a_toxic_place_to_ask_questions/</guid>
@@ -62,7 +90,7 @@
       <pubDate>Thu, 23 May 2024 21:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Swiperjs 进行 CSS 动画</title>
+      <title>使用 Swiperjs 制作 CSS 动画</title>
       <link>https://www.reddit.com/r/webdev/comments/1cz3lyw/css_animations_with_swiperjs/</link>
       <description><![CDATA[我在将 CSS 动画/变换与 swiperjs 组合时遇到问题。 我遇到的问题是，CSS 动画工作正常按下一个按钮时，但按上一个按钮时不起作用。 对此有解决办法吗？  我尝试使用的动画是translateY   由   提交 /u/Boxcer1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cz3lyw/css_animations_with_swiperjs/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[如果是这样，您认为它只会对拥有 CS 或相关学位的开发人员有所改善，还是对自学成才的开发人员也会有所改善？    由   提交 /u/DangerActiveRobots   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1cz2p33/do_you_think_the_market_will_improve_for_junior/</guid>
       <pubDate>Thu, 23 May 2024 20:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>为旅行社创建一个可访问网络的在线数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cz1zv4/creating_an_online_database_with_a_web_access_for/</link>
-      <description><![CDATA[嘿！我刚刚被提供了一份工作。其实很简单，他们是一家小公司，正在寻找一些东西来替代他们的 exel 表格，用于处理客户、预订等。 但是他们的预算真的很少，那么创建数据库和 Web 客户端以使用员工表单访问和修改数据库的最简单方法是什么？    提交人    /u/Mathue24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cz1zv4/creating_an_online_database_with_a_web_access_for/</guid>
-      <pubDate>Thu, 23 May 2024 19:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Vercel Geist 设计系统的色彩实用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cz1ta1/color_utilities_based_on_the_vercel_geist_design/</link>
-      <description><![CDATA[       由   提交 /u/dephraiiim   [链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cz1ta1/color_utilities_based_on_the_vercel_geist_design/</guid>
-      <pubDate>Thu, 23 May 2024 19:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>医学生尝试制作 chrome 扩展....但出现错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cz14ev/med_student_trying_to_make_a_chrome_extensionbut/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cz14ev/med_student_trying_to_make_a_chrome_extensionbut/</guid>
-      <pubDate>Thu, 23 May 2024 19:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>将网站从 wix 转移到 shopify</title>
-      <link>https://www.reddit.com/r/webdev/comments/1cz02xh/transferring_website_from_wix_to_shopify/</link>
-      <description><![CDATA[我在 Wix 上有一个网站，但在设置好之后遇到了一些问题，然后发现我需要使用 shopify。我的编程经验非常有限，有没有快速的方法将网站转移到 shopify，还是我必须手动重新创建它？谢谢！    提交人    /u/MadFalcon101   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1cz02xh/transferring_website_from_wix_to_shopify/</guid>
-      <pubDate>Thu, 23 May 2024 18:35:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

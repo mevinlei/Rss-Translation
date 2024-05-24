@@ -4,11 +4,11 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 May 2024 00:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 03:10:47 GMT</lastBuildDate>
     <item>
-      <title>创造了第一个人工记忆！</title>
+      <title>创建了第一个人工记忆！</title>
       <link>https://www.reddit.com/r/software/comments/1cz7h5h/created_the_first_artificial_memory/</link>
-      <description><![CDATA[大家好， 我想与大家分享我的一些旅程，也许可以得到一些建议或找到一些人对合作感兴趣。 大约六个月前，我受到 RewindAI 的启发，决定创建自己的本地记忆应用程序，名为“Recall”。我的想法是构建一些可以捕获和索引数字活动的东西，以便以后轻松记住和查找信息。 经过几个月的努力，我终于让 Recall 达到了运行良好的程度。我已经设法向他询问我一周前的活动信息，其中包含详细信息以及当地 llms 的所有信息！看到它组合在一起并真正实现我希望的效果真是令人兴奋。 但是，我昨天发现新的 Copilot+ 笔记本电脑有一个名为“召回”的功能。其作用几乎相同，但更好。有点震惊。我当时以为我有一些独特的东西，结果发现它已经大范围地存在了。 所以，现在我不知道该怎么想。我没有放弃，而是决定开源 Recall 并将其重命名为 reMind。我相信通过分享，也许你们中的一些人可能会有想法或想要帮助改进它。如果您有兴趣，我很乐意听取您的意见！ [Github](https://github. com/DonTizi/ReMind) [网站](http://www.recallmemory.io ) 如果您可以在 Product Hunt 上为该申请投票，那就太好了：[ProductHunt](https: //www.producthunt.com/posts/remind-ai) 感谢阅读！如果您有任何问题或建议，请随时分享。   由   提交/u/DonTizi  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我想与大家分享一下我的旅程，也许可以得到一些建议或找到一些有兴趣合作的人。 大约六个月前，我受到了 RewindAI 的启发，决定创建自己的本地记忆应用程序“Recall”。这个想法是构建一个可以捕获和索引数字活动的东西，使其易于记忆并在以后查找信息。 经过数月的努力，我终于让 Recall 运行良好。我设法向他询问了我一周前的活动信息，包括详细信息以及所有本地 llms！看到它组合在一起并真正做到了我希望它能做到的事情，真是令人兴奋。 但是，我昨天发现新的 Copilot+ 笔记本电脑有一项名为“Recall”的功能，它的功能几乎相同，但更好。这有点令人震惊。我当时想着自己有一件独一无二的东西，结果却发现它已经以巨大的规模存在了。 所以，现在我不知道该怎么想。我没有放弃，而是决定开源 Recall，并将其重命名为 reMind。我相信通过分享它，也许你们中的一些人可能会有想法或想帮助改进它。如果您感兴趣，我很乐意听取您的意见！ [Github](https://github.com/DonTizi/ReMind) [网站](http://www.recallmemory.io) 如果您能在 Product Hunt 上为该应用程序点赞，那就太好了：[ProductHunt](https://www.producthunt.com/posts/remind-ai) 感谢您的阅读！如果您有任何问题或建议，请随时分享。    提交人    /u/DonTizi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cz7h5h/created_the_first_artificial_memory/</guid>
       <pubDate>Thu, 23 May 2024 23:57:16 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>请求| USB 复制保护</title>
       <link>https://www.reddit.com/r/software/comments/1cyweaw/request_usb_copy_protection/</link>
-      <description><![CDATA[我想出售一些我通过 USB 驱动器（大小 400GB）创建的视频  但我担心内容会被非官方地共享或复制和分发，这对我来说是一种损失。 有没有办法防止内容被复制但只允许“查看”访问？   由   提交/u/Gugan_05  [链接] [评论]]]></description>
+      <description><![CDATA[我想出售一些我通过 USB 驱动器（大小 400GB）创建的视频 但我担心内容会被非官方共享或复制和分发，这对我来说是一种损失。 有没有办法防止内容被复制，但只允许“查看”访问权限？    提交人    /u/Gugan_05   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cyweaw/request_usb_copy_protection/</guid>
       <pubDate>Thu, 23 May 2024 16:03:19 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>费用管理软件</title>
       <link>https://www.reddit.com/r/software/comments/1cyvp0x/expense_management_software/</link>
-      <description><![CDATA[大家好， 我在一家小型非营利组织工作，我们正在寻找费用管理软件来简化费用报告。我们曾经使用SAP Concur，但效果并不好。我遇到的主要麻烦是寻找适用于我们现有信用卡的费用管理软件。大多数软件要么需要一张公司卡，要么与他们的公司卡配合使用效果更好。我们不想更换信用卡来获取费用管理软件。我们需要与信用卡链接的软件，可以轻松地向每个人展示他们的购买情况，并提供附加收据并将其分配到费用类别的选项。我们使用 Windows 笔记本电脑和 iPhone。有谁知道可以与外部信用卡配合使用的软件吗？   由   提交 /u/PrinceFlorfian   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在一家小型非营利组织工作，我们正在寻找费用管理软件来简化费用报告。我们以前使用 SAP Concur，但效果并不好。我遇到的主要问题是寻找与我们现有信用卡兼容的费用管理软件。大多数软件要么需要获得他们的公司卡之一，要么与他们的公司卡配合得更好。我们不想更换信用卡来获得费用管理软件。我们需要与我们的信用卡链接的软件，并且可以轻松向每个人显示他们的购买情况，并提供附加收据并将其分配到费用类别的选项。我们使用 Windows 笔记本电脑和 iPhone。有人知道可以很好地与外部信用卡配合使用的软件吗？    提交人    /u/PrinceFlorfian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cyvp0x/expense_management_software/</guid>
       <pubDate>Thu, 23 May 2024 15:34:14 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 23 May 2024 10:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>你使用什么截图注释工具？更喜欢开源的</title>
+      <title>你用什么截图注释工具？更喜欢开源</title>
       <link>https://www.reddit.com/r/software/comments/1cym5pc/what_you_use_for_screenshot_annotation_tools/</link>
       <description><![CDATA[了解 sharex 和 Microsoft 默认共享。 但正在寻找免费、可移植的东西。    由   提交/u/FutureLife777  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cym5pc/what_you_use_for_screenshot_annotation_tools/</guid>
