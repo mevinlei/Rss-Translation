@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 21:09:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 00:37:21 GMT</lastBuildDate>
     <item>
       <title>奇普利</title>
       <link>https://www.producthunt.com/posts/chirpley</link>
@@ -23,12 +23,12 @@
       <title>人工智能漫画翻译器</title>
       <link>https://www.producthunt.com/posts/ai-manga-translator</link>
       <description><![CDATA[
-            一键翻译原始漫画和漫画
-          
+一键翻译原始漫画和漫画
+
 
 讨论
-            |
-            链接
+|
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-manga-translator</guid>
       <pubDate>Fri, 24 May 2024 09:33:04 GMT</pubDate>
@@ -104,18 +104,18 @@
       <pubDate>Thu, 23 May 2024 22:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>文本工作流程</title>
-      <link>https://www.producthunt.com/posts/text-workflow</link>
+      <title>呼叫弧线</title>
+      <link>https://www.producthunt.com/posts/call-arc</link>
       <description><![CDATA[
-            使用易于使用的规则转换文本
+            对于旅途中的问题
           
 
 讨论&lt; /a&gt;
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/text-workflow</guid>
-      <pubDate>Thu, 23 May 2024 15:37:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/call-arc</guid>
+      <pubDate>Thu, 23 May 2024 18:52:52 GMT</pubDate>
     </item>
     <item>
       <title>粘贴套件</title>
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pastekit</guid>
       <pubDate>Thu, 23 May 2024 14:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>动机饼干</title>
+      <link>https://www.producthunt.com/posts/motivation-cookie</link>
+      <description><![CDATA[
+激励 cookie，每日提供灵感和额外建议
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/motivation-cookie</guid>
+      <pubDate>Thu, 23 May 2024 13:59:43 GMT</pubDate>
     </item>
     <item>
       <title>Robots.txt 生成器</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/mahou</guid>
       <pubDate>Thu, 23 May 2024 07:35:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>上下文数据</title>
-      <link>https://www.producthunt.com/posts/context-data</link>
-      <description><![CDATA[
-            适用于生成式 AI 应用的数据处理基础设施和 ETL
-          
-
-讨论&lt; /a&gt;
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/context-data</guid>
-      <pubDate>Wed, 22 May 2024 02:24:52 GMT</pubDate>
     </item>
     <item>
       <title>启动代码</title>

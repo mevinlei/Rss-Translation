@@ -3,8 +3,8 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 May 2024 21:08:42 GMT</lastBuildDate>
+    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 25 May 2024 00:36:40 GMT</lastBuildDate>
     <item>
       <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 24 May 2024 19:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>将 C 盘克隆到外部磁盘，以便在获得更大的 C 盘/C 盘已满时使用</title>
+      <title>将 C 驱动器克隆到外部磁盘，以便在获得更大的 C 驱动器/C 驱动器已满时使用</title>
       <link>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</link>
       <description><![CDATA[我使用 Windows 备份，我认为它可以工作，但我正在尝试找到一些可以让我复制所有内容的东西，以便当我获得新驱动器时我可以只需将副本放入其中并将其用作 C 驱动器替代品即可。  我以前从来没有做过这种事情，但我的 C 盘已满，除了文档和下载量最大之外，我所有的游戏都迁移到了 D 盘，我不明白为什么它已满，我&#39;我已经进行了碎片整理和优化，AVG 试图向我推销的是所有下载内容，但 1.08TB 中的 99GB 并没有加起来。  无论如何，感谢您的建议和帮助。    由   提交/u/M-Yvraine912   /u/M-Yvraine912 reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czpltr/cloning_c_drive_onto_external_disk_to_be_used/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>服务业预订软件</title>
       <link>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</link>
-      <description><![CDATA[有人知道是否有需要客户登录的预订平台吗？ 我经营一家补习公司，并且我希望能够根据从预订平台收集的数据自动向客户计费。 像 Calendly 这样的网站的问题是它们不要求客户登录，因此很难匹配客户可以根据预订中提供的信息来识别客户。 如果客户的电子邮件中存在拼写错误或使用昵称，我将无法让客户进行预订。 任何感谢您的提示！   由   提交 /u/Heywood_Industries   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道是否有需要客户登录的预订平台吗？ 我正在经营一家辅导公司，我希望能够根据从预订平台收集的数据自动向客户收费。 Calendly 等网站的问题在于，它们不需要客户登录，因此很难根据预订中提供的信息匹配客户。 如果客户的电子邮件中有拼写错误或使用了昵称，我就无法让客户进行预订。 任何提示都值得赞赏！    提交人    /u/Heywood_Industries   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</guid>
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>轻量级任务规划和依赖性跟踪应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</link>
-      <description><![CDATA[我试图跟踪实现大目标的进度，并确保我所做的一切都在关键路径上。基本上，我想要一个包含标题、说明（wiki 文本/markdown 会很棒）、依赖项（链接到其他任务）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，该视图显示已排序和连接的任务，如果我单击它们，我可以获得更多信息。 以甘特图为中心的东西在这里不适合，因为我不想估计持续时间或日期（至少现在还不想）。 这感觉像是我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制为现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是不切实际的。 ETA：如果是 Web 应用程序，我强烈倾向于可以自行托管的东西。    提交人    /u/WhiskyStandard   [链接] [评论]]]></description>
+      <description><![CDATA[我正在努力跟踪总体目标的进展情况，并确保我所做的一切都在关键路径上。基本上我想要一个标题、描述（维基文本/降价会很棒）、依赖项（到其他任务的链接）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，显示任务的排序和连接以及如果我点击它们，我可以获得更多信息。 以甘特图为中心的内容不适合这里，因为我不想估计持续时间或日期（至少现在还不想）。  这感觉就像我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制于现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是行不通的。 ETA：如果它是一个网络应用程序，我非常倾向于可以自托管的东西。   由   提交 /u/WhiskyStandard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</guid>
       <pubDate>Fri, 24 May 2024 13:55:07 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>图像和视频程序</title>
       <link>https://www.reddit.com/r/software/comments/1czh6fc/programm_for_both_images_and_videos/</link>
-      <description><![CDATA[是否有同时显示图像和视频的查看器，以便我可以轻松查看具有两种类型的文件夹，这样我就不必每次都切换我有不同的文件类型？我知道 faststone 可以做到这一点，但我认为那真的很慢。    由   提交 /u/teamtijmi   [链接] [评论]]]></description>
+      <description><![CDATA[有没有可以同时查看图片和视频的查看器，这样我就可以轻松查看包含两种类型的文件夹，而不必在每次遇到不同的文件类型时都进行切换？我知道 faststone 可以做到，但在我看来，它真的很慢。     提交人    /u/teamtijmi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czh6fc/programm_for_both_images_and_videos/</guid>
       <pubDate>Fri, 24 May 2024 10:01:24 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 24 May 2024 04:51:11 GMT</pubDate>
     </item>
     <item>
-      <title>只需一分钟即可轻松为任何 .exe 创建启动画面。我的第一款软件。</title>
+      <title>只需一分钟即可轻松启动任何 .exe 屏幕。我的第一个软件。</title>
       <link>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</link>
       <description><![CDATA[大家好！想介绍一个我开发的通用启动器作为我的第一个软件。对于用户来说，这是一个非常简单的过程，所需要的只是一个自定义的 .png 图像。对于游戏开发者和其他软件创建者来说是一个很棒的工具。它为任何 Windows 应用程序增添了一丝优雅。 查看 Universal App Launcher Lite (UALL) @ https://craftyscript .com/software/ 只需将文件拖放到可执行文件夹中，创建自定义启动图像，然后启动！接受定制请求。    由   提交/u/NoobDev7  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</guid>
