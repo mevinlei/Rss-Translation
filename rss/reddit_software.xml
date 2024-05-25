@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 00:36:40 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 25 May 2024 03:11:22 GMT</lastBuildDate>
+    <item>
+      <title>需要销售 CRM</title>
+      <link>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</link>
+      <description><![CDATA[我正在寻找一种处理销售数据并能生成大量报告的软件，就像 excel 的数据透视表一样。虽然 excel 可以很好地处理这个问题，但数据在增长，超过 4000 行，excel 变得越来越慢。 该软件可以免费或付费。最好是免费或免费增值版，甚至可以从 github 开源。    提交人    /u/awaixjvd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d00fzg/sales_crm_needed/</guid>
+      <pubDate>Sat, 25 May 2024 01:09:18 GMT</pubDate>
+    </item>
     <item>
       <title>最好的在线/免费工具来编制调查并将其转变为文字云，但有一些变化？</title>
       <link>https://www.reddit.com/r/software/comments/1cztfg5/best_onlinefree_tool_to_compile_a_survey_and_turn/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>服务业预订软件</title>
       <link>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</link>
-      <description><![CDATA[有人知道是否有需要客户登录的预订平台吗？ 我正在经营一家辅导公司，我希望能够根据从预订平台收集的数据自动向客户收费。 Calendly 等网站的问题在于，它们不需要客户登录，因此很难根据预订中提供的信息匹配客户。 如果客户的电子邮件中有拼写错误或使用了昵称，我就无法让客户进行预订。 任何提示都值得赞赏！    提交人    /u/Heywood_Industries   [链接] [评论]]]></description>
+      <description><![CDATA[有人知道是否有需要客户登录的预订平台吗？ 我经营一家补习公司，并且我希望能够根据从预订平台收集的数据自动向客户计费。 像 Calendly 这样的网站的问题是它们不要求客户登录，因此很难匹配客户可以根据预订中提供的信息来识别客户。 如果客户的电子邮件中存在拼写错误或使用昵称，我将无法让客户进行预订。 任何感谢您的提示！   由   提交 /u/Heywood_Industries   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czoqb3/booking_software_for_service_business/</guid>
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>图像和视频程序</title>
       <link>https://www.reddit.com/r/software/comments/1czh6fc/programm_for_both_images_and_videos/</link>
-      <description><![CDATA[有没有可以同时查看图片和视频的查看器，这样我就可以轻松查看包含两种类型的文件夹，而不必在每次遇到不同的文件类型时都进行切换？我知道 faststone 可以做到，但在我看来，它真的很慢。     提交人    /u/teamtijmi   [link] [评论]]]></description>
+      <description><![CDATA[是否有同时显示图像和视频的查看器，以便我可以轻松查看具有两种类型的文件夹，这样我就不必每次都切换我有不同的文件类型？我知道 faststone 可以做到这一点，但我认为那真的很慢。    由   提交 /u/teamtijmi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czh6fc/programm_for_both_images_and_videos/</guid>
       <pubDate>Fri, 24 May 2024 10:01:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我也有日本朋友聊天，我一直在寻找一些软件（或任何真正的东西），可以让我翻译我的日本朋友的内容他们用我有限的语言知识对我说？   由   提交 /u/LesPaular   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czct6s/is_there_any_translating_software_that_will/</guid>
       <pubDate>Fri, 24 May 2024 04:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需一分钟即可轻松启动任何 .exe 屏幕。我的第一个软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</link>
-      <description><![CDATA[大家好！想介绍一个我开发的通用启动器作为我的第一个软件。对于用户来说，这是一个非常简单的过程，所需要的只是一个自定义的 .png 图像。对于游戏开发者和其他软件创建者来说是一个很棒的工具。它为任何 Windows 应用程序增添了一丝优雅。 查看 Universal App Launcher Lite (UALL) @ https://craftyscript .com/software/ 只需将文件拖放到可执行文件夹中，创建自定义启动图像，然后启动！接受定制请求。    由   提交/u/NoobDev7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czbyvb/splash_screen_any_exe_with_ease_in_as_little_as_a/</guid>
-      <pubDate>Fri, 24 May 2024 04:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

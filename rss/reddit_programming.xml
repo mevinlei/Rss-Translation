@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sat, 25 May 2024 00:36:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 03:11:27 GMT</lastBuildDate>
+    <item>
+      <title>我应该从哪里开始学习？我正在为初学者开设一门应用于生物学的Python课程，并且是我生物技术职业生涯的最后一年。我想找一份编程方面的半职工作来生存，直到我完成学业，然后转向生物信息学。我应该学什么？ <3</title>
+      <link>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</link>
+      <description><![CDATA[  由    /u/Keikeii0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d01g0x/where_should_i_start_to_learning_im_doing_a/</guid>
+      <pubDate>Sat, 25 May 2024 02:04:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源人工智能简介（与 Llama 3）</title>
+      <link>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</link>
+      <description><![CDATA[ 由   提交/u/kushalgoenka  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d004xg/intro_to_open_source_ai_with_llama_3/</guid>
+      <pubDate>Sat, 25 May 2024 00:53:01 GMT</pubDate>
+    </item>
     <item>
       <title>[IntelliJ 插件] HoverNumberConverter - 即时数字转换信息</title>
       <link>https://www.reddit.com/r/programming/comments/1czyqec/intellij_plugin_hovernumberconverter_onthefly/</link>
@@ -36,14 +50,14 @@
     <item>
       <title>扩散模型</title>
       <link>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</link>
-      <description><![CDATA[  由    /u/reasonableklout  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/reasonableklout  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czx9y3/diffusion_models/</guid>
       <pubDate>Fri, 24 May 2024 22:33:20 GMT</pubDate>
     </item>
     <item>
       <title>系统设计访谈：现实世界的成功策略</title>
       <link>https://www.reddit.com/r/programming/comments/1czx7jl/systems_design_interview_realworld_strategies_for/</link>
-      <description><![CDATA[ 由   提交 /u/superc0w   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/superc0w  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czx7jl/systems_design_interview_realworld_strategies_for/</guid>
       <pubDate>Fri, 24 May 2024 22:30:12 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>体素位移渲染器 – 复古 3D 美学的现代化</title>
       <link>https://www.reddit.com/r/programming/comments/1czvryp/voxel_displacement_renderer_modernizing_the_retro/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czvryp/voxel_displacement_renderer_modernizing_the_retro/</guid>
       <pubDate>Fri, 24 May 2024 21:25:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Slow-Reaction-5655   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1czuu3k/how_i_made_it_impossible_to_write_spaghetti_code/</guid>
       <pubDate>Fri, 24 May 2024 20:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 python 库，用于连接线程并有效地从线程返回值！</title>
-      <link>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</link>
-      <description><![CDATA[ 由   提交/u/Sxvxge_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1czuo76/made_a_python_library_for_connecting_threads_and/</guid>
-      <pubDate>Fri, 24 May 2024 20:36:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不到一个月的时间里用 Hare 编写了一个 Unix 克隆操作系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1cztooq/writing_a_unix_clone_operating_system_in_hare_in/</link>
-      <description><![CDATA[ 由   提交/u/j_m_macleod  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1cztooq/writing_a_unix_clone_operating_system_in_hare_in/</guid>
-      <pubDate>Fri, 24 May 2024 19:54:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
