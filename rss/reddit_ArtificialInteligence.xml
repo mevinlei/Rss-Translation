@@ -4,7 +4,56 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 25 May 2024 15:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 18:10:00 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的人工智能概述给你错误的答案</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ht5z/googles_ai_overview_gives_you_wrong_answers/</link>
+      <description><![CDATA[Google I/O 上周推出的最重要的新功能之一是 AI 生成的搜索结果摘要。从那时起，用户就开始在社交媒体上仔细审视这些人工智能生成的搜索结果摘要，并开玩笑，在这里阅读更多内容   由   提交/u/Key_Jellyfish_5881   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0ht5z/googles_ai_overview_gives_you_wrong_answers/</guid>
+      <pubDate>Sat, 25 May 2024 18:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在零技术背景的情况下，我陷入了兔子洞的任务，以找出这个项目。我把大部分拼图拼凑在一起，但是......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0hke0/with_zero_tech_background_i_went_down_the_rabbit/</link>
+      <description><![CDATA[在零技术背景的情况下，我为了弄清楚这个项目而陷入了困境。我现在把大部分拼图拼凑在一起，我只需要帮助才能清楚地了解拼图。所以我发现 gmail api 没什么新鲜的，但对我来说那是一个瞬间……现在第二部分对我来说有点难，但我已经学会并拼凑了更多的拼图……Gemini AI API . 我还看到 Google 已经具备了完全满足我需求的功能，而其他人则提供了某种工作流程自动化，但不确定该走哪条路。长话短说，我正在尝试使用 Gmail API 连接到用户批准的电子邮件，然后使用 Google Gemini AI 根据参数在电子邮件中搜索电子邮件，然后返回报告。我非常感谢任何提示或建议，谢谢。   由   提交/u/ledhippie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0hke0/with_zero_tech_background_i_went_down_the_rabbit/</guid>
+      <pubDate>Sat, 25 May 2024 17:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在做市场研究，并想仔细研究我正在研究的社区。是否有任何工具可以接受 subreddit 输入并返回该 subreddit 上最热门的主题以及每个主题的情绪？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0hfir/i_am_doing_market_research_and_want_to_study_the/</link>
+      <description><![CDATA[我可以用老式的方式来做，但我想需要这样的工具并检查是否存在某些东西。谢谢！   由   提交/u/Sensitive_Election83  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0hfir/i_am_doing_market_research_and_want_to_study_the/</guid>
+      <pubDate>Sat, 25 May 2024 17:49:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Axler 的新线性代数做对了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0h5or/axlers_new_linear_algebra_done_right/</link>
+      <description><![CDATA[https://www.quora.com/qemail/tc?al_imp =eyJ0eXBlIjogMzMsICJoYXNoIjogIjEzMDQwMjEwMjc2MzA4NTUzNjd8MXwxfDE0Nzc3NDM3NDQ4ODg0OTAifQ %3D%3D&amp;al_pri=1&amp;aoid=4j6K2MFavpW&amp;aoty=2&amp;aty=4&amp;cp=1&amp;et=2&amp;id=fc99edff3f7249998f1385c28372ffed&amp;q_aid=qSwiBLtQJuH&amp;uid=nAH258ceN4 想法？   由   提交/u/leao_26  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0h5or/axlers_new_linear_algebra_done_right/</guid>
+      <pubDate>Sat, 25 May 2024 17:36:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI 大会。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0fuyn/an_agi_congress/</link>
+      <description><![CDATA[也许我们应该努力建立一个自治的制衡系统，让 AGI 模型能够相互治理。 在这样的系统中，AGI 模型需要将执行可能影响世界/人类的行动的意图提交给其他 AGI 系统的管理机构（例如 AGI 大会），以便在采取该行动之前进行审查。 虽然我们人类最初会建立这样一个系统，但只要每个 AGI 都拥有相似的智力优势，这样一个系统的稳定性就可能持续......即使我们达到了不再理解 AGI 动机的地步 这样的制衡体系可能是人类生存的唯一希望。   由   提交/u/SpinRed  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0fuyn/an_agi_congress/</guid>
+      <pubDate>Sat, 25 May 2024 16:34:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测“工作人员”何时创建评论。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0fnhw/detect_when_comments_are_created_by_a_human_at/</link>
+      <description><![CDATA[我想知道是否有可能制作一个程序，可以检测出一系列评论是由“工作中的人类”创建的。 我指的是那些实际上为公司、政府或游说团体工作的用户。我指的是那些通常管理多个帐户并根据给出的指示创建内容的用户。 例如，如果是政治问题，他们会说最荒谬的话，因为这就是他们被雇用的原因，他们会给自己点赞，而对与指示不符的答案投反对票。他们复制虚假信息等。（我没有很好地解释这个案例，但我想我们都知道我的意思）。 例如，如果是政治问题，他们会说最荒谬的话，因为这就是他们被雇用的原因，他们会给自己点赞，而对与指示不符的答案投反对票。他们复制虚假信息等。（我没有很好地解释这个案例，但我想我们都知道我的意思）。 例如，如果是政治问题，他们会说最荒谬的话，因为这就是他们被雇用的原因，他们会给自己点赞，而对与指示不符的答案投反对票。他们复制虚假信息等。（我没有很好地解释这个案例，但我想我们都知道我的意思）。 在某些子版块中，众所周知，回答问题的人或回答和投票的人不是机器人（机器），而是“工作中的人类”，他们会发表意见并隐藏某些类型的内容。 是否有可能做一些事情来检测这种情况？ 我记得在 Twitter 上，例如，你可以知道某个群体的“感受”等等…… 使用现有工具，编写可以检测到所有大量噪音的程序是否遥不可及？或者说，人们没有兴趣修改它？ 如果没有所有这些虚假噪音，互联网真的会是一个非常不同的地方    提交人    /u/9acca9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0fnhw/detect_when_comments_are_created_by_a_human_at/</guid>
+      <pubDate>Sat, 25 May 2024 16:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息：埃隆·马斯克 (Elon Musk) 的 xAI 计划建造一台超级计算机，连接 100,000 个 GPU，为其下一代人工智能 Grok 提供动力。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0eupe/theinformation_elon_musks_xai_is_planning_to/</link>
+      <description><![CDATA[在 5 月份向投资者的演示中，马斯克表示，他希望在 2025 年秋季之前让这台超级计算机投入运行，并将承担按时交付的个人责任。他告诉投资者，完成后，这些连接在一起的芯片组——Nvidia 的旗舰 H100 图形处理单元——将至少是目前最大的 GPU 集群的四倍，比如 Meta Platforms 为训练其 AI 模型而构建的集群。 https://www.theinformation.com/articles/musk-plans-xai-supercomputer-dubbed-gigafactory-of-compute 关注我，了解更多市场和 AI 新闻 twitter.com/tradernewsai    提交人    /u/tradernewsai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0eupe/theinformation_elon_musks_xai_is_planning_to/</guid>
+      <pubDate>Sat, 25 May 2024 15:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>Sage GPT：深度人性化对话</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0dqfe/sage_gpt_deep_humanstyle_conversations/</link>
@@ -15,23 +64,9 @@
     <item>
       <title>人工智能与电视节目</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0d6t0/ai_tv_shows/</link>
-      <description><![CDATA[喜欢用人工智能制作最喜欢的情景喜剧新剧集的想法，但我想娱乐业会对此有所反对。这最终会变成一种付费服务，版税会发送给演员，还是他们会直接否决它？    由   提交  /u/alexandjohntv   [link] [评论]]]></description>
+      <description><![CDATA[喜欢与 Ai 一起创作最喜欢的情景喜剧的新剧集的想法，但我想娱乐行业会产生一些强烈反对。这最终会变成一项付费服务​​，向演员支付版税，还是他们会直接取消它？   由   提交/u/alexandjohntv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0d6t0/ai_tv_shows/</guid>
       <pubDate>Sat, 25 May 2024 14:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不停地思考像 Neuralink 这样的脑机接口如何让计算机技能和我花在这些技能上的时间变得过时</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0bd3y/i_cant_stop_thinking_about_how_bcis_like/</link>
-      <description><![CDATA[BCI - 脑机接口 第一个 Neuralink 患者的视频很酷，我很想拥有类似的事情可以在我的计算机上执行操作，而无需花费时间使用鼠标和键盘。我花了无数的时间来优化我的计算机工作流程，尽可能少地使用鼠标，制作和使用大量的键盘快捷键，我花了一个月的时间学习盲打，并计划学习速记打字。我需要很多年才能获得像 Neuralink 这样的 BCI，但我对自己在工作流程上花费的所有时间感到内疚，尽管在我的计算机上做了很多工作，这使得它非常有益。   由   提交 /u/TheTwelveYearOld   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0bd3y/i_cant_stop_thinking_about_how_bcis_like/</guid>
-      <pubDate>Sat, 25 May 2024 12:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>该子项目的会员人口统计</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0b7ek/membership_demographics_of_this_sub/</link>
-      <description><![CDATA[很想了解此子目录中的会员人口统计数据。在我看来，它是讨论人工智能的最大、最有趣的论坛之一，它正在说明一些事情，就像还有很多其他论坛一样。我只是想知道主持人是否知道有多少成员直接受雇于该行业或积极创建软件与雇用人工智能的人员的一般数字。他们的业务中的工具与人们将其用于个人事务和仅仅好奇的人。另外，男性与女性、地理位置、年龄等。    由   提交 /u/FranklinSealAljezur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0b7ek/membership_demographics_of_this_sub/</guid>
-      <pubDate>Sat, 25 May 2024 12:43:02 GMT</pubDate>
     </item>
     <item>
       <title>动画AI工具推荐</title>
@@ -41,37 +76,9 @@
       <pubDate>Sat, 25 May 2024 12:20:41 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一个深假人工智能应用程序或软件来让我的自画像唱歌（以一种看起来像我自己的面部动作的方式）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d0am3e/looking_for_a_deep_fake_ai_app_or_software_to/</link>
-      <description><![CDATA[正在寻找一个深度伪造的应用程序或使图像唱出高分辨率的东西 我正在寻找一个可以在其中使用的应用程序让我自己的图像和视频（现场）唱歌，而不会出现奇怪的牙齿。  更清楚地说：我创建人工智能图像，并将自己的脸放在上面。它们是高分辨率的（我是一名专业摄影师、人工智能艺术家和模特），我希望这些图像能够唱歌。 我尝试了 Avatarify（一个应用程序，我可以在其中录制自己的歌声，以便将我的脸出现在图像中）会唱歌）但我的嘴变得非常奇怪，它开始添加大牙齿和东西，并且它产生的嘴的运动根本不像我的。  还有其他方法可以做到这一点吗？ 所以我需要将这两者结合起来：一张带有我的脸的高分辨率图像我的脸在现场唱歌   由   提交/u/wakawagaweewee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d0am3e/looking_for_a_deep_fake_ai_app_or_software_to/</guid>
-      <pubDate>Sat, 25 May 2024 12:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建我自己的人工智能克隆？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d08cdm/creating_an_ai_clone_of_myself/</link>
-      <description><![CDATA[我见过像 Synthesia 和 syllaby 这样的网站，它们会创建你的真实克隆，并让你输入文本来表达。我想为自己自制这种类型的设置。已经有服务器之类的了。我正在从事编程工作。到目前为止，在 python 中，使用了 deepfacelab 和其他一些库。有人尝试过这样做吗？我知道这是可能的，所以我正在寻找我自己可能没有想到的任何指针，我对编程和人工智能仍然很陌生   由   提交/u/witt_sec   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d08cdm/creating_an_ai_clone_of_myself/</guid>
-      <pubDate>Sat, 25 May 2024 09:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能领域的女性：Catherine Breslin</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d07ios/women_in_ai_catherine_breslin/</link>
-      <description><![CDATA[现在是谈论推动科技行业前进的杰出女性的好时机。我写了一篇涵盖人工智能领域的时事通讯，并决定针对您可能听说过或可能没有听说过的一些关键名称进行系列报道。在我的第一篇文章中，我将介绍 Kingfisher Labs 的 Catherine Breslin，我想在下面与您分享： Catherine Breslin，Kingfisher Labs 的创始人兼董事，拥有丰富的人工智能背景，曾在剑桥大学、东芝研究中心和亚马逊 Alexa 工作。她在语音技术方面拥有丰富的经验，致力于帮助企业制定人工智能战略。 Breslin 凭借对数学和物理的热情开始了她的人工智能之旅，这促使她学习工程学并最终攻读语音技术博士学位。她于 2020 年创立了自己的咨询公司，旨在为组织带来现实世界的人工智能专业知识，同时保持灵活的工作与生活平衡。 Breslin 承认男性主导的本质。科技和人工智能行业，强调建立支持性网络以及在推动变革和推进职业生涯之间找到务实平衡的重要性。鉴于该领域的信息量巨大，她建议进入人工智能领域的女性专注于特定的领域并学习有关该领域的一切。 Breslin 强调了负责任的人工智能开发的必要性，包括多元化的观点和彻底的测试系统。她还敦促投资者认真考虑他们资助的人工智能应用程序的长期影响，倡导优先考虑负责任的人工智能实践的愿景。 因其对技术的贡献而受到认可她被《Business Insider》评选为 2018 年英国科技领域最酷的 100 人之一，被《The Female Lead》评选为“2017 年数据领域 20 人”，并被《硅谷共和国》评选为 2018 年未来数据架构师。Breslin 被评为 WeAreTheCity 的励志女性之一和NESTA 塑造 AI 的 12 位女性，并出现在 Stylist 杂志的 Visible Women 系列中。 2021 年，她被《计算机周刊》评为英国科技界 50 位最具影响力的女性之一。她通过 TechCrunch、天空新闻、BBC、卫报、CNBC、新政治家和 i 报纸等各种媒体分享了她对技术的见解。 Breslin 致力于鼓励更多女性和女孩追求 STEM，她与 Robogals 共同创立了英国科学协会剑桥分会，在亚马逊为青少年设计了一个编程研讨会，并让小学生参与有关人工智能的讨论。  我很想知道 - 您以前听说过凯瑟琳·布雷斯林吗？您尊敬的科技界女性是谁？我将就这个主题写一个为期 4 周的系列文章，我还应该包括哪些其他名称？ 如果您想查看该系列的其余部分，请完全订阅我的时事通讯《认知信使》免费此处。   由   提交/u/cognitive_courier  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d07ios/women_in_ai_catherine_breslin/</guid>
-      <pubDate>Sat, 25 May 2024 08:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truecaller 与微软合作，让用户创建人工智能语音来接听电话</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d07d28/truecaller_and_microsoft_partner_to_let_users/</link>
-      <description><![CDATA[有些人更喜欢 Truecaller，而不是手机的内置系统来查找和阻止垃圾电话。使用该服务的人工智能助手的人们现在可以录制自己的声音。该软件与微软的 Azure AI Speech 合作，将使用录制的剪辑来制作听起来像用户的 AI 语音。https ://theaiwired.com/truecaller-and-microsoft-partner-to-let-users-create-ai-voices-for-answering-calls/   由   提交 /u/National_Wasabi9993   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d07d28/truecaller_and_microsoft_partner_to_let_users/</guid>
-      <pubDate>Sat, 25 May 2024 08:23:09 GMT</pubDate>
-    </item>
-    <item>
       <title>1人1周155000行代码</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d03dkh/1_person_1_week_155000_lines_of_code/</link>
-      <description><![CDATA[今天参加了 rUv 的现场黑客集体并观看了现场直播。全新水平。 Gpt4o 优化的内存使用 - 多代理框架 - 掌握在前沿专业知识的手中   由   提交/u/Motor_System_6171   [链接] [评论]]]></description>
+      <description><![CDATA[今天参加了 rUv 的现场黑客集体并观看了现场表演。全新水平。 Gpt4o 优化的内存使用 - 多代理框架 - 掌握在前沿专业知识的手中   由   提交/u/Motor_System_6171   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d03dkh/1_person_1_week_155000_lines_of_code/</guid>
       <pubDate>Sat, 25 May 2024 03:56:26 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[我认为 Reddit 上的许多人都认为 Google 使用 Reddit 来训练其人工智能会如履薄冰……我不认为我们期望他们吃热煤。 他们的人工智能概述告诉人们在披萨中加入胶水，地质学家建议每天吃一块石头。不过，谷歌现在非常擅长恶搞！ 粘披萨和吃石头：谷歌人工智能搜索错误病毒式传播   由   提交/u/FactorHour2173  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1czupgp/we_broke_google/</guid>
       <pubDate>Fri, 24 May 2024 20:38:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>芯片大战爆发：英伟达利润暴涨，奥特曼万亿美元押注AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1czsmrv/chip_wars_explode_nvidias_skyrocketing_profits/</link>
-      <description><![CDATA[在 NVIDIA 创纪录的盈利以及 OpenAI 首席执行官计划筹集 5 到 7 万亿美元用于人工智能芯片制造的推动下，全球芯片大战正在迅速升级。但能源网能否满足人工智能对电力的巨大需求？ 随着全球数字化加速，全球对芯片的需求势不可挡。美国芯片制造龙头英伟达5月23日超出分析师预期，股价飙升7.4%，每股突破1000美元。这种势不可挡的增长是一个明显的迹象：对人工智能驱动的技术的需求已经超出预期，而且随着人工智能成为主流，这种需求只会变得越来越热。 美国决心在这一领域发挥重要作用。芯片制造空间至少占全球供应量的 10%。在拜登总统的领导下，该国计划到 2032 年将其芯片制造能力大幅扩张 203%。凭借《芯片和科学法案》以及数十亿美元的激励措施，美国决心重新夺回芯片制造强国的地位，并减少对外国供应商尤其是中国大陆、台湾和韩国供应商的依赖。 但是芯片大战还远未结束。最近的两项事态发展为一场更加激烈的战斗奠定了基础。首先，OpenAI（ChatGPT 背后的策划者）富有远见的首席执行官 Sam Altman 透露了一项令人瞠目结舌的计划，为芯片制造筹集 7 万亿美元的资金。他设想了一个人工智能占据主导地位的世界，并且他对此下了很大的赌注。为了实现这个人工智能驱动的未来，Altman 正在吸引从硅谷到沙特阿拉伯和阿拉伯联合酋长国的全球投资者，以期彻底改变芯片行业，并确保为人工智能的永不满足的胃口提供强大的计算能力。&lt; /p&gt; 但是这场人工智能革命不仅仅与芯片有关。它可能会导致大规模的能源危机和肮脏的煤炭使用的回归。这些人工智能系统具有复杂的算法和大量的数据处理，是耗电的引擎。那么容纳它们的数据中心呢？它们实际上是电力黑洞。试想一下，数据中心 40% 的能源需求用于冷却目的，以确保系统不会过热。随着人工智能继续其令人瞩目的增长，能源网的压力正在达到一个临界点，除非有更多的能源供应（包括可再生能源），否则芯片革命可能无法兑现其承诺。 结论&lt; /h1&gt; 英伟达的财务烟花和奥特曼的大胆赌博都是明确的信号：芯片大战已经达到白热化阶段，人工智能是最终的奖品。但问题是：世界能源基础设施能否跟上这些人工智能驱动的发展步伐？本次人工智能大赛。赌注比以往任何时候都更高，涉及数万亿美元和技术领先的未来。全球芯片竞争正在经历一场巨大的转变，其影响将波及全球各个行业。人工智能主导地位的竞赛已经开始，但真正的挑战可能是确保能源网格不会崩溃。    由   提交/u/Economy_County2947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1czsmrv/chip_wars_explode_nvidias_skyrocketing_profits/</guid>
-      <pubDate>Fri, 24 May 2024 19:09:04 GMT</pubDate>
     </item>
     <item>
       <title>使用人工智能克隆拜登声音的机器人呼叫者被罚款 600 万美元</title>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有与人工智能有关的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
