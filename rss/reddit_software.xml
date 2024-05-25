@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
-    <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 06:12:26 GMT</lastBuildDate>
+    <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
+    <lastBuildDate>Sat, 25 May 2024 09:08:59 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元关于我需要的详细信息和评论</title>
+      <link>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</link>
+      <description><![CDATA[我有许多旧杂志的 PDF 文件，这些杂志已不再印刷，而且已经有大约 30 年没有印刷了。我想要做的是进入 PDF 编辑器，在那里我可以更改页边距大小和页面大小，并添加来自 lulu.com 的模板，为自己打印一些单独的添加内容，这样我就可以像以前一样浏览它们当杂志还很流行的时候，我不需要专业的 PDF 编辑器，只需要可以轻松调整大小、压缩、组合和更改边距，还可以添加来自 lulu.com 的模板   由   提交 /u/thephillman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</guid>
+      <pubDate>Sat, 25 May 2024 08:46:07 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过这个吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 24 May 2024 16:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>手机和电脑上不可见的unicode</title>
+      <title>适用于移动设备和 PC 的隐形 unicode</title>
       <link>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</link>
       <description><![CDATA[是否存在在移动设备和 PC 上都看不见的 unicode？我不是在谈论空格，而是在谈论不可见的实际字符。   由   提交/u/Stab_me_goodnight  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1cznf07/invisible_unicode_for_mobile_and_pc/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>轻量级任务规划和依赖性跟踪应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</link>
-      <description><![CDATA[我正在努力跟踪总体目标的进展情况，并确保我所做的一切都在关键路径上。基本上我想要一个标题、描述（维基文本/降价会很棒）、依赖项（到其他任务的链接）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，显示任务的排序和连接以及如果我点击它们，我可以获得更多信息。 以甘特图为中心的内容不适合这里，因为我不想估计持续时间或日期（至少现在还不想）。  这感觉就像我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制于现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是行不通的。 ETA：如果它是一个网络应用程序，我非常倾向于可以自托管的东西。   由   提交 /u/WhiskyStandard   [链接] [评论]]]></description>
+      <description><![CDATA[我试图跟踪实现大目标的进度，并确保我所做的一切都在关键路径上。基本上，我想要一个包含标题、说明（wiki 文本/markdown 会很棒）、依赖项（链接到其他任务）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，该视图显示已排序和连接的任务，如果我单击它们，我可以获得更多信息。 以甘特图为中心的东西在这里不适合，因为我不想估计持续时间或日期（至少现在还不想）。 这感觉像是我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制为现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是不切实际的。 ETA：如果是 Web 应用程序，我强烈倾向于可以自行托管的东西。    提交人    /u/WhiskyStandard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</guid>
       <pubDate>Fri, 24 May 2024 13:55:07 GMT</pubDate>
     </item>
@@ -78,14 +85,14 @@
     <item>
       <title>软件开发中的角色识别和分配调查——大学项目需要帮助！</title>
       <link>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</link>
-      <description><![CDATA[我是一名大学生，目前正在做我的期末项目，该项目的重点是了解角色的识别和分配如何影响软件开发的各个阶段。您的意见对我的研究非常宝贵，如果您能花几分钟时间完成这项调查，我将不胜感激。 单击此处参与调查 这项调查是完全匿名的，您的回答将大大提高我的研究质量。完成调查的时间不应超过 10 分钟。 非常感谢您抽出时间和帮助！    提交人    /u/LordDule   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名大学生，目前正在进行我的期末项目，该项目的重点是了解角色的识别和分配如何影响软件开发的各个阶段。您的意见对我的研究非常宝贵，如果您能花几分钟时间完成这项调查，我将不胜感激。  点击此处参与调查 该调查完全匿名，您的回答将对我的研究质量做出重大贡献。完成时间不会超过 10 分钟。 非常感谢您的时间和帮助！   由   提交 /u/LordDule   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</guid>
       <pubDate>Fri, 24 May 2024 13:19:41 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个变声器软件，可以让我上传一堆具有特定声音的音频文件，以使用生成的声音创建现场录音</title>
       <link>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</link>
-      <description><![CDATA[嘿，标题说明了一切：正在寻找一个变声软件，可以让我上传一堆具有特定声音的音频文件来创建现场 -带有生成语音的录音   由   提交 /u/birgiir   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，标题说明了一切：寻找一款语音转换器软件，让我可以上传一堆具有特定声音的音频文件，以便使用生成的声音创建现场录音    提交人    /u/birgiir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</guid>
       <pubDate>Fri, 24 May 2024 11:06:14 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>规则引擎和文本在Word模板引擎中创建</title>
       <link>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</link>
-      <description><![CDATA[有没有软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。例如：输入：a1f -&gt; 输出：“this is a test” 然后 3. 用占位符中的这些文本段填写标准化、预格式化的 word 模板？    提交人    /u/pivo161   [link] [评论]]]></description>
+      <description><![CDATA[有没有一个软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。如：输入：a1f -&gt;输出：“这是一个测试” 然后 3. 使用占位符中的这些文本段填写标准化的预格式化 Word 模板？   由   提交/u/pivo161  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</guid>
       <pubDate>Fri, 24 May 2024 07:53:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于创建剪贴簿/日记来记录我的愿望清单的最佳免费离线软件是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</link>
-      <description><![CDATA[我创建了一个愿望清单，我想在努力完成每个项目时保留我的愿望清单旅程的记忆。我正在寻找一款 Windows 10 上的免费软件，该软件可以离线运行，并且能够录制带有时间戳的音频、视频、照片和文本。  我想到了 OneNote，但找不到任何方法来创建只能离线使用的笔记本。我不想让遗愿清单上线，即使是无意的。尽管我可能会在我的 Facebook、个人网站或 YouTube 上分享部分愿望清单。  有什么最好的软件建议吗？   由   提交 /u/Experimentalphone   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czewad/whats_the_best_free_offline_software_for_creating/</guid>
-      <pubDate>Fri, 24 May 2024 07:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 25 May 2024 06:13:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:09:56 GMT</lastBuildDate>
     <item>
       <title>买一支防晒霜花了我几个小时</title>
       <link>https://feed.indiehackers.world/post/bb9bc68bac</link>
@@ -67,16 +67,16 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>[求助]哪种商业模式更好？</title>
       <link>https://feed.indiehackers.world/post/1965a85353</link>
-      <description><![CDATA[业务模式 2：在新月初对用户失败的天数进行收费。
+      <description><![CDATA[商业模式 2：在新月初对用户未完成的天数收费。
 
-工作原理：应用程序从用户的信用卡中扣除 1 美元；用户完成当天所有习惯后可返还 1 美元；否则将累积 1 美元，并在下月初收取费用。
-我已经采用这种商业模式推出了该应用，但注册量增长非常缓慢（每天 3-4 个）。 
+工作原理：应用程序从用户的信用卡中扣除 1 美元；用户在完成当天的所有习惯后可赚回 1 美元；否则将累积 1 美元并在下个月初收取。
+我已经使用这种商业模式推出了应用程序，但注册人数增长非常缓慢（每天 3-4 人）。
 网站：https://habitrewards.me/
 
-如果我必须使用应用内购买，App Store 会收取 30% 的订阅费。如果 App Store 允许我使用 Stripe 收费，Stripe 会收取大约 3-4% 的佣金。
-这两种业务模型的理想情况是要求用户提供信用卡并每月自动收费。
+如果我必须使用应用内购买，App Store 会从订阅中抽取 30% 的提成。如果 App Store 允许我使用 Stripe 收费，Stripe 会收取约 3-4% 的佣金。
+这两种商业模式的理想情况是要求用户提供信用卡并每月自动收费。
 非常感谢您的想法和建议！
-Discord 独立黑客聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1965a85353</guid>
       <pubDate>Sun, 12 May 2024 05:37:57 GMT</pubDate>
     </item>
@@ -85,18 +85,18 @@ Discord 独立黑客聊天广告这里]]></description>
       <link>https://feed.indiehackers.world/post/1f34855e00</link>
       <description><![CDATA[目标：
 简化课程创建者的会计流程
-减少人工错误并节省时间
-提供人性化的财务管理平台
+减少手动错误并节省时间
+提供用户友好的财务管理平台
 问题：
 
-作为课程创建者，这是您遇到的问题吗？
-您会使用这样的应用吗？
-是否有我缺少的现有解决方案？
+这是您作为课程创建者遇到的问题吗？
+您会使用这样的应用程序吗？
+我是否遗漏了任何现有解决方案？
 
 
-我们来讨论一下吧！分享您的想法，帮助我决定是否构建或验证这个想法！
+让我们讨论一下！分享您的想法，并帮助我决定是否构建或验证这个想法！
 
-Discord 独立黑客聊天广告这里]]></description>
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/1f34855e00</guid>
       <pubDate>Thu, 09 May 2024 15:02:04 GMT</pubDate>
     </item>
@@ -139,9 +139,9 @@ Discord 独立黑客聊天广告这里]]></description>
     <item>
       <title>如何使用 Gmail 提供客户支持</title>
       <link>https://feed.indiehackers.world/post/9ce3b746c2</link>
-      <description><![CDATA[
-如需详细了解各个扩展，请查看我的完整博客文章如何将 Gmail 变成终极客户支持工具。
-Discord Indiehackers Chat广告此处]]></description>
+      <description><![CDATA[&lt;小时/&gt;
+要更详细地了解各个扩展，请查看我的完整博客文章 如何将 Gmail 变成终极客户支持工具。
+Discord 独立黑客聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9ce3b746c2</guid>
       <pubDate>Thu, 02 May 2024 10:52:53 GMT</pubDate>
     </item>
