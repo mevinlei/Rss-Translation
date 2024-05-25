@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 25 May 2024 09:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 12:15:05 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以完全隐藏窗口的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1d0a3y9/looking_for_softwares_which_can_hide_windows/</link>
+      <description><![CDATA[所以我住在宿舍里，我只想选择隐藏我的一些窗口，比如说我正在下载一些东西或玩游戏，我只想在我去洗手间等时隐藏窗口。这样人们就不会弄乱它，它仍然并行运行。也有助于满足隐私需求，有点像紧急按钮。  我之前用过 2 个工具来解决这个问题，一个叫做“WindowHideToo” - 再也找不到这个链接了（Windows 11 把它弄坏了），另一个实际上更好的版本叫做“ClickyGone” - https://clickygone.sourceforge.net 最近的 Windows 更新破坏了 ClickyGone，所以我不能再使用它了，除非我回滚并停留在旧的 Windows 更新（二月/三月）。我正在寻找具有类似功能的东西来隐藏活动窗口。 或者如何修复 clickygone 的新更新本身？    提交人    /u/shadowspeed737   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d0a3y9/looking_for_softwares_which_can_hide_windows/</guid>
+      <pubDate>Sat, 25 May 2024 11:38:37 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找一个具有良好功能的基本 PDF 编辑器，不想花费超过 25 美元关于我需要的详细信息和评论</title>
       <link>https://www.reddit.com/r/software/comments/1d07nu3/looking_for_a_basic_pdf_editor_that_has_good/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>有人用过这个吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</link>
-      <description><![CDATA[我正在寻找后台桌面日历并发现了这个网站。我真的很喜欢这个概念，但不知道它是否需要安全使用，我不希望它最终成为病毒 https://www.desktopcal.com/ 有人听说过这个并使用过它，或者对类似的应用程序有推荐吗？    由   提交 /u/Emozziis   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个背景桌面日历，然后偶然发现了这个网站。我真的很喜欢这个概念，但不知道它是否安全使用，我不希望它最终成为病毒  https://www.desktopcal.com/ 有没有人听说过这个并且用过它或者有类似的应用程序推荐？     提交人    /u/Emozziis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d04yws/has_any_one_used_this/</guid>
       <pubDate>Sat, 25 May 2024 05:36:21 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>允许您编辑 HTML 来撰写邮件的电子邮件客户端？</title>
       <link>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</link>
-      <description><![CDATA[是否有任何电子邮件客户端可以让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但会接受 Linux 选项。   由   提交/u/cisco_bee  [链接] [评论]]]></description>
+      <description><![CDATA[是否有任何电子邮件客户端可让您在撰写邮件时编辑实际的 HTML？更喜欢 Windows，但也接受 Linux 选项。    提交人    /u/cisco_bee   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czoxpf/email_client_that_lets_you_edit_html_to_compose/</guid>
       <pubDate>Fri, 24 May 2024 16:32:08 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>轻量级任务规划和依赖性跟踪应用程序？</title>
       <link>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</link>
-      <description><![CDATA[我试图跟踪实现大目标的进度，并确保我所做的一切都在关键路径上。基本上，我想要一个包含标题、说明（wiki 文本/markdown 会很棒）、依赖项（链接到其他任务）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，该视图显示已排序和连接的任务，如果我单击它们，我可以获得更多信息。 以甘特图为中心的东西在这里不适合，因为我不想估计持续时间或日期（至少现在还不想）。 这感觉像是我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制为现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是不切实际的。 ETA：如果是 Web 应用程序，我强烈倾向于可以自行托管的东西。    提交人    /u/WhiskyStandard   [链接] [评论]]]></description>
+      <description><![CDATA[我正在努力跟踪总体目标的进展情况，并确保我所做的一切都在关键路径上。基本上我想要一个标题、描述（维基文本/降价会很棒）、依赖项（到其他任务的链接）、标签（用于过滤的自由格式）的表格，然后是一个带有图表的视图，显示任务的排序和连接以及如果我点击它们，我可以获得更多信息。 以甘特图为中心的内容不适合这里，因为我不想估计持续时间或日期（至少现在还不想）。  这感觉就像我可以用电子表格做的事情，但如果可能的话，我不知道如何使依赖项字段具有多值并限制于现有任务。 我对 Web、Mac 和 Linux 持开放态度。仅限 Windows 是行不通的。 ETA：如果它是一个网络应用程序，我非常倾向于可以自托管的东西。   由   提交 /u/WhiskyStandard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czlbbk/lightweight_task_planning_and_dependency_tracking/</guid>
       <pubDate>Fri, 24 May 2024 13:55:07 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 24 May 2024 13:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>软件开发中的角色识别和分配调查——大学项目需要帮助！</title>
+      <title>软件开发中角色识别和分配调查——大学项目需要帮助！</title>
       <link>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</link>
       <description><![CDATA[我是一名大学生，目前正在进行我的期末项目，该项目的重点是了解角色的识别和分配如何影响软件开发的各个阶段。您的意见对我的研究非常宝贵，如果您能花几分钟时间完成这项调查，我将不胜感激。  点击此处参与调查 该调查完全匿名，您的回答将对我的研究质量做出重大贡献。完成时间不会超过 10 分钟。 非常感谢您的时间和帮助！   由   提交 /u/LordDule   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czkk2t/survey_on_role_recognition_and_allocation_in/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>寻找一个变声器软件，可以让我上传一堆具有特定声音的音频文件，以使用生成的声音创建现场录音</title>
       <link>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</link>
-      <description><![CDATA[嘿，标题说明了一切：寻找一款语音转换器软件，让我可以上传一堆具有特定声音的音频文件，以便使用生成的声音创建现场录音    提交人    /u/birgiir   [链接] [评论]]]></description>
+      <description><![CDATA[嘿，标题说明了一切：正在寻找一个变声软件，可以让我上传一堆具有特定声音的音频文件来创建现场 -带有生成语音的录音   由   提交 /u/birgiir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czi517/looking_for_a_voicechanger_software_that_lets_me/</guid>
       <pubDate>Fri, 24 May 2024 11:06:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有同时显示图像和视频的查看器，以便我可以轻松查看具有两种类型的文件夹，这样我就不必每次都切换我有不同的文件类型？我知道 faststone 可以做到这一点，但我认为那真的很慢。    由   提交 /u/teamtijmi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1czh6fc/programm_for_both_images_and_videos/</guid>
       <pubDate>Fri, 24 May 2024 10:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>规则引擎和文本在Word模板引擎中创建</title>
-      <link>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</link>
-      <description><![CDATA[有没有一个软件可以 1. 通过 API 文本输入导入，比如 json。然后 2. 应用规则并根据输入创建文本段。如：输入：a1f -&gt;输出：“这是一个测试” 然后 3. 使用占位符中的这些文本段填写标准化的预格式化 Word 模板？   由   提交/u/pivo161  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1czfgzu/rule_engine_and_text_create_in_word_template/</guid>
-      <pubDate>Fri, 24 May 2024 07:53:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
