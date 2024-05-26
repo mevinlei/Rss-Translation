@@ -3,8 +3,15 @@
   <channel>
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
-    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 26 May 2024 09:08:49 GMT</lastBuildDate>
+    <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
+    <lastBuildDate>Sun, 26 May 2024 12:13:16 GMT</lastBuildDate>
+    <item>
+      <title>自动化出错 Microsoft AI 召回功能</title>
+      <link>https://www.reddit.com/r/automation/comments/1d0ygjv/automation_done_wrong_microsoft_ai_recall_feature/</link>
+      <description><![CDATA[   您对 Microsoft 的新 AI Recall 功能有何看法？  目前这是一场隐私噩梦。    由   提交/u/Dense_Technology_638   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1d0ygjv/automation_done_wrong_microsoft_ai_recall_feature/</guid>
+      <pubDate>Sun, 26 May 2024 10:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>请帮助我分享您对刚进入自动化领域的新手的经验</title>
       <link>https://www.reddit.com/r/automation/comments/1d0dj99/please_help_me_by_sharing_your_experience_for_an/</link>
@@ -27,9 +34,9 @@
       <pubDate>Fri, 24 May 2024 20:23:27 GMT</pubDate>
     </item>
     <item>
-      <title>GPT-4o 与 GPT-4 与 Gemini 1.5 — 性能分析</title>
+      <title>GPT-4o vs. GPT-4 vs. Gemini 1.5 — 性能分析</title>
       <link>https://www.reddit.com/r/automation/comments/1cznqmh/gpt4o_vs_gpt4_vs_gemini_15_performance_analysis/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/High_Sleep3694  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cznqmh/gpt4o_vs_gpt4_vs_gemini_15_performance_analysis/</guid>
       <pubDate>Fri, 24 May 2024 15:41:02 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好！ 我使用 Gmail，一直在寻找一种解决方案来自动跟进没有电子邮件地址的电子邮件回复。  即： -发送电子邮件-等待3天，如果没有回复，发送电子邮件“嗨，只是跟进此问题，谢谢！”  就是这样。  我发现的最接近的解决方案是 Follow Up then，我目前正在使用它，而且还可以，但我总是必须记住在电子邮件中添加 FUT 作为联系人。 嗯，不知道是否我可以在 IFTTT 中进行设置吗？ 谢谢！   由   提交/u/juwood1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cwdpqs/email_auto_follow_up/</guid>
       <pubDate>Mon, 20 May 2024 11:54:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 chrome 扩展程序与 chrome 浏览器交互？</title>
-      <link>https://www.reddit.com/r/automation/comments/1cw5134/interact_with_chrome_browser_with_chrome_extension/</link>
-      <description><![CDATA[我是 chrome 扩展的新手，我想创建一个可以与浏览器交互的扩展。就像对 Facebook 帖子和评论做出反应一样。我知道 selenium 如何在 python 上工作，但不确定在 chrome 扩展/javascript 上如何工作。 请指导我如何开始。 谢谢   由   提交/u/aiden66  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cw5134/interact_with_chrome_browser_with_chrome_extension/</guid>
-      <pubDate>Mon, 20 May 2024 02:30:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
