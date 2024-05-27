@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 27 May 2024 03:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:13:19 GMT</lastBuildDate>
+    <item>
+      <title>关于CapCut视频编辑器的问题</title>
+      <link>https://www.reddit.com/r/software/comments/1d1ke7k/question_about_capcut_video_editor/</link>
+      <description><![CDATA[所以我研究了一个简单的程序，我可以在其中对多个剪辑进行基本的时间线编辑，在尝试 CapCut 几分钟后，它几乎看起来很完美。 所以这是我需要的最后一个关键的事情 - 我需要导出为原始规格。相同的分辨率、帧速率等。很多程序都会为您提供随机的、无用的预设，从而破坏视频。我看到 CapCut 确实有选项，在尝试导出某些内容后，看起来还不错，但文件大小相当小，我只是想在花费所有时间之前知道一个事实 - 有人可以根据经验澄清这个程序吗事实上，可以简单地继承源视频的原始统计数据吗？   由   提交 /u/TheBootycelli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1d1ke7k/question_about_capcut_video_editor/</guid>
+      <pubDate>Mon, 27 May 2024 05:34:15 GMT</pubDate>
+    </item>
     <item>
       <title>有没有什么软件可以在我的电脑上下载 YouTube 播放列表中的音频？</title>
       <link>https://www.reddit.com/r/software/comments/1d1hjf5/is_there_any_software_i_could_download_a_youtube/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>X 鼠标按钮控制图层</title>
       <link>https://www.reddit.com/r/software/comments/1d1e6m7/xmouse_button_controls_layers/</link>
-      <description><![CDATA[我正在使用应用程序 X-Mouse Button Controls (XMBC)，它具有图层功能。但是，无论我选择了哪个图层，只有第 1 层处于活动状态。理想情况下，我希望能够在图层之间切换（它确实有一个热键设置，但即使启用了全局热键，这些设置也不起作用），并且一次只能激活 1 个图层。 这将允许我将 1 个鼠标按钮设置为多个键，并随意在它们之间切换。 有谁熟悉这个应用程序愿意帮助我吗？    提交人    /u/Wafelze   [链接] [评论]]]></description>
+      <description><![CDATA[我正在使用应用程序 X-Mouse Button Controls (XMBC）并且它具有图层功能。然而，无论我选择哪一层，只有第 1 层处于活动状态。理想情况下，我希望能够在层之间切换（它确实有一个热键设置，但即使全局热键打开，这些设置也不起作用）并且一次只有 1 个层处于活动状态。 这将允许我将 1 个鼠标按钮设置为多个按键并在它们之间随意切换。 任何熟悉此应用程序的人愿意帮助我吗？  &amp;# 32；由   提交 /u/Wafelze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1e6m7/xmouse_button_controls_layers/</guid>
       <pubDate>Sun, 26 May 2024 23:31:34 GMT</pubDate>
     </item>
@@ -43,19 +50,19 @@
     <item>
       <title>鳄鱼慢速</title>
       <link>https://www.reddit.com/r/software/comments/1d1cpvt/croc_slow_speeds/</link>
-      <description><![CDATA[大家好，我和我兄弟使用 croc 时发现下载速度非常慢。 https://github.com/schollz/croc 我使用 croc 在家里的计算机之间传输文件，速度很快一直很好。我们尝试关闭防火墙并且不使用防病毒软件。  任何有关此事的信息将不胜感激，谢谢。   由   提交/u/Humbaba3344   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我和我兄弟之间使用 croc 时发现下载速度非常慢。 https://github.com/schollz/croc 我使用 croc 在家庭计算机之间传输文件，速度一直很好。我们尝试关闭防火墙，并且不使用防病毒软件。  如能提供有关此事的任何信息，我们将不胜感激，谢谢。    提交人    /u/Humbaba3344   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1cpvt/croc_slow_speeds/</guid>
       <pubDate>Sun, 26 May 2024 22:18:01 GMT</pubDate>
     </item>
     <item>
-      <title>基于活动应用程序的应用程序自动切换键盘布局</title>
+      <title>根据活动应用程序自动切换键盘布局</title>
       <link>https://www.reddit.com/r/software/comments/1d1bmc3/app_autoswitching_keyboard_layout_based_on_active/</link>
-      <description><![CDATA[嘿。  我现在正在玩一个游戏，叫做“Lorelei and the Laser Eyes”。我还在笔记应用程序（Obsidian）中记录了它。 “Lorelei and the Laser Eyes”中没有热键绑定选项，所以为了玩它，我有切换到英国/美国布局（我通常使用 FR 布局）。 但是，当我做笔记时，我还必须再次将布局切换到 FR 以便打字速度适当。 &gt; 是否有一个软件可以根据所使用的应用程序自动切换键盘布局？ 我知道 Windows 上有一个选项（PC 设置/时间和语言/语言/键盘/ “让我为每个应用程序窗口使用不同的输入法”），但关闭并再次打开游戏时不会保存英国/美国布局。   由   提交/u/Antith3se  [链接] [评论]]]></description>
+      <description><![CDATA[嘿。 我现在正在玩一个游戏，叫做“Lorelei and the Laser Eyes”。我也在笔记应用程序 (Obsidian) 中记录它。 “Lorelei and the Laser Eyes” 中没有热键绑定选项，因此为了玩它，我必须切换到英国/美国布局（我通常使用法国布局）。 但是，当我做笔记时，我还必须再次将布局切换到法国以便快速打字。 是否有软件可以根据所使用的应用程序自动切换键盘布局？ 我知道 Windows 上有一个选项 (PC 设置/时间和语言/语言/键盘/“让我为每个应用程序窗口使用不同的输入法”)，但当游戏关闭并再次打开时，英国/美国布局不会被保存。    提交人    /u/Antith3se   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1bmc3/app_autoswitching_keyboard_layout_based_on_active/</guid>
       <pubDate>Sun, 26 May 2024 21:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>WizFile 搜索，但搜索文件类型内部，例如 .jar .zip</title>
+      <title>WizFile 搜索，但针对 .jar .zip 等文件类型内部</title>
       <link>https://www.reddit.com/r/software/comments/1d1b0p3/wizfile_search_but_for_inside_of_file_types_like/</link>
       <description><![CDATA[有没有办法在 WizFile 或其他能够搜索 .zip 等文件类型内部内容的应用程序上执行此操作和.jar   由   提交 /u/nick_ninj   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d1b0p3/wizfile_search_but_for_inside_of_file_types_like/</guid>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 26 May 2024 19:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>像 Win32 Disk Imager 这样支持图像压缩的软件吗？</title>
+      <title>像Win32 Disk Imager这样的软件支持图像压缩吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</link>
       <description><![CDATA[是否有像 Win32 Disk Imager for Windows 这样的软件可以对 SD 卡进行完整映像备份（包括所有分区），但另外 压缩图像？不幸的是，Win32 Disk Imager 不会压缩它们，因此图像可能会变得相当大。我可以在事后使用 7-Zip 进行压缩，但这不太方便，并且并不总能提供我期望的压缩率。   由   提交/u/j123456t   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d17ctl/software_like_win32_disk_imager_that_supports/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>愚蠢的问题 Bit 有人能告诉我 chris 使用的是什么字体以及如何在 Windows 上使用它们吗？</title>
       <link>https://www.reddit.com/r/software/comments/1d11qaj/dumb_question_bit_can_someone_tell_what_font/</link>
-      <description><![CDATA[https://preview.redd.it/ll75jd59zr2d1.png?width=1522&amp;format=png&amp;auto=webp&amp;s=fc209315117ad8e438b2400f144ed15cd 6281b6f   由   提交/u/johnnydipp69  [链接] [评论]]]></description>
+      <description><![CDATA[https://preview.redd.it/ll75jd59zr2d1.png?width=1522&amp;format=png&amp;auto=webp&amp;s=fc209315117ad8e438b2400f144ed15cd6281b6f    提交人    /u/johnnydipp69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1d11qaj/dumb_question_bit_can_someone_tell_what_font/</guid>
       <pubDate>Sun, 26 May 2024 13:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>电气线路/电路设计师</title>
-      <link>https://www.reddit.com/r/software/comments/1d11hrp/electrical_wiringcircuit_designer/</link>
-      <description><![CDATA[嘿那里！！基本上就是标题。我想要一个可以帮助我创建电气接线/电路图并在软件中进行测试的软件。与此图片类似，我想在设计电路后制作电流的动画 https://preview.redd.it/ngb1dkdywr2d1.png?width=679&amp;format=png&amp;auto=webp&amp;s=4d24c7591121452efb89a31a6f11ff 42b151cf60   由   提交/u/Ill_Advisor8578   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1d11hrp/electrical_wiringcircuit_designer/</guid>
-      <pubDate>Sun, 26 May 2024 13:34:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
