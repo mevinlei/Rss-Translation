@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 27 May 2024 15:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 18:12:04 GMT</lastBuildDate>
     <item>
       <title>Linux 实习：为本地 LLM 创建支持搜索的 API 服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1tc6f/linux_internship_create_a_searchenabled_api/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>适合初学者的云架构 Python 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</link>
-      <description><![CDATA[如果有人愿意提供帮助，初学者（及以上）可以为项目做出贡献，理想情况下，该项目将成为 Cloudockit 和 Lucidscale 的开源替代品。 我们的想法是通过编程连接到 Azure 以获取所有资源、所有细节，并自动创建架构图和这些文档。 https://github.com/sander110419/Cloud-infra-visualization 如果您没有用于测试的 Azure 凭据，请给我留言。    提交人    /u/allbyoneguy   [链接] [评论]]]></description>
+      <description><![CDATA[如果有人愿意提供帮助，初学者（及以上）可以为一个项目做出贡献，该项目理想地成为 Cloudockit 和 Lucidscale 的开源替代品。 这个想法是以编程方式连接到 Azure 以获取所有资源、所有详细信息并自动创建这些资源的架构图和文档。 https://github.com/sander110419/Cloud-infra-visualization 如果您没有用于测试的 Azure 凭据，请给我发送消息。   由   提交/u/allbyoneguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1mbvr/beginnerfriendly_cloud_architecture_python_project/</guid>
       <pubDate>Mon, 27 May 2024 07:49:42 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>您认为扎克伯格进军开源 AI 的举动很棒吗？</title>
+      <title>您认为扎克伯格转向开源人工智能的举措很棒吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</link>
       <description><![CDATA[马克·扎克伯格将 LLaMA 开源，允许任何人免费使用、修改和分发它。您认为这就是开源人工智能的未来吗？你有什么想法？   由   提交 /u/conventionseeker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1gd5e/do_you_think_zuckerbergs_move_to_open_source_ai/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>没什么特别的，只是我展示我努力工作的图形引擎，它可以在任何计算机上运行</title>
       <link>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</link>
-      <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发者，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl    提交人    /u/hendrixstring   [link] [评论]]]></description>
+      <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发人员，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl   由   提交 /u/hendrixstring   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</guid>
       <pubDate>Sun, 26 May 2024 19:20:53 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
-      <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/wiki_me  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
       <pubDate>Sun, 26 May 2024 12:11:03 GMT</pubDate>
     </item>
@@ -92,21 +92,21 @@
     <item>
       <title>如何开始为开源做出贡献。</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</link>
-      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做贡献。但是，我在软件方面经验不多——我大约有 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我如何才能找到相对容易的任务（或更容易/更小的项目）来帮助我开始为开源做贡献？ 提前致谢。    提交人    /u/Zakariyyay   [link] [评论]]]></description>
+      <description><![CDATA[我是一名软件开发人员，我想开始为开源项目做出贡献。然而，我在软件方面的经验并不多——我有大约 2 年的经验，包括 9 个月的实习（主要是移动和后端）。那么，我怎样才能找到相对更容易的任务（或更容易/更小的项目）来完成，以帮助我开始进行开源贡献？提前致谢。   由   提交 /u/Zakariyyay   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0y9j1/how_to_get_started_with_contributing_to_open/</guid>
       <pubDate>Sun, 26 May 2024 10:13:30 GMT</pubDate>
     </item>
     <item>
-      <title>如何找到相对未知的开源存储库来做出贡献</title>
+      <title>如何找到相对不知名的开源存储库并做出贡献</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</link>
-      <description><![CDATA[嗨，我正在寻找一些我可能愿意为其做出贡献的相对不知名的开源存储库。但我发现很难找到。     提交人    /u/BlueBoxxx   [link] [comments]]]></description>
+      <description><![CDATA[嗨，我正在寻找相对未知的开源存储库，我可能会帮助贡献。但我发现它不太难找到。    由   提交/u/BlueBoxxx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0wg25/how_to_find_relatively_unknown_open_source/</guid>
       <pubDate>Sun, 26 May 2024 07:54:03 GMT</pubDate>
     </item>
     <item>
-      <title>python 和 React 的代码审查代理？</title>
+      <title>适用于 python 和 react 的代码审查代理？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</link>
-      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。&lt; /p&gt; 我想知道你的 Python/React 项目使用什么代码审查代理/工具。我正在寻找一个涵盖以下内容的内容：  命名约定和找到好名称 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。   由   提交/u/Alternative_Shape_74   [链接] [评论]]]></description>
+      <description><![CDATA[当我开始构建一个开源项目时，我希望能够尽可能地控制代码的质量和标准。 我想知道您对 Python/React 项目使用了什么代码审查代理/工具。我正在寻找一个可以涵盖以下内容的代理/工具：  命名约定和寻找好名字 检测错误 提高效率 最佳实践  此外，它应该与 GitHub、VSCode 或两者集成。    提交人    /u/Alternative_Shape_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0vou2/code_review_agent_for_python_and_react/</guid>
       <pubDate>Sun, 26 May 2024 06:58:20 GMT</pubDate>
     </item>
