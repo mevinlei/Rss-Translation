@@ -4,13 +4,41 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 28 May 2024 12:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:01:43 GMT</lastBuildDate>
     <item>
-      <title>世界领导人谴责拉法的致命袭击</title>
-      <link>https://www.nytimes.com/2024/05/27/world/middleeast/rafah-israel-strike-leaders-ceasefire.html</link>
-      <description><![CDATA[他们呼吁对这起袭击事件进行调查，加沙当局称此次袭击造成 45 人死亡，并加大了要求以色列结束在加沙南部军事行动的压力。]]></description>
-      <guid>https://www.nytimes.com/2024/05/27/world/middleeast/rafah-israel-strike-leaders-ceasefire.html</guid>
-      <pubDate>Tue, 28 May 2024 10:34:34 GMT</pubDate>
+      <title>教皇在有报道称他使用攻击性词语提及男同性恋后道歉</title>
+      <link>https://www.nytimes.com/2024/05/28/world/europe/pope-apology-slang-gay-men.html</link>
+      <description><![CDATA[方济各在上周与意大利主教们举行的闭门会议上发表了上述言论，其中涉及男同性恋者。]]></description>
+      <guid>https://www.nytimes.com/2024/05/28/world/europe/pope-apology-slang-gay-men.html</guid>
+      <pubDate>Tue, 28 May 2024 14:37:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“Forever Chemicals”您需要了解的六件事</title>
+      <link>https://www.nytimes.com/2024/04/10/climate/six-things-to-know-about-forever-chemicals.html</link>
+      <description><![CDATA[联邦政府正在下令从全国饮用水系统中去除 PFAS，这是一类对健康构成严重风险的化学物质。]]></description>
+      <guid>https://www.nytimes.com/2024/04/10/climate/six-things-to-know-about-forever-chemicals.html</guid>
+      <pubDate>Tue, 28 May 2024 13:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>行业律师警告称，PFAS 诉讼造成的损失可能超过石棉</title>
+      <link>https://www.nytimes.com/2024/05/28/climate/pfas-forever-chemicals-industry-lawsuits.html</link>
+      <description><![CDATA[据活动音频透露，在一次有关危险的“永久化学品”的行业演示会上，律师们预测将出现一波诉讼浪潮，这可能使石棉诉讼相形见绌。]]></description>
+      <guid>https://www.nytimes.com/2024/05/28/climate/pfas-forever-chemicals-industry-lawsuits.html</guid>
+      <pubDate>Tue, 28 May 2024 13:54:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的审判已进入最后阶段。接下来会发生什么。</title>
+      <link>https://www.nytimes.com/2024/05/28/nyregion/trump-trial-jury-deliberations.html</link>
+      <description><![CDATA[在审判的第七周，将进行结案陈词，并由陪审团开始审议。]]></description>
+      <guid>https://www.nytimes.com/2024/05/28/nyregion/trump-trial-jury-deliberations.html</guid>
+      <pubDate>Tue, 28 May 2024 13:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adam Neumann 放​​弃回购 WeWork</title>
+      <link>https://www.nytimes.com/2024/05/28/business/dealbook/adam-neumann-wework.html</link>
+      <description><![CDATA[这家共享办公室公司的联合创始人在公司破产前迫于压力辞职，并于今年早些时候宣布了一项大胆的收购要约。]]></description>
+      <guid>https://www.nytimes.com/2024/05/28/business/dealbook/adam-neumann-wework.html</guid>
+      <pubDate>Tue, 28 May 2024 13:08:42 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 表示已开始训练新的旗舰人工智能模型</title>
@@ -18,13 +46,6 @@
       <description><![CDATA[先进的人工智能系统将继承 GPT-4，后者为 ChatGPT 提供支持。该公司还成立了一个新的安全委员会来应对人工智能的风险。]]></description>
       <guid>https://www.nytimes.com/2024/05/28/technology/openai-gpt4-new-model.html</guid>
       <pubDate>Tue, 28 May 2024 10:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普刑事审判结案陈词以及对拉法罢工的强烈抗议</title>
-      <link>https://www.nytimes.com/2024/05/28/podcasts/trump-trial-israel-rafah-offensive.html</link>
-      <description><![CDATA[另外，人们还担心 SpaceX 的主导地位。]]></description>
-      <guid>https://www.nytimes.com/2024/05/28/podcasts/trump-trial-israel-rafah-offensive.html</guid>
-      <pubDate>Tue, 28 May 2024 10:00:07 GMT</pubDate>
     </item>
     <item>
       <title>刑事审判结束后，特朗普陷入了亡命之徒的形象</title>
@@ -50,7 +71,7 @@
     <item>
       <title>如果人工智能可以做你的工作，也许它也可以取代你的首席执行官</title>
       <link>https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html</link>
-      <description><![CDATA[首席执行官们也很容易受到打击员工的同样力量的影响。领导力很重要，但效率和削减成本也很重要。]]></description>
+      <description><![CDATA[首席执行官们也容易受到同样的影响员工的力量的影响。领导力很重要，但效率和削减成本也很重要。]]></description>
       <guid>https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html</guid>
       <pubDate>Tue, 28 May 2024 09:01:07 GMT</pubDate>
     </item>
@@ -62,21 +83,14 @@
       <pubDate>Tue, 28 May 2024 09:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆·马斯克在太空发射领域占据主导地位。竞争对手纷纷发难。</title>
+      <title>埃隆·马斯克主导太空发射。对手犯规。</title>
       <link>https://www.nytimes.com/2024/05/28/us/politics/elon-musk-space-launch-competition.html</link>
       <description><![CDATA[当美国政府担心其对一位反复无常的亿万富翁进入太空的依赖时，新的竞争对手表示，埃隆·马斯克 (Elon Musk) 的 SpaceX 正在采取旨在压制他们的策略。]]></description>
       <guid>https://www.nytimes.com/2024/05/28/us/politics/elon-musk-space-launch-competition.html</guid>
       <pubDate>Tue, 28 May 2024 09:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普封口费审判的辩护律师将开始结案陈词</title>
-      <link>https://www.nytimes.com/2024/05/28/nyregion/trump-trial-closing-arguments.html</link>
-      <description><![CDATA[轮到检察官后，案件最早可能在周三交由陪审团审理。]]></description>
-      <guid>https://www.nytimes.com/2024/05/28/nyregion/trump-trial-closing-arguments.html</guid>
-      <pubDate>Tue, 28 May 2024 07:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>伦敦采取行动重振其作为金融中心的声誉</title>
+      <title>伦敦努力恢复其金融中心声誉</title>
       <link>https://www.nytimes.com/2024/05/28/business/london-financial-center-ipo-europe.html</link>
       <description><![CDATA[随着人们越来越担心这座城市正在失去对上市企业的吸引力，英国政府正在做出改变以吸引它们回来。]]></description>
       <guid>https://www.nytimes.com/2024/05/28/business/london-financial-center-ipo-europe.html</guid>
@@ -90,25 +104,11 @@
       <pubDate>Tue, 28 May 2024 04:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>商业至上的香港现在有一个陷阱：北京政治</title>
-      <link>https://www.nytimes.com/2024/05/28/business/hong-kong-china-politics.html</link>
-      <description><![CDATA[这座被中国承诺享有一定自治权的城市正试图摆脱北京实施的安全法。公司正在认识到这并不总是可能的。]]></description>
-      <guid>https://www.nytimes.com/2024/05/28/business/hong-kong-china-politics.html</guid>
-      <pubDate>Tue, 28 May 2024 04:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普律师在文件案中抨击有限禁言令请求</title>
-      <link>https://www.nytimes.com/2024/05/27/nyregion/trump-documents-jack-smith-gag-order.html</link>
-      <description><![CDATA[关于这位前总统对持续的法律案件能说些什么的最新争论是在他错误地建议联邦调查局(FBI)调查之后发生的。特工搜查海湖庄园时被授权开枪射杀他。]]></description>
-      <guid>https://www.nytimes.com/2024/05/27/nyregion/trump-documents-jack-smith-gag-order.html</guid>
-      <pubDate>Tue, 28 May 2024 00:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从未在特朗普审判中作证的明星证人</title>
-      <link>https://www.nytimes.com/2024/05/27/nyregion/trump-trial-hush-money-weisselberg.html</link>
-      <description><![CDATA[唐纳德·J·特朗普的律师预计将强调特朗普前财务主管艾伦·韦塞尔伯格的缺席。但他因作伪证而入狱。]]></description>
-      <guid>https://www.nytimes.com/2024/05/27/nyregion/trump-trial-hush-money-weisselberg.html</guid>
-      <pubDate>Mon, 27 May 2024 23:16:14 GMT</pubDate>
+      <title>欧空局欧几里得望远镜的新图像搜索黑暗宇宙</title>
+      <link>https://www.nytimes.com/2024/05/23/science/euclid-telescope-images.html</link>
+      <description><![CDATA[欧洲航天局欧几里得望远镜的最新发布展示了该设备的功能。]]></description>
+      <guid>https://www.nytimes.com/2024/05/23/science/euclid-telescope-images.html</guid>
+      <pubDate>Thu, 23 May 2024 11:06:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
