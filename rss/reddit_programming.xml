@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 28 May 2024 03:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 06:12:12 GMT</lastBuildDate>
     <item>
-      <title>带传感器的 Modbus</title>
-      <link>https://www.reddit.com/r/programming/comments/1d286z9/modbus_with_sensors/</link>
-      <description><![CDATA[ 由   提交/u/AlgaeTh​​at7780   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d286z9/modbus_with_sensors/</guid>
-      <pubDate>Tue, 28 May 2024 01:50:11 GMT</pubDate>
+      <title>正则表达式与三元组索引匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1d2cmry/regular_expression_matching_with_a_trigram_index/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d2cmry/regular_expression_matching_with_a_trigram_index/</guid>
+      <pubDate>Tue, 28 May 2024 06:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用 JWT 作为身份验证令牌吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1d2cmis/should_i_use_jwts_for_authentication_tokens/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d2cmis/should_i_use_jwts_for_authentication_tokens/</guid>
+      <pubDate>Tue, 28 May 2024 06:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tantivy – 受 Apache Lucene 启发的全文搜索引擎库</title>
+      <link>https://www.reddit.com/r/programming/comments/1d2cm3j/tantivy_fulltext_search_engine_library_inspired/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d2cm3j/tantivy_fulltext_search_engine_library_inspired/</guid>
+      <pubDate>Tue, 28 May 2024 06:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用通知服务构建类似子堆栈的应用程序 - 实时列表更新和广播</title>
+      <link>https://www.reddit.com/r/programming/comments/1d2c76k/building_substacklike_application_with/</link>
+      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d2c76k/building_substacklike_application_with/</guid>
+      <pubDate>Tue, 28 May 2024 05:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Golang 是您公司的不错选择吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1d2c5ah/is_golang_a_good_choice_for_your_company/</link>
+      <description><![CDATA[ 由   提交 /u/kazmerdome   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d2c5ah/is_golang_a_good_choice_for_your_company/</guid>
+      <pubDate>Tue, 28 May 2024 05:38:21 GMT</pubDate>
     </item>
     <item>
       <title>工程经理的实践——掌握工作激励</title>
@@ -29,7 +57,7 @@
     <item>
       <title>C# 13：带来增强的参数和扩展类型</title>
       <link>https://www.reddit.com/r/programming/comments/1d227ty/c_13_brings_enhanced_params_and_extension_types/</link>
-      <description><![CDATA[ 由   提交/u/Puzzleheaded_Ad4030   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Puzzleheaded_Ad4030  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d227ty/c_13_brings_enhanced_params_and_extension_types/</guid>
       <pubDate>Mon, 27 May 2024 21:01:51 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>如何使用 python 永远保持活跃</title>
       <link>https://www.reddit.com/r/programming/comments/1d1ulws/how_to_stay_active_forever_using_python/</link>
-      <description><![CDATA[ 由   提交/u/OCEANOFANYTHING   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/OCEANOFANYTHING  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1ulws/how_to_stay_active_forever_using_python/</guid>
       <pubDate>Mon, 27 May 2024 15:48:29 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/TheDeveloper12345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1sgn2/bem_the_best_way_to_write_css/</guid>
       <pubDate>Mon, 27 May 2024 14:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>缓慢的工作需要时间</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1s9u1/slow_work_needs_time/</link>
-      <description><![CDATA[ 由   提交/u/wild-eagle  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1s9u1/slow_work_needs_time/</guid>
-      <pubDate>Mon, 27 May 2024 14:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版本MIR（轻量级JIT编译器）已经发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1s8bo/new_version_of_mir_light_weight_jit_compiler_has/</link>
-      <description><![CDATA[ 由   提交/u/compilersarefun  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1s8bo/new_version_of_mir_light_weight_jit_compiler_has/</guid>
-      <pubDate>Mon, 27 May 2024 14:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>隔离的 Web 应用程序实用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1rsez/isolated_web_app_utilities/</link>
-      <description><![CDATA[ 由   提交/u/guest271314  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1rsez/isolated_web_app_utilities/</guid>
-      <pubDate>Mon, 27 May 2024 13:41:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Go 的 html/template 实现类似 React 的组合</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1rjg4/implementing_reactlike_composition_using_gos/</link>
-      <description><![CDATA[ 由   提交/u/sheshbabu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1rjg4/implementing_reactlike_composition_using_gos/</guid>
-      <pubDate>Mon, 27 May 2024 13:29:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
