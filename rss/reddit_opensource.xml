@@ -3,10 +3,10 @@
   <channel>
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
-    <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 May 2024 00:38:48 GMT</lastBuildDate>
+    <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
+    <lastBuildDate>Tue, 28 May 2024 03:10:51 GMT</lastBuildDate>
     <item>
-      <title>如何营销 OSS 软件包</title>
+      <title>如何营销 OSS 包</title>
       <link>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</link>
       <description><![CDATA[   链接即将推出。我正在开发一个 NodeJS/Typescript 友好的包，以单元测试友好的方式读取环境变量。它提供验证、转换功能以及日志记录。  最大的动机是测试基于环境变量的 lambda 表达式的困难。它简单易用。没有 500 页的手册。 如何激发对 NPM 包的兴趣？   由   提交 /u/Top-Difference8407   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d22s26/how_to_market_oss_package/</guid>
@@ -20,9 +20,9 @@
       <pubDate>Mon, 27 May 2024 21:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试改进开源防病毒社区，结果如下：</title>
+      <title>我尝试改善开源防病毒社区，结果如下：</title>
       <link>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</link>
-      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件的误报规则，但仍然有很高的检测率，否则它是 45% 或更低）对零日恶意软件和少数误报 DrWeb 有 65%（Emisoft 在一次测试中令人惊讶地得到了 35%）Norton 89-90% Kaspersky 90-91% 官方 ClamAV 对非官方签名的检测率通常为 8-10%，我用 Malwarebazaar 样本测试的结果为 16-20%。如果 ClamAV 的检测率为 60%，那么我认为这个 AV 可能有 85% 或更高。网站签名约为 2160 万，其中有 1000 万个重复或误报或相同的域但子域已删除。它只支持 6 个 YARA 模块，只支持针对 PE 文件的机器学习。有 MBR 保护，但仅适用于 Windows。此外，编译此防病毒软件也是一项复杂的任务。这是 github repo：HydraDragonAntivirus/XylentOptionalScanner：跨平台防病毒 GUI，适用于 ClamAV、YARA 和我的机器学习 AI 模块以及 Snort (github.com) 这对开源防病毒社区来说是一个很好的进步。    提交人    /u/HydraDragonAntivirus   [链接] [评论]]]></description>
+      <description><![CDATA[虽然他有 45-55% 的检测率（我猜我没有减少 ELF 文件误报规则，但仍然有很高的检测率，否则它是 45 ％或更少）反对零日恶意软件，并且很少有误报 DrWeb有65％（Emisoft在一项测试中令人惊讶地得到了35％） Norton 89-90％ Kaspersky 90-91％ 官方ClamAV通常有8-10％的检测我用 Malwarebazaar 样本进行了测试，非官方签名的比率为 16-20%。如果 ClamAV 的检测率达到 60%，我认为该 AV 的检测率可能达到 85% 或更高。网站签名约为 2160 万个，其中有 1000 万个重复或误报或相同域但删除了子域。它仅支持 6 个 YARA 模块，并且仅支持机器学习 aganist PE 文件。有 MBR 保护，但仅适用于 Windows。编译这个防病毒软件也是一项复杂的任务。这是 github 存储库： HydraDragonAntivirus/XylentOptionalScanner：ClamAV、YARA 的跨平台防病毒 GUI 和我的机器学习 AI 模块也 Snort (github.com)&lt; /a&gt; 这对于开源防病毒社区来说是一个很好的进步。   由   提交 /u/HydraDragonAntivirus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d20ghg/i_tried_to_improve_the_open_source_antivirus/</guid>
       <pubDate>Mon, 27 May 2024 19:51:58 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>移除.bg API 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</link>
-      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交 /u/Agreeable_Ad6424   [链接] [评论]]]></description>
+      <description><![CDATA[是否有可靠且更便宜的remove.bg级别替代品？ remove.bg 的成本非常高，任何最好删除 png/svg 背景并且具有成本效益的东西。   由   提交/u/Agreeable_Ad6424   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d1idyp/removebg_api_alternatives/</guid>
       <pubDate>Mon, 27 May 2024 03:28:52 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Sun, 26 May 2024 21:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>没什么特别的，只是我展示了我在图形引擎上的辛勤工作，它可以在任何计算机上运行</title>
+      <title>没什么特别的，只是我展示我努力工作的图形引擎，它可以在任何计算机上运行</title>
       <link>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</link>
       <description><![CDATA[我希望得到一些支持和曝光，这样它就可以接触到志同道合的开发人员，他们可能会觉得它很有趣 https://github.com/micro-gl/micro-gl   由   提交 /u/hendrixstring   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d18wuf/nothing_special_just_me_showing_off_my_hard_work/</guid>
@@ -90,14 +90,14 @@
       <pubDate>Sun, 26 May 2024 17:37:49 GMT</pubDate>
     </item>
     <item>
-      <title>有哪些 Android 应用程序有子类别？</title>
+      <title>Android 应用程序有子类别吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</link>
-      <description><![CDATA[我正在寻找类似 Recipe Keeper 的应用，该应用允许我将食谱分类、子类别并将它们分配到合集。合集允许过滤食谱（可以有多个），子类别可以让你更好地组织。大照片也有助于选择菜肴，而不必阅读大量文字。不幸的是，我对该应用的性能和缺乏定制化感到不满意。我很感激任何建议 - 如果有办法为该应用开发另一个应用，如 note app，那也欢迎。我已经尝试了 Google Play 上的前 50 个食谱应用，也尝试过使用三星 notes，但它们太垂直了，无法使用。谢谢。    提交者    /u/EternalShadowBan   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找像 Recipe Keeper 这样的应用程序，它允许我将食谱分类为类别、子类别，并将它们分配到集合中。集合可以过滤您的食谱（可以有多个），而子类别可以让您更好地组织。大照片还有助于选择菜肴，而不是阅读大量文字。不幸的是，我对该应用程序的性能和缺乏自定义功能不满意。我将不胜感激任何建议 - 如果有一种方法可以减少另一个应用程序（例如笔记应用程序）的使用，也欢迎。我已经尝试过 Google Play 中的前 50 个食谱应用程序，并尝试过使用三星笔记，但这些应用程序太垂直而无法工作。谢谢。   由   提交 /u/EternalShadowBan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d16dwu/android_apps_that_have_subcategories/</guid>
       <pubDate>Sun, 26 May 2024 17:27:01 GMT</pubDate>
     </item>
     <item>
-      <title>开源英雄联盟 | 一次尝试</title>
+      <title>开源英雄联盟 |一次尝试</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</link>
       <description><![CDATA[ 由   提交/u/wiki_me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0zzl2/open_source_league_of_legends_an_attempt/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>是否有任何替代或更新的 uad（通用 Android debloater）分支？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</link>
-      <description><![CDATA[官方仓库已经死了好几个月了，我只是试图卸载我的 Android 手机中的一些臃肿的系统应用程序，但“卸载选择”却被删除了。按钮没有给出任何反应，所以......什么也没有发生。因为我已经使用过它很多次并且过去它工作得很好......所以我不认为我这边有什么问题。  &amp;# 32；由   提交/u/Biggus_Niggus_  [链接] [评论]]]></description>
+      <description><![CDATA[官方 repo 已经停用数月了，我刚刚尝试卸载 Android 手机中的一些臃肿系统应用程序，但“卸载选择”按钮没有任何反应，所以......什么都没发生。而且由于我已经多次使用它，并且过去它运行良好......所以我不认为我这边出了什么问题。    提交人    /u/Biggus_Niggus_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d0ysh4/is_there_any_alternative_or_updated_fork_of/</guid>
       <pubDate>Sun, 26 May 2024 10:52:43 GMT</pubDate>
     </item>

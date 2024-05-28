@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 28 May 2024 00:37:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:09:34 GMT</lastBuildDate>
+    <item>
+      <title>需要销售团队自动化电子邮件潜在客户的指导（初学者）</title>
+      <link>https://www.reddit.com/r/automation/comments/1d27a72/need_guidance_on_automating_email_leads_for_sales/</link>
+      <description><![CDATA[大家好， 我正在寻求一些有关自动化工作任务的帮助。我在销售团队中，我们都收到相同的电子邮件线索，其中包含可点击的链接。第一个点击的人领先，但我的旧笔记本电脑让我太慢了。 我没有任何编程知识，但我听说像 imaplib、 这样的工具&gt;BeautifulSoup 和 Python 中的 selenium 可以提供帮助。这就是我想要做的：  自动执行打开电子邮件和单击链接的过程。 随机化此操作，以便捕获大约 80% 的潜在客户。  li&gt; 使用 AI 自动回复这些线索。  我使用 Outlook 的网页版进行工作，我正在考虑在我的家用计算机上进行设置以避免工作中的怀疑。我的工作是否可以检测到我在两台计算机上登录或自动执行此过程？ 任何建议或帮助将不胜感激。谢谢！   由   提交 /u/JustCallMeBladeBro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1d27a72/need_guidance_on_automating_email_leads_for_sales/</guid>
+      <pubDate>Tue, 28 May 2024 01:01:14 GMT</pubDate>
+    </item>
     <item>
       <title>活动场地人流统计器</title>
       <link>https://www.reddit.com/r/automation/comments/1d1zl0s/people_counter_for_event_venue/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>GPT-4o vs. GPT-4 vs. Gemini 1.5 — 性能分析</title>
       <link>https://www.reddit.com/r/automation/comments/1cznqmh/gpt4o_vs_gpt4_vs_gemini_15_performance_analysis/</link>
-      <description><![CDATA[       由   提交/u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
+      <description><![CDATA[        由    /u/High_Sleep3694  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cznqmh/gpt4o_vs_gpt4_vs_gemini_15_performance_analysis/</guid>
       <pubDate>Fri, 24 May 2024 15:41:02 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>自动化内部问答</title>
       <link>https://www.reddit.com/r/automation/comments/1cyurbo/automate_internal_qa/</link>
-      <description><![CDATA[        提交人    /u/Short-Bird-4906   [链接] [评论] ]]></description>
+      <description><![CDATA[     &lt; td&gt; 由   提交/u/Short-Bird-4906   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cyurbo/automate_internal_qa/</guid>
       <pubDate>Thu, 23 May 2024 14:55:17 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[   /u/High_Sleep3694   [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1cxhrbz/the_new_ai_windows_will_change_how_we_use/</guid>
       <pubDate>Tue, 21 May 2024 20:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有像 Tiny Task for Windows 这样的 iOS 应用程序？</title>
-      <link>https://www.reddit.com/r/automation/comments/1cx7247/is_there_a_app_for_ios_like_tiny_task_für_windows/</link>
-      <description><![CDATA[嗨，我只是在寻找一款与 Tiny Task 功能相同的 iOS 应用程序。记录我的输入并重复它们。我在网上没有找到任何东西。感谢您的帮助。    由   提交/u/iNFiNiTiYoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1cx7247/is_there_a_app_for_ios_like_tiny_task_für_windows/</guid>
-      <pubDate>Tue, 21 May 2024 12:47:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

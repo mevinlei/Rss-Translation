@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 28 May 2024 00:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 03:10:27 GMT</lastBuildDate>
+    <item>
+      <title>带传感器的 Modbus</title>
+      <link>https://www.reddit.com/r/programming/comments/1d286z9/modbus_with_sensors/</link>
+      <description><![CDATA[ 由   提交/u/AlgaeTh​​at7780   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1d286z9/modbus_with_sensors/</guid>
+      <pubDate>Tue, 28 May 2024 01:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>工程经理的实践——掌握工作激励</title>
       <link>https://www.reddit.com/r/programming/comments/1d23pkr/engineering_managers_practice_mastering/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>隔离的 Web 应用程序实用程序</title>
       <link>https://www.reddit.com/r/programming/comments/1d1rsez/isolated_web_app_utilities/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/guest271314  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1rsez/isolated_web_app_utilities/</guid>
       <pubDate>Mon, 27 May 2024 13:41:11 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/sheshbabu  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1d1rjg4/implementing_reactlike_composition_using_gos/</guid>
       <pubDate>Mon, 27 May 2024 13:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>大数据已死</title>
-      <link>https://www.reddit.com/r/programming/comments/1d1qia0/big_data_is_dead/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1d1qia0/big_data_is_dead/</guid>
-      <pubDate>Mon, 27 May 2024 12:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
