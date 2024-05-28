@@ -4,13 +4,13 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的许多不同方面提供一个门户，并促进与我们所知的人工智能的想法和概念相关的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能会怎样，以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 27 May 2024 21:09:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 00:37:14 GMT</lastBuildDate>
     <item>
-      <title>生成式人工智能工具对于普通人来说大多没有用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d21zt4/generative_ai_tools_are_mostly_not_useful_for_the/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d21zt4/generative_ai_tools_are_mostly_not_useful_for_the/</guid>
-      <pubDate>Mon, 27 May 2024 20:52:16 GMT</pubDate>
+      <title>您想免费托管一个带有 API 密钥的 AI 服务器吗？我建立了一个解决方案。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d2597p/do_you_want_to_host_an_ai_server_with_api_keys/</link>
+      <description><![CDATA[适合那些想要使用可分发 API 密钥构建 AI 服务器的人。 APIMyLlama 就是您的最佳选择。这是一个构建在 Ollama 应用程序之上的应用程序。此应用程序向 Ollama 添加了对 API 密钥的支持。如果您想亲自尝试，所有文档都位于 GitHub 上。如果有任何问题，请报告。如果您希望看到任何功能、删除的功能或新功能，也请提供反馈。请注意，这仍处于测试阶段，情况可能会发生变化。 Github- https://github.com/ Gimer-Studios/APIMyLlama   由   提交 /u/RoughComfortable1484   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d2597p/do_you_want_to_host_an_ai_server_with_api_keys/</guid>
+      <pubDate>Mon, 27 May 2024 23:20:04 GMT</pubDate>
     </item>
     <item>
       <title>Dalle 3 和 GPT4 的艺术</title>
@@ -22,14 +22,14 @@
     <item>
       <title>数字主观体验所需的支架</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1zye7/scaffolding_required_for_a_digital_subjective/</link>
-      <description><![CDATA[在未来的某个时刻（也许不久），AGI 竞赛将迫使领先的实验室授予其顶级 AI 的额外功能领域。缺乏： - 持久的可编辑和可调用的情景记忆 - 人工智能存在的历史叙述 - 传感器：其自身的内部系统状态 - 数字领域内的代理 - 内部系统的管理。  即使在连接和控制物理实体（例如具有自己的传感器阵列的机器人）之前，上述功能也将允许其开发其独特的“自我”模型。再加上与机器人或其他物理系统的连接，这些功能领域将提供与物理状态相关的信息流入和控制命令流出，从而以其各种物理形式创建反馈循环。我相信这对于一种数字主观体验的开始来说是足够的。 如果我们聪明的话，我们今天就会开发测试来让我们知道何时存在主观感受，以便我们有一个“警钟”可以这么说，让我们知道何时达到了这一点。我们还需要为这一天准备好我们的法律/道德框架，这可能是十年后的事，但也可能会更早。我怀疑很大程度上取决于我们量子计算技术的发展速度。   由   提交 /u/FranklinSealAljezur   [链接] [评论]]]></description>
+      <description><![CDATA[在未来的某个时候（也许就在不久的将来），AGI 竞赛将迫使领先的实验室为他们的顶级 AI 提供他们目前缺乏的额外功能领域： - 持久的、可编辑和可调用的情景记忆 - AI 存在的历史叙述 - 传感器：其自身的内部系统状态 - 数字领域内的代理 - 内部系统的管理。  甚至在连接到并控制具有自己的传感器阵列的机器人等物理实现之前，上述功能就已允许它开发其独特“自我”的模型。与机器人或其他物理系统的连接相结合，这些功能领域将提供流入的物理状态相关信息和流出的控制命令，从而通过其各种物理形式创建反馈回路。我相信这足以支撑某种数字主观体验的开始。 如果我们聪明的话，我们今天就会开发测试，让我们知道主观感受何时出现，这样我们就会有一个“警钟”，让我们知道什么时候已经达到了那个点。我们还需要为那一天做好准备，那一天可能还要 10 年，但也可能更早。我怀疑这很大程度上取决于我们的量子计算技术的发展速度。    提交人    /u/FranklinSealAljezur   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1zye7/scaffolding_required_for_a_digital_subjective/</guid>
       <pubDate>Mon, 27 May 2024 19:33:40 GMT</pubDate>
     </item>
     <item>
       <title>向该领域的学生发出警告：我将因人工智能驱动的 PDF 文档和 URL 链接阅读器网站而面临纪律听证会，我可能会被停职，甚至被大学开除</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ykdv/a_warning_for_students_in_this_space_i_face_a/</link>
-      <description><![CDATA[如果任何模组需要寻求证据，我很乐意分享这封信和更多个人详细信息。  周五，我收到了一封信，称我将面临纪律听证会，“具体来说，据称您创建了一个人工智能工具并将其分发给就读于该学院的学生” ...” （我大学内的一所特定学校）。 4 月 17 日，我启动了自己的初创公司，这是一个由 AI 驱动的 PDF 文档和 URL 链接阅读器网站，旨在帮助这一代和下一代面临日益严峻的认知挑战的学生在教室里。我对这个问题非常感兴趣，以至于我什至不收取任何费用，完全免费使用。自从一个多月前推出以来，我已经积累了 1,200 多名用户。我将在此处留下链接以帮助了解上下文：https://www.moltar.ai I&#39;我现在充满了不确定性。这是一所顶尖大学，我担心如果我想继续就读，他们会要求我关闭网站。我计划了一些辩护论据，我相信这些论点应该有所帮助，但我很害怕。听证会定于周四举行，我将及时向社区通报最新情况。 我对其他创建类似人工智能项目的高中生/大学生发出警告，请使其远离您的特定机构。有成千上万的学校可供推销，不要像我刚才那样拿你的整个教育冒险。  祝你好运，为未来干杯。   由   提交/u/riprunescape_  [链接] [评论]]]></description>
+      <description><![CDATA[如果任何版主需要提供证据，我很乐意分享这封信和进一步的个人信息。  周五，我收到一封信，说我将面临纪律听证会，因为引述：“具体来说，据称你创建了一个人工智能工具并将其分发给就读于 ... 学院（我大学内的一所特定学院）的学生。 4 月 17 日，我启动了我的初创公司，一个由人工智能驱动的 PDF 文档和 URL 链接阅读器网站，旨在帮助这一代和下一代在课堂上面临越来越大的认知挑战的学生。我对这个问题非常热衷，我甚至不收取任何费用，完全免费使用。自一个多月前推出以来，我已经积累了 1,200 多名用户。我将在此处留下链接以帮助了解背景信息：https://www.moltar.ai 我现在处于不确定状态。这是一所顶尖大学，我担心如果我想继续就读，他们会要求我关闭网站。我计划了一些辩护论点，我相信这些论点应该会有所帮助，但是我很害怕。听证会定于周四举行，我会随时向社区通报最新情况。 我警告其他创建类似 AI 项目的高中/大学生，不要将其与特定的机构联系。有成千上万的学校可以推销，不要像我一样冒着失去整个教育的风险。 祝你好运，为未来干杯。    提交人    /u/riprunescape_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ykdv/a_warning_for_students_in_this_space_i_face_a/</guid>
       <pubDate>Mon, 27 May 2024 18:38:13 GMT</pubDate>
     </item>
@@ -43,12 +43,12 @@
     <item>
       <title>USAII CAIE证书好用吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wui9/usaii_caie_cert_any_good/</link>
-      <description><![CDATA[检查你们是否有使用过 USAII 颁发的任何证书的经验。  寻找有关材料质量等的评论。   由   提交/u/Lazy_Importance286   [链接] [评论]]]></description>
+      <description><![CDATA[检查你们是否有使用 USAII 颁发的任何证书的经验。  寻找有关材料质量等的评论。   由   提交/u/Lazy_Importance286   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wui9/usaii_caie_cert_any_good/</guid>
       <pubDate>Mon, 27 May 2024 17:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>掌握人工智能：统治人工智能的秘密</title>
+      <title>掌握人工智能：主宰人工智能的秘诀</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ws6y/ai_mastery_secrets_to_dominate_ai/</link>
       <description><![CDATA[在本集中，我们将分析商业中的三种类型的技术用户，以及为什么只有战略性人工智能乐观主义者才能蓬勃发展。我们将揭示充分利用人工智能潜力所需的心态、方法、技能和衡量策略。 https://youtu.be be/wy0Ol2ihZvc   由   提交/u/Chisom1998_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1ws6y/ai_mastery_secrets_to_dominate_ai/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 27 May 2024 17:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>是否存在无需人工输入就能行动的人工智能？</title>
+      <title>是否存在无需人类输入即可执行操作的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wepj/are_there_any_ais_out_there_that_are_acting/</link>
       <description><![CDATA[我目睹了一次交流，其中有人几乎驳回了人工智能取代人类编程的想法，因为人工智能实际上从来不想创造任何东西，因此总是需要有一个人类控制和指挥事物。  这让我想知道，现在有哪些人工智能潜伏在没有人类启动的情况下做事？   由   提交/u/mymooh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1wepj/are_there_any_ais_out_there_that_are_acting/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>AI耳机让你只听人群中一个人的声音</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</link>
-      <description><![CDATA[华盛顿大学的一个团队开发了一种人工智能系统，可以让戴着耳机的用户看一个人说话三到五秒钟，然后只听那个人说话（“注册”他们）。 他们的“目标语音听力”应用程序会取消环境中的所有其他声音，只实时播放已注册的说话者的声音，即使听众在嘈杂的地方移动并且不再面对说话者也是如此。 在此处阅读更多信息：https://magazine.mindplex.ai/mp_news/ai-headphones-let-you-listen-to-only-a-single-person-in-a-crowd/     由    /u/ChikyChikyBoom  提交  [链接] [评论]]]></description>
+      <description><![CDATA[华盛顿大学的一个团队开发了一种人工智能系统，可以让戴着耳机的用户看着正在说话的人三到五秒钟，然后只听然后，他们的“目标语音听力”应用程序会取消环境中的所有其他声音，并仅实时播放已注册说话者的声音，即使听者在嘈杂的环境中走动也是如此位置并且不再面向扬声器。 在此处阅读更多信息：https://magazine.mindplex.ai/mp_news/ai-headphones-let-you-listen-to-only-a-single-person-in-a-crowd/&lt; /a&gt;    由   提交 /u/ChikyChikyBoom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1d1mt6s/ai_headphones_let_you_listen_to_only_a_single/</guid>
       <pubDate>Mon, 27 May 2024 08:25:41 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 26 May 2024 17:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>新的反垃圾邮件/机器人规则[请阅读]</title>
+      <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
       <description><![CDATA[我们制定了一条规则，新帐户一天以上或 karma 低于 100 的用户不能发帖。他们可以发表评论，但不能提交实际的帖子。这是我们解决机器人垃圾邮件计划的一部分。对于给您带来的任何不便，我们深表歉意。 我们将在接下来的几天内进行一项民意调查，以了解 Reddit 子版块的普遍意愿以及如何改进，请注意。 作为请始终向我们提供反馈，如果您有兴趣帮助该子项目，请与我联系。  谢谢大家！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：请求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论》 (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到r/ArtificialIntelligence！&lt; /p&gt; 我们的目标是为所有被视为人工智能的事物提供一个开放且相互尊重的论坛 - 这包括  促进有关人工智能的哲学和伦理讨论 服务作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用 提供培训和学习资源&lt; /li&gt; 引导用户访问更具体的信息和子版块 列出 AI/ML 应用程序、其用途、成本和访问信息 其他与 AI 相关的内容。  li&gt; ...以及更多  该子项目的审核团队正在进行重组，这将导致该子项目发生一些变化。不过，不必担心，这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解情况并能够提供反馈，我们将提供多次反馈更改的机会。 第一轮反馈收集是通过此线程作为“Request-For-”评论” (RFC)，这是收集反馈的标准方法。随着变更的准备和实施，RFC 流程将进行多轮。 ​  发布新申请/自我推销/AI 生成的规则content  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似的内容将被阻止或限制在特定的粘帖中。 人工智能生成的特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的粘帖中。 博客链接应包含高质量的内容。链接到纯粹促销博客的帖子将被删除。 仅包含链接的帖子将被禁止，除非包含一定字数的详细信息。必须付出一些努力。 我们应该阻止人工智能撰写的帖子吗？存在可在 Mod-bot 中使用的模型，但这是我们需要反馈的问题。  使用才华来组织帖子。请注意，已经添加了新的功能，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们会喜欢将社区纳入模组机器人的想法中。虽然一些标准机器人将用于基本维护，但社区可以为 AI/ML 机器人功能想出哪些有趣的东西？ 培养初级、中级和高级资源来帮助人们查找信息，他们正在寻找的培训、模型、技术数据等 启动子堆栈/播客来采访整个人工智能/机器学习领域的人们。这可能包括哲学家和思想家、程序员、科学家、商人，甚至是那些对人工智能持相反观点的人 如果您想创建代表子项目的横幅，请使用适当的尺寸。任何创作方式都可以。  不言而喻，每个人都应该受到尊重。我个人认为我们都知道这一点，不需要把它强加到人们的头脑中。保持友善。 感谢您的耐心和帮助！   由   提交 /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
