@@ -1,102 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN总结</title>
+    <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
-    <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 28 May 2024 15:07:25 GMT</lastBuildDate>
+    <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
+    <lastBuildDate>Tue, 28 May 2024 21:03:55 GMT</lastBuildDate>
     <item>
-      <title>[媒体]上周，我辞去了美国内政部的职务 [...]</title>
-      <link>https://t.me/hn_summary/91864</link>
-      <description><![CDATA[我作为一名犹太裔美国人因加沙问题从拜登政府辞职
-上周，我辞去了美国内政部的职务，成为第一位公开抗议拜登总统支持加沙种族灭绝的犹太政治任命官员，那里有超过 35,000 名巴勒斯坦人被杀害。我做出这一决定是因为我相信拜登将犹太人的安全武器化，以避免对他在冲突中所扮演的角色承担责任。我的犹太传统以迫害和生存为标志，这迫使我公开反对持续的暴力。我对犹太和巴勒斯坦活动人士的共同努力感到鼓舞，并对拜登拒绝呼吁停火或结束对加沙的围困感到沮丧。这届政府曾经是希望的象征，现在让我作为一个美国犹太人感到不安全。]]></description>
-      <guid>https://t.me/hn_summary/91864</guid>
-      <pubDate>Tue, 28 May 2024 15:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 你有没有想过，参与到城市之外的移动生态系统会是什么样的感觉？ [...]</title>
-      <link>https://t.me/hn_summary/91863</link>
-      <description><![CDATA[最后一个替代大型科技的新开源移动生态系统
-您是否想过在大型科技巨头的监视之外参与移动生态系统会是什么样子？欢迎来到 Mobifree，这是一个以人为本、符合道德的替代方案，倡导隐私、协作和包容性。 F-Droid 是用户和开发者权利的长期倡导者，很高兴成为这个新生态系统的一部分。 Mobifree 旨在为 Android 应用程序提供去中心化的分发系统，为用户提供真正的选择和隐私。世界各地的政府和监管机构正在采取措施遏制大型科技公司的主导地位，而 Mobifree 准备利用这些机会打造更公平、更可持续的移动体验。欢迎访问 f-droid.org 加入我们这一激动人心的运动.]]></description>
-      <guid>https://t.me/hn_summary/91863</guid>
-      <pubDate>Tue, 28 May 2024 15:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] T-Mobile 收购美国大部分地区</title>
-      <link>https://t.me/hn_summary/91862</link>
-      <description><![CDATA[T-Mobile 以 4.4 亿美元的交易收购 U.S. Cellular 的大部分股权​​&lt; /a&gt;
-T-Mobile 宣布计划以 44 亿美元的交易收购 U.S. Cellular 的大部分股权​​，其中包括现金和高达 20 亿美元的债务。此次收购将使 T-Mobile 接管 U.S. Cellular 的商店、部分频谱资产和客户。该交易旨在增强农村地区的覆盖范围并改善美国移动客户的连接。值得注意的是，U.S. Cellular 将保留 70% 的频谱和信号塔，并向 T-Mobile 租赁另外 2,100 个信号塔的空间。该交易预计将于 2025 年中期完成。此前，T-Mobile 最近以 13.5 亿美元收购了 Mint Mobile 的母公司 Ka&#39;ena。]]></description>
-      <guid>https://t.me/hn_summary/91862</guid>
-      <pubDate>Tue, 28 May 2024 14:56:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在这篇题为“向 HN 展示：获得 LLM Observabil 所需的只是 Prometheus 和 Jaeger”的文章中 [...]</title>
-      <link>https://t.me/hn_summary/91861</link>
-      <description><![CDATA[Show HN：您需要的只是 Prometheus 和 Jaeger 来实现 LLM 可观察性
-在这篇题为“Show HN：您需要的只是 Prometheus 和 Jaeger 来实现 LLM 可观察性”的文章中，作者介绍了一个使用 Prometheus 和 Jaeger 监控大型语言模型 (LLM) 和矢量数据库的综合仪表板。该仪表板使用 OpenLIT 构建，可跟踪 OpenTelemetry 跟踪和指标，提供对 LLM 和 VectorDB 请求率的洞察。面板配置为显示实时数据，并使用颜色编码阈值以便于解释。独特的功能包括与 OpenLIT 的集成以及使用 Prometheus 进行数据采购。提供了文档和 GitHub 链接以供进一步探索。值得注意的是，该设置设计为用户友好且高度可定制。 （根据 8% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/91861</guid>
-      <pubDate>Tue, 28 May 2024 14:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]爱情咒语和致命的尖叫：曼德拉草插图（Ca.</title>
-      <link>https://t.me/hn_summary/91860</link>
-      <description><![CDATA[爱情咒语和致命的尖叫声：曼德拉草插图（约 650– 1927）
-曼德拉草的根、叶和黄色果实含有致幻的托烷生物碱，可引起从视力模糊到呕吐等一系列症状。大剂量时，这些生物碱会起到麻醉剂的作用，导致暂时性麻痹、意识不清、谵妄和幻觉。从历史上看，曼德拉在古代被用作麻醉剂，莫德·格里夫在《现代草药》（1931）中指出，病人在手术前咀嚼曼德拉的根。此外，它还因其催吐、催情和镇静作用而受到重视，可以治疗风湿病和忧郁症等疾病。公元前 400 年左右的希波克拉底建议在葡萄酒中加入小剂量的酒，以缓解深度抑郁和焦虑。]]></description>
-      <guid>https://t.me/hn_summary/91860</guid>
-      <pubDate>Tue, 28 May 2024 14:44:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体]OpenAI 成立了一个新的安全团队，由首席执行官 Sam Altman 领导，董事会成员 [...]</title>
-      <link>https://t.me/hn_summary/91859</link>
-      <description><![CDATA[OpenAI 成立了一个新的安全团队——由 Sam Altman 管理
-OpenAI 成立了一个新的安全团队，由首席执行官 Sam Altman 领导，董事会成员 Adam D’Angelo 和 Nicole Seligman 也参与其中。该团队将为 OpenAI 项目的关键安全决策提供建议。他们的首要任务是评估和增强 OpenAI 的安全流程，并向董事会提交他们的调查结果，董事会包括安全团队的所有三位负责人。此前，联合创始人 Ilya Sutskever 和 Jan Leike 等关键人物离职，他们批评该公司优先考虑产品开发而不是安全。此外，OpenAI 正在测试一种新的人工智能模型，尽管尚未确认它是否是 GPT-5。有争议的是，OpenAI 的新 ChatGPT 语音 Sky 听起来像斯嘉丽约翰逊，但她否认参与其中，这引起了人工智能爱好者的担忧。尽管 OpenAI 成立了新的安全团队，但人们对 OpenAI 解决安全问题的承诺仍然存在怀疑。]]></description>
-      <guid>https://t.me/hn_summary/91859</guid>
-      <pubDate>Tue, 28 May 2024 14:43:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 弗吉尼亚州干草市场。</title>
-      <link>https://t.me/hn_summary/91858</link>
-      <description><![CDATA[道路规划者拥抱非常规交叉路口
-在弗吉尼亚州干草市场，司机在接近 66 号州际公路非传统钻石分叉立交桥 (DDI) 时可能会感到迷失方向，他们会短暂地靠道路左侧行驶。 DDI 由交通工程师 Gilbert Chlewicki 发明，旨在通过消除迎面而来的交通冲突，使左转更安全、更高效。尽管最初存在怀疑和安全担忧，但该设计已被证明是有效的，可将碰撞事故减少 40-50%，并缓解交通拥堵。虽然一些司机仍然感到担忧，但另一些司机则称赞其效率。 DDI 于 2009 年首次在密苏里州实施，现已在美国各地广泛应用，Chlewicki 继续在交通设计方面进行创新。]]></description>
-      <guid>https://t.me/hn_summary/91858</guid>
-      <pubDate>Tue, 28 May 2024 14:41:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：grooved.okat.best</title>
-      <link>https://t.me/hn_summary/91857</link>
-      <description><![CDATA[显示 HN：我制作了一个免费的应用程序来校准您的转盘，只需播放歌曲
-标题：Show HN：我制作了一个免费的应用程序，只需播放歌曲即可校准您的转盘
-网站：grooved.okat.best
+      <title>[媒体] 标题：Show HN：Chrome 扩展程序为 Azure 门户添加实用功能</title>
+      <link>https://t.me/hn_summary/91938</link>
+      <description><![CDATA[Show HN：Chrome 扩展程序为 Azure 门户添加实用功能
+标题：Show HN：Chrome 扩展程序为 Azure 门户添加实用功能
 
-免费，无广告。
-
-您是否曾经觉得现代文案已经变得过于自我意识，用真诚的幽默换取表面的乐趣？这就好像公司已经采用了“眨眼我们也很有趣！”方法，充满了没有切中要害的双关语。对于大型企业来说，这种趋势似乎格格不入，让他们在相关性方面的尝试显得空洞。
-
-另一方面，我创建了 Grooved，这是一款可以帮助您轻松校准转盘的应用程序。只需播放一首歌曲，使用 Grooved 对其进行分析，然后调整您的转盘即可。该应用程序在本地处理所有内容，确保您的隐私。与其他应用程序不同，Grooved 不需要您的电话号码，只需扫描二维码即可下载。目前，Grooved for Android 处于内测阶段，计划于 6 月发布。在 Mastodon 或 Twitter 上关注我以获取更新。]]></description>
-      <guid>https://t.me/hn_summary/91857</guid>
-      <pubDate>Tue, 28 May 2024 14:39:42 GMT</pubDate>
+此 Chrome 扩展程序通过引入几个实用功能增强了 Azure 门户 (https://portal.azure.com)。它将门户的图标替换为正在访问的特定 Azure 资源或服务的图标，并在资源部署或删除等冗长的过程中使图标闪烁。此外，它会在流程完成后发送桌面通知，并自动将 Azure 门户选项卡置于最前面。最近的更新包括以各种格式复制资源信息的能力（v0.0.5）、实验性功能和改进（v0.0.4）、错误修复（v0.0.3）以及对其他来源的支持，如preview.portal.azure.com和ms.portal.azure.com（v0.0.2）。]]></description>
+      <guid>https://t.me/hn_summary/91938</guid>
+      <pubDate>Tue, 28 May 2024 21:03:55 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]标题：素食可显着降低癌症、心脏病和死亡的风险</title>
-      <link>https://t.me/hn_summary/91856</link>
-      <description><![CDATA[素食可显着降低患癌症、心脏病和死亡的风险
-标题：素食可显着降低癌症、心脏病和死亡的风险
-
-网站：www.cnn.com
-
-CNN — 根据对 20 多年研究的综合分析，采用纯素、素食或乳蛋素食可以显着降低患癌症、心脏病和心血管疾病早逝的风险。这篇“伞”综述综合了众多研究的结果，强调了植物性饮食对各种癌症以及血压和胆固醇等心血管危险因素的保护作用。然而，不良的饮食选择可能会削弱这些好处，例如食用果汁和精制谷物等不健康的植物性食品。值得注意的是，该研究发现对孕妇没有任何好处，这是一个有趣的发现，值得进一步研究。此外，素食者和纯素食者需要确保摄入足够的某些营养素，例如维生素 B12、铁和蛋白质，这些营养素在动物产品中更容易获得。]]></description>
-      <guid>https://t.me/hn_summary/91856</guid>
-      <pubDate>Tue, 28 May 2024 13:54:24 GMT</pubDate>
+      <title>[媒体] 谷歌的搜索算法是互联网的关键系统，长期以来一直被笼罩在[...]</title>
+      <link>https://t.me/hn_summary/91937</link>
+      <description><![CDATA[谷歌不会对其搜索算法文档可能泄露一事发表评论
+谷歌的搜索算法是互联网上的关键系统，长期以来一直笼罩在神秘之中。最近，数千份内部文件被泄露，据称揭示了谷歌如何对网站进行排名，这表明该公司多年来可能一直在误导公众。SEO 专家 Rand Fishkin 收到了 2,500 页文件，其中详细介绍了谷歌的搜索 API 及其收集的数据。这些文件对谷歌的公开声明提出了质疑，特别是关于使用 Chrome 数据和 E-E-A-T 指标的问题。尽管多次提出要求，谷歌仍未对这些文件的合法性发表评论。Fishkin 批评媒体不加批判地接受谷歌的说法，并敦促加强审查。]]></description>
+      <guid>https://t.me/hn_summary/91937</guid>
+      <pubDate>Tue, 28 May 2024 21:02:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：让我们摧毁 C</title>
-      <link>https://t.me/hn_summary/91855</link>
-      <description><![CDATA[让我们摧毁 C
-标题：让我们摧毁C
+      <title>[媒体] 在本文中，作者深入研究了 N+1 查询问题，一个常见的表现是 [...]</title>
+      <link>https://t.me/hn_summary/91936</link>
+      <description><![CDATA[消除 N+1：Go 中的两阶段数据加载和渲染模式
 
-我有一个名为 CNoEvil 的古怪项目，旨在通过忽略所有传统编程规则将 C 转换为一种新语言。这个想法是滥用 C 的功能，使其看起来和行为像一种高级语言，类似于 Lisp 或 Forth。例如，我们使用宏来简化语法，例如用 displayln 替换 printf 以及隐藏 argc 和 argv。我们甚至使用巧妙的宏技巧来引入 lambda 和协程。这种方法使 C 看起来更像是一种脚本语言，同时保留了其核心功能。然而，这种方法存在争议，由于其潜在的危险和复杂性，不推荐用于生产代码。]]></description>
-      <guid>https://t.me/hn_summary/91855</guid>
-      <pubDate>Tue, 28 May 2024 13:36:12 GMT</pubDate>
+在本文中，作者深入探讨了 N+1 查询问题，这是 Web 应用程序中常见的性能问题，其中多个数据库查询执行效率低下。本文首先使用 Ruby on Rails 中的 Product 模型示例解释 N+1 查询，说明延迟加载如何导致过多的数据库调用。然后，作者分享了 Stripe 使用 Ruby 光纤批量处理数据库操作的创造性解决方案，尽管代码很复杂，但仍显着降低了延迟。
+
+
+本文转而讨论 Go，强调其冗长和缺乏复杂的 ORM 支持，这使数据加载变得复杂，并使 N+1 问题更难解决。作者介绍了他们当前 Go 代码库中使用的两阶段数据加载和渲染模式，该模式在两年的使用中有效地消除了 N+1 问题。这种模式虽然冗长，但因其在处理数据加载方面的可靠性和效率而受到称赞。
+
+令人惊讶/聪明的方面：Stripe 创新地使用 Ruby 纤维来批量处理数据库操作并减少 N+1 查询问题特别聪明，并凸显了开发人员有时为优化性能所付出的努力。
+
+争议点：对 Go 冗长和缺乏 ORM 复杂性的批评可能会在欣赏该语言的简单性和明确性的 Go 爱好者中引起争议。（基于 38% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/91936</guid>
+      <pubDate>Tue, 28 May 2024 20:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Algorithmica 是一本开放获取的网络图书，专注于计算的艺术与科学，由 [...]</title>
+      <link>https://t.me/hn_summary/91935</link>
+      <description><![CDATA[Algorithmica
+Algorithmica 是一本开放获取的网络书籍，专注于计算的艺术和科学，由 Sergey Slotin 和 Tinkoff Generation 的教育工作者和学生共同创作，Tinkoff Generation 是一个非营利组织，培养了许多俄罗斯信息学奥林匹克决赛选手。英文版仍在开发中，主要资源是“现代硬件算法”的不断发展的草稿。俄语版更全面，包含创作者积极使用的各种课程材料。如果您发现任何错误，我们鼓励您直接在 GitHub 上报告或更正。]]></description>
+      <guid>https://t.me/hn_summary/91935</guid>
+      <pubDate>Tue, 28 May 2024 20:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果年度全球开发者大会 (WWDC) 将于 2024 年 6 月 10 日拉开帷幕，届时 [...]</title>
+      <link>https://t.me/hn_summary/91934</link>
+      <description><![CDATA[WWDC 将于 6 月 10 日以主题演讲拉开帷幕
+Apple 的年度全球开发者大会 (WWDC) 将于 2024 年 6 月 10 日以主题演讲拉开帷幕，承诺一周充满技术创新。这场在线活动将于 6 月 10 日至 14 日举行，将为开发者提供有关 iOS、iPadOS、macOS、tvOS、visionOS 和 watchOS 最新更新的见解。主题演讲和平台国情咨文将进行现场直播，稍后提供点播回放。开发者可以与 Apple 专家一起参加 100 多场技术会议、咨询和现场论坛。亮点包括 Swift 学生挑战赛和 Apple 设计奖，庆祝下一代技术专家和出色的应用设计。有关更多详细信息，请访问 Apple Developer 应用程序或 developer.apple.com。]]></description>
+      <guid>https://t.me/hn_summary/91934</guid>
+      <pubDate>Tue, 28 May 2024 20:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shadama 是一个多功能粒子模拟编程环境，专为可访问性而设计，[...]</title>
+      <link>https://t.me/hn_summary/91933</link>
+      <description><![CDATA[Shadama：适合所有人的粒子模拟编程环境
+Shadama 是一个多功能的粒子模拟编程环境，专为无障碍设计，利用 WebGL 2.0 和 OpenGL 着色语言 3.0 等 Web 技术。它利用 Ohm 库将 Shadama 程序转换为顶点着色器、片段着色器和 JavaScript 代码。Shadama 的语言灵感来自 StarLogo，使用“海龟”和“补丁”来模拟。海龟按具有属性和方法的品种组织，而补丁是存储值的 2D 网格。Shadama 支持各种用于操作海龟属性和补丁的原语，并强调并行性，尽管对同一补丁单元的并发写入是不确定的。独特功能包括将 2D 图像转换为海龟品种的能力以及用于鼠标事件和时间跟踪的内置静态函数变量。（基于 82% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91933</guid>
+      <pubDate>Tue, 28 May 2024 20:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：favtutor.com</title>
+      <link>https://t.me/hn_summary/91932</link>
+      <description><![CDATA[Flutter/Dart 新功能
+标题：Flutter/Dart 新功能
+网站：favtutor.com
+
+Flutter 在 2024 年取得了重大飞跃，其新功能增强了其本已令人印象深刻的跨平台功能。作为一名独立开发人员，我发现 Flutter 的统一代码库和开发人员体验无与伦比，尤其是与 React Native 和 Electron 等框架相比。Dart 通常被视为“更好的 Typescript”，它提高了我的工作效率。尽管 Flutter 和 Dart 相对年轻，但它们正在迅速发展。今年，三个突出的功能使我的开发过程更加顺畅：
+
+1. Google AI Dart SDK：这个新的 SDK 简化了使用 Google 的 Gemini 模型将 AI 功能集成到 Flutter 应用中的过程，使生成文本、图像、视频和代码片段变得更加容易。
+
+2. Flutter 与 WebAssembly 相遇：借助 WebAssembly 支持，Flutter Web 应用现在可以实现编译成 JavaScript 的应用性能的 2 倍，为高性能 Web 应用开辟了新的可能性。
+
+3. Dart Macros（实验性）：此功能引入了静态元编程，消除了对 build_runner 等代码生成工具的需求，并简化了 JSON 序列化/反序列化。
+
+这些进步以及其他更新（如 Flame 的 Devtools 插件和 Impeller 增强功能）表明了 Google 对 Flutter 未来的承诺。与怀疑论者相反，我相信 Flutter 会继续存在，2025 年将迎来令人兴奋的发展。2024 年你最喜欢的 Flutter/Dart 功能是什么？在评论中分享你的想法！]]></description>
+      <guid>https://t.me/hn_summary/91932</guid>
+      <pubDate>Tue, 28 May 2024 20:08:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] GitHub 项目“gzip 预测数据相关的缩放定律”旨在探索数据如何 [...]</title>
+      <link>https://t.me/hn_summary/91931</link>
+      <description><![CDATA[显示 HN：Chinchilla 缩放定律并非通用
+GitHub 项目“gzip 预测数据相关缩放定律”旨在探索数据复杂性如何影响机器学习模型中的缩放定律。作者提出缩放定律对数据复杂性很敏感，并证明压缩算法 gzip 可以有效预测这种影响。他们的研究结果表明，随着训练数据变得越来越复杂，计算最优边界更倾向于更大的数据集而不是增加参数数量。该项目包括用于生成数据集、测量 gzip 压缩率和运行训练会话的各种脚本。该项目的独特之处在于它专注于数据相关缩放定律和使用 gzip 作为预测工具。可根据要求提供其他资源，例如 JSONL 记录和用于拟合缩放定律的 Jupyter Notebook。]]></description>
+      <guid>https://t.me/hn_summary/91931</guid>
+      <pubDate>Tue, 28 May 2024 20:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] GitHub 项目“Show HN：使用 TypeScript 和 H 进行简约碰撞模拟 [...]</title>
+      <link>https://t.me/hn_summary/91930</link>
+      <description><![CDATA[Show HN：使用 TypeScript 和 HTML Canvas 进行极简碰撞模拟
+GitHub 项目“Show HN：使用 TypeScript 和 HTML Canvas 进行极简碰撞模拟”是一个画布实验，旨在模拟重力和粒子之间的碰撞。该项目的目的是使用 TypeScript 和 HTML Canvas 提供简单而有效的物理交互演示。它可用于在极简环境中可视化和理解粒子碰撞和重力效应的动态。作者强调项目的简单性和极简性是关键的区别因素，使其成为一种易于学习和实验的工具。该项目包括现场演示和视频演示，供用户查看模拟的实际效果。]]></description>
+      <guid>https://t.me/hn_summary/91930</guid>
+      <pubDate>Tue, 28 May 2024 20:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 jviide.iki.fi 上的博客文章“API 不应该将 HTTP 重定向到 HTTPS”中，作者争辩说 [...]</title>
+      <link>https://t.me/hn_summary/91929</link>
+      <description><![CDATA[API 不应将 HTTP 重定向到 HTTPS
+在 jviide.iki.fi 上的博客文章“API 不应将 HTTP 重定向到 HTTPS”中，作者反对将 API 调用从 HTTP 重定向到 HTTPS 的常见做法。虽然这种重定向对于面向用户的网站很有用，但它对主要由其他软件使用的 API 构成了重大的安全风险。作者重点介绍了一个真实的例子，其中 API URL 中的简单拼写错误（使用“http://”而不是“https://”）导致 API 密钥以纯文本形式发送，可能会将其暴露给第三方。作者提倡快速失败原则，建议未加密的 API 调用应明显失败，以便尽早提醒开发人员错误。他们还建议完全禁用 HTTP 接口或对未加密的请求返回描述性错误消息。该帖子最后对各种 API 进行了调查，指出虽然许多 API 会为 HTTP 请求返回错误，但有些 API 仍会重定向到 HTTPS，这可能会泄露敏感信息。
+
+争议点：一些开发人员或组织可能会认为禁用 API 的 HTTP 接口的建议过于极端或不切实际。
+
+独特见解：该帖子为一个常见但经常被忽视的安全问题提供了一个实用的解决方案，强调了在开发过程中尽早检测错误的重要性。（基于 58% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91929</guid>
+      <pubDate>Tue, 28 May 2024 19:56:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
