@@ -1,117 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>HN 摘要</title>
+    <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 28 May 2024 06:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 12:13:57 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 由安南遮大学 David Sulcanese 领导的意大利研究人员发现 [...]</title>
-      <link>https://t.me/hn_summary/91820</link>
-      <description><![CDATA[最近在金星上发现了广泛的火山活动
-由安南遮大学 David Sulcanese 领导的意大利研究人员利用 20 世纪 90 年代初 NASA 麦哲伦任务的数据发现了金星近期火山活动的证据。通过比较不同周期的雷达扫描，他们在两个地区发现了新的熔岩流：锡夫蒙斯的西侧和尼奥伯平原。这表明金星的火山活动可能比之前想象的更为活跃，每个地球年可能会经历多达 120 次火山喷发。这项发表在《自然天文学》上的研究支持了早期关于火山活动的间接证据，并强调了未来需要像 VERITAS 和 EnVision 这样的任务来进一步研究金星表面随时间的变化。 
+      <title>[媒体] 网站：www.chebucto.ns.ca</title>
+      <link>https://t.me/hn_summary/91847</link>
+      <description><![CDATA[DOS 谬论
+标题：DOS谬论
+网站：www.chebucto.ns.ca&lt; br /&gt;
 
-有争议：金星可能与地球一样火山活跃的说法挑战了之前关于地球地质活动的假设。
+许多人错误地认为 DOS 是一个过时且无用的操作系统。这远非真相。通常，这些人不知道旧版和新版 DOS 的全部功能，以及可用的现代实用程序和升级。过去遇到的限制通常是由于硬件限制，而不是 DOS 本身。现代 DOS 用户欣赏它的强大功能、稳定性以及它所提供的控制，而无需像其他系统那样进行过多的监督。与普遍看法相反，DOS 既没有消亡，也没有过时。它继续得到有效开发和使用。主要操作系统仍然包含或支持 DOS，并且 FreeDOS 和 SvarDOS 等新版本会定期更新。在同等硬件上，DOS 比 GUI 系统更快，可以处理超过 640K 的内存，并支持多任务和 32 位程序。此外，DOS 可以使用正确的实用程序管理长文件名和文件名中的空格。学习 DOS 很简单，并且仍在为其开发新程序。 
 
-令人惊讶的是：研究表明金星每个地球年可能会发生多达 120 次离散喷发，远远超过之前的估计。]]></description>
-      <guid>https://t.me/hn_summary/91820</guid>
-      <pubDate>Tue, 28 May 2024 06:02:33 GMT</pubDate>
+令人惊讶的是：DOS 可以运行 32 位程序，甚至还具有基于 FreeDOS 的 64 位 DOS 内核。
+有争议的：有人声称计算机公司宣扬 DOS 已经过时的想法，以迫使用户转向他们的系统。 （根据故事文本的 36% 进行摘要。）]]></description>
+      <guid>https://t.me/hn_summary/91847</guid>
+      <pubDate>Tue, 28 May 2024 12:13:57 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在我们发表在《基因》上的最新研究中，我们展示了独特的群体如何[...]</title>
-      <link>https://t.me/hn_summary/91819</link>
-      <description><![CDATA[您可能会在您穿的所有衣服上留下“微生物指纹”取证实现
-在《基因》杂志上发表的最新研究中，我们展示了人皮肤上独特的细菌群如何在他们所穿的衣服上留下持久的痕迹，甚至可以在几个月后识别穿着者的身份。这建立在 Edmond Locard 1900 年代初的原则“每次接触都会留下痕迹”的基础上，并将其扩展到微生物证据。我们的研究涉及分析个人所穿 T 恤中的微生物 DNA，揭示了持续长达 180 天的独特微生物特征。这一发现可能会彻底改变法医调查，提供一种通过衣服识别个人的新方法，从而提高我们解决犯罪的能力。值得注意的是，我们观察到微生物在磨损和未磨损的物品之间转移，突出了潜在的污染问题。]]></description>
-      <guid>https://t.me/hn_summary/91819</guid>
-      <pubDate>Tue, 28 May 2024 06:01:27 GMT</pubDate>
+      <title>[媒体]作者：Phil Plait</title>
+      <link>https://t.me/hn_summary/91846</link>
+      <description><![CDATA[超新星爆炸留下惊人痕迹
+标题：超新星爆炸留下惊人痕迹
+网站：www.scientificamerican.com 
+作者：Phil Plait 
+
+摘要：超新星虽然罕见，但却在地球上留下了惊人的痕迹，向地球洒下放射性碎片。天文学家在古代海洋沉积物中发现了放射性同位素铁-60的含量升高，这表明地球在大约 750 万年至 250 万年前遭到超新星轰击。这些发现表明存在多起超新星事件，可能源自天蝎座-半人马座星协，这是一组年轻的大质量恒星。本征气泡（太阳系周围星际物质中的空洞）很可能是由这些超新星形成的。虽然铁-60 的数量微乎其微，但它的存在凸显了这些宇宙事件对我们星球的深远影响。]]></description>
+      <guid>https://t.me/hn_summary/91846</guid>
+      <pubDate>Tue, 28 May 2024 11:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>在本指南中，我们将探讨如何使用 DBus 和 systemd 与 NetworkManager.service 进行交互。</title>
-      <link>https://t.me/hn_summary/91818</link>
-      <description><![CDATA[DBus 和 Systemd
-在本指南中，我们将探讨如何使用 DBus 和 systemd 与 NetworkManager.service 进行交互。首先，我们使用 busctl call 命令识别 NetworkManager.service 的对象路径。一旦我们有了对象路径，我们就使用busctl introspect来检查它以查看它的各种接口。要读取 ActiveState 属性，我们使用 busctl get-property，它提供与 systemctl show -P ActiveState NetworkManager.service 类似的结果。
-
-要重新启动服务，可以通过 DBus 使用两种方法：RestartUnit 和 Restart。两种方法都需要指定服务名称和模式。监视 ActiveState 属性更改涉及使用 busctl Monitor 和匹配规则来捕获 PropertiesChanged 信号。请注意，此信号捕获对所有属性的更改，因此需要进行额外的处理来隔离 ActiveState 更改。]]></description>
-      <guid>https://t.me/hn_summary/91818</guid>
-      <pubDate>Tue, 28 May 2024 06:01:24 GMT</pubDate>
+      <title>[媒体]太空垃圾从天而降。</title>
+      <link>https://t.me/hn_summary/91845</link>
+      <description><![CDATA[太空垃圾从天而降。当它撞击地球时谁该负责？
+2022 年 3 月，巴西南圣马特乌斯的一对夫妇在家附近发现了一块 600 公斤重的金属，随后澳大利亚和加拿大萨斯喀彻温省也发生了类似事件。这些物体是 SpaceX 的碎片，凸显了日益严重的太空垃圾问题。澳大利亚国立大学的卡桑德拉·斯蒂尔指出，太空发射次数的增加增加了碎片坠落地球的可能性。包括《外层空间条约》和《责任公约》在内的空间法规定了责任，但执行过程很复杂。加拿大航天局正在调查萨斯喀彻温省的事件，但没有造成损害就意味着不承担责任。专家警告说，碎片击中人员或财产的风险正在上升，未来十年的可能性为 20-30%。火箭中使用的材料（例如碳纤维）不易燃烧，加剧了这个问题。尽管有国际协议，但不断增加的发射次数以及缺乏严格的措施来管理重返大气层碎片带来了巨大的风险。]]></description>
+      <guid>https://t.me/hn_summary/91845</guid>
+      <pubDate>Tue, 28 May 2024 11:03:22 GMT</pubDate>
     </item>
     <item>
-      <title>标题：Marcus.com 将我的帐户锁定，但保留了我毕生积蓄的控制权</title>
-      <link>https://t.me/hn_summary/91817</link>
-      <description><![CDATA[Marcus.com 将我锁定在我的帐户之外，并保留对我的帐户的控制权毕生积蓄
-标题：Marcus.com 将我锁定在帐户之外并保留控制权我一生的积蓄
+      <title>[媒体] 网站：kb.iu.edu</title>
+      <link>https://t.me/hn_summary/91844</link>
+      <description><![CDATA[我的计算机名称中有下划线，我遇到问题网络
+标题：我的电脑名称中有下划线，网络出现问题
+网站：kb.iu.edu 
 
-网站：news.ycombinator.com
-
-简短版本：当我发起相当于我一生积蓄的大笔提款时，我的马库斯帐户被锁定。从那时起我就无法访问我的帐户。
-
-详细背景：自 2018 年以来，我在 Marcus 开设了一个储蓄账户。我最近搬到了法国，需要将资金转移到那里。我通过直接存款从 Marcus 向我的盈透证券账户发起转账。转账被拒绝，我被指示致电支持人员。尽管提供了所有必要的身份详细信息，包括我的护照和纽约驾驶执照，马库斯仍无法验证我的身份，因为我不再有美国电话号码。我的帐户随后被锁定。多次致电支持，即使使用存档的美国电话号码，也是徒劳的，代理商提供了矛盾且无益的答复。 20天过去了，我的案子仍在“审查中”，我无法动用我的终身积蓄。我已向消费者金融保护局提出投诉，并计划向 FDIC 和犹他州金融机构部提出更多投诉。
-
-争议：尽管提供了多种形式的身份证明，但 Marcus 仍无法验证我的身份，而且支持代理的矛盾反应凸显了他们的客户服务和身份验证流程中的一个重大问题。
-
-独特/聪明：使用盈透证券进行外汇兑换以及向多个金融监管机构战略性地提出投诉，证明了解决问题的积极主动的方法。]]></description>
-      <guid>https://t.me/hn_summary/91817</guid>
-      <pubDate>Tue, 28 May 2024 05:55:17 GMT</pubDate>
+印第安纳大学的此存档内容解释了计算机主机名中包含下划线 () 可能会导致网络访问问题。根据 RFC 822，有效的主机名字符是字母数字（a-z、0-9）、连字符 (-) 和用于分隔字段的句点 (.)。主机名不区分大小写。如果您的计算机名称包含下划线（例如，admiralozzel.empire.gov），您可能会在访问 TCP/IP 网络服务、发送电子邮件或阅读 Usenet 新闻组时遇到困难。唯一的解决方案是重命名您的计算机而不使用下划线。请注意，此信息可能已过时且链接可能不可靠。]]></description>
+      <guid>https://t.me/hn_summary/91844</guid>
+      <pubDate>Tue, 28 May 2024 11:03:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在最近的一个项目中，我需要优化一项经常从[...]获取数据的服务</title>
-      <link>https://t.me/hn_summary/91816</link>
-      <description><![CDATA[Go 中使用装饰器设计模式进行缓存&lt; br /&gt;
-在最近的一个项目中，我需要优化一个经常从外部 API 获取数据的服务。为了减少 API 的负载，我们决定实现缓存端模式。然而，将缓存逻辑直接集成到我们自动生成的客户端代码中是不切实际的。相反，我使用了 Go 中的 Decorator 设计模式，它允许我们在不修改现有服务代码的情况下添加缓存功能。当我们的团队从 PHP 过渡到 Go 时，这种方法特别有用，它为 Go 的面向对象编程提供了宝贵的学习经验。通过将缓存旁路与装饰器模式相结合，我们创建了一个高效且可维护的缓存机制。存储库中详细介绍了完整的实现，包括内存数据库和服务层。
+      <title>[媒体] 五月中旬，由于一场历史性的地磁风暴，极光照亮了全球天空，[...]</title>
+      <link>https://t.me/hn_summary/91843</link>
+      <description><![CDATA[由于太阳活动极大期，今年夏天的极光将十分壮观
+5月中旬，由于一场历史性的地磁风暴，极光照亮了全球天空，即使在热带地区也能看到罕见的景象。这一现象与即将到来的太阳活动极大期有关，太阳活动极大期是太阳 11 年活动周期的高峰，它增加了太阳耀斑和日冕物质抛射 (CME) 的频率。2024 年 5 月 10 日的壮观极光是由来自活动区域 3664 的三个 CME 引起的，这是一个无需放大即可看到的巨大太阳黑子群。这些 CME 合并并同时撞击地球大气层，创造了一场非凡的灯光秀。随着我们接近太阳活动极大期，可能会发生更多此类事件，让全世界的极光爱好者兴奋不已。]]></description>
+      <guid>https://t.me/hn_summary/91843</guid>
+      <pubDate>Tue, 28 May 2024 11:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在 Electric 上的博客文章“10 秒内 Root 你的 Docker 主机以获得乐趣和利润”中 [...]</title>
+      <link>https://t.me/hn_summary/91842</link>
+      <description><![CDATA[10秒内Root你的Docker主机以获得乐趣和利润（2017） 
+在 Electric Monk 上的博客文章《10 秒内 Root your Docker host for fun andprofit》中，作者幽默地揭穿了“乐趣和利润”的概念，同时揭露了 Docker 中的一个关键安全漏洞。通过将用户添加到 Docker 组，由于 Docker 守护进程以 root 身份运行，因此他们实际上获得了 root 访问权限。作者演示了如何轻松地利用这一点来获得主机系统的 root 访问权限，并通过分步示例强调了该过程的简单性。该帖子批评了 Docker 声称“默认安全”的说法，指出 UID 重新映射等基本安全措施默认情况下未启用，必须手动配置。作者讽刺地指出 Docker 对此类漏洞的不屑一顾的态度，并将其标记为“非事件”。这种批评强调了 Docker 的安全承诺与其默认配置的实际情况之间的差距。]]></description>
+      <guid>https://t.me/hn_summary/91842</guid>
+      <pubDate>Tue, 28 May 2024 10:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 经过数月的专注研发，Wasmi v0.32 现已准备好投入生产 [...]</title>
+      <link>https://t.me/hn_summary/91841</link>
+      <description><![CDATA[Wasmi v0.32：WebAssembly 解释器现在比
+经过数月的专注研发，Wasmi v0.32 现已准备好投入生产，性能显着提升。该 WebAssembly (Wasm) 解释器非常适合嵌入式环境，通过基于寄存器的新字节码引擎将其执行速度提高了多达 5 倍。由于惰性编译和其他技术，启动性能也得到了显着提升。 Wasmi v0.32 提供了三种翻译模式——eager、lazy 和lazy-translation——由于 Wasm 模块部分验证，lazy 模式存在一些争议。此外，新版本默认引入了非流式翻译和 LinkerBuilder 以实现高效的主机功能管理。基准测试显示 Wasmi 在启动性能方面表现出色，尤其是在 AMD 服务器芯片上，尽管它在 Apple 芯片上落后。未来的更新将侧重于提高 Apple 芯片的性能并实施悬而未决的 WebAssembly 提案。特别感谢 Parity Technologies 和贡献者的支持。]]></description>
+      <guid>https://t.me/hn_summary/91841</guid>
+      <pubDate>Tue, 28 May 2024 10:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在我之前的博客中，我深入研究了新的 APT 3.0 求解器。</title>
+      <link>https://t.me/hn_summary/91840</link>
+      <description><![CDATA[Debian 依赖关系解决中的观察
+在我之前的博客中，我深入研究了新的 APT 3.0 求解器。从那时起，我一直在完善测试套件，使测试通过，并修复错误。新的求解器是一个基本的 DPLL SAT 求解器，我们可以通过将包标记为“安装”或“拒绝”、对操作/子句进行排序以及对依赖项选择进行排序来控制它。然而，它缺乏根据冲突来源确定冲突优先级的能力，迫使我们将依赖问题降低为一种能够产生形式上和语义上正确的解决方案的形式。
 
-令人惊讶/聪明的方面：在Go中巧妙地使用Decorator设计模式，在不改变现有服务代码的情况下无缝集成缓存逻辑，这一点尤其值得注意。 （根据故事文本的 55% 进行摘要。）]]></description>
-      <guid>https://t.me/hn_summary/91816</guid>
-      <pubDate>Tue, 28 May 2024 05:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在 huggingface.co 上的“视觉语言建模简介”中，作者 Richard Yu [...]</title>
-      <link>https://t.me/hn_summary/91815</link>
-      <description><![CDATA[视觉语言建模简介
-在 huggingface.co 上的“视觉语言建模简介”中作者 Richard Yuanzhe Pang 及其同事探索了新兴的视觉语言模型 (VLM) 领域。这些模型旨在弥合视觉和文本数据之间的差距，使视觉助理和生成模型等应用程序能够根据文本描述创建图像。本文深入探讨了将离散语言与视觉的高维性质结合起来的复杂性，提供了对 VLM 的机制、训练和评估的见解。值得注意的是，作者还谈到将这些模型扩展到视频数据，强调了这项技术的潜力和挑战。讨论很全面，对于该领域的新手来说是宝贵的资源。]]></description>
-      <guid>https://t.me/hn_summary/91815</guid>
-      <pubDate>Tue, 28 May 2024 05:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在一次有趣的自我治疗展示中，人们观察到一只野生猩猩正在治疗 [...]</title>
-      <link>https://t.me/hn_summary/91814</link>
-      <description><![CDATA[猩猩用植物自行治疗面部伤口
-在一场令人着迷的自我药疗表演中，人们观察到一只野生猩猩利用龙血树植物的生物活性来治疗面部伤口。 Morrogh-Bernard 等人的一项研究记录了这种行为，这进一步证明类人猿拥有药用植物知识并利用它们来治疗疾病。这个例子特别值得注意，因为它凸显了猩猩识别和利用特定植物进行治疗的能力，这种行为之前在黑猩猩和倭黑猩猩等其他灵长类动物中也有记录。该研究强调了灵长类动物行为的复杂性及其对自然疗法的内在理解。 （根据 48% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/91814</guid>
-      <pubDate>Tue, 28 May 2024 05:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] JWT 代币 vs.</title>
-      <link>https://t.me/hn_summary/91813</link>
-      <description><![CDATA[JWT 令牌与会话令牌
-在 oguzkurukaya.medium 上的文章“JWT 令牌与会话令牌”中。 com，作者解释了他们更喜欢基于会话的令牌而不是 JWT 令牌来管理用户会话。主要原因包括：
+apt Upgrade 命令计算 dist-upgrade 并撤消任何软件包删除，这带来了挑战。例如，如果包 X 取决于 A=1 或 B，并且 A=2 的升级可用，则求解器的选择取决于操作的顺序。我们可以通过始终将升级请求放在最后或要求安装的软件包满足当前满足的依赖关系来解决此问题。
 
-1. 安全问题：JWT 令牌如果被泄露，将允许攻击者访问受保护的资源，直至其过期。缓解这种情况需要额外的复杂性，例如短期令牌和刷新机制。
-2. 集中控制：存储在数据库中的会话令牌提供集中控制，使得服务器端的会话更容易失效，这与需要维护黑名单的 JWT 不同。
-3. 简单性：会话令牌更容易实现和管理，减少了出错的可能性。
-4. 实时更改：会话令牌允许对用户权限或角色进行无缝实时更新，而 JWT 需要令牌过期或重新生成，从而增加了复杂性。
+推荐也很棘手。如果 X 建议 A=1 并且 A=2 可用，则求解器可能会破坏该建议。我们可以引入一条规则，将满意的推荐推广到依赖项，确保它们不会被破坏。
 
-作者强调了会话令牌提供的简单性和控制能力是相对于 JWT 令牌的主要优势。]]></description>
-      <guid>https://t.me/hn_summary/91813</guid>
-      <pubDate>Tue, 28 May 2024 05:23:49 GMT</pubDate>
+具有替代方案的版本化依赖项（例如 X 依赖于 A&gt;=2 或 B）可能很复杂。简单的求解器可能不会升级 A&lt;2 以支持 B。我们可以通过在依赖项之后订购“保持 A 安装”请求来解决此问题。
+
+正确实施严格的固定是另一个挑战。 APT 每个包只有一个候选版本，减少了搜索空间，但使非候选版本的安装变得复杂。我们可以通过在包发现期间标记不允许的版本来解决这个问题。
+
+最后，最小化回溯成本涉及拉起共同的依赖关系。我们可以将常见的依赖关系排入队列，从而减少每个回溯级别的成本，而不是按顺序尝试解决方案和回溯。然而，找到共同的依赖关系可能会很昂贵，复杂度大约为 N^4。
+
+总的来说，这些观察结果凸显了 Debian 中依赖关系解决的复杂性以及需要系统方法来确保正确性和效率。 （根据 99% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/91840</guid>
+      <pubDate>Tue, 28 May 2024 10:17:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由于验证步骤，我无法从提供的链接访问内容 [...]</title>
-      <link>https://t.me/hn_summary/91812</link>
-      <description><![CDATA[炎热印度的烂香蕉暴露了气候的粮食成本 
-由于需要人工交互的验证步骤，我无法从提供的链接访问内容。不过，如果您可以提供文章的正文或要点，我很乐意帮助您进行总结。]]></description>
-      <guid>https://t.me/hn_summary/91812</guid>
-      <pubDate>Tue, 28 May 2024 05:20:44 GMT</pubDate>
+      <title>Google 搜索泄露的内部文档揭示了有关 Google 如何 [...]</title>
+      <link>https://t.me/hn_summary/91839</link>
+      <description><![CDATA[Google 搜索的内部工程文档已泄露
+谷歌搜索泄露的内部文档揭示了对谷歌算法如何运作的一些见解，特别是关于搜索引擎优化（SEO）的见解。值得注意的是，最初被认为很复杂的 Panda 算法更为简单，并且专注于根据用户行为和外部链接进行评分修改。这会影响域、子域或子目录级别。该文档还强调了作者身份的重要性、各种违规行为的降级（例如锚点不匹配、SERP 降级）以及链接的持续重要性。独特的发现包括索引层对链接价值的影响、文档新鲜度的重要性以及字体大小在术语和链接重要性中的作用。有争议的是，该文件表明谷歌可能会故意降级小型个人网站，引发人们对这对小型企业影响的担忧。]]></description>
+      <guid>https://t.me/hn_summary/91839</guid>
+      <pubDate>Tue, 28 May 2024 10:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 西里尔字母是世界上著名的字母，在广大地区有超过 2.5 亿人使用 [...]</title>
-      <link>https://t.me/hn_summary/91811</link>
-      <description><![CDATA[发明西里尔字母
-西里尔字母在广大地区有超过 2.5 亿人使用，东正教世界的 5 月 24 日和天主教世界的 7 月 5 日都有自己的节日来庆祝。这个庆祝活动是为了纪念九世纪拜占庭兄弟康斯坦丁·西里尔和美多迪乌斯，他们因发明了这项技术而受到赞誉。东欧各地的纪念碑和机构都纪念这些人物，反映了字母表的重大文化影响。与其他字母不同，西里尔字母的发明者受到广泛的庆祝，各州资助了雕像和游行。然而，字母表的历史与政治议程深深交织在一起，因为不同的精英利用它来推进自己的目标。这种政治纠葛至今仍在继续，俄罗斯利用西里尔字母的庆祝活动来宣示斯拉夫民族的团结，特别是在其入侵乌克兰的背景下。这强调了字母表的庆祝不仅是文化上的，也是政治影响力的工具。
-
-争议：俄罗斯使用西里尔字母庆祝活动为其入侵乌克兰辩护。
-令人惊讶/聪明：与其他字母相比，对西里尔字母的独特崇敬以及整个东欧的广泛纪念活动。]]></description>
-      <guid>https://t.me/hn_summary/91811</guid>
-      <pubDate>Tue, 28 May 2024 05:12:40 GMT</pubDate>
+      <title>[媒体]中国科学家取得了一项突破性成就，报告了一种潜在的治疗方法[...]</title>
+      <link>https://t.me/hn_summary/91838</link>
+      <description><![CDATA[全球首例中国科学家报告细胞疗法治愈糖尿病病例&lt; /a&gt;
+中国科学家取得了一项突破性成就，报告了通过细胞疗法治疗糖尿病的潜在方法。一名患者于 2021 年 7 月接受了创新细胞移植，在 11 周内不再需要外部胰岛素，并在一年后完全停止口服药物。患者胰岛功能得到有效恢复，已不再使用胰岛素33个月。这一涉及上海长征医院和中国科学院等机构的突破性成果发表在《Cell Discovery》上。研究小组使用患者自己的外周血单核细胞来创建“种子细胞”，以重建胰岛组织。这标志着再生医学的重大进步，并为减轻全球糖尿病负担带来了希望，特别是在中国，因为中国是全球糖尿病患者数量最多的国家。然而，还需要进一步的研究来在更多患者中证实这些发现。]]></description>
+      <guid>https://t.me/hn_summary/91838</guid>
+      <pubDate>Tue, 28 May 2024 10:15:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
