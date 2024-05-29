@@ -4,11 +4,32 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 29 May 2024 00:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 03:12:47 GMT</lastBuildDate>
     <item>
-      <title>美国：以色列的拉法行动不是一次大规模攻势</title>
+      <title>伦敦亲巴勒斯坦游行致三名警察受伤，40 人被捕</title>
+      <link>https://www.bbc.com/news/articles/c511repj004o</link>
+      <description><![CDATA[警方称，一名警官被瓶子击中，面部受重伤。]]></description>
+      <guid>https://www.bbc.com/news/articles/c511repj004o</guid>
+      <pubDate>Wed, 29 May 2024 02:57:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普律师告诉陪审团科恩是“有史以来最大的骗子”</title>
+      <link>https://www.bbc.com/news/articles/c6ppz2l16n7o</link>
+      <description><![CDATA[随着控方和辩方进行最后辩论，前总统封口费案的审判已接近尾声。]]></description>
+      <guid>https://www.bbc.com/news/articles/c6ppz2l16n7o</guid>
+      <pubDate>Wed, 29 May 2024 00:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国亿万富翁计划潜水前往泰坦尼克号沉船</title>
+      <link>https://www.bbc.com/news/articles/c1vvr76lddxo</link>
+      <description><![CDATA[去年 OceanGate Titan 潜水器坠毁事件震动了私人潜水器行业。]]></description>
+      <guid>https://www.bbc.com/news/articles/c1vvr76lddxo</guid>
+      <pubDate>Wed, 29 May 2024 00:44:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫：以色列在拉法的行动没有跨越美国红线</title>
       <link>https://www.bbc.com/news/articles/cv22pl9p212o</link>
-      <description><![CDATA[据目击者称，周二看到以色列坦克出现在市中心。]]></description>
+      <description><![CDATA[白宫称，美国的政策不会因以色列在拉法发动地面攻势和致命空袭而改变。]]></description>
       <guid>https://www.bbc.com/news/articles/cv22pl9p212o</guid>
       <pubDate>Tue, 28 May 2024 23:59:29 GMT</pubDate>
     </item>
@@ -25,13 +46,6 @@
       <description><![CDATA[BBC 披露，政府计划安装的隔热材料可能导致数十万户家庭的隔热效果失效。]]></description>
       <guid>https://www.bbc.com/news/articles/cxwwr7vyrj0o</guid>
       <pubDate>Tue, 28 May 2024 23:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国加沙码头因海浪冲击而停止运行</title>
-      <link>https://www.bbc.com/news/articles/c033m529ry0o</link>
-      <description><![CDATA[目前还不清楚加沙海岸的美军浮动码头何时恢复运行。]]></description>
-      <guid>https://www.bbc.com/news/articles/c033m529ry0o</guid>
-      <pubDate>Tue, 28 May 2024 22:56:37 GMT</pubDate>
     </item>
     <item>
       <title>保守党承诺废除“敲诈”学位，以促进学徒制</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[警方一直在调查工党副领袖，原因是她于 2015 年出售了位于斯托克波特的一栋房屋。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-politics-69069869</guid>
       <pubDate>Tue, 28 May 2024 19:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>保守党承诺提供“三重锁定加”养老金补贴</title>
-      <link>https://www.bbc.com/news/articles/c3ggvrp8v28o</link>
-      <description><![CDATA[保守党承诺，如果赢得大选，将把免税养老金津贴每年至少提高 2.5%。]]></description>
-      <guid>https://www.bbc.com/news/articles/c3ggvrp8v28o</guid>
-      <pubDate>Tue, 28 May 2024 17:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>检方：特朗普肯定知道封口费计划</title>
-      <link>https://www.bbc.co.uk/news/live/world-us-canada-69046641</link>
-      <description><![CDATA[经过数周的重磅证词，辩方和控方都直接向陪审团发言，总结了各自的案情]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-us-canada-69046641</guid>
-      <pubDate>Tue, 28 May 2024 11:19:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
