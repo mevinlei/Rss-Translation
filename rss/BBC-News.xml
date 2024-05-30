@@ -4,27 +4,27 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Thu, 30 May 2024 03:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 06:14:12 GMT</lastBuildDate>
+    <item>
+      <title>以色列扩大对加沙整个陆地边界的控制</title>
+      <link>https://www.bbc.com/news/articles/c1994g22ve9o</link>
+      <description><![CDATA[埃及消息人士否认哈马斯使用的隧道仍然存在于该国与加沙边境。]]></description>
+      <guid>https://www.bbc.com/news/articles/c1994g22ve9o</guid>
+      <pubDate>Thu, 30 May 2024 04:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>“工党想将我排除在议会之外”——阿博特</title>
+      <link>https://www.bbc.co.uk/news/uk-69072113</link>
+      <description><![CDATA[目前，工党正在就是否会选择资深工党议员参加选举展开争论。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-69072113</guid>
+      <pubDate>Thu, 30 May 2024 03:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>伦敦东部发生枪击案，一名儿童伤势严重，三名成年人受伤</title>
       <link>https://www.bbc.com/news/articles/cd11jp57wnzo</link>
       <description><![CDATA[英国夏令时 21 点 20 分左右，警方接到枪击报告后赶赴哈克尼金斯兰大街。]]></description>
       <guid>https://www.bbc.com/news/articles/cd11jp57wnzo</guid>
       <pubDate>Thu, 30 May 2024 02:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列称其控制加沙与埃及边境走廊</title>
-      <link>https://www.bbc.com/news/articles/c1994g22ve9o</link>
-      <description><![CDATA[埃及消息人士否认该地区仍然存在哈马斯使用的跨境走私隧道。]]></description>
-      <guid>https://www.bbc.com/news/articles/c1994g22ve9o</guid>
-      <pubDate>Thu, 30 May 2024 01:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>工党和保守党排除在选举后提高增值税</title>
-      <link>https://www.bbc.com/news/articles/cv22pe8x89no</link>
-      <description><![CDATA[此事发生之际，两大主要政党正在就各自的支出计划展开激烈争论。]]></description>
-      <guid>https://www.bbc.com/news/articles/cv22pe8x89no</guid>
-      <pubDate>Thu, 30 May 2024 01:10:47 GMT</pubDate>
     </item>
     <item>
       <title>香港最大国安案中 14 名民主活动人士被定罪</title>
@@ -34,7 +34,7 @@
       <pubDate>Thu, 30 May 2024 00:45:35 GMT</pubDate>
     </item>
     <item>
-      <title>NHS 计算机普遍存在问题，可能对患者造成伤害</title>
+      <title>NHS 技术问题导致三人死亡和严重伤害</title>
       <link>https://www.bbc.com/news/articles/c4nn0vl2e78o</link>
       <description><![CDATA[信息技术故障已导致三名患者死亡和 100 多起严重伤害事件。]]></description>
       <guid>https://www.bbc.com/news/articles/c4nn0vl2e78o</guid>
@@ -76,11 +76,18 @@
       <pubDate>Wed, 29 May 2024 21:23:08 GMT</pubDate>
     </item>
     <item>
-      <title>工党想将我排除在议会之外 - 阿博特</title>
-      <link>https://www.bbc.co.uk/news/uk-69072113</link>
-      <description><![CDATA[目前，工党正在就是否会选择资深工党议员参加选举展开争论。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-69072113</guid>
-      <pubDate>Wed, 29 May 2024 21:18:05 GMT</pubDate>
+      <title>科尔宾以独立候选人身份启动竞选活动</title>
+      <link>https://www.bbc.com/news/articles/czvv41zvxngo</link>
+      <description><![CDATA[这位前工党领袖将与他在 2015 年至 2020 年期间领导的政党竞争伊斯灵顿北区席位。]]></description>
+      <guid>https://www.bbc.com/news/articles/czvv41zvxngo</guid>
+      <pubDate>Wed, 29 May 2024 21:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>约翰列侬遗失吉他拍卖创纪录</title>
+      <link>https://www.bbc.com/news/articles/cy00eppxk80o</link>
+      <description><![CDATA[这把 Framus 12 弦 Hootenanny 原声吉他失踪 50 年后在阁楼里被找到。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy00eppxk80o</guid>
+      <pubDate>Wed, 29 May 2024 21:13:43 GMT</pubDate>
     </item>
     <item>
       <title>“火幕”：冰岛火山爆发的戏剧性视频</title>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 29 May 2024 18:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>工党因投诉暂停议员 Russell-Moyle 职务</title>
-      <link>https://www.bbc.com/news/articles/c5114q1x09eo</link>
-      <description><![CDATA[布莱顿肯普敦议员表示他将被“免除罪名”，但被告知他不能作为工党候选人。]]></description>
-      <guid>https://www.bbc.com/news/articles/c5114q1x09eo</guid>
-      <pubDate>Wed, 29 May 2024 17:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>海滩刺伤受害者妻子称将怀念“咯咯笑和灿烂微笑”</title>
-      <link>https://www.bbc.co.uk/news/uk-england-dorset-69074029</link>
-      <description><![CDATA[私人教练艾米·格雷的家人表示，他们的心“永远破碎了”。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-dorset-69074029</guid>
-      <pubDate>Wed, 29 May 2024 16:25:09 GMT</pubDate>
+      <title>工党、保守党和自由民主党承诺不提高增值税</title>
+      <link>https://www.bbc.co.uk/news/live/uk-politics-69071603</link>
+      <description><![CDATA[随着为期五周的正式竞选期开始，各党派正在就各自的支出计划展开激烈争论。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-politics-69071603</guid>
+      <pubDate>Wed, 29 May 2024 04:04:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
