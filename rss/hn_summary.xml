@@ -4,98 +4,103 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 15:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 17:55:46 GMT</lastBuildDate>
     <item>
-      <title>问 HN：谁想被聘用？</title>
-      <link>https://t.me/hn_summary/92875</link>
-      <description><![CDATA[问 HN：谁想被聘用？（2024 年 6 月）
-标题：问 HN：谁想被聘用？（2024 年 6 月）
-网站：news.ycombinator.com
+      <title>[媒体] X，原名 Twitter，已正式更新其指导方针，以允许达成共识 [...]</title>
+      <link>https://t.me/hn_summary/92913</link>
+      <description><![CDATA[X 出台新规，正式允许发布色情内容
+X，原名 Twitter，已正式更新其指导方针，允许在双方同意的情况下制作和分发成人内容，前提是这些内容必须贴上标签，且不能以突出的方式展示，例如在个人资料图片或横幅中。TechCrunch 强调了这一变化，旨在使 X 的规则和执行政策更加清晰透明。尽管之前没有禁止色情内容，但 X 已成为 NSFW 创作者的平台，尤其是在推出 X Premium 之后。新规则要求定期发布 NSFW 内容的用户将其标记为敏感内容，并限制 18 岁以下用户的访问。然而，执行这些规则仍然具有挑战性，过去的事件（例如传播泰勒·斯威夫特的露骨 AI 生成图像）就是明证。 Tumblr 和 OnlyFans 等其他平台在维护 NSFW 社区和处理支付处理器限制方面也面临着类似的问题。]]></description>
+      <guid>https://t.me/hn_summary/92913</guid>
+      <pubDate>Mon, 03 Jun 2024 17:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 有关 Ozempic、Wegovy、Zepbound 和 Mounjaro 等 GLP-1 药物降低患者 [...]</title>
+      <link>https://t.me/hn_summary/92912</link>
+      <description><![CDATA[Ozempic (semaglutide) 与酒精成瘾减少 50-56% 相关
+GLP-1 药物（如 Ozempic、Wegovy、Zepbound 和 Mounjaro）减少患者饮酒欲望的故事正在广为流传。《自然通讯》上的一项新研究表明，服用 semaglutide 治疗肥胖症或糖尿病的患者新发或复发酒精成瘾的风险降低了 50-56%。这一显著的减少支持了越来越多的证据，即 GLP-1 药物可以减少各种物质的成瘾。鉴于酒精每年导致约 170,000 名美国人死亡，而 2900 万有资格接受 AUD 治疗的人中只有 2% 使用现有药物，GLP-1 可能会更有效地治疗更大的人群。摩根士丹利预测，由于 GLP-1，酒精销售量将下降。这项研究由 Rong Xu 博士和 Nora Volkow 博士领导，基于患者健康记录，强调了 GLP-1 的预防作用，尽管这是一项回顾性研究，而不是随机对照试验。研究结果与之前的试验一致，还有几项关于 GLP-1 和酒精的研究正在进行中。大规模解决酒精使用问题可能带来重大的社会效益，包括减少犯罪。GLP-1RA 治疗（如 Ozempic 和 Wegovy）也正在探索其他健康益处，可能会彻底改变成瘾治疗和预防。
 
-如果您正在寻找工作，请使用指定格式分享您的详细信息：位置、远程、愿意搬迁、技术、简历/履历和电子邮件。此主题仅供求职者使用 - 不欢迎代理机构、招聘人员和求职板。鼓励读者仅就工作相关的讨论联系所提供的电子邮件地址。]]></description>
-      <guid>https://t.me/hn_summary/92875</guid>
-      <pubDate>Mon, 03 Jun 2024 15:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] NASA+ 是您通往宇宙的大门，它提供身临其境的体验，带给您 [...]</title>
-      <link>https://t.me/hn_summary/92874</link>
-      <description><![CDATA[NASA+
-NASA+ 是您通往宇宙的大门，提供身临其境的体验，将宇宙的奇观直接呈现给您。这个创新平台提供对 NASA 最新任务、突破性发现和令人惊叹的视觉内容的独家访问。无论您是太空爱好者还是普通观察者，NASA+ 都能提供丰富的信息和娱乐，从现场任务报道到教育资源。轻松探索恒星、行星和更远的地方，并与太空探索的最新进展保持联系。加入我们的非凡旅程，以前所未有的方式观察宇宙。]]></description>
-      <guid>https://t.me/hn_summary/92874</guid>
-      <pubDate>Mon, 03 Jun 2024 14:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Linux Mint 项目发布了其月度新闻简报，详细介绍了其最新进展 [...]</title>
-      <link>https://t.me/hn_summary/92873</link>
-      <description><![CDATA[Linux Mint 默认禁用未经验证的 Flatpaks
-Linux Mint 项目发布了其月度新闻通讯，详细介绍了此基于 Ubuntu 和 Debian 的桌面 Linux 发行版的最新进展。5 月，Linux Mint 软件管理器“mintinstall”进行了重大改进，现在加载速度更快，并且默认禁用未经验证的 Flatpaks。警告用户使用未经验证的 Flatpaks 存在安全风险，如果允许，则会明确标记。此外，Linux Mint 一直在优化其软件包存档托管，成功测试 Fastly CDN 以改进存储库访问，并使用 Datadog 进行数据监控。更多信息可以在 Linux Mint 月度更新中找到。]]></description>
-      <guid>https://t.me/hn_summary/92873</guid>
-      <pubDate>Mon, 03 Jun 2024 14:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Covid 小组委员会释放了 Dr.</title>
-      <link>https://t.me/hn_summary/92872</link>
-      <description><![CDATA[Covid 小组委员会发布 Fauci 博士的证词记录，重点介绍关键要点
-标题：Covid 小组委员会发布 Fauci 博士的证词记录，重点介绍关键要点
-网站：oversight.house.gov 
+争议：这项研究是回顾性的，而不是随机对照试验，这可能会影响结果的可靠性。
 
-摘要：
-华盛顿——冠状病毒大流行特别小组委员会主席 Brad Wenstrup（俄亥俄州共和党）发布了 Anthony Fauci 博士长达 14 小时的详尽证词记录。福奇博士曾任美国国家过敏和传染病研究所所长，他谈到了包括 COVID-19 的起源、政策失误和公共卫生改善等关键问题。关键要点包括 6 英尺社交距离规则的随意性、缺乏为儿童戴口罩的证据以及他同意特朗普时代的旅行限制。值得注意的是，福奇承认实验室泄漏假设是合理的，并承认由于强制规定，未来可能会对疫苗接种犹豫不决。有争议的是，福奇玩弄了“功能获得性”研究定义的语义，并声称对许多问题一无所知，这引发了对监督和利益冲突的质疑。]]></description>
-      <guid>https://t.me/hn_summary/92872</guid>
-      <pubDate>Mon, 03 Jun 2024 14:33:15 GMT</pubDate>
+独特/巧妙：GLP-1 有可能在成瘾开始之前预防成瘾，并广泛应用于治疗各种健康状况。]]></description>
+      <guid>https://t.me/hn_summary/92912</guid>
+      <pubDate>Mon, 03 Jun 2024 17:51:38 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 如果我可以给 Go 软件包作者一个关键建议，那就是：避免 [...]</title>
-      <link>https://t.me/hn_summary/92871</link>
-      <description><![CDATA[不要用普通名词来命名包
-如果我能给 Go 包作者一个关键建议，那就是：避免用普通名词来命名包。以“time/rate”包为例——虽然“rate.Limiter”听起来不错，但“rate”这个名字是有问题的。使用这样的普通名词可能会与变量名发生冲突，导致包在某些情况下无法使用。相反，选择一个更具描述性的名称，如“ratelimit”，可以避免这些问题。这个小小的改变大大提高了可用性。常见的违规者包括“client”、“db”和“server”等名称。我的有争议的技巧是什么？为内部包的简单名词添加一个项目特定的前缀，比如“Crunchy Platform”的“pclient”。 Go 纯粹主义者可能不喜欢这一点，但这是一个实用的解决方案。]]></description>
-      <guid>https://t.me/hn_summary/92871</guid>
-      <pubDate>Mon, 03 Jun 2024 14:17:59 GMT</pubDate>
+      <title>[媒体] 美国的书名通常从上到下写在书脊上；</title>
+      <link>https://t.me/hn_summary/92911</link>
+      <description><![CDATA[美国书名通常在书脊上从上到下书写，而欧洲则是从下到上书写
+在一次关于杰克·古迪的民族志好奇心的对话中，作者强调了书脊标题的一个奇特细节：在美国，书名是从上到下书写的，而在欧洲，则是从下到上书写的。这种差异是文化惯例的典型例子，就像在道路的不同侧面行驶一样。作者质疑为什么书名不再水平打印，认为更薄的书使这种做法不切实际。有趣的是，由于市场变化倾向于畅销书展示，一些法国出版商正在采用从上到下的惯例。这种转变是由文化吸引力理论所称的“生态吸引力因素”推动的，可能会改变长期以来的法国惯例。然而，电子书和网上购物的兴起可能会保留传统的自下而上的取向。]]></description>
+      <guid>https://t.me/hn_summary/92911</guid>
+      <pubDate>Mon, 03 Jun 2024 17:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>网站：www.schneier.com</title>
-      <link>https://t.me/hn_summary/92870</link>
-      <description><![CDATA[AI 将提高网络钓鱼诈骗的数量和质量
-标题：AI 将提高网络钓鱼诈骗的数量和质量
-网站：www.schneier.com
+      <title>[媒体] 网站：www.thebookwormsburrow.com</title>
+      <link>https://t.me/hn_summary/92910</link>
+      <description><![CDATA[深入研究领域特定语言：开发人员实用指南
+标题：深入研究领域特定语言：开发人员实用指南
+网站：www.thebookwormsburrow.com
 
-Gen AI 工具正在迅速推进网络钓鱼电子邮件，使其更难检测且更加危险。研究表明，60% 的参与者陷入了 AI 自动网络钓鱼的陷阱，与人工网络钓鱼的成功率相当。现在可以使用 ChatGPT 等大型语言模型 (LLM) 自动化整个网络钓鱼过程，从而大幅降低成本并提高效率。这意味着高质量、个性化的网络钓鱼攻击将大幅增加。公司必须了解人工智能增强的网络钓鱼能力，评估其威胁级别，并更新其网络钓鱼意识程序。有趣的是，虽然 LLM 也可以帮助检测网络钓鱼，但其准确性各不相同，有时它们提供的结果也不一致。]]></description>
-      <guid>https://t.me/hn_summary/92870</guid>
-      <pubDate>Mon, 03 Jun 2024 14:16:53 GMT</pubDate>
+在过去的两个周末，我深入研究了 Martin Fowler 的“领域特定语言”，以解决电子商务应用程序中反复出现的问题：内容工程师需要设置产品数据和元数据，然后驱动产品类别和自定义页面。我想知道带有相关语义模型的 DSL 是否有助于将产品定制代码与代码库中的其他问题隔离开来。本文的第一部分总结了 Fowler 的书，将 DSL 定义为“专注于特定领域的表达能力有限的计算机语言”。Fowler 区分了内部 DSL（例如 Ruby on Rails）和外部 DSL（例如 SQL、CSS）。他强调了 DSL 的好处，例如提高生产力和与领域专家更好地沟通。Fowler 概述了实现外部 DSL 的七个步骤，从设计领域语言到从定制的 AST 填充语义模型。在第二部分中，我将探讨如何使用 DSL 构建解决方案以提取产品导航和定制代码。]]></description>
+      <guid>https://t.me/hn_summary/92910</guid>
+      <pubDate>Mon, 03 Jun 2024 17:49:24 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 微软将于 6 月 18 日推出一项名为“Recall”的人工智能功能，作为 [...] 的一部分。</title>
-      <link>https://t.me/hn_summary/92869</link>
-      <description><![CDATA[Windows AI 功能可截取标记为安全“灾难”的所有内容
-微软将于 6 月 18 日推出一项名为 Recall 的 AI 功能，作为其新款 Copilot Plus PC 的一部分。Recall 会截取您在 PC 上执行的所有操作的屏幕截图，并将这些数据存储在本地，并允许用户快速搜索和检索。尽管微软保证了安全和隐私，但网络安全专家 Kevin Beaumont 发现了重大缺陷。他发现 Recall 将数据以纯文本形式存储在 SQLite 数据库中，使其容易受到恶意软件攻击。隐私倡导者将 Recall 称为“隐私噩梦”，英国信息专员办公室正在调查。微软声称 Recall 是可选的，并包括隐私控制，但人们仍然担心它可能被滥用。The Verge 联系了微软征求意见，但他们在发表前没有回应。]]></description>
-      <guid>https://t.me/hn_summary/92869</guid>
-      <pubDate>Mon, 03 Jun 2024 14:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] AWS Chalice 是一个用于开发和部署无服务器应用程序的 Python 框架 [...]</title>
-      <link>https://t.me/hn_summary/92868</link>
-      <description><![CDATA[AWS Chalice
-AWS Chalice 是一个使用 AWS Lambda 开发和部署无服务器应用程序的 Python 框架。它使用基于装饰器的 API 简化了 REST API、定期任务和事件驱动函数的创建，并与 API Gateway、S3、SNS 和 SQS 等 AWS 服务无缝集成。主要功能包括用于应用程序管理和自动 IAM 策略生成的命令行工具。Chalice 以其易用性而脱颖而出，允许开发人员以最少的设置快速部署应用程序。该项目包括全面的文档、教程和 API 参考，以帮助用户有效地利用其功能。]]></description>
-      <guid>https://t.me/hn_summary/92868</guid>
-      <pubDate>Mon, 03 Jun 2024 14:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会议员经常可以接触机密信息，这引发了一些担忧[...]</title>
-      <link>https://t.me/hn_summary/92867</link>
-      <description><![CDATA[投资者担心自己无法在股市上打败立法者，于是效仿他们
-国会议员通常可以接触机密信息，这引发了人们对某些人可能利用这些信息在股市获利的担忧。为了应对这种情况，交易员和分析师创建了模仿立法者交易的金融产品，例如以南希·佩洛西和特德·克鲁兹命名的产品。这些产品吸引了大量投资，旨在凸显国会股票交易的问题并促进透明度。尽管 2012 年《股票法》规定必须披露交易信息，但执行力度很弱，处罚也很小。禁止立法者持有股票的努力停滞不前，尽管两党都支持更严格的监管。公众信任度仍然很低，许多人认为立法者从他们的职位中获利。（基于 99% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/92867</guid>
-      <pubDate>Mon, 03 Jun 2024 14:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 KiCAD PCB 生成 OpenSCAD 外壳模板</title>
-      <link>https://t.me/hn_summary/92866</link>
-      <description><![CDATA[从 KiCAD PCB 生成 OpenSCAD 外壳模板
-# Turbocase
+      <title>我很高兴地宣布 Brioche 首次公开发布！</title>
+      <link>https://t.me/hn_summary/92909</link>
+      <description><![CDATA[显示 HN：Brioche – 一款新的类似 Nix 的包管理器
+我很高兴宣布 Brioche 首次公开发布！Brioche 是一款受 Nix、Homebrew 和 Cargo 启发的新型包管理器和构建工具，旨在实现灵活性和易用性。它利用 TypeScript 在构建脚本中进行高级类型检查和自动完成。此版本是技术预览版，目前仅限于 x86-64 Linux，包含少量包和一些性能问题。虽然尚未准备好投入正式使用，但一切都已准备就绪，我渴望得到反馈。
 
-为 PCB 项目创建功能性外壳可能非常繁琐，尤其是在对齐安装孔和确保连接器切口准确时。Turbocase 通过从 KiCAD PCB 文件生成 OpenSCAD 项目提供了一个巧妙的解决方案。通过在用户层（默认为 User.6）上绘制外壳的内边缘，Turbocase 提取 MountingHole 封装并放置用于 M3 螺纹插件的塑料柱。对于连接器，添加了“高度”属性来定义切口尺寸。该工具还通过 TurboCase.pretty 库支持预制结构。使用涉及简单的命令行选项来自定义层、底部和壁厚。]]></description>
-      <guid>https://t.me/hn_summary/92866</guid>
-      <pubDate>Mon, 03 Jun 2024 14:04:14 GMT</pubDate>
+Brioche 借鉴了另一个受 Nix 启发的包管理器 Tangram 的创意。我曾在 Tangram, Inc. 工作，离开后又回到了 Brioche。尽管有相似之处，但 Brioche 的目标是实现不同的目标和领域。我的长期愿景是让 Brioche 无缝管理跨各种平台的各种软件项目。
+
+争议：我离开 Tangram, Inc. 以及 Brioche 作为 Tangram 概念分支的道德考量。
+
+独特/巧妙：Brioche 使用 TypeScript 构建脚本，其目标是无需虚拟化即可在多个操作系统上工作。]]></description>
+      <guid>https://t.me/hn_summary/92909</guid>
+      <pubDate>Mon, 03 Jun 2024 17:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2004 年，科学家首次发现了微塑料——直径小于 5 毫米的微小塑料颗粒 [...]</title>
+      <link>https://t.me/hn_summary/92908</link>
+      <description><![CDATA[迄今为止我们发现微塑料的最令人不安的地方
+2004 年，科学家首次在英国海滩上发现了微塑料——直径小于 5 毫米的微小塑料颗粒。从那时起，这些污染物几乎出现在地球的每个角落，揭示了令人震惊的污染程度。最近的研究表明，微塑料可能会导致小鼠行为变化、人类心脏问题，甚至不孕。令人震惊的是，人类每年至少消耗 50,000 个塑料颗粒。Gizmodo 强调，如果塑料生产继续有增无减，去除微塑料的努力将是徒劳的。文章列出了一些发现微塑料的最令人不安的地点，突出了这场环境危机的普遍性。随着新研究的出现，此列表将更新。]]></description>
+      <guid>https://t.me/hn_summary/92908</guid>
+      <pubDate>Mon, 03 Jun 2024 17:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 本研究通过水热法合成了BaTiO₃纳米粒子，并制备了[...]</title>
+      <link>https://t.me/hn_summary/92907</link>
+      <description><![CDATA[揭示纳米粒子中极性拓扑的三维排列
+在这项研究中，BaTiO₃纳米粒子通过水热法合成，并通过将其分散在乙醇中、超声处理和滴铸到SiN膜上进行分析。为了防止电子束损坏，应用了非晶碳膜，并对样品进行了热处理。使用EDS映射和PXRD进行的初步表征证实了原子结构和化学成分，揭示了立方相。采用包括STEM和3D重建在内的先进技术来追踪和分类原子位置，确保最小的光束引起的变化。该研究对漂移、失真和噪声进行了细致的校正，实现了高精度的3D原子模型。手动调整原子位置是必要的，这是原子电子断层扫描 (AET) 中的常见做法。
+
+令人惊讶/巧妙的方面：该研究对纠正光束引起的变化和手动调整的细致方法凸显了原子电子断层扫描所需的精度。
+
+有争议的方面：原子位置追踪中手动调整的必要性虽然很常见，但可能会引发对结果的客观性和可重复性的质疑。（基于 34% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/92907</guid>
+      <pubDate>Mon, 03 Jun 2024 17:47:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在这个有趣的谜题中，你将从华盛顿州西雅图开始一段旅程，面朝正东，然后穿过 [...]</title>
+      <link>https://t.me/hn_summary/92906</link>
+      <description><![CDATA[从西雅图向东
+在这个有趣的谜题中，你将从华盛顿州西雅图出发，面朝正东，沿着地球表面直线行进。令人惊讶的是，离开北美后你到达的第一个国家是澳大利亚，而不是像人们直觉猜测的那样是法国这样的欧洲国家。这是因为球体上的“直线”（称为测地线）与平面地图上的直线不同。你走的路是一个大圆，是球体上两点之间的最短路线，它俯冲到非洲下方到达澳大利亚。这个谜题突出了地球上直观和实际测地线路径之间的迷人差异。]]></description>
+      <guid>https://t.me/hn_summary/92906</guid>
+      <pubDate>Mon, 03 Jun 2024 17:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 上周，我们推出了 Cirkoban，这是一款融合了 Sokoban 推箱子和 [...] 的益智游戏。</title>
+      <link>https://t.me/hn_summary/92905</link>
+      <description><![CDATA[Cirkoban：推箱子游戏与用 Scheme 编写的细胞自动机相遇
+上周，我们推出了 Cirkoban，这是一款将推箱子游戏与 Wireworld 细胞自动机相结合的益智游戏，标志着 Spritely 在 Web 浏览器中使用 Goblins 分布式编程库的第一个公开应用程序。Cirkoban 仅用 10 天时间就为 Spring Lisp Game Jam 2024 开发完成，展示了我们的 Hoot Scheme-to-WebAssembly 编译器。玩家引导猫头鹰通过 15 个难度不断增加的关卡，使用最少的控制和“撤消”功能解决谜题。该游戏旨在对我们的技术（尤其是 Hoot 和 Goblins）进行压力测试，并演示本地参与者和事务回滚。尽管面临一些发展挑战，Cirkoban 还是获得了积极的反馈，在 jam 中排名第二。]]></description>
+      <guid>https://t.me/hn_summary/92905</guid>
+      <pubDate>Mon, 03 Jun 2024 17:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 在本世纪的大部分时间里，大型科技公司都在最低限度的监督下运营，导致 [...]</title>
+      <link>https://t.me/hn_summary/92904</link>
+      <description><![CDATA[YC 为何选择华盛顿
+本世纪大部分时间，大型科技公司都处于最低限度的监管之下，导致社交媒体危害和反竞争行为等重大问题。尽管最近监管力度加大，但少数大型公司仍然掌握着巨大的权力。华盛顿冒着在人工智能 (AI) 政策上重蹈覆辙的风险。我最近访问了华盛顿，倡导“小科技”——对充满活力的经济至关重要的新兴创业公司。我们与政策制定者就开源 AI、人才移民、反垄断行动和消除非竞争性进行了交流。初创公司必须被纳入 AI 政策讨论，以确保公平、竞争的市场和广泛的利益。忽视它们可能会扼杀创新并进一步集中权力。我们需要明智的政策来让这些创新者蓬勃发展。与官员分享的要点包括优先考虑开源模型、促进市场竞争和禁止非竞争性。这种方法将支持下一代开创性的公司，并确保人工智能的好处得到广泛传播。]]></description>
+      <guid>https://t.me/hn_summary/92904</guid>
+      <pubDate>Mon, 03 Jun 2024 17:42:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
