@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 15:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:12:36 GMT</lastBuildDate>
     <item>
       <title>获取更多 Clo​​odot 的评论</title>
       <link>https://www.producthunt.com/posts/get-more-reviews-by-cloodot</link>
@@ -51,7 +51,7 @@
       <title>带圆圈</title>
       <link>https://www.producthunt.com/posts/circled-2</link>
       <description><![CDATA[
-客户支持由 GPT 5 提供支持
+由 ChatGPT 提供支持的客户支持
 
 
 讨论
@@ -60,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/circled-2</guid>
       <pubDate>Mon, 03 Jun 2024 12:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>DevRev 客户体验 AI 代理</title>
-      <link>https://www.producthunt.com/posts/devrev-customer-experience-ai-agent</link>
-      <description><![CDATA[
-GenAI 为您的应用和网站提供支持的搜索
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/devrev-customer-experience-ai-agent</guid>
-      <pubDate>Sun, 02 Jun 2024 02:21:47 GMT</pubDate>
     </item>
     <item>
       <title>Descript 的 Underlord</title>
@@ -102,20 +88,6 @@ GenAI 为您的应用和网站提供支持的搜索
 ]]></description>
       <guid>https://www.producthunt.com/posts/kroolo</guid>
       <pubDate>Fri, 31 May 2024 10:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>私募股权清单 2.0 + PEL 信息</title>
-      <link>https://www.producthunt.com/posts/private-equity-list-2-0-pel-feed</link>
-      <description><![CDATA[
-Crunchbase 的用户友好替代品的重大更新
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/private-equity-list-2-0-pel-feed</guid>
-      <pubDate>Fri, 31 May 2024 04:06:52 GMT</pubDate>
     </item>
     <item>
       <title>我的人工智能</title>
@@ -160,7 +132,21 @@ AI 将家庭暴力事件与法律法规进行匹配
       <pubDate>Tue, 28 May 2024 02:30:54 GMT</pubDate>
     </item>
     <item>
-      <title>运维人工智能</title>
+      <title>Fibery 2.0</title>
+      <link>https://www.producthunt.com/posts/fibery-2-0</link>
+      <description><![CDATA[
+产品发现和开发平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/fibery-2-0</guid>
+      <pubDate>Sat, 25 May 2024 09:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>运维管理人工智能</title>
       <link>https://www.producthunt.com/posts/oam-ai</link>
       <description><![CDATA[
 为您的短期租赁提供 AI 礼宾服务
@@ -174,18 +160,18 @@ AI 将家庭暴力事件与法律法规进行匹配
       <pubDate>Wed, 22 May 2024 04:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>Standuply 的 Jira 时间跟踪</title>
-      <link>https://www.producthunt.com/posts/time-tracking-for-jira-by-standuply</link>
+      <title>Web Highlights - PDF 和 Web Highlighter</title>
+      <link>https://www.producthunt.com/posts/web-highlights-pdf-web-highlighter-1</link>
       <description><![CDATA[
-AI 时间跟踪和资源规划，用于工作量洞察
+适用于任何网站和 PDF 的生产力荧光笔 - 免费使用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/time-tracking-for-jira-by-standuply</guid>
-      <pubDate>Fri, 17 May 2024 08:27:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/web-highlights-pdf-web-highlighter-1</guid>
+      <pubDate>Thu, 16 May 2024 14:22:10 GMT</pubDate>
     </item>
     <item>
       <title>大提琴</title>
@@ -214,6 +200,20 @@ AI 时间跟踪和资源规划，用于工作量洞察
 ]]></description>
       <guid>https://www.producthunt.com/posts/savewise-cashback</guid>
       <pubDate>Fri, 26 Apr 2024 18:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>船员</title>
+      <link>https://www.producthunt.com/posts/crewting</link>
+      <description><![CDATA[
+将孤立的远程工作者转变为紧密联系的团队
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/crewting</guid>
+      <pubDate>Wed, 06 Mar 2024 09:32:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
