@@ -4,107 +4,102 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Wed, 05 Jun 2024 00:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 03:05:02 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：www.wired.com</title>
-      <link>https://t.me/hn_summary/93181</link>
-      <description><![CDATA[黑客工具提取 Windows 的新 Recall AI 收集的所有数据
-标题：黑客工具提取 Windows 的新 Recall AI 收集的所有数据
-网站：www.wired.com
-
-Hagenah 透露，攻击者可以从 Windows 的 Recall AI 中提取大量信息，包括电子邮件、个人对话和敏感数据。在 Kevin Beaumont 的研究基础上，Hagenah 展示了 Recall 的数据是多么容易被访问。Beaumont 已经创建了一个网站来搜索 Recall 数据库，但尚未发布，这让微软有时间解决这个问题。 InfoStealer 木马现在可以被修改以利用 Recall，这引发了重大的安全问题。尽管微软声称 Recall 数据是本地存储的，而不是发送到他们的服务器，但安全研究人员已经从中提取了密码。英国信息专员办公室已要求微软提供更多详细信息。Beaumont 建议微软在正式发布 Recall 之前对其进行彻底检查。
-
-争议：重大数据泄露的可能性以及 Recall 数据被提取的容易程度是主要问题，尤其是考虑到微软的安全问题历史。
-
-独特/聪明：Beaumont 为 Recall 数据库创建了一个可搜索的网站，虽然尚未发布，但却是一个突出漏洞的聪明方法。]]></description>
-      <guid>https://t.me/hn_summary/93181</guid>
-      <pubDate>Wed, 05 Jun 2024 00:38:07 GMT</pubDate>
+      <title>GitHub 项目“Show HN：一种用于减少 LLM 应用程序延迟和 c [...] 的上下文感知语义缓存</title>
+      <link>https://t.me/hn_summary/93207</link>
+      <description><![CDATA[Show HN：用于减少 LLM 应用延迟和成本的上下文感知语义缓存
+Canonical AI 的 GitHub 项目“Show HN：用于减少 LLM 应用延迟和成本的上下文感知语义缓存”旨在通过实现上下文感知语义缓存来增强对话式 AI 应用程序。此缓存通过存储和检索上下文适当的响应来减少与大型语言模型 (LLM) 相关的延迟和成本。与简单的上下文无关语义缓存不同，Canonical AI 的解决方案提供高精度和召回率，即使在开放式对话中也能确保相关的缓存命中。它具有快速响应时间、安全处理用户数据和可自定义的缓存行为。集成可通过 API 或代理直接进行，并具有本地部署选项。该项目为低使用率提供免费套餐，为高使用率提供付费套餐，强调了在竞争激烈的人工智能领域减少延迟的重要性。]]></description>
+      <guid>https://t.me/hn_summary/93207</guid>
+      <pubDate>Wed, 05 Jun 2024 03:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 2023 年 7 月 28 日，我收到英国反兴奋剂机构 (UKAD) 的不利分析财务通知 [...]</title>
-      <link>https://t.me/hn_summary/93180</link>
-      <description><![CDATA[对抗反兴奋剂裁决
-2023 年 7 月 28 日，英国反兴奋剂机构 (UKAD) 通知我，对两种物质的分析结果 (AAF) 为：福莫特罗，一种我多年来一直使用的哮喘药物，以及氯噻酮，一种可能因污染而存在的利尿剂。尽管我小心翼翼地避免使用违禁物质，但 UKAD 最初坚持禁赛两年。经过广泛的调查和法庭准备，UKAD 改变了他们的立场，承认我没有过错或疏忽，没有实施任何制裁。这场磨难耗尽了我们的积蓄并造成了严重的精神损失，凸显了反兴奋剂系统的缺陷以及迫切需要进行改革以保护运动员免受类似的不公正待遇。 （根据 13% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/93180</guid>
-      <pubDate>Wed, 05 Jun 2024 00:35:58 GMT</pubDate>
+      <title>“tiny-ai-client” GitHub 项目提供了一个简化的、统一的客户端，用于使用和切换 [...]</title>
+      <link>https://t.me/hn_summary/93206</link>
+      <description><![CDATA[向 HN 展示：我制作了一个简单的统一 LLM 客户端，具有工具调用和视觉支持
+“tiny-ai-client”GitHub 项目提供了一个简化的统一客户端，用于使用和切换各种大型语言模型 (LLM)，并支持视觉和工具使用。受 tinygrad 和 simpleaichat 的启发，它旨在提供一个易于理解且开发有趣的界面，与 Langchain 等更复杂的框架形成鲜明对比。主要功能包括对 OpenAI 和 Anthropic 模型的支持、异步操作、结构化输出和视觉功能。该项目设计简约，核心逻辑不到 250 行代码，易于调整和使用。它还支持通过类型提示函数进行工具集成以及使用 PIL 图像的视觉任务。]]></description>
+      <guid>https://t.me/hn_summary/93206</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在最近的一封信中，包括 Yoshua Bengio、Geoffrey Hinton 和 [...] 在内的著名人工智能专家</title>
-      <link>https://t.me/hn_summary/93179</link>
-      <description><![CDATA[人工智能行业从业人员再次警告称，该技术可能导致“人类灭绝”
-在最近的一封信中，包括 Yoshua Bengio、Geoffrey Hinton 和 Stuart Russell 在内的著名人工智能专家再次对人工智能可能带来的生存风险发出警告。此​​前，还有一系列类似的警告，包括 2023 年 3 月，150 多名人工智能研究人员公开信敦促对人工智能系统进行独立评估，原因是担心保护措施不足。当月晚些时候，另一封由 1,000 多名专家签署的信警告称，由于不受控制的人工智能，可能会“失去对我们文明的控制”。2023 年 5 月，领先的人工智能创造者强调需要将人工智能控制与流行病和核战争等全球威胁同等优先。反复出现的主题强调了人工智能社区内问题的紧迫性和严重性。]]></description>
-      <guid>https://t.me/hn_summary/93179</guid>
-      <pubDate>Wed, 05 Jun 2024 00:24:45 GMT</pubDate>
+      <title>[媒体] “本地 Kubernetes Runner”（LKR）项目旨在简化设置过程[...]</title>
+      <link>https://t.me/hn_summary/93205</link>
+      <description><![CDATA[显示 HN：10 秒内开发 Kubernetes 集群 – Docker 是唯一要求
+“Local Kubernetes Runner”(LKR) 项目旨在简化设置本地 Kubernetes 集群的过程，只需要 Docker 和 kubectl。它支持 k3s 引擎，并允许用户使用简单的命令启动、停止和管理集群。该项目的与众不同之处在于，只需 10 秒即可快速部署 Kubernetes 集群，使其在开发和测试方面非常高效。此外，它还提供了方便的命令来将 Docker 映像加载到集群中，并与 kubectl 无缝集成，允许用户在新集群上运行他们最喜欢的工具。]]></description>
+      <guid>https://t.me/hn_summary/93205</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 哈勃太空望远镜自 2007 年发射以来，一直是天文研究的基石 [...]</title>
-      <link>https://t.me/hn_summary/93178</link>
-      <description><![CDATA[哈勃太空望远镜已失去大部分陀螺仪
-哈勃太空望远镜自 1990 年发射以来一直是天文研究的基石，但它正面临重大挑战，因为它失去了大部分陀螺仪，而陀螺仪对于其定位和指向能力至关重要。NASA 宣布，现在将使用单个陀螺仪来延长哈勃望远镜的使用寿命，可能到 2035 年。这一决定将降低观测效率，并限制望远镜观察比火星更近的物体的能力。尽管存在这些限制，NASA 官员仍然对哈勃望远镜的持续科学贡献持乐观态度，尤其是与詹姆斯·韦伯太空望远镜的合作。值得注意的是，NASA 拒绝了亿万富翁 Jared Isaacman 提出的资助商业维修任务的提议，而是选择让哈勃望远镜自然老化。这一决定凸显了 NASA 在让私人实体参与其古老望远镜维护方面的谨慎态度。]]></description>
-      <guid>https://t.me/hn_summary/93178</guid>
-      <pubDate>Wed, 05 Jun 2024 00:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] Mike Karels (1956-2024) 是 BSD UNIX 历史上一位关键的美国软件工程师。</title>
-      <link>https://t.me/hn_summary/93177</link>
-      <description><![CDATA[RIP Mike Karels 1956-2024
-Mike Karels (1956-2024) 是 BSD UNIX 历史上一位举足轻重的美国软件工程师。1993 年，他因对 4.4BSD-Lite 版本的贡献而被 USENIX 协会授予终身成就奖。1992 年，Karels 加入 BSDi 并设计了 BSD/OS，这是多年来英特尔平台上唯一一款商用的 BSD 风格 Unix。在 2001 年 BSDi 的资产被 Wind River 收购后，Karels 于 2003 年转入 Secure Computing Corporation，在将 SecureOS 过渡到 FreeBSD 的过程中发挥了关键作用。尽管经历了多次公司变动，但他一直担任相同的职位，直到 2021 年退休。值得注意的是，Karels 于 2017 年成为 FreeBSD 提交者，并在退休后继续做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/93177</guid>
-      <pubDate>Wed, 05 Jun 2024 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 美国研究团队最近在《JAMA》上发表了一项研究。</title>
-      <link>https://t.me/hn_summary/93176</link>
-      <description><![CDATA[研究表明，大多数在 X 上代言药物的医生都是收钱的
-美国医学研究团队最近在 JAMA 上发表的一项研究表明，大量在社交媒体平台 X（以前称为 Twitter）上代言药物的医生都得到了药品制造商的经济补偿。研究人员利用跟踪医疗保健专业人员付款情况的 Open Payments 网站发现，在 28 名发布代言的医生中，有 26 名收到了制药公司的付款，24 名专门为他们代言的药物获得了报酬。大多数付款被归类为“演讲”或“咨询”。虽然有些人可能认为这种做法不道德，但它仍然是合法的，不会影响医疗许可。这一发现引发了人们对社交媒体上药物代言的透明度和道德性的质疑。]]></description>
-      <guid>https://t.me/hn_summary/93176</guid>
-      <pubDate>Tue, 04 Jun 2024 23:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>问 HN：我对 AI 感到不知所措。</title>
-      <link>https://t.me/hn_summary/93175</link>
-      <description><![CDATA[问 HN：我被人工智能搞得不知所措。该如何应对？
-我对人工智能技术的快速发展感到不知所措，这影响了我的心理健康。我记得 2020 年 GPT-3 发布时，我们嘲笑它的局限性。快进到今天，GPT-4 让每个人都惊叹不已，GPT-5 即将问世。技术进步的速度太快了，我跟不上，这些大型语言模型 (LLM) 变得如此熟练，以至于感觉什么都不值得做了。
-
-学习和完善一项技能需要时间。例如，我可能需要一年的时间来学习 Unity 游戏引擎，再花一年的时间来创建一个简单的视频游戏。但是，既然人工智能已经可以提供代码片段和详细说明，并且很快就能生产出完整的产品，为什么还要费心呢？数字绘画、3D 建模和动画也是如此——文本到 3D 技术发展如此之快，可能会在一夜之间让这些技能过时。
-
-当像 Gemini 这样的人工智能已经可以制作和出版小说和非小说作品时，即使是写小说似乎​​也是徒劳的，很难区分人类和人工智能的作者身份。亚马逊等平台上人工智能生成的内容泛滥，几乎不可能证明自己的原创性。
-
-人工智能生成内容的普遍性也延伸到了其他领域。我最近看了一段 YouTube 短片，直到我读了评论，我才意识到这是人工智能生成的。一年前，我很容易就能发现这种假货。
-
-人工智能可以更快、更好、更便宜地做事，让我想学或想做的一切都感觉是在浪费时间。这导致了一种冷漠感。尽管自 GPT-3 发布以来，我的工作、房产和汽车都是一样的，但技术世界发展如此之快，我担心自己很快就无法驾驭它。我该如何应对？我该如何适应？如果所有智力工作都外包给人工智能，我作为社会成员的责任是什么？我还能有用吗？当今的伟大思想家对此有何看法？]]></description>
-      <guid>https://t.me/hn_summary/93175</guid>
-      <pubDate>Tue, 04 Jun 2024 23:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 2021 年，当时还是研究生的 William Kretschmer 发表了一篇开创性的论文 [...]</title>
-      <link>https://t.me/hn_summary/93174</link>
-      <description><![CDATA[密码学家发现量子保密的新基础
-2021 年，当时还是研究生的 William Kretschmer 发表了一篇开创性的论文，挑战了量子比特承诺的长期假设。他的工作重点是区分两个相似量子态所需的计算难度，这个问题以前与密码学无关。Kretschmer 的方法涉及使用假设的预言机来探索这个“状态歧视”问题。令人惊讶的是，他发现即使使用预言机增强量子算法，这个问题仍然无法解决，这与预期相矛盾。这一发现引起了 Luowen Qian 等研究人员的兴趣，他们最初怀疑它的有效性，因为它的反直觉性质。 Kretschmer 的发现为量子保密提供了一个意想不到的新基础。]]></description>
-      <guid>https://t.me/hn_summary/93174</guid>
-      <pubDate>Tue, 04 Jun 2024 23:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 标题：macOS Bartender 自动更新由未知新所有者签名</title>
-      <link>https://t.me/hn_summary/93173</link>
-      <description><![CDATA[macOS Bartender 自动更新由未知新所有者签名
-标题：macOS Bartender 自动更新由未知新所有者签名
-
-网站：www.macrumors.com
+      <title>网站：virtual-avatar-generation.github.io</title>
+      <link>https://t.me/hn_summary/93204</link>
+      <description><![CDATA[展示 HN：AI 攀岩教练背后的研究论文
+标题：展示 HN：AI 攀岩教练背后的研究论文
+网站：virtual-avatar-generation.github.io
 
 摘要：
-
-两个月前，流行的 Mac 应用 Bartender 已悄然出售，引发用户对透明度的担忧。Reddit 用户注意到 MacUpdater 警告称 5.0.52 版更新可能存在安全问题，随后发现了此次出售。新所有者确认了收购，但未解释未通知或证书更改的原因。他们后来承认了这一疏忽，并在博客上分享了这些信息。尽管用户要求，新所有者仍未透露他们的身份，这进一步引发了不安。由于缺乏清晰的沟通和透明度，这种情况引起了用户的警惕。]]></description>
-      <guid>https://t.me/hn_summary/93173</guid>
-      <pubDate>Tue, 04 Jun 2024 22:56:16 GMT</pubDate>
+研究论文介绍了 SABR-CLIMB，这是一种旨在为攀岩场景生成逼真的虚拟角色动作的 AI 系统。通过使用图像中带注释的对象作为视觉提示和空旷环境的视频，系统可以创建与带注释的对象交互的合理攀岩动作。论文展示了通过各种视频技术捕捉的室内和室外攀岩路线示例。这种创新方法凸显了人工智能通过提供详细且情境感知的模拟来增强虚拟训练环境的潜力。]]></description>
+      <guid>https://t.me/hn_summary/93204</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌首席隐私官 Keith Enright 在公司任职 13 年后即将离职，[...]</title>
-      <link>https://t.me/hn_summary/93172</link>
-      <description><![CDATA[谷歌隐私主管离职，无人接替
-谷歌首席隐私官 Keith Enright 将在任职 13 年后离开公司，目前没有计划更换他。此举是谷歌隐私和法律合规团队更广泛重组的一部分。Enright 一直是谷歌数据处理实践的关键人物，他将留任至 9 月。竞争法负责人 Matthew Bye 也将在一场关键的反垄断审判中离职。谷歌发言人表示，重组旨在加强整个公司的监管合规性。Enright 离职的消息令员工们感到震惊，凸显了这些变化的争议和内部影响。]]></description>
-      <guid>https://t.me/hn_summary/93172</guid>
-      <pubDate>Tue, 04 Jun 2024 22:54:11 GMT</pubDate>
+      <title>[媒体] 网站：www.medullar.com</title>
+      <link>https://t.me/hn_summary/93203</link>
+      <description><![CDATA[展示 HN：Medullar - 革命性的数据搜索和管理
+标题：展示 HN：Medullar - 革命性的数据搜索和管理
+网站：www.medullar.com 
+
+Medullar 正在通过提供最快、最安全的方法来实时发现跨各种平台的信息，从而改变您处理数据的方式。使用一个通用搜索工具，您只需搜索一次即可找到所需的一切，无论它存储在何处。这种创新方法可确保您的数据始终触手可及，从而简化您的工作流程并提高工作效率。]]></description>
+      <guid>https://t.me/hn_summary/93203</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Milou 是一个静态站点生成器，旨在创建具有视觉吸引力和信息丰富的网站[...]</title>
+      <link>https://t.me/hn_summary/93202</link>
+      <description><![CDATA[显示 HN：新闻资料包的静态站点生成器
+Milou 是一个静态站点生成器，旨在为公司及其产品创建具有视觉吸引力和信息量的新闻资料包。它允许用户以结构化和引人入胜的格式展示他们的品牌故事、新闻稿、媒体资产和关键团队成员。Milou 生成静态 HTML 文件，确保快速加载时间、可访问性和响应式设计。它使用简单的 YAML 配置并提供样板模板来简化内容创建。与其他工具不同，Milou 是从 Pixelnest 的 presskit.html 分叉而来，灵感来自 Rami Ismail 的 presskit()。安装需要 Node.js，生成的站点可以托管在 GitHub Pages 或 Netlify 等平台上。]]></description>
+      <guid>https://t.me/hn_summary/93202</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：namenerdle.com</title>
+      <link>https://t.me/hn_summary/93201</link>
+      <description><![CDATA[显示 HN：Namenerdle，一个用于名称的 Wordle
+标题：显示 HN：Namenerdle，一个用于名称的 Wordle
+网站：namenerdle.com
+
+Namenerdle 是一款有趣且引人入胜的游戏，玩家有六次机会从 SSA 数据库中猜测一个五个字母的名字。与 Wordle 类似，游戏通过颜色编码的图块提供反馈，以指示您的猜测与目标名称的接近程度。绿色图块表示字母在正确的位置，黄色表示字母在名称中但在错误的位置，灰色表示字母根本不在名称中。该游戏采用美国最广为人知的名字拼写，为经典的 Wordle 格式增添了独特的变化。]]></description>
+      <guid>https://t.me/hn_summary/93201</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：dappier.com</title>
+      <link>https://t.me/hn_summary/93200</link>
+      <description><![CDATA[Show HN：我们构建了一个平台，用于使数据具备 LLM 资格并授权用于 AI
+标题：Show HN：我们构建了一个平台，用于使数据具备 LLM 资格并授权用于 AI
+网站：dappier.com
+
+在 Dappier，我们开发了一个尖端平台，旨在简化为大型语言模型 (LLM) 准备数据和管理 AI 应用程序许可的过程。我们的解决方案与各种数据源无缝集成，包括 RSS 源、Airtable、专有数据库、文档和知识库。这可确保您的数据不仅可用于高级 AI，还符合必要的许可要求。我们的平台以其多​​功能性和易用性脱颖而出，使其成为希望有效利用 AI 的企业的必备工具。]]></description>
+      <guid>https://t.me/hn_summary/93200</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 我一直在不断改进我的电子纸智能显示器，这是我从事的一个副项目 [...]</title>
+      <link>https://t.me/hn_summary/93199</link>
+      <description><![CDATA[向 HN 展示：我为电子纸智能显示屏添加了一个照片库
+我一直在不断改进我的电子纸智能显示屏，这是我下班后从事的一个副业。自从我在 Hacker News 上发表第一篇帖子以来，这个项目已经取得了长足的发展，我很高兴与大家分享我的最新成果：一个照片库应用程序！用户现在可以从他们的智能手机上传照片，然后这些照片会以随机旋转的方式显示在电子纸屏幕上。图像通过抖动转换为黑白，以产生灰度错觉。在此处查看新功能：照片库。Invisible Computers照片库 ]]></description>
+      <guid>https://t.me/hn_summary/93199</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：www.semajai.com</title>
+      <link>https://t.me/hn_summary/93198</link>
+      <description><![CDATA[Show HN：一键生成任何主题的测验
+标题：Show HN：一键生成任何主题的测验
+网站：www.semajai.com
+
+Semaj AI 推出了一款突破性工具，用户只需单击一下即可生成任何主题的测验。这个创新平台将三种领先的语言模型 (LLM) 集成到一个界面中，可以无缝比较和选择最佳答案，而无需在浏览器选项卡之间切换。同时访问多个 AI 模型的独特功能可确保用户获得最准确、最全面的答案。此工具对于教育工作者、琐事爱好者以及任何想要测试其知识或轻松创建引人入胜的内容的人特别有用。]]></description>
+      <guid>https://t.me/hn_summary/93198</guid>
+      <pubDate>Wed, 05 Jun 2024 03:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
