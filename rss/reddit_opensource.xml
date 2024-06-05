@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 05 Jun 2024 12:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 15:10:09 GMT</lastBuildDate>
+    <item>
+      <title>如果我有一个用 C++ 编写的可立即使用但功能极小的 Web 框架，我应该对社区有什么期望？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8s7g1/what_should_i_expect_from_the_community_if_i_have/</link>
+      <description><![CDATA[我断断续续花了大约一个月的时间研究这个东西，现在我可以轻松处理 HTTP 请求，从请求中获取数据，并将数据以特定状态 (HTTP_OK、HTTP_NOT_FOUND 等) 返回给用户。 我还构建了一个记录器和一个路由器。现在，如果我必须指出任何与此最相似的东西，我会说它最接近 Python 框架 Flask。我有意尽我所能使它尽可能简单和简约，以打破“我们不会用 C++ 编码，因为它很难学”的污名。 我现在面临的主要问题是，我看到很多事情需要处理才能使这个东西具有实际价值。目前，它只能接受简单的表单数据/文件、GET 参数、JSON 数据并解析 JSON 数据，并返回某种响应（基于文本。它可以是 XML/JSON/HTML 或纯文本）。 为了使其有用，我必须实现以下内容：  数据库插件，最好是 ORM，如用于 SQL 数据库的 SQLAlchemy 或用于 MongoDB 的 Beanie 等。这在未来应该主要得到社区支持，但它应该提供最流行的开箱即用集成，以方便使用。 身份验证机制，例如 JWT 令牌。 用于在客户端和服务器之间实现实时通信的 Web 套接字 蓝图，以便用户可以将其 API 拆分为更小的段并在将来进行版本控制（即 /v1 或 /v2） 为想要单独使用此 Web 服务器而不依赖其他 GUI 框架的用户提供模板。我会从 Jinja 中汲取灵感  我可以自己完成大部分工作，但我不想在不知道它是否有用的情况下花费这么多时间，所以如果我决定采用这个开源项目，我对社区的期望是什么？ 这里有一个示例路线，它接受简单的名字和姓氏，并将它们作为 JSON 格式的全名返回给用户： app.addRoute(&quot;/get_full_name&quot;, &quot;POST&quot;, [&amp;app](Poco::Net::HTTPServerRequest&amp; request, Poco::Net::HTTPServerResponse&amp; response) { DataHandler dataHandler(request); std::map&lt;std::string, std::string&gt; form = dataHandler.getForm(); // std::map&lt;std::string, std::string&gt; params = dataHandler.getParams(); 可以通过请求参数来完成 (?first_name=John&amp;last_name=Doe) // nlohmann::json json = dataHandler.getJson(); 也可以从请求主体中获取 json 数据，它在 dataHandler 类的 getJson() 方法中进行解析 response.setStatus(Poco::Net::HTTPResponse::HTTP_OK); response.setContentType(&quot;text/json&quot;); response.send() &lt;&lt; &quot;{ \&quot;full_name\&quot; : \&quot;&quot; + form[&quot;first_name&quot;] + &quot; &quot; + form[&quot;last_name&quot;] + &quot;\&quot; }&quot;; // 有点乱，我知道。 ^^^^ }    由    /u/Dont_Vue_Just_React  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8s7g1/what_should_i_expect_from_the_community_if_i_have/</guid>
+      <pubDate>Wed, 05 Jun 2024 15:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要分享一个“开源货币化工具”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8qe2f/wanted_to_share_a_open_source_monetizer/</link>
+      <description><![CDATA[在他们的电报频道上分享了我的观点，结果被疯狂地批评了。管理员批评了一点，但群成员是另一回事，天哪。 现在我明白为什么小偷会采取守势了。 同一个人有 4 个不同的频道，他在其中分享开源项目（和不分享），并使用链接缩短器上传项目，有时甚至不给予任何信用。 他在三个 YouTube 频道（我发现的）中做了所有这些： - Tech Karan - Everything Android - Karan Arora 注意：他似乎对他们表示了感谢，但只在他的四个 TELEGRAM 频道中的一个。不是 YouTube 频道。即便如此，他还是自己上传文件。没有提供开发者页面的下载链接。    提交人    /u/thejedih   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8qe2f/wanted_to_share_a_open_source_monetizer/</guid>
+      <pubDate>Wed, 05 Jun 2024 13:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要分享一个“开源货币化工具”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1d8qdrv/wanted_to_share_a_open_source_monetizer/</link>
+      <description><![CDATA[在他们的电报频道上分享了我的观点，结果被疯狂地批评了。管理员批评了一点，但群成员是另一回事，天哪。 现在我明白为什么小偷会采取守势了。 同一个人有 4 个不同的频道，他在其中分享开源项目（和不分享），并使用链接缩短器上传项目，有时甚至不给予任何信用。 他在三个 YouTube 频道（我发现的）中做了所有这些： - Tech Karan - Everything Android - Karan Arora 注意：他似乎对他们表示了感谢，但只在他的四个 TELEGRAM 频道中的一个。不是 YouTube 频道。即便如此，他还是自己上传文件。没有提供开发者页面的下载链接。    提交人    /u/thejedih   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1d8qdrv/wanted_to_share_a_open_source_monetizer/</guid>
+      <pubDate>Wed, 05 Jun 2024 13:48:21 GMT</pubDate>
+    </item>
     <item>
       <title>用 C 语言编写的微型公共领域数学库（+网络演示）</title>
       <link>https://www.reddit.com/r/opensource/comments/1d8nhiv/a_tiny_public_domain_math_library_written_in_c/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>我对开源目标的现状以及对超越技术的希望......最接近开源汽车的东西？</title>
       <link>https://www.reddit.com/r/opensource/comments/1d8go1q/the_current_status_of_my_open_source_goals_and/</link>
-      <description><![CDATA[我长期以来一直追求尽可能开源，并正在寻求建议。 目前我有：  自从他们在美国关闭 3g 翻盖手机以来，一直在使用 pinephone（目前是 3gb，但很长时间以来都是 ubports 版本。）。 一台英特尔第五代 chrombook（4gb），带有开源固件和 arch，作为我的个人计算机。 一台运行 PopOs 的 rog strix 18&quot;，作为我的工作机器。（我在这里能做的只有这么多） 最近购买了一块兼容 r/AsteroidOS 的手表（dory），尽管我还没有收到与 pinephone 上的 amazfish 同步客户端配合使用的通知。如果你们能帮忙的话，我将不胜感激。  之所以选择这款设备，是因为它缺少许多可用于遥测/跟踪的硬件功能，而且它还具有一些上市后操作系统的测试历史，并使用了一种在其他设备中获得主流（或接近）支持的非常常见的 SOC。 如果我无法让它工作，我可能会在某个时候买一个 pinetime。  我的 pinetab2 明天应该会到。它应该比我的旧赛扬 chromebook 快得多，所以希望它能慢慢取代它。（并不是说从 15.6 英寸到 10.1 英寸不会困扰我） GPS 是上一代 Garmin，但它运行 Linux，而且足够开放，因为它至少发布了一些内容。这也是绝对必要的，而且目前我无法真正摆脱它（除非你们知道更好的选择）  现在，对于我当前的问题是，是否有任何旧车仍然得到很好的支持，但已经成为有效的开源？我唯一想到的可能是大众 1 型车的一些实例。 因为我必须在 8 月之前的某个时候买一辆车，所以我想这可能是另一个推进这一指令的机会，无论这有多不可能，因此，如果我不问的话，那就是我的错。 ​ 我期待您对我在此处提到的任何内容的建议、帮助或想法，以及您认为我可以进一步实现这一目标的任何其他方式。 ​    提交人    /u/Adventurous-Test-246   [链接] [评论]]]></description>
+      <description><![CDATA[我长期以来一直追求尽可能开源，并正在寻求建议。 目前我有：  自从他们在美国关闭 3g 翻盖手机以来，一直在使用 pinephone（目前是 3gb，但很长时间以来都是 ubports 版本。）。 一台英特尔第五代 chrombook（4gb），带有开源固件和 arch，作为我的个人计算机。 一台运行 PopOs 的 rog strix 18&quot;，作为我的工作机器。（我在这里能做的只有这么多） 最近购买了一块兼容 r/AsteroidOS 的手表（dory），尽管我还没有收到与 pinephone 上的 amazfish 同步客户端配合使用的通知。如果你们能帮忙的话，我将不胜感激。  之所以选择这款设备，是因为它缺少许多可用于遥测/跟踪的硬件功能，而且它还具有一些上市后操作系统的测试历史，并使用了一种在其他设备中获得主流（或接近）支持的非常常见的 SOC。 如果我无法让它工作，我可能会在某个时候买一个 pinetime。  我的 pinetab2 明天应该会到。它应该比我的旧赛扬 chromebook 快得多，所以希望它能慢慢取代它。（并不是说从 15.6 英寸到 10.1 英寸不会困扰我） GPS 是上一代 Garmin，但它运行 Linux，而且足够开放，因为它至少发布了一些内容。这也是绝对必要的，而且目前我无法真正摆脱它（除非你们知道更好的选择）  现在，对于我当前的问题是，是否有任何旧车仍然得到很好的支持，但已经成为有效的开源？我唯一想到的可能是大众 1 型车的一些实例。 因为我必须在 8 月之前的某个时候买一辆车，所以我想这可能是另一个推进这一指令的机会，无论这种可能性有多小，因此，如果我不问的话，那将是错误的。 ​ 我期待您对我在此处提到的任何内容的建议、帮助或想法，以及您认为我可以进一步实现这一目标的任何其他方式。 ​    提交人    /u/Adventurous-Test-246   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d8go1q/the_current_status_of_my_open_source_goals_and/</guid>
       <pubDate>Wed, 05 Jun 2024 03:50:03 GMT</pubDate>
     </item>
@@ -67,13 +88,6 @@
       <description><![CDATA[大家好！ 我写这篇文章是为了和大家分享我的第一个开源项目。它是 Sons Of The Forest 专用服务器的容器化版本，通过 Wine 模拟与 Linux 平台兼容。 请随时告诉我您的想法，并给我一些改进它的提示！ https://github.com/gdegiorgio/sons-of-the-docker    提交人    /u/J0edg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d7x3oj/sons_of_the_docker/</guid>
       <pubDate>Tue, 04 Jun 2024 13:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>采用 C4 模型的软件架构图</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d7tulx/software_architecture_diagrams_with_c4_model/</link>
-      <description><![CDATA[        提交人    /u/pliutau   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d7tulx/software_architecture_diagrams_with_c4_model/</guid>
-      <pubDate>Tue, 04 Jun 2024 10:27:57 GMT</pubDate>
     </item>
     <item>
       <title>开源对人工智能的贡献：CPDP-ai 会议小组讨论</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[      我正在寻找一个音乐播放器，它可以提供有关我的使用情况的一些数据，例如播放次数最多的歌曲、艺术家和流派等，但它注重隐私并且开放来源。  我想停止使用 YouTube 音乐，但我会怀念那些让我们反思使用的小事    提交人    /u/dioxidodeodio   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1d7kwqz/music_player/</guid>
       <pubDate>Tue, 04 Jun 2024 01:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Win10 文件资源管理器替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d7jppa/win10_file_explorer_alternatives/</link>
-      <description><![CDATA[是否有适用于 Windows 10 的 Windows 文件资源管理器的开源替代品，如 Dolphin（在 Linux 中）？看起来比较现代的东西（不是 Commander）。    由    /u/bredogge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d7jppa/win10_file_explorer_alternatives/</guid>
-      <pubDate>Tue, 04 Jun 2024 00:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1d7hatl/alternativas_ao_google/</link>
-      <description><![CDATA[我想知道是否有“google office”（驱动器、文档等）、电子邮件和日历服务的在线替代品    提交人    /u/Brilliant_Cover6110   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1d7hatl/alternativas_ao_google/</guid>
-      <pubDate>Mon, 03 Jun 2024 22:18:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
