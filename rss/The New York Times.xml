@@ -4,13 +4,27 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Jun 2024 05:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 08:07:48 GMT</lastBuildDate>
     <item>
       <title>80 岁的 D-Day</title>
       <link>https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html</link>
-      <description><![CDATA[第二次世界大战这场关键战役的周年纪念日气氛沉重，因为这一事件已从人们的记忆中消失，极端主义再次威胁着欧洲。]]></description>
+      <description><![CDATA[参加过二战关键战役的老兵们正在逐渐消失。面临新冲突的欧洲正在回忆他们的战友们为何而死。]]></description>
       <guid>https://www.nytimes.com/2024/06/06/world/europe/dday-80th-anniversary-veterans-remember.html</guid>
-      <pubDate>Thu, 06 Jun 2024 04:01:58 GMT</pubDate>
+      <pubDate>Thu, 06 Jun 2024 07:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国批准对英伟达、微软和 OpenAI 进行反垄断调查</title>
+      <link>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</link>
+      <description><![CDATA[司法部和联邦贸易委员会同意分工调查人工智能行业三大参与者。]]></description>
+      <guid>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</guid>
+      <pubDate>Thu, 06 Jun 2024 06:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球选举中强人地位下降</title>
+      <link>https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html</link>
+      <description><![CDATA[在土耳其、印度和其他地方，一些人担心独裁领导人会巩固权力，但事实证明，民主具有惊人的弹性。]]></description>
+      <guid>https://www.nytimes.com/2024/06/06/world/global-elections-india-turkey-democracy.html</guid>
+      <pubDate>Thu, 06 Jun 2024 05:29:14 GMT</pubDate>
     </item>
     <item>
       <title>以色列拘留加沙人的基地斯德·特曼内部</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[BNN Breaking 拥有数百万读者、一支国际记者团队，并与微软签订了出版协议。但它只是一家人工智能黑店。]]></description>
       <guid>https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html</guid>
       <pubDate>Thu, 06 Jun 2024 04:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国批准对英伟达、微软和 OpenAI 进行反垄断调查</title>
-      <link>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</link>
-      <description><![CDATA[司法部和联邦贸易委员会同意分工调查人工智能行业三大参与者。]]></description>
-      <guid>https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html</guid>
-      <pubDate>Thu, 06 Jun 2024 03:48:02 GMT</pubDate>
     </item>
     <item>
       <title>肯尼迪要求特勤局提供有关父亲遇害周年的详细信息</title>
@@ -76,20 +83,6 @@
       <pubDate>Wed, 05 Jun 2024 22:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>拜登推动停火，内塔尼亚胡威胁对真主党采取军事行动</title>
-      <link>https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html</link>
-      <description><![CDATA[在真主党武装分子对以色列北部发动猛烈攻击后，以色列总理本雅明内塔尼亚胡威胁将采取“非常激烈的”军事回应。]]></description>
-      <guid>https://www.nytimes.com/2024/06/05/world/middleeast/biden-israel-hezbollah-gaza.html</guid>
-      <pubDate>Wed, 05 Jun 2024 21:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党寻求政治优势 参议院共和党阻止避孕法案</title>
-      <link>https://www.nytimes.com/2024/06/05/us/politics/contraception-bill-senate-democrats.html</link>
-      <description><![CDATA[尽管遭到共和党的反对，民主党仍安排了这次投票，希望凸显共和党与绝大多数美国人存在分歧的问题。]]></description>
-      <guid>https://www.nytimes.com/2024/06/05/us/politics/contraception-bill-senate-democrats.html</guid>
-      <pubDate>Wed, 05 Jun 2024 21:48:12 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普判决后，拜登的支持率略有回升</title>
       <link>https://www.nytimes.com/2024/06/05/upshot/polling-trump-conviction-voters.html</link>
       <description><![CDATA[我们联系了近 2,000 名参加过《时代》/锡耶纳之前民意调查的人，看看是否有人改变了主意。]]></description>
@@ -102,6 +95,13 @@
       <description><![CDATA[法官艾琳·坎农设定的新日程反映出在前总统的法律团队努力推迟审判期间她尚未解决的一系列法律问题。]]></description>
       <guid>https://www.nytimes.com/2024/06/05/us/politics/trump-documents-case-hearings.html</guid>
       <pubDate>Wed, 05 Jun 2024 19:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳伦德拉·莫迪将一切都归咎于自己后跌入谷底</title>
+      <link>https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html</link>
+      <description><![CDATA[这位印度领导人利用其独特的人格魅力将他的政党推向了新的高度。然后，反对派找到了利用他的个人崇拜来对付他的方法。]]></description>
+      <guid>https://www.nytimes.com/2024/06/05/world/asia/india-election-modi.html</guid>
+      <pubDate>Wed, 05 Jun 2024 16:00:52 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰重塑形象，民歌成为新潮流</title>
