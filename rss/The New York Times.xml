@@ -4,27 +4,41 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Jun 2024 02:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 05:45:10 GMT</lastBuildDate>
+    <item>
+      <title>首次载人绕月飞行的威廉·安德斯逝世，享年 90 岁</title>
+      <link>https://www.nytimes.com/2024/06/07/science/william-a-anders-dead.html</link>
+      <description><![CDATA[在 1968 年的阿波罗 8 号任务期间，他拍摄的地球初升彩色照片（被称为“地出”）成为了环保运动的标志和推动力。]]></description>
+      <guid>https://www.nytimes.com/2024/06/07/science/william-a-anders-dead.html</guid>
+      <pubDate>Sat, 08 Jun 2024 04:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克龙在巴黎接待拜登，纪念一段并不总是轻松的友谊</title>
+      <link>https://www.nytimes.com/2024/06/08/world/europe/macron-biden-france-us.html</link>
+      <description><![CDATA[法国和美国之间的友谊经久不衰。但加沙和乌克兰战争以及欧洲如何走出美国阴影的问题导致两国关系紧张。]]></description>
+      <guid>https://www.nytimes.com/2024/06/08/world/europe/macron-biden-france-us.html</guid>
+      <pubDate>Sat, 08 Jun 2024 04:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔丹·巴德拉，法国右翼新面孔</title>
+      <link>https://www.nytimes.com/2024/06/08/world/europe/jordan-bardella-france-eu-elections.html</link>
+      <description><![CDATA[这位魅力十足、干练利落、摆脱了勒庞姓氏的年轻国民联盟领导人似乎准备带领其政党在周日的欧洲选举中取得有史以来的最佳表现。]]></description>
+      <guid>https://www.nytimes.com/2024/06/08/world/europe/jordan-bardella-france-eu-elections.html</guid>
+      <pubDate>Sat, 08 Jun 2024 04:01:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>乔治克鲁尼向白宫投诉拜登对国际刑事法院的批评</title>
+      <link>https://www.nytimes.com/2024/06/07/us/politics/george-clooney-biden-white-house-icc.html</link>
+      <description><![CDATA[该演员联系了一位高级官员，抗议总统谴责针对加沙战争寻求逮捕以色列高级官员的举动，他的妻子曾负责这一案件。]]></description>
+      <guid>https://www.nytimes.com/2024/06/07/us/politics/george-clooney-biden-white-house-icc.html</guid>
+      <pubDate>Sat, 08 Jun 2024 03:34:48 GMT</pubDate>
+    </item>
     <item>
       <title>以色列向加沙推进，又袭击一所学校</title>
       <link>https://www.nytimes.com/2024/06/07/world/middleeast/central-gaza-israel-hamas.html</link>
       <description><![CDATA[以色列军方称，他们于周五在加沙地带中部击毙了一些武装分子，此前一天，以色列军方对一所前学校发动了袭击，并称造成平民死亡。]]></description>
       <guid>https://www.nytimes.com/2024/06/07/world/middleeast/central-gaza-israel-hamas.html</guid>
       <pubDate>Sat, 08 Jun 2024 02:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次载人绕月飞行的威廉·安德斯逝世，享年 90 岁</title>
-      <link>https://www.nytimes.com/2024/06/07/science/william-a-anders-dead.html</link>
-      <description><![CDATA[在 1968 年的阿波罗 8 号任务期间，他拍摄的地球初升彩色照片（被称为“地出”）成为了环保运动的标志和推动力。]]></description>
-      <guid>https://www.nytimes.com/2024/06/07/science/william-a-anders-dead.html</guid>
-      <pubDate>Sat, 08 Jun 2024 02:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>史蒂夫·班农在被判入狱前呼吁世界再次伟大</title>
-      <link>https://www.nytimes.com/2024/06/07/us/politics/steve-bannon-bob-good-trump-prison.html</link>
-      <description><![CDATA[这位前总统唐纳德·J·特朗普的前顾问将他即将入狱的行为描述为一种爱国行为。]]></description>
-      <guid>https://www.nytimes.com/2024/06/07/us/politics/steve-bannon-bob-good-trump-prison.html</guid>
-      <pubDate>Sat, 08 Jun 2024 01:35:26 GMT</pubDate>
     </item>
     <item>
       <title>亨特·拜登的女儿娜奥米在枪支审判中代表他作证</title>
@@ -62,46 +76,32 @@
       <pubDate>Fri, 07 Jun 2024 22:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>阿尔文·布拉格同意就特朗普案在国会作证</title>
-      <link>https://www.nytimes.com/2024/06/07/nyregion/alvin-bragg-trump-conviction.html</link>
-      <description><![CDATA[曼哈顿地区检察官向一位共和党议员表示，他只会在7月前总统唐纳德·J·特朗普被判刑后才会出庭作证。]]></description>
-      <guid>https://www.nytimes.com/2024/06/07/nyregion/alvin-bragg-trump-conviction.html</guid>
-      <pubDate>Fri, 07 Jun 2024 22:44:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些真的是‘世界 50 家最佳餐厅’吗？</title>
-      <link>https://www.nytimes.com/2024/06/07/dining/what-makes-a-50-best-restaurant.html</link>
-      <description><![CDATA[今年“50佳”榜单上的地方是耐力测试、戏剧表演、自我纪念碑，以及——餐饮中最可怕的两个词——“沉浸式体验”。]]></description>
-      <guid>https://www.nytimes.com/2024/06/07/dining/what-makes-a-50-best-restaurant.html</guid>
-      <pubDate>Fri, 07 Jun 2024 22:16:18 GMT</pubDate>
-    </item>
-    <item>
       <title>亚历克斯·琼斯寻求变卖资产以向桑迪胡克家庭支付赔偿金</title>
       <link>https://www.nytimes.com/2024/06/07/us/politics/alex-jones-sandy-hook.html</link>
-      <description><![CDATA[但赔偿金额远远低于陪审团因琼斯就 2012 年校园屠杀事件撒谎而判给这些家庭的 14 亿美元以上。]]></description>
+      <description><![CDATA[但赔偿金额远远低于陪审团因琼斯在2012年校园屠杀事件中撒谎而判给这些受害者家人的14亿美元以上。]]></description>
       <guid>https://www.nytimes.com/2024/06/07/us/politics/alex-jones-sandy-hook.html</guid>
       <pubDate>Fri, 07 Jun 2024 21:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于以色列对加沙联合国学校大楼的致命袭击，我们知道些什么</title>
+      <link>https://www.nytimes.com/2024/06/07/world/middleeast/israel-strike-un-school-gaza.html</link>
+      <description><![CDATA[以色列称袭击了三间教室，当时有 20 至 30 名巴勒斯坦武装分子。加沙卫生当局称，数十名遇难者中包括许多妇女和儿童。]]></description>
+      <guid>https://www.nytimes.com/2024/06/07/world/middleeast/israel-strike-un-school-gaza.html</guid>
+      <pubDate>Fri, 07 Jun 2024 21:03:45 GMT</pubDate>
     </item>
     <item>
       <title>克拉伦斯·托马斯 (Clarence Thomas) 在财务披露中承认哈兰·克罗 (Harlan Crow) 支付了 2019 年的旅行费用</title>
       <link>https://www.nytimes.com/2024/06/07/us/supreme-court-disclosures-gifts.html</link>
       <description><![CDATA[这位法官修改了早先的一份文件，将前往巴厘岛度假和由德克萨斯州亿万富翁哈兰·克罗 (Harlan Crow) 出资的加州专属俱乐部度假纳入其中。]]></description>
       <guid>https://www.nytimes.com/2024/06/07/us/supreme-court-disclosures-gifts.html</guid>
-      <pubDate>Fri, 07 Jun 2024 20:40:47 GMT</pubDate>
+      <pubDate>Fri, 07 Jun 2024 20:40:48 GMT</pubDate>
     </item>
     <item>
       <title>拜登政府收紧里程规则以支持电动汽车</title>
       <link>https://www.nytimes.com/2024/06/07/climate/biden-mileage-electric-vehicles.html</link>
       <description><![CDATA[新措施要求汽车制造商到 2031 年其销售的所有车型的平均油耗达到每加仑 65 英里。]]></description>
       <guid>https://www.nytimes.com/2024/06/07/climate/biden-mileage-electric-vehicles.html</guid>
-      <pubDate>Fri, 07 Jun 2024 20:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>《龙卷风》明星格伦·鲍威尔打算玩好莱坞游戏</title>
-      <link>https://www.nytimes.com/2024/06/07/movies/glen-powell-hit-man-twisters.html</link>
-      <description><![CDATA[在这座到处都是准超级巨星的小镇，他试图通过满足电影公司的需求来打破常规。他无处不在，这绝非偶然。]]></description>
-      <guid>https://www.nytimes.com/2024/06/07/movies/glen-powell-hit-man-twisters.html</guid>
-      <pubDate>Fri, 07 Jun 2024 15:00:13 GMT</pubDate>
+      <pubDate>Fri, 07 Jun 2024 20:16:31 GMT</pubDate>
     </item>
     <item>
       <title>阿波罗 8 号的地球升起：全球看到的画面</title>

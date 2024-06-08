@@ -4,13 +4,20 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 08 Jun 2024 03:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 06:12:29 GMT</lastBuildDate>
     <item>
-      <title>失踪电视主持人搜寻进入第四天</title>
+      <title>寻找电视节目主持人迈克尔·莫斯利的简历</title>
       <link>https://www.bbc.com/news/articles/cxrrg9qxgd0o</link>
-      <description><![CDATA[这位 67 岁的老人周三在希腊锡米岛散步后失踪。]]></description>
+      <description><![CDATA[67 岁的迈克尔·莫斯利周三在希腊锡米岛散步后失踪。]]></description>
       <guid>https://www.bbc.com/news/articles/cxrrg9qxgd0o</guid>
-      <pubDate>Sat, 08 Jun 2024 02:51:19 GMT</pubDate>
+      <pubDate>Sat, 08 Jun 2024 05:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>约翰·柯蒂斯爵士：两人之间的辩论，其他人则在一旁冷嘲热讽</title>
+      <link>https://www.bbc.com/news/articles/c0vvxw4egnzo</link>
+      <description><![CDATA[约翰·柯蒂斯爵士称，工党的安吉拉·雷纳和保守党的彭妮·莫当特经常互相攻击。]]></description>
+      <guid>https://www.bbc.com/news/articles/c0vvxw4egnzo</guid>
+      <pubDate>Sat, 08 Jun 2024 03:56:23 GMT</pubDate>
     </item>
     <item>
       <title>美国宇航局“地出”宇航员在飞机失事中丧生，享年 90 岁</title>
@@ -55,13 +62,6 @@
       <pubDate>Sat, 08 Jun 2024 00:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>BBC 七党选举辩论事实核查</title>
-      <link>https://www.bbc.com/news/articles/c255py21x52o</link>
-      <description><![CDATA[BBC Verify 调查有关税收、国防、国民保健服务和移民的指控]]></description>
-      <guid>https://www.bbc.com/news/articles/c255py21x52o</guid>
-      <pubDate>Fri, 07 Jun 2024 23:54:49 GMT</pubDate>
-    </item>
-    <item>
       <title>丹麦首相在哥本哈根遭男子袭击</title>
       <link>https://www.bbc.com/news/articles/cv22k0rkl99o</link>
       <description><![CDATA[袭击发生在哥本哈根市中心的一个广场，一名男子走向她并殴打了她。]]></description>
@@ -97,18 +97,18 @@
       <pubDate>Fri, 07 Jun 2024 20:45:48 GMT</pubDate>
     </item>
     <item>
-      <title>彭妮·莫当特表示，里希·苏纳克离开诺曼底登陆活动是“错误的”</title>
-      <link>https://www.bbc.com/news/articles/cg33x0907nro</link>
-      <description><![CDATA[莫道特女士表示，在 BBC 选举辩论中，其他六个政党的高层人士批评首相，里希·苏纳克的道歉是正确的。]]></description>
-      <guid>https://www.bbc.com/news/articles/cg33x0907nro</guid>
-      <pubDate>Fri, 07 Jun 2024 20:27:31 GMT</pubDate>
-    </item>
-    <item>
       <title>自信的普京警告欧洲“毫无防御能力”</title>
       <link>https://www.bbc.com/news/articles/cn00e422yr2o</link>
       <description><![CDATA[俄罗斯领导人似乎认为，在当前的僵局中，西方将首先退缩。]]></description>
       <guid>https://www.bbc.com/news/articles/cn00e422yr2o</guid>
       <pubDate>Fri, 07 Jun 2024 18:35:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>激烈电视辩论后保守党准备推行印花税政策</title>
+      <link>https://www.bbc.co.uk/news/live/uk-politics-69098963</link>
+      <description><![CDATA[此前，在 BBC 的一场辩论中，保守党人佩妮·莫当特 (Penny Mordaunt) 表示，里希·苏纳克 (Rishi Sunak) 离开 D-Day 活动是“错误的”。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-politics-69098963</guid>
+      <pubDate>Fri, 07 Jun 2024 04:29:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
