@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 10 Jun 2024 12:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 15:11:18 GMT</lastBuildDate>
+    <item>
+      <title>具有快照功能的开源 PDF 阅读器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</link>
+      <description><![CDATA[嘿！ 我不想再使用 Adob​​e 了，但我真的需要运输标签的快照功能（我可以选择标签并直接打印） 有谁知道是否有一个开源程序也可以做到这一点？甚至可以编辑 PDF？    提交人    /u/Nathural   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dcnrzh/open_source_pdf_reader_with_snapshot_function/</guid>
+      <pubDate>Mon, 10 Jun 2024 15:07:30 GMT</pubDate>
+    </item>
     <item>
       <title>goManageDocker——管理docker对象的权威方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1dcjpw4/gomanagedocker_the_definitive_way_to_manage/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/bemmu   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dbpv4u/open_source_ux_reviewing_joplin_and_ocenaudio/</guid>
       <pubDate>Sun, 09 Jun 2024 09:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源既不是一个社区，也不是民主</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dbjy1m/open_source_is_neither_a_community_nor_a_democracy/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dbjy1m/open_source_is_neither_a_community_nor_a_democracy/</guid>
-      <pubDate>Sun, 09 Jun 2024 03:05:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
