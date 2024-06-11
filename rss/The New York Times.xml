@@ -4,7 +4,21 @@
     <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Jun 2024 05:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 09:08:13 GMT</lastBuildDate>
+    <item>
+      <title>受选举提振，意大利主办 G7 峰会期间 Meloni 备受关注</title>
+      <link>https://www.nytimes.com/2024/06/11/world/europe/giorgia-meloni-italy-g7.html</link>
+      <description><![CDATA[意大利总理是一位罕见的因欧洲议会选举而实力大增的领导人。本周她有机会在更广阔的舞台上展示自己的影响力。]]></description>
+      <guid>https://www.nytimes.com/2024/06/11/world/europe/giorgia-meloni-italy-g7.html</guid>
+      <pubDate>Tue, 11 Jun 2024 09:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官在文件案中驳回特朗普起诉书的一个要素</title>
+      <link>https://www.nytimes.com/2024/06/10/us/politics/trump-documents-charges-cannon.html</link>
+      <description><![CDATA[法官艾琳·坎农驳回了针对这位前总统的一项指控，该指控涉及他在卸任后向一名助手展示的一张高度敏感的军事地图。]]></description>
+      <guid>https://www.nytimes.com/2024/06/10/us/politics/trump-documents-charges-cannon.html</guid>
+      <pubDate>Tue, 11 Jun 2024 08:02:51 GMT</pubDate>
+    </item>
     <item>
       <title>以色列人质救援行动中，几分钟决定胜负</title>
       <link>https://www.nytimes.com/2024/06/10/world/middleeast/israel-hostage-rescue-gaza.html</link>
@@ -13,25 +27,11 @@
       <pubDate>Tue, 11 Jun 2024 05:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>法官在文件案中驳回特朗普起诉书的一个要素</title>
-      <link>https://www.nytimes.com/2024/06/10/us/politics/trump-documents-charges-cannon.html</link>
-      <description><![CDATA[法官艾琳·坎农驳回了针对这位前总统的一项指控，该指控涉及他在卸任后向一名助手展示的一张高度敏感的军事地图。]]></description>
-      <guid>https://www.nytimes.com/2024/06/10/us/politics/trump-documents-charges-cannon.html</guid>
-      <pubDate>Tue, 11 Jun 2024 04:27:02 GMT</pubDate>
-    </item>
-    <item>
       <title>尼日利亚面临一代人以来最严重的经济危机</title>
       <link>https://www.nytimes.com/2024/06/11/world/africa/nigeria-economy-strike.html</link>
       <description><![CDATA[由于食品、燃料和药品价格飞涨，许多人无法承受，这个非洲人口最多的国家的人民正在遭受苦难。]]></description>
       <guid>https://www.nytimes.com/2024/06/11/world/africa/nigeria-economy-strike.html</guid>
       <pubDate>Tue, 11 Jun 2024 04:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>受选举提振，意大利主办 G7 峰会期间 Meloni 备受关注</title>
-      <link>https://www.nytimes.com/2024/06/11/world/europe/giorgia-meloni-italy-g7.html</link>
-      <description><![CDATA[意大利总理是一位罕见的因欧洲议会选举而实力大增的领导人。本周她有机会在更广阔的舞台上展示自己的影响力。]]></description>
-      <guid>https://www.nytimes.com/2024/06/11/world/europe/giorgia-meloni-italy-g7.html</guid>
-      <pubDate>Tue, 11 Jun 2024 04:01:15 GMT</pubDate>
     </item>
     <item>
       <title>拜登纪念六月节，警告“新衣旧鬼”的危险</title>
@@ -53,13 +53,6 @@
       <description><![CDATA[在与一位假扮保守派支持者的女子交谈时，玛莎-安·阿利托似乎对必须看 LGBTQ 权利的象征表示反对。]]></description>
       <guid>https://www.nytimes.com/2024/06/10/us/politics/alito-pride-flag.html</guid>
       <pubDate>Tue, 11 Jun 2024 02:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国通过加沙停火决议，布林肯向以色列和哈马斯施压</title>
-      <link>https://www.nytimes.com/2024/06/10/world/middleeast/security-council-gaza-ceasefire-blinken.html</link>
-      <description><![CDATA[安理会批准了美国支持的计划，美国国务卿安东尼·J·布林肯也访问中东游说该计划，但哈马斯和以色列并未作出承诺。]]></description>
-      <guid>https://www.nytimes.com/2024/06/10/world/middleeast/security-council-gaza-ceasefire-blinken.html</guid>
-      <pubDate>Tue, 11 Jun 2024 01:46:38 GMT</pubDate>
     </item>
     <item>
       <title>商人称，他在参议员梅内德斯的露台上直接请求帮助</title>
@@ -95,6 +88,13 @@
       <description><![CDATA[这家在拥抱人工智能方面进展缓慢的 iPhone 制造商将把人工智能融入到数十亿设备上运行的技术中。]]></description>
       <guid>https://www.nytimes.com/2024/06/10/technology/apple-intelligence-openai.html</guid>
       <pubDate>Mon, 10 Jun 2024 21:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA 顾问小组批准礼来公司生产的阿尔茨海默病药物</title>
+      <link>https://www.nytimes.com/2024/06/10/health/alzheimers-treatment-donanemab.html</link>
+      <description><![CDATA[专家组一致认为，由礼来公司生产的治疗药物 donanemab 的益处大于风险。]]></description>
+      <guid>https://www.nytimes.com/2024/06/10/health/alzheimers-treatment-donanemab.html</guid>
+      <pubDate>Mon, 10 Jun 2024 21:05:19 GMT</pubDate>
     </item>
     <item>
       <title>苹果和谷歌如何利用人工智能改造我们的手机</title>
