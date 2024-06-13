@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>纽约时报 > 头条新闻</title>
+    <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 15:06:47 GMT</lastBuildDate>
-    <item>
-      <title>俄罗斯检察官最终确定对埃文·格什科维奇的起诉</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/evan-gershkovich-russia-indictment.html</link>
-      <description><![CDATA[《华尔街日报》记者将在叶卡捷琳堡因间谍罪接受审判，一年多前他就是在该市被捕的。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/evan-gershkovich-russia-indictment.html</guid>
-      <pubDate>Thu, 13 Jun 2024 15:05:06 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 13 Jun 2024 18:10:17 GMT</lastBuildDate>
     <item>
       <title>最高法院支持星巴克“孟菲斯七人”工会案</title>
       <link>https://www.nytimes.com/2024/06/13/business/economy/supreme-court-starbucks-nlrb.html</link>
-      <description><![CDATA[法官们指出，法院要求雇主恢复被解雇工人的职位的标准不一致，这对国家劳工关系委员会是一个打击。]]></description>
+      <description><![CDATA[这对国家劳工关系委员会是一个打击，法官们使得要求雇主恢复被解雇工人的职位变得更加困难。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/business/economy/supreme-court-starbucks-nlrb.html</guid>
-      <pubDate>Thu, 13 Jun 2024 14:32:13 GMT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 18:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院驳回“特朗普太小”商标申请</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/supreme-court-trump-trademark.html</link>
+      <description><![CDATA[该决定获得了一致通过，但其基本原理却存在缺陷，有几位法官反对多数派采用基于历史的测试。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/supreme-court-trump-trademark.html</guid>
+      <pubDate>Thu, 13 Jun 2024 17:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯检察官最终确定对埃文·格什科维奇的起诉</title>
+      <link>https://www.nytimes.com/2024/06/13/world/europe/evan-gershkovich-russia-indictment.html</link>
+      <description><![CDATA[《华尔街日报》记者将在叶卡捷琳堡接受间谍罪审判，一年多前他就是在该市被捕的。格什科维奇和他的雇主否认了这一指控。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/europe/evan-gershkovich-russia-indictment.html</guid>
+      <pubDate>Thu, 13 Jun 2024 17:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前受法院保护的远程医疗堕胎正在迅速增长</title>
+      <link>https://www.nytimes.com/2024/06/13/upshot/abortion-pills-supreme-court.html</link>
+      <description><![CDATA[五分之一的堕胎是通过远程医疗进行的，其中近一半是在禁止或限制堕胎的州进行的。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/upshot/abortion-pills-supreme-court.html</guid>
+      <pubDate>Thu, 13 Jun 2024 17:20:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>预计降雨量将增多，南佛罗里达州提高洪水风险等级</title>
+      <link>https://www.nytimes.com/2024/06/13/weather/florida-flooding-rain.html</link>
+      <description><![CDATA[数百架航班被取消，州长宣布数个县进入紧急状态。预计还将有更多暴雨。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/weather/florida-flooding-rain.html</guid>
+      <pubDate>Thu, 13 Jun 2024 16:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>JB Pritzker，一位不怕称特朗普为重罪犯的民主党人</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/trump-jb-pritzker-felony.html</link>
+      <description><![CDATA[共和党的大多数领导人都希望避免过多关注唐纳德·特朗普的重罪。伊利诺伊州州长 JB Pritzker 却有不同的看法。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/trump-jb-pritzker-felony.html</guid>
+      <pubDate>Thu, 13 Jun 2024 16:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>堕胎裁决关乎合法性，而非安全或道德</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/abortion-pill-standing.html</link>
+      <description><![CDATA[该案的意见完全集中在诉讼资格上，即要求原告证明他们遭受了直接和具体的伤害才能提起诉讼的法律原则。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/abortion-pill-standing.html</guid>
+      <pubDate>Thu, 13 Jun 2024 16:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对石油巨头的斗争是否会诉诸最高法院？</title>
+      <link>https://www.nytimes.com/2024/06/13/climate/supreme-court-hawaii-climate-oil-companies.html</link>
+      <description><![CDATA[最高法院可能很快就会决定由城市和州提起的数十起要求化石燃料公司承担责任的案件的命运。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/climate/supreme-court-hawaii-climate-oil-companies.html</guid>
+      <pubDate>Thu, 13 Jun 2024 15:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“没有人能凌驾于法律之上”这句话的简史</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/trump-biden-no-one-is-above-the-law.html</link>
+      <description><![CDATA[随着最近一位前总统及其儿子被定罪，一句话就像以前多次出现过的那样，成为了人们关注的焦点。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/trump-biden-no-one-is-above-the-law.html</guid>
+      <pubDate>Thu, 13 Jun 2024 14:47:21 GMT</pubDate>
     </item>
     <item>
       <title>什么是米非司酮？如何使用？</title>
@@ -34,60 +83,11 @@
       <pubDate>Thu, 13 Jun 2024 13:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>南佛罗里达州准备迎接更多降雨</title>
-      <link>https://www.nytimes.com/2024/06/13/weather/florida-flooding-rain.html</link>
-      <description><![CDATA[数百架航班被取消，州长宣布数个县进入紧急状态。预计还将有更多暴雨。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/weather/florida-flooding-rain.html</guid>
-      <pubDate>Thu, 13 Jun 2024 13:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉股价反映出人们对埃隆·马斯克领导下的特斯拉前景存疑</title>
-      <link>https://www.nytimes.com/2024/06/13/business/tesla-stock-elon-musk.html</link>
-      <description><![CDATA[2018 年，埃隆·马斯克的薪酬方案投票后，该公司股价大幅上涨。但最近投资者对该公司的兴趣有所消退。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/tesla-stock-elon-musk.html</guid>
-      <pubDate>Thu, 13 Jun 2024 13:13:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>教皇首次计划出席 G7 峰会</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/pope-francis-g7-summit.html</link>
-      <description><![CDATA[预计方济各将与世界各国领导人一起在意大利南部举行会议，讨论人工智能的伦理影响。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/pope-francis-g7-summit.html</guid>
-      <pubDate>Thu, 13 Jun 2024 12:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在中国后院，美国已成为一个更加谦卑的超级大国</title>
-      <link>https://www.nytimes.com/2024/06/13/world/australia/us-changing-role-asia-pacific.html</link>
-      <description><![CDATA[美国不再高高在上地统治亚太地区，向其盟友发号施令。相反，它愿意成为盟友，分担责任。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/australia/us-changing-role-asia-pacific.html</guid>
-      <pubDate>Thu, 13 Jun 2024 11:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于意大利 G7 峰会你需要了解的事情</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/g7-summit.html</link>
-      <description><![CDATA[七国集团领导人往往有着共同的总体看法，其国家约占世界经济的一半。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/g7-summit.html</guid>
-      <pubDate>Thu, 13 Jun 2024 11:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利七国集团峰会聚集西方受伤领导人讨论难以控制的世界</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/g7-leaders-weakened.html</link>
-      <description><![CDATA[七国集团聚集了主要工业化国家，但其领导人政治上软弱，乌克兰和加沙问题仍未得到解决。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/g7-leaders-weakened.html</guid>
-      <pubDate>Thu, 13 Jun 2024 10:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>放松一点</title>
-      <link>https://www.nytimes.com/2024/06/13/briefing/hair-relaxers-health-risks.html</link>
-      <description><![CDATA[广泛使用的松弛剂对许多黑人女性的健康构成威胁。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/briefing/hair-relaxers-health-risks.html</guid>
-      <pubDate>Thu, 13 Jun 2024 10:38:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们对联合国关于以色列和巴勒斯坦战争罪行的报告了解多少</title>
-      <link>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-war-crimes-israel-hamas.html</link>
-      <description><![CDATA[调查结果列举了哈马斯的性暴力和故意杀害或绑架平民等行为。调查结果还指责以色列在加沙实施集体惩罚和反人类罪行。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-war-crimes-israel-hamas.html</guid>
-      <pubDate>Thu, 13 Jun 2024 09:05:17 GMT</pubDate>
+      <title>关于南方浸信会投票反对 I.V.F. 你需要了解些什么？</title>
+      <link>https://www.nytimes.com/article/southern-baptist-ivf-vote-explained.html</link>
+      <description><![CDATA[周三的投票结果并非禁止体外受精。但它表明，普通福音派人士越来越愿意将胚胎视为人。]]></description>
+      <guid>https://www.nytimes.com/article/southern-baptist-ivf-vote-explained.html</guid>
+      <pubDate>Thu, 13 Jun 2024 09:04:49 GMT</pubDate>
     </item>
     <item>
       <title>关于头发松弛剂的令人不安的真相</title>
@@ -104,11 +104,11 @@
       <pubDate>Thu, 13 Jun 2024 09:02:17 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉北欧股东投票寻求促进工人权利</title>
-      <link>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</link>
-      <description><![CDATA[瑞典特斯拉机械师罢工已六个月，但雇主却没有做出任何行动。北欧股东希望改变这一现状。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</guid>
-      <pubDate>Thu, 13 Jun 2024 08:30:58 GMT</pubDate>
+      <title>愤怒的天主教徒想要烧毁教堂。他来拯救它。</title>
+      <link>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</link>
+      <description><![CDATA[在魁北克北部一个寒冷偏远的角落，一场性侵丑闻将一座教堂推向了绝境。来自喀麦隆的杰拉德·察塞拉姆牧师必须安慰受害者，让教堂重获新生。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</guid>
+      <pubDate>Thu, 13 Jun 2024 09:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
