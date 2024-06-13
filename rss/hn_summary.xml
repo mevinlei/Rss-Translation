@@ -4,109 +4,96 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 13 Jun 2024 08:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 12:01:59 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 如果我们用 LLaMA-3 重新捕捉数十亿张网络图像会怎样？</title>
-      <link>https://t.me/hn_summary/94681</link>
-      <description><![CDATA[如果我们用 LLaMA-3 重新标注数十亿张网络图像会怎样？
-这篇题为“如果我们用 LLaMA-3 重新标注数十亿张网络图像会怎样？”的论文探讨了使用 LLaMA-3 模型为大量网络图像生成新字幕的潜力。作者认为，当前的图像字幕往往不够充分，缺乏细节和背景。通过利用 LLaMA-3 的先进功能，他们提出了一种增强这些字幕描述质量的方法，从而提高网络图像的可访问性和可搜索性。该研究强调了 LLaMA-3 在理解和描述复杂图像方面令人惊讶的效率和准确性，为图像字幕领域树立了新的标杆。]]></description>
-      <guid>https://t.me/hn_summary/94681</guid>
-      <pubDate>Thu, 13 Jun 2024 08:59:07 GMT</pubDate>
+      <title>[媒体] Reworkd (YC S23) 正在寻找创始后端工程师来塑造 LLM 时代的未来 [...]</title>
+      <link>https://t.me/hn_summary/94698</link>
+      <description><![CDATA[Reworkd (YC S23) 正在招聘创始后端/基础设施工程师
+Reworkd (YC S23) 正在寻找创始后端工程师来塑造 LLM 代理与网络交互的未来。主要职责包括构建强大的排队系统、将批处理工作器从 AWS 迁移、增强自动扩展策略以及增强代码生成代理的能力。应聘者应位于旧金山湾区或愿意搬迁到旧金山湾区，精通 Python 和 TypeScript，并具有分布式系统和 SQL 数据库方面的经验。薪酬范围为每年 130,000 至 160,000 美元，外加股权、顶级福利以及团队出游和首席运营官理发等独特福利。面试流程包括 30 分钟的自我介绍电话、技术电话和结对编程会议。Reworkd 致力于包容性，并鼓励所有合格的候选人申请。
+
+独特/聪明的方面：首席运营官是一名理发师，提供理发服务。]]></description>
+      <guid>https://t.me/hn_summary/94698</guid>
+      <pubDate>Thu, 13 Jun 2024 12:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Maven 是一个新型人工智能社交网络，由前 OpenAI 团队负责人 Ken Stanley 创立，[...]</title>
-      <link>https://t.me/hn_summary/94680</link>
-      <description><![CDATA[Altman 支持的 AI 社交网络“Maven”导入了 112 万个 Fediverse 帖子
-Maven 是由前 OpenAI 团队负责人 Ken Stanley 创立的一个新的 AI 驱动社交网络，在未经用户同意的情况下从 Mastodon 导入了超过一百万个帖子，包括私人消息，这引起了争议。这引发了严重的隐私担忧，并质疑 Mastodon 系统是否存在潜在漏洞。Maven 得到了 Ev Williams 和 OpenAI 首席执行官 Sam Altman 等知名人物的支持，使用 AI 情绪分析来标记和组织内容。尽管他们有意与 Fediverse 整合，但 Maven 的做法因缺乏透明度和同意机制而遭到强烈反对。在这场骚动之后，Maven 的首席技术官 Jimmy Secretan 宣布删除所有导入的内容，并暂停进一步的整合工作。这一事件强调了理解和尊重去中心化网络中社区规范的重要性。]]></description>
-      <guid>https://t.me/hn_summary/94680</guid>
-      <pubDate>Thu, 13 Jun 2024 06:52:23 GMT</pubDate>
+      <title>[媒体] 2024 年 6 月 12 日，西南航空的一架波音 737-8 Max 发生了荷兰滚事件，[...]</title>
+      <link>https://t.me/hn_summary/94697</link>
+      <description><![CDATA[西南航空波音 737-8 Max 遭遇荷兰滚
+2024 年 6 月 12 日，西南航空一架波音 737-8 Max 在飞行过程中遭遇荷兰滚，这是一种振荡不稳定性。Picarus、Peter Evers 和 Brian Johnson 等多方消息人士报道了这一事件，但并未对乘客或机组人员造成任何直接危险。飞机先进的飞行控制系统成功迅速稳定了局势。然而，这一事件再次引发了有关波音 737 Max 系列安全性的讨论，自该机型之前停飞以来，这一话题一直备受争议。飞行系统的快速有效响应是一个独特的亮点，展示了航空技术的进步。]]></description>
+      <guid>https://t.me/hn_summary/94697</guid>
+      <pubDate>Thu, 13 Jun 2024 11:58:53 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] YouTube 与广告拦截器的持续斗争促使该公司考虑服务器端 [...]</title>
-      <link>https://t.me/hn_summary/94679</link>
-      <description><![CDATA[YouTube 的下一步举措可能会让广告屏蔽变得几乎不可能
-YouTube 与广告拦截器的持续斗争促使该公司考虑服务器端广告注入，此举可能会使广告投放变得复杂并影响用户体验。社区努力（如 ReVanced）修改默认应用程序以使用 SponsorBlock 屏蔽广告并跳过赞助商片段）迫使 YouTube 探索这种新方法。服务器端广告注入可能会破坏带时间戳的视频链接和章节标记，增加 Premium 用户的复杂性并可能减慢内容交付速度。虽然一些用户建议在禁止 YouTube 广告的国家/地区使用 VPN，但 YouTube 的激进策略最终可能会阻止广告拦截器，但代价是用户满意度。]]></description>
-      <guid>https://t.me/hn_summary/94679</guid>
-      <pubDate>Thu, 13 Jun 2024 06:32:11 GMT</pubDate>
+      <title>[媒体] 5月底，印度初创公司Agnikul成功发射了一枚火箭，其特点是 [...]</title>
+      <link>https://t.me/hn_summary/94696</link>
+      <description><![CDATA[印度初创公司仅用 72 小时就用 3D 打印技术打印出火箭发动机
+5 月下旬，印度初创公司 Agnikul 成功发射了一枚火箭，该火箭搭载了世界上第一款单件式 3D 打印火箭发动机，仅用 72 小时就制造完成。这种创新方法可能会彻底改变小型卫星运营商的“按需”火箭发射。与 Relativity Space 和 Rocket Lab 等其他私营太空公司不同，Agnikul 的发动机是作为单个单元打印的，大大加快了制造速度。印度空间研究组织 Satish Dhawan 航天中心的亚轨道发射验证了他们的技术，实现了所有任务目标。该公司计划于明年发射其首枚商用两级火箭 Agnibaan，目标高度为 700 公里，有效载荷为 300 公斤。]]></description>
+      <guid>https://t.me/hn_summary/94696</guid>
+      <pubDate>Thu, 13 Jun 2024 11:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 特斯拉出资让马斯克的钻孔公司在 Giga Texas 地下挖隧道，但为什么呢？</title>
-      <link>https://t.me/hn_summary/94678</link>
-      <description><![CDATA[特斯拉出资让马斯克的 Boring Company 在 Giga Texas 下方挖隧道，但为什么呢？
-埃隆·马斯克旗下的 Boring Company 已在特斯拉的 Gigafactory Texas 下方完成了一条价值数百万美元的隧道。该隧道将 Cyber​​truck 终点站与 130 收费公路的另一侧连接起来。该隧道最初是在最终确定 Cyber​​truck 终点站之前规划的，由于修建了连接高速公路两侧的两条地下通道，隧道的实用性已经降低。现在的目标是让 Cyber​​truck 自动通过隧道运送到新的集结地。虽然马斯克的公司之间可以产生协同效应，但这个项目似乎没有必要，并引发了人们对马斯克将特斯拉公共资金投入其私人企业 The Boring Company 的担忧。]]></description>
-      <guid>https://t.me/hn_summary/94678</guid>
-      <pubDate>Thu, 13 Jun 2024 05:48:53 GMT</pubDate>
+      <title>[媒体] 黄石国家公园拍摄到一头极为罕见的白色野牛幼崽 [...]</title>
+      <link>https://t.me/hn_summary/94695</link>
+      <description><![CDATA[美洲原住民在黄石公园稀有的白色野牛身上看到了预兆
+
+一头极为罕见的白色小野牛在黄石国家公园被拍到，这让美洲原住民部落感到兴奋，他们将其到来视为宗教预言，预示着重大变革。这头小野牛被发现在拉马尔山谷，是美国最后一个野生牛群中出生的第一头白色野牛，因此意义非凡。蒙大拿州摄影师艾琳·布拉滕在参观公园时拍下了这一瞬间，起初由于小牛颜色较浅，她误以为它是郊狼。白色野牛的诞生对许多大平原部落来说都是神圣的，包括拉科塔部落，他们相信这预示着这个动荡的世界将恢复和谐。奥拉拉拉科塔作家西蒙·莫亚·史密斯 (Simon Moya-Smith) 指出，白色小牛被视为“祝福和警告”。]]></description>
+      <guid>https://t.me/hn_summary/94695</guid>
+      <pubDate>Thu, 13 Jun 2024 11:25:05 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 特斯拉股东以压倒性多数重新批准了埃隆·马斯克的 2018 年薪酬方案，该方案 [...]</title>
-      <link>https://t.me/hn_summary/94677</link>
-      <description><![CDATA[特斯拉股东重新批准埃隆·马斯克 2018 年的薪酬方案
-特斯拉股东以压倒性多数重新批准了埃隆·马斯克 2018 年的薪酬方案，该方案今年早些时候被特拉华州的一名法官裁定无效，他认为该程序不公平。该薪酬方案可能价值 560 亿美元，包括与特斯拉估值里程碑挂钩的股票期权，为马斯克的财富做出了重大贡献。尽管一些投资者批评马斯克是一位心不在焉的领导者，但亿万富翁罗恩·巴伦等其他人称赞他对特斯拉不可或缺。此次投票并没有立即恢复马斯克的薪酬，这表明投资者给予了强烈的支持。此外，在马斯克批评特拉华州之后，股东们批准了特斯拉在德克萨斯州成立。]]></description>
-      <guid>https://t.me/hn_summary/94677</guid>
-      <pubDate>Thu, 13 Jun 2024 05:47:49 GMT</pubDate>
+      <title>在《计算无处不在，只要你努力，你就会发现它》一书中，作者探索了无所不在的计算[...]</title>
+      <link>https://t.me/hn_summary/94694</link>
+      <description><![CDATA[计算无处不在，只要你努力，你就能发现它
+在《计算无处不在，只要你努力，你就能发现它》一文中，作者探讨了计算在我们日常生活中的无处不在，将计算过程与邮寄信件或抛硬币等日常活动进行了类比。作者回忆了他们早期对计算机的迷恋，将编程的体验比作机器嗡嗡作响的感觉。他们认为，随机性通常被认为是混乱的，但它只是一个我们无法预测的复杂计算过程，这一概念由 Avi Wigderson 在伪随机性方面的工作正式化。这篇文章深入探讨了机器学习，说明了神经网络如何像双语翻译一样，通过从大量数据中学习来模拟语言翻译等复杂任务。尽管这些模型并不完美，但它们代表着在管理各种系统的随机性和复杂性方面迈出了重要一步。作者最后鼓励读者倾听他们理解世界的独特方式，无论是通过计算、艺术还是任何其他视角，因为它可能会揭示隐藏的秘密。
+
+争议点：随机性仅仅是我们无法预测的计算这一断言可能会挑战人们对随机性的传统看法。
+
+独特见解：将机器学习模型与双语翻译者的大脑进行比较，可以巧妙地了解这些系统的运作方式。]]></description>
+      <guid>https://t.me/hn_summary/94694</guid>
+      <pubDate>Thu, 13 Jun 2024 11:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] LLM 能否发明更好的培养 LLM 的方法？</title>
-      <link>https://t.me/hn_summary/94676</link>
-      <description><![CDATA[LLM 能否发明更好的方法来训练 LLM？
-在 Sakana AI，我们率先使用受自然启发的进化优化来开发高级基础模型。传统上，AI 开发严重依赖于人为的反复试验和理论见解，尤其是对于将大型语言模型 (LLM) 与人类偏好相结合的偏好优化算法。然而，LLM 已经变得擅长生成假设和编写代码，这促使我们探索 AI 是否可以自动化自己的研究和发现过程。
-
-今年早些时候，我们开始使用进化算法来增强 LLM 训练方法。在最近的一篇论文中，我们证明了 LLM 可以充当卓越的进化算法。这让我们想到了 LLM²（LLM-squared）的概念，其中 LLM 改进了自己的训练算法。我们的报告“利用大型语言模型发现偏好优化算法”详细介绍了这一自参考改进过程。
-
-主要亮点包括：
-- 一个由 LLM 驱动的发现过程，可综合新的偏好优化算法。
-- 发现高性能算法，如发现偏好优化 (DiscoPOP)，其性能优于现有方法。
-- 在 GitHub 和 HuggingFace 上开源我们调整后的模型检查点、发现的目标函数和发现过程代码。
-- 与牛津大学和剑桥大学合作。
-
-我们的方法减少了人为干预和计算资源，为探索最佳损失函数和增强 LLM 功能开辟了新途径。我们设想未来人工智能研究将是一个自我完善的闭环过程，不断推动科学发现。
-
-令人惊讶的是，与最先进的方法相比，非凸损失函数 DiscoPOP 获得了更高的回报，同时偏离基础模型的程度更小。这凸显了自动化人工智能研究的潜力，可以发现人类研究人员可能无法找到的创新解决方案。
-
-如果您有兴趣推动这一领域的发展，请访问我们的职业页面。]]></description>
-      <guid>https://t.me/hn_summary/94676</guid>
-      <pubDate>Thu, 13 Jun 2024 04:25:22 GMT</pubDate>
+      <title>[媒体] Verisk 是一家大型数据经纪商，以向保险公司出售详细的驾驶员行为数据而闻名 [...]</title>
+      <link>https://t.me/hn_summary/94693</link>
+      <description><![CDATA[一家大型详细驾驶员行为数据销售商即将倒闭
+Verisk 是一家以向保险公司出售详细驾驶员行为数据而闻名的大型数据经纪商，现已停止这种有争议的做法。这些数据是从通用汽车、本田和现代生产的汽车中收集的，包括行程细节和驾驶习惯等具体信息。保险公司经常使用这些数据来调整保费，有时会使保险费用更高或驾驶员无法获得。许多司机并不知道自己选择了这种数据收集，这导致了强烈的反对。在《纽约时报》报道后，通用汽车停止了数据共享，但 LexisNexis Risk Solutions 仍在继续这种做法。这场争议引发了诉讼、州调查和联邦关注。]]></description>
+      <guid>https://t.me/hn_summary/94693</guid>
+      <pubDate>Thu, 13 Jun 2024 11:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Aeon.co 上的文章认为，人类大​​脑并不像计算机那样处理信息 [...]</title>
-      <link>https://t.me/hn_summary/94675</link>
-      <description><![CDATA[大脑不处理信息，它不是计算机论文
-Aeon.co 上的论文认为，人类大​​脑不像计算机那样处理信息。它挑战了将大脑等同于计算机的流行比喻，声称这种比较从根本上是有缺陷的。作者解释说，虽然计算机使用算法和符号表示来存储、检索和处理数据，但人类却不会。相反，人类生来就具有感官、反射和学习机制，可以与世界互动，但不能与预先存储的信息或数据互动。这篇文章批评了认知科学中对信息处理 (IP) 隐喻的历史和持续依赖，认为这是一种过于简单和误导性的类比，阻碍了对人类智能的真正理解。作者使用了一些例子，例如课堂练习中从记忆中抽取一张美元钞票，来说明 IP 隐喻的局限性。文章的结论是，IP 隐喻只是一系列隐喻中的一种，最终将被更准确的知识所取代。
-
-争议点：这篇文章挑战了认知科学中根深蒂固的 IP 隐喻，这可能会引起支持这一观点的人的强烈反应。
-
-独特/巧妙的见解：从记忆中抽取一张美元钞票与从范例中抽取美元钞票的比较有效地展示了 IP 隐喻的局限性，突出了识别和回忆之间的区别。（基于 58% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/94675</guid>
-      <pubDate>Thu, 13 Jun 2024 04:10:10 GMT</pubDate>
+      <title>[媒体] 2030 年代，永久性月球基地将开始建设，宇航员可能尝试 [...]</title>
+      <link>https://t.me/hn_summary/94692</link>
+      <description><![CDATA[太空医学概要揭示宇航员身体会发生什么
+2030 年代，永久性月球基地将开始建设，宇航员可能会在接下来的几十年内尝试到达火星。包括太空旅游在内的太空旅行激增，需要全面了解其对健康的影响。《自然》杂志最近发表了《太空组学和医学图集》（SOMA），这是迄今为止最广泛的航空航天医学和生物学数据集合。SOMA 包括来自各种项目的数据，例如凯利双胞胎研究和 SpaceX 的 Inspiration4 任务。研究结果表明，由于微重力和辐射的压力，太空旅行会引起身体的重大变化，尤其是免疫系统的变化。值得注意的是，超过 95% 的变化在返回地球后三个月内恢复正常，女性恢复速度比男性快。然而，像火星之旅这样的长期任务会带来严重风险，包括宇宙辐射可能造成的肾脏损害。这凸显了采取新的保护措施和治疗方法的必要性，这也可能使地球上的医疗实践受益，例如癌症放射治疗。]]></description>
+      <guid>https://t.me/hn_summary/94692</guid>
+      <pubDate>Thu, 13 Jun 2024 11:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Hugging Face 上的文章讨论了一种名为“消除”的技术，用于解除对 la [...] 的审查。</title>
-      <link>https://t.me/hn_summary/94674</link>
-      <description><![CDATA[使用 Abliteration 解除任何 LLM 的审查
-Hugging Face 上的文章讨论了一种称为“abliteration”的技术，用于解除大型语言模型 (LLM) 的审查，例如第三代 Llama 模型。这些模型经过微调以拒绝有害请求，从而限制了它们的灵活性。Abliteration 无需重新训练模型即可消除这种拒绝机制。该过程涉及通过推理时间干预或权重正交化来识别和消除模型残差流中的“拒绝方向”。本文提供了使用 TransformerLens 库和有害和无害指令数据集的详细实施指南。代码和资源可在 Google Colab 和 GitHub 上找到。
+      <title>[媒体] 网站：www.sciencealert.com</title>
+      <link>https://t.me/hn_summary/94691</link>
+      <description><![CDATA[新研究表明引力可以在没有质量的情况下存在
+标题：新研究表明引力可以在没有质量的情况下存在
+网站：www.sciencealert.com
 
-争议：该技术有效地绕过了内置的安全功能，引发了对滥用的道德担忧。
-
-独特/巧妙的方面：该方法利用机械可解释性来修改模型行为而无需重新训练，展示了一种创新的模型操作方法。（基于 42% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/94674</guid>
-      <pubDate>Thu, 13 Jun 2024 04:10:04 GMT</pubDate>
+在一项开创性的研究中，来自阿拉巴马大学亨茨维尔分校的天体物理学家 Richard Lieu 提出，引力可以在没有质量的情况下存在，这可能消除了暗物质的必要性。暗物质是一种不可见的物质，被认为占宇宙质量的 85%，但从未被直接观察到过。刘认为，宇宙中可能含有薄薄的壳状“拓扑缺陷”层，而不是暗物质，这些缺陷层可以产生无质量的引力。这些壳层由正负质量的同心层组成，它们相互抵消，但仍能产生引力。虽然刘的理论“极具启发性”且不具权威性，但它为引力提供了一种新颖的视角，并挑战了百年历史的暗物质假说。这项研究发表在《皇家天文学会月刊》上。]]></description>
+      <guid>https://t.me/hn_summary/94691</guid>
+      <pubDate>Thu, 13 Jun 2024 10:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，本杰明·布林 (Benjamin Breen) 通过 [...] 反思了养育子女的复杂性。</title>
-      <link>https://t.me/hn_summary/94673</link>
-      <description><![CDATA[几个世纪的童年：童年的历史是多元的
-
-在本文中，本杰明·布林从历史和人类学的角度反思了养育子女的复杂性。受 2010 年纪录片《婴儿》的启发，该片对比了不同文化中的育儿实践，布林批评了“现代”与“传统”育儿的过于简单化的二分法。他认为，历史和前现代社会展现了各种各样的育儿实践，挑战了标准化、田园诗般的过去的概念。布林强调了玛格丽特·米德的人类学工作，强调了历史上童年的多样性和有时严酷的现实，例如杀婴和高婴儿死亡率。他告诫人们不要对过去抱有浪漫主义的幻想，强调现代儿童尽管面临挑战，但总体上更健康、更安全。（基于 98% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/94673</guid>
-      <pubDate>Thu, 13 Jun 2024 04:07:59 GMT</pubDate>
+      <title>[媒体] 摩尔定律的未来会在粒子加速器中实现吗？</title>
+      <link>https://t.me/hn_summary/94690</link>
+      <description><![CDATA[摩尔定律的未来在粒子加速器中吗？
+为了延续摩尔定律，英特尔、三星、台积电和日本的 Rapidus 正在努力解决极紫外 (EUV) 光刻技术的复杂性和成本问题，这种技术依赖于用强大的激光喷射熔融的锡滴。然而，日本 KEK 的研究人员正在探索一种更有效的替代方案，即使用粒子加速器产生 EUV 光。这种方法涉及自由电子激光器 (FEL) 和能量回收线性加速器 (ERL)，有望更便宜、更高效。虽然 ASML 目前凭借激光产生的等离子系统在 EUV 市场占据主导地位，但 KEK 的方法可以通过显着降低成本和提高效率来彻底改变芯片制造。然而，该项目面临重大的技术和财务挑战，如果没有大量的投资和开发，其成功是不确定的。（基于 99% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/94690</guid>
+      <pubDate>Thu, 13 Jun 2024 10:48:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在由 X 首席执行官 Linda Yaccarino 主持的内部全体会议上，员工们热切地 [...]</title>
-      <link>https://t.me/hn_summary/94672</link>
-      <description><![CDATA[X 全体员工对延迟晋升问题没有给出答案
-在 X 首席执行官 Linda Yaccarino 主持的内部全体会议上，员工们热切地等待着有关延迟晋升和绩效评估的最新消息。该公司前身为 Twitter，在埃隆·马斯克的领导下一直举步维艰，销售团队预计无法实现季度收入目标。The Boring Company 首席执行官、马斯克的亲密伙伴史蒂夫·戴维斯一直在仔细审查 X 的财务状况，这引发了人们对可能裁员的担忧。值得注意的是，Yaccarino 的得力助手乔·贝纳罗奇最近离职了。亚卡里诺试图通过强调现场活动和 x.AI 聊天机器人 Grok 来鼓舞士气，但提供的细节很少。人力资源主管 Walter Gilbert 提到了更强大的晋升流程计划，但许多员工关于人力资源、晋升和加薪的问题都没有得到回答。马斯克缺席，但其他董事提供了一些见解。亚卡里诺向员工保证，她和马斯克将召开季度全体会议，并向他们通报未来的最新消息。]]></description>
-      <guid>https://t.me/hn_summary/94672</guid>
-      <pubDate>Thu, 13 Jun 2024 04:04:52 GMT</pubDate>
+      <title>[媒体] 阿申布伦纳的 165 页人工智能论文只是一个 25 岁年轻人的天真之举吗？</title>
+      <link>https://t.me/hn_summary/94689</link>
+      <description><![CDATA[Aschenbrenner 的 165 页 AI 论文是 25 岁年轻人的天真吗？
+十几岁的时候，我在数据科学的神经网络方面遇到了困难，无法训练一个神经网络来乘以两位数或创建电影场景检测器。我认为人类大脑的复杂性是计算机无法近似的，这种复杂性是经过数亿年发展起来的。尽管 AI 取得了进展，包括 2019 年发布了 AI Dungeon，但我仍然持怀疑态度。然而，我最近偶然发现了一篇题为“情境意识”的论文，作者是前 OpenAI 员工 Leopold Aschenbrenner。虽然 Aschenbrenner 的工作可能被视为幼稚，但它也可能为 AI 的未来提供宝贵的见解。他将这篇论文献给了 Ilya Sutskever，强调了谨慎管理人工智能进步的必要性。值得注意的是，两位数学家最近在 165 年前的黎曼假设上取得了进展，而我国的一位设计师提议发行一枚纪念克劳德·香农诞辰的邮票。]]></description>
+      <guid>https://t.me/hn_summary/94689</guid>
+      <pubDate>Thu, 13 Jun 2024 10:47:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
