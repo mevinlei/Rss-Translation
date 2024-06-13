@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:38:27 GMT</lastBuildDate>
+    <item>
+      <title>智能手机 1 至智能手机 2：“adb tcpip 5555”使用 Linux 服务器、android-tools、Termux、termux-usb、usbredirect 和 QEMU [Alpine Linux 操作系统、Android 操作系统]</title>
+      <link>https://www.reddit.com/r/software/comments/1deknnm/smartphone1_to_smartphone2_adb_tcpip_5555_using_a/</link>
+      <description><![CDATA[  由   提交  /u/throwaway16830261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1deknnm/smartphone1_to_smartphone2_adb_tcpip_5555_using_a/</guid>
+      <pubDate>Wed, 12 Jun 2024 23:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Nexus 无法启动。</title>
+      <link>https://www.reddit.com/r/software/comments/1dejh6w/galaxy_nexus_wont_boot/</link>
+      <description><![CDATA[嗨，我又发现了我的 Galaxy Nexus，（上次启动是在 2018-2019 年）它无法启动？我的整个童年都在用这部手机，当我打开它时，手机会振动，谷歌标志会出现，但随后它会关闭，然后再次振动，谷歌标志再次弹出，这种情况循环发生。从来没有把它插在电脑或其他东西上，从来没有用手机做过任何奇怪的事情。有谁知道我怎样才能再次进入手机而不丢失手机上的所有内容？我试过擦除缓存分区，但它什么也没做……    提交人    /u/JustRobin98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dejh6w/galaxy_nexus_wont_boot/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助寻找专家选择 11.5 的破解版本</title>
+      <link>https://www.reddit.com/r/software/comments/1deidku/i_need_help_in_finding_a_cracked_version_of/</link>
+      <description><![CDATA[  由    /u/johnieskywalker  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1deidku/i_need_help_in_finding_a_cracked_version_of/</guid>
+      <pubDate>Wed, 12 Jun 2024 21:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何阻止程序在你的计算机上运行？</title>
+      <link>https://www.reddit.com/r/software/comments/1dei4q0/how_to_prevent_a_program_from_running_on_your/</link>
+      <description><![CDATA[我需要以某种方式阻止游戏在我的计算机上运行。我花了 5000 多个小时玩这个游戏，虽然它不再给我带来乐趣，但我无法离开它。我已经删除了它大约 10 次，但几天后我又下载了它，并连续玩了好几天。是否有任何程序可以让我永远阻止这个游戏运行，这样我就无法在以后禁用这个程序了。    提交者    /u/CuteCuteCute000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dei4q0/how_to_prevent_a_program_from_running_on_your/</guid>
+      <pubDate>Wed, 12 Jun 2024 21:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Google Drive 同步应用程序与 Windows 安全存在问题？</title>
       <link>https://www.reddit.com/r/software/comments/1deecp5/google_drive_sync_app_having_issue_with_windows/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[哪个软件是视频分割器，如果您愿意，还可以刻录字幕？    提交人    /u/Expensive-Bus2808   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1de5dvp/video_splitter_and_subtitle_burner/</guid>
       <pubDate>Wed, 12 Jun 2024 12:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对将电子邮件集成到您的应用程序中感兴趣的主要原因是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1de2rc8/what_are_the_major_reasons_you_are_interested_in/</link>
-      <description><![CDATA[我很好奇将电子邮件功能集成到您的应用程序中的主要动机。无论是为了提高用户参与度、自动响应、增强客户支持还是任何其他原因，我都很乐意听到您的见解和经验。分享您对电子邮件集成如何影响您的应用程序性能和用户满意度的看法。    提交人    /u/Unipile   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1de2rc8/what_are_the_major_reasons_you_are_interested_in/</guid>
-      <pubDate>Wed, 12 Jun 2024 09:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mp4 或 Mp3 转 srt？</title>
-      <link>https://www.reddit.com/r/software/comments/1de2iji/mp4_or_mp3_to_srt/</link>
-      <description><![CDATA[Capcut 可以创建字幕，但添加字幕后的文件大小非常大，为 720p 视频添加字幕后为 200 mb 到 1.5gb，有什么方法可以将字幕或文本提取到 srt 吗？所以我可以手动将 srt 文件添加到原始视频中，或者有其他免费软件可以完成这项工作？     提交人    /u/alditra2000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1de2iji/mp4_or_mp3_to_srt/</guid>
-      <pubDate>Wed, 12 Jun 2024 09:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有关自动鼠标和键盘的帮助。</title>
-      <link>https://www.reddit.com/r/software/comments/1de200b/i_need_help_with_automatic_mouse_keyboard/</link>
-      <description><![CDATA[我尝试使用它来自动执行一些比较繁琐的任务，效果很好。但是当它运行时，我无法将鼠标和键盘用于其他任何操作。有没有办法让它只在指定的窗口上运行，或者有没有其他程序可以做同样的事情但不占用我的鼠标和键盘    提交人    /u/Accomplished-Big8384   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1de200b/i_need_help_with_automatic_mouse_keyboard/</guid>
-      <pubDate>Wed, 12 Jun 2024 08:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试在 Windows 11 上安装一款 2006 年的游戏，该游戏需要 DirectX 9，但我有 DX 12，因此它不允许我“更新”到 DX 9</title>
-      <link>https://www.reddit.com/r/software/comments/1de1bsp/a_2006_game_i_tried_installing_on_windows_11/</link>
-      <description><![CDATA[我听说 dg Voodoo2 可能会有帮助，所以我尝试使用它并将 D3D9.dll 粘贴到游戏文件夹中（这是我从说明中理解到的），但它仍然说我需要 DX9。    提交人    /u/Dish-Ecstatic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1de1bsp/a_2006_game_i_tried_installing_on_windows_11/</guid>
-      <pubDate>Wed, 12 Jun 2024 08:03:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

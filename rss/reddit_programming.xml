@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 12 Jun 2024 21:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 00:38:31 GMT</lastBuildDate>
     <item>
-      <title>需要帮助将 .SEG-Y 转换为可读文件，或者只是解释一下这个文件是什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1dehawo/need_help_turning_segy_into_a_readable_file_of/</link>
-      <description><![CDATA[  由    /u/Dapper-Pear-5903  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dehawo/need_help_turning_segy_into_a_readable_file_of/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:55:07 GMT</pubDate>
+      <title>Quizinator：根据 Youtube 视频自动生成测验</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</link>
+      <description><![CDATA[  由    /u/th3_artificery  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejtsy/quizinator_automatically_generating_quizzes_from/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:44:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动问题分配器 Github Bot</title>
+      <link>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</link>
+      <description><![CDATA[  由    /u/varun_kolanu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dejqby/automatic_issue_assigner_github_bot/</guid>
+      <pubDate>Wed, 12 Jun 2024 22:40:26 GMT</pubDate>
     </item>
     <item>
       <title>基于目录的配置，简化 git 工作流程</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1deg1zu/how_to_get_the_most_out_of_postgres_memory/</guid>
       <pubDate>Wed, 12 Jun 2024 20:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lexbor – 一个开源 HTML 渲染器库</title>
-      <link>https://www.reddit.com/r/programming/comments/1deg1xw/lexbor_an_open_source_html_renderer_library/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1deg1xw/lexbor_an_open_source_html_renderer_library/</guid>
-      <pubDate>Wed, 12 Jun 2024 20:02:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
