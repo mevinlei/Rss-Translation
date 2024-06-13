@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>纽约时报 > 头条新闻</title>
+    <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 06:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 08:46:58 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉北欧股东投票寻求促进工人权利</title>
+      <link>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</link>
+      <description><![CDATA[瑞典特斯拉机械师罢工已六个月，但雇主却没有做出任何行动。北欧股东希望改变这一现状。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</guid>
+      <pubDate>Thu, 13 Jun 2024 08:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利七国集团峰会聚集西方受伤领导人讨论难以控制的世界</title>
+      <link>https://www.nytimes.com/2024/06/13/world/europe/g7-leaders-weakened.html</link>
+      <description><![CDATA[七国集团聚集了主要工业化国家，但其领导人政治上软弱，乌克兰和加沙问题仍未得到解决。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/europe/g7-leaders-weakened.html</guid>
+      <pubDate>Thu, 13 Jun 2024 07:12:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>南佛罗里达州洪水导致 95 号州际公路部分路段关闭，航班被迫停飞</title>
+      <link>https://www.nytimes.com/2024/06/12/us/florida-storm-flash-flood.html</link>
+      <description><![CDATA[预报员称，这场洪水始于周二下午，在一些地区降水超过 10 英寸，预计将持续到周四。]]></description>
+      <guid>https://www.nytimes.com/2024/06/12/us/florida-storm-flash-flood.html</guid>
+      <pubDate>Thu, 13 Jun 2024 07:08:19 GMT</pubDate>
+    </item>
     <item>
       <title>珍妮特耶伦：利用俄罗斯资产支持乌克兰</title>
       <link>https://www.nytimes.com/2024/06/13/opinion/janet-yellen-ukraine-russia-g7.html</link>
@@ -25,20 +46,6 @@
       <description><![CDATA[美国不再高高在上地统治亚太地区，向其盟友发号施令。相反，它愿意成为盟友，分担责任。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/world/australia/us-changing-role-asia-pacific.html</guid>
       <pubDate>Thu, 13 Jun 2024 04:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利七国集团峰会聚集西方受伤领导人讨论难以控制的世界</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/wounded-leaders-of-the-west-gather-in-italy-to-discuss-an-unruly-world.html</link>
-      <description><![CDATA[七国集团聚集了主要工业化国家，但其领导人政治上软弱，乌克兰和加沙问题仍未得到解决。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/wounded-leaders-of-the-west-gather-in-italy-to-discuss-an-unruly-world.html</guid>
-      <pubDate>Thu, 13 Jun 2024 04:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉北欧股东投票寻求促进工人权利</title>
-      <link>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</link>
-      <description><![CDATA[瑞典特斯拉机械师罢工已六个月，但雇主却没有做出任何行动。北欧股东希望改变这一现状。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/elon-musk-tesla-vote-sweden-norway.html</guid>
-      <pubDate>Thu, 13 Jun 2024 04:00:33 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉股价反映出人们对埃隆·马斯克领导下的特斯拉前景存疑</title>
@@ -62,16 +69,9 @@
       <pubDate>Thu, 13 Jun 2024 03:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>南佛罗里达州洪水导致 95 号州际公路部分路段关闭，航班被迫停飞</title>
-      <link>https://www.nytimes.com/2024/06/12/us/florida-storm-flash-flood.html</link>
-      <description><![CDATA[预报员称，这场洪水始于周二下午，在一些地区降水超过 10 英寸，预计将持续到周四。]]></description>
-      <guid>https://www.nytimes.com/2024/06/12/us/florida-storm-flash-flood.html</guid>
-      <pubDate>Thu, 13 Jun 2024 00:46:03 GMT</pubDate>
-    </item>
-    <item>
       <title>亨特·拜登预计将对枪支指控提出上诉</title>
       <link>https://www.nytimes.com/2024/06/12/us/politics/hunter-biden-conviction-appeal.html</link>
-      <description><![CDATA[拜登的律师正在考虑对有罪判决提出多项质疑，其中包括基于第二修正案的质疑。]]></description>
+      <description><![CDATA[拜登的律师正在考虑对有罪判决提出多项质疑，其中包括基于《宪法第二修正案》的质疑。]]></description>
       <guid>https://www.nytimes.com/2024/06/12/us/politics/hunter-biden-conviction-appeal.html</guid>
       <pubDate>Wed, 12 Jun 2024 23:24:35 GMT</pubDate>
     </item>
