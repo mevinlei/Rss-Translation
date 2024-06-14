@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>纽约时报 > 头条新闻</title>
+    <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 15:08:50 GMT</lastBuildDate>
-    <item>
-      <title>最高法院驳回特朗普时代禁止枪支撞火枪托的法令</title>
-      <link>https://www.nytimes.com/2024/06/14/us/politics/supreme-court-trump-gun-bump-stocks.html</link>
-      <description><![CDATA[法官们发现，政府在禁止销售和持有枪支附件方面超越了其权力。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/us/politics/supreme-court-trump-gun-bump-stocks.html</guid>
-      <pubDate>Fri, 14 Jun 2024 14:58:53 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 14 Jun 2024 18:03:23 GMT</lastBuildDate>
     <item>
       <title>屠杀与矛盾：审视拉法致命袭击</title>
       <link>https://www.nytimes.com/2024/06/14/world/europe/carnage-and-contradiction-examining-a-deadly-strike-in-rafah.html</link>
       <description><![CDATA[以色列称，在袭击两名哈马斯战士时，以色列小心谨慎，避免伤及平民。调查显示，平民伤亡几乎是不可避免的。]]></description>
       <guid>https://www.nytimes.com/2024/06/14/world/europe/carnage-and-contradiction-examining-a-deadly-strike-in-rafah.html</guid>
-      <pubDate>Fri, 14 Jun 2024 14:41:15 GMT</pubDate>
+      <pubDate>Fri, 14 Jun 2024 18:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>预报：东海岸第一波夏季热浪即将来临</title>
+      <link>https://www.nytimes.com/2024/06/14/weather/heat-wave-forecast-east-coast.html</link>
+      <description><![CDATA[夏季的突然到来将给从芝加哥到纽约带来令人窒息的气温，并且一夜之间难以缓解。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/weather/heat-wave-forecast-east-coast.html</guid>
+      <pubDate>Fri, 14 Jun 2024 17:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>威尔士王妃凯特·米德尔顿介绍癌症最新情况</title>
+      <link>https://www.nytimes.com/2024/06/14/world/europe/kate-middleton-cancer-king-charles-birthday.html</link>
+      <description><![CDATA[凯瑟琳在向公众发表的讲话中表示，她将参加本周末查理国王的生日游行，并坦率地写道“我知道我还没有脱离险境”。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/world/europe/kate-middleton-cancer-king-charles-birthday.html</guid>
+      <pubDate>Fri, 14 Jun 2024 17:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>七国集团领导人扩大范围，将焦点转向移民和南方</title>
+      <link>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</link>
+      <description><![CDATA[印度、巴西、中东和非洲的领导人参加了讨论，对全球力量平衡的变化表示认同。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</guid>
+      <pubDate>Fri, 14 Jun 2024 17:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>发现母亲尸体近 20 年后，一桩悬案逐渐解冻</title>
+      <link>https://www.nytimes.com/2024/06/14/nyregion/cold-case-bronx-stabbing.html</link>
+      <description><![CDATA[当她的母亲在布朗克斯被刺死时，她还只是个小女孩。现在，根据 DNA 逮捕令她感到如释重负。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/nyregion/cold-case-bronx-stabbing.html</guid>
+      <pubDate>Fri, 14 Jun 2024 17:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普曾承诺要重振煤炭业。那已经是 2016 年的事情了。</title>
+      <link>https://www.nytimes.com/2024/06/14/climate/trump-coal-politics.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普在早些时候竞选总统时承诺让矿工重返工作岗位。现在，他大肆宣扬石油和天然气，却几乎不提最脏的化石燃料。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/climate/trump-coal-politics.html</guid>
+      <pubDate>Fri, 14 Jun 2024 15:59:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院驳回特朗普时代禁止枪支撞火枪托的法令</title>
+      <link>https://www.nytimes.com/2024/06/14/us/politics/supreme-court-trump-gun-bump-stocks.html</link>
+      <description><![CDATA[法官们发现，政府在禁止销售和持有枪支附件方面超越了其权力。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/us/politics/supreme-court-trump-gun-bump-stocks.html</guid>
+      <pubDate>Fri, 14 Jun 2024 15:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>能闻到帕金森症气味的女人</title>
+      <link>https://www.nytimes.com/2024/06/14/magazine/parkinsons-smell-disease-detection.html</link>
+      <description><![CDATA[她首先注意到了丈夫身上的气味。现在，她的能力正在帮助开启早期疾病检测的新研究。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/magazine/parkinsons-smell-disease-detection.html</guid>
+      <pubDate>Fri, 14 Jun 2024 15:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>《龙之屋》第二季评论：这是一场等待的游戏</title>
+      <link>https://www.nytimes.com/2024/06/14/arts/television/house-of-the-dragon-season-2-review.html</link>
+      <description><![CDATA[HBO 大获成功的《权力的游戏》前传第二季以地球为背景开场。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/arts/television/house-of-the-dragon-season-2-review.html</guid>
+      <pubDate>Fri, 14 Jun 2024 14:56:49 GMT</pubDate>
     </item>
     <item>
       <title>普京提出停火提议，并对乌克兰领土提出全面要求</title>
@@ -27,18 +76,18 @@
       <pubDate>Fri, 14 Jun 2024 14:34:13 GMT</pubDate>
     </item>
     <item>
-      <title>29 万亿美元：这就是新兴国家面临的债务规模</title>
-      <link>https://www.nytimes.com/2024/06/14/business/government-debt.html</link>
-      <description><![CDATA[持续数十年的危机正在愈演愈烈，目前数十个国家的利息支出超过了医疗保健或教育支出。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/business/government-debt.html</guid>
-      <pubDate>Fri, 14 Jun 2024 14:24:58 GMT</pubDate>
+      <title>艾玛·达西（Emma D’Arcy），《龙之屋》的主人</title>
+      <link>https://www.nytimes.com/2024/06/14/arts/television/emma-darcy-house-of-the-dragon.html</link>
+      <description><![CDATA[HBO 电视剧《龙之屋》第一季中四集的精彩演出让这位演员一夜成名。本季中，达西占据了参演名单的首位。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/arts/television/emma-darcy-house-of-the-dragon.html</guid>
+      <pubDate>Fri, 14 Jun 2024 14:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>关于俄罗斯资产支持的 500 亿美元乌克兰贷款你需要知道些什么</title>
-      <link>https://www.nytimes.com/2024/06/14/world/europe/ukraine-g7-ukraine-aid-russia.html</link>
-      <description><![CDATA[美国等国计划将这笔钱交给基辅，用莫斯科在西方被冻结资产的利息来偿还。但有关这一安排的许多细节尚不清楚。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/world/europe/ukraine-g7-ukraine-aid-russia.html</guid>
-      <pubDate>Fri, 14 Jun 2024 14:14:54 GMT</pubDate>
+      <title>特朗普正在思考自己的辩论，还有他的竞选伙伴的辩论。</title>
+      <link>https://www.nytimes.com/2024/06/14/us/politics/trump-vp-debate-performances.html</link>
+      <description><![CDATA[在考虑副总统人选时，唐纳德·J·特朗普就几个关键因素寻求建议，包括在辩论舞台上谁最能与副总统卡马拉·哈里斯匹敌。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/us/politics/trump-vp-debate-performances.html</guid>
+      <pubDate>Fri, 14 Jun 2024 14:00:11 GMT</pubDate>
     </item>
     <item>
       <title>为什么一只三条腿的狮子和他的兄弟要游过一条充满鳄鱼的河流</title>
@@ -48,39 +97,11 @@
       <pubDate>Fri, 14 Jun 2024 13:31:49 GMT</pubDate>
     </item>
     <item>
-      <title>杰弗里·卡森伯格是拜登对抗特朗普的秘密武器</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/biden-jeffrey-katzenberg-trump.html</link>
-      <description><![CDATA[资深电影大亨杰弗里·卡森伯格 (Jeffrey Katzenberg) 总是在自己的电影中寻找可怕的反派。现在，他找到了唐纳德·J·特朗普 (Donald J. Trump)，他认为这是现实生活中的反派。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/biden-jeffrey-katzenberg-trump.html</guid>
-      <pubDate>Fri, 14 Jun 2024 12:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么连英国财政大臣杰里米·亨特都担心自己会输掉这次选举</title>
-      <link>https://www.nytimes.com/2024/06/14/world/europe/uk-election-jeremy-hunt.html</link>
-      <description><![CDATA[作为财政大臣，杰里米·亨特所代表的选区也一直是保守党的坚强后盾。但现在情况不同了。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/world/europe/uk-election-jeremy-hunt.html</guid>
-      <pubDate>Fri, 14 Jun 2024 12:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰谨慎乐观地欢迎更多军事援助承诺</title>
-      <link>https://www.nytimes.com/2024/06/14/world/europe/ukraine-biden-military-aid.html</link>
-      <description><![CDATA[本周，基辅与几个西方盟友签署了安全协议。尚不清楚这些协议是否会从根本上改变战争进程，或者在其他地区即将举行的选举之后是否还能继续发挥作用。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/world/europe/ukraine-biden-military-aid.html</guid>
-      <pubDate>Fri, 14 Jun 2024 12:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>别忘了点赞、订阅和投票：拜登与网红的艰难求爱</title>
-      <link>https://www.nytimes.com/2024/06/14/us/politics/joe-biden-donald-trump-2024-campaign-tiktok.html</link>
-      <description><![CDATA[拜登竞选团队正试图进入社交媒体。但控制对话的年轻左翼声音让事情变得艰难。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/us/politics/joe-biden-donald-trump-2024-campaign-tiktok.html</guid>
-      <pubDate>Fri, 14 Jun 2024 10:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>在关键的西密歇根州，选民们疲惫不堪、不知所措</title>
-      <link>https://www.nytimes.com/2024/06/14/us/grand-rapids-michigan-voters.html</link>
-      <description><![CDATA[大急流城地区于 2016 年帮助唐纳德·J·特朗普赢得密歇根州，四年后又帮助拜登赢得总统职位。许多选民渴望有新的选择。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/us/grand-rapids-michigan-voters.html</guid>
-      <pubDate>Fri, 14 Jun 2024 09:03:52 GMT</pubDate>
+      <title>罗伯特·肯尼迪在从堕胎到气候变化等问题上的立场</title>
+      <link>https://www.nytimes.com/article/rfk-jr-issues-abortion-immigration.html</link>
+      <description><![CDATA[尽管这位独立候选人获胜的可能性仍然很小，但他凭借民粹主义的经济言论、孤立主义的外交政策倾向和对政府的怀疑态度赢得了支持。]]></description>
+      <guid>https://www.nytimes.com/article/rfk-jr-issues-abortion-immigration.html</guid>
+      <pubDate>Fri, 14 Jun 2024 09:02:06 GMT</pubDate>
     </item>
     <item>
       <title>美国联邦航空管理局调查假冒钛合金如何进入波音和空客飞机</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[这些材料是从一家鲜为人知的中国公司购买的，通过伪造的文件出售，并用于制造两家制造商的喷气式飞机的零部件。]]></description>
       <guid>https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html</guid>
       <pubDate>Fri, 14 Jun 2024 09:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>七国集团领导人扩大范围，将焦点转向移民和南方</title>
-      <link>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</link>
-      <description><![CDATA[印度、巴西、中东和非洲的领导人将于周五参加讨论，以表明对全球力量平衡变化的认同。]]></description>
-      <guid>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</guid>
-      <pubDate>Fri, 14 Jun 2024 06:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>浸信会和共和党在亲子关系问题上采取的不同立场</title>
-      <link>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</link>
-      <description><![CDATA[南方浸信会关于体外受精的投票引发了人们对其的警惕，该投票源于肯塔基州一所神学院的两名保守派人士。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</guid>
-      <pubDate>Fri, 14 Jun 2024 03:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件显示克拉伦斯·托马斯曾乘坐哈兰·克罗的飞机进行其他旅行</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/justice-clarence-thomas-harlan-crow-trips.html</link>
-      <description><![CDATA[国会委员会公布的文件显示，大法官克拉伦斯·托马斯没有披露由德克萨斯州亿万富翁哈兰·克罗出资的三次私人飞机旅行。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/justice-clarence-thomas-harlan-crow-trips.html</guid>
-      <pubDate>Fri, 14 Jun 2024 02:44:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
