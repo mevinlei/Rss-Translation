@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>纽约时报 > 头条新闻</title>
+    <title>现在 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 00:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 03:01:49 GMT</lastBuildDate>
+    <item>
+      <title>加沙停火为何如此难以实现</title>
+      <link>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-cease-fire-hamas-israel.html</link>
+      <description><![CDATA[双方都在追求最大化的要求，争取达成一项决定战后加沙命运的协议——并让他们宣布胜利。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-cease-fire-hamas-israel.html</guid>
+      <pubDate>Fri, 14 Jun 2024 02:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件显示克拉伦斯·托马斯曾乘坐哈兰·克罗的飞机进行其他旅行</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/justice-clarence-thomas-harlan-crow-trips.html</link>
+      <description><![CDATA[国会委员会公布的文件显示，大法官克拉伦斯·托马斯没有披露由德克萨斯州亿万富翁哈兰·克罗出资的三次私人飞机旅行。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/justice-clarence-thomas-harlan-crow-trips.html</guid>
+      <pubDate>Fri, 14 Jun 2024 02:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登对乌克兰的帮助会来得足够快且持续足够长吗？</title>
+      <link>https://www.nytimes.com/2024/06/13/world/europe/g7-biden-ukraine-agreements.html</link>
+      <description><![CDATA[总统与乌克兰签署了一项为期 10 年的安全协议，并承诺在欧盟的帮助下提供 500 亿美元的贷款。但这笔钱能否及时到位以扭转局势？这笔协议能否在 11 月大选后继续有效？]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/europe/g7-biden-ukraine-agreements.html</guid>
+      <pubDate>Fri, 14 Jun 2024 01:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>浸信会和共和党在亲子关系问题上采取的不同立场</title>
+      <link>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</link>
+      <description><![CDATA[南方浸信会关于体外受精的投票引发了人们对其的警惕，该投票源于肯塔基州一所神学院的两名保守派人士。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</guid>
+      <pubDate>Fri, 14 Jun 2024 01:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克的朋友和粉丝为股东投票表决其发薪日表示赞赏</title>
       <link>https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html</link>
       <description><![CDATA[在马斯克拥有的社交媒体平台 X 上，人们对再次确认马斯克 450 亿美元计划的投票反应热烈。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html</guid>
       <pubDate>Fri, 14 Jun 2024 00:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>堕胎药裁决或将帮助共和党减少政治劣势</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/republicans-abortion-pill.html</link>
-      <description><![CDATA[一项限制堕胎药获取途径的裁决将为民主党提供另一种方式来打击他们的对手，而这一问题已经对共和党政客造成了政治损害。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/republicans-abortion-pill.html</guid>
-      <pubDate>Thu, 13 Jun 2024 23:53:27 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉股东批准首席执行官埃隆·马斯克的薪酬方案</title>
@@ -27,18 +48,18 @@
       <pubDate>Thu, 13 Jun 2024 23:42:36 GMT</pubDate>
     </item>
     <item>
-      <title>拜登对乌克兰的帮助会来得足够快且持续足够长吗？</title>
-      <link>https://www.nytimes.com/2024/06/13/world/europe/g7-biden-ukraine-agreements.html</link>
-      <description><![CDATA[总统与乌克兰签署了一项为期 10 年的安全协议，并承诺在欧盟的帮助下提供 500 亿美元的贷款。但这笔钱能否及时到位以扭转局势？这笔协议能否在 11 月大选后继续有效？]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/europe/g7-biden-ukraine-agreements.html</guid>
-      <pubDate>Thu, 13 Jun 2024 23:12:51 GMT</pubDate>
+      <title>以色列和真主党发动贸易袭击，加沙遭受猛烈轰炸</title>
+      <link>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</link>
+      <description><![CDATA[据报道，以色列加强了对加沙南部的导弹和炮火袭击，同时还袭击了黎巴嫩真主党的军事目标。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</guid>
+      <pubDate>Thu, 13 Jun 2024 23:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>X 首席执行官 Linda Yaccarino 表示马斯克收购后广告商将回归</title>
-      <link>https://www.nytimes.com/2024/06/13/technology/x-elon-musk-linda-yaccarino.html</link>
-      <description><![CDATA[不过，领导们告诉员工，该平台所有者埃隆·马斯克和他的首席执行官琳达·亚卡里诺仍需努力来发展业务。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/technology/x-elon-musk-linda-yaccarino.html</guid>
-      <pubDate>Thu, 13 Jun 2024 22:40:23 GMT</pubDate>
+      <title>杰弗里·卡森伯格是拜登对抗特朗普的秘密武器</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/biden-jeffrey-katzenberg-trump.html</link>
+      <description><![CDATA[资深电影大亨杰弗里·卡森伯格 (Jeffrey Katzenberg) 总是在自己的电影中寻找可怕的反派。现在，他找到了唐纳德·J·特朗普 (Donald J. Trump)，他认为这是现实生活中的反派。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/biden-jeffrey-katzenberg-trump.html</guid>
+      <pubDate>Thu, 13 Jun 2024 22:52:21 GMT</pubDate>
     </item>
     <item>
       <title>最高法院维持堕胎药米非司酮的广泛使用</title>
@@ -57,51 +78,23 @@
     <item>
       <title>风暴继续给南佛罗里达州带来暴雨和洪水</title>
       <link>https://www.nytimes.com/2024/06/13/us/south-florida-flood-rain-storms.html</link>
-      <description><![CDATA[在持续数日的酷热和持续数日的暴风雨之间，夏季雨季开始让人感觉不同，而且非常难以预测。]]></description>
+      <description><![CDATA[在持续数日的酷热和持续数日的暴风雨之间，夏季雨季开始让人感觉不同，而且极难预测。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/us/south-florida-flood-rain-storms.html</guid>
       <pubDate>Thu, 13 Jun 2024 20:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>加沙停火为何如此难以实现</title>
-      <link>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-cease-fire-hamas-israel.html</link>
-      <description><![CDATA[双方都在追求最大化的要求，争取达成一项决定战后加沙命运的协议——并让他们宣布胜利。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-cease-fire-hamas-israel.html</guid>
-      <pubDate>Thu, 13 Jun 2024 20:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党为争取政治优势而施压，参议院共和党阻止了体外受精准入法案</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/ivf-access-bill-republicans.html</link>
-      <description><![CDATA[这次失败的测试投票是民主党在十一月选举前夕强调生殖问题的最新举措。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/ivf-access-bill-republicans.html</guid>
-      <pubDate>Thu, 13 Jun 2024 20:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院驳回“特朗普太小”商标申请</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/supreme-court-trump-trademark.html</link>
-      <description><![CDATA[该决定获得了一致通过，但其基本原理却存在缺陷，有几位法官反对多数派采用基于历史的测试。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/supreme-court-trump-trademark.html</guid>
-      <pubDate>Thu, 13 Jun 2024 18:40:10 GMT</pubDate>
-    </item>
-    <item>
       <title>虚假新闻仍在 Facebook 上滋生</title>
       <link>https://www.nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html</link>
-      <description><![CDATA[克里斯托弗·布莱尔 (Christopher Blair) 是著名的“自由派巨魔”，曾在 Facebook 上发布虚假信息。尽管遭到 Facebook 的打击，且来自人工智能的竞争日益激烈，但今年他的表现依然十分出色。]]></description>
+      <description><![CDATA[克里斯托弗·布莱尔 (Christopher Blair) 是著名的“自由派巨魔”，他在 Facebook 上发布虚假信息，尽管遭到 Facebook 的打击，且来自人工智能的竞争日益激烈，但今年他仍然取得了丰收。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html</guid>
       <pubDate>Thu, 13 Jun 2024 18:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>JB Pritzker，一位不怕称特朗普为重罪犯的民主党人</title>
-      <link>https://www.nytimes.com/2024/06/13/us/politics/trump-jb-pritzker-felony.html</link>
-      <description><![CDATA[共和党的大多数领导人都希望避免过多关注唐纳德·特朗普的重罪。伊利诺伊州州长 JB Pritzker 却有不同的看法。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/politics/trump-jb-pritzker-felony.html</guid>
-      <pubDate>Thu, 13 Jun 2024 18:28:58 GMT</pubDate>
     </item>
     <item>
       <title>最高法院支持星巴克“孟菲斯七人”工会案</title>
       <link>https://www.nytimes.com/2024/06/13/business/economy/supreme-court-starbucks-nlrb.html</link>
       <description><![CDATA[这对国家劳工关系委员会是一个打击，法官们使得要求雇主恢复被解雇工人的职位变得更加困难。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/business/economy/supreme-court-starbucks-nlrb.html</guid>
-      <pubDate>Thu, 13 Jun 2024 18:10:17 GMT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 18:10:18 GMT</pubDate>
     </item>
     <item>
       <title>今年托尼奖肖像类提名者</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[托尼奖颁奖典礼在周日举行。每年我们都会拍摄被提名的演员，并与他们讨论他们的技艺。这一次，我们询问了他们早期的戏剧记忆。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/theater/tony-nominees-2024-photos.html</guid>
       <pubDate>Thu, 13 Jun 2024 09:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>愤怒的天主教徒想要烧毁教堂。他来拯救它。</title>
+      <link>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</link>
+      <description><![CDATA[在魁北克北部一个寒冷偏远的角落，一场性侵丑闻将一座教堂推向了绝境。来自喀麦隆的杰拉德·察塞拉姆牧师必须安慰受害者，让教堂重获新生。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</guid>
+      <pubDate>Thu, 13 Jun 2024 09:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 14 Jun 2024 00:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 03:11:27 GMT</lastBuildDate>
     <item>
       <title>寻找开发人员来帮助我重新创建 https://onlinepngtools.com</title>
       <link>https://www.reddit.com/r/opensource/comments/1dfcnsg/looking_for_developers_to_help_me_recreate/</link>
-      <description><![CDATA[大家好， 我很高兴与大家分享一个开源项目，该项目可复制 OnlineTools.com 的功能。如果您热衷于软件开发、喜欢编码，或者只是喜欢为开源项目做贡献，我们欢迎您加入我们！ 该项目是关于什么的？ 我们的目标是创建一套类似于 OnlineTools.com 的综合在线工具。这包括用于文本处理、文件转换、计算器等的实用程序。该项目旨在用户友好、可访问且供所有人免费使用。 技术堆栈：  前端： React.js 后端： Node.js 数据库： PostgreSQL  如何参与：  查看我们的 GitHub 存储库： GitHub Repo 链接 选择一个问题或建议一个新功能：我们欢迎所有贡献，从错误修复到新功能。  无论您是经验丰富的开发人员还是刚刚起步，我们的项目都有适合您的位置。您的贡献，无论多小，都能带来巨大的改变！ 请为该仓库加注星标，让我们更加引人注目 期待与大家合作。让我们一起创造奇迹吧！    提交人    /u/iibracool   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我很高兴与大家分享一个开源项目，该项目可复制 OnlineTools.com 的功能。如果您热衷于软件开发、喜欢编码，或者只是喜欢为开源项目做贡献，我们欢迎您加入我们！ 该项目是什么？ 我们的目标是创建一套类似于 OnlineTools.com 的综合在线工具。这包括用于文本处理、文件转换、计算器等的实用程序。该项目旨在用户友好、可访问且供所有人免费使用。 技术堆栈：  前端： React.js 后端： Node.js 数据库： PostgreSQL  如何参与：  查看我们的 GitHub 存储库： GitHub Repo Link 选择问题或建议新功能：我们欢迎所有贡献，从错误修复到新功能。  无论您是经验丰富的开发人员还是刚刚起步，我们的项目都有适合您的位置。您的贡献，无论多小，都能带来巨大的改变！ 请为该仓库加注星标，让我们更加引人注目 期待与大家合作。让我们一起创造奇迹吧！    提交人    /u/iibracool   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dfcnsg/looking_for_developers_to_help_me_recreate/</guid>
       <pubDate>Thu, 13 Jun 2024 23:19:16 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>FileZilla 维基</title>
       <link>https://www.reddit.com/r/opensource/comments/1df3ceq/filezilla_wiki/</link>
-      <description><![CDATA[所以我最近对开源的东西很感兴趣（我的意思是谁不喜欢呢），并尝试熟悉那些应用程序。当前的机器严重依赖 Windows，我主要使用的应用程序之一是 WinScp。所以，我可能在一两周内换成 LinuxMint，所以我浏览 FileZilla 来了解一些关于它的事情。直到我打开 filezilla 的 wiki 部分。哈哈。（不要在工作时打开，nsfw）    提交人    /u/hariz_marzuki   [link] [评论]]]></description>
+      <description><![CDATA[所以我最近对开源的东西很感兴趣（我的意思是谁不喜欢呢），并尝试熟悉那些应用程序。当前的机器严重依赖 Windows，我主要使用的应用程序之一是 WinScp。所以，我可能在一两周内换成 LinuxMint，所以我会浏览 FileZilla 来了解一些关于它的事情。直到我打开 filezilla 的 wiki 部分。哈哈。（不要在工作时打开，nsfw）    提交人    /u/hariz_marzuki   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1df3ceq/filezilla_wiki/</guid>
       <pubDate>Thu, 13 Jun 2024 16:36:09 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>搜索具有出席功能的团体活动日历。</title>
       <link>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</link>
-      <description><![CDATA[您好，我运营一个游戏社区，人们可以在这里报名参加他们想参加的活动。我们的旧系统正在走向我们无法跟进的方向，所以我正在寻找一个开源替代方案，可以托管在我的 inmotionhosting 网络服务器上。 本质上，我希望有一个系统，每个人都有自己的用户帐户，并且该帐户允许他们： 查看日历 创建活动 将活动回复为“进行”、“不进行”或“可能” 我觉得这是一件非常简单的事情，但我很难找到这样的东西。 如果它有其他功能，如待办事项列表、论坛和其他一些简单的功能，那就太好了。但我并不是在寻找一个功能齐全的商业套件，只是一个帮助组织社区的小工具。看起来更现代、更简单的东西也会是一个加分项。 有人有什么建议吗？谢谢。    提交人    /u/Trekker007   [link] [comments]]]></description>
+      <description><![CDATA[您好，我运营一个游戏社区，人们可以在这里报名参加他们想参加的活动。我们的旧系统正在走向一种我们无法跟进的方向，所以我正在寻找一个开源替代方案，可以托管在我的 inmotionhosting 网络服务器上。 本质上，我希望有一个系统，每个人都有自己的用户帐户，并且该帐户允许他们： 查看日历 创建活动 将活动回复为“进行”、“不进行”或“可能” 我觉得这是一件非常简单的事情，但我很难找到这样的东西。 如果它有其他功能，如待办事项列表、论坛和其他一些简单的功能，那就太好了。但我并不是在寻找一个功能齐全的商业套件，只是一个帮助组织社区的小工具。看起来更现代、更简单的东西也会是一个加分项。 有人有什么建议吗？谢谢。    提交人    /u/Trekker007   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1df1ymw/searching_for_group_event_calendar_with/</guid>
       <pubDate>Thu, 13 Jun 2024 15:38:10 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>寻求赞助热门开源项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1detdkq/seeking_popular_open_source_projects_for/</link>
-      <description><![CDATA[您好 r/opensource 社区， 我代表一位热衷于赞助开源项目的客户与您联系。作为回报，他们希望他们的徽标在项目网站上突出显示，并在主页、文档、帮助部分和其他相关区域等多个页面上显示 dofollow 反向链接。 客户对以下领域的项目特别感兴趣：  地理空间 线性求解器 路线 制图 地图 组合优化 几何 公共交通  但是，他们愿意考虑任何可能合适的项目。  您可以在此处查看项目的域评级 (DR)：https://ahrefs.com/website-authority-checker 如果超过40，我们非常希望听到您的声音。  在对数千个项目进行了广泛搜索之后，我相信找到好机会的最佳方式是直接与这个社区互动。如果您知道任何符合这些条件的项目或您自己参与的项目，请告诉我。 作为一个非常重视和支持开源运动的人，我渴望帮助同道中人。我相信赞助资金可以极大地造福您的项目并支持您在开源领域的持续工作。就背景而言，我的客户是一家总部位于美国的优秀软件公司。 谢谢您，我期待您的建议！请随时给我发私信或通过电子邮件联系 [hello@jinn.ee](mailto:hello@jinn.ee)    提交人    /u/jinn-ee   [链接] [评论]]]></description>
+      <description><![CDATA[您好 r/opensource 社区， 我代表一位热衷于赞助开源项目的客户与您联系。作为回报，他们希望他们的徽标在项目网站上突出显示，并在主页、文档、帮助部分和其他相关区域等多个页面上显示 dofollow 反向链接。 客户对以下领域的项目特别感兴趣：  地理空间 线性求解器 路由 制图 地图 组合优化 几何 公共交通  但是，他们愿意考虑任何可能合适的项目。  您可以在此处查看项目的域评级 (DR)：https://ahrefs.com/website-authority-checker 如果超过40，我们非常希望听到您的声音。  在对数千个项目进行了广泛搜索之后，我相信找到好机会的最佳方式是直接与这个社区互动。如果您知道任何符合这些条件的项目或您自己参与的项目，请告诉我。 作为一个非常重视和支持开源运动的人，我渴望帮助同道中人。我相信赞助资金可以极大地造福您的项目并支持您在开源领域的持续工作。就背景而言，我的客户是一家总部位于美国的优秀软件公司。 谢谢您，我期待您的建议！请随时给我发私信或通过电子邮件联系 [hello@jinn.ee](mailto:hello@jinn.ee)    提交人    /u/jinn-ee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1detdkq/seeking_popular_open_source_projects_for/</guid>
       <pubDate>Thu, 13 Jun 2024 07:41:12 GMT</pubDate>
     </item>
