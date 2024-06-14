@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>现在 > 头条新闻</title>
+    <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 03:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 05:29:19 GMT</lastBuildDate>
+    <item>
+      <title>七国集团领导人扩大范围，将焦点转向移民和南方</title>
+      <link>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</link>
+      <description><![CDATA[印度、巴西、中东和非洲的领导人将于周五参加讨论，以表明对全球力量平衡变化的认同。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/world/europe/g7-summit-ai-china-india.html</guid>
+      <pubDate>Fri, 14 Jun 2024 05:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么连英国财政大臣杰里米·亨特都担心自己会输掉这次选举</title>
+      <link>https://www.nytimes.com/2024/06/14/world/europe/uk-election-jeremy-hunt.html</link>
+      <description><![CDATA[作为财政大臣，杰里米·亨特所代表的选区也一直是保守党的坚强后盾。但现在情况不同了。]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/world/europe/uk-election-jeremy-hunt.html</guid>
+      <pubDate>Fri, 14 Jun 2024 04:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>朱利安·纳格尔斯曼是本月德国最重要的人物</title>
+      <link>https://www.nytimes.com/2024/06/14/world/europe/germany-euros-nagelsmann.html</link>
+      <description><![CDATA[尤利安·纳格尔斯曼受聘在本土赢得欧洲杯。他能否同时恢复一个分裂国家的自尊？]]></description>
+      <guid>https://www.nytimes.com/2024/06/14/world/europe/germany-euros-nagelsmann.html</guid>
+      <pubDate>Fri, 14 Jun 2024 04:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>浸信会和共和党在亲子关系问题上采取的不同立场</title>
+      <link>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</link>
+      <description><![CDATA[南方浸信会关于体外受精的投票引发了人们对其的警惕，该投票源于肯塔基州一所神学院的两名保守派人士。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</guid>
+      <pubDate>Fri, 14 Jun 2024 03:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列与真主党战斗加剧 贸易打击加剧</title>
+      <link>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</link>
+      <description><![CDATA[据报道，以色列加强了对加沙南部的导弹和炮火袭击，同时还袭击了黎巴嫩真主党的军事目标。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</guid>
+      <pubDate>Fri, 14 Jun 2024 03:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>加沙停火为何如此难以实现</title>
       <link>https://www.nytimes.com/2024/06/13/world/middleeast/gaza-cease-fire-hamas-israel.html</link>
@@ -27,18 +62,11 @@
       <pubDate>Fri, 14 Jun 2024 01:55:56 GMT</pubDate>
     </item>
     <item>
-      <title>浸信会和共和党在亲子关系问题上采取的不同立场</title>
-      <link>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</link>
-      <description><![CDATA[南方浸信会关于体外受精的投票引发了人们对其的警惕，该投票源于肯塔基州一所神学院的两名保守派人士。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/us/baptists-gop-different-paths-ivf.html</guid>
-      <pubDate>Fri, 14 Jun 2024 01:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克的朋友和粉丝为股东投票表决其发薪日表示赞赏</title>
-      <link>https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html</link>
-      <description><![CDATA[在马斯克拥有的社交媒体平台 X 上，人们对再次确认马斯克 450 亿美元计划的投票反应热烈。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/business/tesla-elon-musk-vote-reaction.html</guid>
-      <pubDate>Fri, 14 Jun 2024 00:05:09 GMT</pubDate>
+      <title>特朗普回到国会，对泰勒·斯威夫特、南希·佩洛西和密尔沃基发表了看法</title>
+      <link>https://www.nytimes.com/2024/06/13/us/politics/trump-milwaukee-rnc.html</link>
+      <description><![CDATA[据与会人员透露，这位前总统在与共和党众议院议员的闭门会议上贬低了共和党大会将要举办的城市。]]></description>
+      <guid>https://www.nytimes.com/2024/06/13/us/politics/trump-milwaukee-rnc.html</guid>
+      <pubDate>Fri, 14 Jun 2024 01:54:29 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉股东批准首席执行官埃隆·马斯克的薪酬方案</title>
@@ -46,13 +74,6 @@
       <description><![CDATA[此次投票被视为对其对这家电动汽车制造商的管理以及高管薪酬限制的一次公投。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/business/tesla-shareholder-vote-elon-musk.html</guid>
       <pubDate>Thu, 13 Jun 2024 23:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列和真主党发动贸易袭击，加沙遭受猛烈轰炸</title>
-      <link>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</link>
-      <description><![CDATA[据报道，以色列加强了对加沙南部的导弹和炮火袭击，同时还袭击了黎巴嫩真主党的军事目标。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/middleeast/israel-southern-gaza-hezbollah.html</guid>
-      <pubDate>Thu, 13 Jun 2024 23:00:09 GMT</pubDate>
     </item>
     <item>
       <title>杰弗里·卡森伯格是拜登对抗特朗普的秘密武器</title>
@@ -78,16 +99,9 @@
     <item>
       <title>风暴继续给南佛罗里达州带来暴雨和洪水</title>
       <link>https://www.nytimes.com/2024/06/13/us/south-florida-flood-rain-storms.html</link>
-      <description><![CDATA[在持续数日的酷热和持续数日的暴风雨之间，夏季雨季开始让人感觉不同，而且极难预测。]]></description>
+      <description><![CDATA[在持续数日的酷热和持续数日的暴风雨之间，夏季雨季开始让人感觉不同，而且非常难以预测。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/us/south-florida-flood-rain-storms.html</guid>
-      <pubDate>Thu, 13 Jun 2024 20:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>虚假新闻仍在 Facebook 上滋生</title>
-      <link>https://www.nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html</link>
-      <description><![CDATA[克里斯托弗·布莱尔 (Christopher Blair) 是著名的“自由派巨魔”，他在 Facebook 上发布虚假信息，尽管遭到 Facebook 的打击，且来自人工智能的竞争日益激烈，但今年他仍然取得了丰收。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/technology/facebook-fake-news-culture-wars.html</guid>
-      <pubDate>Thu, 13 Jun 2024 18:35:09 GMT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 20:54:30 GMT</pubDate>
     </item>
     <item>
       <title>最高法院支持星巴克“孟菲斯七人”工会案</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[这对国家劳工关系委员会是一个打击，法官们使得要求雇主恢复被解雇工人的职位变得更加困难。]]></description>
       <guid>https://www.nytimes.com/2024/06/13/business/economy/supreme-court-starbucks-nlrb.html</guid>
       <pubDate>Thu, 13 Jun 2024 18:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年托尼奖肖像类提名者</title>
-      <link>https://www.nytimes.com/2024/06/13/theater/tony-nominees-2024-photos.html</link>
-      <description><![CDATA[托尼奖颁奖典礼在周日举行。每年我们都会拍摄被提名的演员，并与他们讨论他们的技艺。这一次，我们询问了他们早期的戏剧记忆。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/theater/tony-nominees-2024-photos.html</guid>
-      <pubDate>Thu, 13 Jun 2024 09:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>愤怒的天主教徒想要烧毁教堂。他来拯救它。</title>
-      <link>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</link>
-      <description><![CDATA[在魁北克北部一个寒冷偏远的角落，一场性侵丑闻将一座教堂推向了绝境。来自喀麦隆的杰拉德·察塞拉姆牧师必须安慰受害者，让教堂重获新生。]]></description>
-      <guid>https://www.nytimes.com/2024/06/13/world/canada/catholic-church-canada-indigenous-people.html</guid>
-      <pubDate>Thu, 13 Jun 2024 09:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
