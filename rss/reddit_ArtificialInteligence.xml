@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 14 Jun 2024 06:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 09:09:09 GMT</lastBuildDate>
+    <item>
+      <title>寻求有关改进我的 AI 结果的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfm8q9/looking_for_suggestions_on_improving_my_ai_results/</link>
+      <description><![CDATA[你好！ 我正在寻找改进结果的建议！:) 过去几天，我一直在进行一个实验，以抓取ESA 的中小型企业数据库，以便在 ESA 的承包商处搜索工作（因为 ESA 自己不太可能雇用我，因为我是一名软件工程师/架构师，也因为 ESA 据说不自己​​做东西而只是外包）。我用 Python 编写了一些脚本来收集公司网站 URL 及其主页内容，然后运行 ​​AI 来根据公司所属的领域标记每家公司。这就是我的想法。 我使用的 AI 是 Llama 3 8B Instruct。我不知道它是否好用，我在谷歌上搜索了一下，结果推荐使用。我使用 Jan AI 运行 AI。 我得到了一些质量不太好的结果；从主页获取内容是一回事，但 AI 并不总是严格遵循其指令。我想我需要一个更大的模型，但我的 GPU 只有 8GB VRAM，所以我无法运行 340 亿大小的 AI 网络。结果分为 23 页，每页 100 个项目，结构为 JSON 数据。链接到 github repo：https://github.com/bremby/ESA-SME-tagger 欢迎对更好的模型和/或更好的使用提出建议！:)（只是不要评论代码质量，在这里我不在乎：D）    提交人    /u/bremby   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfm8q9/looking_for_suggestions_on_improving_my_ai_results/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:48:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一个人工智能可以搜索脚本的 broll 链接？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfm6ix/is_there_an_ai_that_searches_for_broll_links_for/</link>
+      <description><![CDATA[嗨，我是一名视频编辑，大部分时间里寻找 b 卷都是我工作中花费大量时间的事情。我在想是否有一个人工智能可以分析脚本并建议来自某些网站 (storyblocks) 的 broll。提前致谢！    提交人    /u/limeball0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfm6ix/is_there_an_ai_that_searches_for_broll_links_for/</guid>
+      <pubDate>Fri, 14 Jun 2024 08:43:43 GMT</pubDate>
+    </item>
     <item>
       <title>当你想不出一个词的时候，有什么人工智能可以帮助你吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfjrgf/is_there_an_ai_for_when_you_cant_think_of_a_word/</link>
@@ -27,13 +41,6 @@
       <pubDate>Fri, 14 Jun 2024 05:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>Jan.ai 和 LM Studio 的结果不同</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfi4t4/differing_results_from_janai_and_lm_studio/</link>
-      <description><![CDATA[正如标题所示，在运行相同的 LLM 时，我发现 Jan.ai 和 LM Studio 的结果存在奇怪的差异，但我并不完全确定原因。LM Studio 的响应是一致的，但 Jan.ai 的响应大多是幻觉。 为了给出具体的背景，我在 Jan.ai 和 LM studio 上运行 Meta Llama 3 Instruct Q4_K_M - 我确保模型是从相同的 huggingface URL 下载的，并且其余的高级设置相同 - 温度、采样、惩罚等。为了测试，我问了一个问题“你能告诉我有关 ISO 11064 的信息吗”，这是设计控制中心的 ISO 标准。 LM Studio 中的 Llama 3 表现始终如一，每次都给出正确的答案。然而，Jan.ai 中的相同模型却产生幻觉并始终提供错误的答案。  有谁对内部情况有更深入的了解，能解释一下原因吗？    提交人    /u/stupidostrich   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfi4t4/differing_results_from_janai_and_lm_studio/</guid>
-      <pubDate>Fri, 14 Jun 2024 04:09:22 GMT</pubDate>
-    </item>
-    <item>
       <title>ADASYN 过采样算法详解</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfi115/adasyn_oversampling_algorithm_explained/</link>
       <description><![CDATA[ADASYN 是 SMOTE 的扩展，它通过对少数群体进行过度采样来帮助解决类别不平衡问题。了解其工作原理以及优于 SMOTE 的数学原理：https://youtu.be/KG2C-KsiNyI?si=DxBW4HSEJcOaNeCc    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
@@ -43,7 +50,7 @@
     <item>
       <title>每日一分钟人工智能新闻 2024 年 6 月 13 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfhweq/oneminute_daily_ai_news_6132024/</link>
-      <description><![CDATA[ 特斯拉投资者起诉埃隆马斯克创办了一家竞争对手的 AI 公司。[1] 认识 CodeParrot：一种将 Figma 文件转换为可用于生产的代码的 AI 工具。[2] AI 解码抹香鲸语言，揭示一个复杂的通信系统。[3] USF 开发的 AI 智能捕蚊器有助于抗击疟疾传播，拯救国外生命。[4]  来源包括：https://bushaicave.com/2024/06/13/6-13-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
+      <description><![CDATA[ 特斯拉投资者起诉埃隆马斯克创办了一家竞争对手的 AI 公司。[1] 认识 CodeParrot：一种将 Figma 文件转换为可用于生产的代码的 AI 工具。[2] AI 解码抹香鲸语言，揭示一个复杂的通信系统。[3] USF 开发的 AI 智能捕蚊器有助于抗击疟疾传播，挽救国外生命。[4]  来源包括：https://bushaicave.com/2024/06/13/6-13-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfhweq/oneminute_daily_ai_news_6132024/</guid>
       <pubDate>Fri, 14 Jun 2024 03:56:47 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[大家好！ 我正在寻找一种解决方案，可以识别图像中的名人，例如演员、音乐家和政治家。我尝试过 Gemini 和 GPT，但它们无法真正做到这一点。理想情况下，解决方案还应具有 API。 非常感谢！    由   提交  /u/Martin_CaronStudios   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfhkiv/ai_toolsolution_that_recognizes_famous_people_in/</guid>
       <pubDate>Fri, 14 Jun 2024 03:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以听起来像特定卡通人物的免费 AI 语音生成器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dfh92r/looking_for_a_free_ai_voice_generator_that_can/</link>
-      <description><![CDATA[我正在尝试启动 twitch，我想使用特定的卡通人物，但他们没有我想要他们说的台词。所以，我想我可以尝试找到一个可以做到这一点的 AI。有什么建议吗？    提交人    /u/MGaber   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dfh92r/looking_for_a_free_ai_voice_generator_that_can/</guid>
-      <pubDate>Fri, 14 Jun 2024 03:19:01 GMT</pubDate>
     </item>
     <item>
       <title>为 LLM 和图像生成模型制作了一个相当有挑战性的即时工程测验</title>
@@ -99,12 +99,12 @@
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户查看更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
