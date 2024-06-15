@@ -4,7 +4,21 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sat, 15 Jun 2024 12:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 15:09:55 GMT</lastBuildDate>
+    <item>
+      <title>关于从 FamiTracker 导出 MIDI 的询问</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dghp3q/query_about_exporting_midi_from_famitracker/</link>
+      <description><![CDATA[您好！我目前正在制作《超级马里奥世界》 ROM Hack，并希望使用 FamiTracker 为其编写完整的原创乐谱。 我希望在 FamiTracker 中创作，然后导出 MIDI 来播放样本等。MIDI 文件还可以帮助我更快地编写 MML。 如果这是一个无知的问题，我很抱歉，因为我最近才开始使用 FamiTracker。    提交人    /u/riverwhite   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dghp3q/query_about_exporting_midi_from_famitracker/</guid>
+      <pubDate>Sat, 15 Jun 2024 13:12:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>久违的时代经典</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1dggoln/favorites_from_a_longlost_era/</link>
+      <description><![CDATA[        提交人    /u/Sepix   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1dggoln/favorites_from_a_longlost_era/</guid>
+      <pubDate>Sat, 15 Jun 2024 12:17:07 GMT</pubDate>
+    </item>
     <item>
       <title>黑鸟 - 大家！准备！</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1dgfbar/blackbird_all_prepare/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交者    /u/waccwaccwaccwaccwacc   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1debltl/ruined_metropolis_ym2612xdualpcm_original/</guid>
       <pubDate>Wed, 12 Jun 2024 16:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>技能发展轨道 5</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1de4ye0/track_5_for_skill_development/</link>
-      <description><![CDATA[        提交人    /u/AcanthocephalaKey347   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1de4ye0/track_5_for_skill_development/</guid>
-      <pubDate>Wed, 12 Jun 2024 12:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>(꒪ཫ꒪ )ノiii ḟ৹ʳᵧ৹ᵤ，作者：𝔐𝔬𝔲𝔫𝔱𝔞𝔦𝔫𝔰 𝔒𝔣 𝔓𝔦𝔵𝔢𝔩𝔰</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ddwvoi/ཫ_ノ_ḟ৹ʳᵧ৹ᵤ_by_𝔐𝔬𝔲𝔫𝔱𝔞𝔦𝔫𝔰_𝔒𝔣_𝔓𝔦𝔵𝔢𝔩𝔰/</link>
-      <description><![CDATA[      在 gameboy 上制作的邪恶舞曲    提交人    /u/Spliff_Fingers   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ddwvoi/ཫ_ノ_ḟ৹ʳᵧ৹ᵤ_by_𝔐𝔬𝔲𝔫𝔱𝔞𝔦𝔫𝔰_𝔒𝔣_𝔓𝔦𝔵𝔢𝔩𝔰/</guid>
-      <pubDate>Wed, 12 Jun 2024 03:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
