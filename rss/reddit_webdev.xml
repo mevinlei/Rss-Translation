@@ -4,13 +4,69 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 15 Jun 2024 21:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 00:42:34 GMT</lastBuildDate>
     <item>
-      <title>PHP 是 Web 开发领域一种正在消亡的语言吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgriyi/is_php_a_dying_language_in_the_web_development/</link>
-      <description><![CDATA[我听人说 PHP 已经过时了。它在 Web 开发行业真的要消亡了吗？我觉得几乎没有人再喜欢它了。    提交人    /u/WaseemHH   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgriyi/is_php_a_dying_language_in_the_web_development/</guid>
-      <pubDate>Sat, 15 Jun 2024 21:01:33 GMT</pubDate>
+      <title>如今 PHP 在 Web 开发中还被广泛应用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgv9hh/is_php_still_widely_used_in_web_development_today/</link>
+      <description><![CDATA[PHP 在 Web 开发中仍然很重要吗？随着所有这些新语言的出现，我不确定 PHP 的地位如何，那么它对新项目是否仍然那么重要？    提交人    /u/WaseemHH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgv9hh/is_php_still_widely_used_in_web_development_today/</guid>
+      <pubDate>Sun, 16 Jun 2024 00:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>与拥有数十年经验的设计师开发人员独角兽忍者一起工作的经理 - 他们的价值是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgtuxb/managers_who_work_with_designer_developer_unicorn/</link>
+      <description><![CDATA[刚刚有一篇关于如何让你成为更好的前端的帖子 - 那里有很多真正的设计师和工程师。如果你是与这些人一起工作的经理 - 是什么让他们对你有价值？是沟通、速度、经验//你的经验是什么。你想要更多这样的人/还是只有一种理想？    提交人    /u/kodakdaughter   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgtuxb/managers_who_work_with_designer_developer_unicorn/</guid>
+      <pubDate>Sat, 15 Jun 2024 22:57:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgts2p/roast_my_website/</link>
+      <description><![CDATA[https://ultraclearcolumbus.wixsite.com/my-site-5 我刚刚做了。它需要什么？    提交人    /u/FunIndependent1782   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgts2p/roast_my_website/</guid>
+      <pubDate>Sat, 15 Jun 2024 22:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我用 TS 和 Golang 制作了一个填字游戏生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgt107/showoff_saturday_i_made_a_crossword_builder_in_ts/</link>
+      <description><![CDATA[  由    /u/userundefined  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgt107/showoff_saturday_i_made_a_crossword_builder_in_ts/</guid>
+      <pubDate>Sat, 15 Jun 2024 22:14:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我们制作了一个网站，展示本周在芝加哥举行的现场音乐活动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgsyrq/showoff_saturday_we_made_a_website_that_shows/</link>
+      <description><![CDATA[芝加哥音乐指南 前提很简单，我们正在收集大量数据。我们正在尝试弄清楚如何将其商业化，同时我们正在构建仪表板，了解 ML 模型并寻找各种意见。    提交人    /u/sateliteconstelation   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgsyrq/showoff_saturday_we_made_a_website_that_shows/</guid>
+      <pubDate>Sat, 15 Jun 2024 22:11:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我使用国家公园管理局 API 创建了一个网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgsnq3/showoff_saturday_i_made_a_website_using_the/</link>
+      <description><![CDATA[        提交人    /u/UniqueTennis9351   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgsnq3/showoff_saturday_i_made_a_website_using_the/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何找到网站设计者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgsmci/how_to_locate_who_designed_a_website/</link>
+      <description><![CDATA[如何找出谁为某个品牌/当前网站设计了网站？    提交人    /u/zhoneydripper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgsmci/how_to_locate_who_designed_a_website/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:54:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种写函数的方式正常吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgrwps/is_this_way_of_writing_functions_normal/</link>
+      <description><![CDATA[我的专业是 IT，专攻网页设计和数据库开发，但是我从来没有找到过相关工作，所以基本上什么都忘了。 好吧，我正在研究 Javascript，最近我学到了一种非常简约的函数编写方式，我非常喜欢这种方式，而且我总是在代码中添加注释，但是我想知道这样的东西是否真的用于工作中，或者这只是一个有趣的技巧。 例如 const yourFunctionName = () =&gt; { 就像我说的，我发现用代码编写很有趣，可以尽可能节省我的时间，但是我想重新回到这种风格，如果人们实际上不使用它，我就不会继续这种风格。    提交人    /u/Feythnin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgrwps/is_this_way_of_writing_functions_normal/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:19:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么工具来管理您的自由职业项目和客户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dgrt0g/what_tools_do_you_use_to_manage_your_freelance/</link>
+      <description><![CDATA[大家好， 我正在联系这里的所有自由职业开发者！🛠️ 我很好奇你用来管理项目和客户的工具和系统。具体来说，你如何处理：  项目和客户信息 预算跟踪 工作时间 项目状态更新 以及任何其他相关详细信息  如果您目前不使用任何专用工具，您会考虑尝试一下吗？如果您使用，哪些功能对您来说最重要？ 我认为分享我们的经验和建议会很棒。无论是全面的软件解决方案还是独特的个人系统，让我们来讨论一下在自由职业世界中什么最适合我们。 期待听到您的想法和建议！    提交人    /u/emantrigo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dgrt0g/what_tools_do_you_use_to_manage_your_freelance/</guid>
+      <pubDate>Sat, 15 Jun 2024 21:14:49 GMT</pubDate>
     </item>
     <item>
       <title>我们开源了我们的仪表板模板</title>
@@ -53,62 +109,6 @@
       <description><![CDATA[正如标题所示，我从事 Web 开发已经三年了。我从一个全栈训练营开始，不久之后就成为了一名前端开发人员。目前，我担任混合角色，因此要处理我正在修复/增强/实施的任何内容的前端和后端工作，因此我的日常工作涉及在 React 生态系统中工作并将其与 C# 结合起来。我所获得的很多知识都隐藏在产品/代码库知识中，但当然，我也对编写实际代码有相当的了解。但是，有时我感觉缺少了一些东西；我应该知道或应该了解更多的东西。 所以我想问的是，你们当中是否有人推荐一些可以深入研究的概念，或者任何好的资源，如文章或 YouTube 频道或类似的东西，可以帮助我继续前进。提前谢谢。    提交人    /u/Bickermentative   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dgp8w6/looking_for_resources_as_a_third_year_web_dev/</guid>
       <pubDate>Sat, 15 Jun 2024 19:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以更改 chrome 标签栏和 url 栏的高度吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgp5dc/possible_to_change_chrome_tab_bar_and_url_bar/</link>
-      <description><![CDATA[这里有人知道是否可以在 chrome 文件或其他地方更改 Chrome 标签栏和 url 多功能框栏的高度吗？如果可以，该怎么做？谢谢。    提交人    /u/ThinkBigger01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgp5dc/possible_to_change_chrome_tab_bar_and_url_bar/</guid>
-      <pubDate>Sat, 15 Jun 2024 19:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>重新思考 Web 上的文本大小调整</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgp2k0/rethinking_text_resizing_on_web/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgp2k0/rethinking_text_resizing_on_web/</guid>
-      <pubDate>Sat, 15 Jun 2024 19:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 界面简洁，除了 Express 之外没有任何框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgp1t7/showoff_saturday_clean_interface_without_any/</link>
-      <description><![CDATA[      https://preview.redd.it/yasjgnsy9s6d1.png?width=1210&amp;format=png&amp;auto=webp&amp;s=1de4b9ff4bd7e2d40d1663f4f6924f95579f8bb9    提交人    /u/Wervice   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgp1t7/showoff_saturday_clean_interface_without_any/</guid>
-      <pubDate>Sat, 15 Jun 2024 19:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我能改变什么？申请了 150 多个相关职位，却没有接到任何回电</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgorro/what_can_i_change_applied_to_over_150_relevant/</link>
-      <description><![CDATA[      我不知道自己在做什么错了。我申请了很多入门级职位，要求 0 - 2 YOE，但即使我的个人资料看起来还不错，我也没有收到任何招聘人员的回电。在初创公司工作 14 个月还不够好吗？    提交人    /u/iam_johndoe   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgorro/what_can_i_change_applied_to_over_150_relevant/</guid>
-      <pubDate>Sat, 15 Jun 2024 18:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载我自己的所有 CodePen Pen 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgo780/download_all_my_own_codepen_pens/</link>
-      <description><![CDATA[我想备份我所有的 CodePen Pens *，我知道页面上的下载按钮...但我有很多笔想要存档，这可能需要 3 个小时！ 不久前，我尝试为它编写一个抓取工具，但它使用了一些复杂的框架 - 下载按钮经历了一些事件，服务器端反弹并且具有身份验证令牌或我上次检查时的一些类似内容。 https://codepen.io/SarahC/ * 我已经在这里呆了很长时间，看到一些网站突然死机，没有机会挽救内容。所以我有点偏执。    提交人    /u/SarahC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgo780/download_all_my_own_codepen_pens/</guid>
-      <pubDate>Sat, 15 Jun 2024 18:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建管理仪表板应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgo3gx/building_an_admin_dashboard_application/</link>
-      <description><![CDATA[大家好。我是一名程序员，但在 Web 开发方面没有太多经验。 我想开发一个 Web 应用程序，它将显示带有一些分析功能的仪表板并自动发送电子邮件。我花了上周的时间研究开发和部署网站的整个过程，浏览了 html/css/js 教程，并在 react 中构建了小元素以掌握一切。 我的目标是尽快开发应用程序。 抱歉，这是一个愚蠢的问题，但是有没有办法从某个地方获取模板，我可以直观地或至少轻松地操作以满足我的目标，然后将其连接到我的后端？ 这里最快和最简单的方法是什么？ 提前致谢    提交人    /u/maleguy20s   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgo3gx/building_an_admin_dashboard_application/</guid>
-      <pubDate>Sat, 15 Jun 2024 18:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找基于cookie的CRUD API进行学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgmxsl/looking_for_a_crud_api_for_learning_based_on/</link>
-      <description><![CDATA[很久以前，我偶然发现了一个 CRUD API，它做了一个有趣的技巧：它不使用数据库，而是将实体存储在 cookie 中。这使它成为正在学习并需要模拟后端的开发人员的完美免费资源。 我现在似乎无法用谷歌搜索它。有人记得它并可以分享链接吗？ 谢谢！    提交人    /u/everdimension   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgmxsl/looking_for_a_crud_api_for_learning_based_on/</guid>
-      <pubDate>Sat, 15 Jun 2024 17:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个有趣的小数字游戏——寻求反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dgmv0i/i_made_a_fun_little_number_game_looking_for/</link>
-      <description><![CDATA[      我是一个新手网络开发人员，我制作这个游戏是为了展示我作为开发人员的一些进步！希望你喜欢它，如果你有任何反馈，请留下一些反馈！    提交人    /u/LolIMakeFunnyMeme   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dgmv0i/i_made_a_fun_little_number_game_looking_for/</guid>
-      <pubDate>Sat, 15 Jun 2024 17:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
