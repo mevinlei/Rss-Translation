@@ -4,20 +4,27 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Jun 2024 00:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 03:07:52 GMT</lastBuildDate>
     <item>
       <title>2024 年托尼奖获奖者：名单更新</title>
       <link>https://www.nytimes.com/2024/06/16/theater/tony-award-winners.html</link>
       <description><![CDATA[托尼奖颁奖典礼将于美国东部时间周日晚上 8 点在林肯中心的 David H. Koch 剧院现场直播。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/theater/tony-award-winners.html</guid>
-      <pubDate>Mon, 17 Jun 2024 00:28:47 GMT</pubDate>
+      <pubDate>Mon, 17 Jun 2024 03:00:03 GMT</pubDate>
     </item>
     <item>
       <title>南加州火灾后可能预示着危险的夏天</title>
       <link>https://www.nytimes.com/2024/06/16/us/los-angeles-wildfire-post-fire.html</link>
-      <description><![CDATA[洛杉矶西北部的波斯特大火烧毁了超过 12,000 英亩的土地，这表明多雨的冬季过后植被过度生长的危险性。]]></description>
+      <description><![CDATA[洛杉矶西北部的波斯特大火烧毁了超过 14,000 英亩的土地，凸显了多雨的冬季过后植被过度生长的危险性。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/us/los-angeles-wildfire-post-fire.html</guid>
-      <pubDate>Sun, 16 Jun 2024 23:45:01 GMT</pubDate>
+      <pubDate>Mon, 17 Jun 2024 02:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>事实核查：特朗普和拜登关于移民和边境安全的言论</title>
+      <link>https://www.nytimes.com/2024/06/16/us/politics/trump-biden-immigration-fact-check.html</link>
+      <description><![CDATA[我们对两位总统候选人关于移民和边境安全的主张进行了事实核查。]]></description>
+      <guid>https://www.nytimes.com/2024/06/16/us/politics/trump-biden-immigration-fact-check.html</guid>
+      <pubDate>Mon, 17 Jun 2024 00:39:47 GMT</pubDate>
     </item>
     <item>
       <title>第 77 届托尼奖红毯造型</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[百老汇最著名的明星隆重登场。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/style/tony-awards-photos.html</guid>
       <pubDate>Sun, 16 Jun 2024 23:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>事实核查：特朗普和拜登关于移民和边境安全的言论</title>
-      <link>https://www.nytimes.com/2024/06/16/us/politics/trump-biden-immigration-fact-check.html</link>
-      <description><![CDATA[我们对两位总统候选人关于移民和边境安全的主张进行了事实核查。]]></description>
-      <guid>https://www.nytimes.com/2024/06/16/us/politics/trump-biden-immigration-fact-check.html</guid>
-      <pubDate>Sun, 16 Jun 2024 22:42:02 GMT</pubDate>
     </item>
     <item>
       <title>比利时校园抗议加沙战争的气氛不同</title>
@@ -52,7 +52,7 @@
       <link>https://www.nytimes.com/2024/06/16/us/politics/trump-2025-democratic-resistance.html</link>
       <description><![CDATA[一个新兴联盟将唐纳德·J·特朗普的议程视为对民主的威胁，他们正在为特朗普 11 月获胜后反击做准备，并采取了非同寻常的先发制人行动。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/us/politics/trump-2025-democratic-resistance.html</guid>
-      <pubDate>Sun, 16 Jun 2024 21:01:48 GMT</pubDate>
+      <pubDate>Sun, 16 Jun 2024 21:01:49 GMT</pubDate>
     </item>
     <item>
       <title>党派分歧是否太大而无法弥合？</title>
@@ -66,7 +66,7 @@
       <link>https://www.nytimes.com/2024/06/16/world/middleeast/heat-deaths-hajj-pilgrimage.html</link>
       <description><![CDATA[约旦官方通讯社报道称，数十万朝圣者涌入沙特阿拉伯麦加，参加穆斯林圣地之旅，但一些朝圣者因暴露在烈日和高温下而死亡。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/world/middleeast/heat-deaths-hajj-pilgrimage.html</guid>
-      <pubDate>Sun, 16 Jun 2024 18:08:08 GMT</pubDate>
+      <pubDate>Sun, 16 Jun 2024 18:08:09 GMT</pubDate>
     </item>
     <item>
       <title>宰牲节期间，加沙人无事可庆祝</title>
@@ -76,18 +76,11 @@
       <pubDate>Sun, 16 Jun 2024 16:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>怀孕、吸毒和抗击毒品</title>
-      <link>https://www.nytimes.com/2024/06/16/health/pregnancy-drug-addiction.html</link>
-      <description><![CDATA[许多受毒品困扰的孕妇推迟了产前护理，因为感到羞耻和被人指责。但随着致命的过量用药案例增多，一些诊所认为怀孕是帮助她们戒除毒瘾的理想时机。]]></description>
-      <guid>https://www.nytimes.com/2024/06/16/health/pregnancy-drug-addiction.html</guid>
-      <pubDate>Sun, 16 Jun 2024 13:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>约翰·罗伯茨如何失去他的法庭</title>
-      <link>https://www.nytimes.com/2024/06/16/opinion/alito-ethics-clarence-thomas.html</link>
-      <description><![CDATA[对最高法院廉洁和公正形象的新挑战似乎不断出现。]]></description>
-      <guid>https://www.nytimes.com/2024/06/16/opinion/alito-ethics-clarence-thomas.html</guid>
-      <pubDate>Sun, 16 Jun 2024 10:00:11 GMT</pubDate>
+      <title>凯特琳·克拉克和其他运动员未能获得参赛资格，奥运梦想将在 6 月破灭</title>
+      <link>https://www.nytimes.com/2024/06/16/style/paris-olympics-qualifying-caitlin-clark.html</link>
+      <description><![CDATA[七月巴黎奥运会开幕时，戏剧性的一幕肯定不少，但大多数人的心都会在本月残酷的资格赛中碎裂。]]></description>
+      <guid>https://www.nytimes.com/2024/06/16/style/paris-olympics-qualifying-caitlin-clark.html</guid>
+      <pubDate>Sun, 16 Jun 2024 11:58:28 GMT</pubDate>
     </item>
     <item>
       <title>了解即将到来的热浪的 5 个数字</title>
@@ -106,9 +99,16 @@
     <item>
       <title>对于学校的垒球冠军来说，没有场地不是问题</title>
       <link>https://www.nytimes.com/2024/06/16/nyregion/baccalaureate-school-softball-champions-nyc.html</link>
-      <description><![CDATA[这所精英高中坐落在皇后区一所前钱包工厂内，以其大学水平的课程而闻名。现在，它还拥有一支不败的垒球队。]]></description>
+      <description><![CDATA[这所精英高中坐落在皇后区一家前钱包工厂内，以其大学水平的课程而闻名。现在，它还拥有一支不败的垒球队。]]></description>
       <guid>https://www.nytimes.com/2024/06/16/nyregion/baccalaureate-school-softball-champions-nyc.html</guid>
       <pubDate>Sun, 16 Jun 2024 07:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州部落成员正在收回“流水之地”</title>
+      <link>https://www.nytimes.com/2024/06/16/us/california-native-american-tribes.html</link>
+      <description><![CDATA[内华达山脉东部欧文斯谷的几个部落从小额财产转让中看到了希望，这已成为日益壮大的“土地归还”运动的一部分。]]></description>
+      <guid>https://www.nytimes.com/2024/06/16/us/california-native-american-tribes.html</guid>
+      <pubDate>Sun, 16 Jun 2024 07:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
