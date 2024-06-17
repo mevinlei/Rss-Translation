@@ -4,7 +4,63 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 17 Jun 2024 12:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 15:10:08 GMT</lastBuildDate>
+    <item>
+      <title>机器人框架的文本到代码模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1di0bow/text_to_code_model_for_robot_framework/</link>
+      <description><![CDATA[不确定这是否是正确的子主题。 我正在尝试在机器人框架语言上训练模型；我有一个最小的数据集，大约 500 个脚本/片段。该模型无法正确生成代码。 你认为我应该如何处理这个问题？我应该扩充我拥有的数据吗？它是基于关键字的，而不是通用的，所以它非常特定于我为其设计的公司，因此数据范围有限。 欢迎任何建议！谢谢    提交人    /u/quantumwoooo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1di0bow/text_to_code_model_for_robot_framework/</guid>
+      <pubDate>Mon, 17 Jun 2024 15:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是如何使用 Graph RAG 获得比 std RAG 更好的准确率</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1di090z/heres_how_to_use_graph_rag_to_get_better_accuracy/</link>
+      <description><![CDATA[人员、机构等实体的信息通常高度互联，您的数据也可能如此。 如果是这样，您可以：  使用 TF-IDF 等创建连接具有共同 n-gram 的文档的图表。 在推理期间，搜索此图表以获取包含共同 n-gram 的邻居，并在 LLM 的上下文中使用它们。 Graph RAG 的搜索结果更有可能为您提供所搜索实体及其相关信息的全面视图。  例如，如果文档 A 被选为高度相关，则必须将包含与文档 A 紧密相关的数据的文档包含在上下文中才能提供完整的图像。 我花了一个周末创建了一个 Python 库，它可以自动为您的 vectordb 中的文档创建此图表。它还可以让您轻松检索与最佳匹配相关的相关文档。 这是该库的 repo：https://github.com/sarthakrastogi/graph-rag/tree/main    提交人    /u/sarthakai   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1di090z/heres_how_to_use_graph_rag_to_get_better_accuracy/</guid>
+      <pubDate>Mon, 17 Jun 2024 15:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为我的“修复标签”伴侣的工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhzu1h/a_tool_to_be_my_fix_tab_companion/</link>
+      <description><![CDATA[好吧，我使用谷歌浏览器，并且有一些修复选项卡，例如电子邮件、概念和其他对我来说完全必要的东西。什么是一个很棒的修复 AI 选项卡？ 我经常问谷歌，只是很多，我是一个研究人员。“AI”选项卡曾经是聊天 GPT，但现在只是一个完整的垃圾，所以我使用 Gemini，它不算坏但也不算好。 Copilot，困惑，我见过很多，但没有时间检查，有什么真正的建议吗？我通常会搜索复杂的东西并寻求建议以完成一些想法。我是一名平面设计师、营销人员和幻想/游戏作家，所以会有大量的“将这种颜色与这种感觉联系起来”或“这个反派必须有乐观的个性” （写得不好）。    由    /u/oalxmxt 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhzu1h/a_tool_to_be_my_fix_tab_companion/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成标签</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhzfn3/generate_label/</link>
+      <description><![CDATA[嘿！我做了一些蜂蜜酒，我想使用一些免费的 AI 工具为我的蜂蜜酒瓶设计一个标签，你们用过哪一个标签最好？提前谢谢大家！    提交人    /u/bobpasaelrato   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhzfn3/generate_label/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:28:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能艺术为人类艺术带来新的欣赏？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhz37h/ai_art_creating_newfound_appreciation_for_human/</link>
+      <description><![CDATA[虽然我没有数据支持，但我感觉到，随着对 AI 艺术的炒作有所减弱，大多数人现在能够清楚地识别出 AI 生成的内容，尤其是涉及角色时。AI 艺术有一种风格，从风格化的图像到照片写实。 对我来说，这种 AI 外观变得陈旧，使艺术变得不那么有趣。而人造艺术似乎更有意图，即使是才华横溢的艺术家似乎也能创作出比 AI 更有趣的艺术。 我注意到的一些例子是 YouTube 音乐播放列表视频添加了免责声明，说明所使用的艺术不是 AI 生成的，并在描述中注明了所有艺术家的功劳。我发现黑暗幻想人造艺术比 AI 制作的黑暗幻想艺术更有趣。 还有新的《太阳帝国的原罪》游戏，它训练了 AI 进行内部艺术训练，但仍然生成看起来像是由 AI 制作的艺术。人们注意到了这一点，开发人员甚至在他们的 Steam 页面上添加了有关如何使用 AI 艺术的免责声明。基本上，我认为 AI 艺术作为成品还不够好，它可以在非常早期的概念阶段使用，但你不想使用大量它作为参考，否则你最终会创建看起来像 AI 生成的艺术。 您认为这对 AI 艺术的未来意味着什么？与一年前相比，我更加怀疑 AI 艺术会完全取代艺术家的工作。    提交人    /u/mathtech   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhz37h/ai_art_creating_newfound_appreciation_for_human/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:12:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Dalle 3 和 GPT4o 进行深度图像创建✨</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhyzvz/deep_image_creation_with_dalle_3_gpt4o/</link>
+      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhyzvz/deep_image_creation_with_dalle_3_gpt4o/</guid>
+      <pubDate>Mon, 17 Jun 2024 14:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>医疗保健领域的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhydol/ai_in_healthcare/</link>
+      <description><![CDATA[我是护士，我在医疗 ICU 工作，我对学习和开发用于 ICU 的 AI 很感兴趣，但不知道从哪里开始。  有人知道适合初学者学习或与导师联系的资源吗？  TIA     提交人    /u/TakotsuboRN   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhydol/ai_in_healthcare/</guid>
+      <pubDate>Mon, 17 Jun 2024 13:42:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>大脑分形相变</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhy56k/brainfractalphasetransition/</link>
+      <description><![CDATA[这可能会引起这里人们的一些兴趣。  https://phys.org/news/2024-06-reveals .html     提交人    /u/Oldhamii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhy56k/brainfractalphasetransition/</guid>
+      <pubDate>Mon, 17 Jun 2024 13:31:27 GMT</pubDate>
+    </item>
     <item>
       <title>用于平面图设计的AI工具</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhwe0u/ai_tool_for_floor_plan_design/</link>
@@ -18,62 +74,6 @@
       <description><![CDATA[在发生一系列病毒事故和客户投诉后，麦当劳决定在 100 多个免下车取餐通道停止使用人工智能语音订购技术。这家快餐巨头曾与 IBM 合作测试这项技术，但准确性问题导致决定终止试验。该公司计划在年底前探索替代语音订购系统，如 Whisper/ChatGPT 和 Gemini。 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhw796/mcdonalds_stops_ibm_aipowered_drivethru_voice/</guid>
       <pubDate>Mon, 17 Jun 2024 11:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能将训练材料“添加”（附加）到现有的 AI 模型中吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvzif/can_you_add_append_training_material_to_an/</link>
-      <description><![CDATA[假设我的电脑上下载了一个现有的 AI 模型。 我是否可以拿几本书，然后将这些材料“附加”到现有模型中？ 或者甚至是我自己写的作品？ 我对 AI 还很陌生，所以我对它了解不多。谢谢大家的帮助！    提交人    /u/sporeboyofbigness   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvzif/can_you_add_append_training_material_to_an/</guid>
-      <pubDate>Mon, 17 Jun 2024 11:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 AI 简历生成器应用程序（除了 KickResume！？）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvktx/best_ai_resume_generator_apps_other_than/</link>
-      <description><![CDATA[嗨， 我找不到人帮我把简历修改到他们的标准。 我需要一份体育行业的简历，也需要一份销售角度的简历！我目前正试图争取大型体育赛事的参赛资格！ 但是，我已经经历了四轮简历修改、求职信模板和 LinkedIn 优化，每次我都知道，如果我能更好地格式化它，我可以做得更好： 除了每次我使用 KickResume、Resume Genius 或 resume.co 时，它都会出现，因为它们向左或向右倾斜，所以会出现三页。 或者有没有人愿意以生活指导来帮助我制作两个版本的简历和 LinkedIn 优化？ 真诚地， Em    提交人    /u/Interesting-Jello-88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvktx/best_ai_resume_generator_apps_other_than/</guid>
-      <pubDate>Mon, 17 Jun 2024 11:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 ia tchat 比如 Replika 等等。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvcgu/best_ia_tchat_like_replika_etc/</link>
-      <description><![CDATA[有人知道像 Replika 或 kindroid 这样的用于浪漫内容和照片生成器的 tchat 机器人吗？谢谢帮助     提交人    /u/_Wianzha_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhvcgu/best_ia_tchat_like_replika_etc/</guid>
-      <pubDate>Mon, 17 Jun 2024 11:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年欧洲杯技术突破足球界限，这些创新会重新定义比赛吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhv3og/euro_2024_tech_pushes_football_boundaries_will/</link>
-      <description><![CDATA[人工智能 (AI) 再次改变了我们做事的方式，这一次影响了世界上最受欢迎的运动之一——足球。事实上，对于在德国举行的 2024 年欧洲杯，这项运动拥有一系列令人印象深刻的令人惊叹的技术，从人工智能驱动的肢体追踪到带有嵌入式芯片的高科技足球。  阅读全文：https://www.ibtimes.co.uk/euro-2024-tech-pushes-football-boundaries-will-these-innovations-redefine-game-1725016   由    /u/vinaylovestotravel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhv3og/euro_2024_tech_pushes_football_boundaries_will/</guid>
-      <pubDate>Mon, 17 Jun 2024 10:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI制作类似GIF的简短视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhu6gr/ai_to_make_a_short_gif_like_video/</link>
-      <description><![CDATA[大家好， 我希望这是寻求合适 AI 帮助的正确地方。 我们公司想要一个简短的视频，将旧 Logo “演变”为新 Logo。 基本上展示公司名称和旧 Logo 消失并将其演变为新的组合徽标。 你有什么建议吗？    提交人    /u/marv129   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhu6gr/ai_to_make_a_short_gif_like_video/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果加入打造重要 AI 标志的竞争</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhsuzs/apple_joins_the_race_to_establish_a_significant/</link>
-      <description><![CDATA[苹果添加了一个新的“智能”图标，试图改变人工智能的呈现方式，在这个世界中，设计问题仍然存在，不同的技术平台对它的含义有不同的看法。 https://theaiwired.com/apple-joins-the-race-to-establish-a-significant-ai-icons/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhsuzs/apple_joins_the_race_to_establish_a_significant/</guid>
-      <pubDate>Mon, 17 Jun 2024 08:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模流程工程和代码完整性 - Codium AI 首席执行官 Itamar Friedman 访谈</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhrf0o/flow_engineering_and_code_integrity_at_scale/</link>
-      <description><![CDATA[在本集中，致力于创建代码完整性范式的 Codium AI 首席执行官 Itamar Friedman 讨论了利用 LLM 实现代码完整性、任务分解、工作流工程等：Codium AI 首席执行官 Itamar Friedman 大规模流程工程和代码完整性 - 2024 年 3 月 12 日 时间戳：  人工智能在软件开发中的演变：超越代码生成 向代码完整性的转变及其影响 揭开 Alpha Codium 的面纱：人工智能辅助代码完整性的飞跃 人工智能对软件开发流程的更广泛影响 人工智能在编码中的未来：增强、测试等 人工智能在提高代码质量和开发人员方面的作用效率 探索大型代码库的挑战 LLM 上下文增长对代码理解的影响 数据保留和上下文计算的创新方法 深入研究 repo 分析和未来方向 个人经历和对高效代码管理的追求 IDE 中的动态图策略和未来功能 从代码测试到高级流程工程：一种新范式 揭开 Alpha Codium 的面纱：编码挑战解决方案的飞跃 反思工作流程 对 AI 爱好者的最终想法和建议     提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhrf0o/flow_engineering_and_code_integrity_at_scale/</guid>
-      <pubDate>Mon, 17 Jun 2024 06:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CrewAI 的多代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dhq13w/multi_agents_using_crewai/</link>
-      <description><![CDATA[是否有人对构建拖放工作室感兴趣，用户可以在其中设计他们的多代理而无需编写任何代码。我实际上正在寻找联合创始人，当然愿意讨论:)  本质上，我想构建一个与产品相关的多代理，就像 wordpress 用于网站建设的方式一样。    提交人    /u/gkv856   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dhq13w/multi_agents_using_crewai/</guid>
-      <pubDate>Mon, 17 Jun 2024 04:49:19 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 6 月 16 日</title>
