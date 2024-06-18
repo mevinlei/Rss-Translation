@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 18:13:38 GMT</lastBuildDate>
     <item>
       <title>高效的产品设计师</title>
       <link>https://www.producthunt.com/posts/the-effective-product-designer</link>
@@ -20,60 +20,18 @@
       <pubDate>Tue, 18 Jun 2024 07:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>可放置</title>
-      <link>https://www.producthunt.com/posts/droppable</link>
+      <title>骑</title>
+      <link>https://www.producthunt.com/posts/ritt</link>
       <description><![CDATA[
-从 Mac 桌面发送大文件
+以标签为中心的文件管理器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/droppable</guid>
-      <pubDate>Tue, 18 Jun 2024 03:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 的视频转音效</title>
-      <link>https://www.producthunt.com/posts/video-to-sound-effects-by-elevenlabs</link>
-      <description><![CDATA[
-使用 AI 自动为任何视频生成音效
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/video-to-sound-effects-by-elevenlabs</guid>
-      <pubDate>Mon, 17 Jun 2024 21:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>跑道：第三代阿尔法</title>
-      <link>https://www.producthunt.com/posts/runway-gen-3-alpha</link>
-      <description><![CDATA[
-Runway 的新视频生成基础模型
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/runway-gen-3-alpha</guid>
-      <pubDate>Mon, 17 Jun 2024 19:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>首脑</title>
-      <link>https://www.producthunt.com/posts/summit-55aafaa7-b260-4e63-9195-e85194da4b68</link>
-      <description><![CDATA[
-人工智能生活教练助您实现最大目标
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/summit-55aafaa7-b260-4e63-9195-e85194da4b68</guid>
-      <pubDate>Mon, 17 Jun 2024 16:56:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ritt</guid>
+      <pubDate>Mon, 17 Jun 2024 18:21:23 GMT</pubDate>
     </item>
     <item>
       <title>Warp AI 中的代理模式</title>
@@ -104,6 +62,34 @@ Runway 的新视频生成基础模型
       <pubDate>Mon, 17 Jun 2024 10:51:02 GMT</pubDate>
     </item>
     <item>
+      <title>冥想伙伴</title>
+      <link>https://www.producthunt.com/posts/meditation-buddies</link>
+      <description><![CDATA[
+即时虚拟冥想伙伴
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/meditation-buddies</guid>
+      <pubDate>Mon, 17 Jun 2024 09:57:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发文档</title>
+      <link>https://www.producthunt.com/posts/devfolio-12724cf4-855b-449d-a174-85674e143cf4</link>
+      <description><![CDATA[
+几分钟内即可建立您的投资组合
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/devfolio-12724cf4-855b-449d-a174-85674e143cf4</guid>
+      <pubDate>Mon, 17 Jun 2024 08:26:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Cal.com 平台入门套件</title>
       <link>https://www.producthunt.com/posts/cal-com-platform-starter-kit</link>
       <description><![CDATA[
@@ -132,18 +118,18 @@ Runway 的新视频生成基础模型
       <pubDate>Sun, 16 Jun 2024 20:32:49 GMT</pubDate>
     </item>
     <item>
-      <title>根斯帕克</title>
-      <link>https://www.producthunt.com/posts/genspark</link>
+      <title>Nix总线</title>
+      <link>https://www.producthunt.com/posts/nixbus</link>
       <description><![CDATA[
-重塑搜索，全新 AI 代理引擎
+使用 NixBus 简化事件驱动开发
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/genspark</guid>
-      <pubDate>Sat, 15 Jun 2024 14:29:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/nixbus</guid>
+      <pubDate>Sat, 15 Jun 2024 18:24:16 GMT</pubDate>
     </item>
     <item>
       <title>豌豆</title>
@@ -202,18 +188,32 @@ Runway 的新视频生成基础模型
       <pubDate>Tue, 11 Jun 2024 09:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Thinkific 的飞跃</title>
-      <link>https://www.producthunt.com/posts/the-leap-by-thinkific</link>
+      <title>衷心</title>
+      <link>https://www.producthunt.com/posts/accorata</link>
       <description><![CDATA[
-专为在社交媒体上销售而打造的一体化创作者商店
+面向早期投资者的 AI 交易采购平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/the-leap-by-thinkific</guid>
-      <pubDate>Wed, 05 Jun 2024 01:57:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/accorata</guid>
+      <pubDate>Sat, 25 May 2024 10:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Callin.io</title>
+      <link>https://www.producthunt.com/posts/callin-io</link>
+      <description><![CDATA[
+第一个面向小型企业的 AI 电话助手
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/callin-io</guid>
+      <pubDate>Thu, 23 May 2024 18:35:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
