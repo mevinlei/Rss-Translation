@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Jun 2024 18:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:09:02 GMT</lastBuildDate>
     <item>
       <title>高效的产品设计师</title>
       <link>https://www.producthunt.com/posts/the-effective-product-designer</link>
@@ -20,20 +20,6 @@
       <pubDate>Tue, 18 Jun 2024 07:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>骑</title>
-      <link>https://www.producthunt.com/posts/ritt</link>
-      <description><![CDATA[
-以标签为中心的文件管理器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ritt</guid>
-      <pubDate>Mon, 17 Jun 2024 18:21:23 GMT</pubDate>
-    </item>
-    <item>
       <title>Warp AI 中的代理模式</title>
       <link>https://www.producthunt.com/posts/agent-mode-in-warp-ai</link>
       <description><![CDATA[
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/agent-mode-in-warp-ai</guid>
       <pubDate>Mon, 17 Jun 2024 15:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>回声</title>
+      <link>https://www.producthunt.com/posts/echo-c993ba1c-dfb4-412c-a567-655ec5c9b7df</link>
+      <description><![CDATA[
+轻松组织社交活动
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/echo-c993ba1c-dfb4-412c-a567-655ec5c9b7df</guid>
+      <pubDate>Mon, 17 Jun 2024 13:25:19 GMT</pubDate>
     </item>
     <item>
       <title>史上最烂的网站，WWE2</title>
@@ -90,20 +90,6 @@
       <pubDate>Mon, 17 Jun 2024 08:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>Cal.com 平台入门套件</title>
-      <link>https://www.producthunt.com/posts/cal-com-platform-starter-kit</link>
-      <description><![CDATA[
-由 Supabase 提供支持的调度市场套件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cal-com-platform-starter-kit</guid>
-      <pubDate>Sun, 16 Jun 2024 22:05:23 GMT</pubDate>
-    </item>
-    <item>
       <title>挑剔的聊天</title>
       <link>https://www.producthunt.com/posts/choosy-chat</link>
       <description><![CDATA[
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/choosy-chat</guid>
       <pubDate>Sun, 16 Jun 2024 20:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>表格类</title>
+      <link>https://www.producthunt.com/posts/ndbforms</link>
+      <description><![CDATA[
+与 Notion 集成的无代码表单构建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ndbforms</guid>
+      <pubDate>Sun, 16 Jun 2024 04:48:21 GMT</pubDate>
     </item>
     <item>
       <title>Nix总线</title>
@@ -188,6 +188,20 @@
       <pubDate>Tue, 11 Jun 2024 09:04:00 GMT</pubDate>
     </item>
     <item>
+      <title>Thinkific 的飞跃</title>
+      <link>https://www.producthunt.com/posts/the-leap-by-thinkific</link>
+      <description><![CDATA[
+专为在社交媒体上销售而打造的一体化创作者商店
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/the-leap-by-thinkific</guid>
+      <pubDate>Wed, 05 Jun 2024 01:57:39 GMT</pubDate>
+    </item>
+    <item>
       <title>衷心</title>
       <link>https://www.producthunt.com/posts/accorata</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/accorata</guid>
       <pubDate>Sat, 25 May 2024 10:54:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Callin.io</title>
-      <link>https://www.producthunt.com/posts/callin-io</link>
-      <description><![CDATA[
-第一个面向小型企业的 AI 电话助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/callin-io</guid>
-      <pubDate>Thu, 23 May 2024 18:35:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
