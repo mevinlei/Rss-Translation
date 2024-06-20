@@ -4,102 +4,103 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 12:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 15:08:58 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：apnews.com</title>
-      <link>https://t.me/hn_summary/95808</link>
-      <description><![CDATA[科罗拉多州最高法院考虑粉色和蓝色蛋糕的含义
-标题：科罗拉多州最高法院考虑粉色和蓝色蛋糕的含义
-网站：apnews.com
+      <title>[媒体] AdonisJS 是一个全面的 Node.js 框架，旨在简化 Web 开发 [...]</title>
+      <link>https://t.me/hn_summary/95829</link>
+      <description><![CDATA[AdonisJS
+AdonisJS 是一个全面的 Node.js 框架，旨在通过一套强大的工具简化 Web 开发。Lucid 提供了一个强大的 SQL ORM，其中包含查询生成器、Active Record 模型以及对迁移和模型工厂的支持。Auth 模块提供了多种身份验证选项，包括会话和 API 令牌。Bouncer 支持自定义授权工作流，而 FlyDrive 则管理跨各种存储服务的用户上传文件。Limiter 确保对 API 端点进行细粒度的速率限制。Edge 是一个现代模板引擎，Bento Cache 通过多层缓存优化应用程序速度。VineJS 提供类型安全验证，Ally 支持社交登录。I18n 促进多语言应用程序，Health 检查监控系统健康状况，Mailer 处理电子邮件发送。 Transmit 利用服务器发送事件进行实时更新，Lock 确保对共享资源的同步访问。Vite 捆绑前端资产，Inertia 协调前端和后端操作。]]></description>
+      <guid>https://t.me/hn_summary/95829</guid>
+      <pubDate>Thu, 20 Jun 2024 15:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在本文中，作者踏上了一段怀旧之旅，从头开始创建一款视频游戏[...]</title>
+      <link>https://t.me/hn_summary/95828</link>
+      <description><![CDATA[让我们从头开始编写一款电子游戏，就像 1987 年一样
+在本文中，作者踏上了一段怀旧之旅，使用 1987 年的技术从头开始创建一款电子游戏，特别关注经典游戏扫雷。受到 Hacker News 上一篇批评微软扫雷应用程序臃肿的文章的启发，作者旨在构建一个精简、高效的版本。生成的可执行文件只有 ~300 KiB，比微软的要小得多，并且占用的内存最少。该游戏使用 Odin 编程语言开发，可在各种 Unix 系统上运行，包括 Linux 和 FreeBSD。本文还深入探讨了 X11 和 Wayland 协议的复杂性，为对低级 GUI 编程感兴趣的爱好者提供了详细指南。令人惊讶的是，与现代应用程序相比，其大小和效率形成了鲜明对比，凸显了极简主义编码实践的潜力。（基于 9% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/95828</guid>
+      <pubDate>Thu, 20 Jun 2024 15:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 标题：欧洲面临不寻常的问题：超廉价能源</title>
+      <link>https://t.me/hn_summary/95827</link>
+      <description><![CDATA[欧洲面临一个不寻常的问题：超廉价能源
+标题：欧洲面临一个不寻常的问题：超廉价能源
 
-科罗拉多州最高法院审议了一起涉及基督教面包师杰克·菲利普斯的案件，他拒绝制作带有蓝色糖霜的粉色蛋糕来庆祝性别转变。这是科罗拉多州最新一起将 LGBTQ+ 公民权利与第一修正案权利对立起来的案件。菲利普斯曾在 2018 年因拒绝为同性恋婚礼烤蛋糕而获得部分胜利，他辩称蛋糕所传达的信息对他的言论自由权很重要。科罗拉多州上诉法院对菲利普斯做出了不利的裁决，称蛋糕不是受保护的言论。法官们探讨了各种假设情景，质疑根据科罗拉多州反歧视法可以拒绝哪些蛋糕的界限。双方都认为，美国最高法院最近对科罗拉多州平面艺术家有利的裁决支持了他们的论点。]]></description>
-      <guid>https://t.me/hn_summary/95808</guid>
-      <pubDate>Thu, 20 Jun 2024 12:14:05 GMT</pubDate>
+由于太阳能的迅速普及，西班牙的能源越来越便宜。上午 11 点到晚上 7 点是这个阳光明媚的国家阳光最充足的时间，批发市场上的价格往往徘徊在零附近。即使在阳光不是特别充足但风力充足的德国，去年 8,760 个可交易小时中也有 301 个批发价格为负值。随着太阳能电池板和风力发电场在欧洲各地激增，政策制定者面临着有效利用剩余电力的挑战。超低和负价格表明目前基础设施和监管效率低下。解决方案包括将能源重新分配到缺电地区、将需求转移到生产高峰期以及将能源储存为电能、燃料或热能。]]></description>
+      <guid>https://t.me/hn_summary/95827</guid>
+      <pubDate>Thu, 20 Jun 2024 15:02:44 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯正在利用其核能能力扩大其全球影响力。</title>
-      <link>https://t.me/hn_summary/95807</link>
-      <description><![CDATA[俄罗斯如何利用核能赢得全球影响力
-俄罗斯正在利用其核能能力扩大其全球影响力。通过出口核技术和在各个国家建造核电站，俄罗斯正在建立长期依赖关系，从而增强其地缘政治影响力。这一战略不仅增强了俄罗斯的经济联系，还扩大了其政治影响力。这种方法是有争议的，因为它引发了人们对能源安全和地缘政治稳定的担忧，特别是在俄罗斯影响力已经存在争议的地区。这一战略的独特之处在于俄罗斯能够提供全面的核解决方案，从建设到燃料供应和废物管理，使其成为寻求发展核能基础设施的国家的有吸引力的合作伙伴。]]></description>
-      <guid>https://t.me/hn_summary/95807</guid>
-      <pubDate>Thu, 20 Jun 2024 12:08:57 GMT</pubDate>
+      <title>[媒体] 今年 3 月，加蒂诺的联邦公务员开始注意到一种他们称之为“[...] 的设备。</title>
+      <link>https://t.me/hn_summary/95826</link>
+      <description><![CDATA[政府“间谍”机器人在联邦办公室徘徊，公务员感到不安
+3 月，加蒂诺的联邦公务员开始注意到一个被他们称为“小机器人”的设备在他们的办公楼里徘徊。这个由 GlobalDWS 制造的机器人配备了大约 20 个传感器和一个 360 度摄像头，可以收集有关空气质量、光线、噪音、湿度、温度和气体等环境因素的数据。GlobalDWS 联合创始人 Yahya Saad 声称，该机器人旨在提高工作场所的舒适度和生产力，同时降低能源成本。然而，政府服务联盟主席 Bruce Roy 批评该机器人具有侵扰性且不必要，暗示它是在监视员工。公共服务部长 Jean-Yves Duclos 反驳说，该机器人有助于优化办公空间利用率。研究员 Pierrot Péladeau 质疑数据的质量和匿名性，担心员工身份可能被识别，尽管他们做出了保证。争议的焦点在于隐私问题和机器人的真正用途。]]></description>
+      <guid>https://t.me/hn_summary/95826</guid>
+      <pubDate>Thu, 20 Jun 2024 14:59:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 德国决定阻止对俄罗斯天然气的制裁，此举具有重大的地缘意义[...]</title>
-      <link>https://t.me/hn_summary/95806</link>
-      <description><![CDATA[德国阻止对俄罗斯天然气的制裁
-德国决定阻止对俄罗斯天然气的制裁，此举具有重大的地缘政治影响。与此同时，北京向欧盟发出了严厉警告，威胁说如果布鲁塞尔对其电动汽车制造商征收惩罚性关税，中国将对欧洲航空、农民和烈酒制造商进行报复。这一发展凸显了国际贸易关系的复杂性和经常引起争议的性质。贸易战的可能性很大，对双方都有重大的经济影响。局势瞬息万变，欧洲和中国都在这片动荡的水域中航行，风险很高。]]></description>
-      <guid>https://t.me/hn_summary/95806</guid>
-      <pubDate>Thu, 20 Jun 2024 12:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 富士通前高管 Richard Christou 在一次会议中表达了他的沮丧 [...]</title>
-      <link>https://t.me/hn_summary/95805</link>
-      <description><![CDATA[富士通前高管对 Horizo​​n 声誉受损感到“愤愤不平”
-富士通前高管 Richard Christou 在一次公开调查中表达了他对 Horizo​​n IT 系统声誉受损的不满，他认为 Horizo​​n IT 系统是一个“好系统”。他认为，真正的问题在于邮局对刑事诉讼的处理不当，导致 700 多名邮局运营商被错误定罪。Christou 否认有任何举报人或篡改账户的行为，并将任何更改归咎于与邮局合作进行的必要更正。调查还揭露了最近的一次数据泄露事件，邮局意外公布了 555 名被错误定罪的运营商的个人信息。]]></description>
-      <guid>https://t.me/hn_summary/95805</guid>
-      <pubDate>Thu, 20 Jun 2024 12:04:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：www.theregister.com</title>
-      <link>https://t.me/hn_summary/95804</link>
-      <description><![CDATA[电动汽车在欧洲失去光彩，混合动力汽车抢占风头
-标题：电动汽车在欧洲失去光彩，混合动力汽车抢占风头
-网站：www.theregister.com
+      <title>[媒体] 网站：paulkedrosky.com</title>
+      <link>https://t.me/hn_summary/95825</link>
+      <description><![CDATA[移民“热穹顶”
+标题：移民“热穹顶”
+网站：paulkedrosky.com
 
-电动汽车 (BEV) 在欧洲的市场份额正在下降，而混合动力汽车越来越受欢迎。根据欧洲汽车制造商协会 (ACEA) 的数据，BEV 目前占欧盟汽车市场的 12.5%，低于去年的 13.8%，而混合动力汽车则从 25% 增长到近 30%。汽油和柴油汽车也出现下滑，目前市场份额已不足一半。德国新 BEV 注册量大幅下降 30.6%，而法国则小幅增长 5.4%。造成下滑的因素包括 BEV 成本较高和充电基础设施不足。一项调查指出，价格、缺乏私人充电选择以及公共充电点太少是主要挑战。欧盟每年需要新建 410,000 个充电点才能实现其 2030 年的目标。尽管英国有所增长，但成本仍然是潜在 BEV 买家的主要障碍。续航里程预期各不相同，非 BEV 驾驶员希望至少续航 500 公里，而大多数 BEV 驾驶员对 201-400 公里就感到满意。然而，BEV 驾驶员对目前的充电基础设施不满意，更喜欢在家充电。]]></description>
-      <guid>https://t.me/hn_summary/95804</guid>
-      <pubDate>Thu, 20 Jun 2024 12:03:45 GMT</pubDate>
+2024 年 6 月 20 日
+
+面对低于替代水平的出生率和社会老龄化，发达经济体正在尝试一系列实验，例如加拿大前所未有且不受欢迎的移民政策。
+
+我最近一直在加拿大旅行，这里的大部分地方与一年前相比几乎已经面目全非。多伦多和渥太华等大城市周边城市扩张迅猛，新开发项目出现的速度之快甚至连当地居民都跟不上。原因何在？这是一项史无前例的政策试验，现在终于放缓了。面对 GDP 持平、出生率下降和人口老龄化等问题，加拿大政府制定了经合组织乃至加拿大近代史上最激进的移民政策。结果如何？加拿大人口现已达到 4100 万，去年新增了 127.3 万新居民，包括永久移民和非永久移民。这相当于美国每年增加 1000 多万移民。根据最近的数据，仅安大略省每天就因城市扩张而失去至少 500 英亩农田，而城市足迹则呈爆炸式增长。当然，这正在将人们推离城市，而城市以前的农村地区的建设速度令人震惊，交通和景观也遭到了相应的破坏。虽然一些经济学家可能会称赞开放移民带来的“免费午餐”，但加拿大人自己对正在发生的事情越来越愤怒。加拿大是一个普遍宽容的社会，历史上对移民持开放态度，但现在加拿大人却看到房地产价格飞涨，城市扩张摧毁了城市环境的大部分吸引力，交通让每个人都变成了洛杉矶高速公路上的愤怒怪物。鉴于选民普遍的愤怒，现任自由党政府终于让步了。一家经纪公司所说的加拿大移民“热穹顶”可能最终会消退，但该系统存在巨大的金融潜伏期和势头。房地产价格可能不会进一步上涨，但可能会保持高位，将持续的资本转移到非生产性用途，并迫使前所未有的大量年轻加拿大人与父母同住，这些人往往已经 30 多岁了。移民问题似乎越来越有可能让极不受欢迎的特鲁多政府输掉下届选举，保守党最有可能取而代之。在此期间，加拿大的热浪将持续存在，其经济和社会影响将持续数十年。但加拿大并不是唯一一个受到这些政策影响的国家，各国政府都在尝试各种方法，从婴儿奖金到增加移民，再到更高水平的机器人和自动化。这只是老龄化和发展放缓的发达经济体未来面临的众多预兆之一。]]></description>
+      <guid>https://t.me/hn_summary/95825</guid>
+      <pubDate>Thu, 20 Jun 2024 14:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] ProPublica 上的文章《先进塑料回收的妄想》探讨了 [...]</title>
-      <link>https://t.me/hn_summary/95803</link>
-      <description><![CDATA[先进塑料回收的妄想
-ProPublica 上的文章《先进塑料回收的妄想》探讨了热解这一被吹捧的先进回收方法的无效性。作者讲述了他们了解这项技术真正影响的历程，从用再生塑料制成的水果杯开始。尽管业界声称如此，但作者透露，热解只能将 15-20% 的塑料废物回收成新塑料，其余的则变成燃料和化学品。该过程严重依赖化石燃料，产品中的再生成分通常会通过复杂的会计方法夸大。文章强调了在全球努力应对塑料危机的过程中，尽管热解取得的成果有限且存在环境缺陷，但业界仍在努力推动热解。 （根据 71% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/95803</guid>
-      <pubDate>Thu, 20 Jun 2024 12:01:37 GMT</pubDate>
+      <title>[媒体] 自来水公司和化学公司正在对美国环保署的新规定提出法律挑战，该规定 [...]</title>
+      <link>https://t.me/hn_summary/95824</link>
+      <description><![CDATA[EPA 限制饮用水中某些“永久化学物质”的规定受到挑战
+水务公司和化学公司正在对 EPA 限制饮用水中六种“永久化学物质”的新规定提出法律挑战。这些物质以其在环境和人体中的持久性而闻名，引起了健康问题。争议在于公共卫生保护与公用事业和化学品制造商的财务和运营负担之间的平衡。该规则旨在减轻潜在的健康风险，但反对者认为它会带来巨大的成本和后勤挑战。这场法律战凸显了环境法规和行业利益之间持续存在的紧张关系。]]></description>
+      <guid>https://t.me/hn_summary/95824</guid>
+      <pubDate>Thu, 20 Jun 2024 14:36:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欧盟即将通过一项有争议的法律，该法律授权企业 [...]</title>
-      <link>https://t.me/hn_summary/95802</link>
-      <description><![CDATA[欧盟聊天控制法提议扫描您的消息——即使是加密的消息
-欧盟即将通过一项有争议的法律，该法律要求对数字消息（包括加密消息）进行批量扫描，以检测儿童性虐待材料 (CSAM)。这项拟议的立法于 2022 年首次提出，要求服务实施“上传审核”系统，在加密之前扫描所有数字消息。如果用户不同意，他们就不能分享图片或 URL。Signal 总裁 Meredith Whittaker 和几个隐私组织认为，这破坏了加密并造成了漏洞。德国欧洲议会议员帕特里克·布雷耶批评该法案侵犯了私人通信权，并暗示支持者是在公众关注度较低的时候推动该法案的。尽管获得了一些支持，但一项民意调查显示，66% 的欧盟年轻公民反对这种监视政策。]]></description>
-      <guid>https://t.me/hn_summary/95802</guid>
-      <pubDate>Thu, 20 Jun 2024 12:00:32 GMT</pubDate>
+      <title>[媒体] “Wc2”项目旨在通过使用异步[...]来优化Unix字数统计程序“wc”。</title>
+      <link>https://t.me/hn_summary/95823</link>
+      <description><![CDATA[Wc2：研究优化 Unix 字数统计程序“wc”
+“Wc2”项目旨在通过使用异步状态机解析算法来优化 Unix 字数统计程序“wc”，而不是用不同的编程语言重新实现它。这种新算法速度明显更快，可扩展性更强，即使在 JavaScript 等较慢的语言中实现也是如此。该项目包括三个版本：简化的 C 版本 (wc2o.c)、支持 Unicode 的完整 C 版本 (wc2.c) 和 JavaScript 版本 (wc2.js)。状态机方法可确保无论输入类型如何都能保持一致的速度，并且优于传统实现。该项目还提供了用于生成测试文件和比较实现的工具。这种方法对于可扩展的网络程序特别有益，类似于现代 Web 服务器处理 HTTP 请求的方式。]]></description>
+      <guid>https://t.me/hn_summary/95823</guid>
+      <pubDate>Thu, 20 Jun 2024 14:28:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在参议员的压力下。</title>
-      <link>https://t.me/hn_summary/95801</link>
-      <description><![CDATA[制药商将就减肥药在美国价格高出 15 倍的原因作证
-在参议员伯尼·桑德斯的压力下，诺和诺德首席执行官 Lars Jørgensen 将于 9 月在参议院卫生、教育、劳工和养老金委员会 (HELP) 就该公司的糖尿病和减肥药 Ozempic 和 Wegovy 在美国价格高昂一事作证。桑德斯批评了这种巨大的价格差异，并指出美国人支付的费用是其他国家患者的 15 倍。尽管这些药物的制造成本不到 5 美元，但诺和诺德将高价归咎于复杂的美国医疗保健系统和中间商。分析人士预测，诺和诺德今年将从这些药物中获利 270 亿美元，这引发了人们对美国医疗体系财务负担的担忧。]]></description>
-      <guid>https://t.me/hn_summary/95801</guid>
-      <pubDate>Thu, 20 Jun 2024 11:47:22 GMT</pubDate>
+      <title>[媒体] 标题：展示 HN：合法语义搜索入门 – Next.js</title>
+      <link>https://t.me/hn_summary/95822</link>
+      <description><![CDATA[显示 HN：法律语义搜索入门 - Next.js
+标题：显示 HN：法律语义搜索入门 - Next.js
+
+该项目引入了使用 Pinecone Serverless、Voyage Embeddings、Langchain、Next.js 和 Tailwind 构建的法律语义搜索入门。最快的入门方式是使用 create-pinecone-app CLI 工具。您需要 Pinecone 和 Voyage AI 的 API 密钥才能继续。该项目涉及创建具有特定属性的 Pinecone 无服务器索引，并使用 Node 20 或更高版本设置环境。
+
+前端利用 Next.js 和 Tailwind 实现响应式搜索界面，而后端使用 Next.js API 路由进行文件分块和上下文提供。该应用程序在嵌入式文档中执行低延迟自然语言搜索，根据需要引导 Pinecone 矢量数据库。
+
+一个独特的功能是组件化的建议搜索界面，允许轻松自定义搜索建议。该项目还演示了如何使用 PDF 文件引导知识库，重点是法律文件。
+
+对于故障排除，用户可以提交问题、创建 PR 或在社区论坛中发帖。]]></description>
+      <guid>https://t.me/hn_summary/95822</guid>
+      <pubDate>Thu, 20 Jun 2024 14:21:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 文章“茶与肠道微生物群：来自试验和机制研究的结果 [...]</title>
-      <link>https://t.me/hn_summary/95800</link>
-      <description><![CDATA[茶与肠道微生物组：试验和机制研究结果（2019 年）
-
-文章“茶与肠道微生物组：试验和机制研究结果（2019 年）”探讨了饮茶与肠道健康之间的关系。研究表明，富含多酚的茶会影响肠道微生物群组成，可能带来健康益处。该综述分析了 133 项试验和 18 项机制研究，强调绿茶尤其可以改善肠道微生物群状况，增加双歧杆菌等有益细菌。红茶、普洱茶、茯砖茶和乌龙茶也显示出令人鼓舞的结果。然而，研究质量各不相同，需要进行更严格的研究才能了解机制和最佳消费水平。值得注意的是，文章讨论了茶在减肥和缓解胃肠道疾病方面的潜在作用，表明益生元活性是其中一个因素。
-
-争议：研究质量的差异和一些试验中的混杂因素（例如茶饮料中的其他成分）可能会影响结果的可靠性。
-
-令人惊讶/巧妙：该评论独特地强调了茶多酚和肠道微生物群之间的双向关系，两者相互影响，可能带来显着的健康益处。（基于 85% 的故事文本的总结。）]]></description>
-      <guid>https://t.me/hn_summary/95800</guid>
-      <pubDate>Thu, 20 Jun 2024 11:26:12 GMT</pubDate>
+      <title>[媒体] EventLook 是 Windows 事件查看器的一个快速且用户友好的替代品，设计用于 [...]</title>
+      <link>https://t.me/hn_summary/95821</link>
+      <description><![CDATA[显示 HN：EventLook – 献给所有热爱 Windows 事件日志的人
+EventLook 是 Windows 事件查看器的一种快速且用户友好的替代方案，旨在改善用户检查 Windows 事件日志时的体验。与默认事件查看器不同，EventLook 提供事件消息的预览，使用户更容易快速了解机器上发生的事情。主要功能包括异步事件获取、更快的排序、时间范围指定、过滤器、使用突出显示的新事件自动刷新以及对 .evtx 文件的支持。它还允许以 XML 格式查看事件详细信息并按时区调整事件时间。EventLook 使用 .NET 8 上的 WPF 构建，可在 Microsoft Store 上获取。]]></description>
+      <guid>https://t.me/hn_summary/95821</guid>
+      <pubDate>Thu, 20 Jun 2024 14:19:49 GMT</pubDate>
     </item>
     <item>
-      <title>网站：www.undeadly.org</title>
-      <link>https://t.me/hn_summary/95799</link>
-      <description><![CDATA[OpenBSD 在 1 天后增加了对 Qualcomm Snapdragon Elite X 的初始支持
-标题：OpenBSD 在 1 天后增加了对 Qualcomm Snapdragon Elite X 的初始支持
-网站：www.undeadly.org
-
-由 Peter N. M. Hansteen 于 2024-06-20 从 Dragons 部门的 Puffy snaps 提供。
-
-当一款新处理器发布时，您预计需要多长时间您最喜欢的操作系统才会为其添加支持？对于 OpenBSD/arm64，时间延迟有时以天为单位，甚至以小时为单位。在最近发给 tech@ 的一条消息中，Patrick Wildt 在正式发布仅一天后就首次发布了该补丁，以增加对 Qualcomm Snapdragon Elite X 处理器的支持。Patrick 的消息详细介绍了他如何在一天内让联想 Yoga Slim 7 启动并运行 NVMe、USB 和键盘。此初始支持侧重于 ACPI 模式，直到可以切换到设备树。GIC 位需要额外的工作，但第一天的进展令人印象深刻。随后进行了一系列提交，结果现在应该在 OpenBSD/arm64 快照中。如果您可以拿到硬件，请深入测试！]]></description>
-      <guid>https://t.me/hn_summary/95799</guid>
-      <pubDate>Thu, 20 Jun 2024 11:26:06 GMT</pubDate>
+      <title>[媒体] 伦敦查尔斯王子电影院取消了《最后的银幕》的全球首映[...]</title>
+      <link>https://t.me/hn_summary/95820</link>
+      <description><![CDATA[伦敦首映的 AI 剧本电影因遭到强烈反对而被取消
+伦敦查尔斯王子电影院取消了《最后的编剧》的全球首映，这是一部 AI 剧本电影，遭到强烈反对。这家以放映邪典和艺术电影而闻名的电影院表示，观众强烈担心 AI 会取代人类作家。这部瑞士作品由 Peter Luisi 执导，Nicholas Pople 主演，讲述了一位著名编剧与超越他技能的 AI 编剧系统的遭遇。剧本归功于 ChatGPT 4.0。尽管收到了 200 份投诉，但演员和剧组的私人放映仍将继续进行。Luisi 表示，该项目旨在为电影行业关于 AI 的持续辩论做出贡献。这场争议呼应了业界更广泛的担忧，去年好莱坞编剧罢工要求在剧本创作中保护自己免受人工智能的侵害，就凸显了这一担忧。]]></description>
+      <guid>https://t.me/hn_summary/95820</guid>
+      <pubDate>Thu, 20 Jun 2024 14:17:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
