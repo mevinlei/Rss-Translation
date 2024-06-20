@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 20 Jun 2024 18:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 21:09:05 GMT</lastBuildDate>
+    <item>
+      <title>Bifrost - 一款简洁的 mTLS 身份验证系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1dkj8e3/bifrost_a_nofrills_mtls_authentication_system/</link>
+      <description><![CDATA[  由    /u/auto_grammatizator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dkj8e3/bifrost_a_nofrills_mtls_authentication_system/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:47:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>StrangeYAML 博士或我如何学会停止担忧并爱上法学硕士</title>
+      <link>https://www.reddit.com/r/programming/comments/1dkj3pl/dr_strangeyaml_or_how_i_learned_to_stop_worrying/</link>
+      <description><![CDATA[  由    /u/oalders  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dkj3pl/dr_strangeyaml_or_how_i_learned_to_stop_worrying/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 TypeScript 5.5</title>
+      <link>https://www.reddit.com/r/programming/comments/1dkik3f/announcing_typescript_55/</link>
+      <description><![CDATA[  由    /u/DanielRosenwasser  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dkik3f/announcing_typescript_55/</guid>
+      <pubDate>Thu, 20 Jun 2024 18:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>实时前端炼金术或：捕获、播放、更改和编码视频和音频流，无需服务器或插件！</title>
       <link>https://www.reddit.com/r/programming/comments/1dkhce4/real_time_frontend_alchemy_or_capturing_playing/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/codeline24  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dkbp5f/java_21_virtual_threads_java_and_spring_trends/</guid>
       <pubDate>Thu, 20 Jun 2024 13:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车测试：基于人工智能的自动测试数据评估</title>
-      <link>https://www.reddit.com/r/programming/comments/1dkbkoo/automotive_testing_automatic_ai_based_test_data/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dkbkoo/automotive_testing_automatic_ai_based_test_data/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mergeable：GitHub 拉取请求的更好收件箱</title>
-      <link>https://www.reddit.com/r/programming/comments/1dkajev/mergeable_a_better_inbox_for_github_pull_requests/</link>
-      <description><![CDATA[  由    /u/pvcnt  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dkajev/mergeable_a_better_inbox_for_github_pull_requests/</guid>
-      <pubDate>Thu, 20 Jun 2024 12:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们从头开始编写一款视频游戏，就像 1987 年一样</title>
-      <link>https://www.reddit.com/r/programming/comments/1dkahjw/lets_write_a_video_game_from_scratch_like_its_1987/</link>
-      <description><![CDATA[  由    /u/broken_broken_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dkahjw/lets_write_a_video_game_from_scratch_like_its_1987/</guid>
-      <pubDate>Thu, 20 Jun 2024 12:32:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
