@@ -3,19 +3,82 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 15:14:29 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 21 Jun 2024 18:13:04 GMT</lastBuildDate>
+    <item>
+      <title>通知如何工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dla263/how_do_notifications_work/</link>
+      <description><![CDATA[网站上的实时通知（如好友请求 Toast）或任何其他通知（如任何喜欢的评论等）如何工作 从第一原则方法来看，方法是 Websockets 或 Sse，但这是最好的方法吗？我的意思是，每当用户访问网站时，每个用户都必须连接到 websocket，即使他只是滚动提要并通过一个连接发送所有不同类型的事件（如评论好友请求） 其他方法可以进行连续轮询 我还缺少其他任何高效的工业标准吗？    提交人    /u/InappropriateUseR_Id   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dla263/how_do_notifications_work/</guid>
+      <pubDate>Fri, 21 Jun 2024 17:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么部署这么难？我能做些什么来帮我完成所有工作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl9cov/why_is_deploying_so_hard_is_there_something_i_can/</link>
+      <description><![CDATA[我创建了一个网站，所有功能都正常，但是当我尝试部署时，一切都崩溃了…… 静态不起作用，我安装了一些东西让它工作，应用程序崩溃了，我部署时遇到问题的次数多得令人难以置信。 我该怎么办？我甚至不知道是什么导致了我所有的问题。 我应该重新开始还是继续前进？    提交人    /u/Panadero_31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl9cov/why_is_deploying_so_hard_is_there_something_i_can/</guid>
+      <pubDate>Fri, 21 Jun 2024 17:19:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用组件库是不是不好的做法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl95ko/is_it_bad_practice_to_use_components_libraries/</link>
+      <description><![CDATA[嗨！ 一些组件库非常有用且维护良好（PrimeVue，HeadlessUI 等）。 但是，我使用它们时感到内疚，使用它们似乎是一种不好的做法，以防它们被弃用或类似情况...... 我应该担心这个还是使用它们可以？    提交人    /u/AsteroidSnowsuit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl95ko/is_it_bad_practice_to_use_components_libraries/</guid>
+      <pubDate>Fri, 21 Jun 2024 17:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>你用什么软件来编码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl92bc/which_software_do_you_use_to_code/</link>
+      <description><![CDATA[如果有任何其他问题，请发表评论。 此外，如果您从 VS Code 转移到 WebStorm，请解释原因。 查看投票    提交人    /u/Cautious-Pineapple11   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl92bc/which_software_do_you_use_to_code/</guid>
+      <pubDate>Fri, 21 Jun 2024 17:07:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>预算紧张的情况下最好的 CMS 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl7zji/best_cms_for_a_tight_budget_situation/</link>
+      <description><![CDATA[由于预算限制，我正在寻找一个具有开箱即用的用户管理功能和易于编辑/创建表单的 CMS。  如果客户必须付费，他们宁愿一次性付款而不是订阅。 最好不要使用 Wordpress，它太糟糕了。 我现在倾向于使用 Modx，我可以将其放在共享托管服务器上，从而进一步降低成本。    提交人    /u/jebzaki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl7zji/best_cms_for_a_tight_budget_situation/</guid>
+      <pubDate>Fri, 21 Jun 2024 16:21:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果应用程序使用 Tailwind，如何更轻松地找到组件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl7o6x/how_to_find_a_component_easier_if_an_application/</link>
+      <description><![CDATA[这是我第一次为使用 tailwind 的应用程序调整值，天哪，这太难了。你们有什么技巧可以让这更容易吗？    提交人    /u/South_Dig_9172   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl7o6x/how_to_find_a_component_easier_if_an_application/</guid>
+      <pubDate>Fri, 21 Jun 2024 16:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>带参数的 URL 转发问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl7637/url_forwarding_with_parameters_question/</link>
+      <description><![CDATA[我正在做一个项目。我需要将用户重定向到商业交通网站（联合航空、美国航空、灰狗等）。我想知道有经验的 Web 开发人员如何解决这个问题。是否有任何可以处理此问题并可嵌入到网站中的应用程序？ 我必须自己完成所有代码和重定向吗？哪种选择最好？最可靠？ 有一个名为 Skyscanner.com 的网站已经完全满足了我的要求，但我没有查看网络流量并确切了解他们如何操作的技能。有人能帮帮我吗？ 此外，有经验的 Web 开发人员使用什么工具来监控和测试网络流量？我尝试使用 fiddler，但它不能完全满足我的需求。    提交人    /u/Open_Degree_791   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl7637/url_forwarding_with_parameters_question/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将数据从 Google 表格传输到 HMTL 电子邮件模板（或者如何创建自动从 Google 表格中提取数据的 HTML 电子邮件模板？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl6zel/how_to_get_data_from_google_sheets_to_an_hmtl/</link>
+      <description><![CDATA[如何从 Google 表格获取数据以填充 HTML 电子邮件模板...或者如何创建自动从 Google 表格中提取数据的 HTML 电子邮件模板？ 如果我对这个问题的表述不正确，请提前道歉！我正在边学边做。 我制作了一个电子邮件模板，其中显示本地每周文化活动时间。活动信息来自 Google 表格电子表格（表格每周更新，活动信息数据通过 API 调用生成） 目前 - 我*手动\*将活动信息从 Google 表格复制/粘贴到我的 Mailerlite 电子邮件模板中。 （顺便说一句，我并没有沉迷于 Mailerlite） 需要澄清的是，活动信息由以下内容组成：  活动海报（根据 URL 生成） 活动标题 活动地点 活动日期 活动时间（以按钮形式显示 HH:MM，可进入活动售票网站）  问题：我需要创建什么才能自动更新 HTML 模板（即，每个星期日晚上，模板都会从我的 Google Sheet 中提取活动信息，而不是手动更新 3 小时？我的下一步应该怎么做？ 注意：活动数量每周都不同；有些活动只发生一次，而有些活动会有几个日期/时间，因此模板需要以某种方式扩展和收缩，同时保留&quot;格式化规则&quot;/视觉样式。 非常感谢所有能帮助我找出正确术语的人，以便我创建我需要的内容，并了解接下来需要采取的步骤......手动更新非常耗时，而且人为错误的风险很高（我！哈哈）。谢谢！    提交人    /u/chchamb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl6zel/how_to_get_data_from_google_sheets_to_an_hmtl/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:39:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发公司愿意为 Drupal 更新收取 2,500 美元...合理价格吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl6tvz/web_dev_company_wants_to_charge_2500_for_drupal/</link>
+      <description><![CDATA[我完全是个菜鸟，我不知道价格是怎么样的，所以我可能听起来像个白痴，但我希望这是一个可以问的地方。 就背景而言，我最近被派去维护我工作的非营利组织的网站，并从我们的网络开发公司收到消息说 Drupal 更新可用，他们将向我们收取 2,500 美元的一次性费用。 我工作的非营利组织规模很小，所以花这种钱对我们来说是一件大事，我想尽我所能做好功课，但对于这个特定问题，我在网上其他地方找不到答案。 更多背景信息： · 位于美国中西部北部 · 更新涉及将我们的网站从 Drupal 9 迁移到 Drupal 10 · 该网络开发公司专门从事非营利性网站，他们每年为我们的网站收取约 4,000 美元的费用，该网站采用非常基本的主题构建。这包括托管、监控和全天候客户支持。 · 2,500 美元是完成此更新的基本费率，不包括内容传输。如果我们想让他们将我们的内容转移到新更新的网站上，则需要额外支付 1,050 美元。（我们有 105 页，每页 10 美元。） 此更新的价格与当前价格相同吗？如有必要，我很乐意提供更多背景信息。提前感谢任何反馈！    提交人    /u/Scoobert_Doobert3000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl6tvz/web_dev_company_wants_to_charge_2500_for_drupal/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:32:38 GMT</pubDate>
+    </item>
     <item>
       <title>个人博客推荐？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dl6cuf/personal_blog_recommendations/</link>
-      <description><![CDATA[一段时间以来，我一直想从头开始创建自己的博客，我想看看其他程序员的个人博客（不是 Wordpress 或其他网站构建器）以获得灵感。 希望网站不使用常用模板。谢谢！也请随意推荐您自己的网站或任何其他具有有趣 UI 的网站。    提交人    /u/prescient-potato   [link] [评论]]]></description>
+      <description><![CDATA[一段时间以来，我一直想从头开始创建自己的博客，我想看看其他程序员的个人博客（不是 Wordpress 或其他网站构建器）以获得灵感。 希望网站不使用常用模板。谢谢！也可以随意推荐您自己的网站或任何其他有趣的网站。    提交人    /u/prescient-potato   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dl6cuf/personal_blog_recommendations/</guid>
       <pubDate>Fri, 21 Jun 2024 15:12:08 GMT</pubDate>
     </item>
     <item>
       <title>3D 模型生成器页面，有什么技术栈？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dl5qrw/3d_model_generator_page_what_tech_stack/</link>
-      <description><![CDATA[      TLDR：我已经创建了一个可以根据用户输入生成模型的 Python 应用程序，并且我想将其转变为网站以使其更易于访问，我应该使用什么技术堆栈？ 我当前的简陋网站。 几个月前，我用 Python 创建了一个应用程序，使我工作中的销售团队能够通过输入一些参数来生成 CAD 模型，从而使他们无需 CAD 经验即可快速报价。我想将此应用程序做成一个网站，以便于共享。 我已经通过在后端使用 pythons FastAPI，然后从纯 JavaScript 调用它来完成基本工作。python 会创建一个 3D 文件，然后我可以使用 Three.js 将其显示在我的网站上。然而，这是一场艰苦的战斗，感觉这可能不是最好的方法。  有人有使用这种 Web 应用程序的经验吗？可以建议我如何做得更好吗？ 是否有一个 Web 应用程序约定，用于在服务器上创建文件，然后在用户完成后自动删除它们？ 我不应该使用 python 来做这个吗？  我只是一个业余程序员，我主要使用 python，但以前只用 HTML JS 和 CSS 制作过网站，这是我第一次使用 js 框架，所以可能有一些我遗漏或不理解的重要内容。  我很高兴离开 Python，我一直坚持使用它，因为我正在使用的 CAD 模块似乎比 JS 提供的任何东西都更适合模型创建。 在我花太多时间研究这个方法之前，我只是想弄清楚一些事情。    提交人    /u/TheOGMilk   [link] [评论] ]]></description>
+      <description><![CDATA[      TLDR：我创建了一个可以根据用户输入生成模型的 Python 应用程序，并且我想将其转变为网站以使其更易于访问，我应该使用什么技术堆栈？ 我当前的简陋网站。 几个月前，我用 Python 创建了一个应用程序，使我工作中的销售团队能够通过输入一些参数来生成 CAD 模型，从而使他们无需 CAD 经验即可快速报价。我想将此应用程序做成一个网站，以便于共享。 我已经通过在后端使用 pythons FastAPI，然后从纯 JavaScript 调用它来完成基本工作。python 会创建一个 3D 文件，然后我可以使用 Three.js 将其显示在我的网站上。然而，这是一场艰苦的战斗，感觉这可能不是最好的方法。  有人有使用这种 Web 应用程序的经验吗？可以建议我如何做得更好吗？ 是否有一个 Web 应用程序约定，用于在服务器上创建文件，然后在用户完成后自动删除它们？ 我不应该使用 python 来做这个吗？  我只是一个业余程序员，我主要使用 python，但以前只用 HTML JS 和 CSS 制作过网站，这是我第一次使用 js 框架，所以可能有一些我遗漏或不理解的重要内容。  我很高兴离开 Python，我一直坚持使用它，因为我正在使用的 CAD 模块似乎比 JS 提供的任何东西都更适合模型创建。 在我花太多时间研究这个方法之前，我只是想弄清楚一些事情。    提交人    /u/TheOGMilk   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dl5qrw/3d_model_generator_page_what_tech_stack/</guid>
       <pubDate>Fri, 21 Jun 2024 14:45:46 GMT</pubDate>
     </item>
@@ -34,23 +97,9 @@
       <pubDate>Fri, 21 Jun 2024 14:18:22 GMT</pubDate>
     </item>
     <item>
-      <title>对于自由职业者来说最好的提案和发票软件是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl4td4/whats_the_best_proposal_invoice_software_for/</link>
-      <description><![CDATA[我是自由网页设计新手，最近刚收到我的第一位客户。我很好奇您使用什么软件发送提案、合同和发票（或者您是否有单独的软件）？我是一名自由职业者，所以显然我不能使用任何需要 EIN（企业 ID）的东西。如果有一体化解决方案，那就太理想了。谢谢。    提交人    /u/Decent-Row-8690   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl4td4/whats_the_best_proposal_invoice_software_for/</guid>
-      <pubDate>Fri, 21 Jun 2024 14:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯公司注册了旧的过期域名，现在托管着原始网站的副本。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl3w5p/russian_company_registered_old_expired_domain_and/</link>
-      <description><![CDATA[几年前，我们的一位前客户让他们的域名失效，并开始使用新域名。此后不久，俄罗斯的某个人购买了该域名，现在托管着他们旧网站的副本（我猜是从 Wayback Machine 复制的）。 我知道我们对此无能为力，但我从未见过这种情况。没有电子商务部分，它基本上只是一本数字手册。为什么有人会购买域名只是为了托管一个相同的网站？看起来很奇怪。    提交人    /u/UnicornsDildoHorns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl3w5p/russian_company_registered_old_expired_domain_and/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:21:58 GMT</pubDate>
-    </item>
-    <item>
       <title>我为 chrome devtools 构建了一个 localStorage 检查器。</title>
       <link>https://www.reddit.com/r/webdev/comments/1dl3tai/i_built_a_localstorage_inspector_for_chrome/</link>
-      <description><![CDATA[      嘿，开发人员！ 我最近做了几个项目，大量使用了 localStorage。我厌倦了在开发过程中使用控制台查看和操作数据。所以我做了一个免费的扩展来让它更容易。 Chrome 扩展程序在这里： https://chromewebstore.google.com/detail/local-storage-inspector/pbfecmmdbppphcnmlmegkcdobpadegid?authuser=0&amp;hl=en-GB Github repo 在这里： https://github.com/warrenday/local-storage-inspector 它很简单，但可以让你： 1. 查看所有 localStorage 并自动解析/字符串化 json 2. 创建新的localStorage项目 3. 编辑和删除现有的localStorage项目 4. 清除localStorage。 https://preview.redd.it/7vko8xdjdx7d1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=9c82f64763712497125e3cbd9ca1db3ee6a0e765   由    /u/wjd1991  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      嘿，开发人员！ 我最近做了几个项目，大量使用了 localStorage。我厌倦了在开发过程中使用控制台查看和操作数据。所以我做了一个免费的扩展来让它更容易。 Chrome 扩展在这里： https://chromewebstore.google.com/detail/local-storage-inspector/pbfecmmdbppphcnmlmegkcdobpadegid?authuser=0&amp;hl=en-GB Github repo 在这里： https://github.com/warrenday/local-storage-inspector 它很简单，但可以让你： 1. 查看所有 localStorage 并自动解析/字符串化 json 2. 创建新的localStorage项目 3. 编辑和删除现有的localStorage项目 4. 清除localStorage。 https://preview.redd.it/7vko8xdjdx7d1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=9c82f64763712497125e3cbd9ca1db3ee6a0e765   由    /u/wjd1991  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dl3tai/i_built_a_localstorage_inspector_for_chrome/</guid>
       <pubDate>Fri, 21 Jun 2024 13:18:12 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[https://www.finely-crafted.com/area/ 我在供应商许可证中看不到特定的 3D 库 https://www.finely-crafted.com/version/1618820191854/js/vendors.js.LICENSE.txt 我看到他们使用 gsap 进行动画和交互，但是模型是如何加载、渲染和导航的呢？    提交人    /u/boner_freelove   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dl3pl1/how_has_this_interactive_3d_environment_been_made/</guid>
       <pubDate>Fri, 21 Jun 2024 13:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为网站进行复制工作的机器人或脚本。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl3my7/bot_or_script_to_do_copy_work_for_websites/</link>
-      <description><![CDATA[我想做一些事情来帮助我的工作。我正在管理一个网站，我正在将电影的图片、标题和其他详细信息从另一个网站复制到我的网站上发布。我曾经为这些电影写过文章，但类型、质量、电影长度、图片等详细信息都是从另一个网站复制的。有没有办法让机器人或脚本完成这种复制工作？所以我唯一的工作就是发布文章，而其他所有东西都由机器人添加。    提交人    /u/Wallinggod69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl3my7/bot_or_script_to_do_copy_work_for_websites/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Zoom 工作时您最讨厌什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl3i8r/what_do_you_hate_the_most_while_working_on_zoom/</link>
-      <description><![CDATA[我正在为产品工程人员构建一个视频会议产品，想知道您讨厌什么、喜欢什么以及希望在 Zoom 或任何其他视频会议工具中看到什么。我觉得当前的视频会议工具很无聊，很多事情都可以自动化，但我很想从社区了解你们的想法。    提交人    /u/prasad_lingawar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl3i8r/what_do_you_hate_the_most_while_working_on_zoom/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络库存应用程序的框架或其他工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl3hll/framework_or_other_tools_for_web_inventory_app/</link>
-      <description><![CDATA[我想制作一个基本的（比如比 hello world 简单 1-2 步）Web 应用程序，用于保存家中物品的清单。例如几百张 CD 和 DVD。 它可能对我的家务有帮助，但重点是学习更现代的 Web 编程方法。 我应该看看 rails、django、react 还是什么？ 另一个想法是是否有一个半基本的开源应用程序可以开始。但主要的决定是哪个框架/工具/服务相对容易学习和有用    提交人    /u/huskerd0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl3hll/framework_or_other_tools_for_web_inventory_app/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人熟悉为 Nextjs 应用程序编写 CSP 安全标头吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl3fuz/anyone_have_familiarity_writing_a_csp_security/</link>
-      <description><![CDATA[我已阅读文档 - https://nextjs.org/docs/pages/building-your-application/configuring/content-security-policy 但我不确定是否需要使用 Nonces 创建一个？ 如果我使用 nonces 创建一个，我是否需要识别页面上的每个脚本并为其编写一个 nonce？ 有点困惑。提前致谢！    提交人    /u/unyoushual   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl3fuz/anyone_have_familiarity_writing_a_csp_security/</guid>
-      <pubDate>Fri, 21 Jun 2024 13:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳音频元素样式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl1qm4/best_audio_element_styles/</link>
-      <description><![CDATA[寻找一些很酷/现代的音频元素库或样式。  默认音频元素有点不好看，我似乎找不到任何库。 你们见过的最好的是什么？    提交人    /u/Space_Ganondorf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl1qm4/best_audio_element_styles/</guid>
-      <pubDate>Fri, 21 Jun 2024 11:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的网站会被使用超老版本的浏览器抓取？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl1q6f/why_is_my_website_crawled_using_super_old_browsers/</link>
-      <description><![CDATA[我的个人网站托管在 gitlab 上。我使用 piwik.pro 来了解谁在访问该网站。 我经常看到来自同一组织/提供商的多次访问，持续时间不同，IP 地址不同，位置相同或不同，使用旧浏览器，如 Chrome 79 + 126。 为什么总是这些旧浏览器？为什么多次访问？ 我有一个 robots.txt，但显然不受欢迎。 谢谢。    提交人    /u/crypto_dood   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl1q6f/why_is_my_website_crawled_using_super_old_browsers/</guid>
-      <pubDate>Fri, 21 Jun 2024 11:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以找到最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dl0zdd/where_can_i_find_best_practices/</link>
-      <description><![CDATA[大家好。我是新来的开发人员，已经编码大约 2 年了。我正在寻找一些帮助，以找到一个好的答案，如何以及在哪里找到从数据库实现、表单、数据验证等各个方面的最佳实践。到目前为止，我一直在使用 Google 搜索 GitHub 上的开放示例项目，以查找与我正在从事的项目类似的项目，但到目前为止，这些项目都没有成功，而且通常很难判断实施的解决方案是否确实是最好的。任何内部技巧都非常感谢。谢谢！！    提交人    /u/udeparasite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dl0zdd/where_can_i_find_best_practices/</guid>
-      <pubDate>Fri, 21 Jun 2024 10:42:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
