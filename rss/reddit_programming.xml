@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 20 Jun 2024 21:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:38:21 GMT</lastBuildDate>
+    <item>
+      <title>我们如何构建支持无服务器云的技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1dkncal/how_we_built_the_tech_that_powers_our_serverless/</link>
+      <description><![CDATA[  由    /u/itb206  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dkncal/how_we_built_the_tech_that_powers_our_serverless/</guid>
+      <pubDate>Thu, 20 Jun 2024 21:41:53 GMT</pubDate>
+    </item>
     <item>
       <title>Bifrost - 一款简洁的 mTLS 身份验证系统</title>
       <link>https://www.reddit.com/r/programming/comments/1dkj8e3/bifrost_a_nofrills_mtls_authentication_system/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/PauseDistinct2044  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dkbs1m/monetize_your_chrome_extension_with_openid/</guid>
       <pubDate>Thu, 20 Jun 2024 13:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 21 虚拟线程 - Java 和 Spring 趋势</title>
-      <link>https://www.reddit.com/r/programming/comments/1dkbp5f/java_21_virtual_threads_java_and_spring_trends/</link>
-      <description><![CDATA[  由    /u/codeline24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dkbp5f/java_21_virtual_threads_java_and_spring_trends/</guid>
-      <pubDate>Thu, 20 Jun 2024 13:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
