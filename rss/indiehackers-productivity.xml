@@ -4,12 +4,27 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 21 Jun 2024 09:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 12:15:54 GMT</lastBuildDate>
+    <item>
+      <title>免费内容分发渠道</title>
+      <link>https://feed.indiehackers.world/post/5108c23bbe</link>
+      <description><![CDATA[
+用户获取
+社交媒体营销。
+
+GrowthHackers 上的文章平均长度在 1500 到 2500 字之间，较长且更深入的文章更受欢迎。GrowthHackers 拥有一个由增长黑客、营销人员和企业家组成的社区，他们提供反馈并分享他们对文章和评论的见解。GrowthHackers 还每周发布一份新闻通讯，其中包含来自社区的热门文章。
+阅读：使用异步视频反馈：通过屏幕录制提高工作效率！
+Dev.to
+Dev.to 是一个面向开发人员的社区驱动平台。它允许用户分享他们在软件和 Web 开发方面的想法、见解和经验。该平台以其支持性和包容性的社区而闻名，鼓励各个级别的开发人员分享他们的想法并进行协作。Dev.to 上最受欢迎的文章是那些提供实用技巧和见解的文章：
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/5108c23bbe</guid>
+      <pubDate>Fri, 21 Jun 2024 10:05:36 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一次创业失败以及我学到的东西！</title>
       <link>https://feed.indiehackers.world/post/9d8fd5fe6e</link>
       <description><![CDATA[Enkore 的起源
-在此期间，我申请了女性企业家计划。这是一种不同类型的加速器，旨在帮助有梦想但需要一些指导的女性。谢天谢地，我被录取了，并与其他三位女性企业家一起工作。我们没有任何商业或创业背景，但我们决心已定。我们的想法很简单——一个名为“Enkore”的音乐市场，歌手可以在活动中表演。我们的愿景很明确：帮助音乐家找到演出机会和客户，聘请高评价的艺术家参加他们的表演或个人活动。
+在此期间，我申请了女性企业家计划。这是一种不同类型的加速器，旨在帮助有梦想但需要一些指导的女性。谢天谢地，我被录取了，并与其他三位女性企业家一起工作。我们没有任何商业或创业背景，但我们决心已定。我们的想法很简单——一个名为“Enkore”的音乐市场，歌手可以在那里参加活动。我们的愿景很明确：帮助音乐家找到演出机会和客户，聘请高评价的艺术家参加他们的演出或个人活动。
 我们从一个万无一失的商业计划开始，我们在该计划的演示日提出了这个计划，结果我们赢了！我们获得了 1000 美元来建立我们的初创公司。我们建立了一个平台，方便歌手和组织者之间进行匿名反馈，同时还建立了一个仪表板，方便音乐家分析他们的日历和预订情况，以评估对他们的工作效率和收入的影响。
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9d8fd5fe6e</guid>
@@ -181,20 +196,6 @@ Discord Indiehackers Chat广告 此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/f129b109a9</guid>
       <pubDate>Wed, 20 Mar 2024 20:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Google Workspace 看板任务扩展程序与其他第三方扩展程序相比有何独特之处？</title>
-      <link>https://feed.indiehackers.world/post/c8401e87bd</link>
-      <description><![CDATA[我认为这是一个需要澄清的合理疑问。由于我将于下周推出适用于 Google Workspace 的 Kanban Tasks Extension，因此我很高兴强调该产品的独特性，它让 Google Tasks 高级用户的工作效率变得轻松。
-就在这里。..
-在第三方扩展的世界中，我的产品脱颖而出，在 Google Workspace 中提供近乎原生的体验。与 Trello 或 Asana 等外部工具不同，Kanban Tasks 扩展可无缝集成到您的工作区中，提供熟悉的界面、始终可访问的侧边栏和有主见的设计，以实现高效的任务管理。 
-
-原生集成到 Google Workspace，因此切换起来非常容易，不会丢失任何上下文
-外观和感觉与您的电子邮件和聊天相同，或具有用户友好的入门体验。
-
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/c8401e87bd</guid>
-      <pubDate>Wed, 20 Mar 2024 08:45:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
