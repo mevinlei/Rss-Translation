@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 09:11:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Fri, 21 Jun 2024 15:14:29 GMT</lastBuildDate>
     <item>
-      <title>有没有研究表明你必须有真正的兴趣才能对这类工作产生动力？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkz3kg/is_there_any_research_showing_that_you_have_to/</link>
-      <description><![CDATA[我的公司开始向我们抛出一些旧的、可怕的遗留代码，而我根本无法理解其中的任何内容。问题是我不想理解它，因为我对此没有任何兴趣或动力。所以我想知道是否有人知道一些关于动机和代码的出版物，以便我可以代表我的团队提出我的观点。    提交人    /u/kakemot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkz3kg/is_there_any_research_showing_that_you_have_to/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:31:38 GMT</pubDate>
+      <title>个人博客推荐？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl6cuf/personal_blog_recommendations/</link>
+      <description><![CDATA[一段时间以来，我一直想从头开始创建自己的博客，我想看看其他程序员的个人博客（不是 Wordpress 或其他网站构建器）以获得灵感。 希望网站不使用常用模板。谢谢！也请随意推荐您自己的网站或任何其他具有有趣 UI 的网站。    提交人    /u/prescient-potato   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl6cuf/personal_blog_recommendations/</guid>
+      <pubDate>Fri, 21 Jun 2024 15:12:08 GMT</pubDate>
     </item>
     <item>
-      <title>如何从网页中提取内容（Chrome 扩展程序）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkz2mm/how_to_extract_content_from_web_pages_chrome/</link>
-      <description><![CDATA[大家好， 有没有一种简单的方法可以从网页中提取特定内容？ 假设我有一个浏览器扩展程序，可以从网页中提取数据并发送到网络应用程序（而不会违反网站的政策）。例如，将 LinkedIn 个人资料页面中的联系人添加到用户联系人列表等。 我曾尝试粗略地遍历 div 来查找项目。这可行，听起来是最直接的方法，但网站内容会随着时间而变化，扩展程序会中断。现在我可以使用一些更稳定的选择器（ID、标签等），但它们也会随着时间而变化。我想过几种方法来解决这个问题，下面是我想到的办法  微调 LLM 以获取网页内容并返回结构化数据（相当昂贵并且可能需要一些时间才能返回数据） 找到内容并回退到输入字段，以便用户可以手动输入数据（不是最好的用户体验） 不时运行脚本检查 dom 更改，然后我可以修复扩展并更新它（更新太多，需要大量工作）  我很好奇有没有人遇到过类似的事情，你是如何解决的？我非常乐于接受反馈，我非常感谢对可能有效的方法的意见。 非常感谢！    提交人    /u/Vick_onrails   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkz2mm/how_to_extract_content_from_web_pages_chrome/</guid>
-      <pubDate>Fri, 21 Jun 2024 08:29:49 GMT</pubDate>
+      <title>3D 模型生成器页面，有什么技术栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl5qrw/3d_model_generator_page_what_tech_stack/</link>
+      <description><![CDATA[      TLDR：我已经创建了一个可以根据用户输入生成模型的 Python 应用程序，并且我想将其转变为网站以使其更易于访问，我应该使用什么技术堆栈？ 我当前的简陋网站。 几个月前，我用 Python 创建了一个应用程序，使我工作中的销售团队能够通过输入一些参数来生成 CAD 模型，从而使他们无需 CAD 经验即可快速报价。我想将此应用程序做成一个网站，以便于共享。 我已经通过在后端使用 pythons FastAPI，然后从纯 JavaScript 调用它来完成基本工作。python 会创建一个 3D 文件，然后我可以使用 Three.js 将其显示在我的网站上。然而，这是一场艰苦的战斗，感觉这可能不是最好的方法。  有人有使用这种 Web 应用程序的经验吗？可以建议我如何做得更好吗？ 是否有一个 Web 应用程序约定，用于在服务器上创建文件，然后在用户完成后自动删除它们？ 我不应该使用 python 来做这个吗？  我只是一个业余程序员，我主要使用 python，但以前只用 HTML JS 和 CSS 制作过网站，这是我第一次使用 js 框架，所以可能有一些我遗漏或不理解的重要内容。  我很高兴离开 Python，我一直坚持使用它，因为我正在使用的 CAD 模块似乎比 JS 提供的任何东西都更适合模型创建。 在我花太多时间研究这个方法之前，我只是想弄清楚一些事情。    提交人    /u/TheOGMilk   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl5qrw/3d_model_generator_page_what_tech_stack/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>后端开发人员需要设计方面的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkyakf/backend_dev_need_advice_on_design/</link>
-      <description><![CDATA[大家好  我是一名后端开发人员，非常熟悉 typescript 和 php，我知道 react 和 nextjs，但我不擅长 css。我无法将 photoshop/Figma 设计转换成 html。 html 部分对我来说没问题，但 css 很难  无论如何， 我的问题是，我有一个潜在客户，他对一个完整的在线业务感兴趣，包括面包店的标志设计、图形和网站  我可以处理网站，但设计不是我的技能之一 该怎么办？ 在这种情况下你会雇佣设计师吗？ 感谢您的任何指导，这可能是我的第一个客户     提交人    /u/Phaoris   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkyakf/backend_dev_need_advice_on_design/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:32:28 GMT</pubDate>
+      <title>您在开发团队中的非正式职位是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl57ua/what_is_your_unofficial_position_in_your_dev_team/</link>
+      <description><![CDATA[在开发团队中，你最终会专注于某件事并成为该主题的“专家”，这是很正常的。就我而言，它是 PDF，每次有功能自动提到 PDF 时，每个人都会说，是的，让我们将其分配给 u/butifarra_exiliada。只是因为我曾经在一个史诗上工作过，当时我必须做一些棘手的 pdftk 和 poppler-utils 脚本来提取文本。我很好奇其他人的故事。    提交人    /u/butifarra_exiliada   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl57ua/what_is_your_unofficial_position_in_your_dev_team/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:22:45 GMT</pubDate>
     </item>
     <item>
-      <title>Apple DMA 评论 - 开放网络倡导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dky8q5/apple_dma_review_open_web_advocacy/</link>
-      <description><![CDATA[        提交人    /u/mtomweb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dky8q5/apple_dma_review_open_web_advocacy/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:28:44 GMT</pubDate>
+      <title>Web 服务器日志显示首次访问者使用其浏览器缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl5484/web_server_log_shows_first_time_visitors_that_use/</link>
+      <description><![CDATA[我不明白我在 Web 服务器日志中看到了什么......我看到首次访问者（如果我在存档的 Web 服务器日志中搜索，他们以前从未访问过该网站）使用网站的缓存版本（......在这种情况下，Web 服务器不会响应所有需要通过 Web 浏览器呈现页面的 URL）。 这怎么可能？ 注意：客户在 Reddit 上做广告。广告活动的 Reddits 仪表板显示的点击次数比我监控的要少得多。我看到“来自 Reddit”的访问量是 Reddit 在其广告活动仪表板中显示的访问量的 300 倍...... 我是否遗漏了一些显而易见的东西？有人可以解释一下吗？    提交人    /u/PopPrestigious8115   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl5484/web_server_log_shows_first_time_visitors_that_use/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:18:22 GMT</pubDate>
     </item>
     <item>
-      <title>有任何针对前端开发人员的指南可以帮助他们选择数据库以及如何托管它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dky4il/any_guides_aimed_towards_frontend_developers_to/</link>
-      <description><![CDATA[大家好！我正在使用 Astro 为一些客户网站工作。多年来我一直使用 Vue、React 和 Angular，现在我喜欢上了 Astro 及其灵活性。 但是，我不确定选择数据库的过程以及如何托管它。通常我让后端人员来做这件事，但由于某些原因他无法做到。 有没有关于如何托管它的指南？有太多的信息，我想知道是否有人有一些好的文档可以遵循来托管，以及为什么要执行某些步骤来一劳永逸地理解它。    提交人    /u/duncante   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dky4il/any_guides_aimed_towards_frontend_developers_to/</guid>
-      <pubDate>Fri, 21 Jun 2024 07:20:22 GMT</pubDate>
+      <title>对于自由职业者来说最好的提案和发票软件是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl4td4/whats_the_best_proposal_invoice_software_for/</link>
+      <description><![CDATA[我是自由网页设计新手，最近刚收到我的第一位客户。我很好奇您使用什么软件发送提案、合同和发票（或者您是否有单独的软件）？我是一名自由职业者，所以显然我不能使用任何需要 EIN（企业 ID）的东西。如果有一体化解决方案，那就太理想了。谢谢。    提交人    /u/Decent-Row-8690   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl4td4/whats_the_best_proposal_invoice_software_for/</guid>
+      <pubDate>Fri, 21 Jun 2024 14:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>使用什么来创建和维护托管在连接到基于内部部署的离线网络的 NAS 上的“数据库网站”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkxetx/what_to_use_to_create_and_maintain_a_database/</link>
-      <description><![CDATA[我在公司内部网（离线）中工作，我有一个运行 Web 服务器的 QNAP NAS 和带有 phpmyadmin 的 MariaDB 10。我的目标是为自己和公司用户创建一个数据库。因此，我想要一个用户友好的简单 Web，其中的 UI 数据以表格形式显示，并且可以通过一些基本的权限系统进行编辑，比如管理员/用户区分。 我所苦苦挣扎的是选择正确的“工具”、框架或适当的方法。我对多种语言的编程知识相当扎实，并且能够快速适应新语言。虽然我不使用 JavaScript，但我对它很熟悉，我可以使用我的知识库在必要时使用框架。我也拥有相当丰富的 HTML 经验，因此开发方式不是问题。 但是，我无法理解库（例如 React）、框架（Node.js）、PHP、数据库和 Web UI 如何结合在一起的总体思路。以及什么是/不需要使用的。    提交人    /u/Niva_v_kopirce   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkxetx/what_to_use_to_create_and_maintain_a_database/</guid>
-      <pubDate>Fri, 21 Jun 2024 06:32:12 GMT</pubDate>
+      <title>俄罗斯公司注册了旧的过期域名，现在托管着原始网站的副本。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3w5p/russian_company_registered_old_expired_domain_and/</link>
+      <description><![CDATA[几年前，我们的一位前客户让他们的域名失效，并开始使用新域名。此后不久，俄罗斯的某个人购买了该域名，现在托管着他们旧网站的副本（我猜是从 Wayback Machine 复制的）。 我知道我们对此无能为力，但我从未见过这种情况。没有电子商务部分，它基本上只是一本数字手册。为什么有人会购买域名只是为了托管一个相同的网站？看起来很奇怪。    提交人    /u/UnicornsDildoHorns   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3w5p/russian_company_registered_old_expired_domain_and/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:21:58 GMT</pubDate>
     </item>
     <item>
-      <title>之前在这里看到过对 porkbun 的推荐，这是一个人的负面体验。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkv17i/have_seen_porkbun_recommended_here_before_heres/</link>
-      <description><![CDATA[        由    /u/-kl0wn- 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkv17i/have_seen_porkbun_recommended_here_before_heres/</guid>
-      <pubDate>Fri, 21 Jun 2024 04:05:37 GMT</pubDate>
+      <title>我为 chrome devtools 构建了一个 localStorage 检查器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3tai/i_built_a_localstorage_inspector_for_chrome/</link>
+      <description><![CDATA[      嘿，开发人员！ 我最近做了几个项目，大量使用了 localStorage。我厌倦了在开发过程中使用控制台查看和操作数据。所以我做了一个免费的扩展来让它更容易。 Chrome 扩展程序在这里： https://chromewebstore.google.com/detail/local-storage-inspector/pbfecmmdbppphcnmlmegkcdobpadegid?authuser=0&amp;hl=en-GB Github repo 在这里： https://github.com/warrenday/local-storage-inspector 它很简单，但可以让你： 1. 查看所有 localStorage 并自动解析/字符串化 json 2. 创建新的localStorage项目 3. 编辑和删除现有的localStorage项目 4. 清除localStorage。 https://preview.redd.it/7vko8xdjdx7d1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=9c82f64763712497125e3cbd9ca1db3ee6a0e765   由    /u/wjd1991  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3tai/i_built_a_localstorage_inspector_for_chrome/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>前端问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dku4ye/frontend_issues/</link>
-      <description><![CDATA[是我的动力水平有问题还是我缺乏纪律？我无法让自己为朋友开发一个网站……他也付钱给我，但即使这样，我也不喜欢前端。我在 figma 上设计了该网站，真的很享受这个过程。  但是前端......我做不到哈哈 我正在为自己建立一个 webgl 项目，并学习 3d 数学，我发现这更有趣。但为什么我不能做前端？ 我有什么问题吗？    提交人    /u/Zealousideal_Sale644   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dku4ye/frontend_issues/</guid>
-      <pubDate>Fri, 21 Jun 2024 03:15:41 GMT</pubDate>
+      <title>这个交互式 3D 环境是如何制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3pl1/how_has_this_interactive_3d_environment_been_made/</link>
+      <description><![CDATA[https://www.finely-crafted.com/area/ 我在供应商许可证中看不到特定的 3D 库 https://www.finely-crafted.com/version/1618820191854/js/vendors.js.LICENSE.txt 我看到他们使用 gsap 进行动画和交互，但是模型是如何加载、渲染和导航的呢？    提交人    /u/boner_freelove   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3pl1/how_has_this_interactive_3d_environment_been_made/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建 meme 生成器并将其添加到我的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dktlko/how_to_create_a_meme_generator_and_add_it_to_my/</link>
-      <description><![CDATA[嗨，我需要帮助。我想在我的网站上拥有自己的 meme 生成器。以下是示例：https://imgflip.com/memegenerator 但只能使用一张特定的图片，人们可以在为其添加标题后下载。此外，我如何在我的网站上添加 meme 生成器？ 有人可以帮忙吗？我将不胜感激。    提交者    /u/mustard_mind   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dktlko/how_to_create_a_meme_generator_and_add_it_to_my/</guid>
-      <pubDate>Fri, 21 Jun 2024 02:46:39 GMT</pubDate>
+      <title>为网站进行复制工作的机器人或脚本。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3my7/bot_or_script_to_do_copy_work_for_websites/</link>
+      <description><![CDATA[我想做一些事情来帮助我的工作。我正在管理一个网站，我正在将电影的图片、标题和其他详细信息从另一个网站复制到我的网站上发布。我曾经为这些电影写过文章，但类型、质量、电影长度、图片等详细信息都是从另一个网站复制的。有没有办法让机器人或脚本完成这种复制工作？所以我唯一的工作就是发布文章，而其他所有东西都由机器人添加。    提交人    /u/Wallinggod69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3my7/bot_or_script_to_do_copy_work_for_websites/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>有人知道点击劫持漏洞及其影响吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkt3vt/anyone_knows_the_clickjacking_vulnerabilities_and/</link>
-      <description><![CDATA[大家好， 我最近听说了一种名为 Clickjacking (UI Redressing) 的漏洞，我很想了解更多相关信息。据我所知，Clickjacking 是一种攻击，恶意行为者诱骗用户点击隐藏的按钮或链接，从而导致意外操作，例如下载恶意软件或泄露私人信息。 Clickjacking 究竟是如何工作的？对网站有哪些潜在影响？此外，有哪些有效措施可以防止此类攻击？ 由于某些规则，我无法发布直接链接，但如果您能分享任何见解或资源，我将不胜感激。作为参考，我一直在为我正在开展的一个名为 xspiral 的项目研究这个问题。 提前感谢您的帮助！    提交人    /u/xspiral_3d   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkt3vt/anyone_knows_the_clickjacking_vulnerabilities_and/</guid>
-      <pubDate>Fri, 21 Jun 2024 02:20:23 GMT</pubDate>
+      <title>使用 Zoom 工作时您最讨厌什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3i8r/what_do_you_hate_the_most_while_working_on_zoom/</link>
+      <description><![CDATA[我正在为产品工程人员构建一个视频会议产品，想知道您讨厌什么、喜欢什么以及希望在 Zoom 或任何其他视频会议工具中看到什么。我觉得当前的视频会议工具很无聊，很多事情都可以自动化，但我很想从社区了解你们的想法。    提交人    /u/prasad_lingawar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3i8r/what_do_you_hate_the_most_while_working_on_zoom/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:03:13 GMT</pubDate>
     </item>
     <item>
-      <title>请帮助新手找到网站的图标:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkstm5/please_help_a_noob_find_a_sites_favicon/</link>
-      <description><![CDATA[      我今天在网上更新了我的护照。在某一页上，chrome（和 edge）的标签上有一面飘扬的美国国旗作为图标。  我喜欢这一点 - 我的女儿出生在国旗日，因此全家都更加喜欢美国国旗。 如果您访问：https://www.pay.gov/tcsonline/payment.do  您在标签上看到的图标应该是飘扬的美国国旗。 https://preview.redd.it/ur05imjd1u7d1.jpg?width=120&amp;format=pjpg&amp;auto=webp&amp;s=73a0df30b81e49ed8e98f269a779ef92203f7d0b 尝试下载/查找文件的地址，我查看页面源代码。 在第 59 行，我看到：&lt;img class=&quot;usa-banner\_\_header-flag&quot; src=&quot;[/tcsonline/resources/images/favicon-57.png](https://www.pay.gov/tcsonline/resources/images/favicon-57.png)&quot; alt=&quot;美国国旗&quot; onerror=&quot;this.style.visibility = &#39;hidden&#39;&quot; /&gt; 该图标是一面不飘扬的美国国旗。 https://preview.redd.it/qilgim9h1u7d1.png?width=57&amp;format=png&amp;auto=webp&amp;s=075cb4360d72e656ee326738ad239bf884ba32c4 起初，我以为其中一些部分类内容（远远超出我的薪酬等级）会将不飘扬的国旗图标变成波浪形？但图片上的星星数量不同。 我搜索 fav 或 favicon，找到一些 .svg 文件的链接。远远超出了我的工资等级。 有人愿意帮忙吗？ 谢谢！！    提交人    /u/Kangaloosh   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkstm5/please_help_a_noob_find_a_sites_favicon/</guid>
-      <pubDate>Fri, 21 Jun 2024 02:05:31 GMT</pubDate>
+      <title>网络库存应用程序的框架或其他工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3hll/framework_or_other_tools_for_web_inventory_app/</link>
+      <description><![CDATA[我想制作一个基本的（比如比 hello world 简单 1-2 步）Web 应用程序，用于保存家中物品的清单。例如几百张 CD 和 DVD。 它可能对我的家务有帮助，但重点是学习更现代的 Web 编程方法。 我应该看看 rails、django、react 还是什么？ 另一个想法是是否有一个半基本的开源应用程序可以开始。但主要的决定是哪个框架/工具/服务相对容易学习和有用    提交人    /u/huskerd0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3hll/framework_or_other_tools_for_web_inventory_app/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>在 IIS 网站上读取 txt 文件时出现问题（用于验证目的）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dkss7w/problem_getting_txt_file_to_read_on_iis_website/</link>
-      <description><![CDATA[首先，如果这不是该问题的正确子版块，我深表歉意。 我正在尝试使用 loader.io 在我的服务器上运行负载测试。为了做到这一点，我必须首先验证这个网站是否属于我。所以我必须将一个 txt 文件上传到我的网站，以便 loader.io 可以进行检查。 问题是，我无法让它工作。将 txt 文件上传到 wwwroot/ 文件夹和 wwwroot/myapplication/ 文件夹，但两者都不起作用。出现错误，无法找到页面。 这看起来很简单（也许不是），但我太笨了，无法让它工作。感谢任何帮助。谢谢。    提交人    /u/abubin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dkss7w/problem_getting_txt_file_to_read_on_iis_website/</guid>
-      <pubDate>Fri, 21 Jun 2024 02:03:31 GMT</pubDate>
+      <title>有人熟悉为 Nextjs 应用程序编写 CSP 安全标头吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl3fuz/anyone_have_familiarity_writing_a_csp_security/</link>
+      <description><![CDATA[我已阅读文档 - https://nextjs.org/docs/pages/building-your-application/configuring/content-security-policy 但我不确定是否需要使用 Nonces 创建一个？ 如果我使用 nonces 创建一个，我是否需要识别页面上的每个脚本并为其编写一个 nonce？ 有点困惑。提前致谢！    提交人    /u/unyoushual   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl3fuz/anyone_have_familiarity_writing_a_csp_security/</guid>
+      <pubDate>Fri, 21 Jun 2024 13:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>在不同的社交网站上分享某人的个人资料页面的最新方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dks55k/whats_the_most_uptodate_way_to_share_someones/</link>
-      <description><![CDATA[我过去常常在个人资料页面上添加一个“分享：”部分，列出不同的网站，尽管我最近看到 Web Share API (https://developer.mozilla.org/en-US/docs/Web/API/Web_Share_API) 在一些网站上使用。大家对在其他平台上分享页面有什么建议？    提交人    /u/blakealex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dks55k/whats_the_most_uptodate_way_to_share_someones/</guid>
-      <pubDate>Fri, 21 Jun 2024 01:29:42 GMT</pubDate>
+      <title>最佳音频元素样式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl1qm4/best_audio_element_styles/</link>
+      <description><![CDATA[寻找一些很酷/现代的音频元素库或样式。  默认音频元素有点不好看，我似乎找不到任何库。 你们见过的最好的是什么？    提交人    /u/Space_Ganondorf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl1qm4/best_audio_element_styles/</guid>
+      <pubDate>Fri, 21 Jun 2024 11:28:31 GMT</pubDate>
     </item>
     <item>
-      <title>堆栈选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dks16f/stack_choice/</link>
-      <description><![CDATA[我还在读高中，有大约 2-3 年的 Web 开发经验，最近开始从前端扩展到全栈。由于我使用 NodeJS 和 Mongodb 的经验，我倾向于 MERN 或 MEVN。我不确定哪个雇主会更看重，或者它是否对我学到的东西有很大影响。任何建议都将不胜感激，谢谢！    提交人    /u/Z-money08   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dks16f/stack_choice/</guid>
-      <pubDate>Fri, 21 Jun 2024 01:23:55 GMT</pubDate>
+      <title>为什么我的网站会被使用超老版本的浏览器抓取？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl1q6f/why_is_my_website_crawled_using_super_old_browsers/</link>
+      <description><![CDATA[我的个人网站托管在 gitlab 上。我使用 piwik.pro 来了解谁在访问该网站。 我经常看到来自同一组织/提供商的多次访问，持续时间不同，IP 地址不同，位置相同或不同，使用旧浏览器，如 Chrome 79 + 126。 为什么总是这些旧浏览器？为什么多次访问？ 我有一个 robots.txt，但显然不受欢迎。 谢谢。    提交人    /u/crypto_dood   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl1q6f/why_is_my_website_crawled_using_super_old_browsers/</guid>
+      <pubDate>Fri, 21 Jun 2024 11:27:48 GMT</pubDate>
     </item>
     <item>
-      <title>帮助解决缺失的国际</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dks121/help_with_a_missing_intl/</link>
-      <description><![CDATA[我正尝试创建一个网页，并按照 u/simon-ffl 发布在 此处 上的说明下载 Xampp 和 mediawiki。问题是我一直收到一条错误消息，提示需要一些 PHP 扩展，并且我需要 intl。点击该链接没有任何反应。我搜索了一下，发现我应该删除 ;extensions=intl 中的 ;，我这样做了，但什么都没有改变。谁能帮我解决这个问题？我有一台 MacBook。    提交人    /u/rockthrowing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dks121/help_with_a_missing_intl/</guid>
-      <pubDate>Fri, 21 Jun 2024 01:23:44 GMT</pubDate>
+      <title>在哪里可以找到最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dl0zdd/where_can_i_find_best_practices/</link>
+      <description><![CDATA[大家好。我是新来的开发人员，已经编码大约 2 年了。我正在寻找一些帮助，以找到一个好的答案，如何以及在哪里找到从数据库实现、表单、数据验证等各个方面的最佳实践。到目前为止，我一直在使用 Google 搜索 GitHub 上的开放示例项目，以查找与我正在从事的项目类似的项目，但到目前为止，这些项目都没有成功，而且通常很难判断实施的解决方案是否确实是最好的。任何内部技巧都非常感谢。谢谢！！    提交人    /u/udeparasite   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dl0zdd/where_can_i_find_best_practices/</guid>
+      <pubDate>Fri, 21 Jun 2024 10:42:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
