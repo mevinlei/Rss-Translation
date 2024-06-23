@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 23 Jun 2024 12:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 15:09:18 GMT</lastBuildDate>
     <item>
       <title>BloxGPT</title>
       <link>https://www.producthunt.com/posts/bloxgpt</link>
@@ -76,6 +76,20 @@
       <pubDate>Fri, 21 Jun 2024 23:18:03 GMT</pubDate>
     </item>
     <item>
+      <title>健身房图表</title>
+      <link>https://www.producthunt.com/posts/gym-graphs</link>
+      <description><![CDATA[
+使用图表和统计数据跟踪您的健身进度
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/gym-graphs</guid>
+      <pubDate>Fri, 21 Jun 2024 18:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>开发任务追踪器</title>
       <link>https://www.producthunt.com/posts/dev-task-tracker</link>
       <description><![CDATA[
@@ -116,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/what-font-for-safari</guid>
       <pubDate>Fri, 21 Jun 2024 14:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>知识专家</title>
-      <link>https://www.producthunt.com/posts/knowhiz</link>
-      <description><![CDATA[
-通过人工智能将材料转化为结构化学习
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/knowhiz</guid>
-      <pubDate>Thu, 20 Jun 2024 23:45:26 GMT</pubDate>
     </item>
     <item>
       <title>Wallow - 为开发者打造的 Slack</title>
@@ -177,7 +177,7 @@ Slack，但专为我们设计
       <title>未来阳光灿烂</title>
       <link>https://www.producthunt.com/posts/sunny-days-ahead</link>
       <description><![CDATA[
-寻找最适合旅行、阳光最充沛的月份
+寻找最适合旅行、阳光最充足的月份
 
 
 讨论
@@ -205,7 +205,7 @@ Slack，但专为我们设计
       <title>故意的</title>
       <link>https://www.producthunt.com/posts/intentional</link>
       <description><![CDATA[
-人工智能干扰拦截器，让您专心工作
+人工智能干扰拦截器，让您专注工作
 
 
 讨论
