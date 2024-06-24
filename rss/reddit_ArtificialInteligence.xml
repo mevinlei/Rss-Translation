@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 24 Jun 2024 18:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 21:08:19 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Vivid AI</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dno9as/how_to_use_vivid_ai/</link>
+      <description><![CDATA[嗨！我刚开始使用 Vivid Al，在文本转图像生成方面遇到了问题。我尝试了“从图像中获取文本”功能，并尝试提交生成的文本。但是，使用的一些词语违反了 Vivid Al 条款。我查看了这些条款，没有找到任何关于不能使用的词语的参考。此外，据我所知，Vivid Al 经常用于生成逼真的性感图像。我哪里做错了？此外，如果这不是一个好的应用程序，你建议我使用什么来生成逼真的性感图像？ 这些是 Vivid Al 生成的文本，但没有找到合适的文本：  “特写镜头：一名身穿粉色胸罩上衣的女子，网络艺术，粉彩，灵感来自 Annabel Eyres、Petra Collins、粉色吊带上衣、乳头、柔软的女性、小乳房”  “穿着内衣的女子躺在窗前的沙发上，阿拉伯式风格，装饰艺术，由 Andor Basch 设计，诱人的坐姿，闺房摄影，蜂蜜小鸟，闺房，内衣美女”   提前感谢您的回答！    提交人    /u/YourKissableAngel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dno9as/how_to_use_vivid_ai/</guid>
+      <pubDate>Mon, 24 Jun 2024 20:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能推理——如何模拟认知失调？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnnkom/ai_reasoning_how_to_model_cognitive_dissonance/</link>
+      <description><![CDATA[认知失调在我看来是我们形成和验证信念的基础。思考推理 AI，我想到的是一个不断更新的信念网络，它与 Ron Brachman 谈论的一些常识相关的想法相连。 认知失调的例子：  人 A 爱狗 爱狗的人不会伤害狗 人 A 现在正在故意伤害一只狗  在我看来，在观察 3 的同时坚持信念 1 和 2 是不合理的。在我看来，观察 3 并持有信念 1 和 2 的代理会感到认知失调，这种情况会导致放弃信念 1 或 2，或者否认经历 3。 如何建模/实现？ 我可以想象使用 LLM 来实现此目的，但这不是一个非常可扩展的解决方案。它可以适用于这个例子，但不适用于成千上万的信念。 我们可以使用嵌入来表示语句，但如何才能有效地使语句的嵌入相互冲突？ 我是 AI 推理这个话题的新手，因此任何阅读建议都将不胜感激。    提交人    /u/PanJony   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnnkom/ai_reasoning_how_to_model_cognitive_dissonance/</guid>
+      <pubDate>Mon, 24 Jun 2024 20:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么工具可以为我建立/写入数据库？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnmsgs/is_there_any_tool_out_there_that_can_buildwrite/</link>
+      <description><![CDATA[它不必那么安全。当我打包搬家箱时...我想说：箱子一，园艺用品，箱子二，洗漱用品，箱子三棋盘游戏...（等等）然后它就会建立一个数据库。然后，一年后...如果我问它：“我把棋盘放在哪里了？”它应该输出“可能是箱子三”（例如） 但我还没有找到可以长期存储此类信息的东西。似乎您必须手动复制粘贴输出，然后自己保存。（此时，我也可以自己做） 当然，我可能不知道应该在哪里寻找。有这样的事情吗？    提交人    /u/papakapp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnmsgs/is_there_any_tool_out_there_that_can_buildwrite/</guid>
+      <pubDate>Mon, 24 Jun 2024 19:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>彭博社关于人工智能能源需求增长的文章</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnkr7r/bloomberg_article_on_ai_energy_demand_growth/</link>
+      <description><![CDATA[ https://www.bloomberg.com/news/newsletters/2024-06-24/ai-boom-drives-up-risk-of-power-squeeze?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlh dCI6MTcxOTI1Mzg5MSwiZXhwIjoxNzE5ODU4NjkxLCJhcnRpY2xlSWQiOiJTRkwxS0REV1JHRzAwMCIsImJjb25uZWN0SWQiOiIzMjZGRkY5Q0RGMzU0NjgwODAyQUZEQzBGNTNBRjJGQiJ9.PDgjTPVDDDIUS_1uZ-R9c2x7ClEhNOXtr9sV4USzSQE    提交人    /u/chinacat2002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnkr7r/bloomberg_article_on_ai_energy_demand_growth/</guid>
+      <pubDate>Mon, 24 Jun 2024 18:34:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>当许多 LLM 较大时，我应该优先考虑 24GB VRAM 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnkccf/should_i_prioritise_24gb_vram_when_many_llms_are/</link>
+      <description><![CDATA[在接下来的几个月里，Nvidia 将推出其 5000 系列，这将导致新的和二手的 4000 系列的价格下降。 我想要一张用于游戏的显卡，但我也喜欢修修补补，我是一名每天都在从事激情项目的开发人员，我想获得人工智能方面的经验，也许专注于金融市场和经济分析，尽管我对法学硕士和学习其他领域也很感兴趣。 我应该优先考虑 24GB VRAM（可能是二手的 4090），还是最终会使用 - 或者我应该打算使用 - 众多云平台之一来租用计算，因为我家里的 24GB 卡不够用，或者买一张 VRAM 较少的卡这样做更划算？ 这将是我是否寻找打折的 4090 或更便宜的 4080 Super / 可能更贵的一个因素但性能更佳的 5080。    由   提交  /u/AnonymousAardvark22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnkccf/should_i_prioritise_24gb_vram_when_many_llms_are/</guid>
+      <pubDate>Mon, 24 Jun 2024 18:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>很快你就可以从语音记录中生成面部图像</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnir8p/soon_you_would_be_able_to_generate_facial_images/</link>
@@ -13,25 +48,11 @@
       <pubDate>Mon, 24 Jun 2024 17:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个很棒的聊天机器人，我想公开发布它，但我担心我的积分会用完，或者机器人会被垃圾邮件轰炸，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnh572/i_created_a_fantastic_chatbase_bot_and_i_want_to/</link>
-      <description><![CDATA[所以我一直在训练这个模型，我对结果非常满意。这个想法独特而新颖，我对此非常满意。我想公开发布它，但我打算免费发布。然而，它需要花费所有积分才能发送消息。由于它的独特性，我几乎可以肯定它会达到消息限制，而我负担不起每月 400 美元来运行它。 你们有什么建议吗？这里有人发布过聊天机器人吗？ 我考虑过把它放在便宜的付费墙后面，比如每月 5 美元，但人们就没有机会尝试它。也许可以试用一下？我不想让人们不想尝试它，也不想强迫他们订阅。 真的不想用它赚钱，只是想帮助人类。也许是一个捐赠链接之类的？  任何提示都值得赞赏。     由    /u/frankreddit5 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnh572/i_created_a_fantastic_chatbase_bot_and_i_want_to/</guid>
-      <pubDate>Mon, 24 Jun 2024 16:05:09 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能助力实验室化学品安全</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dneqni/ai_for_lab_chemical_safety/</link>
       <description><![CDATA[我是一家实验室的安全专家，该实验室目前拥有统一的化学品清单，其中约有 8622 种危险和非危险化学品。其中一个研究小组正在为一个项目寻求资金，该项目可能会将多达 2000 种化学品引入我们的系统。 此清单（以及可能添加的清单）均在 Excel 中。  我正在寻找一种扫描这些 Excel 工作表以执行某些任务的方法。 我希望有一个机器学习算法，可以分析现有的在线化学数据库（EPA、OSHA、pubchem）来预测与我们当前的化学品库存相关的潜在危害或预先筛选任何传入的化学品库存。  该算法还可以确定该化学品是否为 EPA 列出的或特征性的危险废物，并受联邦法律（RCRA）的监管监督。 是否也可以有一个大型语言模型，可以对安全数据表、研究文章和监管文件进行数据分析，并从中提取有关化学危害的相关信息。 是否有能够分析事件数据中的趋势和模式并预测可能导致化学相关危害的情况的人工智能。 相同的人工智能程序是否可以通过分析工作危害分析（JHA）并识别偏离标准协议或不安全条件来监控风险并提出纠正建议操作。  我阅读了大量有关 AI 使用的资料，但大多数文章讨论的是这些程序的功能，而不是实际实施。 那么作为 AI 的新手，我可以利用我所描述的方式利用这些功能吗？如果可以，我该如何具体实施？它可以独立存在还是成为某些现有 AI 框架的一部分。 我希望有人能帮我指明正确的方向，我真的需要指导。 谢谢，    提交人    /u/drwfishesman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dneqni/ai_for_lab_chemical_safety/</guid>
       <pubDate>Mon, 24 Jun 2024 14:24:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>MS Recall 和 AppleAI 的编辑功能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dndyd7/redact_feature_for_ms_recall_and_appleai/</link>
-      <description><![CDATA[对于他们的 AI 屏幕捕获功能，使用屏幕保存上的图像识别可以：  切换到编辑，例如密码/用户名和用户选择的 PII。 编辑关键字（您输入要编辑的关键字） 编辑应用程序（您选择它将编辑的应用程序）  它可能会增加实时处理，或者让它在后台进行后期处理。    提交人    /u/DarkHeliopause   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dndyd7/redact_feature_for_ms_recall_and_appleai/</guid>
-      <pubDate>Mon, 24 Jun 2024 13:50:07 GMT</pubDate>
     </item>
     <item>
       <title>AI PDF提取工具</title>
@@ -55,13 +76,6 @@
       <pubDate>Mon, 24 Jun 2024 11:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>对 Claude Sonnet 3.5 系统提示的取证分析</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dna0r3/a_forensic_analysis_of_the_claude_sonnet_35/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dna0r3/a_forensic_analysis_of_the_claude_sonnet_35/</guid>
-      <pubDate>Mon, 24 Jun 2024 10:12:37 GMT</pubDate>
-    </item>
-    <item>
       <title>Ooredoo 首席执行官表示，尽管美国对人工智能出口有限制，但 Nvidia 仍将在中东开展业务</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn8dgo/nvidia_to_launch_in_middle_east_despite_us_ai/</link>
       <description><![CDATA[尽管美国不允许先进芯片进入这些国家，但 Nvidia 将在 Ooredoo 位于中东五个国家的数据中心使用其 AI 技术。https://theaiwired.com/nvidia-to-launch-in-middle-east-despite-us-ai-export-restrictions-says-ooredoo-ceo/    提交人    /u/alyis4u   [链接] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[您可以让 AI 为您做哪些有用的事情和/或帮助您现在就赚一些钱？    提交人    /u/reddituser6213   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dmycfr/how_can_the_average_person_capitalize_on_ai_right/</guid>
       <pubDate>Sun, 23 Jun 2024 22:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能编码永远不会变得无聊。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dmqilg/coding_using_ai_is_never_going_to_get_boring/</link>
-      <description><![CDATA[&quot;我有一大段代码。问题是文本没有居中，尽管我尝试将代码中的每个元素都居中&quot;。 &lt;AI 为我的问题提供了潜在的解决方案&gt; &quot;它不起作用，您能否为我提供仅使用 CSS 的解决方案？解决代码中可能导致文本居中的所有元素。&quot; &lt;AI 为我的问题提供了完美的解决方案&gt;  我仍然无法忘记 AI 作为一种工具有多么有用。当我开始学习编码时，我从未想过这样的事情会发生。在我看来，AI 是有史以来最好的学习工具。如果没有 AI，我会放弃很多问题。   由    /u/KiritoMadara  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dmqilg/coding_using_ai_is_never_going_to_get_boring/</guid>
-      <pubDate>Sun, 23 Jun 2024 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们正处于人工智能的 Altavista 阶段</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dmncpy/were_at_the_altavista_stage_of_ai/</link>
-      <description><![CDATA[在 90 年代和 21 世纪初期，人们看到了很多“下一件大事”创新。Mosaic、Netscape、Firefox、Chrome、雅虎、Altavista、谷歌。任何对网站有任何想法的人都会提出自己的观点，投入数百万美元来建立它，然后以惊人的失败告终，这导致了巨大的繁荣和萧条。一些巨头幸存下来，至今仍然存在。主要是亚马逊和谷歌。 虽然有许多不同的人工智能平台在争夺榜首，但我认为我们甚至还没有进入繁荣阶段。我认为我们回到了 Altavista 阶段，人们认为事情已经达到了他们所能达到的最好程度，但还无法想象未来 20 年会发生多大的变化。随着科技的加速发展，我们现在不知道未来20年会出现什么样的进步，也无法预测谁能在竞争中脱颖而出，成为下个世纪的科技之王。    提交人    /u/baalzimon   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dmncpy/were_at_the_altavista_stage_of_ai/</guid>
-      <pubDate>Sun, 23 Jun 2024 14:27:21 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
