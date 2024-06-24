@@ -4,13 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 24 Jun 2024 15:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 18:11:12 GMT</lastBuildDate>
     <item>
-      <title>人工智能已经接管了我公司的视频制作（包括工作流程）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnewdc/ai_has_taken_over_my_businesss_video_production/</link>
-      <description><![CDATA[我需要为我的公司制作许多视频。从营销社交视频到培训视频。每个人都知道制作视频内容有多难，所以我开始尝试使用 AI 来自动化我的视频创作工作流程。我用过很多 AI 工具，但最后只用了两个。 首先，我使用Chatgpt.com来生成我的想法，我向它提供了我想要制作视频的所有背景和背景故事，并告诉它“创建一个可以在一分钟内大声朗读的简洁文本”，这将创建一个 1 分钟的视频脚本。其次，我转到Cliptalk.pro并给它脚本，然后为它提供我的风格和声音，然后点击生成，它将创建简短的视频带有画外音和字幕。 然后我进入它的编辑器添加我自己的资产，如屏幕截图或图像。 它增加了我的营销产出，我可以专注于其他事情。    提交人    /u/payamsaremi   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnewdc/ai_has_taken_over_my_businesss_video_production/</guid>
-      <pubDate>Mon, 24 Jun 2024 14:31:34 GMT</pubDate>
+      <title>很快你就可以从语音记录中生成面部图像</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnir8p/soon_you_would_be_able_to_generate_facial_images/</link>
+      <description><![CDATA[担心工具从语音记录生成面部图像是否合理？ 大家好，我一直在阅读有关人工智能的最新进展，特别是像 SCLDM 这样的模型，它可以从语音记录生成逼真的面部图像。 这篇论文简直太疯狂了：https://arxiv.org/pdf/ 2310.03363v1 这引发了对隐私和同意的担忧。1. 您是否认为这些工具可以商业化并用于根据声音识别人们，这是否现实或实用？  您认为这是一种合理的担忧，还是我们夸大了这些技术的潜在影响？特别是如果您得到像 Facecheek id 或 Pimeyes 这样的东西。  我很想听听您的想法并讨论道德和实际影响。谢谢。    由   提交  /u/Serious_Explorer_492   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnir8p/soon_you_would_be_able_to_generate_facial_images/</guid>
+      <pubDate>Mon, 24 Jun 2024 17:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个很棒的聊天机器人，我想公开发布它，但我担心我的积分会用完，或者机器人会被垃圾邮件轰炸，有什么建议吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dnh572/i_created_a_fantastic_chatbase_bot_and_i_want_to/</link>
+      <description><![CDATA[所以我一直在训练这个模型，我对结果非常满意。这个想法独特而新颖，我对此非常满意。我想公开发布它，但我打算免费发布。然而，它需要花费所有积分才能发送消息。由于它的独特性，我几乎可以肯定它会达到消息限制，而我负担不起每月 400 美元来运行它。 你们有什么建议吗？这里有人发布过聊天机器人吗？ 我考虑过把它放在便宜的付费墙后面，比如每月 5 美元，但人们就没有机会尝试它。也许可以试用一下？我不想让人们不想尝试它，也不想强迫他们订阅。 真的不想用它赚钱，只是想帮助人类。也许是一个捐赠链接之类的？  任何提示都值得赞赏。     由    /u/frankreddit5 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dnh572/i_created_a_fantastic_chatbase_bot_and_i_want_to/</guid>
+      <pubDate>Mon, 24 Jun 2024 16:05:09 GMT</pubDate>
     </item>
     <item>
       <title>人工智能助力实验室化学品安全</title>
@@ -57,16 +64,9 @@
     <item>
       <title>Ooredoo 首席执行官表示，尽管美国对人工智能出口有限制，但 Nvidia 仍将在中东开展业务</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn8dgo/nvidia_to_launch_in_middle_east_despite_us_ai/</link>
-      <description><![CDATA[Nvidia 将在 Ooredoo 位于中东五个国家的数据中心使用其 AI 技术，尽管美国不允许先进芯片进入这些国家。https://theaiwired.com/nvidia-to-launch-in-middle-east-despite-us-ai-export-restrictions-says-ooredoo-ceo/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <description><![CDATA[尽管美国不允许先进芯片进入这些国家，但 Nvidia 将在 Ooredoo 位于中东五个国家的数据中心使用其 AI 技术。https://theaiwired.com/nvidia-to-launch-in-middle-east-despite-us-ai-export-restrictions-says-ooredoo-ceo/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn8dgo/nvidia_to_launch_in_middle_east_despite_us_ai/</guid>
       <pubDate>Mon, 24 Jun 2024 08:13:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Graph RAG：从本地到全球</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1dn6lgo/graph_rag_from_local_to_global/</link>
-      <description><![CDATA[什么是 Graph RAG？ Graph RAG 是一个两步过程，我们通过索引私有数据来构建系统以创建LLM 衍生的知识图谱。这些图用作 LLM 内存表示，然后可在后续步骤中使用，以实现更好的检索。 系统的第二部分是 LLM 编排，它利用这些预先构建的索引来创建更好的 RAG 管道，该管道可以一次了解整个数据集。  完整文章： https://medium.com/aiguys/graph-rag-from-local-to-global-84860b4b0e82  Graph RAG 特别实现了两件事：  增强搜索相关性。 启用可能需要非常大上下文的新场景。例如，查找数据中的趋势、总结等。  它是如何做到的？ 源文档 → 文本块  粒度：来自源文档的输入文本被分成块。 权衡：较长的块需要较少的 LLM 调用，但由于上下文窗口较长，可能会降低召回率。 示例：在 HotPotQA 数据集上，600 个标记的块大小提取的实体引用几乎是 2400 个标记的块大小的两倍。  文本块 → 元素实例  目标：从文本块中识别和提取图形节点和边。 流程：使用 LLM 提示识别实体和关系，输出分隔元组。 自定义：使用与特定域相关的少量示例定制提示。 效率：多轮“收集”确保在不影响块大小的情况下检测到更多实体。  元素实例 → 元素摘要  摘要：LLM 从文本中抽象和总结实体、关系和声明。 重复处理：尽管实体引用可能存在不一致，但由于检测密切相关的实体及其摘要，该方法具有弹性。  元素摘要 → 图社区  图建模：创建一个无向加权图，其中节点是实体，边是关系。 社区检测：使用莱顿算法将图表划分为分层社区，实现高效的全局摘要。  图表社区 → 社区摘要  摘要创建：为每个社区生成类似报告的摘要。 实用性：摘要有助于理解数据集的全局结构和语义，有助于回答全局查询。  社区摘要 → 社区答案 → 全局答案  查询处理：使用社区摘要生成答案。 中间答案：摘要被分成几块，LLM 生成具有有用性分数的答案。 最终答案：将得分最高的中间答案组合成最终的全局答案。  别忘了查看我们的时事通讯： https://medium.com/aiguys/newsletter    提交人    /u/Difficult-Race-1188   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1dn6lgo/graph_rag_from_local_to_global/</guid>
-      <pubDate>Mon, 24 Jun 2024 06:07:45 GMT</pubDate>
     </item>
     <item>
       <title>我刚刚让 Claude 为我制作一款游戏，它就成功了。然后我让它在每次新提示时添加新功能，它也会这样做。零错误。</title>
@@ -99,12 +99,12 @@
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</link>
-      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解 subreddit 的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
+      <description><![CDATA[我们制定了一条规则，新开通一天的账户或 Karma 少于 100 的用户无法发帖。他们可以发表评论，但不能提交实际帖子。这是我们解决机器人垃圾邮件计划的一部分。如有任何不便，敬请谅解。 我们将在接下来的几天内进行民意调查，以了解子版块的总体意愿以及如何改进，这只是一个提醒。 与往常一样，请向我们提供反馈，如果您有兴趣帮助子版块，请联系我。 谢谢大家！    提交人    /u/FHIR_HL7_Integrator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/115jk6q/new_antispam_bot_rules_please_read/</guid>
       <pubDate>Sat, 18 Feb 2023 16:49:55 GMT</pubDate>
     </item>
     <item>
-      <title>重要提示：征求关于 subreddit 规则和未来方向的评论。请阅读！</title>
+      <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
       <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
