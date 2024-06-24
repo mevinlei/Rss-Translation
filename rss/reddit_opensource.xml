@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 24 Jun 2024 09:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 12:17:22 GMT</lastBuildDate>
     <item>
-      <title>tdlib-rs 的新版本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dn8gmp/a_new_version_of_tdlibrs/</link>
-      <description><![CDATA[  由    /u/FedericoBruzzone  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dn8gmp/a_new_version_of_tdlibrs/</guid>
-      <pubDate>Mon, 24 Jun 2024 08:20:12 GMT</pubDate>
+      <title>另一个带有 ssh 端口转发的 mosh</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dnb0qv/another_mosh_with_ssh_port_forwarding/</link>
+      <description><![CDATA[  由    /u/LonnyWong  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dnb0qv/another_mosh_with_ssh_port_forwarding/</guid>
+      <pubDate>Mon, 24 Jun 2024 11:17:26 GMT</pubDate>
     </item>
     <item>
       <title>Unstract - 一个开源、无代码平台，可帮助您在人工参与的情况下自动化涉及冗长、复杂文档的复杂业务流程。</title>
