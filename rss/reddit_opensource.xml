@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 23 Jun 2024 21:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 03:11:08 GMT</lastBuildDate>
     <item>
       <title>开源机器人</title>
       <link>https://www.reddit.com/r/opensource/comments/1dmupaj/open_source_robot/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[        提交人    /u/ner5hd__   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dmkc23/how_do_you_balance_innovation_and_sustainability/</guid>
       <pubDate>Sun, 23 Jun 2024 11:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以我正在寻找某种可以托管的基于 Web 的电子邮件客户端 - 我不知道这是否有意义</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dmk6dh/so_im_looking_for_some_kind_of_email_client_that/</link>
-      <description><![CDATA[所以我不知道我的标题是否正是我所需要的，但这是我当前的设置+问题 我在我的安卓手机上使用 fairemail，其中包含我在许多不同服务上的所有 24 个电子邮件帐户，出于各种原因我需要它们，但这不是我的问题。 我家里有一台台式机，可以在 Thunderbird 中运行所有这些帐户，但我有一台薄笔记本电脑（Microsoft Surface 7 Pro），它无法在不拖慢整个系统的情况下处理 Thunderbird 中的所有帐户。 所以我想到的解决方案是在我的台式机上安装类似 Thunderbird 的东西，但让基于 Web 的客户端或薄客户端从我的笔记本电脑连接到它，而不是在我的笔记本电脑上完全运行 Thunderbird。 这个想法来自于我有时使用 sunshine/moonlight 来使用我的台式机，如果我需要做一些笔记本电脑功能不够强大的事情，但这对于我的情况并不实用，只是检查/处理电子邮件 基本上，有没有办法让我的桌面运行并处理所有电子邮件帐户，并有一个可以在笔记本电脑上运行的客户端，该客户端只需连接到我的桌面作为电子邮件服务器，这样繁重的工作都在桌面上完成，而不是笔记本电脑上？ 有什么想法或建议吗？    提交人    /u/Kooky-Friend8544   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dmk6dh/so_im_looking_for_some_kind_of_email_client_that/</guid>
-      <pubDate>Sun, 23 Jun 2024 11:35:34 GMT</pubDate>
     </item>
     <item>
       <title>制作我的第一张 PR！</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[        提交人    /u/vitonsky   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dlum86/software_with_politic_opinion_is_a_security_threat/</guid>
       <pubDate>Sat, 22 Jun 2024 12:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我写的一篇关于开源的文章</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dlr6t9/an_article_i_wrote_about_opensourcing/</link>
+      <description><![CDATA[https://www.peoplesinternet.net/articles/open-source/    由   提交  /u/ThankYouNeutronix_02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dlr6t9/an_article_i_wrote_about_opensourcing/</guid>
+      <pubDate>Sat, 22 Jun 2024 08:42:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
