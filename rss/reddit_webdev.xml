@@ -3,19 +3,40 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 24 Jun 2024 03:11:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 24 Jun 2024 06:13:50 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 创建日期重要吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dn4gb7/does_github_creation_date_matter/</link>
+      <description><![CDATA[大家好， 我最近创建了一个 GitHub 帐户，并上传了几个我已经做了一段时间的项目。但是，所有项目的上传日期都很近，尽管我已经在其中一些项目上工作了几个月。 我有点担心雇主可能会看到最近的日期，并认为我刚开始学习编码，或者我在很短的时间内完成了所有这些项目。 对于那些有招聘经验或经历过求职过程的人来说，GitHub 帐户的创建日期和项目的上传日期有多重要？这会影响雇主如何看待我的经验和技能吗？如果这很重要，我正在寻找入门职位，在大学里呆了 4 年，但没有完成。 任何建议或见解都将不胜感激！ 谢谢！   由    /u/SnooRecipes9557  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dn4gb7/does_github_creation_date_matter/</guid>
+      <pubDate>Mon, 24 Jun 2024 03:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么好的解决方案可以让您的网站使用箭头键进行导航？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dn41m4/any_good_solutions_for_making_your_website/</link>
+      <description><![CDATA[有人找到一个可以让用户使用箭头键浏览网站的库吗？ 这与可访问性无关，而更多地是为了让 Web 应用在 FireStick TV 等设备上更直观。 — 我来到 Reddit 寻求库建议，当然我得到的回复大多来自那些对我的用例一无所知的人，他们告诉我为什么不应该这样做。    提交人    /u/maziwa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dn41m4/any_good_solutions_for_making_your_website/</guid>
+      <pubDate>Mon, 24 Jun 2024 03:31:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止 Vercel 缓存数据库数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dn3y0a/stop_vercel_from_caching_db_data/</link>
+      <description><![CDATA[大家好。我有一个使用 Supabase 作为数据库的 Next JS 应用程序，部署在 Vercel 上。 数据是部署时的正确数据，但如果我在数据库中更改某些内容，数据不会在前端更新，就好像数据不再从数据库中获取一样。当然，在本地工作正常哈哈。 我假设这意味着 Vercel 正在缓存部署时的数据。如果我在数据库中更改并重新部署，它会获取更新的数据。 如何让 Vercel 每次都从数据库中获取而不是缓存？ 非常感谢。    提交人    /u/theanxiousprogrammer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dn3y0a/stop_vercel_from_caching_db_data/</guid>
+      <pubDate>Mon, 24 Jun 2024 03:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有“按需付费”功能的网站建设平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1dn2kdx/looking_for_a_site_building_platform_with_a_pay/</link>
-      <description><![CDATA[我最近创办了一家小公司，正在建立一个网站。我想在某些产品上添加“随心付费”选项，比如 Bandcamp 或 Gumroad。但是，我找不到支持此功能的平台。到目前为止，似乎只有 Shopify 有可以启用此功能的插件。 还有其他平台有此功能吗？也欢迎提出其他建议和解决方法。 谢谢！    提交人    /u/dj_325   [链接] [评论]]]></description>
+      <description><![CDATA[我最近创办了一家小公司，正在建立一个网站。我想在某些产品（如 Bandcamp 或 Gumroad）上添加“随心付费”选项。但是，我找不到支持此功能的平台。到目前为止，似乎只有 Shopify 有可以启用此功能的插件。 还有其他平台有此功能吗？也欢迎提出其他建议和解决方法。 谢谢！    提交人    /u/dj_325   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dn2kdx/looking_for_a_site_building_platform_with_a_pay/</guid>
       <pubDate>Mon, 24 Jun 2024 02:12:51 GMT</pubDate>
     </item>
     <item>
       <title>哪里是寻找建立网站并集成人工智能的人的好地方？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dn2dbp/where_would_be_a_good_place_to_find_someone_who/</link>
-      <description><![CDATA[基本上就是标题。我正在与一位商业伙伴合作一个项目，需要第三条腿：一个既能进行 Web 开发又能集成 AI 元素的人。喜欢/了解汽车的人可获得额外加分。     由   提交  /u/Rothdrop   [link] [评论]]]></description>
+      <description><![CDATA[基本上就是标题。我正在与一位商业伙伴合作一个项目，需要第三条腿：一个既能进行 Web 开发又能集成 AI 元素的人。喜欢/了解汽车的人可获得额外加分。    提交人    /u/Rothdrop   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dn2dbp/where_would_be_a_good_place_to_find_someone_who/</guid>
       <pubDate>Mon, 24 Jun 2024 02:02:37 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[      欧洲某家公司的 HR 就远程工作联系了我。一切听起来都很酷，所以我决定聊天。 聊天过程中一切都很好，对方很有礼貌，公司看起来很梦幻。他们很想给我布置一个任务，让我先完成，然后再进行下一步。然而奇怪的是，我固执地希望我们在薪资期望上达成一致，然后再投入到测试中（他们写了 5-7 天）。在薪资问题上反复讨论——每次都涨——他们毫不犹豫地把薪资提高了近 2,000 美元，几乎太容易了。 我已将任务以图片形式附上，但我在职业生涯中从未遇到过如此“具体”和简洁的任务？这项任务与他们的工作高度契合，很容易成为他们的产品。 此外，他们希望我记录绩效，最好是图表？ 对我来说，这更像是一份规范，而不是任务——还是我想太多了？    提交人    /u/MrFluffsPops   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dmx770/is_this_free_labor/</guid>
       <pubDate>Sun, 23 Jun 2024 21:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>云平台——它们有多大风险？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dmwr4a/cloud_platforms_how_risky_they_are/</link>
-      <description><![CDATA[嘿！我刚刚进入了 netlify 或 vercel 等云托管平台的世界。然而，我发现了一个让我害怕的故事，一个男人在一个美丽的早晨醒来，检查他的电子邮件，发现由于 DDoS 攻击（3Mb 文件）而产生 100k 账单。 所以我的问题是，这是发生的事情还是只是那个人非常倒霉？（并且在他的页面上有一个 3Mb 文件，有点愚蠢）。我想在未来建立客户项目（静态低容量网站），但这让我有点害怕。    提交人    /u/panzenko   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dmwr4a/cloud_platforms_how_risky_they_are/</guid>
-      <pubDate>Sun, 23 Jun 2024 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求流媒体应用程序开发的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dmwng2/looking_for_help_on_a_streaming_app_development/</link>
-      <description><![CDATA[首先，我要说我的背景不是 Web 开发，所以如果我说的不是同一种语言或方向不对，请别介意。 我的背景是 Web 流媒体，我的公司每年举办大约 5,000 场现场活动，在过去一年左右的时间里，我们注意到这个行业需要一种特定的服务。它并不存在，我们正努力成为实现它的人。话虽如此，我们也不太了解这种东西的具体工作原理。我对 Web 流媒体的工作原理有大致的了解，但不了解细节，我想这就是我的问题。我应该找谁来帮助构建这样的东西？这不是您的普通应用程序，涉及从设备到客户端的 Web 流媒体，我知道这是最棘手的部分。该应用程序是在 Figma 中设计的。我们已经走到了这一步，但不确定接下来要做什么。 感谢您的任何建议！     由    /u/Amking4 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dmwng2/looking_for_help_on_a_streaming_app_development/</guid>
-      <pubDate>Sun, 23 Jun 2024 21:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 webdev 很简单，但部署应用却难得难以置信？您是如何做到的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dmv8kz/why_is_webdev_easy_but_deploying_your_app/</link>
-      <description><![CDATA[我制作了一个 angular/.net 应用程序，在参加暑期课程的几周里，我一直在尝试将其容器化并运行。学习 Docker 并进行多阶段构建并不算太难，但 nginx 到底是什么，我该如何让 ssl 工作？比如我运行了所有东西，我只看到 http localhost 上的“欢迎使用 nginx”选项卡，除了前端容器上的 grep 之外没有运行任何进程。同时我没有遇到任何错误，而且这个星球上几乎没有人遇到过和我一样的问题。这就像是我部署时遇到的第 5 个错误。 你们是怎么做到的？有没有办法直接下载一个可用的 Dockerfiles 和 Docker-Compose 和 nginx &amp; ssl，然后继续我的生活？    提交人    /u/SirGoatFucker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dmv8kz/why_is_webdev_easy_but_deploying_your_app/</guid>
-      <pubDate>Sun, 23 Jun 2024 20:19:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
