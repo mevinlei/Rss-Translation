@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 09:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:16:21 GMT</lastBuildDate>
     <item>
       <title>下班后</title>
       <link>https://www.producthunt.com/posts/afterhour</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/afterhour</guid>
       <pubDate>Tue, 25 Jun 2024 06:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>故事生活</title>
-      <link>https://www.producthunt.com/posts/storylife</link>
-      <description><![CDATA[
-情侣定制相册
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/storylife</guid>
-      <pubDate>Tue, 25 Jun 2024 02:26:20 GMT</pubDate>
     </item>
     <item>
       <title>新电脑点</title>
@@ -48,20 +34,6 @@
       <pubDate>Tue, 25 Jun 2024 00:34:29 GMT</pubDate>
     </item>
     <item>
-      <title>房地产投资模拟器（测试版）</title>
-      <link>https://www.producthunt.com/posts/real-estate-investing-simulator-beta</link>
-      <description><![CDATA[
-以有趣且零风险的方式学习房地产投资
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/real-estate-investing-simulator-beta</guid>
-      <pubDate>Mon, 24 Jun 2024 20:01:24 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能流</title>
       <link>https://www.producthunt.com/posts/ai-flow-4</link>
       <description><![CDATA[
@@ -74,6 +46,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/ai-flow-4</guid>
       <pubDate>Mon, 24 Jun 2024 19:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>场景</title>
+      <link>https://www.producthunt.com/posts/scene-3</link>
+      <description><![CDATA[
+一体化网页设计工作区
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/scene-3</guid>
+      <pubDate>Mon, 24 Jun 2024 18:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>mypapers.ai</title>
+      <link>https://www.producthunt.com/posts/mypapers-ai</link>
+      <description><![CDATA[
+可视化日常 LLM 论文
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mypapers-ai</guid>
+      <pubDate>Mon, 24 Jun 2024 15:51:09 GMT</pubDate>
     </item>
     <item>
       <title>猪拉丁语翻译器</title>
@@ -90,20 +90,6 @@
       <pubDate>Mon, 24 Jun 2024 14:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>Vanilla 的收件箱</title>
-      <link>https://www.producthunt.com/posts/inbox-by-vanilla</link>
-      <description><![CDATA[
-免费客户支持软件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/inbox-by-vanilla</guid>
-      <pubDate>Mon, 24 Jun 2024 12:58:06 GMT</pubDate>
-    </item>
-    <item>
       <title>创意封面</title>
       <link>https://www.producthunt.com/posts/kreativo-cover</link>
       <description><![CDATA[
@@ -116,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/kreativo-cover</guid>
       <pubDate>Mon, 24 Jun 2024 11:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>反馈。</title>
-      <link>https://www.producthunt.com/posts/feedback-4</link>
-      <description><![CDATA[
-用于客户情绪分析的 AI 导航器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/feedback-4</guid>
-      <pubDate>Mon, 24 Jun 2024 11:10:19 GMT</pubDate>
     </item>
     <item>
       <title>浏览菜单栏</title>
@@ -174,18 +146,32 @@ AI 驱动的演示，类似人类的交互
       <pubDate>Fri, 21 Jun 2024 11:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>有孩子的寄宿家庭</title>
-      <link>https://www.producthunt.com/posts/homestays-with-kids</link>
+      <title>臭氧</title>
+      <link>https://www.producthunt.com/posts/ozone-3</link>
       <description><![CDATA[
-结识志同道合的家庭并入住他们的住所
+使用 AI 在几秒钟内编辑视频
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/homestays-with-kids</guid>
-      <pubDate>Fri, 21 Jun 2024 09:55:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ozone-3</guid>
+      <pubDate>Wed, 19 Jun 2024 00:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pixelmost - 使用 AI 制作应用程序模型</title>
+      <link>https://www.producthunt.com/posts/pixelmost-app-mockups-with-ai</link>
+      <description><![CDATA[
+使用提示或预先设计的组件生成应用设计
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pixelmost-app-mockups-with-ai</guid>
+      <pubDate>Thu, 13 Jun 2024 08:33:41 GMT</pubDate>
     </item>
     <item>
       <title>添加到表格</title>
@@ -205,7 +191,7 @@ AI 驱动的演示，类似人类的交互
       <title>线程</title>
       <link>https://www.producthunt.com/posts/threadly</link>
       <description><![CDATA[
-为 Slack 定制 CTA，轻松实现多渠道发送
+通过多渠道发送、CTA 等功能增强 Slack
 
 
 讨论
@@ -214,6 +200,20 @@ AI 驱动的演示，类似人类的交互
 ]]></description>
       <guid>https://www.producthunt.com/posts/threadly</guid>
       <pubDate>Sun, 02 Jun 2024 23:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>中继应用</title>
+      <link>https://www.producthunt.com/posts/relay-app-2</link>
+      <description><![CDATA[
+AI 驱动的自动化
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/relay-app-2</guid>
+      <pubDate>Mon, 13 May 2024 15:14:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
