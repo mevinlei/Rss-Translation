@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 25 Jun 2024 00:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 03:10:55 GMT</lastBuildDate>
+    <item>
+      <title>用于 div 的最简单的基于物理的 js？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dnubt1/easiest_physics_based_js_for_divs/</link>
+      <description><![CDATA[尝试制作一堆 div 下落和相互倾倒的动画，有点像 matter.js，但似乎 matter.js 更适合于它自己的对象，而不是为已经存在的 div 制作动画。 有什么简单的方法可以做到这一点？ 一些 div 会有图像，每个 div 都会有自定义样式。    提交人    /u/Derto_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dnubt1/easiest_physics_based_js_for_divs/</guid>
+      <pubDate>Tue, 25 Jun 2024 01:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年新网站销售/营销页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dnt91i/new_website_sales_marketing_pages_in_2024/</link>
+      <description><![CDATA[您好， 过去我做过一些 Web 开发/设计。目前正致力于一个新项目，并在良好的用户体验设计方面做了一些投资。主要为专业服务（不是营销或 Web 开发）构建业务销售页面。 我最近的所有项目，我都让团队使用 Wordpress 并为其构建模板或调整现有模板。 这个新项目我有几个最重要的要点：设计、可用性、速度和传达信息。虽然我知道大多数事情都可以在 Wordpress 中完成，但让它们在 Elementor 中工作和更新有其局限性。 在 2024 年，如果您不需要插件或表单的任何复杂功能，只需在 HTML、CSS、JS 和一些轻量级 PHP 中简单地进行一个非常漂亮的设计即可制作一个真正快速而不臃肿的网站，这是一个好主意吗？ 在我的上一个项目中，Wordpress 感觉非常臃肿，即使在良好的托管上，性能也不是很好。 我还听说 Webflow 现在真的很好。 你会如何解决这个问题？    提交人    /u/jef2904   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dnt91i/new_website_sales_marketing_pages_in_2024/</guid>
+      <pubDate>Tue, 25 Jun 2024 00:43:38 GMT</pubDate>
+    </item>
     <item>
       <title>您订阅了哪些学习平台？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dnsdpv/which_learning_platforms_are_you_subscribed_to/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>正在制作个人网站/作品集。对于这样的网站/作品集，您会推荐哪些库和框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1dnqkih/working_on_a_personal_websiteportfolio_what/</link>
-      <description><![CDATA[我正在努力获得全栈开发证书，目前我有一个需要完善的个人网站。  对于像这样的项目（您只想像博客一样展示自己或分享艺术或视频等媒体），您会推荐哪些库/框架？    提交人    /u/IAskSoMnyQuestions   [link] [评论]]]></description>
+      <description><![CDATA[我正在努力获得全栈开发证书，目前我有一个需要完善的个人网站。  对于像这样的项目（您只想像博客一样展示自己，或者分享艺术或视频等媒体），您会推荐哪些库/框架？    提交人    /u/IAskSoMnyQuestions   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dnqkih/working_on_a_personal_websiteportfolio_what/</guid>
       <pubDate>Mon, 24 Jun 2024 22:37:52 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        提交人    /u/One-War-3825   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dnl1l3/is_this_laptop_good_price_is_900/</guid>
       <pubDate>Mon, 24 Jun 2024 18:46:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook Air M3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dnkpbk/macbook_air_m3/</link>
-      <description><![CDATA[大家好， 我看到 M1 和 M2 都有线程，而且从我读过的内容来看，似乎任何 M 处理器都可以编程。 有人会担心使用 M3 进行全栈开发，例如 JS、.net core、NodeJs、Docker？ 问这个问题的原因是我想买一台 16GB 的 Air M3。 谢谢 🙂    提交人    /u/Fearless_Medicine_23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dnkpbk/macbook_air_m3/</guid>
-      <pubDate>Mon, 24 Jun 2024 18:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>某些浏览器和移动设备上视频和音频元素无法自动播放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dnk7jo/video_and_audio_element_not_autoplaying_in_some/</link>
-      <description><![CDATA[我的网站上有一个音频和视频元素，桌面上的某些浏览器会自动播放，我需要在每个浏览器上播放。在移动设备上只能在 Android 上播放，iOS 似乎无法播放。我在 iOS 上尝试了几种浏览器，但都不起作用。 你们知道是否可以在每个浏览器（桌面、Android 和 iOS）上播放它吗？    提交者    /u/Comprehensive-Cup947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dnk7jo/video_and_audio_element_not_autoplaying_in_some/</guid>
-      <pubDate>Mon, 24 Jun 2024 18:11:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
