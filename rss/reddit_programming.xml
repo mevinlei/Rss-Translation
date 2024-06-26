@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 26 Jun 2024 00:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 03:11:14 GMT</lastBuildDate>
+    <item>
+      <title>我使用 Motoko 解决了 100 道 Leetcode 问题：Motko 是一种好的编程语言吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1dolrtc/i_solved_100_leetcode_problems_using_motoko_is/</link>
+      <description><![CDATA[  由   提交  /u/Demali876   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dolrtc/i_solved_100_leetcode_problems_using_motoko_is/</guid>
+      <pubDate>Wed, 26 Jun 2024 00:48:24 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 主导 OpenAI：Claude 3.5 Sonnet 与 GPT-4o 的并排比较</title>
       <link>https://www.reddit.com/r/programming/comments/1dol9bo/anthropic_dominates_openai_a_sidebyside/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Tekmo  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1do7ccb/my_spiciest_take_on_tech_hiring/</guid>
       <pubDate>Tue, 25 Jun 2024 14:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网络合成器，可以从任何文件的二进制代码生成声音（Github 上的演示和视频）</title>
-      <link>https://www.reddit.com/r/programming/comments/1do4n00/i_created_a_websynthesizer_that_generates_sound/</link>
-      <description><![CDATA[  由    /u/Interesting-Bed-4355  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1do4n00/i_created_a_websynthesizer_that_generates_sound/</guid>
-      <pubDate>Tue, 25 Jun 2024 12:20:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
