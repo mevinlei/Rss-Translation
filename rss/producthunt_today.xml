@@ -4,20 +4,34 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 09:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:16:35 GMT</lastBuildDate>
     <item>
-      <title>Figma 幻灯片</title>
-      <link>https://www.producthunt.com/posts/figma-slides</link>
+      <title>Fastly 免费账户</title>
+      <link>https://www.producthunt.com/posts/fastly-free-accounts</link>
       <description><![CDATA[
-为各种场合制作演示文稿和幻灯片
+构建一些令人惊叹的东西！CDN、可观察性、KV Store 等
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/figma-slides</guid>
-      <pubDate>Wed, 26 Jun 2024 21:19:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/fastly-free-accounts</guid>
+      <pubDate>Thu, 27 Jun 2024 10:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma人工智能</title>
+      <link>https://www.producthunt.com/posts/figma-ai-2</link>
+      <description><![CDATA[
+畅享您的创造力 
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/figma-ai-2</guid>
+      <pubDate>Wed, 26 Jun 2024 21:10:53 GMT</pubDate>
     </item>
     <item>
       <title>备忘录 - 确认已读（Slack）</title>
@@ -48,6 +62,20 @@
       <pubDate>Wed, 26 Jun 2024 14:30:39 GMT</pubDate>
     </item>
     <item>
+      <title>SheetsDB：Google Sheets 到 JSON API</title>
+      <link>https://www.producthunt.com/posts/sheetsdb-google-sheets-to-json-api</link>
+      <description><![CDATA[
+将 Google 表格转换为即时、免费的 JSON API
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sheetsdb-google-sheets-to-json-api</guid>
+      <pubDate>Wed, 26 Jun 2024 08:11:53 GMT</pubDate>
+    </item>
+    <item>
       <title>语言学家翻译</title>
       <link>https://www.producthunt.com/posts/linguist-translate</link>
       <description><![CDATA[
@@ -60,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/linguist-translate</guid>
       <pubDate>Tue, 25 Jun 2024 23:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>BudCoder | WordPress 插件生成器</title>
-      <link>https://www.producthunt.com/posts/budcoder-wordpress-plugin-builder</link>
-      <description><![CDATA[
-WordPress 的 v0 和 CodeSandBox
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/budcoder-wordpress-plugin-builder</guid>
-      <pubDate>Tue, 25 Jun 2024 11:24:50 GMT</pubDate>
     </item>
     <item>
       <title>Glasp：无缝衔接 Notion 的关键亮点</title>
@@ -118,46 +132,18 @@ WordPress 的 v0 和 CodeSandBox
       <pubDate>Mon, 24 Jun 2024 15:53:46 GMT</pubDate>
     </item>
     <item>
-      <title>纸张移位器</title>
-      <link>https://www.producthunt.com/posts/sheet-shifter</link>
+      <title>问题库</title>
+      <link>https://www.producthunt.com/posts/question-base-2</link>
       <description><![CDATA[
-无需打开单个文件即可迁移 CSV 数据
+完成实际工作。自动化 Slack
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/sheet-shifter</guid>
-      <pubDate>Sun, 23 Jun 2024 22:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>冲洗</title>
-      <link>https://www.producthunt.com/posts/siram</link>
-      <description><![CDATA[
-自动给室内植物浇水
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/siram</guid>
-      <pubDate>Sun, 23 Jun 2024 13:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>MOFT Snap Note 支架</title>
-      <link>https://www.producthunt.com/posts/moft-snap-note-stand</link>
-      <description><![CDATA[
-第一个便携式日常专注系统
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/moft-snap-note-stand</guid>
-      <pubDate>Sat, 22 Jun 2024 12:20:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/question-base-2</guid>
+      <pubDate>Sun, 23 Jun 2024 11:14:33 GMT</pubDate>
     </item>
     <item>
       <title>ScoreMyDeck网站</title>
@@ -174,7 +160,7 @@ WordPress 的 v0 和 CodeSandBox
       <pubDate>Thu, 20 Jun 2024 21:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>网站常见问题解答生成器（免费）</title>
+      <title>为您的网站生成常见问题解答（免费）</title>
       <link>https://www.producthunt.com/posts/faq-generator-for-your-website-free</link>
       <description><![CDATA[
 一个 AI 助手，可立即为您的网站生成常见问题解答。
@@ -202,8 +188,8 @@ WordPress 的 v0 和 CodeSandBox
       <pubDate>Mon, 10 Jun 2024 17:57:57 GMT</pubDate>
     </item>
     <item>
-      <title>ChatScreen: iOS 2.0 版 Sider</title>
-      <link>https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0</link>
+      <title>ChatScreen: Sider 2.0 适用于 iOS</title>
+      <link>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</link>
       <description><![CDATA[
 无需切换应用，即可与屏幕上的任何内容进行 AI 聊天
 
@@ -212,8 +198,22 @@ WordPress 的 v0 和 CodeSandBox
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/chatscreen-sider-for-ios-2-0</guid>
+      <guid>https://www.producthunt.com/posts/chatscreen-sider-2-0-for-ios</guid>
       <pubDate>Wed, 05 Jun 2024 10:58:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>ApyHub Fusion：现代 API 客户端</title>
+      <link>https://www.producthunt.com/posts/apyhub-fusion-the-modern-api-client</link>
+      <description><![CDATA[
+构建、测试、记录您的 API 并实时协作！
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/apyhub-fusion-the-modern-api-client</guid>
+      <pubDate>Tue, 21 May 2024 19:24:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
