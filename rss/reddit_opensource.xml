@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 27 Jun 2024 15:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 18:11:04 GMT</lastBuildDate>
+    <item>
+      <title>对“OTel 的问题”的回应</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpx42x/a_response_to_the_problem_with_otel/</link>
+      <description><![CDATA[        提交人    /u/joshleecreates   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpx42x/a_response_to_the_problem_with_otel/</guid>
+      <pubDate>Thu, 27 Jun 2024 17:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的项目需要 UX 帮助吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpvc8r/does_your_project_need_ux_help/</link>
+      <description><![CDATA[不久前我问过这个问题，现在我想跟进一下。 我领导一个非营利组织，帮助促进产品/技术项目，以便人们可以学习、成长和与他人联系。 我们目前正在向开源社区求助，看看维护者/项目所有者是否需要 UXers 团队的帮助。 如果是，或者如果你好奇/有疑问，给我发 DM，我们可以从那里开始！    提交人    /u/Andrew__Salvatore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpvc8r/does_your_project_need_ux_help/</guid>
+      <pubDate>Thu, 27 Jun 2024 16:22:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>另一个反应框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpudeb/yet_another_react_framework/</link>
+      <description><![CDATA[大家好。 在过去的两个月里，我一直在研究一个 React 框架，但服务器端是用 Rust 编写的（带有可用的 SSR）——这里是这个项目。 主要项目的目标是实现多线程服务器端渲染，同时仍然使用 React 在前端工作，以利用出色的开发体验在生产中实现超快的响应时间。 该项目仍然缺少大量功能，但我很想知道您对此的想法——我正在寻找贡献者。 还有一个教程这里可以开始使用它！ 谢谢大家    由    /u/ValerioAgeno  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpudeb/yet_another_react_framework/</guid>
+      <pubDate>Thu, 27 Jun 2024 15:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源在线工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1dpu9uk/open_source_online_tool/</link>
+      <description><![CDATA[嗨，Reddit！ 希望你们都一切顺利。我很高兴与大家分享我一直在做的一个项目，我很乐意得到一些贡献者的帮助，将它提升到一个新的水平。 项目： Omni-Tools 技术栈：ReactJs、Typescript 描述：Omni-Tools 是一个一体化实用程序套件，旨在为开发人员和日常用户提供各种方便的工具。无论您需要快速文件转换器、正则表达式测试器还是简单的计算器，Omni-Tools 都旨在将它们全部集中在一个方便的地方。 寻找贡献者：我正在寻找能够帮助完成以下工作的贡献者：  添加新工具和实用程序 改进 UI/UX 测试和修复错误 提供想法和反馈  如果您有兴趣，请随时在此处发表评论或直接在 GitHub 上打开 PR。欢迎任何级别的贡献。 并请为 repo 加注星标    提交人    /u/iibracool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1dpu9uk/open_source_online_tool/</guid>
+      <pubDate>Thu, 27 Jun 2024 15:37:32 GMT</pubDate>
+    </item>
     <item>
       <title>我在 React 中构建了一个内核卷积游乐场</title>
       <link>https://www.reddit.com/r/opensource/comments/1dpsclk/i_built_a_kernel_convoltion_playground_in_react/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我们是一支专注于民主与技术交汇点的专业团队，探索软件如何增强参与和审议过程——无论是在讨论还是决策中。 我们开发了几种旨在支持这些目标的软件工具，现在正计划将它们集成到更大的平台中。该平台将满足致力于加强民主参与的协会和机构的基本需求。 我们正在寻找对以下领域感兴趣的开发人员：  电子政务和民主创新 去中心化，包括区块链和 Web3 技术 人工智能，特别是在决策过程中  如果您和我们一样对这些领域充满热情，并且具备上述任何一项技能，我们很乐意听取您的意见。给我发私信，讨论你如何为我们的项目做出贡献并与它共同成长。    提交人    /u/theRAGEhero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1dp21p9/open_souce_platform_for_egov_discussion_and/</guid>
       <pubDate>Wed, 26 Jun 2024 15:55:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找开源项目来执行安全审计并做出贡献</title>
-      <link>https://www.reddit.com/r/opensource/comments/1doywna/im_looking_for_open_source_projects_to_perform/</link>
-      <description><![CDATA[大家好， 我是一名安全工程师，目前从事威胁情报工作，但曾在 AppSec 工作。 最近，我一直在寻求通过对开源项目进行安全审计和渗透测试来扩展我的投资组合。 我的目标是识别漏洞、提出修复建议并提交拉取请求以帮助改善这些项目的安全态势，所有这些都是免费的。 我为什么要这样做？ 原因有两个，首先，这是扩展我投资组合的好方法； 其次，因为我在整个职业生涯中都从开源软件中受益匪浅，现在我想回馈社会。 我能提供什么？ 免费安全审计：我将进行安全评估以识别您项目中的漏洞。 拉取请求：我将通过拉取请求提出修复和改进建议，解决安全问题并增强整体安全措施。 我在寻找什么样的项目？ 我更喜欢积极维护的小型项目。 这样，我可以有效地参与多个项目和社区。 无论您的项目是实用工具、Web 应用程序还是完全不同的东西，我都渴望合作和贡献。 取得联系！ 如果您是开源项目的维护者或贡献者，希望增强其安全性或只是对合作感兴趣，请随时通过 DM 或此帖子与我联系。 干杯    提交人    /u/_supitto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1doywna/im_looking_for_open_source_projects_to_perform/</guid>
-      <pubDate>Wed, 26 Jun 2024 13:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>幽灵秘密：未被发现的秘密揭露大型企业</title>
-      <link>https://www.reddit.com/r/opensource/comments/1doyltg/phantom_secrets_undetected_secrets_expose_major/</link>
-      <description><![CDATA[       由    /u/Pale_Fly_2673  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1doyltg/phantom_secrets_undetected_secrets_expose_major/</guid>
-      <pubDate>Wed, 26 Jun 2024 13:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OceanChat | 根据您的五大结果将您联系起来的聊天应用程序（Rust）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dox6ks/oceanchat_chat_app_that_connect_you_based_on_your/</link>
-      <description><![CDATA[  由    /u/gittor123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dox6ks/oceanchat_chat_app_that_connect_you_based_on_your/</guid>
-      <pubDate>Wed, 26 Jun 2024 12:17:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔮Superduperdb v0.2 - 人工智能 + 数据库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1dou6oc/superduperdb_v02_ai_database/</link>
-      <description><![CDATA[🔮Superduperdb v0.2！ SuperDuperDB 很高兴地宣布发布 superduperdb v0.2，这是一次重大更新，旨在改善 AI 与数据库协作的方式。此版本朝着实现使用数据库进行完整的 AI 应用程序开发迈出了重大一步。  扩展您的 AI 应用程序以处理更多数据和用户，并支持可扩展计算。 使用 superduper 协议迁移和共享包含各种组件的 AI 应用程序；将任何 AI 应用程序映射到清晰的 JSON/YAML 格式并引用二进制文件。 使用简化的开发人员合同轻松扩展具有新 AI 功能和数据库功能的系统；开发人员只需编写一些关键方法。  查看： 博客：https://blog.superduperdb.com/version-02/ 文档：https://docs.superduperdb.com/docs/intro/ Github：https://github.com/SuperDuperDB/superduperdb （请为项目做出贡献！） Pip：https://pypi.org/project/superduperdb/     提交人    /u/Sevyten   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1dou6oc/superduperdb_v02_ai_database/</guid>
-      <pubDate>Wed, 26 Jun 2024 09:11:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
