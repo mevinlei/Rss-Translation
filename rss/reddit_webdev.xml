@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:09:09 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 29 Jun 2024 00:38:55 GMT</lastBuildDate>
+    <item>
+      <title>为实现多用户登录目的在多个 JWT cookie 之间切换</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqybdn/switch_between_multiple_jwt_cookies_for_multiuser/</link>
+      <description><![CDATA[大家好，Webdev 社区， 我目前正在开发一款应用程序，允许我的用户使用多个 Gmail 帐户登录。我使用 Supabase 来实现这一点，我使用他们的基础架构让我的用户登录，但我自己将 cookie 保存在 cookie 中：“user-0”和“user-1”。就像 Google 一样，我使用路由：u/0 和 u/1 来决定是否需要使用用户 1 或用户 0 的 gmail 令牌。 这听起来不错。但是，我使用 NextJS 作为我的框架。现在的主要问题是我在 /u 之后使用了 slug（因此，/u/[slug]），这在用于客户端组件时可能会非常不一致。客户端组件仅在挂载时才有效，但这是有问题的，因为客户端组件可能会回退到用户 0，而不是实际使用正确的 slug。我获取了 slug，然后将其设置在我的 Zustand 状态中。 有没有更好的方法来做 slug 部分？我甚至想过使用 cookies，但我觉得应该有更直观的方法来做到这一点？  const access_token = getClientToken(params.id as string); export const getClientToken = (id: string) =&gt; { if (typeof document === &quot;undefined&quot;) return; const cookies = parse(document.cookie)[`user-${id}`]; return JSON.parse(cookies)[0]; };     submitted by    /u/Live-Orange-8414   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqybdn/switch_between_multiple_jwt_cookies_for_multiuser/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>五月底被解雇了，但每周都收到低价报价。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqxkf9/got_laid_off_end_of_may_but_keep_getting_lowball/</link>
+      <description><![CDATA[我是住在泰国的欧洲外籍人士，在上一家创业公司担任了 2 年高级全栈开发人员后，于 5 月底被解雇。当然，在 Reddit 上花费了大量时间让我相信，我将在未来 6 个月到 1 年内失业，甚至可能需要搬回我的祖国，因为远程工作也行不通。我只联系欧盟公司合作，因为我喜欢和他们一起工作。 好吧，说实话，自从我被解雇以来，我已经收到了 4 份工作邀请，虽然不是很好，但其中 3 份也不算太糟糕。我签了一份自由职业邀请（已经在那里工作了整整一周），昨天我签了一份为期 12 个月的全职合同工邀请。两份都是远程工作！合并后的薪水比我之前的工作略低（6500 美元 vs 4800-5500 美元），但我会继续面试以获得更好的工作。我仍在经历 3 个招聘流程，因此这可能不是我在 5 月/6 月申请时收到的最后一个报价。 关于我：拥有 6 年经验的全栈开发人员，主要在初创公司担任承包商和自由职业者。    提交人    /u/Horror_Influence4466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqxkf9/got_laid_off_end_of_may_but_keep_getting_lowball/</guid>
+      <pubDate>Fri, 28 Jun 2024 23:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我能在 wordpress 上建立这样的网站吗？或者，你会用什么来建立这样的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqxf8h/am_i_able_to_build_a_website_like_this_on/</link>
+      <description><![CDATA[这是我想要构建的网站：https://www.futuretools.io/?search=web%20design 我还想确保这些 CMS 每天可以处理数百万次展示。    提交人    /u/theashgod   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqxf8h/am_i_able_to_build_a_website_like_this_on/</guid>
+      <pubDate>Fri, 28 Jun 2024 23:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建基于浏览器的在线游戏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqx92x/how_to_create_an_online_browser_based_game/</link>
+      <description><![CDATA[我想知道制作一款免费、可通过在线浏览器访问的回合制 RPG 需要什么。我想要一款简单的回合制游戏，其中 4-5 名玩家组成一个角色团队，为他们配备装备，然后进行回合制战斗。可能涉及骰子，最好将每个玩家的队伍组成或游戏的当前状态保存为 JSON 或其他内容。存储为 cookie 或文件    提交者    /u/ozu95supein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqx92x/how_to_create_an_online_browser_based_game/</guid>
+      <pubDate>Fri, 28 Jun 2024 23:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于自由职业的 RAG 聊天机器人应用程序，您会收取/支付多少费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqw9it/for_a_freelance_rag_chatbot_application_how_much/</link>
+      <description><![CDATA[我正在整理一份提案，想在提交之前先听听其他人的意见。这是一个相对简单的 rag 应用程序，本质上只是一种以对话方式查询数据库的快速方法。可交付成果是一个功能齐全的前端和后端，具有基本的 2FA 身份验证，供公司员工使用，支持来自其内部交易/跟踪系统的数据。     提交人    /u/mfb1274   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqw9it/for_a_freelance_rag_chatbot_application_how_much/</guid>
+      <pubDate>Fri, 28 Jun 2024 22:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚在 StackOverflow 上发布了我的第一个问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqvcxk/i_just_posted_my_first_question_on_stackoverflow/</link>
+      <description><![CDATA[多久后它会被标记为重复并永久关闭？    提交人    /u/_perdomon_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqvcxk/i_just_posted_my_first_question_on_stackoverflow/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您喜欢哪些库或框架，但是它们已经随着时间的流逝而消失了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqv8nh/what_libraries_or_frameworks_did_you_love_but/</link>
+      <description><![CDATA[这些年来，它们似乎来来去去。你最想念哪一个？    提交人    /u/blakealex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqv8nh/what_libraries_or_frameworks_did_you_love_but/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:48:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，webdevs，我想创建一个此网站的克隆版作为学习项目。对于经验中等的人来说，这需要多长时间？除了 Framer 运动、分析和资产生成之外，我还应该考虑什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqunuc/hi_webdevs_i_want_to_create_a_clone_of_this/</link>
+      <description><![CDATA[        提交人    /u/Flat_Investment_4682   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqunuc/hi_webdevs_i_want_to_create_a_clone_of_this/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scrumboard 用来记录你和你团队的任务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqujst/scrumboard_to_write_down_your_and_your_teams_tasks/</link>
+      <description><![CDATA[在此应用中，您可以创建任务、团队并添加好友。这是我的第一个相对较大的项目，也是我的第一个使用 React 和后端的应用。我对 Webdev 还很陌生，因此如果能对我的代码提出任何提示和批评，我将不胜感激！  https://github.com/denis557/Scrumboard    提交人    /u/kankakan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqujst/scrumboard_to_write_down_your_and_your_teams_tasks/</guid>
+      <pubDate>Fri, 28 Jun 2024 21:18:17 GMT</pubDate>
+    </item>
     <item>
       <title>用于简单 API 的托管无头 CMS</title>
       <link>https://www.reddit.com/r/webdev/comments/1dqsmwn/hosted_headless_cms_used_for_simple_apis/</link>
@@ -36,7 +99,7 @@
     <item>
       <title>我的 GSAP 动画重置了我的 CSS SVG 动画，救命！</title>
       <link>https://www.reddit.com/r/webdev/comments/1dqrnlu/my_gsap_animation_resets_my_css_svg_animation_help/</link>
-      <description><![CDATA[      我有一个使用 css 动画制作的 SVG 动画，但我使用 GSAP 时间线将其从屏幕上删除，因此它充当预加载器。但最后当预加载器启动时，GSAP 重置了我的动画，这是我不想要的。我该如何阻止它这样做？ https://i.redd.it/lzixyka84d9d1.gif    提交人    /u/theSuperlonely   [link] [评论] ]]></description>
+      <description><![CDATA[      我有一个使用 css 动画制作的 SVG 动画，但我使用 GSAP 时间线将其从屏幕上删除，因此它充当预加载器。但最后当预加载器启动时，GSAP 重置了我的动画，这是我不想要的。我该如何阻止它这样做？ https://i.redd.it/lzixyka84d9d1.gif 这是供大家查看的代码： HTML： &lt;div id=&quot;splash&quot;&gt; &lt;div class=&quot;splash-loader&quot;&gt; &lt;svg id=&quot;splash-logo&quot; width=&quot;381&quot; height=&quot;151&quot; viewBox=&quot;0 0 381 151&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;路径 d=&quot;M190.033 146V148.5H192.533H223.893H226.393V146V49.7313L266.081 76.1899V146V148.5H268.581H299.94H302.44V146V76.1867L341.932 49.7427V146V148.5H344.432H375.793H378.293V146V5.85999V3.35999H375.793H349.529H348.74L348.094 3.81278L284.163 48.6225L220.231 3.81278L219.585 3.35999H218.797H192.533H190.033V5.85999V146Z&quot;stroke=&quot;white&quot;stroke-width=&quot;5&quot;/&gt; &lt;路径 d=&quot;M3.22 146V148.5H5.72H37.08H39.58V146V96.952H100.322L129.587 147.257L130.31 148.5H131.748H167.42H171.895L169.549 144.689L139.09 95.2166C148.729 92.9619 156.457 88.4318 162.103 81.5311C168.462 73.7587 171.488 63.1981 171.488 50.156C171.488 34.8253 167.311 22.9325 158.519 14.987C149.949 7.12436 138.032 3.35999 123.124 3.35999H5.72H3.22V5.85999V146ZM130.843 62.8171L130.823 62.835L130.804 62.8534C128.418 65.1359 124.756 66.4715 119.403 66.472C119.402 66.472 119.401 66.472 119.4 66.472L39.58 66.2819V33.84H119.4C124.755 33.84 128.417 35.1757 130.804 37.4586L130.844 37.4969L130.886 37.5334C133.209 39.5659 134.736 43.4903 134.736 50.156C134.736 56.6584 133.223 60.6352 130.843 62.8171Z&quot; 描边=&quot;白色&quot; stroke-width=&quot;5&quot;/&gt; &lt;/svg&gt; &lt;/div&gt; &lt;/div&gt;  CSS: #splash { top: 0; left: 0; z-index: 9; width: 100%; height: 100%; position: fixed; background: #000000; } .splash-loader { top: 50%; left: 50%; z-index: 9; position: fixed; overflow: hidden; transform: Translation(-50%, -50%); } #splash-logo { width: 10rem; height: 5.5rem; display: block; stroke-width: 3; animation: 6s logo-stroke forwards; } @keyframes logo-stroke { 0% { fill: transparent; stroke: #ffffff; stroke-width: 3; stroke-dashoffset: 25%; stroke-dasharray: 0 32%; } 50% { fill: transparent; stroke: #ffffff; stroke-width: 3; } 80%{ fill: transparent; stroke: #ffffff; stroke-width: 3; stroke-dashoffset: -25%; stroke-dasharray: 32% 0; } 100%{ fill: #ffffff; stroke: transparent; stroke-width: 3; } }  以及 JS（内联 JS，因此使用 CDN 导入）： // splash timeline const splash = document.querySelector(&#39;#splash&#39;) const splash_logo = document.querySelector(&#39;#splash-logo&#39;) // Master Timeline const master_timeline = gsap.timeline(); const setSplashStates = () =&gt; { gsap.set(splash_logo, { yPercent: 0 }); } const splashAnimation = () =&gt; { const splash_timeline = gsap.timeline({ defaults: { ease: &#39;power2.inOut&#39;, } }); splash_timeline.to(splash_logo, { yPercent: -100, delay: 6 }) .to(splash, { yPercent: -100, duration: 1.5, ease: &#39;power4.inOut&#39; }, &#39;&lt;&#39;) return splash_timeline }     提交人    /u/theSuperlonely   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dqrnlu/my_gsap_animation_resets_my_css_svg_animation_help/</guid>
       <pubDate>Fri, 28 Jun 2024 19:12:10 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[https://imgur.com/a/oPewMoy 我正在考虑在自动售货机内制作浮动物体和不同的物品（代表我的一个项目），可以选择这些物品，单击后将显示信息。悬停时，这些物体将开始悬浮并略微旋转，您可以围绕自动售货机旋转相机。它还将包含可链接到其他事物的海报和按钮。我认为这是一个好主意，但我想听听其他意见！谢谢！    提交人    /u/maubg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dqrcp6/what_do_yall_think_about_my_porfolio_idea/</guid>
       <pubDate>Fri, 28 Jun 2024 18:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GSAP 和 JavaScript 实现立方体滑块动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqr652/cube_slider_animation_with_gsap_and_javascript/</link>
-      <description><![CDATA[      教程、代码和演示：此处    由    /u/mirhod 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqr652/cube_slider_animation_with_gsap_and_javascript/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>贵公司是否使用开源 LLM 或闭源 LLM 的企业版？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqpdnj/does_your_company_use_open_source_llms_or/</link>
-      <description><![CDATA[只是好奇想知道是否基于组织的数据，LLM 是否可以对这些数据进行微调以最佳地处理这些数据，从而提高员工的工作效率，我知道很多公司都这样做，但我想知道也许因为防止数据暴露，他们会更喜欢使用自托管的开源 LLM，或者他们不介意并选择像 openAI 这样的闭源企业版本？    提交人    /u/FickleSwordfish8689   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqpdnj/does_your_company_use_open_source_llms_or/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决多租户排队系统中的嘈杂邻居问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqpcsm/fixing_noisy_neighbor_problems_in_multitenant/</link>
-      <description><![CDATA[       由    /u/self-taught16  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqpcsm/fixing_noisy_neighbor_problems_in_multitenant/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会如何设计一个可以生成 PDF 以供打印的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqpbgy/how_would_you_style_an_app_that_has_to_generate/</link>
-      <description><![CDATA[背景故事：我主要是一名后端开发人员，因此我不太熟悉 UI 设计的最佳实践。几年前，一位朋友请我编写一个应用程序，用于在浏览器中构建相册，并生成可打印的 PDF。它有一组预定义的模板用于在页面上放置照片。我当时的方法是计算模板比率并使用该比率在浏览器中呈现 UI。例如，如果我有一个尺寸为 10x15 厘米的照片位置，我将使用 10/15（0,666）的比例来计算 HTML 元素的屏幕尺寸（以及宽度和高度的用户百分比）。因此，如果我在一页上并排放置了两张 10x15 厘米的照片，则两个元素的 CSS 将如下所示：width: 66%;高度：100%;。 这种方法确实有效，自从应用程序推出（4 年前）以来，我们还没有听到用户抱怨 UI 的这一部分。 我很好奇是否有更好的方法来显示需要尽可能接近打印版本的东西的 UI，同时能够同时适应不同的屏幕尺寸？    提交人    /u/Digimush   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqpbgy/how_would_you_style_an_app_that_has_to_generate/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的博客与媒体内容存档的最便宜的解决方案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqp98n/cheapest_solution_to_archiving_my_blog_with_media/</link>
-      <description><![CDATA[大家好，不确定这是否是频道，但我有一个托管在 VPS 上的 Wordpress 博客，我想将其存档。该博客包含图片和视频，总计超过 1TB。  我不再需要视频可访问，但我确实需要图像可见。仅图像本身的存储空间就约为 30-40GB。 博客本身有大约 2k 篇帖子。 将其迁移到更便宜的主机的最便宜方法是什么？  将博客变成静态版本是否可能更容易节省资源？如果是，我可能会面临什么样的 SEO 后果？我的理解是，Google 优先考虑 Wordpress 上的网站，如果情况不再如此但页面保持不变，这会影响网站的 SEO 吗？    提交人    /u/vemy1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqp98n/cheapest_solution_to_archiving_my_blog_with_media/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>鞋带点击事件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqp7ef/shoelace_click_event/</link>
-      <description><![CDATA[根据文档，应使用自定义事件来避免冲突，例如 sl-click 或 sl-change，并在事件部分中说明检查每个单独的控件是否支持其支持的事件。 按钮、图标按钮、面包屑项目，仅举三个，没有将任何类型的点击列为事件，那么到底该如何与这些控件交互？文档说我可以将点击作为一种方法发送到控件，但这根本没有用。。 __________ 将其留在此处以防有人提出类似的问题：您可以使用常规的 DOM 事件，如“点击”，它甚至可以与 jQuery 一起使用。  document.querySelector(&quot;#myButton&quot;).addEventListener(&quot;click&quot;, (evt)=&gt;{ // 执行操作 }); 或 $(&quot;#myButton&quot;).on(&quot;click&quot;, (evt)=&gt;{ // 执行更多操作 }); 我猜只有在发生冲突时才需要自定义事件？    提交人    /u/mapsedge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqp7ef/shoelace_click_event/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>TL;DR：我使用 Next.js 和 AWS Amplify 建立了一个博客！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqp4km/tldr_i_built_a_blog_with_nextjs_and_aws_amplify/</link>
-      <description><![CDATA[  由    /u/NicTacks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqp4km/tldr_i_built_a_blog_with_nextjs_and_aws_amplify/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免使用 Woocomerce 而只使用 Shopify 是明智之举吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqor5w/smart_to_avoid_woocomerce_and_only_use_shopify/</link>
-      <description><![CDATA[我遇到了几个想要使用 Woocomerce 的潜在客户。但是，我讨厌使用 Wordpress，而且从我读到的所有内容来看，Woocomerce 仅在 90% 的时间内有效，并且会带来很多麻烦，并且要构建一些像样且实用的东西需要更多的劳动力。  shopify 与 woocomerce 相比有多受欢迎？ 如果说我只做 Shopify 和 Webflow（如果他们坚持的话还有 Wordpress），我觉得我会失去生意。但是，我没有足够的带宽或精力来提供 Shopify、Webflow、Wordpress 和 Woocomerce。如果我提供 Woocomerce，我最终会外包开发，这感觉很可疑，因为我听说过坏人使用恶意代码，而且最重要的是 Woocomerce 处理起来要复杂得多，而且故障率也高得多。 您的想法是什么？从业务角度来看，shopify 是否值得关注，而不是 woocomerce？    提交人    /u/greengeckobiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqor5w/smart_to_avoid_woocomerce_and_only_use_shopify/</guid>
-      <pubDate>Fri, 28 Jun 2024 17:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 正在删除不活跃且无法访问的推送订阅（FCM 的 404 错误增加）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqnysh/google_is_removing_the_inactive_and_unreachable/</link>
-      <description><![CDATA[  由    /u/collimarco  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqnysh/google_is_removing_the_inactive_and_unreachable/</guid>
-      <pubDate>Fri, 28 Jun 2024 16:35:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
