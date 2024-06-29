@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 29 Jun 2024 00:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 03:11:17 GMT</lastBuildDate>
+    <item>
+      <title>HTTP 重定向将 #_=_ 添加到 URL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dr1fes/http_redirect_adds_to_url/</link>
+      <description><![CDATA[      嗨，我不确定这里是不是发布此内容的正确地方，但我想我应该从这里开始。我目前正在尝试使用 Spotify API 编写一个非常基本的授权代码流程，如此处所述。我在端口 2000 上运行了一个 golang 中的 http 服务器。到目前为止，我能够将浏览器重定向到浏览器，以便他们可以登录。我在名为 auth 的 http 处理程序函数中执行此操作 func auth(c *gin.Context) {endpoint := &quot;https://accounts.spotify.com/authorize?response_type=code&amp;client_id=fake_client_id&amp;scope=user-read-private&amp;redirect_uri=http://localhost:2000/accesstoken&quot; c.Redirect(http.StatusMovedPermanently, end) }  如您所见，我提供的 redirect_uri 为 http://localhost:2000/accesstoken ，其定义非常简单，如下所示 func accessToken(c *gin.Context) { c.Redirect(http.StatusFound, &quot;http://localhost:8080/homepage&quot;) }  尽管尝试将用户重定向到 http://localhost:8080/homepage ，但它路由到 http://localhost:8080/homepage#_=_ 奇怪的是，浏览器网络选项卡显示重定向确实如预期的那样简单  https://preview.redd.it/0w76mo3hef9d1.png?width=1008&amp;format=png&amp;auto=webp&amp;s=9660f25d4eef9102078c63ca8121d17ac7c1a65e 我的问题是为什么重定向 URL 中添加了 #_=_ 字符？可以在浏览器中看到     提交人    /u/Cadnerak   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dr1fes/http_redirect_adds_to_url/</guid>
+      <pubDate>Sat, 29 Jun 2024 02:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress 性能技巧？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dr18se/wordpress_performance_tips/</link>
+      <description><![CDATA[对于为客户构建的 Wordpress/Woo，我通常结合使用 memcached 进行对象缓存 + WP Rocket 之类的工具进行页面和客户端缓存。 您使用哪些工具或策略来获得最佳性能。有些性能插件的价格也很高。因此成本也是一个考虑因素。 假设您的服务器规格相当低（双核、3ghz、8GB 内存）。并且您的流量不是很高。    提交人    /u/eltoniq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dr18se/wordpress_performance_tips/</guid>
+      <pubDate>Sat, 29 Jun 2024 02:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会给初级 Web 开发人员提供什么有效的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dr049v/whats_a_effective_advice_you_would_give_to_a/</link>
+      <description><![CDATA[对初学者开发者的任何好建议。    由   提交  /u/nameisxname   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dr049v/whats_a_effective_advice_you_would_give_to_a/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:48:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为 Laravel 做出贡献：分步指南 - msamgan.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqzoux/how_to_contribute_to_laravel_a_stepbystep_guide/</link>
+      <description><![CDATA[每个 laravel 开发人员都希望为 laravel 做出贡献，但很难找到如何做到这一点的起点。从哪里开始，怎么做，做什么，所有这些问题以及在互联网上搜索都不会有太大帮助。有很多关于如何使用 laravel 的文章，但几乎没有关于如何为这个主框架做出贡献的详细信息。 在本文中，我们将尝试找出其中一些问题的答案。 https://msamgan.com/how-to-contribute-to-laravel-a-step-by-step-guide    提交人    /u/samgan-khan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqzoux/how_to_contribute_to_laravel_a_stepbystep_guide/</guid>
+      <pubDate>Sat, 29 Jun 2024 01:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳开源 PWA 项目 ChatPlus 是一款功能齐全、感觉像移动应用程序的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqz0se/best_open_source_pwa_project_chatplus_a_web_app/</link>
+      <description><![CDATA[      ChatPlus 是一款出色的聊天 PWA 💬✨🤩 ChatPlus 是一款使用 React 开发的渐进式 Web 应用程序， NodeJS、Firebase 和其他服务。 您可以与所有朋友实时交谈🗣️✨🧑‍🤝‍🧑❤️ 您可以打电话给您的朋友并与他们进行视频和音频通话🎥🔉🤩 向您的朋友发送图像和音频消息，并且您有一个将您的语音转换为文本的人工智能，无论您说法语、英语还是西班牙语🤖✨ 该网络应用程序可以安装在任何设备上并可以接收通知⬇️🔔🎉 查看完整项目以及安装说明和丰富的文档以开始使用https://github.com/aladinyo/ChatPlus 非常感谢您的支持，给我们留一颗星，让全世界都知道这个杰作并与您的朋友分享⭐✨    由   提交  /u/Aladinyo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqz0se/best_open_source_pwa_project_chatplus_a_web_app/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资组合反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dqyx2j/feedback_on_portfolio/</link>
+      <description><![CDATA[嗨，我正在寻找有关我的作品集的反馈，以及一些关于寻找自由职业工作的提示    由    /u/SidharthArya- 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dqyx2j/feedback_on_portfolio/</guid>
+      <pubDate>Sat, 29 Jun 2024 00:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>为实现多用户登录目的在多个 JWT cookie 之间切换</title>
       <link>https://www.reddit.com/r/webdev/comments/1dqybdn/switch_between_multiple_jwt_cookies_for_multiuser/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[在此应用中，您可以创建任务、团队并添加好友。这是我的第一个相对较大的项目，也是我的第一个使用 React 和后端的应用。我对 Webdev 还很陌生，因此如果能对我的代码提出任何提示和批评，我将不胜感激！  https://github.com/denis557/Scrumboard    提交人    /u/kankakan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dqujst/scrumboard_to_write_down_your_and_your_teams_tasks/</guid>
       <pubDate>Fri, 28 Jun 2024 21:18:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于简单 API 的托管无头 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqsmwn/hosted_headless_cms_used_for_simple_apis/</link>
-      <description><![CDATA[我知道流行的无头 CMS，例如 Contentful 和 Sanity.io。但是，我正在寻找一种更简单的产品，它能够简单地创建带有字段的内容类型，然后通过 API 公开这些数据。我希望它在线托管（而不是自托管）。 有人知道任何提供这种简单功能的产品吗？    提交人    /u/stevenwando   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqsmwn/hosted_headless_cms_used_for_simple_apis/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们的设计师了解多少 CSS 布局？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqseec/how_much_css_layout_do_your_designers_know/</link>
-      <description><![CDATA[当你得到设计时，有多少只是一堆矩形，这些矩形是由你的设计师拖放到位的，而他不知道实际的布局应该如何工作？ 这一直是我非常讨厌的事情。特别是在构建响应式布局时。90% 的良好设计只是确定一个好的（和简单的）布局，但我很少听到设计师说类似这样的话，“这些元素应该放在间距均匀的弹性框中”  我是不是疯了，竟然认为设计师应该至少知道一点 CSS？拥有相同语言的共享知识将有助于交流想法。    提交人    /u/Pale_Tea2673   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqseec/how_much_css_layout_do_your_designers_know/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 squarespxe 进行网页设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqrvq9/web_design_using_squarespxe/</link>
-      <description><![CDATA[大家好， 我是一名自由网页设计师，洛杉矶一家美发沙龙联系我，希望我使用 Squarespace 为他们设计一个网站。我想确保我收取的费用合理，能够反映所涉及的工作。以下是更多背景信息： • 范围：该网站将有大约 5-7 页，包括主页、关于页面、服务、图库和联系页面。• 功能：他们希望包含预订系统、集成社交媒体并进行基本的 SEO 设置。• 设计：他们正在寻找一种能够反映其品牌的定制设计，但不要过于复杂。• 内容：我将负责一些内容创作，包括撰写文案和寻找图片。• 培训和支持：我还将提供一些关于如何管理网站的初步培训，并提供一个月的发布后支持。 根据这些信息，您建议为该项目收取多少费用？我正在寻找一个公平定价范围的建议，同时考虑到我的时间和行业标准。 提前感谢您的见解    提交人    /u/FulNuns   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqrvq9/web_design_using_squarespxe/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和朋友一起做了一个项目/游戏，叫做 Ranker。希望得到一些反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqrnp6/i_made_a_projectgame_with_a_friend_called_ranker/</link>
-      <description><![CDATA[Ranker.fun 查看其工作原理：https://www.youtube.com/watch?v=yJUpeUq-guo 这是一个匿名社交平台，用户可以在可自定义的问题和选择上分享自己的排名。您可以在此处查看 GitHub 上的项目。 我们很乐意收到您的反馈和建议！    提交人    /u/arnav080   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqrnp6/i_made_a_projectgame_with_a_friend_called_ranker/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 GSAP 动画重置了我的 CSS SVG 动画，救命！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqrnlu/my_gsap_animation_resets_my_css_svg_animation_help/</link>
-      <description><![CDATA[      我有一个使用 css 动画制作的 SVG 动画，但我使用 GSAP 时间线将其从屏幕上删除，因此它充当预加载器。但最后当预加载器启动时，GSAP 重置了我的动画，这是我不想要的。我该如何阻止它这样做？ https://i.redd.it/lzixyka84d9d1.gif 这是供大家查看的代码： HTML： &lt;div id=&quot;splash&quot;&gt; &lt;div class=&quot;splash-loader&quot;&gt; &lt;svg id=&quot;splash-logo&quot; width=&quot;381&quot; height=&quot;151&quot; viewBox=&quot;0 0 381 151&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt; &lt;路径 d=&quot;M190.033 146V148.5H192.533H223.893H226.393V146V49.7313L266.081 76.1899V146V148.5H268.581H299.94H302.44V146V76.1867L341.932 49.7427V146V148.5H344.432H375.793H378.293V146V5.85999V3.35999H375.793H349.529H348.74L348.094 3.81278L284.163 48.6225L220.231 3.81278L219.585 3.35999H218.797H192.533H190.033V5.85999V146Z&quot;stroke=&quot;white&quot;stroke-width=&quot;5&quot;/&gt; &lt;路径 d=&quot;M3.22 146V148.5H5.72H37.08H39.58V146V96.952H100.322L129.587 147.257L130.31 148.5H131.748H167.42H171.895L169.549 144.689L139.09 95.2166C148.729 92.9619 156.457 88.4318 162.103 81.5311C168.462 73.7587 171.488 63.1981 171.488 50.156C171.488 34.8253 167.311 22.9325 158.519 14.987C149.949 7.12436 138.032 3.35999 123.124 3.35999H5.72H3.22V5.85999V146ZM130.843 62.8171L130.823 62.835L130.804 62.8534C128.418 65.1359 124.756 66.4715 119.403 66.472C119.402 66.472 119.401 66.472 119.4 66.472L39.58 66.2819V33.84H119.4C124.755 33.84 128.417 35.1757 130.804 37.4586L130.844 37.4969L130.886 37.5334C133.209 39.5659 134.736 43.4903 134.736 50.156C134.736 56.6584 133.223 60.6352 130.843 62.8171Z&quot; 描边=&quot;白色&quot; stroke-width=&quot;5&quot;/&gt; &lt;/svg&gt; &lt;/div&gt; &lt;/div&gt;  CSS: #splash { top: 0; left: 0; z-index: 9; width: 100%; height: 100%; position: fixed; background: #000000; } .splash-loader { top: 50%; left: 50%; z-index: 9; position: fixed; overflow: hidden; transform: Translation(-50%, -50%); } #splash-logo { width: 10rem; height: 5.5rem; display: block; stroke-width: 3; animation: 6s logo-stroke forwards; } @keyframes logo-stroke { 0% { fill: transparent; stroke: #ffffff; stroke-width: 3; stroke-dashoffset: 25%; stroke-dasharray: 0 32%; } 50% { fill: transparent; stroke: #ffffff; stroke-width: 3; } 80%{ fill: transparent; stroke: #ffffff; stroke-width: 3; stroke-dashoffset: -25%; stroke-dasharray: 32% 0; } 100%{ fill: #ffffff; stroke: transparent; stroke-width: 3; } }  以及 JS（内联 JS，因此使用 CDN 导入）： // splash timeline const splash = document.querySelector(&#39;#splash&#39;) const splash_logo = document.querySelector(&#39;#splash-logo&#39;) // Master Timeline const master_timeline = gsap.timeline(); const setSplashStates = () =&gt; { gsap.set(splash_logo, { yPercent: 0 }); } const splashAnimation = () =&gt; { const splash_timeline = gsap.timeline({ defaults: { ease: &#39;power2.inOut&#39;, } }); splash_timeline.to(splash_logo, { yPercent: -100, delay: 6 }) .to(splash, { yPercent: -100, duration: 1.5, ease: &#39;power4.inOut&#39; }, &#39;&lt;&#39;) return splash_timeline }     提交人    /u/theSuperlonely   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqrnlu/my_gsap_animation_resets_my_css_svg_animation_help/</guid>
-      <pubDate>Fri, 28 Jun 2024 19:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家觉得我的投资组合想法怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dqrcp6/what_do_yall_think_about_my_porfolio_idea/</link>
-      <description><![CDATA[https://imgur.com/a/oPewMoy 我正在考虑在自动售货机内制作浮动物体和不同的物品（代表我的一个项目），可以选择这些物品，单击后将显示信息。悬停时，这些物体将开始悬浮并略微旋转，您可以围绕自动售货机旋转相机。它还将包含可链接到其他事物的海报和按钮。我认为这是一个好主意，但我想听听其他意见！谢谢！    提交人    /u/maubg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dqrcp6/what_do_yall_think_about_my_porfolio_idea/</guid>
-      <pubDate>Fri, 28 Jun 2024 18:59:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
