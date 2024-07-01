@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Sun, 30 Jun 2024 18:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 00:45:46 GMT</lastBuildDate>
     <item>
-      <title>Cpp指南</title>
-      <link>https://www.opensourceagenda.com/projects/cppguidebook</link>
-      <description><![CDATA[小彭老师领衔编写，现代C++的中文百科全书]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cppguidebook</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:22 GMT</pubDate>
+      <title>Mi Fit 和 Zepp 健身出口商</title>
+      <link>https://www.opensourceagenda.com/projects/mi-fit-and-zepp-workout-exporter</link>
+      <description><![CDATA[一个 Python 脚本，允许用户从 Mi Fit 和 Zepp 应用程序导出锻炼数据。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/mi-fit-and-zepp-workout-exporter</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>图片工具箱</title>
-      <link>https://www.opensourceagenda.com/projects/img-toolbox</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/img-toolbox</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:22 GMT</pubDate>
+      <title>Iamstuartwilson Strava</title>
+      <link>https://www.opensourceagenda.com/projects/iamstuartwilson-strava</link>
+      <description><![CDATA[Strava API (v3) 的 PHP 类 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/iamstuartwilson-strava</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:46 GMT</pubDate>
     </item>
     <item>
-      <title>Biisal 过滤机器人</title>
-      <link>https://www.opensourceagenda.com/projects/biisal-filter-bot</link>
-      <description><![CDATA[使用 Pyrofork 制作的高级自动过滤机器人]]></description>
-      <guid>https://www.opensourceagenda.com/projects/biisal-filter-bot</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:21 GMT</pubDate>
+      <title>练习.json</title>
+      <link>https://www.opensourceagenda.com/projects/exercisesjson</link>
+      <description><![CDATA[JSON 格式的开放公共领域练习数据集]]></description>
+      <guid>https://www.opensourceagenda.com/projects/exercisesjson</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>GATE CSE 笔记</title>
-      <link>https://www.opensourceagenda.com/projects/gate-cse-notes</link>
-      <description><![CDATA[我在 2018 年至 2021 年的门考试准备期间为 GATE CSE 科目所做的简短笔记。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gate-cse-notes</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:21 GMT</pubDate>
+      <title>开放营养追踪器</title>
+      <link>https://www.opensourceagenda.com/projects/opennutritracker</link>
+      <description><![CDATA[🍴 OpenNutriTracker 是一款免费的开源卡路里追踪器，注重简洁性和隐私性。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/opennutritracker</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>遗憾之事</title>
-      <link>https://www.opensourceagenda.com/projects/the-pesar-htte</link>
-      <description><![CDATA[从头开始创建 http 服务器]]></description>
-      <guid>https://www.opensourceagenda.com/projects/the-pesar-htte</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:21 GMT</pubDate>
+      <title>React Native 健康连接</title>
+      <link>https://www.opensourceagenda.com/projects/react-native-health-connect</link>
+      <description><![CDATA[用于健康连接的 React 原生库（仅限 Android）]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-native-health-connect</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>详细 Tts</title>
-      <link>https://www.opensourceagenda.com/projects/detail-tts</link>
-      <description><![CDATA[所有生成模型合而为一，打造更好的 TTS 模型]]></description>
-      <guid>https://www.opensourceagenda.com/projects/detail-tts</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:20 GMT</pubDate>
+      <title>蒂姆弗雷德里希 OutRun</title>
+      <link>https://www.opensourceagenda.com/projects/timfraedrich-outrun</link>
+      <description><![CDATA[OutRun 是一款开源、注重隐私的户外健身追踪器。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/timfraedrich-outrun</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>Rutracker Hydra 链接</title>
-      <link>https://www.opensourceagenda.com/projects/rutracker-hydra-links</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rutracker-hydra-links</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:20 GMT</pubDate>
+      <title>自由演习数据库</title>
+      <link>https://www.opensourceagenda.com/projects/free-exercise-db</link>
+      <description><![CDATA[以 JSON 格式开放公共领域练习数据集，超过 800 个练习，带有可浏览的公共可搜索前端]]></description>
+      <guid>https://www.opensourceagenda.com/projects/free-exercise-db</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>马格尔</title>
-      <link>https://www.opensourceagenda.com/projects/mapgl</link>
-      <description><![CDATA[R 接口到 Mapbox GL JS v3 和 Maplibre GL JS]]></description>
-      <guid>https://www.opensourceagenda.com/projects/mapgl</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:19 GMT</pubDate>
+      <title>体操图标</title>
+      <link>https://www.opensourceagenda.com/projects/gymnasticon</link>
+      <description><![CDATA[使过时和/或专有的健身车能够与 Zwift、TrainerRoad、Rouvy 等流行的自行车训练应用程序配合使用。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/gymnasticon</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>工作 5</title>
-      <link>https://www.opensourceagenda.com/projects/work-5</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/work-5</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:19 GMT</pubDate>
+      <title>防火墙节点</title>
+      <link>https://www.opensourceagenda.com/projects/firewall-node</link>
+      <description><![CDATA[🛡️ Aikido 防火墙使用一行代码保护您的 Node.js 应用程序免受攻击]]></description>
+      <guid>https://www.opensourceagenda.com/projects/firewall-node</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>Aniyomi 扩展</title>
-      <link>https://www.opensourceagenda.com/projects/aniyomi-extensions</link>
-      <description><![CDATA[扩展源]]></description>
-      <guid>https://www.opensourceagenda.com/projects/aniyomi-extensions</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:19 GMT</pubDate>
+      <title>塔皮里克</title>
+      <link>https://www.opensourceagenda.com/projects/tapiriik</link>
+      <description><![CDATA[tapiriik 让您的健身保持同步]]></description>
+      <guid>https://www.opensourceagenda.com/projects/tapiriik</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>匿名GT</title>
-      <link>https://www.opensourceagenda.com/projects/anongt</link>
-      <description><![CDATA[通过 Tor 网络重定向 Kali Linux 的所有流量]]></description>
-      <guid>https://www.opensourceagenda.com/projects/anongt</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:18 GMT</pubDate>
+      <title>React Native 健康</title>
+      <link>https://www.opensourceagenda.com/projects/react-native-health</link>
+      <description><![CDATA[一个与 Apple HealthKit 交互的 React Native 包]]></description>
+      <guid>https://www.opensourceagenda.com/projects/react-native-health</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:43 GMT</pubDate>
     </item>
     <item>
-      <title>Cs6101</title>
-      <link>https://www.opensourceagenda.com/projects/cs6101</link>
-      <description><![CDATA[新加坡国立大学 Web IR / NLP 小组 (WING) 的公开阅读小组。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cs6101</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:18 GMT</pubDate>
+      <title>Nosql MongoDB 注入用户名密码枚举</title>
+      <link>https://www.opensourceagenda.com/projects/nosql-mongodb-injection-username-password-enumeration</link>
+      <description><![CDATA[使用此脚本，您可以枚举 Nosql（mongodb）注入易受攻击的 Web 应用程序的用户名和密码。 ]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nosql-mongodb-injection-username-password-enumeration</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>计算机编程艺术聚会</title>
-      <link>https://www.opensourceagenda.com/projects/theartofcomputerprogramming-meetup</link>
-      <description><![CDATA[TAOCP - 计算机编程艺术阅读小组聚会时间表和会议记录]]></description>
-      <guid>https://www.opensourceagenda.com/projects/theartofcomputerprogramming-meetup</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:18 GMT</pubDate>
+      <title>自动化指南</title>
+      <link>https://www.opensourceagenda.com/projects/automationguide</link>
+      <description><![CDATA[了解如何自动化 XSS、SSRF、LFI、SQLI、NoSQLi]]></description>
+      <guid>https://www.opensourceagenda.com/projects/automationguide</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>TheSamCoder DEX 三角套利机器人 V4</title>
-      <link>https://www.opensourceagenda.com/projects/thesamcoder-dex-triangular-arbitrage-bot-v4</link>
-      <description><![CDATA[使用我们的 JavaScript 机器人在 DEX 上执行三角套利，增加您的收入。开源且经过验证，开始更智能地交易。]]></description>
-      <guid>https://www.opensourceagenda.com/projects/thesamcoder-dex-triangular-arbitrage-bot-v4</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:18 GMT</pubDate>
+      <title>Eversinc33 木瓜</title>
+      <link>https://www.opensourceagenda.com/projects/eversinc33-papaya</link>
+      <description><![CDATA[NoSQL 注入工具可绕过登录表单并使用正则表达式提取用户名/密码。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/eversinc33-papaya</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>Rbac 工具</title>
-      <link>https://www.opensourceagenda.com/projects/rbac-tool</link>
-      <description><![CDATA[Rapid7 | insightCloudSec | Kubernetes RBAC Power Toys - 可视化、分析、生成和查询]]></description>
-      <guid>https://www.opensourceagenda.com/projects/rbac-tool</guid>
-      <pubDate>Sun, 30 Jun 2024 18:12:17 GMT</pubDate>
+      <title>Nosql</title>
+      <link>https://www.opensourceagenda.com/projects/nosqli</link>
+      <description><![CDATA[NoSql Injection CLI 工具，用于使用 MongoDB 查找易受攻击的网站。]]></description>
+      <guid>https://www.opensourceagenda.com/projects/nosqli</guid>
+      <pubDate>Mon, 01 Jul 2024 00:45:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
