@@ -4,7 +4,14 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Tue, 02 Jul 2024 06:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 09:11:05 GMT</lastBuildDate>
+    <item>
+      <title>人工智能可以预测猴子如何玩吃豆人</title>
+      <link>https://www.newscientist.com/article/2437617-ai-can-predict-how-monkeys-play-pac-man/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[人工智能模型学会了预测猴子在玩吃豆人时做出的选择及其眼球运动，这暗示机器智能可以像哺乳动物一样“思考”]]></description>
+      <guid>https://www.newscientist.com/article/2437617-ai-can-predict-how-monkeys-play-pac-man/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Tue, 02 Jul 2024 08:00:39 GMT</pubDate>
+    </item>
     <item>
       <title>奇异晶体结构中发现极其复杂的迷宫</title>
       <link>https://www.newscientist.com/article/2437585-incredibly-complex-mazes-discovered-in-structure-of-bizarre-crystals/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -22,7 +29,7 @@
     <item>
       <title>古代文物表明澳大利亚的仪式已延续 12,000 年</title>
       <link>https://www.newscientist.com/article/2437808-ancient-artefacts-suggest-australian-ritual-endured-for-12000-years/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[在澳大利亚的一个洞穴中发现的木棍似乎与 19 世纪人类学家的描述相符，这表明古奈库奈人在上一个冰河时期末期也举行过同样的仪式]]></description>
+      <description><![CDATA[在澳大利亚一个洞穴中发现的木棍似乎与 19 世纪人类学家的描述相符，这表明古奈库奈人在上一个冰河时期末期也举行过同样的仪式]]></description>
       <guid>https://www.newscientist.com/article/2437808-ancient-artefacts-suggest-australian-ritual-endured-for-12000-years/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Mon, 01 Jul 2024 16:00:43 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>月球上的时间比地球上的时间快 57 微秒</title>
       <link>https://www.newscientist.com/article/2437577-time-ticks-faster-on-the-moon-by-57-microseconds-per-earth-day/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[随着月球探索的不断深入，NASA 的任务是确定月球的时区。新的计算表明，月球表面的时间稍快一些，这可能会影响导航]]></description>
+      <description><![CDATA[随着月球探索的不断深入，NASA 的任务是确定月球的时区。新的计算表明，月球表面的时间比实际时间稍快，这可能会影响导航]]></description>
       <guid>https://www.newscientist.com/article/2437577-time-ticks-faster-on-the-moon-by-57-microseconds-per-earth-day/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Fri, 28 Jun 2024 19:00:59 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[一百年前，埃德温·哈勃宣布我们的星系并非唯一的星系，我们仍然对宇宙的规模和结构感到敬畏——仍有许多谜团有待解决]]></description>
       <guid>https://www.newscientist.com/article/mg26234973-300-what-100-years-of-studying-other-galaxies-has-told-us-about-the-cosmos/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Wed, 26 Jun 2024 18:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“桥式编辑”在改变 DNA 方面可能比 CRISPR 更好</title>
-      <link>https://www.newscientist.com/article/2437237-bridge-editing-could-be-even-better-at-altering-dna-than-crispr/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[CRISPR 基因编辑技术彻底改变了生物学，但现在一种更强大的系统——桥式编辑，可以让我们彻底重塑基因组]]></description>
-      <guid>https://www.newscientist.com/article/2437237-bridge-editing-could-be-even-better-at-altering-dna-than-crispr/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Wed, 26 Jun 2024 16:00:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

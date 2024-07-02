@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 02 Jul 2024 06:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 09:09:49 GMT</lastBuildDate>
+    <item>
+      <title>从 Microsoft Project 切换到 Hive</title>
+      <link>https://www.reddit.com/r/software/comments/1dtg9y8/switching_from_microsoft_project_to_hive/</link>
+      <description><![CDATA[本周，我们放弃了 Microsoft Project 中无休止的点击，转而使用热闹的 Hive。别误会，Project 有其优势——内置的报告功能是让利益相关者随时了解情况的救星。但僵化的结构感觉像是一场持续不断的战斗，与团队合作是一个笨拙的过程。 Hive 的视觉吸引力和灵活性令人耳目一新。对于我们团队的动态工作流程来说，在看板和任务列表之间切换感觉更加直观。此外，内置聊天和文件共享等实时协作功能也是一大优势。 在我们完全投入使用 Hive 之前，我很想听听任何已完成转换的项目管理勇士的意见：  Hive 能否像 Microsoft Project 一样处理具有复杂依赖关系的复杂项目？ 与 Project 现有的界面相比，您的团队的过渡是否容易？ Hive 与其他工具之间是否有任何集成可以提高您团队的工作效率？     提交人    /u/warnullD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dtg9y8/switching_from_microsoft_project_to_hive/</guid>
+      <pubDate>Tue, 02 Jul 2024 07:49:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>flipkart api</title>
+      <link>https://www.reddit.com/r/software/comments/1dtf90y/flipkart_api/</link>
+      <description><![CDATA[我想构建一个 flipkart 克隆，是否有 flipkart api 可以从 flipkart 获取产品数据并放入我的应用程序中？    提交人    /u/Unique-Ad-8879   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dtf90y/flipkart_api/</guid>
+      <pubDate>Tue, 02 Jul 2024 06:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Nero AI 有何看法？</title>
+      <link>https://www.reddit.com/r/software/comments/1dtewjc/what_is_your_opinion_about_nero_ai/</link>
+      <description><![CDATA[他们以他们的超级明星产品 Nero Burning ROM 而闻名，我爷爷当时用过。  现在，他们涉足人工智能，称为 Nero AI，因为许多公司都涉足人工智能。你尝试过他们的人工智能产品吗，你认为你会购买他们的新产品吗？  Nero AI 为什么一些生产创意人工智能产品的非常传统的公司仍然难以跟上时代的步伐？我不会说 Adob​​e。有些部分很好，但我还是更喜欢 Canva 和 Capcut。     提交人    /u/mialululu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1dtewjc/what_is_your_opinion_about_nero_ai/</guid>
+      <pubDate>Tue, 02 Jul 2024 06:14:43 GMT</pubDate>
+    </item>
     <item>
       <title>是否有用于计算机音频的实时音频翻译器（Windows）</title>
       <link>https://www.reddit.com/r/software/comments/1dtdx9h/is_there_any_real_time_audio_translators_for/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我使用 Edge 和 Arc 作为笔记本电脑上查看 PDF 的主要浏览器。但我注意到一个非常非常奇怪的事情，这些浏览器上的 PDF 滚动非常滞后和缓慢。我尝试加载各种不同的 PDF 文件，结果都一样 - chrome、arc、edge、brave......除了 Firefox，它的滚动速度非常快。但奇怪的是，在每个浏览器中，当我将浏览器窗口移动到连接的显示器时，滚动都会恢复正常！但在笔记本电脑屏幕上，它会滞后。我的笔记本电脑有一个 90Hz 的屏幕，在其他所有任务中运行完全正常且流畅。令人惊讶的是，在早期版本的 Edge 上滚动曾经很流畅。可能是什么问题？    提交人    /u/Illogicaleinstein   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1dsyr7w/pdf_scroll_lag_in_browsers/</guid>
       <pubDate>Mon, 01 Jul 2024 17:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找桌面视频到 gif 转换器</title>
-      <link>https://www.reddit.com/r/software/comments/1dsyr0f/looking_for_desktop_video_to_gif_converter/</link>
-      <description><![CDATA[我目前正在使用 photoshop 将视频转换为 gif，但导出过程很慢，当我每天需要 10 个视频时，等待时间就会增加。我需要软件能够剪辑/裁剪/调整 1 分钟的视频到大约 10 秒并导出为 gif，并可以选择降低帧速率、颜色等。所以基本上我用 photoshop 做的，但速度更快。免费或付费版本。谢谢！     提交人    /u/Spirited-Bed-2220   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dsyr0f/looking_for_desktop_video_to_gif_converter/</guid>
-      <pubDate>Mon, 01 Jul 2024 17:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 beta 测试人员来尝试新的“go on rails”框架</title>
-      <link>https://www.reddit.com/r/software/comments/1dsy5q3/looking_for_beta_testers_to_try_new_go_on_rails/</link>
-      <description><![CDATA[https://andrewarrow.dev/frame/faq    由   提交  /u/andrewfromx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dsy5q3/looking_for_beta_testers_to_try_new_go_on_rails/</guid>
-      <pubDate>Mon, 01 Jul 2024 17:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线管理企业营业时间的应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1dsxzks/app_to_manage_businesss_operating_hours_online/</link>
-      <description><![CDATA[您好，第一次来这个子版块，如有错误请多包涵。 无论如何，有谁知道有什么程序可以让我同时管理我所在组织的所有在线信息？ 我在博物馆工作，我们经常在国定假日关闭。有没有一个应用程序可以让我一次性添加“特殊营业时间”，而不是访问 tripadvisor、yelp、apple 和 google 地图等，并在每逢节假日单独更改这些平台上的营业时间？ 提前谢谢您的帮助！    提交人    /u/kmclain45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1dsxzks/app_to_manage_businesss_operating_hours_online/</guid>
-      <pubDate>Mon, 01 Jul 2024 16:56:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
