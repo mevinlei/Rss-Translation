@@ -4,111 +4,111 @@
     <title>最近添加的项目 - 开源议程</title>
     <link>https://www.opensourceagenda.com/feeds/projects</link>
     <description>最近添加的开源项目提要</description>
-    <lastBuildDate>Tue, 02 Jul 2024 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:39:35 GMT</lastBuildDate>
     <item>
-      <title>CVE 2023 24871</title>
-      <link>https://www.opensourceagenda.com/projects/cve-2023-24871</link>
-      <description><![CDATA[CVE-2023-24871 (rce + lpe) 的 pocs 和漏洞利用]]></description>
-      <guid>https://www.opensourceagenda.com/projects/cve-2023-24871</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gm 快克</title>
-      <link>https://www.opensourceagenda.com/projects/gm-quic</link>
-      <description><![CDATA[ 使用异步 Rust 原生实现的 IETF quic 传输协议]]></description>
-      <guid>https://www.opensourceagenda.com/projects/gm-quic</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jalali 插件 Daysjs</title>
-      <link>https://www.opensourceagenda.com/projects/jalali-plugin-dayjs</link>
-      <description><![CDATA[dayjs 的 Jalali 插件 ]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jalali-plugin-dayjs</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>ComfyUI OpenDiTWrapper</title>
-      <link>https://www.opensourceagenda.com/projects/comfyui-openditwrapper</link>
+      <title>Zzy0202 蓝宝石插件</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-sapphire-plugin</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/comfyui-openditwrapper</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:58 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-sapphire-plugin</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>乔乔加载器</title>
-      <link>https://www.opensourceagenda.com/projects/jojoloader</link>
-      <description><![CDATA[助力红队成员一键生成免杀木马，使用rust实现 | Help Redteam members generate Evasive Anti-virus software Trojan]]></description>
-      <guid>https://www.opensourceagenda.com/projects/jojoloader</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>假截图</title>
-      <link>https://www.opensourceagenda.com/projects/fake-screenshot</link>
+      <title>Zzy0202 Fl 工作室</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-fl-studio</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.opensourceagenda.com/projects/fake-screenshot</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:57 GMT</pubDate>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-fl-studio</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>很棒的 Areweyet</title>
-      <link>https://www.opensourceagenda.com/projects/awesome-areweyet</link>
-      <description><![CDATA[各种技术的当前采用状况]]></description>
-      <guid>https://www.opensourceagenda.com/projects/awesome-areweyet</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:57 GMT</pubDate>
+      <title>Zzy0202 万兴喵影</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-filmora</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-filmora</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>SchubiAuthV2</title>
-      <link>https://www.opensourceagenda.com/projects/schubiauthv2</link>
-      <description><![CDATA[Minecraft Forge mod 允许您使用会话 ID 登录其他人的 minecraft 帐户]]></description>
-      <guid>https://www.opensourceagenda.com/projects/schubiauthv2</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:56 GMT</pubDate>
+      <title>Zzy0202 测试</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-testing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-testing</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>看看 M</title>
-      <link>https://www.opensourceagenda.com/projects/look-m</link>
-      <description><![CDATA[“LOOK-M：KV 缓存中的 Look-Once 优化，实现高效的多模态长上下文推理”的官方实现]]></description>
-      <guid>https://www.opensourceagenda.com/projects/look-m</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:56 GMT</pubDate>
+      <title>Zzy0202 首映</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-premiere</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-premiere</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:34 GMT</pubDate>
     </item>
     <item>
-      <title>Trust Crypto Wallet Ai 自动交易</title>
-      <link>https://www.opensourceagenda.com/projects/trust-crypto-wallet-ai-autotrading</link>
-      <description><![CDATA[Trust Crypto Wallet ai-autotrading]]></description>
-      <guid>https://www.opensourceagenda.com/projects/trust-crypto-wallet-ai-autotrading</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:56 GMT</pubDate>
+      <title>杂技演员</title>
+      <link>https://www.opensourceagenda.com/projects/acrobat</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/acrobat</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>Ng1ok 链接器</title>
-      <link>https://www.opensourceagenda.com/projects/ng1ok-linker</link>
-      <description><![CDATA[自实现Linker的小Demo]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ng1ok-linker</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:55 GMT</pubDate>
+      <title>Zzy0202 Adob​​e Animate</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-adobe-animate</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-adobe-animate</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>Orangekame3 Mk</title>
-      <link>https://www.opensourceagenda.com/projects/orangekame3-mk</link>
-      <description><![CDATA[mk - Makefile 的交互式任务运行器（Taskfile.yml）]]></description>
-      <guid>https://www.opensourceagenda.com/projects/orangekame3-mk</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:54 GMT</pubDate>
+      <title>Zzy0202 Adob​​e Lightroom</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-adobe-lightroom</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-adobe-lightroom</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>Edge Crypto Wallet Ai 自动交易</title>
-      <link>https://www.opensourceagenda.com/projects/edge-crypto-wallet-ai-autotrading</link>
-      <description><![CDATA[Edge Crypto Wallet ai-autotrading]]></description>
-      <guid>https://www.opensourceagenda.com/projects/edge-crypto-wallet-ai-autotrading</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:53 GMT</pubDate>
+      <title>Zzy0202 Photoshop</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-photoshop</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-photoshop</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>加密财富矿工</title>
-      <link>https://www.opensourceagenda.com/projects/crypto-wealth-miner</link>
-      <description><![CDATA[加密财富矿工]]></description>
-      <guid>https://www.opensourceagenda.com/projects/crypto-wealth-miner</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:53 GMT</pubDate>
+      <title>Youtube 转换器 Mp3</title>
+      <link>https://www.opensourceagenda.com/projects/youtube-converter-mp3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/youtube-converter-mp3</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:32 GMT</pubDate>
     </item>
     <item>
-      <title>Ledger Nano X 加密钱包人工智能自动交易</title>
-      <link>https://www.opensourceagenda.com/projects/ledger-nano-x-crypto-wallet-ai-autotrading</link>
-      <description><![CDATA[Ledger Nano X 加密钱包 ai-autotrading]]></description>
-      <guid>https://www.opensourceagenda.com/projects/ledger-nano-x-crypto-wallet-ai-autotrading</guid>
-      <pubDate>Tue, 02 Jul 2024 12:16:52 GMT</pubDate>
+      <title>Seynation Adob​​e Illustrator</title>
+      <link>https://www.opensourceagenda.com/projects/seynation-adobe-illustrator</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/seynation-adobe-illustrator</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zzy0202 Adob​​e Illustrator</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-adobe-illustrator</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-adobe-illustrator</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zzy0202 Adob​​e Audition</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-adobe-audition</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-adobe-audition</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zzy0202 索尼维加斯</title>
+      <link>https://www.opensourceagenda.com/projects/zzy0202-sony-vegas</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/zzy0202-sony-vegas</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>前ItCrxck</title>
+      <link>https://www.opensourceagenda.com/projects/el-ex-itcrxck</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.opensourceagenda.com/projects/el-ex-itcrxck</guid>
+      <pubDate>Wed, 03 Jul 2024 00:39:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
