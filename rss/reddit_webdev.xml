@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 09:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:17:04 GMT</lastBuildDate>
+    <item>
+      <title>一个有趣的小应用程序，可以“以不同的方式拒绝恩惠”;) [doityourself]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ducml5/a_fun_little_app_to_decline_favours_with_a_twist/</link>
+      <description><![CDATA[刚刚创建了一个有趣的小应用程序，让人们知道只需..自己动手就可以了哈哈  https://doityourself.lol  这是一个创建拒绝恩惠的基本版本。我计划扩展并添加更多创建拒绝恩惠的功能，例如模因、gif、视频、图像、AI 生成的消息。 欢迎任何反馈！:)    提交人    /u/Lost_Support4211   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ducml5/a_fun_little_app_to_decline_favours_with_a_twist/</guid>
+      <pubDate>Wed, 03 Jul 2024 12:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 MEVN 堆栈 Web 开发转型到网络安全职业是一个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1duche7/is_transitioning_from_mevn_stack_web_development/</link>
+      <description><![CDATA[作为一名具备 MEVN 堆栈（MongoDB、Express、Vue.js、Node.js）技能的 Web 开发人员，我正在考虑转行成为一名网络安全工程师。我对职业发展潜力很感兴趣，但我想知道我目前的技能组合是否能很好地转化为这个职业。我有一些关键问题：  Web 开发和网络安全角色所需的技术技能有哪些主要区别？ 就所需的额外培训和认证而言，实现这一职业转型有多困难？ 网络安全领域是否有好的自由职业和咨询机会可以补充我现有的 Web 开发经验？ 我所在的欧洲比利时的网络安全专业人员的就业前景如何？     提交人    /u/Suspicious-Ad-5312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1duche7/is_transitioning_from_mevn_stack_web_development/</guid>
+      <pubDate>Wed, 03 Jul 2024 11:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用图表来跟踪和调试错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1duc371/using_a_graph_for_tracking_and_debugging_bugs/</link>
+      <description><![CDATA[您好，最近我的工作中遇到了许多影响我们许多客户的 Keycloak 问题。这些问题非常隐秘，难以调试，似乎每当我们修复一个问题时，就会出现两个问题，而且我们并不总是清楚这是我们这边的错误还是客户如何配置他们那边以建立连接。  我正在考虑（并尝试在 Google 上搜索）一种使用图表（节点和边）来记录我们遇到的所有案例的方法，这样更容易创建相关/不相关问题的树。我们没有写下我们的发现，我感觉我们遇到了几次同样的问题，但我们重新开始调试过程，而不是查看我们是否已经遇到过类似问题，以便我们立即得到解决方案。  有这样的事情吗？一种参考图，用于写下症状，添加新症状并尝试将它们连接起来，并根据症状将问题链接到可能的解决方案。我想我只会使用任何在线的通用图表工具，但我想知道这种方法是否已经被使用过，是否有用，以及示例。 谢谢！    提交人    /u/Stranglet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1duc371/using_a_graph_for_tracking_and_debugging_bugs/</guid>
+      <pubDate>Wed, 03 Jul 2024 11:32:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>提前致歉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1duc1vn/sorry_in_advance/</link>
+      <description><![CDATA[我不知道这个问题是不是太蠢了，但我理解得对吗？如果我想要一个特定的或独特的启动项目结构，我必须创建一个 git 存储库然后克隆它？还是我在使用 vite 等工具时遗漏了某些东西？    提交人    /u/Healthierpoet   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1duc1vn/sorry_in_advance/</guid>
+      <pubDate>Wed, 03 Jul 2024 11:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是天才（你办公桌上的 GitHub 贡献图）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1duc14z/this_is_genius_github_contribution_graph_on_your/</link>
+      <description><![CDATA[      https://preview.redd.it/241b4tw8faad1.png?width=1184&amp;format=png&amp;auto=webp&amp;s=f976e1773ff4a3d85ad3249a482674aa6f654820    提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1duc14z/this_is_genius_github_contribution_graph_on_your/</guid>
+      <pubDate>Wed, 03 Jul 2024 11:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>静态网站托管与符合 GDPR 的分析组合，可轻松实现登陆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1dub7ba/static_site_hosting_with_gdpr_compliant_analytics/</link>
+      <description><![CDATA[嗨， 我对周围的所有不同选项有点不知所措。 我正在为一个慈善组织开发一个超级简单的登陆页面，大约两个部分长。 我们最初计划使用 Wordpress，但该网站最终可以是一个静态页面。虽然如果可能的话，我想为他们节省 70 欧元/年的服务器费用。 我们需要托管这个静态页面，我们希望进行一些基本的 GDPR 合规分析。 我想到 Matomo，但这又带来了对服务器的需求。我了解到 GitLab 页面或类似平台甚至不提供 AW 静态或类似内容。 有什么简单的想法吗？ 谢谢！    提交人    /u/kram08980   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1dub7ba/static_site_hosting_with_gdpr_compliant_analytics/</guid>
+      <pubDate>Wed, 03 Jul 2024 10:38:28 GMT</pubDate>
+    </item>
     <item>
       <title>开发 GUI 工具来调整 tailwindcss 组件 - 需要一些反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1du9kc7/developing_a_gui_tool_to_tweak_tailwindcss/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[简要介绍...我是一名自由职业者和 CA 学生。创建了这个网站。需要一些真诚的反馈 :) www.flareitmedia.com    提交人    /u/Glad_Mark_6811   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1du7glf/made_this_site_need_some_feedback_commerce/</guid>
       <pubDate>Wed, 03 Jul 2024 06:17:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>已停用的网站的用户数据会怎样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du6o2k/what_happens_to_user_data_for_a_defunct_website/</link>
-      <description><![CDATA[2001 年左右，有一个博客和视频共享平台，但由于严重的带宽问题而关闭。我当时正在考虑重新推出一个以档案形式呈现的仅供查看的网站，因为我注意到 WayBackMachine 经常无法保存视频数据，或者无法保存某些页面。由于这个网站已经停用 20 多年了，是否有可能有人保留了数据库，或者至少保留了某种数据，或者通常在网站关闭后将其丢弃？    提交人    /u/ryanlak1234   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du6o2k/what_happens_to_user_data_for_a_defunct_website/</guid>
-      <pubDate>Wed, 03 Jul 2024 05:26:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>mocha 测试卡住并超时，而不是抛出错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du6ef3/mocha_test_stuck_and_timeout_instead_of_throwing/</link>
-      <description><![CDATA[ import { expect } from &quot;chai&quot;; ... it(&quot;authenticated without ID token&quot;, function (done) { _axios.get(&quot;/authenticated&quot;).catch((reason: AxiosError) =&gt; { // Reason.response.status 等于 404 expect(reason.response.status).to.eql(401); done(); }) });  由于 reason.response.status 等于 404，它应该抛出错误然后继续下一个测试。但是它卡在那里，在我设置的 60 秒超时之前什么也不做。    submitted by    /u/yukiiiiii2008   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du6ef3/mocha_test_stuck_and_timeout_instead_of_throwing/</guid>
-      <pubDate>Wed, 03 Jul 2024 05:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开源了一个新项目 gomicro。这是一个 Go 微服务架构，将单体博客平台分解为微服务。它使用 kong、nats、mongo、redis 和 docker 构建。请查看 GitHub 存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du66wp/i_have_open_sourced_a_new_project_gomicro_it_is_a/</link>
-      <description><![CDATA[        提交人    /u/janishar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du66wp/i_have_open_sourced_a_new_project_gomicro_it_is_a/</guid>
-      <pubDate>Wed, 03 Jul 2024 04:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 图形 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du5ge2/facebook_graph_api/</link>
-      <description><![CDATA[嗨，我有一个将直播内容流式传输到 Facebook 的应用程序。按照官方文档，我在 Facebook 应用程序仪表板中创建了一个“商业”应用程序类型，它同时具有 Live Video API 和 publish_video 权限。  但是，当我尝试使用 graph API explore 检查 /{userid}/live_videos 以创建 LiveVideo 对象时，它返回错误，提示“您的软件版本已过时，不支持创建直播视频”。 我找不到任何相关文档或链接。 我使用的 graph API 版本是 v20.0。有人遇到过这个问题吗？任何指导都非常感谢！    提交人    /u/IconForRealTho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du5ge2/facebook_graph_api/</guid>
-      <pubDate>Wed, 03 Jul 2024 04:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建这样的网站实际要收多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</link>
-      <description><![CDATA[https://www.saveritemedical.com/?gad_source=1 大家好，这是我作为网页设计师独自工作的第一年，这是我的第三个客户，我正在努力确定报价，有人知道吗？谢谢  该网站将在 Shopify 中完成，我通常收取 400 美元来创建一个基本网站，包括主机，但这个网站完全不同，因为我将添加大约 100 种产品！请帮忙    提交人    /u/Creative-Can-5467   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</guid>
-      <pubDate>Wed, 03 Jul 2024 01:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您为客户设计网站的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</link>
-      <description><![CDATA[我目前正在为一位从事视频摄影的朋友设计一个网站。我不知道从哪里开始，希望能得到一些来自其他网页设计师的建议。 您通常如何处理客户网站的设计流程？您是否会查看同一领域的类似网站并将其用作布局的参考？或者您是否会在 WordPress 等平台上探索预制主题，然后对其进行自定义以匹配客户的颜色和领域？ 任何提示都会有很大帮助。谢谢     提交人    /u/Snowpecker   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</guid>
-      <pubDate>Wed, 03 Jul 2024 00:48:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
