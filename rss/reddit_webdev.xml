@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 00:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 03:10:56 GMT</lastBuildDate>
+    <item>
+      <title>创建这样的网站实际要收多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</link>
+      <description><![CDATA[https://www.saveritemedical.com/?gad_source=1 大家好，这是我作为网页设计师独自工作的第一年，这是我的第三个客户，我正在努力确定报价，有人知道吗？谢谢  该网站将在 Shopify 中完成，我通常收取 400 美元来创建一个基本网站，包括主机，但这个网站完全不同，因为我将添加大约 100 种产品！请帮忙    提交人    /u/Creative-Can-5467   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du2qwq/how_much_could_i_realistically_charge_to_create_a/</guid>
+      <pubDate>Wed, 03 Jul 2024 01:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>您为客户设计网站的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</link>
+      <description><![CDATA[我目前正在为一位从事视频摄影的朋友设计一个网站。我不知道从哪里开始，希望能得到一些来自其他网页设计师的建议。 您通常如何处理客户网站的设计流程？您是否会查看同一领域的类似网站并将其用作布局的参考？或者您是否会在 WordPress 等平台上探索预制主题，然后对其进行自定义以匹配客户的颜色和领域？ 任何提示都会有很大帮助。谢谢     提交人    /u/Snowpecker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1du1j5o/your_approach_to_designing_a_website_for_a_client/</guid>
+      <pubDate>Wed, 03 Jul 2024 00:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>ASCII 艺术动态环境照明</title>
       <link>https://www.reddit.com/r/webdev/comments/1du0gqn/ascii_art_dynamic_environmental_lighting/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[        由    /u/jkerr838 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1dtw45i/the_3_types_of_css_utility_classes_aesthetic/</guid>
       <pubDate>Tue, 02 Jul 2024 20:39:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby on Rails 还是 JavaScript 适合开发小型企业网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtvzxo/ruby_on_rails_or_javascript_for_developing/</link>
-      <description><![CDATA[大家好，开发人员！ 希望大家度过愉快的一周。我现在正处于十字路口，希望大家能帮助我决定我应该学习哪种语言来为小型企业开发网站。就上下文而言，我已经通过 YouTube 教程和你们中的一些人可能熟悉的 TheOdinProject 学习了 HTML 和 CSS。我还开发了不少着陆页来练习使用 HTML、CSS 和一点 JavaScript，我也学习了 JavaScript 的基础知识（对象、数组、循环、DOM 等）。 作为一个不想长期从事 Web 开发的人，只想做自由职业者并帮助微型/小型企业建立他们的网站，你会建议我选择哪条道路。 提前感谢您的回复。   由    /u/FamSimmer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtvzxo/ruby_on_rails_or_javascript_for_developing/</guid>
-      <pubDate>Tue, 02 Jul 2024 20:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>绝不要以任何方式使用 NameCheap</title>
-      <link>https://www.reddit.com/r/webdev/comments/1dtvq79/never_under_any_means_use_namecheap/</link>
-      <description><![CDATA[      https://preview.redd.it/tx946ujbz5ad1.png?width=782&amp;format=png&amp;auto=webp&amp;s=449567b1d27ec0690d393d1e0d66ce8f4275d5ac 忘记续订我的域名了，当我去重新激活它时，我被收取了 16 美元的域名费用，但结账时出现了错误。当我联系 namecheap 时，他们告诉我，他们将在 80-90 天内拍卖我的域名，如果没有人购买，那么它将向公众发布。Shady ASF    提交人    /u/Wvrcus   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1dtvq79/never_under_any_means_use_namecheap/</guid>
-      <pubDate>Tue, 02 Jul 2024 20:22:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
