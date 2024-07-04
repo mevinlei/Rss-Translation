@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 09:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 12:16:35 GMT</lastBuildDate>
     <item>
       <title>头像 - Figma 插件</title>
       <link>https://www.producthunt.com/posts/avatars-a-figma-plugin</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/avatars-a-figma-plugin</guid>
       <pubDate>Thu, 04 Jul 2024 06:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>差分</title>
+      <link>https://www.producthunt.com/posts/diffr-2</link>
+      <description><![CDATA[
+创意产业网络
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/diffr-2</guid>
+      <pubDate>Thu, 04 Jul 2024 05:26:22 GMT</pubDate>
     </item>
     <item>
       <title>模式 5.0</title>
@@ -48,20 +62,6 @@
       <pubDate>Thu, 04 Jul 2024 00:45:22 GMT</pubDate>
     </item>
     <item>
-      <title>类型小工具</title>
-      <link>https://www.producthunt.com/posts/typelets</link>
-      <description><![CDATA[
-使用生成式 AI 进行基于云的文件编辑
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/typelets</guid>
-      <pubDate>Wed, 03 Jul 2024 22:07:05 GMT</pubDate>
-    </item>
-    <item>
       <title>BeyondPDF</title>
       <link>https://www.producthunt.com/posts/beyondpdf</link>
       <description><![CDATA[
@@ -79,7 +79,7 @@
       <title>没地方</title>
       <link>https://www.producthunt.com/posts/noplace</link>
       <description><![CDATA[
-找到您的社区
+查找您的社区
 
 
 讨论
@@ -107,7 +107,7 @@
       <title>埃奎马克</title>
       <link>https://www.producthunt.com/posts/equimake</link>
       <description><![CDATA[
-面向学习者和创作者的免费 3D Web 平台
+面向学习者和创作者的免费 3D 网络平台
 
 
 讨论
@@ -116,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/equimake</guid>
       <pubDate>Wed, 03 Jul 2024 14:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>SnippetEase</title>
-      <link>https://www.producthunt.com/posts/snippetease</link>
-      <description><![CDATA[
-可嵌入代码片段生成器 
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/snippetease</guid>
-      <pubDate>Tue, 02 Jul 2024 23:35:43 GMT</pubDate>
     </item>
     <item>
       <title>B2B SaaS 估值计算器</title>
@@ -160,6 +146,20 @@
       <pubDate>Tue, 02 Jul 2024 17:17:46 GMT</pubDate>
     </item>
     <item>
+      <title>天文学家</title>
+      <link>https://www.producthunt.com/posts/astrowp</link>
+      <description><![CDATA[
+Headless WordPress 入门套件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/astrowp</guid>
+      <pubDate>Mon, 01 Jul 2024 06:54:11 GMT</pubDate>
+    </item>
+    <item>
       <title>思想绿洲</title>
       <link>https://www.producthunt.com/posts/oasis-of-ideas</link>
       <description><![CDATA[
@@ -177,7 +177,7 @@
       <title>状态管家</title>
       <link>https://www.producthunt.com/posts/status-butler</link>
       <description><![CDATA[
-直接从 Slack 中的 Hometab 安排状态更新。
+直接从 Slack 中的 Hometab 安排状态更新
 
 
 讨论
