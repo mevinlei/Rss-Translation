@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Fri, 05 Jul 2024 00:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 03:10:53 GMT</lastBuildDate>
+    <item>
+      <title>FUTO 对软件分叉的立场</title>
+      <link>https://www.reddit.com/r/programming/comments/1dvn236/futos_stance_on_software_forks/</link>
+      <description><![CDATA[  由    /u/EUR0PA_TheLastBattle  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dvn236/futos_stance_on_software_forks/</guid>
+      <pubDate>Fri, 05 Jul 2024 02:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个工具，用于在阅读源代码时可视化代码。它帮助我理解所有代码。它使我能够可视化代码，从而清晰直接地了解所有代码结构和函数调用。</title>
+      <link>https://www.reddit.com/r/programming/comments/1dvmy9e/i_created_a_tool_to_visualize_code_when_we_read/</link>
+      <description><![CDATA[  由    /u/Ok_Cricket_8334  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dvmy9e/i_created_a_tool_to_visualize_code_when_we_read/</guid>
+      <pubDate>Fri, 05 Jul 2024 01:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dart：代数数据类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1dvlqlj/dart_algebraic_data_types/</link>
+      <description><![CDATA[  由    /u/emanresu_2017  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dvlqlj/dart_algebraic_data_types/</guid>
+      <pubDate>Fri, 05 Jul 2024 00:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>边缘缓存和基于变异的 API 缓存失效</title>
+      <link>https://www.reddit.com/r/programming/comments/1dvlnlb/edge_caching_and_mutation_based_cache/</link>
+      <description><![CDATA[  由    /u/Illustrious-Son  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1dvlnlb/edge_caching_and_mutation_based_cache/</guid>
+      <pubDate>Fri, 05 Jul 2024 00:43:41 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 StackPul​​se：一个用于实时通知 Stack Overflow 上新问题的通知器</title>
       <link>https://www.reddit.com/r/programming/comments/1dvk0qs/i_built_stackpulse_a_realtime_notifier_for_new/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/drakgoku  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1dv9zkq/the_usual_battle_for_speed_and_safety_2024/</guid>
       <pubDate>Thu, 04 Jul 2024 15:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否应该学习 C 语言来“了解计算机的工作原理”？</title>
-      <link>https://www.reddit.com/r/programming/comments/1dv9uk5/should_you_learn_c_to_learn_how_the_computer_works/</link>
-      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dv9uk5/should_you_learn_c_to_learn_how_the_computer_works/</guid>
-      <pubDate>Thu, 04 Jul 2024 15:38:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLVM 自动矢量化简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1dv9336/an_introduction_to_autovectorization_with_llvm/</link>
-      <description><![CDATA[  由    /u/artagnon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dv9336/an_introduction_to_autovectorization_with_llvm/</guid>
-      <pubDate>Thu, 04 Jul 2024 15:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个头文件中混合断言、日志、单元测试和模糊测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1dv8oi2/mix_assertion_logging_unit_testing_and_fuzzing_in/</link>
-      <description><![CDATA[  由    /u/sunxfancy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dv8oi2/mix_assertion_logging_unit_testing_and_fuzzing_in/</guid>
-      <pubDate>Thu, 04 Jul 2024 14:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 150 行 C 代码击败 NumPy 的矩阵乘法</title>
-      <link>https://www.reddit.com/r/programming/comments/1dv7abe/beating_numpys_matrix_multiplication_in_150_lines/</link>
-      <description><![CDATA[  由    /u/lelanthran  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1dv7abe/beating_numpys_matrix_multiplication_in_150_lines/</guid>
-      <pubDate>Thu, 04 Jul 2024 13:44:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
