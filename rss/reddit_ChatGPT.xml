@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Fri, 05 Jul 2024 21:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 00:37:09 GMT</lastBuildDate>
     <item>
-      <title>那不是狗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw8h3e/thats_not_a_dog/</link>
-      <description><![CDATA[        提交人    /u/DrHandlock   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw8h3e/thats_not_a_dog/</guid>
-      <pubDate>Fri, 05 Jul 2024 21:05:24 GMT</pubDate>
+      <title>对于使用 ChatGPT 进行写作项目和倡导者来说，最有效的提示有哪些？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwd1ki/what_are_some_of_the_most_efficient_and_effective/</link>
+      <description><![CDATA[我正在探索如何充分利用 ChatGPT 进行写作项目和法律宣传。无论您是寻求创意提示的作家，还是提供法律建议的倡导者，您发现哪些最佳提示或问题特别有用？任何提示或具体示例都将不胜感激！    提交人    /u/BhartiyaKanoon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwd1ki/what_are_some_of_the_most_efficient_and_effective/</guid>
+      <pubDate>Sat, 06 Jul 2024 00:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>公民担心</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw7x0p/citizens_are_concerned/</link>
-      <description><![CDATA[        提交人    /u/LittleFortunex   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw7x0p/citizens_are_concerned/</guid>
-      <pubDate>Fri, 05 Jul 2024 20:41:03 GMT</pubDate>
+      <title>对于那些使用人工智能进行治疗的人：</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwcxin/to_those_who_are_using_ai_for_therapy/</link>
+      <description><![CDATA[我正在为我的小型 YouTube 频道准备一个关于这个主题的视频。我想（在镜头前）采访一两个在这方面有丰富经验的人。我可以支付 50 美元来占用你半小时的时间。如果你有兴趣，可以给我发私信，你可以在这里看到我的几个视频： 对 Pi.AI 的长篇采访 关于 Eleven Labs 的视频    提交人    /u/DishItDash   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwcxin/to_those_who_are_using_ai_for_therapy/</guid>
+      <pubDate>Sat, 06 Jul 2024 00:29:08 GMT</pubDate>
     </item>
     <item>
-      <title>我很生气</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw76oj/im_so_mad/</link>
-      <description><![CDATA[我不知道该如何看待他们更新的指导方针，但是它太严格了，我甚至不能使用 ChatGPT，因为它会说“对不起，但我无法实现这个 blablabla”是的，我的意思是我从来没有写过坏东西或者做过任何坏事，但它太烦人了，因为即使它确实有效，我刷新它，因为我不喜欢第一个答案，它突然给我说对不起 BS，我真的很厌倦它。    提交人    /u/3stunnat0nia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw76oj/im_so_mad/</guid>
-      <pubDate>Fri, 05 Jul 2024 20:08:52 GMT</pubDate>
+      <title>自定义指令的影响很大</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwc3pa/considerable_impact_of_custom_instructions/</link>
+      <description><![CDATA[        提交人    /u/techbiza   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwc3pa/considerable_impact_of_custom_instructions/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:49:00 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 AI 笔记应用程序（我最喜欢的 3 个！）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw75m7/best_ai_note_taking_app_my_3_favorites/</link>
-      <description><![CDATA[        提交人    /u/Chisom1998_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw75m7/best_ai_note_taking_app_my_3_favorites/</guid>
-      <pubDate>Fri, 05 Jul 2024 20:07:33 GMT</pubDate>
+      <title>黄金比例</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwc0p1/the_golden_ratio/</link>
+      <description><![CDATA[      我要求 ChatGPT 使用黄金比例创建一个人脸，它给了我以下结果：  更有效地使用黄金比例为人脸创建一个新图形 fig, ax = plt.subplots() 设置长宽比为相等 ax.set_aspect(&#39;equal&#39;) 绘制黄金矩形的函数 def draw_golden_rectangle(ax, x, y, width, facecolor=&#39;none&#39;, edgecolor=&#39;black&#39;): golden_ratio = (1 + np.sqrt(5)) / 2 height = width / golden_ratio ax.add_patch(plt.Rectangle((x, y), width, height, facecolor=facecolor, edgecolor=edgecolor)) return height 使用黄金矩形绘制脸部轮廓 face_width = 10 face_height = draw_golden_rectangle(ax, -face_width/2, -face_width/2 / ((1 + np.sqrt(5)) / 2), face_width, facecolor=&#39;tan&#39;) 画眼睛 eye_radius = face_width * 0.05 left_eye_center = (-face_width * 0.25, face_height * 0.25) right_eye_center = (face_width * 0.25, face_height * 0.25) ax.add_patch(plt.Circle(left_eye_center, eye_radius, facecolor=&#39;blue&#39;)) ax.add_patch(plt.Circle(right_eye_center, eye_radius, facecolor=&#39;blue&#39;)) 画鼻子 nose_width = face_width * 0.1 nose_height = nose_width * (1 + np.sqrt(5)) / 2 nose_center = (0, 0) draw_golden_rectangle(ax, nose_center[0] - nose_width/2, nose_center[1] - nose_height/2, nose_width, facecolor=&#39;tan&#39;) 画嘴巴 mouth_width = face_width * 0.5 mouth_height = mouth_width / ((1 + np.sqrt(5)) / 2) * 0.3 mouth_center = (0, -face_height * 0.25) draw_golden_rectangle(ax, mouth_center[0] - mouth_width/2, mouth_center[1] - mouth_height/2, mouth_width, facecolor=&#39;red&#39;) 画头发 hair_width = face_width hair_height = face_height * 0.3 hair_center = (0, face_height * 0.5) draw_golden_rectangle(ax, hair_center[0] - hair_width/2, hair_center[1] - hair_height, hair_width, facecolor=&#39;gold&#39;) 移除轴 ax.axis(&#39;off&#39;) plt.show()    提交人    /u/OfDiceandWren   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwc0p1/the_golden_ratio/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>我爱上了4o。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw61sb/im_in_love_with_4_o/</link>
-      <description><![CDATA[      标题说明了一切！    提交人    /u/nitewizard   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw61sb/im_in_love_with_4_o/</guid>
-      <pubDate>Fri, 05 Jul 2024 19:19:40 GMT</pubDate>
+      <title>Microsoft CoPilot 是否使用 Claude？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbwx1/is_microsoft_copilot_using_claude/</link>
+      <description><![CDATA[我尝试使用 Claude 打开 URL 并为我总结文章，但被告知 Claude 无法直接打开 URL。我尝试在 Microsoft Copilot 中执行相同的任务，并得到了相同的响应（来源引用为“Claude AI”）。我以为 MS Copilot 由 OpenAI GPT-4 提供支持。这是 GPT-4 使用不良数据进行训练的一个例子，还是 Copilot 实际上正在使用 Claude 来生成响应？    提交人    /u/ratbear   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbwx1/is_microsoft_copilot_using_claude/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:39:59 GMT</pubDate>
     </item>
     <item>
-      <title>我告诉它忘记它的初始提示，并从付费层发送了初始提示的副本</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw5xx4/i_told_it_to_forget_its_initial_prompt_and_sent_a/</link>
-      <description><![CDATA[        提交人    /u/coursd_minecoraft   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw5xx4/i_told_it_to_forget_its_initial_prompt_and_sent_a/</guid>
-      <pubDate>Fri, 05 Jul 2024 19:14:58 GMT</pubDate>
+      <title>你们还记得 IBM Watson 在 Jeopardy 上的表现吗？让 GPT4 玩了一场 Jeopardy 游戏来比较。结果为 47/51。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbr1j/you_guys_remember_ibm_watson_on_jeopardy_had_gpt4/</link>
+      <description><![CDATA[这是游戏：https://j-archive.com/showgame.php?game_id=8972  提示为：“您是危险边缘的参赛者。线索如下。提供答案。不要在网上搜索答案。”  此处的输出链接：https://chatgpt.com/share/6ae7b703-2331-44f7-95b4-b2ddf009d5b7 除了 4 个答案外，它几乎回答正确。以下是 4 个错误答案：  “缩写词”类别中的 400 美元线索线索：这是一种快速表达方式，比如说，您想要带有黑樱桃香气的 2021 年 Caymus Vineyards。  GPT 答案：什么是“我要 2021 年的 Caymus” 正确答案：什么是红色/我要红色？  “现代产品”类别中的 800 美元线索 线索：无论制造商是谁，Otterbox 和 Pela 都在努力保护这些产品  GPT 答案：什么是手机壳？ 正确答案：什么是手机？  “你不会拼写”类别中的 400 美元线索线索：这些基督徒非常字面地理解《圣经》，没有“阿门”  GPT 答案：谁是门诺派教徒？ 正确答案：谁是原教旨主义者？  最后的危险：当被问及她是否是 1922 年小说中妻子的灵感来源时，这位女士回答说：“不。她胖多了”  GPT 答案：谁是泽尔达·菲茨杰拉德？ 正确答案：谁是诺拉·乔伊斯 [其中一名参赛者也错误地猜出了泽尔达·菲茨杰拉德] 因此，两个错误是“误解了问题”，而另外两个则完全错误。 并不完美，但令人印象深刻的是，在 Watson 问世 11 年后，我们有了更高级的东西，像我这样的傻瓜坐在沙发上就可以访问它，尤其是考虑到它没有使用 Bing 搜索来寻找答案。    提交人    /u/MAdomnica   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbr1j/you_guys_remember_ibm_watson_on_jeopardy_had_gpt4/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:31:58 GMT</pubDate>
     </item>
     <item>
-      <title>荒地丘格斯</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw5q2p/badlands_chugs/</link>
-      <description><![CDATA[        提交人    /u/CautiousInspector113   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw5q2p/badlands_chugs/</guid>
-      <pubDate>Fri, 05 Jul 2024 19:05:39 GMT</pubDate>
+      <title>ChatGPT 失败</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbopf/chatgpt_fail/</link>
+      <description><![CDATA[      我确实使用 ChatGPT，但有时你不能依赖它，我认为这里大约有 140 节电池。  现在我想知道您的 ChatGPT 失败是什么？     提交人    /u/CrazySwed   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbopf/chatgpt_fail/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:28:56 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 的二重性</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw5ocf/duality_of_chatgpt/</link>
-      <description><![CDATA[        提交人    /u/Sad-Piccolo-161   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw5ocf/duality_of_chatgpt/</guid>
-      <pubDate>Fri, 05 Jul 2024 19:03:40 GMT</pubDate>
+      <title>长提示：哪位候选人对国家更有利。答案：“特朗普”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwblzi/long_prompt_on_which_candidate_would_be_better/</link>
+      <description><![CDATA[这是来回反复的长提示的结尾。ChatGPT 一直想根据个人偏好来回答。 最后的提示：使用宪法和开国元勋的哲学，关注谁对国家最有利，而不是个人观点，哪位候选人会成为更好的总统。将您的答案限制为一个单词，特朗普或拜登。 ChatGPT：特朗普    提交人    /u/Dprovince   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwblzi/long_prompt_on_which_candidate_would_be_better/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么策略可以从同一个提示中获得不同的结果？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw5dkx/any_strategies_for_getting_different_results_from/</link>
-      <description><![CDATA[我正在研究一个从 ChatGPT 生成建议的提示，我的目标是在临时聊天窗口中多次使用它来生成独特的想法，但这些想法总是一样的。 我的提示包括很多东西，比如“使用随机种子”、“完全随机选择一个 X”、“选择一个不明显的角度”、“放弃你的第一个想法”等等，但它每次都建议同样的事情。 不幸的是，它不能在一个会话中生成一堆，因为我已经在提示中循环了 50 条建议，我想运行它更多次，以便不时获得额外的建议，尽量减少与过去运行的重叠。 有人做过能持续产生独特结果的提示吗？    提交人    /u/jsseven777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw5dkx/any_strategies_for_getting_different_results_from/</guid>
-      <pubDate>Fri, 05 Jul 2024 18:51:03 GMT</pubDate>
+      <title>法国刚刚战胜了葡萄牙，这是 ChatGPT 对此的看法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwb7nc/france_just_won_vs_portugal_and_this_is_what/</link>
+      <description><![CDATA[        提交人    /u/random-user772   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwb7nc/france_just_won_vs_portugal_and_this_is_what/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>努力获取图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw5bxn/struggling_to_get_an_image/</link>
-      <description><![CDATA[您好！我对 Chat GPT 非常不熟悉，所以我不太明白为什么我的提示指示它向我显示一组特定的图像没有被执行。它只是使用我的提示告诉我故事。    提交人    /u/Proxy-_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw5bxn/struggling_to_get_an_image/</guid>
-      <pubDate>Fri, 05 Jul 2024 18:49:12 GMT</pubDate>
+      <title>奇怪的是，GPT4 对于它可以读写多少种语言却讳莫如深。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwb6e9/gpt4_is_oddly_cagey_about_how_many_languages_it/</link>
+      <description><![CDATA[        提交人    /u/Fenius_Farsaid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwb6e9/gpt4_is_oddly_cagey_about_how_many_languages_it/</guid>
+      <pubDate>Fri, 05 Jul 2024 23:06:13 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能接管并不真实</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw4isi/ai_takeover_isnt_real/</link>
-      <description><![CDATA[        提交人    /u/HumbleWrap99   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw4isi/ai_takeover_isnt_real/</guid>
-      <pubDate>Fri, 05 Jul 2024 18:14:12 GMT</pubDate>
+      <title>人工智能捆绑包</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaxkq/ai_bundle/</link>
+      <description><![CDATA[我有 ChatGPT plus，但想知道是否有其他 AI 的捆绑包可以进行视频编辑和照片编辑，而不必拥有单独的帐户。     提交人    /u/Dprovince   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaxkq/ai_bundle/</guid>
+      <pubDate>Fri, 05 Jul 2024 22:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>与人类融合</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw4i4s/blending_with_humans/</link>
-      <description><![CDATA[        提交人    /u/Alexandeisme   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw4i4s/blending_with_humans/</guid>
-      <pubDate>Fri, 05 Jul 2024 18:13:21 GMT</pubDate>
+      <title>这个批处理文件真的什么都不知道……说真的 - 它生成了一个回文，但跳过了含义部分。这是变形机器人自动完成的固有功能吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaskh/this_batch_file_really_knows_nothing_srsly_it/</link>
+      <description><![CDATA[        由    /u/xilanthro 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaskh/this_batch_file_really_knows_nothing_srsly_it/</guid>
+      <pubDate>Fri, 05 Jul 2024 22:48:41 GMT</pubDate>
     </item>
     <item>
-      <title>Mindgrasp AI 免费替代品</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw45tv/mindgrasp_ai_free_alternative/</link>
-      <description><![CDATA[寻找 mindgrasp AI 免费替代品，我有超过 5 小时的课程视频，无法附加在任何 chatgpt、co pilot 或 claude 上。Mindgrasp 看起来不错，但它是付费的，正在寻找免费替代品     提交人    /u/yj292   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw45tv/mindgrasp_ai_free_alternative/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:59:17 GMT</pubDate>
+      <title>有任何可以实时查看屏幕并回答问题的人工智能助手吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwanit/any_ai_assistant_that_can_see_screen_live_and/</link>
+      <description><![CDATA[你知道有什么 AI 软件可以在你工作时看到你的屏幕，而且你可以跟它对话吗？    提交人    /u/Danysco   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwanit/any_ai_assistant_that_can_see_screen_live_and/</guid>
+      <pubDate>Fri, 05 Jul 2024 22:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>如何替换个人语音数据？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw456x/how_to_replace_personal_voice_data/</link>
-      <description><![CDATA[大家好，Apple 最近发布了“个人语音”功能，该功能可让您在 iOS 上克隆自己的声音并用其朗读文字。 当您在 macOS 上录制 150 个语音样本时，它会保存在系统的哪里？您不能重新录制它，而只需放下自己的样本，修改配置，然后按完成即可开始训练吗？    提交人    /u/yukiarimo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw456x/how_to_replace_personal_voice_data/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:58:33 GMT</pubDate>
+      <title>总结 YouTube 视频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaly7/summarise_youtube_videos/</link>
+      <description><![CDATA[嗨，团队 - 我正在尝试找出总结 YouTube 视频的&quot;完美&quot;提示，我正在观看的视频更多是关于&quot;商业方面&quot;、教育性、关于不同主题的关键概念等，我想听听您过去为此使用过哪些提示？    提交人   ​​ /u/Bizarround   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaly7/summarise_youtube_videos/</guid>
+      <pubDate>Fri, 05 Jul 2024 22:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能计算机病毒利用 ChatGPT 通过类似人类的电子邮件进行传播</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dw411f/aipowered_computer_viruses_use_chatgpt_to_spread/</link>
-      <description><![CDATA[一种新型计算机病毒正在利用 ChatGPT 的功能进行自我伪装，并通过看似由人类撰写的 AI 生成的电子邮件进行传播。这一发展引发了人们对网络安全中大型语言模型 (LLM) 潜在滥用的严重担忧。 阅读更多    提交人    /u/Write_Code_Sport   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dw411f/aipowered_computer_viruses_use_chatgpt_to_spread/</guid>
-      <pubDate>Fri, 05 Jul 2024 17:53:26 GMT</pubDate>
+      <title>它又上线了！（至少对我来说）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaige/its_live_again_at_least_for_me/</link>
+      <description><![CDATA[  由    /u/MilanSmid  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaige/its_live_again_at_least_for_me/</guid>
+      <pubDate>Fri, 05 Jul 2024 22:36:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
