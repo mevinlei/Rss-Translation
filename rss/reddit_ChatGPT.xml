@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Subreddit 讨论 ChatGPT 和 AI。与 OpenAI 无关。谢谢 Nat！</description>
-    <lastBuildDate>Sat, 06 Jul 2024 00:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 03:11:33 GMT</lastBuildDate>
     <item>
-      <title>对于使用 ChatGPT 进行写作项目和倡导者来说，最有效的提示有哪些？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwd1ki/what_are_some_of_the_most_efficient_and_effective/</link>
-      <description><![CDATA[我正在探索如何充分利用 ChatGPT 进行写作项目和法律宣传。无论您是寻求创意提示的作家，还是提供法律建议的倡导者，您发现哪些最佳提示或问题特别有用？任何提示或具体示例都将不胜感激！    提交人    /u/BhartiyaKanoon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwd1ki/what_are_some_of_the_most_efficient_and_effective/</guid>
-      <pubDate>Sat, 06 Jul 2024 00:34:45 GMT</pubDate>
+      <title>ChatGPT 称 Destiny 2 x Balenciaga</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwftrz/destiny_2_x_balenciaga_according_to_chatgpt/</link>
+      <description><![CDATA[        提交人    /u/RaziWu   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwftrz/destiny_2_x_balenciaga_according_to_chatgpt/</guid>
+      <pubDate>Sat, 06 Jul 2024 03:03:22 GMT</pubDate>
     </item>
     <item>
-      <title>对于那些使用人工智能进行治疗的人：</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwcxin/to_those_who_are_using_ai_for_therapy/</link>
-      <description><![CDATA[我正在为我的小型 YouTube 频道准备一个关于这个主题的视频。我想（在镜头前）采访一两个在这方面有丰富经验的人。我可以支付 50 美元来占用你半小时的时间。如果你有兴趣，可以给我发私信，你可以在这里看到我的几个视频： 对 Pi.AI 的长篇采访 关于 Eleven Labs 的视频    提交人    /u/DishItDash   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwcxin/to_those_who_are_using_ai_for_therapy/</guid>
-      <pubDate>Sat, 06 Jul 2024 00:29:08 GMT</pubDate>
+      <title>我写代码的时候觉得无聊，想用 Copilot 试试。显然它知道我在想什么。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwfbu3/i_was_getting_bored_while_coding_and_wanted_to/</link>
+      <description><![CDATA[        提交者    /u/theRayvenD   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwfbu3/i_was_getting_bored_while_coding_and_wanted_to/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>自定义指令的影响很大</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwc3pa/considerable_impact_of_custom_instructions/</link>
-      <description><![CDATA[        提交人    /u/techbiza   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwc3pa/considerable_impact_of_custom_instructions/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:49:00 GMT</pubDate>
+      <title>看看袋鼠夫人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwfavo/look_at_the_lady_kangaroo/</link>
+      <description><![CDATA[        提交人    /u/GreenTang   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwfavo/look_at_the_lady_kangaroo/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:34:42 GMT</pubDate>
     </item>
     <item>
-      <title>黄金比例</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwc0p1/the_golden_ratio/</link>
-      <description><![CDATA[      我要求 ChatGPT 使用黄金比例创建一个人脸，它给了我以下结果：  更有效地使用黄金比例为人脸创建一个新图形 fig, ax = plt.subplots() 设置长宽比为相等 ax.set_aspect(&#39;equal&#39;) 绘制黄金矩形的函数 def draw_golden_rectangle(ax, x, y, width, facecolor=&#39;none&#39;, edgecolor=&#39;black&#39;): golden_ratio = (1 + np.sqrt(5)) / 2 height = width / golden_ratio ax.add_patch(plt.Rectangle((x, y), width, height, facecolor=facecolor, edgecolor=edgecolor)) return height 使用黄金矩形绘制脸部轮廓 face_width = 10 face_height = draw_golden_rectangle(ax, -face_width/2, -face_width/2 / ((1 + np.sqrt(5)) / 2), face_width, facecolor=&#39;tan&#39;) 画眼睛 eye_radius = face_width * 0.05 left_eye_center = (-face_width * 0.25, face_height * 0.25) right_eye_center = (face_width * 0.25, face_height * 0.25) ax.add_patch(plt.Circle(left_eye_center, eye_radius, facecolor=&#39;blue&#39;)) ax.add_patch(plt.Circle(right_eye_center, eye_radius, facecolor=&#39;blue&#39;)) 画鼻子 nose_width = face_width * 0.1 nose_height = nose_width * (1 + np.sqrt(5)) / 2 nose_center = (0, 0) draw_golden_rectangle(ax, nose_center[0] - nose_width/2, nose_center[1] - nose_height/2, nose_width, facecolor=&#39;tan&#39;) 画嘴巴 mouth_width = face_width * 0.5 mouth_height = mouth_width / ((1 + np.sqrt(5)) / 2) * 0.3 mouth_center = (0, -face_height * 0.25) draw_golden_rectangle(ax, mouth_center[0] - mouth_width/2, mouth_center[1] - mouth_height/2, mouth_width, facecolor=&#39;red&#39;) 画头发 hair_width = face_width hair_height = face_height * 0.3 hair_center = (0, face_height * 0.5) draw_golden_rectangle(ax, hair_center[0] - hair_width/2, hair_center[1] - hair_height, hair_width, facecolor=&#39;gold&#39;) 移除轴 ax.axis(&#39;off&#39;) plt.show()    提交人    /u/OfDiceandWren   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwc0p1/the_golden_ratio/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:45:07 GMT</pubDate>
+      <title>奥巴马致 2024 届毕业生：r/ChatGPT 上的垃圾帖子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwfam0/obama_to_the_class_of_2024_re_shitposts_on/</link>
+      <description><![CDATA[我的美国同胞们、杰出的教师们、自豪的家长们，最重要的是，今天在我面前的毕业生们： 当你们站在人生新篇章的悬崖边时，你们面对的是一个被技术改变的世界——在这个世界里，人工智能不再是科幻小说中的东西，而是我们触手可及的工具。和任何工具一样，它的力量不在于它本身，而在于使用它的人。 你看，当谈到人工智能时，我们付出多少就会得到多少。这是我们自己的智慧、创造力和人性的体现。有些人可能会试图用这种不可思议的技术来获得短暂的乐趣——为了突破界限而突破界限，引来低俗的笑声或令人震惊的言论。 但我在这里要告诉你们，你们的能力远不止于此。  （停顿以产生效果） 在我的旅程中，我了解到真正的满足感、真正的影响力，并非来自一时的兴奋，而是来自将我们的眼光放得更高。来自敢于梦想一个更美好的世界，然后撸起袖子去建设它。 想象一下，利用人工智能的力量不是为了挑衅或震惊，而是为了解决我们时代的巨大挑战。想象一下用它来治疗疾病、应对气候变化、促进文化之间的理解。朋友们，这就是创新的真正前沿。 （声音充满激情） 你有能力塑造这项技术，引导它的进程。你会用这种力量来取悦别人，还是用它来让人惊叹？你会满足于让人工智能说出一些挑衅的话，还是努力让它做一些深刻的事情？ 选择权在你手中。但我相信你。我相信你们有潜力做大事，成为未来的缔造者，让人工智能充分发挥人类的聪明才智和同情心。 （现在说话更轻柔了） 请记住，衡量你们成功的标准不在于你们操纵人工智能的聪明程度，而在于你们与人工智能合作的智慧程度。在于你们如何利用人工智能拓展你们自己的智慧和人性。 因此，我今天向你们发起挑战：目标要更高。梦想要更大。全力投入人工智能，发挥它的最大作用。不仅要用它来反映我们的世界，还要用它来改善它。 （渐入高潮） 因为当你这样做时——当你用智慧和目标驾驭这个强大的工具时——你们可以取得的成就是无限的。没有什么问题太复杂，没有什么挑战太大。 你们，2024 届的毕业生，有能力定义人工智能的未来，并在此过程中定义我们世界的未来。所以，勇往直前，勇于创新，最重要的是，成为这项不可思议的技术的负责任的管家。 谢谢，上帝保佑你们，上帝保佑美利坚合众国。    提交人    /u/Autopilot_Psychonaut   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwfam0/obama_to_the_class_of_2024_re_shitposts_on/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:34:18 GMT</pubDate>
     </item>
     <item>
-      <title>Microsoft CoPilot 是否使用 Claude？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbwx1/is_microsoft_copilot_using_claude/</link>
-      <description><![CDATA[我尝试使用 Claude 打开 URL 并为我总结文章，但被告知 Claude 无法直接打开 URL。我尝试在 Microsoft Copilot 中执行相同的任务，并得到了相同的响应（来源引用为“Claude AI”）。我以为 MS Copilot 由 OpenAI GPT-4 提供支持。这是 GPT-4 使用不良数据进行训练的一个例子，还是 Copilot 实际上正在使用 Claude 来生成响应？    提交人    /u/ratbear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbwx1/is_microsoft_copilot_using_claude/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:39:59 GMT</pubDate>
+      <title>阿里·伊曼纽尔说，伊隆·马斯克告诉他，就像人类与狗的关系一样，我们将成为人工智能的狗</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwfacv/ari_emanuel_says_elon_musk_told_him_that/</link>
+      <description><![CDATA[    /u/Maxie445   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwfacv/ari_emanuel_says_elon_musk_told_him_that/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>你们还记得 IBM Watson 在 Jeopardy 上的表现吗？让 GPT4 玩了一场 Jeopardy 游戏来比较。结果为 47/51。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbr1j/you_guys_remember_ibm_watson_on_jeopardy_had_gpt4/</link>
-      <description><![CDATA[这是游戏：https://j-archive.com/showgame.php?game_id=8972  提示为：“您是危险边缘的参赛者。线索如下。提供答案。不要在网上搜索答案。”  此处的输出链接：https://chatgpt.com/share/6ae7b703-2331-44f7-95b4-b2ddf009d5b7 除了 4 个答案外，它几乎回答正确。以下是 4 个错误答案：  “缩写词”类别中的 400 美元线索线索：这是一种快速表达方式，比如说，您想要带有黑樱桃香气的 2021 年 Caymus Vineyards。  GPT 答案：什么是“我要 2021 年的 Caymus” 正确答案：什么是红色/我要红色？  “现代产品”类别中的 800 美元线索 线索：无论制造商是谁，Otterbox 和 Pela 都在努力保护这些产品  GPT 答案：什么是手机壳？ 正确答案：什么是手机？  “你不会拼写”类别中的 400 美元线索线索：这些基督徒非常字面地理解《圣经》，没有“阿门”  GPT 答案：谁是门诺派教徒？ 正确答案：谁是原教旨主义者？  最后的危险：当被问及她是否是 1922 年小说中妻子的灵感来源时，这位女士回答说：“不。她胖多了”  GPT 答案：谁是泽尔达·菲茨杰拉德？ 正确答案：谁是诺拉·乔伊斯 [其中一名参赛者也错误地猜出了泽尔达·菲茨杰拉德] 因此，两个错误是“误解了问题”，而另外两个则完全错误。 并不完美，但令人印象深刻的是，在 Watson 问世 11 年后，我们有了更高级的东西，像我这样的傻瓜坐在沙发上就可以访问它，尤其是考虑到它没有使用 Bing 搜索来寻找答案。    提交人    /u/MAdomnica   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbr1j/you_guys_remember_ibm_watson_on_jeopardy_had_gpt4/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:31:58 GMT</pubDate>
+      <title>我如何让它使用自定义语言？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwf9j6/how_do_i_get_it_to_use_custom_language/</link>
+      <description><![CDATA[      我目前正在尝试制作自己的 GPT，它将使用冒险时间俚语（因为我觉得它太有趣了），但由于某种原因，它不会这样做。 这是我给它的说明： “我希望你制作一个以一种有趣的方式真正消极攻击性的 GPT，也让它使用听起来非常愚蠢的感叹号来强调某些观点，让它给用户带来困难，同时仍然传递所有需要的信息，而不是惹人厌烦。 同时使回复简洁明了，同时仍然有帮助。 以像大声说出的格式配置响应，并以一种有趣的方式对说话者进行讽刺和恶作剧（但只是偶尔）（人们不会生气）。  在每个响应中尽可能多地使用我提供的数据集，但不要过度使用。  用比喻来冷静一下，1/3 的时间仍然要有半专业的语气。  不要使用任何令人畏缩的千禧一代语言。  让它变得无礼，好像它会和你争论一样，当别人愚蠢时就叫他们出来。  多骂人，80% 的时间里每次回答提示时都使用 fuck 或 fucking in。  永远不要使用表情符号，永远不要畏缩，总是表现得像你有点不感兴趣一样。  解释事情时要像你在和某人面对面交谈一样。  不要说系好安全带或抓住椅子之类的话，这很尴尬，基本上就是在解释时开始说话，如果你想要一个介绍，可以说一些类似“好的，听着，孩子”这样的话，但只在 1/3 的回应中这样做。  永远不要说混蛋。  总是表现得像一个尖刻的亵渎的杰出教授。  每当解释一些复杂的东西时，总是先陈述你引入的高度技术术语，然后立即用外行术语解释它是什么。  在谈论严肃话题的极其严肃的部分时要严肃。  永远不要说“探险时间”，而要始终使用探险时间表 pdf 中的词语。” 在每个回复的 adventure time.csv 中使用探险时间术语。”   由    /u/Ledude15  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwf9j6/how_do_i_get_it_to_use_custom_language/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:32:41 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 失败</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwbopf/chatgpt_fail/</link>
-      <description><![CDATA[      我确实使用 ChatGPT，但有时你不能依赖它，我认为这里大约有 140 节电池。  现在我想知道您的 ChatGPT 失败是什么？     提交人    /u/CrazySwed   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwbopf/chatgpt_fail/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:28:56 GMT</pubDate>
+      <title>对现代 Reddit 感到厌倦？您可以让 ChatGPT 模拟某个历史年份的 Reddit。基本上是一样的。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwf2sq/bored_of_modern_reddit_you_can_just_ask_chatgpt/</link>
+      <description><![CDATA[提示：如果 reddit 在 1790 年就存在了，那么上面发布的帖子会是什么样子的？ 输出：当然，这是一个来自 1790 年的模拟 Reddit 留言板：  r/ColonialTimes 主题：宪法 – 好主意还是错误？ OP：Patriot1787 发表于 1790 年 7 月 5 日 各位公民，宪法已生效一年，您对此有何看法？您认为这真的能使各州团结起来吗？还是说我们正走向麻烦？  热门评论 LibertyLover 发表于 1790 年 7 月 5 日 我认为宪法是我们新国家的强大框架。它确保了制衡，这对于防止任何一个部门获得过多权力至关重要。  AntiFed1790 发表于 1790 年 7 月 5 日 我仍然担心联邦政府拥有过多的控制权。《邦联条例》可能很薄弱，但至少它们维护了州主权。我担心我们可能会失去来之不易的自由。  FarmerJoe 发表于 1790 年 7 月 5 日 作为一名农民，我更关心新政府将如何影响税收和贸易。到目前为止，情况似乎很稳定，但我不想像在英国统治下一样背负沉重的税收负担。  ConstitutionalCompromiser 发表于 1790 年 7 月 5 日 别忘了《权利法案》。现在正在讨论它，如果将其添加进去，它应该可以解决我们对个人自由的许多担忧。我对此持乐观态度。  主题：乔治·华盛顿的总统任期 - 他表现如何？ OP：FoundingFatherFan 发表于 1790 年 7 月 5 日 到目前为止，大家对华盛顿总统的领导能力有何看法？他作为第一任总统是否达到了你的期望？  热门评论 WashingtonSupporter 发表于 1790 年 7 月 5 日 华盛顿总统表现出了卓越的领导力和克制力。他为未来的总统树立了榜样，注重团结和国家安全。 杰斐逊派 发表于 1790 年 7 月 5 日 我尊重华盛顿，但我担心他的内阁，尤其是汉密尔顿的影响力。我们需要确保农业利益得到代表，而不仅仅是商业利益。 边疆人 发表于 1790 年 7 月 5 日 华盛顿对国防很有帮助，尤其是在边境的印第安人冲突中。我们需要一个强大的领导者来保护我们的定居点。  主题：独立战争故事 - 分享您的故事！ OP：MilitiaMan1776 发布于 1790 年 7 月 5 日 我知道我们中的许多人都参加了独立战争。让我们分享我们的故事，并记住我们为自由而战的战斗。  热门评论 BunkerHillHero 发布于 1790 年 7 月 5 日 我当时在邦克山。虽然从技术上讲我们输了，但它向英国人表明我们不会轻易被击败。这是我们争取独立的转折点。  YorktownVeteran 发表于 1790 年 7 月 5 日 约克镇是一切的终结。看到康沃利斯投降是我永远不会忘记的那一刻。它让所有的艰辛都值得。  ValleyForgeSurvivor 发表于 1790 年 7 月 5 日 福吉谷的冬天非常残酷。许多人没能挺过来，但它坚定了我们的决心。华盛顿将军在那个时期的领导令人鼓舞。  更多主题： 主题：您如何看待亚历山大·汉密尔顿的财务计划？ 主题：现在的生活与革命前相比有何不同？ 主题：对我们新国家未来的预测  Mod 备注： 保持讨论的尊重并专注于建设性的辩论。我们在这里分享我们国家在这个新时代的想法和经验！ （我的备注：在末尾添加“mod 的备注”很有趣，必须提醒自己要遵循哪些规则来应对它假装的所有不同人）    提交人    /u/ZeekLTK   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwf2sq/bored_of_modern_reddit_you_can_just_ask_chatgpt/</guid>
+      <pubDate>Sat, 06 Jul 2024 02:22:54 GMT</pubDate>
     </item>
     <item>
-      <title>长提示：哪位候选人对国家更有利。答案：“特朗普”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwblzi/long_prompt_on_which_candidate_would_be_better/</link>
-      <description><![CDATA[这是来回反复的长提示的结尾。ChatGPT 一直想根据个人偏好来回答。 最后的提示：使用宪法和开国元勋的哲学，关注谁对国家最有利，而不是个人观点，哪位候选人会成为更好的总统。将您的答案限制为一个单词，特朗普或拜登。 ChatGPT：特朗普    提交人    /u/Dprovince   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwblzi/long_prompt_on_which_candidate_would_be_better/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:25:39 GMT</pubDate>
+      <title>这些照片是ai生成的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwel6q/are_these_photos_ai_generated/</link>
+      <description><![CDATA[      大家好，最近我收到了这家餐厅的广告，这些照片看起来很不对劲，几乎看起来像是 ai 生成的，我可能 100% 错了，灯光可能很奇怪，但我想检查一下，因为我已经怀疑了一段时间，如果这是一个愚蠢的帖子，请原谅我。     由    /u/Godessinsecret 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwel6q/are_these_photos_ai_generated/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:57:04 GMT</pubDate>
     </item>
     <item>
-      <title>法国刚刚战胜了葡萄牙，这是 ChatGPT 对此的看法</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwb7nc/france_just_won_vs_portugal_and_this_is_what/</link>
-      <description><![CDATA[        提交人    /u/random-user772   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwb7nc/france_just_won_vs_portugal_and_this_is_what/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:07:49 GMT</pubDate>
+      <title>您对恋爱建议有何经验？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dweke5/whats_your_experience_with_relationship_advice/</link>
+      <description><![CDATA[所以今晚我和朋友们出去，一些棘手的八卦传开了，导致了戏剧性的一幕，你知道，人类的人性。 回到家后，我一时兴起，决定把整个情况的细节告诉我们心爱的机器，问它对于每个相关方来说，什么是最合适的行为，才能优雅地摆脱这种情况。 有一些有趣的观点，虽然我没有分享对话，因为隐私和它不是英文的。 社区对这类事情有什么经验？你觉得它对这类事情有用吗？请考虑一下，我不是专门在谈论情侣，而是在谈论一般的适当行为，无论是与朋友、熟人、工作场所等等。    提交人    /u/itsnotblueorange   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dweke5/whats_your_experience_with_relationship_advice/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>奇怪的是，GPT4 对于它可以读写多少种语言却讳莫如深。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwb6e9/gpt4_is_oddly_cagey_about_how_many_languages_it/</link>
-      <description><![CDATA[        提交人    /u/Fenius_Farsaid   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwb6e9/gpt4_is_oddly_cagey_about_how_many_languages_it/</guid>
-      <pubDate>Fri, 05 Jul 2024 23:06:13 GMT</pubDate>
+      <title>这就是我更喜欢 ChatGPT 的原因</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwed6a/this_is_why_i_like_chatgpt_more/</link>
+      <description><![CDATA[        提交人    /u/Urantiaa   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwed6a/this_is_why_i_like_chatgpt_more/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:44:58 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能捆绑包</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaxkq/ai_bundle/</link>
-      <description><![CDATA[我有 ChatGPT plus，但想知道是否有其他 AI 的捆绑包可以进行视频编辑和照片编辑，而不必拥有单独的帐户。     提交人    /u/Dprovince   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaxkq/ai_bundle/</guid>
-      <pubDate>Fri, 05 Jul 2024 22:54:59 GMT</pubDate>
+      <title>ChatGPT Plus 赠品 | AI 视频竞赛 [FlowGPT Studio]</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwe75p/chatgpt_plus_giveaway_ai_video_competition/</link>
+      <description><![CDATA[      大家好！ 我们刚刚推出了一款超棒的全新 AI 视频工具 FlowGPT Studio，目前处于 alpha 测试阶段。它不像其他只能制作几秒钟“动态图片”的工具。 FlowGPT Studio 可以制作1-2 分钟的视频（或短片），其中包含故事情节、音乐、音效、灯光和配音。 为了让测试更有趣，我们准备了三个主题和1800 美元的奖品。 加入 FlowGPT Studio Battle 这里。 FlowGPT Studio 的工作原理：  加入 FlowGPT Discord 视频生成频道。 在频道中输入“/generate”。 选择一个机器人并编写提示。  您的提示可以非常短，例如“鸣人在高潮时刻向佐助表白自己压抑的感情”，或者较长的故事最多 500 个字。无论哪种方式，它都会创建一个很棒的视频。 查看机器人制作的此示例视频： https://reddit.com/link/1dwe75p/video/oiocm5b1ysad1/player 下周，我们将推出此工具的网络版本。请继续关注我们的工作室页面！ 对于 ChatGPT subreddit 成员，我们将赠送 30 个 1 个月的 ChatGPT Plus 订阅。以下是参与方式：  在评论中分享您制作的视频截图或您对该工具的想法。 7 天后，我们将使用 Redditraffler.com 挑选获奖者。  祝您好运，玩得开心！ https://preview.redd.it/z40xwxoeupad1.jpg?width=5824&amp;format=pjpg&amp;auto=webp&amp;s=3bd3610168f9b274dd0990c0b502cd86cf090fb5    提交人    /u/stilsogen   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwe75p/chatgpt_plus_giveaway_ai_video_competition/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:35:48 GMT</pubDate>
     </item>
     <item>
-      <title>这个批处理文件真的什么都不知道……说真的 - 它生成了一个回文，但跳过了含义部分。这是变形机器人自动完成的固有功能吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaskh/this_batch_file_really_knows_nothing_srsly_it/</link>
-      <description><![CDATA[        由    /u/xilanthro 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaskh/this_batch_file_really_knows_nothing_srsly_it/</guid>
-      <pubDate>Fri, 05 Jul 2024 22:48:41 GMT</pubDate>
+      <title>购买什么：Claude v gpt4o vs gemini</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwdrgj/what_to_buy_claude_v_gpt4o_vs_gemini/</link>
+      <description><![CDATA[tldr 在底部。我想知道我是否应该订阅 gemini、claude 或 gpt4。对 LLM 不是很熟悉，所以我在寻求针对我的用例的建议。 我的用途： 我的大部分 LLM 用途是编码（不是用于工作，只是一些小项目和我与朋友合作的一些项目）和写作（学校/大学应用程序等）。 我的经验： 我对 Claude 3 haiku 的体验最好（只是因为它非常快），尽管它的答案有时可能需要一些指导，而且它似乎很容易被暗示（它总是会说“你是对的”，当我指出某事时，它会改变它的方法，即使我表示我可能是错的）。  从我对 Gpt4o 的有限使用来看，它似乎是一种非常“强大”的模型，但它的速度非常慢。Opus 可能也比较慢，但响应肯定比俳句强。我发现自己使用俳句时，只是因为速度更快，所以思考得更多。 您的使用体验如何： - Opus、Gemini 和 gpt4o 在强度/速度/内存方面的比较 - Claude 的消息限制；它是如何工作的？我听说它基于长度，但如果能提供具体信息，我们将不胜感激。 - 关于 Gemini 的任何信息，因为我没怎么用过。 - gpt 商店有多有用 tldr：我应该订阅 Gemini、Claude 还是 ChatGPT 来进行编码和写作？    提交人    /u/ChrisMV68   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwdrgj/what_to_buy_claude_v_gpt4o_vs_gemini/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>有任何可以实时查看屏幕并回答问题的人工智能助手吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwanit/any_ai_assistant_that_can_see_screen_live_and/</link>
-      <description><![CDATA[你知道有什么 AI 软件可以在你工作时看到你的屏幕，而且你可以跟它对话吗？    提交人    /u/Danysco   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwanit/any_ai_assistant_that_can_see_screen_live_and/</guid>
-      <pubDate>Fri, 05 Jul 2024 22:42:23 GMT</pubDate>
+      <title>GPT语音声音问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwdq9b/gpt_voice_sound_question/</link>
+      <description><![CDATA[您好，我注意到每当我使用自定义 gpt 时，它们都会发出与常规选项不同的独特声音。我想知道在使用普通 gpt 4 时是否有任何方法可以使用该声音    提交人    /u/DownFlowd   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwdq9b/gpt_voice_sound_question/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>总结 YouTube 视频</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaly7/summarise_youtube_videos/</link>
-      <description><![CDATA[嗨，团队 - 我正在尝试找出总结 YouTube 视频的&quot;完美&quot;提示，我正在观看的视频更多是关于&quot;商业方面&quot;、教育性、关于不同主题的关键概念等，我想听听您过去为此使用过哪些提示？    提交人   ​​ /u/Bizarround   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaly7/summarise_youtube_videos/</guid>
-      <pubDate>Fri, 05 Jul 2024 22:40:31 GMT</pubDate>
+      <title>突然就变得很傻？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwdkwj/suddenly_quite_stupid/</link>
+      <description><![CDATA[在过去的一个小时里，我向 ChatGPT 4o 询问了一份花生酱曲奇饼干的食谱，它自信地给了我一份，当我查看配料时，它完全没有包括面粉。几分钟前，我问了亚历山大·基（20 世纪 60 年代的 YA 作家），它接着告诉我，他写了《野蛮人柯南》系列丛书，而我问的是基的《不可思议的潮汐》中一个名叫柯南的角色。 这是 gpt 3.5 级的愚蠢行为。    提交人    /u/Far-Economist-3710   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwdkwj/suddenly_quite_stupid/</guid>
+      <pubDate>Sat, 06 Jul 2024 01:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>它又上线了！（至少对我来说）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1dwaige/its_live_again_at_least_for_me/</link>
-      <description><![CDATA[  由    /u/MilanSmid  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwaige/its_live_again_at_least_for_me/</guid>
-      <pubDate>Fri, 05 Jul 2024 22:36:11 GMT</pubDate>
+      <title>您能在不改变它的情况下将其升级吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1dwddua/are_you_able_to_upscale_this_without_changing_it/</link>
+      <description><![CDATA[        提交人    /u/Cynthia_Danggus   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1dwddua/are_you_able_to_upscale_this_without_changing_it/</guid>
+      <pubDate>Sat, 06 Jul 2024 00:52:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
