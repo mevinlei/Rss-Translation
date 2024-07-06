@@ -4,7 +4,49 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 06 Jul 2024 12:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 15:09:26 GMT</lastBuildDate>
+    <item>
+      <title>`ffmpeg` 是 FLOSS（免费），而且是转码/解复用/多路复用的最佳可执行文件。Android OS/iOS/Linux/Windows 都有这个。+ 一些示例使用 howto</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwrphe/ffmpeg_is_floss_no_cost_plus_is_the_best/</link>
+      <description><![CDATA[[本帖允许所有用途] 视频转码器 - Google Play 上的应用 (视频转码器) 与大多数“视频编辑器”应用相比很酷（它是 ffmpeg 的可视化界面），但不适用于新版本的 Android OS。此外，trim/demux 速度很慢（不会将 -c copy 传递给 ffmpeg，因此总是重新编码输入。）它无法循环。只需修剪、+转换（可充当解复用器）+压缩。 现在使用 FFmpeg Media Encoder - Google Play 上的应用（来自 SilentLexx 的 FFmpeg Media Encoder）即可获得成功。它具有 ffmpeg 的可视化界面，但可以处理来自文本的命令。替代方案（未使用）：FFmpeg - Google Play 上的应用（来自 CrossPlat 的 FFmpeg） [注意：已将 /Music/ 移至 /Sounds/，将 /Movies/ 移至 /Visuals/] 示例 visuals.mp4 为 4gb，压缩至 222mb 使用 ffmpeg -i &quot;/storage/emulated/0/Visuals/screen-20240629-045526.mp4&quot; -framerate 30 -c:v libx264 -crf 32 -preset faster &quot;/storage/emulated/0/Visuals/visuals.mp4&quot; libx264 编解码器对视觉效果的压缩效果最佳。-preset faster 指示其进行更多压缩。您可以将 -crf 32 替换为 -b:v 2m，以设置“压缩到 2mbps”的确切目标。 [在某些设备上，Android 操作系统的权限需要输出到 /Download/] 假设您想将 sounds.mp4 与 visuals.mp4 混合， 但您想跳过 sounds.mp4 的 4 秒介绍，并限制为 2 分钟： 要进行解复用，请使用 -ss 4 跳过 4 秒，传递 -t 2:00 将输出限制为 2 分钟，传递 -c copy 进行立即处理：ffmpeg -i &quot;/storage/emulated/0/Download/sounds.mp4 -ss 4 -t 2:00 -map 0:a:0 -c copy &quot;/storage/emulated/0/Sounds/demux.m4a&quot; 现在 sounds.m4a 是 2 分钟，但 visuals.m4a 更长，使用 -stream_loop -1 使声音循环播放到与视觉效果一样长： ffmpeg -i &quot;/storage/emulated/0/Visuals/visuals.mp4&quot; -stream_loop -1 -i &quot;/storage/emulated/0/Sounds/demux.m4a&quot; -map 0:v:0 -c copy -map 1:a:0 -shortest &quot;/storage/emulated/0/Visuals/mux.mp4&quot;  假设您想要将 visuals.mp4 中的声音与 sounds.mp4 中的循环混合： ffmpeg -i &quot;/storage/emulated/0/Visuals/visuals.mp4&quot; -stream_loop -1 -i &quot;/storage/emulated/0/Sounds/demux.m4a&quot; -map 0:a:0 -map 1:a:0 -filter_complex amix=inputs=2:duration=shortest &quot;/storage/emulated/0/Sounds/demux2.m4a&quot; ffmpeg -i &quot;/storage/emulated/0/Visuals/visuals.mp4&quot; -i &quot;/storage/emulated/0/Sounds/demux2.m4a&quot; -map 0：v：0 -c 复制 -map 1：a：0 -shortest “/storage/emulated/Visuals/mux2.mp4”  [-c copy 与 -filter_complex 不兼容，因此除非您想要重新编码视觉效果（速度很慢），否则需要 2 个步骤才能完成此操作] ffmpeg 可以使用的命令列表； https://ffmpeg.org/ffmpeg.html https://gist.github.com/tayvano/6e2d456a9897f55025e25035478a3a50#file-gistfile1-txt 曾用于制作： https://www.youtube.com/watch?v=zcqRmYUQKM8 https://www.youtube.com/watch?v=YFgRW58mbG4    提交人    /u/2002LuvAbbaLuvU   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwrphe/ffmpeg_is_floss_no_cost_plus_is_the_best/</guid>
+      <pubDate>Sat, 06 Jul 2024 15:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你们想成为一名编辑，这就是我使用的策略</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwrlgf/if_yall_wanna_become_an_editor_this_is_the/</link>
+      <description><![CDATA[https://youtu.be/OlSBmxntgos 我试图让它有趣，同时又具有教育意义l，希望这对像我一样刚刚起步的你们中的一些人有所帮助。（另外补充一句，在这个行业里永远不要免费工作，99% 的时间里人们都有钱付给你，只是不想这么做，我在这个视频中吃尽了苦头，所以希望你能从我的错误中吸取教训）    提交人    /u/Flynn_Scott   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwrlgf/if_yall_wanna_become_an_editor_this_is_the/</guid>
+      <pubDate>Sat, 06 Jul 2024 15:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>音轨最佳实践</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwrj28/audio_tracks_best_practices/</link>
+      <description><![CDATA[大家好。 有没有关于有多少个音轨以及如何组织它们的指南/最佳实践？对话、SFX、立体声 SFX、VO、音乐等等？我的第一个长期项目已经进行了两个月，我的音频上有 87 个音轨……现在我为每个“声音/语音/等”制作一个音轨，以便能够对其进行“完全控制”……但感觉不对…… 谢谢！ 系统规格：Macbook Pro M2 MAX 1TB/32GB // 软件规格：DRS 18.6.2。 // 素材规格 : mp4     提交人    /u/JBEdits   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwrj28/audio_tracks_best_practices/</guid>
+      <pubDate>Sat, 06 Jul 2024 14:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据整理/DIT 设置</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwrg9z/data_wrangling_dit_setup/</link>
+      <description><![CDATA[嗨！ 我从事 DIT/数据整理工作已经一年多了。我希望升级我的工具包，并将另一台 Mac/Ipad 集成到我的设置中。我目前有一个 M1 Pro Max 芯片，使用 Shotput Pro 时，它仍然非常快，可以满足数据整理需求。但是 - 我还创建了静态照片和每日照片，这有点困难，因为在导出和上传给团队时处理能力有所提高！ 我目前的预算是再买一台 M1 芯片的 Mac Pro，或者买一台 M2 Ipad 作为第二台显示器。只是想知道是否有人对我的选择有什么建议 - 我也是编辑（当工作完成时！） 我更愿意留在苹果世界，因为我所有的其他工具包都是为此设计的！    提交人    /u/lisst99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwrg9z/data_wrangling_dit_setup/</guid>
+      <pubDate>Sat, 06 Jul 2024 14:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一台可靠的编辑笔记本电脑吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwppdc/is_this_a_reliable_laptop_for_editing/</link>
+      <description><![CDATA[大家好， 我一辈子都是 PC 用户，从未拥有过 MacBook，但我有兴趣购买 MacBook Pro，用于编辑 4k 素材的视频。  我的预算低于 2000 英镑。我在这个价格范围内找到了一款。规格如下：16.2 英寸屏幕、配备 10 核 CPU 的 M1 max 芯片、32GB RAM、1TB SSD 和 32 核 GPU。这是 2021 年款。 它看起来很棒，适合在旅行时进行编辑，这正是我想要的。它经过全面翻新，状况良好。您有什么想法，我这里遗漏了什么吗？    提交人    /u/Immediate_Cricket169   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwppdc/is_this_a_reliable_laptop_for_editing/</guid>
+      <pubDate>Sat, 06 Jul 2024 13:33:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速且“懒惰”的 iPhone 编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1dwomjm/fast_and_lazy_iphone_editing/</link>
+      <description><![CDATA[抱歉，标题是诱饵。我经营一家公司，也做商业产品，但我想更快地从手机中获得更多功能，以便在 Instagram/tiktok 上玩得开心。 如果你是一个 20 岁、不知羞耻的人，只有一部 iPhone 15 Pro Max，你会使用哪些应用和技术进行恶搞，兄弟？ 我可以使用大量技术和资产，但我想先从手机的角度进行探索。    提交人    /u/monomagnus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1dwomjm/fast_and_lazy_iphone_editing/</guid>
+      <pubDate>Sat, 06 Jul 2024 12:37:26 GMT</pubDate>
+    </item>
     <item>
       <title>考虑从全职转为自由职业。我应该期待什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1dwk1la/thinking_of_going_freelance_from_being_full_time/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[请帮忙。我试图将一个大文件/长片段转码到代理中，但 45 分钟的剪辑变成了不到一秒的剪辑。 我已经成功处理了同一项目的其他文件和卡。 必须承认我不是 DIT，更像是制作管理员。    提交人    /u/nickelpix   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1dvwjt3/silverstack_transcoding/</guid>
       <pubDate>Fri, 05 Jul 2024 12:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>不确定是否需要音乐许可证（澳大利亚）</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvu0cw/not_sure_if_i_need_a_music_licence_or_not/</link>
-      <description><![CDATA[我有一个客户经营着一所舞蹈学校，他请我拍摄并剪辑他们的一场音乐会，毫无疑问，音乐会上，他们会随着受版权保护的音乐起舞。这是一场付费活动，任何想要复制的人都可以购买视频。我不会从视频的销售中抽取任何百分比，但我将获得固定的拍摄和剪辑费用。 既然我因此而获得报酬，我是否需要获得许可才能制作包含受版权保护音乐的视频，还是所有者有责任这样做，因为他们是直接从个人销售中获利的人？我试图寻找答案，但得到的回应褒贬不一。谢谢。    提交人    /u/yourpainismine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvu0cw/not_sure_if_i_need_a_music_licence_or_not/</guid>
-      <pubDate>Fri, 05 Jul 2024 09:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>倦怠症可以治愈吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvtdoc/burnout_cure/</link>
-      <description><![CDATA[嘿！ 最近在编辑方面给自己施加了太多压力，此外还发生了许多事情，让我精疲力竭。然后我还生病了。有史以来最大的组合 通常我会放纵自己做一些像绘画/3d 这样的事。但我甚至无法强迫自己这样做。我只是不想做任何事情。 所以让我知道你们是如何应对的！    提交人    /u/AccomplishedCan4789   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvtdoc/burnout_cure/</guid>
-      <pubDate>Fri, 05 Jul 2024 08:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 Premiere Pro 上创建我的时间线的自动内容日志？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvsrtb/is_there_a_way_to_create_an_automatic_content_log/</link>
-      <description><![CDATA[正如罐子上说的那样。 基本上，我需要的是在我的时间线上显示每个剪辑的持续时间、入点和出点时间码以及每个剪辑的名称，以便我可以将它们组织在 Excel 表中，并将其发送给我们的档案制作人来完成这项工作。当我还是一名助理时，我一直在手动完成这项工作，但老实说，责任和工作量正在堆积如山。我没有时间手动导入那么多信息，浪费一整天的工作。请帮忙！ :(  我们使用 Premiere cc22，但我也有 cc23 和 DaVinci 可用！    提交人    /u/elisyanbox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvsrtb/is_there_a_way_to_create_an_automatic_content_log/</guid>
-      <pubDate>Fri, 05 Jul 2024 08:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>4K 导出收费</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvpsbz/being_charged_for_a_4k_export/</link>
-      <description><![CDATA[我担任制片人的新角色，我的工作是简单的采访 + 剪辑。这个项目的工作人员是由我接手的人雇用的，所以我无法真正改变他们。我有 8 年的制作经验（主要是作为摄像师），我从未遇到过或听说过有人仍然对 4K 导出收取额外费用......还是我在这里绊倒了？当我问他时，他说这是由于缺乏存储空间。 他收取总成本的 30% 作为附加费用。比如，我可以给他一个硬盘来工作吗？除非他不使用代理进行编辑......我不知道。如果我在这里无知，请教育我。 更新：添加其他详细信息。持续时间为 6 分钟 CAP。所有镜头均由他拍摄。   由    /u/jeinnyallover  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvpsbz/being_charged_for_a_4k_export/</guid>
-      <pubDate>Fri, 05 Jul 2024 04:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在汽车追逐戏中跳过时间会不会很尴尬？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvogv3/would_skipping_ahead_in_time_during_a_car_chase/</link>
-      <description><![CDATA[对于一个我自己导演和剪辑的项目，发生了人质对峙，随后发生了汽车追逐。对峙发生在人口更密集的城市环境中，但为了拍摄汽车追逐，我们将不得不更多地去乡下拍摄，因为预算如此之低。 但是，如果角色上车并加速行驶，然后我突然将时间切到城外，这会不会是一个尴尬的剪辑，因为通常追逐不会像电影中那样提前？ 感谢您对此的任何意见！我真的很感激！    提交人    /u/harmonica2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvogv3/would_skipping_ahead_in_time_during_a_car_chase/</guid>
-      <pubDate>Fri, 05 Jul 2024 03:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于在 Premiere 中完成组装剪辑但在 Avid Media Composer 中完成精细剪辑的工作流程，有什么建议吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1dvfwww/any_workflow_advice_for_an_assembly_cut_done_in/</link>
-      <description><![CDATA[对于一部短片来说，这种情况有点棘手，但基本上 Assembly Cut 将在 Premiere Pro 中完成，其余的剪辑将在 Avid Media Composer 中完成。我不太关心使用 EDL 将时间线从 Premiere 转移到 Avid，但我不知道如何设置每日。我通常喜欢使用 DaVinci Roundtrip 方法将 MXF op1s 导入 Avid，但我不知道它如何与 Premiere Pro 配合使用。过去有人做过类似的事情吗，或者有关于如何设置同步代理以便它们稍后重新链接的建议吗？    提交人    /u/somekindofwanderer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1dvfwww/any_workflow_advice_for_an_assembly_cut_done_in/</guid>
-      <pubDate>Thu, 04 Jul 2024 20:02:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
