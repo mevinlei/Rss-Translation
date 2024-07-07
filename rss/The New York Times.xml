@@ -4,7 +4,14 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 07 Jul 2024 06:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 08:46:55 GMT</lastBuildDate>
+    <item>
+      <title>法国提前大选进入最后阶段</title>
+      <link>https://www.nytimes.com/2024/07/06/world/europe/france-parliamentary-election-2024.html</link>
+      <description><![CDATA[此次投票将决定法国国民议会的组成，以及总统埃马纽埃尔·马克龙第二任期的未来。]]></description>
+      <guid>https://www.nytimes.com/2024/07/06/world/europe/france-parliamentary-election-2024.html</guid>
+      <pubDate>Sun, 07 Jul 2024 08:46:55 GMT</pubDate>
+    </item>
     <item>
       <title>热带风暴进入墨西哥湾，德克萨斯州做好迎接飓风贝丽尔的准备</title>
       <link>https://www.nytimes.com/article/hurricane-beryl-updates.html</link>
@@ -48,13 +55,6 @@
       <pubDate>Sun, 07 Jul 2024 02:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>创纪录的高温袭击美国西部大部分地区</title>
-      <link>https://www.nytimes.com/2024/07/06/us/excessive-heat-wave-california-oregon-arizona.html</link>
-      <description><![CDATA[从俄勒冈州到加利福尼亚州再到亚利桑那州，最近几天，多个城市都经历了高温。预报员表示，目前还看不到缓解的迹象。]]></description>
-      <guid>https://www.nytimes.com/2024/07/06/us/excessive-heat-wave-california-oregon-arizona.html</guid>
-      <pubDate>Sun, 07 Jul 2024 01:04:54 GMT</pubDate>
-    </item>
-    <item>
       <title>“最好的工作”还是“相当好的工作”？白宫想要一个词。</title>
       <link>https://www.nytimes.com/2024/07/06/us/politics/biden-goodest-transcript.html</link>
       <description><![CDATA[在拜登政府和新闻媒体提出疑问后，美国广播公司新闻台 (ABC News) 对周五采访总统时一个有趣时刻的记录进行了修改。]]></description>
@@ -70,17 +70,10 @@
     </item>
     <item>
       <title>东京都知事竞选有 56 名候选人</title>
-      <link>https://www.nytimes.com/2024/07/06/world/asia/tokyo-goverors-election.html</link>
+      <link>https://www.nytimes.com/2024/07/06/world/asia/tokyo-governors-election.html</link>
       <description><![CDATA[竞争东京及周边地区知事职位的候选人数量多得惊人。其中许多人甚至没有尝试获胜。]]></description>
-      <guid>https://www.nytimes.com/2024/07/06/world/asia/tokyo-goverors-election.html</guid>
+      <guid>https://www.nytimes.com/2024/07/06/world/asia/tokyo-governors-election.html</guid>
       <pubDate>Sun, 07 Jul 2024 00:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国提前大选进入最后阶段</title>
-      <link>https://www.nytimes.com/2024/07/06/world/europe/france-parliamentary-election-2024.html</link>
-      <description><![CDATA[此次投票将决定法国国民议会的组成，以及总统埃马纽埃尔·马克龙第二任期的未来。]]></description>
-      <guid>https://www.nytimes.com/2024/07/06/world/europe/france-parliamentary-election-2024.html</guid>
-      <pubDate>Sat, 06 Jul 2024 23:00:16 GMT</pubDate>
     </item>
     <item>
       <title>哈马斯的停火方案包含一个熟悉的症结</title>
@@ -104,11 +97,18 @@
       <pubDate>Sat, 06 Jul 2024 12:57:31 GMT</pubDate>
     </item>
     <item>
-      <title>反政府抗议活动持续，肯尼亚绑架事件频发</title>
-      <link>https://www.nytimes.com/2024/07/06/world/africa/kenya-protests-abductions-taxes.html</link>
-      <description><![CDATA[数十名活动人士称，他们被蒙面武装人员从家中或街头带走。一些人至今仍下落不明，这些失踪事件让这个长期以来被视为稳定支柱的国家感到不安。]]></description>
-      <guid>https://www.nytimes.com/2024/07/06/world/africa/kenya-protests-abductions-taxes.html</guid>
-      <pubDate>Sat, 06 Jul 2024 08:27:44 GMT</pubDate>
+      <title>在西岸宣示和平</title>
+      <link>https://www.nytimes.com/2024/07/06/opinion/israeli-palestinian-peace-west-bank.html</link>
+      <description><![CDATA[这些巴勒斯坦人说阿拉伯人和犹太人可以和平共处。]]></description>
+      <guid>https://www.nytimes.com/2024/07/06/opinion/israeli-palestinian-peace-west-bank.html</guid>
+      <pubDate>Sat, 06 Jul 2024 11:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>无论民主党候选人是谁，美国人已经失败了</title>
+      <link>https://www.nytimes.com/2024/07/06/opinion/biden-debate-scotus-immunity.html</link>
+      <description><![CDATA[美国共和国显得脆弱。]]></description>
+      <guid>https://www.nytimes.com/2024/07/06/opinion/biden-debate-scotus-immunity.html</guid>
+      <pubDate>Sat, 06 Jul 2024 09:05:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
