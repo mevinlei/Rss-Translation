@@ -4,9 +4,16 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Jul 2024 06:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:47:18 GMT</lastBuildDate>
     <item>
-      <title>加沙学校遭袭击致联合国大楼死亡人数不断上升</title>
+      <title>法国将在奥运会前用巴士将无家可归的移民运出巴黎</title>
+      <link>https://www.nytimes.com/2024/07/11/world/europe/france-is-busing-homeless-immigrants-out-of-paris-before-the-olympics.html</link>
+      <description><![CDATA[政府承诺在其他地方提供住房。我们跟着公交车走，发现情况很糟糕。]]></description>
+      <guid>https://www.nytimes.com/2024/07/11/world/europe/france-is-busing-homeless-immigrants-out-of-paris-before-the-olympics.html</guid>
+      <pubDate>Thu, 11 Jul 2024 07:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙学校遭袭击致联合国大楼死亡人数不断增加</title>
       <link>https://www.nytimes.com/2024/07/10/world/middleeast/gaza-schoolyard-strike-israel.html</link>
       <description><![CDATA[当人们在加沙南部一所学校改建的避难所踢足球时，以色列空袭发生爆炸，造成至少 27 人死亡。]]></description>
       <guid>https://www.nytimes.com/2024/07/10/world/middleeast/gaza-schoolyard-strike-israel.html</guid>
@@ -18,13 +25,6 @@
       <description><![CDATA[不列颠哥伦比亚省部分放弃将持有毒品合法化的试验，反映出加拿大在打击阿片类药物危机方面的政治转变。]]></description>
       <guid>https://www.nytimes.com/2024/07/11/world/canada/canada-opioid-crisis-decriminalization.html</guid>
       <pubDate>Thu, 11 Jul 2024 04:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国将在奥运会前用巴士将无家可归的移民运出巴黎</title>
-      <link>https://www.nytimes.com/2024/07/11/world/europe/france-is-busing-homeless-immigrants-out-of-paris-before-the-olympics.html</link>
-      <description><![CDATA[政府承诺在其他地方提供住房。我们跟着公交车走，发现情况很糟糕。]]></description>
-      <guid>https://www.nytimes.com/2024/07/11/world/europe/france-is-busing-homeless-immigrants-out-of-paris-before-the-olympics.html</guid>
-      <pubDate>Thu, 11 Jul 2024 04:01:13 GMT</pubDate>
     </item>
     <item>
       <title>北约指责中国为俄罗斯袭击乌克兰提供武器</title>
@@ -45,7 +45,7 @@
       <link>https://www.nytimes.com/2024/07/10/us/politics/peter-welch-biden-vt-democratic-senator.html</link>
       <description><![CDATA[“这是一场灾难。”这位来自佛蒙特州的参议员说道，他成为该州第一位公开表示总统应该下台的民主党人。]]></description>
       <guid>https://www.nytimes.com/2024/07/10/us/politics/peter-welch-biden-vt-democratic-senator.html</guid>
-      <pubDate>Thu, 11 Jul 2024 01:27:50 GMT</pubDate>
+      <pubDate>Thu, 11 Jul 2024 01:27:51 GMT</pubDate>
     </item>
     <item>
       <title>民主党担心选举失利，拜登面临新的退出呼声</title>
@@ -64,7 +64,7 @@
     <item>
       <title>特朗普为景观的变化而高兴</title>
       <link>https://www.nytimes.com/2024/07/10/us/politics/trump-rally-biden.html</link>
-      <description><![CDATA[唐纳德·特朗普在很大程度上消失在公众视野中，让民主党内斗自然展开，之后他举行了一场有时自吹自擂、有时残酷无情的集会。]]></description>
+      <description><![CDATA[唐纳德·特朗普在很大程度上从公众视野中消失，让民主党内斗自然展开，之后他举行了一场有时自吹自擂、有时残酷无情的集会。]]></description>
       <guid>https://www.nytimes.com/2024/07/10/us/politics/trump-rally-biden.html</guid>
       <pubDate>Wed, 10 Jul 2024 21:23:16 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>美国新天主教牧师：年轻、自信、保守</title>
       <link>https://www.nytimes.com/2024/07/10/us/catholic-priests-conservative-politics.html</link>
-      <description><![CDATA[在教会内部出现严重分歧的时代，新任命的牧师在神学、实践和政治观点上绝大多数倾向于右翼。]]></description>
+      <description><![CDATA[在教会内部严重分裂的时代，新任命的牧师在神学、实践和政治观点上绝大多数倾向于右翼。]]></description>
       <guid>https://www.nytimes.com/2024/07/10/us/catholic-priests-conservative-politics.html</guid>
       <pubDate>Wed, 10 Jul 2024 18:31:15 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>棋盘游戏围棋传奇人物被人工智能击败，发出警告：为下一步做好准备</title>
       <link>https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html</link>
-      <description><![CDATA[李赛石是世界顶级围棋选手之一，他令人震惊地输给了人工智能对手，预示着一个新的、令人不安的时代即将到来。“这可能不是一个美好的结局，”他说。]]></description>
+      <description><![CDATA[李赛石是世界顶级围棋选手之一，他令人震惊地输给了人工智能对手，预示着一个令人不安的新时代的到来。“这可能不是一个美好的结局，”他说。]]></description>
       <guid>https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html</guid>
       <pubDate>Wed, 10 Jul 2024 04:01:26 GMT</pubDate>
     </item>
