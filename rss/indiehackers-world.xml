@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 14 Jul 2024 12:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 15:13:06 GMT</lastBuildDate>
+    <item>
+      <title>大多数帖子安排工具都失败了。以下是如何成为例外</title>
+      <link>https://feed.indiehackers.world/post/1b0c147260</link>
+      <description><![CDATA[Threads 目前是您在 2024 年的最佳选择。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/1b0c147260</guid>
+      <pubDate>Sun, 14 Jul 2024 15:09:25 GMT</pubDate>
+    </item>
     <item>
       <title>不到 9 个月，AI 初创公司 Castmagic 估值达 100 万美元</title>
       <link>https://feed.indiehackers.world/post/27bf7c9402</link>
@@ -152,7 +160,7 @@ Discord Indiehackers Chat广告 这里]]></description>
       <title>Reddit 对 AI 产品并不友好</title>
       <link>https://feed.indiehackers.world/post/28da941735</link>
       <description><![CDATA[即使是像人工智能生成的图像或 meme 这样简单的东西也会招致很多仇恨。只是想让你们知道 reddit 对人工智能产品总体上并不友好。因此，如果您在那里收到太多负面反馈，在验证您的想法时不要太认真。您在 reddit 上获得了良好的体验吗？
-Discord Indiehackers Chat广告这里]]></description>
+Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/28da941735</guid>
       <pubDate>Sat, 13 Jul 2024 03:42:31 GMT</pubDate>
     </item>
@@ -170,17 +178,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/de1e11d5ba</guid>
       <pubDate>Fri, 12 Jul 2024 21:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找设施管理软件的销售合作伙伴</title>
-      <link>https://feed.indiehackers.world/post/f41e973b1b</link>
-      <description><![CDATA[这里有人对物业和设施管理感兴趣吗？
-https://REMOS.IO 正在寻找非技术合作伙伴，该项目处于 MVP 完成阶段，正在寻找第一批客户。
-理想客户，拥有 10 多名员工的公司，主要处理商业房地产的物业管理公司（或任何不需要租金支付集成的人），处理住宅楼、退休社区、度假村的设施管理公司。
-如果您想联系，请使用网站上的联系表或我个人资料中的链接
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/f41e973b1b</guid>
-      <pubDate>Fri, 12 Jul 2024 16:47:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
