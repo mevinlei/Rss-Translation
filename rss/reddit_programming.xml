@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Sun, 14 Jul 2024 21:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 00:41:38 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 为何放弃 Git</title>
+      <link>https://www.reddit.com/r/programming/comments/1e3fwyl/why_facebook_abandoned_git/</link>
+      <description><![CDATA[  由    /u/kendumez  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e3fwyl/why_facebook_abandoned_git/</guid>
+      <pubDate>Sun, 14 Jul 2024 23:17:42 GMT</pubDate>
+    </item>
     <item>
       <title>编程语言中的效果系统</title>
       <link>https://www.reddit.com/r/programming/comments/1e3cpnt/effect_systems_in_programming_languages/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[已经过去一年了，我认为它不能再缩小了，但是，我可能错了。 我真的希望看到一种方法来使游戏变得更小，所以，任何可以在下个月压缩一个字节的人都将获得 20 美元。    提交人    /u/Perfect-Highlight964   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e32izb/its_been_a_year_since_i_first_posted_about_my/</guid>
       <pubDate>Sun, 14 Jul 2024 13:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>无论速度如何，都不安全：CISA 计划促进技术生态系统安全</title>
-      <link>https://www.reddit.com/r/programming/comments/1e31zsi/unsafe_at_any_speed_cisas_plan_to_foster_tech/</link>
-      <description><![CDATA[  由    /u/pjmlp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e31zsi/unsafe_at_any_speed_cisas_plan_to_foster_tech/</guid>
-      <pubDate>Sun, 14 Jul 2024 13:13:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
