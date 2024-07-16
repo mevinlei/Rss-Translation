@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Tue, 16 Jul 2024 03:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:13:22 GMT</lastBuildDate>
+    <item>
+      <title>用 Three.js 编写的平滑粒子流体动力学模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/1e4gnw4/a_smoothed_particle_hydrodynamics_simulator/</link>
+      <description><![CDATA[  由    /u/Noostale  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e4gnw4/a_smoothed_particle_hydrodynamics_simulator/</guid>
+      <pubDate>Tue, 16 Jul 2024 05:25:26 GMT</pubDate>
+    </item>
     <item>
       <title>使用 BASIC 教授编程</title>
       <link>https://www.reddit.com/r/programming/comments/1e4c2tg/teaching_programming_with_basic/</link>
       <description><![CDATA[  由    /u/LinearArray  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e4c2tg/teaching_programming_with_basic/</guid>
       <pubDate>Tue, 16 Jul 2024 01:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 基础知识：Web 游戏和课程直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1e4atfb/basics_of_python_web_game_and_classes_live_stream/</link>
-      <description><![CDATA[展示面向对象编程基础知识的网页游戏直播开发    提交人    /u/whitechoc6   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e4atfb/basics_of_python_web_game_and_classes_live_stream/</guid>
-      <pubDate>Tue, 16 Jul 2024 00:23:21 GMT</pubDate>
     </item>
     <item>
       <title>HTTP 重定向说明</title>
