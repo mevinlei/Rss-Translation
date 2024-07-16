@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 15 Jul 2024 21:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 00:40:10 GMT</lastBuildDate>
+    <item>
+      <title>Python 基础知识：Web 游戏和课程直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1e4atfb/basics_of_python_web_game_and_classes_live_stream/</link>
+      <description><![CDATA[展示面向对象编程基础知识的网页游戏直播开发    提交人    /u/whitechoc6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e4atfb/basics_of_python_web_game_and_classes_live_stream/</guid>
+      <pubDate>Tue, 16 Jul 2024 00:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>众筹软件研究</title>
+      <link>https://www.reddit.com/r/programming/comments/1e49efb/crowd_funding_software_research/</link>
+      <description><![CDATA[  由    /u/4th_dimention  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e49efb/crowd_funding_software_research/</guid>
+      <pubDate>Mon, 15 Jul 2024 23:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建游戏机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1e4984f/creating_bots_for_games/</link>
+      <description><![CDATA[我最近玩了 agar.io 这个我以前玩过的游戏，现在它的机器人比以前多了。我想知道如何从头开始制作我自己的机器人作为我的第一个机器人项目，我真的很喜欢这个游戏，我也喜欢学习如何编码。我想为任何可以帮助我们的人制作我的第一个机器人🙌。     提交人    /u/Vegetable_Pay_89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e4984f/creating_bots_for_games/</guid>
+      <pubDate>Mon, 15 Jul 2024 23:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTP 重定向说明</title>
+      <link>https://www.reddit.com/r/programming/comments/1e491rl/http_redirects_explained/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e491rl/http_redirects_explained/</guid>
+      <pubDate>Mon, 15 Jul 2024 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>架构和产品生命周期</title>
+      <link>https://www.reddit.com/r/programming/comments/1e48mvy/architecture_and_product_life_cycle/</link>
+      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e48mvy/architecture_and_product_life_cycle/</guid>
+      <pubDate>Mon, 15 Jul 2024 22:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类已知的最伟大的 SaaS 理念</title>
+      <link>https://www.reddit.com/r/programming/comments/1e46ktx/the_greatest_saas_idea_known_to_man/</link>
+      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1e46ktx/the_greatest_saas_idea_known_to_man/</guid>
+      <pubDate>Mon, 15 Jul 2024 21:20:06 GMT</pubDate>
+    </item>
     <item>
       <title>Chunkit：将 URL 转换为适合 RAG 项目的 LLM 友好型 Markdown 块</title>
       <link>https://www.reddit.com/r/programming/comments/1e454mf/chunkit_convert_urls_into_llmfriendly_markdown/</link>
@@ -32,13 +74,6 @@
       <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e41is4/mobile_deployment_pipelines_for_0/</guid>
       <pubDate>Mon, 15 Jul 2024 18:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>基础设施即代码是手工自动化</title>
-      <link>https://www.reddit.com/r/programming/comments/1e40oqy/infrastructure_as_code_is_artisanal_automation/</link>
-      <description><![CDATA[  由    /u/congolomera  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e40oqy/infrastructure_as_code_is_artisanal_automation/</guid>
-      <pubDate>Mon, 15 Jul 2024 17:28:52 GMT</pubDate>
     </item>
     <item>
       <title>将 Coinbase 的 5600 万用户迁移到 React Native：关键经验和要点</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1e3zew3/graphical_effects_in_duke_nukem_1_2_part_1/</guid>
       <pubDate>Mon, 15 Jul 2024 16:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>低延迟应用程序的 C++ 设计模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3zeh2/c_design_patterns_for_lowlatency_applications/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3zeh2/c_design_patterns_for_lowlatency_applications/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>HappyLock 的工作原理（无死锁互斥库）</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3zefl/how_happylock_works_a_deadlockfree_mutex_library/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3zefl/how_happylock_works_a_deadlockfree_mutex_library/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于动态排名和选择的紧凑型 Fenwick 树</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3zecg/compact_fenwick_trees_for_dynamic_ranking_and/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3zecg/compact_fenwick_trees_for_dynamic_ranking_and/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:38:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++20 中的线程协作中断：回调</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3zdjd/cooperative_interruption_of_a_thread_in_c20/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3zdjd/cooperative_interruption_of_a_thread_in_c20/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 中的资源管理和生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1e3zdhs/resource_management_and_generators_in_python/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1e3zdhs/resource_management_and_generators_in_python/</guid>
-      <pubDate>Mon, 15 Jul 2024 16:37:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
