@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Jul 2024 18:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 21:09:29 GMT</lastBuildDate>
     <item>
       <title>哇商店</title>
       <link>https://www.producthunt.com/posts/wowstore</link>
@@ -90,6 +90,20 @@ AI 模型服务和编排
       <pubDate>Wed, 17 Jul 2024 09:34:08 GMT</pubDate>
     </item>
     <item>
+      <title>徒步时间</title>
+      <link>https://www.producthunt.com/posts/time-on-trails</link>
+      <description><![CDATA[
+设想您的路线，并规划您的比赛策略
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/time-on-trails</guid>
+      <pubDate>Wed, 17 Jul 2024 08:12:54 GMT</pubDate>
+    </item>
+    <item>
       <title>文档翻译</title>
       <link>https://www.producthunt.com/posts/docutranslate</link>
       <description><![CDATA[
@@ -132,24 +146,10 @@ AI 模型服务和编排
       <pubDate>Tue, 16 Jul 2024 21:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>智能画布</title>
-      <link>https://www.producthunt.com/posts/intelligent-canvas</link>
-      <description><![CDATA[
-Miro 画布，通过 AI 和可组合工作流重新发明
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/intelligent-canvas</guid>
-      <pubDate>Tue, 16 Jul 2024 14:58:26 GMT</pubDate>
-    </item>
-    <item>
       <title>拉格纳</title>
       <link>https://www.producthunt.com/posts/ragna</link>
       <description><![CDATA[
-100% 私密桌面 AI 聊天机器人
+100% 私密的桌面 AI 聊天机器人
 
 
 讨论
@@ -160,52 +160,38 @@ Miro 画布，通过 AI 和可组合工作流重新发明
       <pubDate>Tue, 16 Jul 2024 07:06:26 GMT</pubDate>
     </item>
     <item>
-      <title>流动工作室</title>
-      <link>https://www.producthunt.com/posts/flow-studio</link>
+      <title>动漫君</title>
+      <link>https://www.producthunt.com/posts/animekun</link>
       <description><![CDATA[
-文字转电影
+免费工具提供优质动漫语录
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/flow-studio</guid>
-      <pubDate>Tue, 16 Jul 2024 06:15:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/animekun</guid>
+      <pubDate>Sat, 13 Jul 2024 08:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>阿奇</title>
-      <link>https://www.producthunt.com/posts/archie-4</link>
+      <title>开始</title>
+      <link>https://www.producthunt.com/posts/startt</link>
       <description><![CDATA[
-使用 AI 在几分钟内设计和规划软件应用程序
+在几秒钟内为您的产品创建登录页面
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/archie-4</guid>
-      <pubDate>Fri, 12 Jul 2024 19:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>克鲁沃斯</title>
-      <link>https://www.producthunt.com/posts/kluvos</link>
-      <description><![CDATA[
-Klaviyo 关于类固醇的电子邮件营销
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/kluvos</guid>
-      <pubDate>Fri, 12 Jul 2024 17:10:19 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/startt</guid>
+      <pubDate>Fri, 12 Jul 2024 14:30:30 GMT</pubDate>
     </item>
     <item>
       <title>学士</title>
       <link>https://www.producthunt.com/posts/maester</link>
       <description><![CDATA[
-发现 DApp 的简单方法
+“消费者加密货币的 Google”
 
 
 讨论
@@ -214,6 +200,20 @@ Klaviyo 关于类固醇的电子邮件营销
 ]]></description>
       <guid>https://www.producthunt.com/posts/maester</guid>
       <pubDate>Thu, 11 Jul 2024 01:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴西姆</title>
+      <link>https://www.producthunt.com/posts/bazium</link>
+      <description><![CDATA[
+Google Pagespeed 得分高于 90 的 SEO 网站构建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bazium</guid>
+      <pubDate>Mon, 19 Feb 2024 13:57:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
