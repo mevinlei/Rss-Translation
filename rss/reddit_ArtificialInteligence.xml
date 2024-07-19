@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 18 Jul 2024 21:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:39:48 GMT</lastBuildDate>
+    <item>
+      <title>GPT-4o mini 与 GPT-3.5 Turbo。我试用了新型号，印象非常深刻。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ovp1/gpt4o_mini_vs_gpt35_turbo_i_tried_out_the_new/</link>
+      <description><![CDATA[GPT-4o mini 是我们一直在等待的 AI 语言模型领域的游戏规则改变者吗？ 我刚刚有机会测试了 OpenAI 的最新版本 GPT-4o mini，我印象非常深刻！随着我们步入廉价语言模型的新时代，很明显，这种模型是其前辈和竞争对手的有力竞争者。 在与 GPT-3.5 Turbo 的并排比较中，我使用我的 AI 驱动的算法交易平台 NexusTrade 运行了两个复杂的推理任务。结果令人惊讶： ✅ SQL 查询：  GPT-3.5 Turbo：无法生成有效查询，持续抛出错误。 GPT-3.5 Turbo：第一次尝试就提供了准确的结果，展示了其卓越的推理能力。  ✅ 𝐉𝐒𝐎𝐍 𝐎𝐛𝐣𝐞𝐜𝐭𝐬：  GPT-3.5 Turbo：超出上下文，无法生成有效对象。 GPT-4o mini：成功生成了有效的投资组合，甚至通过了回测配置！  突出的功能？ GPT-4o mini 不仅在两个任务中都优于 GPT-3.5 Turbo，而且成本降低了 60% 以上，拥有巨大的 128K 上下文窗口。这使其成为复杂任务的强大动力，让 GPT-3.5 Turbo 望尘莫及。 随着这一进步，OpenAI 正在提高标准，我相信它将引发来自 Anthropic 和 Meta 等其他参与者的激烈竞争。对于所有利用这些技术的公司来说，人工智能的未来看起来更加光明，也更加实惠。 👉 想阅读全文吗？在这里查看：https://medium.com/p/e7a6abb54b1f    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ovp1/gpt4o_mini_vs_gpt35_turbo_i_tried_out_the_new/</guid>
+      <pubDate>Thu, 18 Jul 2024 23:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能代理的产品中心——Roast Away！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6mxmm/product_hub_for_ai_agents_roast_away/</link>
+      <description><![CDATA[嘿 Reddit！ 我终于启动了我的业余项目：AI 代理目录！🎉 这是一个平台，您可以在其中发现和阅读有关各种AI 代理的信息。我们一直在添加 AI 代理，我期待从这个很棒的社区获得一些诚实的反馈。 它的作用如下：  即时搜索和过滤 AI 代理 为 AI 代理点赞 阅读描述、用例和查看演示 提交您自己的 AI 代理  我知道它并不完美，可能有一百万个可以改进的地方。所以，我在这里请你吐槽一下！把它撕开，告诉我什么是可怕的，什么是好的，以及我如何才能使它变得更好。 请随时在这里查看：https://aiagentsdirectory.com/ 提前感谢您的残酷诚实！🙏 P.S. 温柔一点……好吧，也许不是。😅    提交人    /u/DifficultNerve6992   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6mxmm/product_hub_for_ai_agents_roast_away/</guid>
+      <pubDate>Thu, 18 Jul 2024 21:38:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>长期记忆</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6mh9o/long_term_memory/</link>
+      <description><![CDATA[首先我想说，我绝不是专家，事实上我只知道人工智能最基本的知识，但我很想听听你们对此的看法。如果我说错了，请纠正我。 当人类形成记忆时，它首先被存储在短期记忆中，然后如果值得记住，就会转移到长期记忆中。这是我们学习和成长的一部分。没有它，我们会忘记我们学到的一切。 但对于 LLM 来说，这似乎并不那么简单。你有 token，这实际上是人类的短期记忆，然后我将训练数据比作我们的长期记忆。但没有办法从一个转移到另一个。  如果你想让 LLM 学习，它只需要继续将所有新信息添加到其令牌中，随着时间的推移，读取这些信息的成本越来越高，因为据我所知，大多数 LLM 必须为每个提示读取整个令牌历史记录。  这似乎是下一个最大的步骤，也是创建真正智能机器的最重要一步，即确保短期和长期记忆相连。有什么想法吗？    提交人    /u/Every-Cat-2611   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6mh9o/long_term_memory/</guid>
+      <pubDate>Thu, 18 Jul 2024 21:18:48 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何缓解人工智能语音与人类语音之间的差异？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6lw35/how_would_you_mitigate_the_differences_between_ai/</link>
@@ -55,32 +76,11 @@
       <pubDate>Thu, 18 Jul 2024 16:49:42 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 7 月 18 日 AI 创新每日纪事：🏆 DeepL 的新 LLM 击败 GPT-4、谷歌和微软🤖 Salesforce 推出爱因斯坦服务代理👨‍🏫 前 OpenAI 研究员创办 AI 教育公司📜特朗普盟友起草 AI 命令🌍 谷歌将通过 AI 代理 Oscar 开源！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6fc1v/a_daily_chronicle_of_ai_innovations_july_18th/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6fc1v/a_daily_chronicle_of_ai_innovations_july_18th/</guid>
-      <pubDate>Thu, 18 Jul 2024 16:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤖 人工智能对决、电影魔术和机器人风险：本周的人工智能 GPT 期刊</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6exvt/ai_showdown_movie_magic_and_bot_risks_this_weeks/</link>
-      <description><![CDATA[刚刚发布了我们新的 AI GPT Journal Weekly Insights。以下是我们所涵盖的内容：  🥊 Claude 3.5 Sonnet 与 GPT-4：谁更胜一筹？ 🎬 电影中的人工智能与现实生活中的人工智能：我们走了多远？ 💬 聊天机器人的阴暗面：您应该知道的风险  无论您是深入研究人工智能开发还是只是对该领域感到好奇，这里都有适合您的内容。 阅读并加入对话。您对这些 AI 主题有何看法？ AI GPT Journal 每周见解    提交人    /u/AIGPTJournal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6exvt/ai_showdown_movie_magic_and_bot_risks_this_weeks/</guid>
-      <pubDate>Thu, 18 Jul 2024 15:56:58 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找人工智能写作社区</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6bots/searching_for_ai_writing_communities/</link>
       <description><![CDATA[刚开始探索 AI 写作，正在寻找类似的社区。任何建议都非常感谢。谢谢！    提交人    /u/YellowUnlocker   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6bots/searching_for_ai_writing_communities/</guid>
       <pubDate>Thu, 18 Jul 2024 13:39:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密电子邮件中的 AI 写作助手，在你的设备上运行且不会收集数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e68vhy/aiwriting_assistant_in_encrypted_email_that_runs/</link>
-      <description><![CDATA[如果您正在寻找电子邮件中的写作助手，但又不想将数据提供给 Google，Tech Crunch 刚刚宣布 Proton 推出了他们自己的 AI 助手实现，它不会收集数据并且可以在您的设备上运行：https://techcrunch.com/2024/07/18/proton-launches-privacy-first-ai-writing-assistant-for-email-that-runs-on-device/    提交人    /u/IrinaOzzy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e68vhy/aiwriting_assistant_in_encrypted_email_that_runs/</guid>
-      <pubDate>Thu, 18 Jul 2024 11:16:04 GMT</pubDate>
     </item>
     <item>
       <title>到 2030 年，我们的生活方式发生巨大变化的可能性有多大？</title>
