@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:10:48 GMT</lastBuildDate>
+    <item>
+      <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</link>
+      <description><![CDATA[大家好， 我们最近发布了~开源 Radicalbit AI 监控平台~。该工具旨在帮助数据专业人员衡量 AI 模型的有效性、验证数据质量和检测模型漂移。  最新版本 (0.9.0) 引入了对多类分类和回归的支持，从而完善了已发布的二元分类功能。  您可以从 Web 用户界面和 Python SDK 使用 Radicalbit AI 监控平台。它还提供了~专用安装程序~。 如果您想了解有关该平台的更多信息、安装它并为其做出贡献，请访问我们的~Git 存储库~！    提交人    /u/hpa88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</guid>
+      <pubDate>Fri, 19 Jul 2024 13:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>自上篇文章以来的更新：使我的产品开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e72cds/update_since_my_last_post_making_my_product/</link>
+      <description><![CDATA[几个月前，我在这里发布了一篇关于我的产品以及我们计划如何将其开源的帖子。好吧，我因为这篇文章与这个子版块无关而受到了一些批评，而且它甚至还没有开源，我不应该这么做。 但是，我们刚刚完成了所有步骤，Quash 现在是开源的。 Github - https://github.com/Oscorp-HQ/quash-max 一些背景信息，quash 是一款用于移动应用的应用内错误报告工具。它捕获屏幕截图、会话重播、崩溃日志、API 调用、设备详细信息等数据。我们仍在努力使其兼容 Flutter、iOS 等。Android 已经完成，&amp;欢迎贡献。 与此同时，我们还为移动应用开发者建立了一个 discord 社区。欢迎发表评论或 DM 我以获取邀请。 欢迎任何关于如何改进它的建议。    提交人    /u/psymaniax   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e72cds/update_since_my_last_post_making_my_product/</guid>
+      <pubDate>Fri, 19 Jul 2024 12:18:52 GMT</pubDate>
+    </item>
     <item>
       <title>如何开源 7 年历史的 SaaS 代码库并建立社区？</title>
       <link>https://www.reddit.com/r/opensource/comments/1e70c33/how_to_opensource_a_7_year_old_saas_codebase_and/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我想知道开源项目是否需要产品管理支持？我了解开源团队不进行 Scrum，但会保留一些任务积压。我很乐意从事维护文档、营销和创意的工作。我也是一名软件开发人员，所以也可以在这方面提供一些帮助。只是想知道开源项目多久需要一次这样的支持？    提交人    /u/ReplayBeats   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e6cmtk/product_management_roles_in_open_source_projects/</guid>
       <pubDate>Thu, 18 Jul 2024 14:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>没什么特别的，只是我展示一下我努力开发的 2D 矢量图形引擎，它可以在任何计算机上运行</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e6bxag/nothing_special_just_me_showing_off_my_hard_work/</link>
-      <description><![CDATA[https://github.com/micro-gl/micro-gl     由   提交  /u/hendrixstring   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e6bxag/nothing_special_just_me_showing_off_my_hard_work/</guid>
-      <pubDate>Thu, 18 Jul 2024 13:49:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>对大量主机进行 Ping</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e685cd/ping_large_list_of_hosts/</link>
-      <description><![CDATA[你好！ 我目前正在学习攻防网络安全，在进行侦察时，我经常要处理很多主机。有时，要清楚地看到谁对 ping 做出了积极响应，这很烦人，所以我编写了一个脚本。 我使用的是 nmap -iL target.txt -sn，但我对输出不太满意，因为主机数量很多时输出会变得模糊。我想已经有像我这样的工具了，但我想自己制作一个。 我之所以分享这个，是因为我喜欢制作它，并希望添加一些有趣、可用的功能。如果你们对功能或建议有任何想法，我很乐意采纳。如果您也想合作，当然欢迎您！ 🌸 https://github.com/AyraStelmaszewski/Punglse    由   提交  /u/Snoo_11846   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e685cd/ping_large_list_of_hosts/</guid>
-      <pubDate>Thu, 18 Jul 2024 10:31:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
