@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 06:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 09:09:14 GMT</lastBuildDate>
+    <item>
+      <title>我是新手，但我想制作一些适合自己的冥想音频/视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ywvn/i_am_new_to_this_but_i_am_looking_to_make_some_of/</link>
+      <description><![CDATA[基本上，我想制作一些供自己使用的冥想视频，我将编写自己的脚本，并且我需要一个舒缓的缓慢 AI 声音在背景中播放舒缓的音乐时阅读它。 我搜索了一下，发现大多数要么是付费服务，要么不是我想要的，有没有免费服务可以帮助我做到这一点？ 提前致谢。    提交人    /u/ZxZ239   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ywvn/i_am_new_to_this_but_i_am_looking_to_make_some_of/</guid>
+      <pubDate>Fri, 19 Jul 2024 08:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 mini GPT4o，你需要知道的都在这里</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6x56o/heres_everything_you_need_to_know_about_about/</link>
+      <description><![CDATA[我喜欢 OpenAI 的可预测性，那个神秘的 mini-GPT 模型确实是 OpenAI。以下是您需要了解的有关新模型的所有信息。   新模型称为 GPT-4o mini 更智能、更便宜：它比 GPT-3.5 Turbo 更聪明，而且成本仅为其一小部分。 （减少 60%） 与 GPT-3.5 Turbo 一样快。 多模式：文本和视觉功能，即将推出音频和视频支持。 提高了对各种语言的理解。 适用于：大批量任务、预算友好型项目以及任何需要快速响应的项目​​。 技术规格：128k 上下文窗口、每个请求 16k 输出令牌以及截至 2023 年 10 月的知识。 可通过 OpenAI 的聊天完成 API、助手 API 和批处理 API 获得（批处理 API 有折扣） 如果您正在使用 GPT-3.5 Turbo，不迁移到 gpt4-o mini 那就太疯狂了。  想尝试一下吗？前往 OpenAI Playground。对于任何通过 API 运行 3.5 Turbo 的人来说，这都是个好消息。    提交人    /u/steves1189   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6x56o/heres_everything_you_need_to_know_about_about/</guid>
+      <pubDate>Fri, 19 Jul 2024 06:34:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 与博通秘密谈判，打造革命性的 AI 芯片</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6x3vh/openai_in_secret_talks_with_broadcom_to_create/</link>
+      <description><![CDATA[The Information 周四报道称，OpenAI 正在与 Broadcom opens in a new tab 等芯片制造商洽谈制造新的 AI 芯片。OpenAI 正在考虑制造自己的 AI 芯片，因为它无法获得足够的昂贵 GPU 来制造 GPT-4、DALL-E3 和 ChatGPT 等 AI 模型。https://theaiwired.com/openai-in-secret-talks-with-broadcom-to-create-revolutionary-ai-chip/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6x3vh/openai_in_secret_talks_with_broadcom_to_create/</guid>
+      <pubDate>Fri, 19 Jul 2024 06:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>再见，ChatGPT-3.5</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6vr8i/goodbye_chatgpt35/</link>
@@ -27,13 +48,6 @@
       <pubDate>Fri, 19 Jul 2024 04:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>是否存在一种人工智能程序，可以将歌曲甚至歌曲的乐器部分转换成乐谱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6uoby/is_there_an_ai_program_out_there_that_can_turn/</link>
-      <description><![CDATA[我问这个问题是因为我听过一些非常复杂的爵士钢琴即兴重复段，我想知道是否还有其他方法可以破译它    提交人    /u/Far-Position7115   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6uoby/is_there_an_ai_program_out_there_that_can_turn/</guid>
-      <pubDate>Fri, 19 Jul 2024 04:01:51 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能与生产力</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ul3c/ai_and_productivity/</link>
       <description><![CDATA[Workday 预测，人工智能每年可使英国生产力提高 1190 亿英镑，解决其长期生产力低迷的问题。该报告强调，人工智能可为领导者和员工节省大量时间，但强调要克服信任问题和缺乏人工智能教育。人工智能可以通过处理重复性任务、提高参与度来增强员工的能力。企业需要一个明确的计划来利用人工智能的潜力，并与政策制定者和员工合作以取得成功。 问题是，专注于人工智能效率是否会导致忽视员工福利和创新等其他因素？让我知道你对此的看法！    提交人    /u/Joseph_Clark01   [链接] [评论]]]></description>
@@ -46,13 +60,6 @@
       <description><![CDATA[OpenAI 刚刚推出了 GPT4o mini，它比 GPT 4o 和 GPT 3.5 Turbo 更便宜、更快。我在几个用例（编程、讲故事、数学等）上对其进行了测试，结果看起来很棒。最好的部分？它将取代 GPT 3.5 Turbo 作为 ChatGPT UI 上的默认模型。在此处查看详细演示：https://youtu.be/XmEn8MLZ9KI?si=zYNUsMEovXikAgKj    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6u96p/testing_gpt4o_mini_by_openai/</guid>
       <pubDate>Fri, 19 Jul 2024 03:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议 - 语音学习和预先录制的演讲配音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ssv9/advice_needed_voice_learning_and_voicing_over/</link>
-      <description><![CDATA[大家好， 我对人工智能还比较陌生。  我有许多预先录制的音频文件，基本上是自传的叙述。 我希望能够训练人工智能来学习给定的声音，我可以根据需要提供音频样本。 用训练过的声音为第 1 点中的叙述配音。   警告：语音不是英语。 如果我能保证它能达到这个目的，我不介意为某样东西付一点钱。 据我所知，出现的所有内容都在付费墙后面，而且大多是名人等预先学过的声音。 期待回复。 干杯。    提交人    /u/WeeMo0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6ssv9/advice_needed_voice_learning_and_voicing_over/</guid>
-      <pubDate>Fri, 19 Jul 2024 02:20:07 GMT</pubDate>
     </item>
     <item>
       <title>人工智能和机器人如何塑造美国军队的未来——前将军描绘美国军队的未来</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[太阳能电池、望远镜和其他光学元件制造商可能能够利用 AI 更快地设计出更好的设备。 由密歇根大学工程师开发的 OptoGPT 利用 ChatGPT 所依赖的计算机架构，从所需的光学特性逆向推导可以提供这些特性的材料结构。 新算法设计了光学多层膜结构（堆叠的不同材料的薄层），可用于多种用途。精心设计的多层结构可以最大限度地提高太阳能电池的光吸收率或优化望远镜的反射率。它们可以改善半导体制造中的极紫外光，并通过智能窗户使建筑物更好地调节热量，这些智能窗户会根据温度变得更透明或更具反射性。 OptoGPT 几乎可以在 0.1 秒内立即设计出多层膜结构。此外，与之前的模型相比，OptoGPT 的设计平均少了 6 层，这意味着它的设计更容易制造。 完整的故事和研究请访问https://news.umich.edu/optogpt-for-improving-solar-cells-smart-windows-telescopes-and-more/    提交人    /u/umichnews   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6hnv9/optogpt_developed_by_university_of_michigan/</guid>
       <pubDate>Thu, 18 Jul 2024 17:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日两分钟 AI 更新（日期：2024 年 7 月 18 日）：来自 DeepL、Salesforce、谷歌、微软、腾讯等公司的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e6g3i3/twominute_daily_ai_update_date_7182024_news_from/</link>
-      <description><![CDATA[继续分享一个易于理解的较小版本的 AI 世界主要更新。  DeepL 的新 LLM 击败了 GPT-4、Google 和 Microsoft：该模型专门用于翻译和编辑文本。在盲测中，语言专业人士更喜欢它的自然翻译，频率是 Google Translate 的 1.3 倍，是 ChatGPT-4 的 1.7 倍。 Salesforce 跃入 AI 代理世界：其新的 Einstein 服务代理为客户提供对话式 AI 界面，代表他们采取行动，并与现有客户数据和工作流程集成。该模型目前用于客户服务，也将扩展到 Salesforce 云。  前 OpenAI 研究员创办 AI 教育公司：EurekaLabs 由前特斯拉董事兼 OpenAI 创始人 Andrej Karpathy 创立，专注于为学生打造按需 AI 教学助理。这家 AI 原生公司将以生成式 AI 作为其平台的核心部分。 谷歌将开源 AI 代理 Oscar！该平台将使开发人员能够创建跨各种 SDLC 阶段（如开发、规划、运行时和支持）工作的 AI 代理。Oscar 未来也可能针对闭源项目发布。 微软的 AI 设计师应用发布适用于 iOS 和 Android：它支持 80 种语言并提供提示模板，使用户能够通过文本提示创建贴纸、贺卡、邀请函、拼贴画等。它已在 iOS 和 Android 设备上推出。 Windows 11 照片应用也将与 Designer 进行更深入的集成。 腾讯的新 AI 将照片变成 3D 角色：3D Avatar Dream Factory 应用使用 3D 头部交换、几何雕刻和 PBR 材质纹理映射，让用户可以从单张图片创建逼真、细致的 3D 模型，这些模型可以共享、修改和打印。 OpenAI 让 AI 模型为准确性而战：它采用“证明者-验证者”训练方式，其中较强的 GPT-4 模型是提供问题解决方案的“证明者”，较弱的 GPT-4 模型是检查这些解决方案的“验证者”。 OpenAI 旨在训练其证明模型，为验证者提供易于理解的解决方案，从而提高透明度。 人工智能可以通过预测临界点来解决现实问题吗？研究人员通过使用 ML 算法预测复杂系统中临界点的开始，在人工智能领域开辟了新天地。他们声称这项技术可以解决现实世界的问题，例如预测洪水、停电或股市崩盘。  有关这些新闻和创新的更详细分类，请参阅每日新闻通讯。    提交人    /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e6g3i3/twominute_daily_ai_update_date_7182024_news_from/</guid>
-      <pubDate>Thu, 18 Jul 2024 16:49:42 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
