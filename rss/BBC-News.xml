@@ -4,13 +4,34 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 19 Jul 2024 18:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 21:10:14 GMT</lastBuildDate>
+    <item>
+      <title>库珀称利兹骚乱是“大胆犯罪行为”</title>
+      <link>https://www.bbc.com/news/articles/cqv5y44p31no</link>
+      <description><![CDATA[议员伊维特·库珀 (Yvette Cooper) 表示，引发骚乱的人将受到法律的严惩。]]></description>
+      <guid>https://www.bbc.com/news/articles/cqv5y44p31no</guid>
+      <pubDate>Fri, 19 Jul 2024 19:57:19 GMT</pubDate>
+    </item>
     <item>
       <title>越来越多的民主党人要求拜登退出，拜登誓言参选</title>
       <link>https://www.bbc.com/news/articles/cg3jw2gexedo</link>
       <description><![CDATA[总统乔·拜登的竞选团队周五重申总统将继续参加竞选。]]></description>
       <guid>https://www.bbc.com/news/articles/cg3jw2gexedo</guid>
-      <pubDate>Fri, 19 Jul 2024 17:26:30 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 19:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>医生在 IT 中断期间呼吁善意</title>
+      <link>https://www.bbc.com/news/articles/c728e9dygkeo</link>
+      <description><![CDATA[杰西·哈维医生表示，NHS 工作人员在无法获取数字记录的情况下度过了“极其痛苦的一天”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c728e9dygkeo</guid>
+      <pubDate>Fri, 19 Jul 2024 17:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>评论称青春期阻滞剂抑制并未导致自杀率上升</title>
+      <link>https://www.bbc.com/news/articles/c9x8j5p0992o</link>
+      <description><![CDATA[一份独立评论称，社交媒体上围绕这一问题使用的语言是危险的。]]></description>
+      <guid>https://www.bbc.com/news/articles/c9x8j5p0992o</guid>
+      <pubDate>Fri, 19 Jul 2024 17:54:00 GMT</pubDate>
     </item>
     <item>
       <title>埃米纳姆的最新专辑成为他的第 11 张冠军专辑</title>
@@ -32,13 +53,6 @@
       <description><![CDATA[乔·斯文森 (Jo Swinson) 声称保拉·文内尔斯 (Paula Vennells) 告诉她“显然他们中的一些人实际上只是在这么做。”]]></description>
       <guid>https://www.bbc.com/news/articles/c4ngr82zedxo</guid>
       <pubDate>Fri, 19 Jul 2024 16:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>利兹“混乱之夜”后逮捕</title>
-      <link>https://www.bbc.com/news/articles/c4ng3xgy2k8o</link>
-      <description><![CDATA[在该市哈雷希尔斯郊区发生的骚乱中，一辆警车被掀翻，一辆公共汽车被焚烧。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4ng3xgy2k8o</guid>
-      <pubDate>Fri, 19 Jul 2024 15:52:04 GMT</pubDate>
     </item>
     <item>
       <title>俄罗斯判处美国记者格什科维奇16年徒刑</title>
@@ -69,20 +83,6 @@
       <pubDate>Fri, 19 Jul 2024 13:12:00 GMT</pubDate>
     </item>
     <item>
-      <title>如果我的航班被取消或延误，我有哪些权利？</title>
-      <link>https://www.bbc.co.uk/news/business-61646214</link>
-      <description><![CDATA[如果您因航班取消或延误而面临影响，那么您该怎么办？]]></description>
-      <guid>https://www.bbc.co.uk/news/business-61646214</guid>
-      <pubDate>Fri, 19 Jul 2024 12:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>“赢得一场重大比赛”——但是英格兰主教练的官方工作职责还包括什么呢？</title>
-      <link>https://www.bbc.com/sport/football/articles/cn38j5rkvx2o</link>
-      <description><![CDATA[您想成为下一任英格兰国家队主教练吗？英足总透露了对三狮队新任领队的期望。]]></description>
-      <guid>https://www.bbc.com/sport/football/articles/cn38j5rkvx2o</guid>
-      <pubDate>Fri, 19 Jul 2024 12:17:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Crowdstrike 和微软：我们目前所了解的情况</title>
       <link>https://www.bbc.com/news/articles/cp4wnrxqlewo</link>
       <description><![CDATA[大规模信息技术中断导致全球陷入混乱，各大航空公司也受到影响。]]></description>
@@ -90,9 +90,9 @@
       <pubDate>Fri, 19 Jul 2024 12:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>观看：世界各地机场出现大排队和延误</title>
+      <title>观看：全球各地机场出现蓝屏、排队和延误的情况</title>
       <link>https://www.bbc.com/news/videos/cz7ejpld988o</link>
-      <description><![CDATA[许多航班停飞，世界各地的机场出现大批排队、延误的情况。]]></description>
+      <description><![CDATA[许多航班停飞，世界各地的机场出现大批排队、延误的现象。]]></description>
       <guid>https://www.bbc.com/news/videos/cz7ejpld988o</guid>
       <pubDate>Fri, 19 Jul 2024 11:51:09 GMT</pubDate>
     </item>
