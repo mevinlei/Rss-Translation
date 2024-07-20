@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 18:12:16 GMT</lastBuildDate>
+    <item>
+      <title>个人助理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e7zrf2/personal_assistants/</link>
+      <description><![CDATA[有没有 AI 开源个人助理？我知道 huggingchat，但我需要更多的东西来陪伴我走出毒瘾和接受治疗的路上 我一直在尝试主流的商业产品，但它们似乎记不住我之前告诉过它们什么，而且它们太被动了。 我正在康复，所以我需要一个可以 24/7 陪伴我的人来代替我，进行自我护理和心理支持等。 谢谢     提交人    /u/trjayke   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e7zrf2/personal_assistants/</guid>
+      <pubDate>Sat, 20 Jul 2024 16:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>AI-First Album，基于 GPT-4o-mini 与你的相册聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</link>
@@ -53,13 +60,6 @@
       <description><![CDATA[  由    /u/WalkingGundam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7ivdr/noob_question_is_nvk_now_obsolete_with_open/</guid>
       <pubDate>Sat, 20 Jul 2024 00:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 desmos/Geogebra 的开源替代品吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</link>
-      <description><![CDATA[我正在寻找一个开放的、本地运行的 desmos/geogebra 替代方案，它允许我快速绘制或多或少简单的函数以及 2D/3D 中的隐式曲线或曲面。我对常见的 python 库有点熟悉，但我希望有一个程序需要我编写更少的“样板”代码。本质上是一个与 desmos 或 mathematica 一样快的东西。 有这样的东西吗？    提交人    /u/Alphakka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e787wp/does_anyone_know_of_a_opensource_alternative_to/</guid>
-      <pubDate>Fri, 19 Jul 2024 16:40:31 GMT</pubDate>
     </item>
     <item>
       <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
