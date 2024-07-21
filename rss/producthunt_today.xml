@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Jul 2024 09:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:16:48 GMT</lastBuildDate>
     <item>
       <title>超级记忆</title>
       <link>https://www.producthunt.com/posts/supermemory</link>
@@ -104,20 +104,6 @@ AI 鼓舞人心的演讲：灵感，只为你
       <pubDate>Fri, 19 Jul 2024 11:28:01 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能竞赛</title>
-      <link>https://www.producthunt.com/posts/concurrence-ai</link>
-      <description><![CDATA[
-使用 AI 管理您的社区
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/concurrence-ai</guid>
-      <pubDate>Fri, 19 Jul 2024 11:27:27 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能聊天反应堆</title>
       <link>https://www.producthunt.com/posts/reactor-chat-ai</link>
       <description><![CDATA[
@@ -132,18 +118,18 @@ AI 鼓舞人心的演讲：灵感，只为你
       <pubDate>Fri, 19 Jul 2024 07:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能记忆</title>
-      <link>https://www.producthunt.com/posts/ai-memory</link>
+      <title>果冻麦克斯</title>
+      <link>https://www.producthunt.com/posts/jelly-max</link>
       <description><![CDATA[
-您的个人知识库，可记住一切
+最小的 5G 智能手机，可握在掌中
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-memory</guid>
-      <pubDate>Thu, 18 Jul 2024 12:33:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jelly-max</guid>
+      <pubDate>Wed, 17 Jul 2024 06:04:00 GMT</pubDate>
     </item>
     <item>
       <title>上船</title>
@@ -214,6 +200,20 @@ AI 鼓舞人心的演讲：灵感，只为你
 ]]></description>
       <guid>https://www.producthunt.com/posts/ttravel</guid>
       <pubDate>Fri, 10 May 2024 17:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>編輯.do</title>
+      <link>https://www.producthunt.com/posts/editor-do</link>
+      <description><![CDATA[
+一体化在线 IDE、可视化构建器和主机
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/editor-do</guid>
+      <pubDate>Tue, 07 Nov 2023 21:37:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
