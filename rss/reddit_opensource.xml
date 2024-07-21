@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 21 Jul 2024 18:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 21:08:58 GMT</lastBuildDate>
+    <item>
+      <title>我们刚刚开源了 Verbis：一款适用于 MacOS 的隐私优先、带有 SaaS 连接器的完全本地助手</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e8uy29/we_just_open_sourced_verbis_a_privacyfirst_fully/</link>
+      <description><![CDATA[我很高兴地宣布推出 Verbis，这是一款开源 MacOS 应用程序，旨在让您能够通过 LLM 处理敏感数据。 Verbis 安全地连接到您的 SaaS 应用程序（GDrive、Outlook、Slack 等），在您的系统本地索引所有数据，并利用我们选择的模型。这意味着您可以提高工作效率，而无需将敏感数据发送给第三方。 为什么选择 Verbis？  安全第一：所有数据都在本地索引和处理。  开源：透明的、社区驱动的发展。 提高生产力：利用最先进的模型而不损害隐私。  Verbis 由 Weaviate 和 Ollama 提供支持，在发布本文时，我们选择的模型是 Mistral 7B、ms-marco-MiniLM-L-12-v2 和 nomic-embed-text。 如果该产品引起您的共鸣，让我们聊聊吧！ 🔗 GitHub 存储库 ▶️ 演示视频    提交人    /u/Fickle-Race-6591   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e8uy29/we_just_open_sourced_verbis_a_privacyfirst_fully/</guid>
+      <pubDate>Sun, 21 Jul 2024 19:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效管理 Docker 对象的另一种方法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1e8smw5/alternative_way_to_efficiently_manage_docker/</link>
+      <description><![CDATA[大家好！ 前几天，我尝试使用 docker 桌面，只是想试试......这是一次糟糕的体验。  启动需要很长时间。 考虑到它的滞后程度，它让我感觉就像在运行 20 世纪 90 年代的英特尔奔腾 Electron（duh） 没有 VIM 绑定！？  这就是我决定制作“goManageDocker”的原因，这是我对不断发展的 docker 生态系统的解读。  TLDR： goManageDocker 是一个 TUI 工具，可让您快速高效地管理 docker 对象（VIM 绑定），而无需启动整个浏览器（electron duh）。并且只占用 20MB RAM（是的，是 MB 而不是 GB）。 这是我过去几个月一直在研究的事情，并听取了社区的反馈。大部分已经完成，在我看来它已经准备好了。我仍然计划添加更多功能，如主题、网络选项卡、构建选项等等。 如果您对此感兴趣，请查看：goManageDocker  如果你们遇到任何错误或希望添加功能。欢迎随时打开问题！ 感谢您的阅读！ 祝您有美好的一天！    提交人    /u/Krunchy_Almond   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1e8smw5/alternative_way_to_efficiently_manage_docker/</guid>
+      <pubDate>Sun, 21 Jul 2024 18:13:39 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟委员会是否会放弃对重要开源资金的支持？</title>
       <link>https://www.reddit.com/r/opensource/comments/1e8sj4g/is_the_european_commission_dropping_support_for/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>AI-First Album，基于 GPT-4o-mini 与你的相册聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</link>
-      <description><![CDATA[        由    /u/blueeony 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/blueeony  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7wdj1/aifirst_album_chat_with_your_album_based_on/</guid>
       <pubDate>Sat, 20 Jul 2024 14:04:11 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/WalkingGundam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1e7ivdr/noob_question_is_nvk_now_obsolete_with_open/</guid>
       <pubDate>Sat, 20 Jul 2024 00:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 ML&LLM 的全新开源 AI 监控平台</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</link>
-      <description><![CDATA[大家好， 我们最近发布了~开源 Radicalbit AI 监控平台~。该工具旨在帮助数据专业人员衡量 AI 模型的有效性、验证数据质量和检测模型漂移。  最新版本 (0.9.0) 引入了对多类分类和回归的支持，从而完善了已发布的二元分类功能。  您可以从 Web 用户界面和 Python SDK 使用 Radicalbit AI 监控平台。它还提供了~专用安装程序~。 如果您想了解有关该平台的更多信息、安装它并为其做出贡献，请访问我们的~Git 存储库~！    提交人    /u/hpa88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e73qud/new_open_source_ai_monitoring_platform_for_mlllms/</guid>
-      <pubDate>Fri, 19 Jul 2024 13:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>自上篇文章以来的更新：使我的产品开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1e72cds/update_since_my_last_post_making_my_product/</link>
-      <description><![CDATA[几个月前，我在这里发布了一篇关于我的产品以及我们计划如何将其开源的帖子。好吧，我因为这篇文章与这个子版块无关而受到了一些批评，而且它甚至还没有开源，我不应该这么做。 但是，我们刚刚完成了所有步骤，Quash 现在是开源的。 Github - https://github.com/Oscorp-HQ/quash-max 一些背景信息，quash 是一款用于移动应用的应用内错误报告工具。它捕获屏幕截图、会话重播、崩溃日志、API 调用、设备详细信息等数据。我们仍在努力使其兼容 Flutter、iOS 等。Android 已经完成，&amp;欢迎贡献。 与此同时，我们还为移动应用开发者建立了一个 discord 社区。欢迎发表评论或 DM 我以获取邀请。 欢迎任何关于如何改进它的建议。    提交人    /u/psymaniax   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1e72cds/update_since_my_last_post_making_my_product/</guid>
-      <pubDate>Fri, 19 Jul 2024 12:18:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
