@@ -4,26 +4,40 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jul 2024 09:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:17:42 GMT</lastBuildDate>
     <item>
-      <title>Mutable.ai</title>
-      <link>https://www.producthunt.com/posts/mutable-ai-1</link>
+      <title>日行情</title>
+      <link>https://www.producthunt.com/posts/dayticks</link>
       <description><![CDATA[
-在您的代码库上创建一个活生生的 AI 专家
+高效组织和管理您的日常任务
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/mutable-ai-1</guid>
-      <pubDate>Mon, 22 Jul 2024 05:09:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/dayticks</guid>
+      <pubDate>Mon, 22 Jul 2024 04:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>玩得开心</title>
+      <link>https://www.producthunt.com/posts/play-nice</link>
+      <description><![CDATA[
+算法免费音乐流
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/play-nice</guid>
+      <pubDate>Sun, 21 Jul 2024 20:36:28 GMT</pubDate>
     </item>
     <item>
       <title>法学硕士云</title>
       <link>https://www.producthunt.com/posts/awan-llm</link>
       <description><![CDATA[
-面向初创公司和开发人员的经济高效的 LLM 推理 API
+适用于初创公司和开发人员的经济高效的 LLM 推理 API
 
 
 讨论
@@ -46,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/newsflask-2</guid>
       <pubDate>Sun, 21 Jul 2024 19:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>屏幕快照</title>
-      <link>https://www.producthunt.com/posts/screenflick-2</link>
-      <description><![CDATA[
-人工智能驱动的电影式单行文字网关
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/screenflick-2</guid>
-      <pubDate>Sun, 21 Jul 2024 18:51:26 GMT</pubDate>
     </item>
     <item>
       <title>回音果冻</title>
@@ -88,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/reposhare</guid>
       <pubDate>Sun, 21 Jul 2024 15:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>定制飞行员</title>
+      <link>https://www.producthunt.com/posts/custom-pilot</link>
+      <description><![CDATA[
+将自定义代码补全模型集成到 VS Code 中
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/custom-pilot</guid>
+      <pubDate>Sun, 21 Jul 2024 15:01:24 GMT</pubDate>
     </item>
     <item>
       <title>炫丽桌面</title>
@@ -132,60 +146,32 @@
       <pubDate>Fri, 19 Jul 2024 13:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>Vozo 重写和重新配音</title>
-      <link>https://www.producthunt.com/posts/vozo-rewrite-redub</link>
+      <title>Onsides（测试版）</title>
+      <link>https://www.producthunt.com/posts/onsides-beta</link>
       <description><![CDATA[
-使用提示将热门视频转化为新故事
+唯一一款面向家长的通用青少年运动应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/vozo-rewrite-redub</guid>
-      <pubDate>Tue, 16 Jul 2024 09:30:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/onsides-beta</guid>
+      <pubDate>Thu, 18 Jul 2024 22:53:52 GMT</pubDate>
     </item>
     <item>
-      <title>皮科根</title>
-      <link>https://www.producthunt.com/posts/picogen-2</link>
+      <title>恢复助手</title>
+      <link>https://www.producthunt.com/posts/resumaidpro</link>
       <description><![CDATA[
-Midjourney、稳定扩散和 DALL-E 的新替代方案
+无需离开您的标签即可创建自定义职位简历
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/picogen-2</guid>
-      <pubDate>Fri, 12 Jul 2024 11:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动自动曝光</title>
-      <link>https://www.producthunt.com/posts/autoae</link>
-      <description><![CDATA[
-像顶级创作者一样制作病毒式钩子的最简单方法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/autoae</guid>
-      <pubDate>Mon, 08 Jul 2024 15:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥比西脑</title>
-      <link>https://www.producthunt.com/posts/obsibrain</link>
-      <description><![CDATA[
-为 Obsidian 打造的一体化生产力模板
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/obsibrain</guid>
-      <pubDate>Sun, 07 Jul 2024 10:26:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/resumaidpro</guid>
+      <pubDate>Wed, 17 Jul 2024 17:19:05 GMT</pubDate>
     </item>
     <item>
       <title>艾科洛西奥</title>
@@ -200,6 +186,20 @@ Midjourney、稳定扩散和 DALL-E 的新替代方案
 ]]></description>
       <guid>https://www.producthunt.com/posts/colocio-ai</guid>
       <pubDate>Wed, 26 Jun 2024 09:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>空间切割</title>
+      <link>https://www.producthunt.com/posts/spatialcut</link>
+      <description><![CDATA[
+空间电影的制作地点
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/spatialcut</guid>
+      <pubDate>Mon, 17 Jun 2024 03:47:04 GMT</pubDate>
     </item>
     <item>
       <title>聚会场所</title>
