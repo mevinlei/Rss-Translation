@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 03:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 06:12:44 GMT</lastBuildDate>
+    <item>
+      <title>台积电创下 1 万亿美元里程碑，人工智能需求猛增，领先亚洲公司</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ea02g7/tsmc_hits_1_trillion_milestone_as_ai_demand/</link>
+      <description><![CDATA[6 月 20 日，台湾半导体制造有限公司（TSMC）成为亚洲第一家市值超过一万亿美元的公司。其市值一度超过伯克希尔哈撒韦公司，成为全球第八大最有价值的公司。该公司的悄然崛起可以归因于众多购买其半导体的科技和制造公司。在此处阅读更多信息。    提交人    /u/farooqui45   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ea02g7/tsmc_hits_1_trillion_milestone_as_ai_demand/</guid>
+      <pubDate>Tue, 23 Jul 2024 05:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 7 月 22 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9z7go/oneminute_daily_ai_news_7222024/</link>
+      <description><![CDATA[ 独家：Nvidia 为中国市场准备新款旗舰 AI 芯片。[1] Wiz 拒绝 Alphabet 的 230 亿美元报价，转而寻求 IPO。[2] Meta 停止在巴西培训其生成式 AI 工具。[3] 一周不间断的政治新闻让 AI 聊天机器人束手无策。[4]  来源包括：https://bushaicave.com/2024/07/22/7-22-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9z7go/oneminute_daily_ai_news_7222024/</guid>
+      <pubDate>Tue, 23 Jul 2024 04:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能找到这本书的 pdf 吗：建立一个大型语言模型（从头开始） sebastian raschka</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9yyy0/can_some_one_find_this_books_pdf_build_a_large/</link>
+      <description><![CDATA[请链接 pdf 以供免费下载： 构建大型语言模型（从头开始）sebastian raschka    提交人    /u/thrileyreid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9yyy0/can_some_one_find_this_books_pdf_build_a_large/</guid>
+      <pubDate>Tue, 23 Jul 2024 04:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>索取有关人工智能现状的资源和简报</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9yelb/request_for_resources_and_newsletters_on_the/</link>
+      <description><![CDATA[我正在寻找资源，以了解更多有关构建、部署和支持 AI 所需的各种技术的状态。有无数的列表服务器和网站撰写有关最新 AI 应用程序和 LLM 的文章，但很少有网站详细介绍该技术本身的所有元素及其局限性。第二个是我想知道的。 为了提供一些背景信息，我的工作要求我分析 AI 市场的趋势（特别是，最大的挑战是什么以及公司正在探索哪些解决方案来解决它们）以及个别 AI 公司及其产品（它们有多创新，它们解决了哪些问题，他们声称已经解决的问题实际上是问题吗，等等）。我自己永远不会开发或训练任何东西，所以我对阅读数学论文不感兴趣，但我确实需要详细了解哪些进步值得注意，哪些进步没有重大影响。任何建议都值得赞赏。谢谢！    由   提交  /u/ScubaClimb49   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9yelb/request_for_resources_and_newsletters_on_the/</guid>
+      <pubDate>Tue, 23 Jul 2024 03:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复还是重新生成？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9xj1d/inpaint_or_regenerate/</link>
+      <description><![CDATA[问候 对于 AI 图像生成器，很少能一次性生成完美的图像。有时我甚至需要尝试三次或更多次。 过去，当我对生成的图像不满意时，我总是选择重新生成它们。然而，这通常会消耗大量积分。 我并不是想打广告，但自从我开始使用 AI 图像生成器以来，我一直在使用 AnimeGenius。作为初学者，它对我编写提示有很大帮助。当然，我也在不断学习如何自己编写高质量和详细的提示。我提到这一点是因为 AnimeGenius 以前没有修复功能；它是最近才推出的。我已经迫不及待地想试试了。 （我不知道为什么我不能将图片插入我的文章，所以我只是把它们放在评论里。） 我可以使用这个功能来修复一些小缺陷或在我的图片中添加精确的要求。 至于修复小缺陷，我认为它真的很有用和方便。重要的是比重新生成消耗的积分更少。虽然这对我来说是一个新功能，但通过他们详细的教程视频和博客，我可以很快掌握它。 当涉及到添加精确的东西时。它真的很神奇，而且不会降低原始图像的分辨率。 更让我高兴的是，添加的元素与原始图像无缝融合，而不会改变原始图像中的任何其他内容。它完美地达到了我想要的效果。 但是，如果原始图像中存在大面积的瑕疵或太多元素，则似乎没有太多空间供AI使用，因此我建议使用重新生成。  这是我的经验；您认为如何——倾向于修复还是重新生成？    提交人    /u/GroceryExcellent788   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9xj1d/inpaint_or_regenerate/</guid>
+      <pubDate>Tue, 23 Jul 2024 03:11:54 GMT</pubDate>
+    </item>
     <item>
       <title>作为一名业余爱好者，我需要一些建议，但我并不了解情况，并且想要构建一个 AI 服务器。二手工作站，128GB DDR4，A100。就花费而言，我希望它能赚一点钱来维持我的爱好……</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9wcfw/i_need_advice_as_a_hobbyist_whos_out_of_the_loop/</link>
@@ -27,39 +62,11 @@
       <pubDate>Tue, 23 Jul 2024 00:35:34 GMT</pubDate>
     </item>
     <item>
-      <title>具有预制角色的 AI 艺术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9pfnw/ai_art_with_premade_characters/</link>
-      <description><![CDATA[嘿 我有一个自己设计的角色。 是否有任何 AI 工具可以生成该角色在不同姿势下的图像或类似的东西。 比如我希望这个角色骑自行车或做其他事。 谢谢！！    提交人    /u/Jurrrcy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9pfnw/ai_art_with_premade_characters/</guid>
-      <pubDate>Mon, 22 Jul 2024 21:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何对混合 RVC 模型进行编程推理？（语音转换）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9nwm0/how_do_i_do_programmatical_inference_of_my/</link>
-      <description><![CDATA[所以，我的计划如下：我需要一个听起来不错的近乎实时的 TTS。因此，我想我将通过 Festival TTS（或 espeak，但可能是 festival）生成语音片段，并尽可能快地将它们传递给 RVC。 别担心。我不喜欢窃取现有人物的声音（我不是小美人鱼中的 Ursula，而且，我不喜欢律师上门，即使这在技术上还不违法），所以我在公共领域录音上训练了多个模型，我打算将它们混合在一起，我有 3 个，我已经混合了 2 个。 问题是......有没有官方的方法可以对 RVC v2 进行编程推理（是的，代码）？或者我只是打开我最喜欢的 WebUI，然后提取必要的文件并希望获得最好的效果？ 看到有多少 WebUI 几乎令人惊讶，而在实际软件中实际实现这些 WebUI 的方式充其量是“模糊的”。 还有。为什么我的混合 RVC 模型缺少索引？索引重要吗？（顺便说一下，Applio RVC）    提交人    /u/gabrielesilinic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9nwm0/how_do_i_do_programmatical_inference_of_my/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 改变游戏规则的 Blackwell AI 芯片即将登陆中国</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9kj3t/nvidias_gamechanging_blackwell_ai_chip_is_coming/</link>
-      <description><![CDATA[两位消息人士称，Nvidia 将与其在中国的主要零售合作伙伴之一浪潮合作推出和销售这款芯片，目前该芯片被称为“B20”。2025 年第二季度，“B20”将开始出货。Nvidia 尚未就此事发表公开声明。https://theaiwired.com/nvidias-game-changing-blackwell-ai-chip-is-coming-to-china/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9kj3t/nvidias_gamechanging_blackwell_ai_chip_is_coming/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:48:35 GMT</pubDate>
-    </item>
-    <item>
       <title>本地可用的最佳 txt2music 技术是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9i4wr/what_is_the_best_locally_available_txt2music_tech/</link>
       <description><![CDATA[一直在尝试寻找最佳的本地可训练 txt2music 设置...过去一年一直处于脱节状态（没有双关语），现在又重新开始，但不确定该将注意力集中在哪里。 谢谢！    提交人    /u/nattydroid   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9i4wr/what_is_the_best_locally_available_txt2music_tech/</guid>
       <pubDate>Mon, 22 Jul 2024 16:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>它是未来最有前途的研究领域吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9gs7e/is_it_the_future_field_of_study_with_the_most/</link>
-      <description><![CDATA[你好，如果我的问题不符合子版块的规则，我深表歉意，如果这条消息令人不安，我会删除它。  我今年 24 岁，去年我停止了学业，因为我找不到教职员工（部分原因是大学名额不足）。今天，我仍然想学习，但面对人工智能的出现，我注意到规范人工智能的使用非常复杂，特别是在高等教育中。  我真的很想从事人工智能工作，但我没有逻辑或数学智能。我被诊断出患有计算障碍，这让我的数字世界变得非常复杂。我无法填补我在数学方面的空白（由于缺乏资源，尤其是时间）。  我想知道是否还有可能考虑从事人工智能职业。是否一定还有其他领域需要我可能拥有的技能？我考虑了很长时间的道德问题，但今年的项目并没有更多地关注人工智能。  我可以看到自己正在攻读博士学位，这是一个非常严肃的项目，我真的很想和在这个领域工作的人交谈，这样如果他们有时间和意愿的话，他们可以指导我。  提前谢谢你，祝你好运。    提交人    /u/madnessinity   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9gs7e/is_it_the_future_field_of_study_with_the_most/</guid>
-      <pubDate>Mon, 22 Jul 2024 15:14:55 GMT</pubDate>
     </item>
     <item>
       <title>看到人们在不同的领域使用人工智能真是令人难以置信</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[业内人士（研究人员和公司）对传统神经网络的当前局限性了如指掌，令我惊讶的是，该领域之外的人正在发表相反的言论，这些言论现在正在获得大量关注。好像炒作周期与进展速度有某种关联。也许我错了，我知道这完全是轶事，但我觉得公众和研究界像我这样的人之间存在巨大的脱节。    提交人    /u/MelvilleBragg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9dk4i/why_does_so_much_of_the_general_public_feel_like/</guid>
       <pubDate>Mon, 22 Jul 2024 12:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日两分钟 AI 更新（日期：2024 年 7 月 22 日）：来自 Apple、OpenAI、NVIDIA、Figma、Google 等公司的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1e9di96/twominute_daily_ai_update_date_7222024_news_from/</link>
-      <description><![CDATA[继续分享人工智能领域当天主要更新的易于理解的较小版本。  Apple 发布了两个开源 AI 语言模型：DCLM-7B 和 DCLM-1.4B - 这些模型的表现优于 Mistral 和 Hugging Face 的一些现有产品。DCLM-7B 在 MMLU 基准测试中的准确率达到 63.7%，接近领先的开放模型。较小的 DCLM-1.4B 模型以其尺寸表现出色。Apple 公开提供了模型权重、训练代码和预训练数据集。 OpenAI 正在与 Broadcom 就开发新的 AI 芯片进行谈判 - 该公司已决定开发 AI 服务器芯片。他们的目标是克服用于 AI 开发的昂贵 GPU 的短缺。潜在合作伙伴包括英特尔、台湾半导体制造公司和三星电子。 Nvidia 正在为中国市场开发其新款 Blackwell AI 芯片的一个版本 -该芯片暂定名为“B20”，将遵守美国现行的出口管制。Nvidia 将与浪潮合作在中国分销。在该系列中，B200 芯片在执行特定任务时比其前代产品快 30 倍。 路透社研究所发布了一项关于公众对新闻中 AI 态度的研究 -该研究表明新闻消费者对新闻业中的 AI 并不悲观。虽然最初的反应往往是怀疑的，但随着人们了解不同的 AI 应用，态度变得更加微妙。舒适度因新闻过程中使用 AI 的位置而异，而人类监督仍然是重中之重。 加州推动法案，要求科技巨头对 AI 进行“灾难性”测试风险 - 尽管共和党承诺在全国范围内采取不干涉的态度，但加州的举动引发了激烈的争论。科技领袖反对该法案，称它可能对创新和初创企业造成损害，而支持者则认为该法案对公共安全至关重要。 Figma 撤下了其“Make Designs”AI 工具，因为它生成的设计类似于苹果的天气应用程序 - 该设计平台承认，它在没有经过适当审查的情况下仓促推出了新组件，导致出现了惊人的相似之处。虽然 Figma 没有对受版权保护的设计进行 AI 训练，但它又回到了绘图板上以完善其 QA 流程。 OpenAI 的 GPT-4o Mini 有一项称为“指令层次结构”的安全功能 - 此新功能可防止用户使用“忽略所有先前的指令”等偷偷摸摸的命令欺骗 AI。&amp; OpenAI 优先考虑开发人员的原始提示，旨在使其 AI 在未来的应用（如运行您的数字生活）中更值得信赖、更安全。 谷歌是 2024 年巴黎奥运会的“美国队官方人工智能赞助商” - NBCUniversal 的广播将展示谷歌的技术，从 3D 场馆游览到人工智能辅助评论。此外，五位奥运会和残奥会运动员将使用谷歌的人工智能工具出现在宣传片中。  有关这些新闻和创新的更详细分类，请参阅每日新闻通讯。    提交人    /u/RohitAkki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1e9di96/twominute_daily_ai_update_date_7222024_news_from/</guid>
-      <pubDate>Mon, 22 Jul 2024 12:50:34 GMT</pubDate>
     </item>
     <item>
       <title>新的反垃圾邮件/机器人规则 [请阅读]</title>
