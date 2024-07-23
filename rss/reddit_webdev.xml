@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 00:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 03:11:58 GMT</lastBuildDate>
+    <item>
+      <title>如何让 Elementor Form 在 Cloudflare 上运行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e9x5ps/how_do_i_make_an_elementor_form_work_on_cloudflare/</link>
+      <description><![CDATA[我使用 elementor 为我的网站创建了一个表单，但不知道此时我需要做什么才能让它工作。我正在使用 cloudflare，此时已设置好所有其他内容，包括电子邮件转发。我使用 wordpress 构建了它并将其托管在本地 + 当我在本地版本上进行更改时，我一直使用“simplystatic”插件将其导出到 cloudflare 并进行部署。在 elementor 中，我添加了“提交后的操作”，并设置了电子邮件字段。     提交人    /u/Shaoshii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e9x5ps/how_do_i_make_an_elementor_form_work_on_cloudflare/</guid>
+      <pubDate>Tue, 23 Jul 2024 02:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次自托管 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e9w5sg/first_time_self_hosting_api/</link>
+      <description><![CDATA[我为一家小型企业创建了一个 API，托管在本地服务器上。然后，该公司网站从 API 中获取产品信息。 奇怪的是，大多数访问该网站的人都能顺利访问所有信息，但大约五分之一的人从 API 中收到超时错误。API 没有显示任何错误。 这是我的第一个 API，所以也许我遗漏了什么。我通过小更新重置了 API 几次。 有什么想法吗？    提交人    /u/UncleFather_Oscar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e9w5sg/first_time_self_hosting_api/</guid>
+      <pubDate>Tue, 23 Jul 2024 02:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 React Inertia 创业公司</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e9v0ij/my_react_inertia_startup/</link>
+      <description><![CDATA[大家好，我很感激您对新设计的网站 skygripper.com 的设计和功能的一些反馈。它是使用 laravel 11 和 react inertia 构建的，谢谢，很高兴见到大家    提交人    /u/ultramax90   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e9v0ij/my_react_inertia_startup/</guid>
+      <pubDate>Tue, 23 Jul 2024 01:08:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在这种情况下我应该做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e9unr3/what_should_i_do_in_this_scenario/</link>
+      <description><![CDATA[我要建立一个网站，让用户协作完成一个项目。这些项目就像 reddit 帖子一样。项目有很多属性、元数据 + 排名系统。排名越高，项目就越受欢迎或被看到的机会越大。 现在，如果用户对项目点赞或发表评论，我应该如何处理结构？ 具有评论或点赞功能的用户类？具有这些功能的项目类？ 还是单独的评论和投票类？如果是这样，那么我应该如何仅通过 ID 将它们与项目和用户联系起来？还有其他层吗？助手？服务？数据库？ 用户是执行这些操作的人，但这些操作正在成为项目的一部分。 所以这让我很困惑。 最好的方法是什么，这样我就不会在类之间紧密耦合。 将不胜感激详细的答案。提前致谢。    由   提交  /u/awaiskorai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e9unr3/what_should_i_do_in_this_scenario/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:51:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以免费托管我的后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1e9ug2s/where_to_host_my_backend_for_free/</link>
+      <description><![CDATA[大家好。我一直在使用 Heroku 托管我的后端，使用 Vercel 托管我的前端。 不知何故，我的 Heroku API 由于某种原因停止工作，日志没有显示任何错误，这促使我寻找新的替代方案。 我浏览过互联网，但总是发现付费墙。免费服务不再存在了吗？为什么现在在上传文件之前一切都必须付费？😭。 你们认为自托管（vps）是一个可靠的选择吗？；设置一个有多难。有人说很难，有人说很容易。正确答案是什么？ 注意：我只在寻找托管我的 ExpressJS 服务器的位置。对于前端，我将继续使用 Vercel。    提交人    /u/kirasiris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1e9ug2s/where_to_host_my_backend_for_free/</guid>
+      <pubDate>Tue, 23 Jul 2024 00:41:10 GMT</pubDate>
+    </item>
     <item>
       <title>防火墙阻止</title>
       <link>https://www.reddit.com/r/webdev/comments/1e9u3cb/firewall_blocking/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1e9mkbf/i_found_the_worst_job_description_ive_ever_seen/</guid>
       <pubDate>Mon, 22 Jul 2024 19:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>TIL，您可以添加 DNS 记录 (BIMI)，它将徽标添加到您发出的所有电子邮件中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9mgrh/til_that_you_can_add_a_dns_record_bimi_that_will/</link>
-      <description><![CDATA[  由    /u/lilouartz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9mgrh/til_that_you_can_add_a_dns_record_bimi_that_will/</guid>
-      <pubDate>Mon, 22 Jul 2024 19:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历上写的学历优先于经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9ma0c/education_before_experience_on_resume/</link>
-      <description><![CDATA[作为一名经验不稳定的新毕业生，我应该把教育放在首位吗？还是总是把经验放在第一位？    提交人    /u/Beginning-Roof4889   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9ma0c/education_before_experience_on_resume/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法防止 Facebook、Instagram 等干扰标签的历史记录？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9lxf4/is_there_a_way_to_prevent_facebook_instagram_etc/</link>
-      <description><![CDATA[至少在几个月内，如果你在谷歌上搜索某个东西，它会带你进入 Facebook、Instagram 等页面（FB 家族中的某个东西），打开它会删除你的标签历史记录，所以你无法返回搜索结果。 有没有扩展程序或其他东西可以阻止这种愚蠢的行为？ 嘿，扎克 - 你太差劲了。 不要再破坏浏览器的预期行为了。    提交人    /u/drmoocow   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9lxf4/is_there_a_way_to_prevent_facebook_instagram_etc/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站构想不确定是否可行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9ls77/website_idea_not_sure_if_possible/</link>
-      <description><![CDATA[我想建立一个网站 本质上，我希望网站访问者输入一些日期，即企业名称、所有者姓名等 然后搜索 sunbiz.org 和 myfloridalicense.com 中包含的数据库 如果他们输入企业名称 - https://search.sunbiz.org/Inquiry/CorporationSearch/ByName 所有者姓名 - https://search.sunbiz.org/Inquiry/CorporationSearch/ByOfficerOrRegisteredAgent 许可证号 - https://www.myfloridalicense.com/wl11.asp?mode=1&amp;SID=&amp;brd=&amp;typ= 我知道我需要进行微调，并且网站访问者需要正确输入名称，但如果他们不这样做，可能会返回未找到任何内容？    提交人    /u/Mikeuna63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9ls77/website_idea_not_sure_if_possible/</guid>
-      <pubDate>Mon, 22 Jul 2024 18:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何对法律 AI 网络应用程序进行单元测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1e9koa2/how_we_unit_tested_a_legal_ai_web_app/</link>
-      <description><![CDATA[https://docs.poyro.dev/essays/unit-testing-a-legal-ai-app 测试 AI 系统具有挑战性。我们在合作开发一个修改销售合同的 AI 系统时遇到了这个问题。 我们必须回答的一些问题是：  是什么让 AI 助手输出的建议成为“好的法律建议”？ 我们如何将系统的输出分解为可以测试的离散步骤？ 我们如何将每个离散步骤映射到我们对“好的法律建议”的定义中？使其可衡量？  为此，我们必须想出一个流程，从将 AI 法律顾问分解为可测试的组件开始，将开放式的法律和可用性问题转化为可衡量的数量，最后使用 Vitest 和 Poyro（https://github.com/poyro/poyro）（我们构建的 Vitest 插件）编写单元测试，以查找系统与预期不符的地方。 我们最终遵循的测试步骤适用于非法律 AI 应用程序。 本文为这些测试提供了可运行的代码示例，您可以使用它们。希望您觉得这很有趣，我们发现从头到尾介绍一个具体的用例很有见地，也很有趣。    提交人    /u/batchnormalized   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1e9koa2/how_we_unit_tested_a_legal_ai_web_app/</guid>
-      <pubDate>Mon, 22 Jul 2024 17:54:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
