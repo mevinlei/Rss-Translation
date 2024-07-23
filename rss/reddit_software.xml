@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 12:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 15:10:45 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以防止在按下左键后单击右键的方法</title>
+      <link>https://www.reddit.com/r/software/comments/1ea9woy/looking_for_something_that_prevents_right/</link>
+      <description><![CDATA[我的鼠标有点坏了，有时候它会单击右键而不是单击左键，但我知道在它无意中单击右键之前它总是先单击左键，我该如何设置延迟以确保它停止单击右键并增加延迟？有没有软件可以做到？（除了 Linux 之外，还在 Windows 上寻找一些东西）    提交人    /u/Stickhtot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ea9woy/looking_for_something_that_prevents_right/</guid>
+      <pubDate>Tue, 23 Jul 2024 14:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>修改 .EXE 文件中的字符串</title>
+      <link>https://www.reddit.com/r/software/comments/1ea9kb2/modify_strings_in_exe_file/</link>
+      <description><![CDATA[您好，我想修改 (.exe) 文件中的文本。 https://preview.redd.it/swjm9mhy5aed1.png?width=284&amp;format=png&amp;auto=webp&amp;s=31e4c753e42d3659d66215cc88806203a38a8e77 但是当我搜索特定字符串（如“Validate”）时和“密钥无效”，我找不到任何结果，即使这些字符串出现在程序中。 在未混淆的程序中，找到一个字符串并将其替换为另一个相同大小的字符串很简单。此方法不适用于我在图片中显示的测试程序。 我这样做是为了提高我的逆向工程技能。如果有人有修改混淆可执行文件中的字符串的建议或技巧，我将不胜感激。    提交人    /u/Alon51   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ea9kb2/modify_strings_in_exe_file/</guid>
+      <pubDate>Tue, 23 Jul 2024 14:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的浏览器出了问题</title>
+      <link>https://www.reddit.com/r/software/comments/1ea82vf/something_wrong_with_the_my_browser/</link>
+      <description><![CDATA[https://preview.redd.it/ric3s13ou9ed1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=9e87c4957983563cd17d99461dee0bef217ddb18 如果我将浏览器放在背景中一段时间​​而不使用它，它就会变白。你们能帮助我了解发生了什么以及如何修复它吗？    提交人    /u/Enough_Yesterday9998   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ea82vf/something_wrong_with_the_my_browser/</guid>
+      <pubDate>Tue, 23 Jul 2024 13:38:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，我不知道这是什么</title>
+      <link>https://www.reddit.com/r/software/comments/1ea6lsv/hi_i_dont_know_what_this_is/</link>
+      <description><![CDATA[https://preview.redd.it/8df8ld74i9ed1.png?width=2509&amp;format=png&amp;auto=webp&amp;s=42fcdf0183d8915445302cd9ae2e2c4589f2651e 可访问事件观察器就是它所说的。它弹出，每当我尝试退出时，它都会在几秒钟后再次弹出。这是病毒吗？抱歉，我对电脑真的很不擅长     提交人    /u/Severe-Remote-4220   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ea6lsv/hi_i_dont_know_what_this_is/</guid>
+      <pubDate>Tue, 23 Jul 2024 12:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找自动按键器</title>
       <link>https://www.reddit.com/r/software/comments/1ea5eye/im_looking_for_auto_key_presser/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/filsdelama  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1e9vv9k/does_flux_stand_for_f_lux_light_in_latin_or_is_it/</guid>
       <pubDate>Tue, 23 Jul 2024 01:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合音乐制作（和游戏）</title>
-      <link>https://www.reddit.com/r/software/comments/1e9uh70/best_for_music_production_and_gaming/</link>
-      <description><![CDATA[想要建立自己的录音室...想要与 Ableton 合作制作音乐。我制作了很多文件，每个文件都占用一些空间...当然我可以买硬盘，但我需要一些可以保持速度并且不会导致延迟的东西。想要一些便宜的东西，但作为一项投资，我持开放态度。我也想开始玩游戏，什么对游戏和音乐制作都有好处。     提交人    /u/Interesting-Pool4734   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e9uh70/best_for_music_production_and_gaming/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:42:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助恢复文件以正确卸载。已从 MAc 上的应用程序文件夹中删除文件</title>
-      <link>https://www.reddit.com/r/software/comments/1e9ueeh/need_help_restoring_files_to_properly_uninstall/</link>
-      <description><![CDATA[我意外地从应用程序文件夹中直接删除了包含控制台和其他小界面的 UAD 文件夹，因为控制台没有加载。我试图重新安装它，但错误地删除了文件夹（因为愚蠢地收听 ChatGPT）而不是运行卸载驱动程序。我需要恢复这些文件或放置另一个文件以正确卸载然后重新安装软件。 问题始于控制台没有加载，阻止我通过 Apollo MK II 界面进行录制。每次我尝试重新安装时，它都会在过程的最后失败。虽然音频通过扬声器播放，但我无法收到任何信号，提示我搜索控制台。无法找到它，我通过从应用程序文件夹中删除整个文件错误地卸载了软件。 我也尝试卸载 UA Connect，但它将不再卸载并始终指示它“当前正在运行”。我使用了 Disk Drill，它恢复了大约 6.67 GB，但它没有将文件直接还原到废纸篓或应用程序文件夹。我不确定应该将这些文件放在哪里。我有一个可以将它们还原到的硬盘，但我不知道接下来的步骤。或者，有没有更好的方法可以完全卸载其他所有内容？    提交人    /u/Ill_Use3434   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e9ueeh/need_help_restoring_files_to_properly_uninstall/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何创建自己的操作系统？</title>
-      <link>https://www.reddit.com/r/software/comments/1e9tm9r/how_do_i_create_my_own_os/</link>
-      <description><![CDATA[我想创建自己的手机操作系统，有人能帮忙吗？快速编辑：假设我想使用 android 作为模板并以此为基础进行构建，可以吗？    由   提交  /u/SelvesterTiggleTips   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e9tm9r/how_do_i_create_my_own_os/</guid>
-      <pubDate>Tue, 23 Jul 2024 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>以逐帧相册格式显示我的视频</title>
-      <link>https://www.reddit.com/r/software/comments/1e9p2zg/display_my_video_in_a_frame_by_frame_photo_album/</link>
-      <description><![CDATA[我正在寻找一个免费的程序，我可以把我的视频放进去，它会将我的视频分成每一帧，以相册的格式返回，我可以浏览并保存编辑每个单独的帧    提交人    /u/allowistaken   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1e9p2zg/display_my_video_in_a_frame_by_frame_photo_album/</guid>
-      <pubDate>Mon, 22 Jul 2024 20:51:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
