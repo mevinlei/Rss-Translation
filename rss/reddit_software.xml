@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 23 Jul 2024 21:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 00:41:16 GMT</lastBuildDate>
+    <item>
+      <title>将多个 ISO/BIN+CUE 映像刻录到一张光盘？</title>
+      <link>https://www.reddit.com/r/software/comments/1ealnmk/burning_multiple_isobincue_images_to_a_single_disc/</link>
+      <description><![CDATA[计划为 Virtualbox 进行一些 CD 刻录，想问一下是否可以将多个 bin+cue/ISO 映像文件放在一张 DVD 上（不是将映像本身刻录到光盘，而是将多个光盘映像文件刻录到光盘），然后当 DVD 在物理驱动器中时，通过 daemontools/magicdisc 等想象安装软件运行光盘映像（在物理 DVD 上）。 我尽力解释这一点，但如果我需要更好地阐述，请告诉我。在您询问这有多奇怪之前，请记住我并不是一个拥有无限磁盘空间来存放光盘映像的人，我也没有无限量的 CD 来刻录单个光盘映像。我只是想知道将多个 ISO 文件刻录到一张 DVD 并以此方式从光盘上安装 ISO 文件是否可行。    提交人    /u/Complete_Dress_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ealnmk/burning_multiple_isobincue_images_to_a_single_disc/</guid>
+      <pubDate>Tue, 23 Jul 2024 22:52:21 GMT</pubDate>
+    </item>
     <item>
       <title>视频截取</title>
       <link>https://www.reddit.com/r/software/comments/1eaiopz/vídeo_capture/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在用 Python 创建一个程序，需要比较一组图像。我希望它评估运动卡并确定它们是否相同。对于这样的事情，最好的图像比较工具是什么？ 我试过 OpenCV 和 GPT-4o-mini，但都不擅长。    提交人    /u/Positive_Minimum_564   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eab9ju/best_image_comparison_tool/</guid>
       <pubDate>Tue, 23 Jul 2024 15:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁能帮助解决这个启动循环的情况吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1eaamwu/any_help_with_this_bootloop_situationship/</link>
-      <description><![CDATA[（10 个月以来一直这样。过了一段时间，没有得到帮助，直到今天我都没有再尝试。我需要我的手机） 我在 xda 上遇到了一些人的问题，他们无法访问 fastboot 也无法访问 recovery，但可以访问 edl 但我甚至无法访问 edl 模式。我想我卡在了某种启动循环中，我的屏幕所做的就是打开，持续 0.5 秒然后关闭。我无法访问 twrp，它就像消失了一样......如果我尝试进入 fastboot，我会看到 0.5 秒的徽标然后关闭。 我做了什么：我有像素体验自定义 rom 并且我收到了更新，我刷了 rom 更新和固件（正如我的设备的官方电报组所说）但是当我重新启动时，手机进入了这种启动循环。有人告诉我，这可能是软砖，因为我可能安装了错误的固件（gingko 而不是 willow）。 （更新：发生了什么。当我安装 rom 时，它以某种方式将其固件切换为 gingko（redmi note 8）而不是 willow（redmi note 8T），所以当我安装正确的固件 willow 时，它就开始启动循环。） 我安装了驱动程序和其他东西，但我无法安装设备驱动程序，因为我的电脑无法检测到手机：在设备管理器中我看不到该设备，尝试了不同的端口和电缆。 甚至尝试了 edl flash 电缆（自制），但什么也没发生...我的意思是我不知道它是否进入了 edl 模式，如果我根本看不到电脑上它...... miflash 和 adb 都无法检测到它 现在我在电源按钮上放了一个苏格兰威士忌表带并进入启动循环，因为我在某处读到有人在电池耗尽后让 adb 识别手机（即使在我的情况下需要很多）（更新：电池耗尽没有帮助。将其连接到电脑或其他能源，它只会重新启动启动循环） 我希望你们中的一些人可以帮助我..如果我根本没有收到回复，我可能会在其他相关的小米论坛中发送相同的帖子 我不想打开它并用引脚解决它，但如果没有其他选择，通过一个好的教程，我愿意这样做。我正在使用一部 1.70 GB 内存的手机，我有点需要我的手机。谢谢大家    提交人    /u/WaNaX0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eaamwu/any_help_with_this_bootloop_situationship/</guid>
-      <pubDate>Tue, 23 Jul 2024 15:26:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
