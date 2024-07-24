@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Wed, 24 Jul 2024 00:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 03:10:49 GMT</lastBuildDate>
+    <item>
+      <title>Python：iOS、Android、MacOS、Windows 应用程序使用一个堆栈！flet 应用程序开发 - 直播</title>
+      <link>https://www.reddit.com/r/programming/comments/1eapn22/python_ios_android_macos_windows_application/</link>
+      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eapn22/python_ios_android_macos_windows_application/</guid>
+      <pubDate>Wed, 24 Jul 2024 01:56:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Tree-sitter 解析 Protobuf 定义</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao5b4/parsing_protobuf_definitions_with_treesitter/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao5b4/parsing_protobuf_definitions_with_treesitter/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>cubecl：用 Rust 编写 GPU 代码，针对多个平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao5a1/cubecl_write_gpu_code_in_rust_targetting_multiple/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao5a1/cubecl_write_gpu_code_in_rust_targetting_multiple/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中值滤波：简单算法、基于直方图、二叉树等</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao58r/median_filtering_naive_algorithm_histogrambased/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao58r/median_filtering_naive_algorithm_histogrambased/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>代数数据类型的代数（和微积分！）</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao4gx/the_algebra_and_calculus_of_algebraic_data_types/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao4gx/the_algebra_and_calculus_of_algebraic_data_types/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solaris 中的“门”：使用文件描述符的轻量级 RPC（1996 年）</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao48t/doors_in_solaris_lightweight_rpc_using_file/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao48t/doors_in_solaris_lightweight_rpc_using_file/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:41:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>std::monostate 有什么用？你用它什么也做不了！</title>
+      <link>https://www.reddit.com/r/programming/comments/1eao3o1/whats_the_point_of_stdmonostate_you_cant_do/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eao3o1/whats_the_point_of_stdmonostate_you_cant_do/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:41:11 GMT</pubDate>
+    </item>
     <item>
       <title>当执行 uop 数不是处理器宽度的倍数的循环时，性能是否会降低？</title>
       <link>https://www.reddit.com/r/programming/comments/1eao3fr/is_performance_reduced_when_executing_loops_whose/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eao0i2/trunk_build_bundle_and_ship_your_rust_wasm/</guid>
       <pubDate>Wed, 24 Jul 2024 00:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型作为接口</title>
-      <link>https://www.reddit.com/r/programming/comments/1eanzko/types_as_interfaces/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eanzko/types_as_interfaces/</guid>
-      <pubDate>Wed, 24 Jul 2024 00:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby 方法无色</title>
-      <link>https://www.reddit.com/r/programming/comments/1eanzd4/ruby_methods_are_colorless/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eanzd4/ruby_methods_are_colorless/</guid>
-      <pubDate>Wed, 24 Jul 2024 00:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>NES CHR 图形</title>
-      <link>https://www.reddit.com/r/programming/comments/1eanfyh/nes_chr_graphics/</link>
-      <description><![CDATA[  由    /u/elemenity  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eanfyh/nes_chr_graphics/</guid>
-      <pubDate>Wed, 24 Jul 2024 00:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发中知识与智慧的区别</title>
-      <link>https://www.reddit.com/r/programming/comments/1eak4sb/the_difference_between_knowledge_and_wisdom_in/</link>
-      <description><![CDATA[  由    /u/bitter-cognac  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eak4sb/the_difference_between_knowledge_and_wisdom_in/</guid>
-      <pubDate>Tue, 23 Jul 2024 21:47:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>（Crowd）Strike 3，你出局了：重新构想操作系统安全</title>
-      <link>https://www.reddit.com/r/programming/comments/1eag7d2/crowdstrike_3_youre_out_reimagining_os_security/</link>
-      <description><![CDATA[  由    /u/Send__Snacks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eag7d2/crowdstrike_3_youre_out_reimagining_os_security/</guid>
-      <pubDate>Tue, 23 Jul 2024 19:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOLID 原则：编写干净、结构化的代码 | YouTube 视频</title>
-      <link>https://www.reddit.com/r/programming/comments/1eag5q8/solid_principles_write_clean_structured_code/</link>
-      <description><![CDATA[  由    /u/csharp-agent  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eag5q8/solid_principles_write_clean_structured_code/</guid>
-      <pubDate>Tue, 23 Jul 2024 19:08:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令式与声明式模型。用 Beer 解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1eae9fh/imperative_vs_declarative_models_explained_with/</link>
-      <description><![CDATA[  由    /u/selmaohneh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eae9fh/imperative_vs_declarative_models_explained_with/</guid>
-      <pubDate>Tue, 23 Jul 2024 17:51:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
