@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 21:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:40:06 GMT</lastBuildDate>
+    <item>
+      <title>软件/应用程序可以清理一段时间未使用的应用程序/软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ebh865/software_app_to_clean_appssoftware_unused_for_a/</link>
+      <description><![CDATA[是否有任何存储清理软件或应用程序可让您优化空间并清理一段时间未使用的应用程序？    提交人    /u/DizzeeYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ebh865/software_app_to_clean_appssoftware_unused_for_a/</guid>
+      <pubDate>Thu, 25 Jul 2024 00:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Windows 的优质免费/廉价英语 TTS 应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1ebe0gz/good_freecheap_english_tts_app_for_windows/</link>
+      <description><![CDATA[我之前用过微软的“Type to Voice Chat”。如果你推荐的软件是免费的，我并不指望它有特别好的质量，我对此很满意。 我使用 VB 音频线将应用连接到我的麦克风。所以我需要应用实时朗读文本。    提交人    /u/extra_scum   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ebe0gz/good_freecheap_english_tts_app_for_windows/</guid>
+      <pubDate>Wed, 24 Jul 2024 22:02:26 GMT</pubDate>
+    </item>
     <item>
       <title>具有简单、漂亮用户界面的文件管理器。</title>
       <link>https://www.reddit.com/r/software/comments/1ebchdj/file_manager_with_simple_pretty_ui/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在屏幕截图中，您可以看到 VLC 正确显示字幕，但 KMP 在标志上方显示文字，标志本身显示不正确。我尝试更改一些设置，但没有任何变化。有什么办法可以解决这个问题。 https://preview.redd.it/0adi5cftzged1.png?width=1041&amp;format=png&amp;auto=webp&amp;s=98bbba57d410ad094516b316d556d4b9dd5a72a2    提交人    /u/hhyperxxtension   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eb1uor/kmplayer_subtitles_render_issue/</guid>
       <pubDate>Wed, 24 Jul 2024 13:44:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 Windows Media Player (Legacy) / Winamp 的替代品？</title>
-      <link>https://www.reddit.com/r/software/comments/1eb0zme/is_there_any_good_alternatives_for_windows_media/</link>
-      <description><![CDATA[基本上，我想了解其他具有完整音乐库作为主要功能的播放器，就像 WMP 和 Winamp 一样。 对我来说，像 MPC-HC 和 VLC 这样的播放器仅适用于一次性视频播放，要听音乐，我想要类似前者的东西。    提交人    /u/the_vico   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eb0zme/is_there_any_good_alternatives_for_windows_media/</guid>
-      <pubDate>Wed, 24 Jul 2024 13:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>未找到 Etoken.dll</title>
-      <link>https://www.reddit.com/r/software/comments/1eazjw5/etokendll_is_not_found/</link>
-      <description><![CDATA[我父亲已经更新了他的电子签名（cirtSIGN 的 SafeNet 签名），他们最近取消了对 Windows 7 的支持，我将他的 Windows 升级到了 10 pro，但一直出现错误“未找到 etoken.dll”，我尝试了互联网上能找到的所有方法，重新安装了软件，使用 sfc 和 dsim 扫描任何东西，发现了一些损坏的文件但并没有解决问题，升级了所有驱动程序、DirectX、Microsoft visual C++，尝试手动安装 .dll 文件，但当我尝试将其放到应该的位置时，它说已经有一个了，我需要替换它，然后出现错误，提示它正在某处使用，我需要关闭该程序，我查看了其他进程，没有任何东西在使用它。需要注意的一点是，我第一次在笔记本电脑上安装了该程序，它运行正常，他使用它的旧版本也没有任何问题。我联系了他们，他们说会让技术团队知道并打电话给我，但已经过去了 4 个小时，他不能只是等待无所事事。    提交人    /u/Fallcus   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1eazjw5/etokendll_is_not_found/</guid>
-      <pubDate>Wed, 24 Jul 2024 11:53:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
