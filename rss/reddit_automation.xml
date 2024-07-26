@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 25 Jul 2024 21:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 00:39:12 GMT</lastBuildDate>
     <item>
       <title>一种丰富和细分 LinkedIn 联系人和个人资料的工具？</title>
       <link>https://www.reddit.com/r/automation/comments/1eaiha9/a_tool_to_enrich_and_segment_linkedin_contacts/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>Facebook Messenger 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1e94ovz/facebook_messenger_automation/</link>
-      <description><![CDATA[您好，有人可以帮忙创建一个自动回复程序，将 Facebook 消息发送到个人帐户（不是企业页面）吗？好像只能通过页面来完成？ 谢谢    提交人    /u/redditdeebz   [link] [comments]]]></description>
+      <description><![CDATA[您好，有人可以帮忙创建一个自动回复程序，将 Facebook 消息发送到个人帐户（不是商业页面）吗？好像只能通过页面来完成？ 谢谢    提交人    /u/redditdeebz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1e94ovz/facebook_messenger_automation/</guid>
       <pubDate>Mon, 22 Jul 2024 03:41:25 GMT</pubDate>
     </item>
@@ -90,13 +90,6 @@
       <pubDate>Fri, 19 Jul 2024 22:33:33 GMT</pubDate>
     </item>
     <item>
-      <title>请大家帮帮我</title>
-      <link>https://www.reddit.com/r/automation/comments/1e7esda/pls_help_me_out_guys/</link>
-      <description><![CDATA[所以我对自动化完全陌生，我从未（也从未打算）使用高级的东西 我是一个简单的日常人，需要一些非常重要的帮助 - 我想设置一个简单的固定时间间隔自动化命令 （如果是半小时，打开铃声 - 然后再过半小时 - 再次打开铃声（即使它已经打开） - 继续无限次这样做） 我以前只使用模式和例程应用程序作为自动化，它们是简单的 if then 语句，非常简单。我也尝试过 IFTTT、Tasker 和 MacroDroid，但显然他们也没有它，或者我不知道如何设置它。请教育我。 我需要设置它，因为我的设备存在一些问题。这真的会帮助我 非常感谢您的阅读。希望有人能帮助我。祝你一切顺利。祝你度过美好的一天    由   提交  /u/RitterBruder1232   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1e7esda/pls_help_me_out_guys/</guid>
-      <pubDate>Fri, 19 Jul 2024 21:19:37 GMT</pubDate>
-    </item>
-    <item>
       <title>TikTok 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1e7bual/tiktok_automation/</link>
       <description><![CDATA[您好，有人知道有什么工具可以使用 reddits 自动创建内容，然后将其发布到 TikToks 上吗？我已经想到了 faceless.video，但需要不同的选项。    提交人    /u/WorkingEmphasis8156   [link] [comments]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[我一直在研究一些提示技术来制作多步骤 GPT。事实证明，使用普通英语提示和代码的混合是可能的。这让我能够创建一个完成大部分工作的 GPT。 完整文章在这里：https://aipostscarcity.substack.com/p/im-an-ai-consultant-and-ive-just?r=1vhv07    提交人    /u/andysurtees   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1e7aps8/im_an_ai_consultant_and_ive_just_replaced_myself/</guid>
       <pubDate>Fri, 19 Jul 2024 18:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>回顾自动化七年历程</title>
+      <link>https://www.reddit.com/r/automation/comments/1e6arz7/a_look_back_on_7_years_of_automating_stuff/</link>
+      <description><![CDATA[        提交人    /u/D2GCal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1e6arz7/a_look_back_on_7_years_of_automating_stuff/</guid>
+      <pubDate>Thu, 18 Jul 2024 12:57:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
