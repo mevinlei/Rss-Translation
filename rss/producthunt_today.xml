@@ -4,20 +4,34 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 28 Jul 2024 09:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 12:15:53 GMT</lastBuildDate>
     <item>
-      <title>清晰表达</title>
-      <link>https://www.producthunt.com/posts/articula-3</link>
+      <title>日记</title>
+      <link>https://www.producthunt.com/posts/diary</link>
       <description><![CDATA[
-用自己的声音说任何语言
+一个私密且安全的地方，记录你的想法
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/articula-3</guid>
-      <pubDate>Sun, 28 Jul 2024 02:33:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/diary</guid>
+      <pubDate>Sun, 28 Jul 2024 03:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特远程</title>
+      <link>https://www.producthunt.com/posts/bitremote</link>
+      <description><![CDATA[
+远程下载任务管理应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bitremote</guid>
+      <pubDate>Sun, 28 Jul 2024 03:01:44 GMT</pubDate>
     </item>
     <item>
       <title>果冻</title>
@@ -37,7 +51,7 @@
       <title>组队</title>
       <link>https://www.producthunt.com/posts/team-up</link>
       <description><![CDATA[
-实时创业网络
+实时创业交流
 
 
 讨论
@@ -48,18 +62,18 @@
       <pubDate>Sat, 27 Jul 2024 20:38:04 GMT</pubDate>
     </item>
     <item>
-      <title>404er</title>
-      <link>https://www.producthunt.com/posts/404er</link>
+      <title>Canva 的 Text2Color</title>
+      <link>https://www.producthunt.com/posts/text2color-for-canva</link>
       <description><![CDATA[
-制作令人惊叹的 404 页面
+使用自然语言描述选择颜色
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/404er</guid>
-      <pubDate>Sat, 27 Jul 2024 18:19:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/text2color-for-canva</guid>
+      <pubDate>Sat, 27 Jul 2024 17:41:49 GMT</pubDate>
     </item>
     <item>
       <title>梅尔科</title>
@@ -76,10 +90,38 @@ Web3 市场，您可以在此使用加密货币交易商品
       <pubDate>Sat, 27 Jul 2024 17:08:37 GMT</pubDate>
     </item>
     <item>
+      <title>诺瓦卡</title>
+      <link>https://www.producthunt.com/posts/novacard</link>
+      <description><![CDATA[
+匿名加密预付卡
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/novacard</guid>
+      <pubDate>Sat, 27 Jul 2024 16:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlockSite 番茄工作法</title>
+      <link>https://www.producthunt.com/posts/blocksite-pomodoro</link>
+      <description><![CDATA[
+屏蔽网站并开始关注
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blocksite-pomodoro</guid>
+      <pubDate>Sat, 27 Jul 2024 16:18:03 GMT</pubDate>
+    </item>
+    <item>
       <title>摄影延时摄影 AI</title>
       <link>https://www.producthunt.com/posts/photolapse-ai</link>
       <description><![CDATA[
-从您现有的照片库中创建面部延时摄影
+从现有照片库中创建面部延时摄影
 
 
 讨论
@@ -88,34 +130,6 @@ Web3 市场，您可以在此使用加密货币交易商品
 ]]></description>
       <guid>https://www.producthunt.com/posts/photolapse-ai</guid>
       <pubDate>Sat, 27 Jul 2024 15:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exifa.net</title>
-      <link>https://www.producthunt.com/posts/exifa-net</link>
-      <description><![CDATA[
-用于理解 EXIF 数据的 AI 助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/exifa-net</guid>
-      <pubDate>Sat, 27 Jul 2024 15:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习时间</title>
-      <link>https://www.producthunt.com/posts/learntime</link>
-      <description><![CDATA[
-LMS 平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/learntime</guid>
-      <pubDate>Sat, 27 Jul 2024 13:25:06 GMT</pubDate>
     </item>
     <item>
       <title>快速密码</title>
@@ -174,6 +188,20 @@ LMS 平台
       <pubDate>Mon, 22 Jul 2024 13:39:38 GMT</pubDate>
     </item>
     <item>
+      <title>XspaceGPT</title>
+      <link>https://www.producthunt.com/posts/xspacegpt</link>
+      <description><![CDATA[
+查找 Twitter (X) 空间的值
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/xspacegpt</guid>
+      <pubDate>Mon, 22 Jul 2024 11:06:03 GMT</pubDate>
+    </item>
+    <item>
       <title>小太</title>
       <link>https://www.producthunt.com/posts/kotae</link>
       <description><![CDATA[
@@ -186,34 +214,6 @@ LMS 平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/kotae</guid>
       <pubDate>Wed, 17 Jul 2024 08:55:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>CamoCopy 4.0</title>
-      <link>https://www.producthunt.com/posts/camocopy-4-0</link>
-      <description><![CDATA[
-您所需要的最强大、最完整的 gen-AI 平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/camocopy-4-0</guid>
-      <pubDate>Mon, 08 Jul 2024 05:46:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>零计划</title>
-      <link>https://www.producthunt.com/posts/project-zero</link>
-      <description><![CDATA[
-提取、转换和流式传输区块链数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/project-zero</guid>
-      <pubDate>Fri, 28 Jun 2024 10:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
