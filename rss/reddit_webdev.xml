@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 29 Jul 2024 06:14:23 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 29 Jul 2024 09:11:16 GMT</lastBuildDate>
+    <item>
+      <title>我如何实现这个 CSS 结果？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eeupxq/how_do_i_achieve_this_css_result/</link>
+      <description><![CDATA[      https://preview.redd.it/h9t5vx5t8ffd1.png?width=1854&amp;format=png&amp;auto=webp&amp;s=73bc748edbc397fc9b41d2b30c542fdede86f581 我有这个页面，其中列出了 Rick and Morty 角色。我正在使用 display flex、align center，但最后一行不是我想要的形状。 它需要从左侧开始并向右填充空白处，因此底部的 4 个会向左移动 2 个位置。我怎样才能正确地做到这一点？    提交人    /u/munru1   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eeupxq/how_do_i_achieve_this_css_result/</guid>
+      <pubDate>Mon, 29 Jul 2024 08:53:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>采用全栈还是不采用全栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eetr8i/to_fullstack_or_not_to_fullstack/</link>
+      <description><![CDATA[尝试创建一个网站，但对于是否应该将其设为 Fullstack 以及免费托管它的最佳方式是什么有一些疑问。 该网站主要由一个表格组成，用户可以对其进行简单的搜索和过滤。但是，该表格中将包含数千行数据。 因此，我认为最好添加一个数据库并使其成为 Fullstack。但是，我发现 DataTables 库可以很容易地实现我需要的大多数开箱即用功能。所以我心中的计划是使用 DataTables 作为前端，并使用一个小型数据库后端。 我还没有创建一个 Fullstack 网站，我的问题不是我不能，而是我不知道如何托管它。仅制作简单的网站意味着我已经能够通过 GitHub Pages 托管它们，因为它们的用例很小众，并且一次只有 1-2 个人使用它们，因此它们不会占用大量带宽。 免费托管一个简单的 Fullstack 网站的最佳方式是什么？将数千行硬编码到 HTML 中并让 DataTables 处理它是否可行？任何帮助都将不胜感激。    提交人    /u/DarweeniePlays   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eetr8i/to_fullstack_or_not_to_fullstack/</guid>
+      <pubDate>Mon, 29 Jul 2024 07:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好。我是新手 - 铁路托管网站可靠吗，你会推荐它吗，或者你有什么更好的选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eetpr0/hi_guys_beginner_here_is_railway_reliable_for/</link>
+      <description><![CDATA[大家好。我是新手 - 铁路网站托管是否可靠，您推荐它还是建议任何更好的选择？    由   提交  /u/MemenaSerena   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eetpr0/hi_guys_beginner_here_is_railway_reliable_for/</guid>
+      <pubDate>Mon, 29 Jul 2024 07:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Feedstack 制作的一些 UI。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eesw3i/some_ui_i_did_for_feedstack/</link>
+      <description><![CDATA[      https://preview.redd.it/5471xywhmefd1.png?width=1895&amp;format=png&amp;auto=webp&amp;s=435ba4fc12f76f5c1b6cbe2f907cb63ff3c4db3d 这是 feedstack.tech 的 AI 反馈工具，我建设。    由   提交  /u/Classic-Musician-545   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eesw3i/some_ui_i_did_for_feedstack/</guid>
+      <pubDate>Mon, 29 Jul 2024 06:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>我是否应该清除通过做公司项目获得的 github 热图绿色方块？</title>
       <link>https://www.reddit.com/r/webdev/comments/1eero6h/should_i_clear_my_github_heatmap_green_squares/</link>
@@ -41,7 +69,7 @@
       <pubDate>Mon, 29 Jul 2024 03:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>你好，我是应届毕业生（有点像）</title>
+      <title>你好，我是应届毕业生（有点）</title>
       <link>https://www.reddit.com/r/webdev/comments/1eep5xb/hello_fresh_grad_here_kinda/</link>
       <description><![CDATA[      你能帮我修改一下简历吗？这个简历好吗？我还应该修改或改进哪些地方？此外，如果您知道一个我可以找到在线工作的网站，请告诉我 谢谢 https://preview.redd.it/u9q55shsidfd1.png?width=1655&amp;format=png&amp;auto=webp&amp;s=1acbdeaafee1ba46ea7b2a0893945a0d8ad2f73c    提交人    /u/Zoa_Ele   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eep5xb/hello_fresh_grad_here_kinda/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[抱歉，这个问题可能比较愚蠢，但这是我第一次部署网站。 我已经从 namecheap 购买了一个域名，并通过自定义 DNS 将其指向我的 netlify 前端。 在渲染文档中，它说要在 namecheap 中分配记录，但 namecheap 说我需要将 DNS 从自定义 DNS 转移回 namecheap BasicDNS 才能分配记录。这样不会删除我的域名与前端的连接吗？ 我该如何处理这个问题？    提交人    /u/ta6900   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eekx98/is_it_possible_to_use_the_same_custom_domain_for/</guid>
       <pubDate>Sun, 28 Jul 2024 23:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要有关 React 中的路由的帮助……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eekmd8/i_need_help_with_routing_in_react/</link>
-      <description><![CDATA[我是一名中级前端开发人员，我一直在为一个社区开发网站的个人项目上工作。我仍然在网站的前端部分，但我在宣传使用 react-router-dom 时遇到了麻烦。我尝试使用 chatGPT 和几个 YouTube 教程，但都没用，所以我找到了有史以来最好的 [Humanbeing]。我会切换并开始使用 Next.js，但我已经深入使用 react，有人告诉我作为我的第一个项目，我应该使用 react，然后再转向其他东西。如果您能推荐一些用于后端的东西（我当时考虑的是 Mongo-db），我将不胜感激。 谢谢。    提交人    /u/Terrible_Package7554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eekmd8/i_need_help_with_routing_in_react/</guid>
-      <pubDate>Sun, 28 Jul 2024 23:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 fetch() API（重定向后）检查网站是否是 https 安全的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eeklqe/how_to_check_if_website_is_https_secured_or_not/</link>
-      <description><![CDATA[例如此 URL：http://example.com 仅通过查看上面的链接，您可能会认为此网站未受 HTTPS 保护。但是，如果您单击它，可能会从该 URL 永久重定向到网站的 HTTPS 版本。我想知道是否可以使用 JavaScript 中的本机 `fetch()` 函数来实现这一点？不是通过查看某处提到的 URL，而是在重定向后进行判断。    提交人    /u/1chbinamin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eeklqe/how_to_check_if_website_is_https_secured_or_not/</guid>
-      <pubDate>Sun, 28 Jul 2024 23:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>五十年的差异与合并</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eekdla/fifty_years_of_diff_and_merge/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eekdla/fifty_years_of_diff_and_merge/</guid>
-      <pubDate>Sun, 28 Jul 2024 23:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 w3 学校代码进行客户项目的 Web 开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eejawq/web_dev_using_w3_schools_code_for_client_project/</link>
-      <description><![CDATA[我们的一名员工负责在 Wordpress 上为客户创建一个滑动菜单（类似于 Uber eats）。  我不是一名 Web 开发人员，但我拥有这项业务，当我快速浏览主题文件编辑器时，我被告知要检查以下第一部分：&lt;link rel=“stylesheet” href=“gttps:/:www3schools.com/w3css/4/w3.css”&gt;  我只是想问一下这是标准做法吗？  编辑：非常感谢那些提供有教育意义的答案的人，我对此表示感谢。  你们中的一些人认为我在窥探，或者绕过开发人员，先来这里寻找所有答案。我的开发人员正在度假，并被要求在回去工作后澄清。当员工享受工作之余的时间时，我不会打扰他们尽快回复。  这是别人向我提出的，我想从一个开放的论坛中找到更多信息，这个论坛上有一群比我更了解的合格、经验丰富的专业人士，我想这是一个获得各种反馈的好地方，可以学到更多别人更有资格做的事情。 谢谢     提交人    /u/itsontap   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eejawq/web_dev_using_w3_schools_code_for_client_project/</guid>
-      <pubDate>Sun, 28 Jul 2024 22:15:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
