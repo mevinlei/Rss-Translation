@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 29 Jul 2024 00:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 03:10:12 GMT</lastBuildDate>
+    <item>
+      <title>用于小型企业查找电子邮件的工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1eemi1d/a_tool_for_finding_emails_for_small_businesses/</link>
+      <description><![CDATA[我需要一种方法来查找小型企业列表中的电子邮件。他们中的大多数都没有网站，而是使用免费的电子邮件地址，因此无法进行域名查询。大多数都有企业 Facebook 页面，并在其中提供了联系信息。但其他的则埋藏在网络上。我无法每天手动搜索数百个这样的信息。  以下是我确实拥有的信息：公司名称、所有者姓名、地址、EIN、出生日期、社交等。  Reddit，帮帮我吧。    提交人    /u/help_kitties   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1eemi1d/a_tool_for_finding_emails_for_small_businesses/</guid>
+      <pubDate>Mon, 29 Jul 2024 00:44:37 GMT</pubDate>
+    </item>
     <item>
       <title>处理 AI 炮塔（帮助）</title>
       <link>https://www.reddit.com/r/automation/comments/1eek43p/dealing_with_a_ai_turret_help/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我需要设置一个 WhatsApp 到 Monday 的自动化功能 -   当任何 WhatsApp 对话进来时（3 种类型：入站新线索、出站到现有客户、员工之间），它会提取信息（名称、对话类型、对话的主要内容（是新线索吗，还是订购东西？等）t 在 Monday 板上创建一个新项目 它将操作项目设置为注释（例如需要订购 X） 聊天本身将由当前某人手动回答，因此不需要自动化。   我尝试了 TimelinesAI，它很笨重，没有做我需要它做的事情。  还有其他选择吗？我也很高兴走 Zapier/Make 路线。  谢谢！    由    /u/Kittyisaboo 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1e7t697/whatsapp_to_monday_automation_extracting_all_info/</guid>
       <pubDate>Sat, 20 Jul 2024 11:07:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业如何选择要使用的自动化工具或服务？</title>
-      <link>https://www.reddit.com/r/automation/comments/1e7ggsu/how_do_businesses_choose_what_automation_tool_or/</link>
-      <description><![CDATA[当企业决定开始自动化业务流程时，他们如何决定走哪条路？您是否更有可能使用 zapier 或 make 等知名工具？还是更喜欢聘请一家提供自己工具的自动化机构？ 如果您能提供任何关于是什么导致企业决定走上相应道路的建议，我们将不胜感激！    提交人    /u/Digital_Sprint   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1e7ggsu/how_do_businesses_choose_what_automation_tool_or/</guid>
-      <pubDate>Fri, 19 Jul 2024 22:33:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
