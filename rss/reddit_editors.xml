@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 30 Jul 2024 21:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:34:19 GMT</lastBuildDate>
     <item>
-      <title>Topaz 视频升频器是否可以将旧的 Avant Garde 电影升频到 1080p？</title>
-      <link>https://www.reddit.com/r/editors/comments/1eg3ul9/would_topaz_video_upscaler_work_to_upscale_old/</link>
-      <description><![CDATA[设备：Ryzen 7、rtx 3060、32 GB、SSD/NvMe 素材：1280p×720p    由   提交  /u/darealmuppet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1eg3ul9/would_topaz_video_upscaler_work_to_upscale_old/</guid>
-      <pubDate>Tue, 30 Jul 2024 20:30:38 GMT</pubDate>
+      <title>离线媒体</title>
+      <link>https://www.reddit.com/r/editors/comments/1eg9ihd/offline_media/</link>
+      <description><![CDATA[需要帮助：我已将离线媒体添加到我的时间线。问题是它的播放速度比我的时间线速度快 2 倍。文件的速度为 29.97 fps，但在左侧播放器上播放速度为 59.95。我已将时间线设置更改为各种组合以使其匹配，但没有任何效果。我已在 Handbrake 中转换了剪辑以确保它是 CBR，但没有任何效果。当我将剪辑作为媒体添加到时间线时，它可以正常播放。我遇到麻烦的只是离线媒体。我使用的是 DaVinci 19 Public beta，免费版。    提交人    /u/datvison   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1eg9ihd/offline_media/</guid>
+      <pubDate>Wed, 31 Jul 2024 00:29:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>你有个问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1eg8lcd/ai_problem/</link>
+      <description><![CDATA[嘿，我只想问一下，作为编辑是否仍然值得尝试，我真的很喜欢它，但担心人工智能会比我想象的更快取代我，这很可怕。你们真的认为人工智能会取代编辑吗？我应该开始吗？    提交人    /u/Safe_View_3474   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1eg8lcd/ai_problem/</guid>
+      <pubDate>Tue, 30 Jul 2024 23:48:08 GMT</pubDate>
     </item>
     <item>
       <title>除 Google 之外的其他文件传输</title>
@@ -22,7 +29,7 @@
     <item>
       <title>潜在留任客户的价格估算</title>
       <link>https://www.reddit.com/r/editors/comments/1efzbxa/pricing_estimate_for_potential_retainer_client/</link>
-      <description><![CDATA[我有一个潜在客户，他想成为我的固定客户。每周的产出量为 3 卷（1 - 2 分钟）和 2 个 YouTube 视频（最多 20 分钟）。对于这种规模的项目，每月多少价格比较合适？    提交人    /u/WoodyBreaux   [link] [评论]]]></description>
+      <description><![CDATA[我有一个潜在客户，他想成为我的固定客户。每周的产出量为 3 卷（1 - 2 分钟）和 2 个 YouTube 视频（最多 20 分钟）。对于这种规模的项目，每月的合理价格是多少？    提交人    /u/WoodyBreaux   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1efzbxa/pricing_estimate_for_potential_retainer_client/</guid>
       <pubDate>Tue, 30 Jul 2024 17:30:11 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>还有人在用这个家伙吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1eftfq1/anyone_still_use_this_guy/</link>
-      <description><![CDATA[https://imgur.com/a/onSuRgC 我仍然用这个来备份故事片。但最近我把解决方案换成了 LTO 磁带。所以我很快就要和我的老朋友说再见了……    提交人    /u/ddd102   [link] [评论]]]></description>
+      <description><![CDATA[https://imgur.com/a/onSuRgC 我仍然用这个来备份故事片。但最近我已将解决方案改为 LTO 磁带。所以我很快就要和我的老朋友说再见了……    提交人    /u/ddd102   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1eftfq1/anyone_still_use_this_guy/</guid>
       <pubDate>Tue, 30 Jul 2024 13:32:28 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[长话短说，尽管 AVID 是一款可靠的新版本和顶级规格的工作站，但它的运行速度却非常慢。通常，我看到 RAM 的使用率约为 95%（通常约为 100gb），但 Avid 看起来只使用了几个 GB。这是我在过去几年工作过的几个地方遇到过的情况。通常是那些用“常规”IT 取代了广播 IT 团队的公司，如果这相关的话。有什么提示可以让我调查或建议 IT 部门调查什么吗？    提交人    /u/xvf9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1efdwt2/question_regarding_high_ram_usage_coupled_with/</guid>
       <pubDate>Mon, 29 Jul 2024 23:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找快速色彩校正工具</title>
-      <link>https://www.reddit.com/r/editors/comments/1efawzx/looking_for_a_quick_color_correction_tool/</link>
-      <description><![CDATA[嗨。我正在寻找一种更好、更快捷的方法来快速校正我的视频颜色。我在 Premiere Pro 中编辑，但每个人都说 Resolve 更好。目前我正在使用 Magic Bullet 的 Colorista，但我认为它可以做得更好。我没有时间手动完成所有操作，我有太多工作要做颜色校正。Resolve 中是否有一种快速的方法，或者我可以购买不太贵的插件来快速完成？还有一些分级也不错。我还没有接触过 Resolve，我一直在拖延。有什么建议可以快速学习做到这一点？我知道它如何与 .xml 等一起工作。我做编辑已经很多年了，但我从未真正深入研究过颜色/分级方面，这对我来说似乎相当艰巨。谢谢！！    提交人    /u/Chankler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1efawzx/looking_for_a_quick_color_correction_tool/</guid>
-      <pubDate>Mon, 29 Jul 2024 21:06:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
