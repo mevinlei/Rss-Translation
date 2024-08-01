@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 01 Aug 2024 09:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 12:17:54 GMT</lastBuildDate>
     <item>
       <title>凯西</title>
       <link>https://www.producthunt.com/posts/kathy</link>
@@ -34,6 +34,20 @@
       <pubDate>Thu, 01 Aug 2024 06:17:05 GMT</pubDate>
     </item>
     <item>
+      <title>鲸</title>
+      <link>https://www.producthunt.com/posts/whale-8</link>
+      <description><![CDATA[
+构建基于聊天的应用程序，实现无缝用户体验
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/whale-8</guid>
+      <pubDate>Thu, 01 Aug 2024 04:49:02 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepKeys</title>
       <link>https://www.producthunt.com/posts/deepkeys</link>
       <description><![CDATA[
@@ -46,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/deepkeys</guid>
       <pubDate>Thu, 01 Aug 2024 04:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>旋律书写器</title>
+      <link>https://www.producthunt.com/posts/melodyscribe</link>
+      <description><![CDATA[
+将 PDF 文件转换为带注释的乐谱
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/melodyscribe</guid>
+      <pubDate>Thu, 01 Aug 2024 04:03:06 GMT</pubDate>
     </item>
     <item>
       <title>米托健康</title>
@@ -76,20 +104,6 @@
       <pubDate>Wed, 31 Jul 2024 17:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>鸭子浮漂</title>
-      <link>https://www.producthunt.com/posts/duck-float</link>
-      <description><![CDATA[
-一个可以让其他应用全屏悬浮的小工具软件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/duck-float</guid>
-      <pubDate>Mon, 29 Jul 2024 09:30:58 GMT</pubDate>
-    </item>
-    <item>
       <title>艺术</title>
       <link>https://www.producthunt.com/posts/arte</link>
       <description><![CDATA[
@@ -118,18 +132,18 @@
       <pubDate>Fri, 26 Jul 2024 21:35:50 GMT</pubDate>
     </item>
     <item>
-      <title>Gymconnect</title>
-      <link>https://www.producthunt.com/posts/gymconnect</link>
+      <title>腕带</title>
+      <link>https://www.producthunt.com/posts/wristband</link>
       <description><![CDATA[
-先进的健身房管理软件，超快且简单
+低代码多租户身份验证，带免费 SSO
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/gymconnect</guid>
-      <pubDate>Fri, 26 Jul 2024 12:25:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/wristband</guid>
+      <pubDate>Fri, 26 Jul 2024 18:22:06 GMT</pubDate>
     </item>
     <item>
       <title>德瓦特</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/cirroe-ai</guid>
       <pubDate>Wed, 10 Jul 2024 23:39:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速管道</title>
-      <link>https://www.producthunt.com/posts/rapidpipeline</link>
-      <description><![CDATA[
-轻松准备 3D 数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rapidpipeline</guid>
-      <pubDate>Wed, 03 Jul 2024 16:00:33 GMT</pubDate>
     </item>
     <item>
       <title>餐牌备注</title>
