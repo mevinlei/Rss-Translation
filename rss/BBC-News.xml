@@ -4,20 +4,27 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 03 Aug 2024 00:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 03:11:33 GMT</lastBuildDate>
+    <item>
+      <title>桑德兰骚乱中警察局遭袭击，汽车起火</title>
+      <link>https://www.bbc.com/news/articles/cnl0lkrxgvxo</link>
+      <description><![CDATA[诺森伯兰警方称，三名受伤警官被送往医院，八人被捕。]]></description>
+      <guid>https://www.bbc.com/news/articles/cnl0lkrxgvxo</guid>
+      <pubDate>Sat, 03 Aug 2024 02:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>与被指控的 9/11 策划者的认罪协议被撤销</title>
+      <link>https://www.bbc.com/news/articles/c7202593k0xo</link>
+      <description><![CDATA[美国国防部长劳埃德·奥斯汀表示，他不同意该交易，并解​​除了监督法庭的官员的权力。]]></description>
+      <guid>https://www.bbc.com/news/articles/c7202593k0xo</guid>
+      <pubDate>Sat, 03 Aug 2024 00:38:31 GMT</pubDate>
+    </item>
     <item>
       <title>伊朗威胁以色列，美国部署战机和军舰</title>
       <link>https://www.bbc.com/news/articles/cw5y5637eqdo</link>
       <description><![CDATA[伊朗称将因暗杀哈马斯领导人而“惩罚”以色列，五角大楼宣布向中东增派兵力。]]></description>
       <guid>https://www.bbc.com/news/articles/cw5y5637eqdo</guid>
       <pubDate>Fri, 02 Aug 2024 23:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>桑德兰骚乱中警察局遭袭击，汽车起火</title>
-      <link>https://www.bbc.com/news/articles/cnl0lkrxgvxo</link>
-      <description><![CDATA[在桑德兰举行的与南港持刀袭击事件有关的抗议活动中，暴徒与警方发生冲突。]]></description>
-      <guid>https://www.bbc.com/news/articles/cnl0lkrxgvxo</guid>
-      <pubDate>Fri, 02 Aug 2024 23:33:05 GMT</pubDate>
     </item>
     <item>
       <title>足球迷们警惕英超联赛门票诈骗</title>
@@ -41,13 +48,6 @@
       <pubDate>Fri, 02 Aug 2024 23:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>观看：BBC 在桑德兰报道抗议者引发混乱</title>
-      <link>https://www.bbc.com/news/videos/cn090z98d9zo</link>
-      <description><![CDATA[在与南港持刀袭击事件有关的示威活动中，有人焚烧汽车，并向警察投掷啤酒罐和石头。]]></description>
-      <guid>https://www.bbc.com/news/videos/cn090z98d9zo</guid>
-      <pubDate>Fri, 02 Aug 2024 22:06:42 GMT</pubDate>
-    </item>
-    <item>
       <title>笔记本电脑被盗 20 年后男子仍在监狱中</title>
       <link>https://www.bbc.com/news/articles/c1e5154j4z0o</link>
       <description><![CDATA[无固定期限的监禁现已被禁止，但仍有人在服刑。]]></description>
@@ -62,11 +62,11 @@
       <pubDate>Fri, 02 Aug 2024 21:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>奥运会拳击争议——我们知道什么和不知道什么</title>
-      <link>https://www.bbc.com/sport/olympics/articles/cye0ex43k63o</link>
-      <description><![CDATA[国际奥委会决定允许两名据称未通过性别资格测试的运动员参赛，这一决定引发了争议。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/cye0ex43k63o</guid>
-      <pubDate>Fri, 02 Aug 2024 21:08:52 GMT</pubDate>
+      <title>巴黎奥运会何时举办哪些活动？</title>
+      <link>https://www.bbc.com/sport/articles/c1dmp9krz91o</link>
+      <description><![CDATA[您将每日了解 2024 年巴黎奥运会的赛事信息、何时举办以及关注哪些人。]]></description>
+      <guid>https://www.bbc.com/sport/articles/c1dmp9krz91o</guid>
+      <pubDate>Fri, 02 Aug 2024 21:37:15 GMT</pubDate>
     </item>
     <item>
       <title>英国创下奥运金牌新纪录，法国欢庆</title>
@@ -74,6 +74,13 @@
       <description><![CDATA[英国继续其夏季奥运会最成功的开局——在七天的比赛中首次获得了九枚金牌。]]></description>
       <guid>https://www.bbc.com/sport/olympics/articles/czd9del9e2vo</guid>
       <pubDate>Fri, 02 Aug 2024 20:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>马尚德赢得第四枚金牌，英国选手斯科特和普劳德获得银牌</title>
+      <link>https://www.bbc.com/sport/olympics/articles/ced3dkx7gnko</link>
+      <description><![CDATA[莱昂·马尔尚 (Leon Marchand) 在巴黎奥运会游泳项目上赢得了第四枚金牌，在本·普劳德 (Ben Proud) 为英国队赢得银牌后不久，他击败邓肯·斯科特 (Duncan Scott) 获得第二名。]]></description>
+      <guid>https://www.bbc.com/sport/olympics/articles/ced3dkx7gnko</guid>
+      <pubDate>Fri, 02 Aug 2024 18:58:20 GMT</pubDate>
     </item>
     <item>
       <title>休·爱德华兹被捕后获 BBC 前主席致谢</title>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 02 Aug 2024 17:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>佩奇为英国队赢得首枚蹦床金牌</title>
-      <link>https://www.bbc.com/sport/olympics/articles/cd1718v0lw4o</link>
-      <description><![CDATA[布莱奥妮·佩奇 (Bryony Page) 赢得了英国首枚蹦床奥运会金牌，她的奖牌总数达到五彩缤纷。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/cd1718v0lw4o</guid>
-      <pubDate>Fri, 02 Aug 2024 14:40:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国队自 2012 年以来首次夺得团体跳马金牌</title>
-      <link>https://www.bbc.com/sport/olympics/articles/cg646xqqr2qo</link>
-      <description><![CDATA[英国队凭借在巴黎奥运会上近乎完美的表现，自 2012 年伦敦奥运会以来首次夺得奥运会跳马团体金牌。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/cg646xqqr2qo</guid>
-      <pubDate>Fri, 02 Aug 2024 13:45:36 GMT</pubDate>
+      <title>悄悄说一句，现在是去巴黎度假的好时机吗？</title>
+      <link>https://www.bbc.com/news/articles/cy7970gz3qro</link>
+      <description><![CDATA[奥运会期间，北京出人意料地安静，酒店和餐馆纷纷下调价格。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy7970gz3qro</guid>
+      <pubDate>Fri, 02 Aug 2024 12:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
