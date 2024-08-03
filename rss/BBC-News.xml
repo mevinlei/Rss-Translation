@@ -4,16 +4,37 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 03 Aug 2024 09:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 12:15:42 GMT</lastBuildDate>
+    <item>
+      <title>伊朗威胁以色列 美国将派遣战机和军舰</title>
+      <link>https://www.bbc.com/news/articles/cw5y5637eqdo</link>
+      <description><![CDATA[伊朗称将“惩罚”以色列暗杀哈马斯领导人伊斯梅尔·哈尼亚。]]></description>
+      <guid>https://www.bbc.com/news/articles/cw5y5637eqdo</guid>
+      <pubDate>Sat, 03 Aug 2024 12:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>南港嫌疑人“儿童求助”视频被删除</title>
+      <link>https://www.bbc.com/news/articles/ced3dxeplp9o</link>
+      <description><![CDATA[本周被指控谋杀三名女孩的阿克塞尔·鲁达库巴纳 (Axel Rudakubana) 出现在这则广告中时年仅 11 岁。]]></description>
+      <guid>https://www.bbc.com/news/articles/ced3dxeplp9o</guid>
+      <pubDate>Sat, 03 Aug 2024 11:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>据称，休·爱德华兹 (Huw Edwards) 付钱给青少年，让他“感觉受到了引诱”</title>
+      <link>https://www.bbc.com/news/articles/cv2g2985xn9o</link>
+      <description><![CDATA[最初针对这位前 BBC 主持人的指控的核心人物已经向一家报纸发表了讲话。]]></description>
+      <guid>https://www.bbc.com/news/articles/cv2g2985xn9o</guid>
+      <pubDate>Sat, 03 Aug 2024 10:55:56 GMT</pubDate>
+    </item>
     <item>
       <title>间谍的孩子不知道他们是俄罗斯人</title>
       <link>https://www.bbc.com/news/articles/cljyj9jp993o</link>
-      <description><![CDATA[杜尔采夫家的孩子一生都以为自己是阿根廷人，不会说俄语，也不知道普京总统是谁。]]></description>
+      <description><![CDATA[杜尔采夫家的孩子以为自己来自阿根廷，不会说俄语。]]></description>
       <guid>https://www.bbc.com/news/articles/cljyj9jp993o</guid>
       <pubDate>Sat, 03 Aug 2024 08:39:27 GMT</pubDate>
     </item>
     <item>
-      <title>警方称索马里海滩袭击已造成 32 人死亡</title>
+      <title>警方称，自杀式炸弹袭击者和枪手在繁忙的索马里海滩造成 32 人死亡</title>
       <link>https://www.bbc.com/news/articles/c0krke24lwdo</link>
       <description><![CDATA[摩加迪沙发生自杀式爆炸，造成约 63 人受伤，其中一些人情况危急。]]></description>
       <guid>https://www.bbc.com/news/articles/c0krke24lwdo</guid>
@@ -34,11 +55,25 @@
       <pubDate>Sat, 03 Aug 2024 06:16:17 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗威胁以色列 美国将派遣战机和军舰</title>
-      <link>https://www.bbc.com/news/articles/cw5y5637eqdo</link>
-      <description><![CDATA[伊朗称将“惩罚”以色列暗杀哈马斯领导人伊斯梅尔·哈尼亚。]]></description>
-      <guid>https://www.bbc.com/news/articles/cw5y5637eqdo</guid>
-      <pubDate>Fri, 02 Aug 2024 23:34:30 GMT</pubDate>
+      <title>选美比赛引发争议，谁算南非人</title>
+      <link>https://www.bbc.com/news/articles/cn38ppr4zj0o</link>
+      <description><![CDATA[决赛选手奇迪玛·阿德希娜 (Chidimma Adetshina) 的参赛揭示了南非部分民众的排外情绪。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn38ppr4zj0o</guid>
+      <pubDate>Sat, 03 Aug 2024 00:10:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>一只熊咬死了一名罗马尼亚青少年。扑杀能解决问题吗？</title>
+      <link>https://www.bbc.com/news/articles/c8vd26m4r86o</link>
+      <description><![CDATA[随着熊的数量激增，布加勒斯特取消了禁止猎熊的禁令。狩猎能有所帮助吗？]]></description>
+      <guid>https://www.bbc.com/news/articles/c8vd26m4r86o</guid>
+      <pubDate>Sat, 03 Aug 2024 00:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在美国某州，女性政客占主导地位。这能给卡玛拉·哈里斯带来什么启示？</title>
+      <link>https://www.bbc.com/news/articles/c1rwvxy1nyzo</link>
+      <description><![CDATA[由于没有女性担任过总统，这个由女性管理的国家可以为女性入主白宫提供参考。]]></description>
+      <guid>https://www.bbc.com/news/articles/c1rwvxy1nyzo</guid>
+      <pubDate>Fri, 02 Aug 2024 23:15:48 GMT</pubDate>
     </item>
     <item>
       <title>足球迷们警惕英超联赛门票诈骗</title>
@@ -64,16 +99,9 @@
     <item>
       <title>今天奥运会发生了什么？</title>
       <link>https://www.bbc.com/sport/articles/c1dmp9krz91o</link>
-      <description><![CDATA[您将每日了解 2024 年巴黎奥运会的赛事信息、比赛时间以及关注的人物。]]></description>
+      <description><![CDATA[您将每日了解 2024 年巴黎奥运会的赛事信息、何时举办以及关注哪些人。]]></description>
       <guid>https://www.bbc.com/sport/articles/c1dmp9krz91o</guid>
       <pubDate>Fri, 02 Aug 2024 21:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥运会拳击争议——我们知道什么和不知道什么</title>
-      <link>https://www.bbc.com/sport/olympics/articles/cye0ex43k63o</link>
-      <description><![CDATA[国际奥委会决定允许两名据称未通过性别资格测试的运动员参赛，这一决定引发了争议。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/cye0ex43k63o</guid>
-      <pubDate>Fri, 02 Aug 2024 21:08:52 GMT</pubDate>
     </item>
     <item>
       <title>马尚德赢得第四枚金牌，英国选手斯科特和普劳德获得银牌</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[莱昂·马尔尚 (Leon Marchand) 在巴黎奥运会游泳项目上赢得了第四枚金牌，在本·普劳德 (Ben Proud) 为英国队赢得银牌后不久，他击败邓肯·斯科特 (Duncan Scott) 获得第二名。]]></description>
       <guid>https://www.bbc.com/sport/olympics/articles/ced3dkx7gnko</guid>
       <pubDate>Fri, 02 Aug 2024 18:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>休·爱德华兹被捕后获 BBC 前主席致谢</title>
-      <link>https://www.bbc.com/news/articles/cj7d70lzddro</link>
-      <description><![CDATA[埃兰·克洛斯·斯蒂芬斯女爵士表示，她并不知道“本周曝光的可怕细节”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cj7d70lzddro</guid>
-      <pubDate>Fri, 02 Aug 2024 18:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿姨讲述在南港袭击中丧生的“甜美温柔”女孩</title>
-      <link>https://www.bbc.com/news/articles/c28e8n4l82lo</link>
-      <description><![CDATA[埃尔西·多特·斯坦科姆 (Elsie Dot Stancombe) 被描述为“你所能见到的最甜美的女孩”。]]></description>
-      <guid>https://www.bbc.com/news/articles/c28e8n4l82lo</guid>
-      <pubDate>Fri, 02 Aug 2024 17:34:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国队自 2012 年以来首次夺得团体跳马金牌</title>
-      <link>https://www.bbc.com/sport/olympics/articles/cg646xqqr2qo</link>
-      <description><![CDATA[英国队凭借在巴黎奥运会上近乎完美的表现，自 2012 年伦敦奥运会以来首次夺得奥运会跳马团体金牌。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/cg646xqqr2qo</guid>
-      <pubDate>Fri, 02 Aug 2024 13:45:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>悄悄说一句，现在是去巴黎度假的好时机吗？</title>
-      <link>https://www.bbc.com/news/articles/cy7970gz3qro</link>
-      <description><![CDATA[奥运会期间，北京出人意料地安静，酒店和餐馆纷纷下调价格。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy7970gz3qro</guid>
-      <pubDate>Fri, 02 Aug 2024 12:44:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
