@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 04 Aug 2024 00:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 03:10:56 GMT</lastBuildDate>
     <item>
-      <title>我制作了一个多人 IO 文字游戏！🕹️</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejihyq/i_made_a_multiplayer_io_word_game/</link>
-      <description><![CDATA[      有一个单人模式和两个 1 对 1 模式！ URL：https://www.commonym.io Github：https://github.com/bufferjjh/Commonym （感谢星星！） https://i.redd.it/4wm7rpzxkjgd1.gif    由   提交  /u/keyboarder05   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejihyq/i_made_a_multiplayer_io_word_game/</guid>
-      <pubDate>Sun, 04 Aug 2024 00:38:03 GMT</pubDate>
+      <title>评价我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejl822/rate_my_portfolio/</link>
+      <description><![CDATA[我刚刚创建了这个作品集，尝试承接自由职业项目。我做了几个项目，但大多数都不值得添加到作品集中。这旨在让潜在客户和雇主轻松探索。让我知道你的想法。 https://omarabouzeid.dev    提交人    /u/OmarAdharn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejl822/rate_my_portfolio/</guid>
+      <pubDate>Sun, 04 Aug 2024 03:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>交互设计问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejl0ty/interactive_design_question/</link>
+      <description><![CDATA[我是一名配音演员。我需要一个非常简单的网站，但我有一个梦想，那就是网站应该是互动的，每次访问都会有不同的主题。所以，我希望它像一个旧的视频游戏开始菜单一样。但我希望“视频游戏”循环播放 5 或 6 个主题。每次有人访问该网站时，我希望他们获得一个不同的主题，并且在网站打开之前不知道是哪一个。 这可能吗？需要什么？除了这个概念之外，它只是一个非常简单的网站，包含基本的简介和联系信息以及我的音频演示。    提交人    /u/CoolUncleEli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejl0ty/interactive_design_question/</guid>
+      <pubDate>Sun, 04 Aug 2024 02:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否可以创建一个无需网络服务器即可运行本地脚本的本地网页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejjsfi/can_you_create_a_local_webpage_that_can_run_local/</link>
+      <description><![CDATA[我之前用 Python 制作了一个网络爬虫，它从一个网站下载一些故事，并将它们保存在与故事来自的用户相对应的一系列文件夹中/ 现在，我正在考虑重新创建同样的东西，但将所有这些信息存储在数据库（sqlite）中，并使用 html 网页来查找和显示这些信息。 所以，之前我会下载东西，并为用户创建一个文件夹，其中包含他们写的东西或他们保存的故事的文件夹。 我会有一个包含所有故事的文件夹，一个包含所有故事和用户信息的数据库，然后是一个可以获取数据库信息并访问故事的网页 这有意义吗？我可以在不设置网络服务器的情况下做到这一点吗？所有这些都将在我的计算机上独立存在且本地化。只是觉得有网页会让显示和更新变得更容易。 一个延伸目标是能够通过网页运行 python 程序。比如，我可以通过 javascript 或其他方式将信息输入网页中，然后    提交人    /u/cthulhu_void   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejjsfi/can_you_create_a_local_webpage_that_can_run_local/</guid>
+      <pubDate>Sun, 04 Aug 2024 01:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有身份验证和远程数据的 Electron 桌面应用程序的架构建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejizoj/looking_for_architectural_suggestions_for_an/</link>
+      <description><![CDATA[大家好！开门见山，以下是我目前发现的一些细节。我只是想知道这听起来是不是一个好方法，或者是否有更现代或更合适的方法。  一个使用 React（如果需要可能是 Next）和 Auth0 进行用户授权和身份验证的 Electron 桌面应用程序。 如果未登录，则会出现应用程序的演示状态。所有演示功能都将本地嵌入到应用程序中。 登录后，将向用户提供多个选项。无论他们选择哪个选项，应用程序都会获取他们选择的选项的数据。然后将相应地应用这些数据。我目前正在考虑使用 Firebase 之类的东西来处理初始用户数据和应用程序数据。 应用程序的主页或多或少会像一个更新的网页一样。我还希望应用程序轮询更新，因为有时我需要推送更新（它们将受版本控制）。 我需要考虑的一个重要问题是，我的应用程序的一些用户会非常邪恶——其中一些非常聪明而且邪恶。例如：确定要攻击的端点以提高我的成本或诸如此类的事情。因此，我想知道是否有某种一体化解决方案或某种可以远程嵌入安全性的东西（即 Cloudflare 服务）。  最终，这听起来像是一个足够简单的应用程序，我可以编写代码（也许是临终遗言，哈哈），但我迷失在那个大约有 80 亿篇文章/视频谈论 2-5 年前的一些事情的地方。在过去的一年里，我一直在 Google 和 YouTube 上搜索各种东西，并进行分类，结果非常复杂。所以，我只是想在这里联系一下，看看你们中是否有人最近接触过这些东西——如果是的话，我是否觉得我走在正确的轨道上。 非常感谢您抽出时间和提出意见/建议！    提交人    /u/linguamortua   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejizoj/looking_for_architectural_suggestions_for_an/</guid>
+      <pubDate>Sun, 04 Aug 2024 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为具有 15 年以上经验的人提供简历/履历建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejiuve/resume_cv_advice_for_someone_with_15_years_of/</link>
+      <description><![CDATA[作为一名拥有超过 15 年经验的 Web 开发人员，我一直在苦苦思索如何在简历中展现我的经验。一方面，我不想在简历中堆满大量要点，但另一方面，我想展示我多年来所做的各种工作和成长。 我基本上为两家雇主工作过，其中一家公司积累了我大部分的经验（12 年）。你可以想象，我不知道招聘人员或招聘经理在简历中寻找什么。 我应该详细介绍我开发的不同应用程序吗？我应该更高级一点吗？还是别的什么？ 任何指点，尤其是来自有招聘经验的人的指点，都将不胜感激。    提交人    /u/MetaMetaMan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejiuve/resume_cv_advice_for_someone_with_15_years_of/</guid>
+      <pubDate>Sun, 04 Aug 2024 00:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个多人 IO 文字游戏！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejithx/i_made_a_multiplayer_io_word_game/</link>
+      <description><![CDATA[        提交人    /u/keyboarder05   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejithx/i_made_a_multiplayer_io_word_game/</guid>
+      <pubDate>Sun, 04 Aug 2024 00:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个展示 GitHub 仓库的模块</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejiscq/i_created_an_module_for_showcasing_github_repos/</link>
+      <description><![CDATA[      大家好！ 我很高兴介绍 github-embed-repo，这是我使用 ReactJS 开发的 npm 模块。此工具可让您将 GitHub 存储库详细信息无缝嵌入到您的 Web 应用程序中。您可以自定义显示的详细信息（星星、分支、问题等），它支持浅色和深色主题。它也可以单独使用或捆绑到更大的项目中。 查看此处的演示并探索此处的 GitHub 存储库。 我很乐意听取您的反馈和贡献。谢谢！ 感谢您的阅读！  演示：https://oct4pie.github.io/github-embed-repo/ GitHub Repo：https://github.com/Oct4Pie/github-embed-repo https://preview.redd.it/x8fb97w2ajgd1.png?width=1140&amp;format=png&amp;auto=webp&amp;s=ea7ad58ba9a00f42ef4cd45f7b3f2cfcfafb8cda    提交人    /u/Afraid-Wing3732   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejiscq/i_created_an_module_for_showcasing_github_repos/</guid>
+      <pubDate>Sun, 04 Aug 2024 00:52:46 GMT</pubDate>
     </item>
     <item>
       <title>ShadcnUI 和 MagicUI 使用什么文档模板或工具？</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[大家好！ 我正在做我的第一个项目，一个使用 Angular 和 Spring Boot (Maven) 进行员工管理 (CRUD) 的简单仪表板。我已经完成了后端（我想，因为我修复了错误），现在我即将开始前端。 我有点不知道下一步该做什么。任何建议都会非常有帮助！非常感谢！❤️    提交人    /u/DevEnjoyer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ejfa2k/help_needed_first_project_what_to_do_after_backend/</guid>
       <pubDate>Sat, 03 Aug 2024 22:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：第一个项目——后端之后该做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejf9l9/help_needed_first_project_what_to_do_after_backend/</link>
-      <description><![CDATA[大家好！ 我正在做我的第一个项目，一个使用 Angular 和 Spring Boot (Maven) 进行员工管理 (CRUD) 的简单仪表板。我已经完成了后端（我想，因为我修复了错误），现在我即将开始前端。 我有点不知道下一步该做什么。任何建议都会非常有帮助！非常感谢！❤️    提交人    /u/DevEnjoyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejf9l9/help_needed_first_project_what_to_do_after_backend/</guid>
-      <pubDate>Sat, 03 Aug 2024 22:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webflow 网站费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eje6dp/webflow_website_cost/</link>
-      <description><![CDATA[我希望建立一个网站，它有 1 个登录页面，然后在结帐页面之后有支付处理器，如 stripe、crypto、square 等，然后你可以创建一个帐户并拥有一个登录门户，之后它会有点像 discord，有不同的类别/频道，在它们里面我可以有文字、视频、照片和任何带有部分和频道的东西，比如公告、一般聊天频道等，有人知道制作这样的网站要花多少钱吗？    提交人    /u/Eastern-Purchase3436   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eje6dp/webflow_website_cost/</guid>
-      <pubDate>Sat, 03 Aug 2024 21:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个轻量级的 API 模拟工具/服务器来提高我的工作效率。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejdgbv/i_made_a_lightweight_api_mocking_tool_server_to/</link>
-      <description><![CDATA[我创建了一个轻量级 API 模拟工具/服务器来简化我的开发工作流程并提高生产力。它允许我快速设置和测试具有可自定义响应的 API 端点，从而更容易模拟真实场景并确保应用程序在上线前按预期运行。 希望听到一些反馈以及任何想法/建议  API 文档： API 文档。 GitHub 存储库： Github（问题、建议和反馈）。     提交人    /u/boxoft_sh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejdgbv/i_made_a_lightweight_api_mocking_tool_server_to/</guid>
-      <pubDate>Sat, 03 Aug 2024 20:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么这个 CSS 规则会导致到处都有蓝色轮廓？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejck0d/why_does_this_css_rule_result_in_blue_outlines/</link>
-      <description><![CDATA[我们在找吃饭的地方时偶然发现了这家餐厅。当我们打开网站查看菜单时，我注意到所有东西都有蓝色边框（在 Firefox 和 Safari 中，而不是在 Chrome 中），我猜那不是故意的。所以我做了旧的检查元素，看看我是否可以摆脱它们，但我找不到导致它的明显规则。 深入研究后，我发现导致它的规则是： * { outline: 0 auto !important; }  如果我在检查元素中展开它（在 Firefox 中），它会显示 outline-color: currentcolor; outline-style: auto; outline-width: 0px;  这说明不应该有任何轮廓（因为宽度为 0px），但它就在那里！这是 Firefox/Safari 中的错误吗？这是怎么回事？ 注意：我通过在检查器中禁用规则来修复它，以便我们观看。我不是在寻找解决方案（这不是我的网站或与我无关），只是好奇为什么它的行为是这样的。 编辑：我把它放在 codepen 中以隔离它。    提交人    /u/lindymad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejck0d/why_does_this_css_rule_result_in_blue_outlines/</guid>
-      <pubDate>Sat, 03 Aug 2024 20:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了我的投资组合。欢迎反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejcj1q/updated_my_portfolio_feedback_welcome/</link>
-      <description><![CDATA[  由    /u/safetymilk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejcj1q/updated_my_portfolio_feedback_welcome/</guid>
-      <pubDate>Sat, 03 Aug 2024 20:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您还希望此 CLI 工具具有哪些功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejcb42/what_more_features_would_you_want_in_this_cli_tool/</link>
-      <description><![CDATA[我希望构建一些东西并将其开源。 我决定使用一个 CLI 工具，它通过从代码中的注释中生成待办事项来帮助工作流管理 这些是我现在实现/想到的功能- 1 如果注释以 TODO/to-do/todo 开头，它将保存到 TODO.txt/.json/.csv 2 你可以用优先级系统标记每个注释，如 crit/mid/low 或用户喜欢的任何其他系统 3 将扫描 .py/.html/,js/.ts/ 等文件或用户指定的任何其他文件格式 4 按文件、行间隔或注释中指定的修复时间排序    提交人    /u/Sorry_Revolution9969   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejcb42/what_more_features_would_you_want_in_this_cli_tool/</guid>
-      <pubDate>Sat, 03 Aug 2024 19:52:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
