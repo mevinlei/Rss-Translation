@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 04 Aug 2024 06:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 09:10:00 GMT</lastBuildDate>
+    <item>
+      <title>我制作了我的第一个 PWA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ejqr2a/ive_made_my_first_pwa/</link>
+      <description><![CDATA[刚刚完成了我自己的网站的工作，它没有任何特定的用途，除了链接到我的社交账户，但我仍然喜欢它的 UI 形状。想分享并可能得到反馈）    提交人    /u/Puzzak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ejqr2a/ive_made_my_first_pwa/</guid>
+      <pubDate>Sun, 04 Aug 2024 08:49:29 GMT</pubDate>
+    </item>
     <item>
       <title>我怎样才能最好地创造这种效果？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ejo4tm/how_can_i_create_this_effect_best/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[作为一名拥有超过 15 年经验的 Web 开发人员，我一直在苦苦思索如何在简历中展现我的经验。一方面，我不想在简历中堆满大量要点，但另一方面，我想展示我多年来所做的各种工作和成长。 我基本上为两家雇主工作过，其中一家公司积累了我大部分的经验（12 年）。你可以想象，我不知道招聘人员或招聘经理在简历中寻找什么。 我应该详细介绍我开发的不同应用程序吗？我应该更高级一点吗？还是别的什么？ 任何指点，尤其是来自有招聘经验的人的指点，都将不胜感激。    提交人    /u/MetaMetaMan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ejiuve/resume_cv_advice_for_someone_with_15_years_of/</guid>
       <pubDate>Sun, 04 Aug 2024 00:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个多人 IO 文字游戏！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejithx/i_made_a_multiplayer_io_word_game/</link>
-      <description><![CDATA[        提交人    /u/keyboarder05   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejithx/i_made_a_multiplayer_io_word_game/</guid>
-      <pubDate>Sun, 04 Aug 2024 00:54:29 GMT</pubDate>
     </item>
     <item>
       <title>展示我的创建模块化无代码网页的平台！</title>
