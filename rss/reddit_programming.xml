@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Mon, 05 Aug 2024 03:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 06:14:31 GMT</lastBuildDate>
+    <item>
+      <title>使用 OpenRewrite 简化 Spring Boot 升级</title>
+      <link>https://www.reddit.com/r/programming/comments/1ekgjja/simplifying_spring_boot_upgrades_with_openrewrite/</link>
+      <description><![CDATA[  由   提交  /u/Wooden_Ninja5814   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ekgjja/simplifying_spring_boot_upgrades_with_openrewrite/</guid>
+      <pubDate>Mon, 05 Aug 2024 06:02:44 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Locust 进行 Websocket 服务器负载测试</title>
       <link>https://www.reddit.com/r/programming/comments/1ekdhe1/load_testing_websocket_servers_using_locust/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[  由    /u/microbus-io  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ekbe8d/microservices_the_promised_land_of_infinite/</guid>
       <pubDate>Mon, 05 Aug 2024 01:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高你的水平：软件工程师的基本技能</title>
-      <link>https://www.reddit.com/r/programming/comments/1ekb0ub/up_your_game_fundamental_skills_for_software/</link>
-      <description><![CDATA[  由    /u/ruslanspivak  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ekb0ub/up_your_game_fundamental_skills_for_software/</guid>
-      <pubDate>Mon, 05 Aug 2024 01:00:28 GMT</pubDate>
     </item>
     <item>
       <title>我很高兴与大家分享我参与的这个 30 天 Linux 基础项目。第 2-4 周的学习将随之进行，因此本周日将发布第 2 周的内容等。！</title>
