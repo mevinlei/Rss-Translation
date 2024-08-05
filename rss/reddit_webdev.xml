@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 00:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 03:11:20 GMT</lastBuildDate>
+    <item>
+      <title>对于独立开发者来说，选择网络版还是移动版？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ekdbba/web_or_mobile_for_indie/</link>
+      <description><![CDATA[您好，对于独立开发者来说，哪个平台更适合 Web 还是移动？    提交人    /u/Particular_Tea2307   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ekdbba/web_or_mobile_for_indie/</guid>
+      <pubDate>Mon, 05 Aug 2024 02:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名高中生，我建立了一个网站，让其他高中生可以找到最好的英语论文</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ekaqyp/im_a_high_schooler_and_i_built_a_website_for/</link>
+      <description><![CDATA[      https://preview.redd.it/qbsu7o2osqgd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=901acf888b253c2cc241b3a12c247c2dc828ebd7 www.knockknocktoday.com 该网站的前端设计和功能专业性如何？    由    /u/TL_TMK_NZ_15  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ekaqyp/im_a_high_schooler_and_i_built_a_website_for/</guid>
+      <pubDate>Mon, 05 Aug 2024 00:46:44 GMT</pubDate>
+    </item>
     <item>
       <title>我有一个自托管的 pocketbase 后端，但如何保持它开放？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ek96mp/i_have_a_selfhosted_pocketbase_backend_but_how_do/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[上述查询对于它选择的 div 非常具体。是否可以执行类似的操作： &quot;:current &gt; div&quot; 其中 :current 指的是调用 querySelector 的对象？    提交人    /u/bunky_bunk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ek06jz/root_body_div_but_for_a_context_node/</guid>
       <pubDate>Sun, 04 Aug 2024 17:05:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁控制互联网 DNS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejzf8j/who_controls_the_internet_dns/</link>
-      <description><![CDATA[伙计们，这个问题很菜鸟，但是……谁控制着互联网 DNS？谁又控制着不同网站的服务器？Shopify 或 GoDaddy 又如何控制我的网站 IP 地址？    提交人    /u/Nice-Dirt-link   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejzf8j/who_controls_the_internet_dns/</guid>
-      <pubDate>Sun, 04 Aug 2024 16:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 <a> 标签比此网格中的网格区域更宽？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ejz8wq/why_the_a_tag_gets_wider_than_the_grid_area_in/</link>
-      <description><![CDATA[      因此，我有此代码，我试图添加徽标图像。 这是一个网格，其中，徽标将位于前两行和第一列。但因为我想添加指向徽标的链接，所以我将其包裹在 &lt;a&gt; 标签内。所以现在锚标记是网格子项。 但我想要的是徽标的高度应完全占据两行，并且宽度应相应调整。然后 &lt;a&gt; 标签应与图像一样宽，而不是整个单元格。 我试过这个代码： &lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot; /&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt; &lt;title&gt;测试&lt;/title&gt; &lt;style&gt; body{ background-color: black; } .mainContainer { display: grid; grid-template: repeat(2, min(4vw, 50px)) repeat(3, auto) / 40% 60%; row-gap: 20px; width: min(95%, 1540px); /* 剩余 5% 作为边距*/ margin: 20px auto; } .gameName { grid-area: 1 / 1 / span 2 / 1; justify-self: start; border: 2px solid red; /* 仅用于说明 */} .gameName img { height: 100%; width: auto; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;div class=&quot;mainContainer&gt; &lt;a href=&quot;/&quot; class=&quot;gameName&quot;&gt; &lt;img src=&quot;https://img.freepik.com/premium-photo/luxury-golden-b-logo-template_971166-80724.jpg?size=626&amp;ext=jpg&quot; alt=&quot;游戏标志&quot; /&gt; &lt;/a&gt; &lt;/div&gt; &lt;/body&gt; &lt;/html&gt; &lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot; /&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt; &lt;title&gt;测试&lt;/title&gt; &lt;style&gt; body{ background-color: black; } .mainContainer { display: grid; grid-template: repeat(2, min(4vw, 50px)) repeat(3, auto) / 40% 60%; row-gap: 20px; width: min(95%, 1540px); /* 剩余 5% 作为边距*/ margin: 20px auto; } .gameName { grid-area: 1 / 1 / span 2 / 1; justify-self: start; border: 2px solid red; /* 仅用于说明 */} .gameName img { height: 100%; width: auto; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;div class=&quot;mainContainer&gt; &lt;a href=&quot;/&quot; class=&quot;gameName&quot;&gt; &lt;img src=&quot;https://img.freepik.com/premium-photo/luxury-golden-b-logo-template_971166-80724.jpg?size=626&amp;ext=jpg&quot; alt=&quot;游戏标志&gt; /&gt; &lt;/a&gt; &lt;/div&gt; &lt;/body&gt; &lt;/html&gt;  这是 JSFiddle 链接： https://jsfiddle.net/rbs3v5kz/ 这里的问题是由于某种原因，&lt;a&gt;标签变得比它所在的列更宽。请参阅： https://preview.redd.it/tm1eto1haogd1.png?width=1004&amp;format=png&amp;auto=webp&amp;s=076cf20b1817cf50b9a38a64ae8322c3a4f23b5f 但是，如果我删除 justify-self: start，它会变得和第一列一样宽（但我希望它与徽标宽度完全相等）。 虽然，如果我固定了徽标的宽度，并将高度设置为自动，然后它就可以正常工作了。 我注意到的另一件事是，如果我们不为图像设置任何固定的宽度和高度并让它增长，则 &lt;a&gt; 标签的宽度与徽标图像完全一样宽。 你怎么看？    提交人    /u/utsav_0   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ejz8wq/why_the_a_tag_gets_wider_than_the_grid_area_in/</guid>
-      <pubDate>Sun, 04 Aug 2024 16:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
