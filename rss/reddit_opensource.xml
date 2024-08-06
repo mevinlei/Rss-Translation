@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 06 Aug 2024 12:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 15:11:40 GMT</lastBuildDate>
+    <item>
+      <title>自托管调查代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1elj4i4/selfhosted_surveys_as_code/</link>
+      <description><![CDATA[最近，我构建了一个 Surveys as Code 平台，让您可以使用 Yaml 构建调查并将其部署为 Web 应用程序。 今天，我决定将其作为自托管平台开源。 您可以在这里查看：https://github.com/plutov/formulosity（欢迎任何形式的贡献）。    提交人    /u/der_gopher   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1elj4i4/selfhosted_surveys_as_code/</guid>
+      <pubDate>Tue, 06 Aug 2024 14:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>骆驼的法律迷宫</title>
+      <link>https://www.reddit.com/r/opensource/comments/1elh44g/llamas_legal_labyrinth/</link>
+      <description><![CDATA[        提交人    /u/galgalesh   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1elh44g/llamas_legal_labyrinth/</guid>
+      <pubDate>Tue, 06 Aug 2024 12:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识 SymCalc - 一个用于 C++ 和 Ruby 的数学库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1elgi6t/meet_symcalc_a_mathematical_library_for_c_and_ruby/</link>
+      <description><![CDATA[大家好！ 我对数学、微积分、编程以及这些领域的结合非常感兴趣。从我学习微积分的那一刻起，我就想练习我的技能并构建一个很酷的微分库。 现在它已经完成了，我想与你们分享！ 描述 它被称为 SymCalc（代表符号微积分），这是一个目前可用于 Ruby 和 C++ 的库，它使使用数学函数变得轻而易举。使用 SymCalc，您可以：  创建具有任意数量变量的数学函数 在特定变量值下评估这些函数 简化和打印函数 轻松区分函数。  该库使函数的定义和区分过程尽可能易读和简单！ 它的潜在用例是什么？ SymCalc 功能多样，可用于任何需要区分的地方。这里举几个例子：  求根算法：实现像 Newton-Raphson 或 Halley 方法这样的方法 深度学习：利用需要导数的梯度下降算法 教育：对于数学或编程新手来说，这是一个绝佳的工具，可以用它来试验函数或深入研究 SymCalc 的源代码。  主要优势 SymCalc 的主要优势之一是，您不需要在每次测试新内容时重写导数函数。一个简单的 .derivative() 函数调用就可以完成这项工作！ 检查一下！ 如果您有兴趣，可以访问 SymCalc 的网站 - https://symcalc.site - 了解从简介到示例的所有内容 SymCalc 是开源的，因此也可以在 GitHub 上的 symcalc/symcalc-cpp 和 symcalc/symcalc-ruby 下找到它。&gt; 我很高兴听到您对 SymCalc 的看法以及改进的潜在想法！ 感谢您查看这个项目！    提交人    /u/kyryloshy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1elgi6t/meet_symcalc_a_mathematical_library_for_c_and_ruby/</guid>
+      <pubDate>Tue, 06 Aug 2024 12:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>CopilotKit (MIT) - 应用内 AI 的开源 React 框架（聊天机器人、AI 自动完成、代理和生成式 UI）</title>
       <link>https://www.reddit.com/r/opensource/comments/1elf4lu/copilotkit_mit_open_source_react_framework_for/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[        提交人    /u/williamfzc   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1elbntj/gossiphs_builds_a_filelevel_knowledge_graph_of/</guid>
       <pubDate>Tue, 06 Aug 2024 07:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 RAG(Retrieval Augmented Generation) 管道调优工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1elb9wx/open_source_ragretrieval_augmented_generation/</link>
-      <description><![CDATA[嘿我们正在寻找有关我们的开源工具的反馈，该工具用于构建 RAG 并通过 RAG 组件（分块、嵌入模型、检索器、排序器）的不同组合进行迭代并创建最佳 RAG。目前，除了反复试验之外，似乎没有科学的方法。我们的工具旨在减少迭代和评估 RAG 所花费的时间。  Git Repo： https://github.com/KruxAI/ragbuilder Hacker News 帖子 https://news.ycombinator.com/item?id=41145093 提前致谢   由    /u/Hot_Extension_9087  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1elb9wx/open_source_ragretrieval_augmented_generation/</guid>
-      <pubDate>Tue, 06 Aug 2024 07:08:03 GMT</pubDate>
     </item>
     <item>
       <title>寻找提供一些特定功能的 Google Keep 替代品</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我来自非技术背景，从事非 IT 行业，也没有转行的计划。我一直在帮助当地的 foss 社区，传播有关 OSS 和 Linux 的意识。我确实想增加我的知识和对 OSS 的编码水平的贡献，只是为了做好事的乐趣，如果我想为好的事业构建任何软件，这可能会在以后帮助我。有没有导师计划可以帮助我实现这一目标，或者有没有什么指导对我有帮助？我试图寻找 github 项目中的问题解决方案，但帮不上什么忙。我对编程语言的了解从基础到中级（我相信是这样）。     提交人    /u/sakhik2014   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ekrqts/need_practical_help_or_guidance_to_contribute_to/</guid>
       <pubDate>Mon, 05 Aug 2024 16:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用开源 FreePlane 制作组织结构图和层次结构</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ekqkzq/how_to_make_organization_charts_and_hierarchies/</link>
-      <description><![CDATA[经过多年的大量研究，我发现 https://docs.freeplane.org/ 提供了我所知道的唯一真正的开源工具，可以创建非常接近组织结构图的东西，即垂直层次结构。我在此评论中发布了一个示例。 以下是制作方法。在默认样式表 (格式 &gt; 管理样式 &gt; 编辑样式 &gt; 格式选项卡，或者只需按 ctrl-F11 然后按格式选项卡) 中，设置：  将自动级别样式禁用 将自动边缘颜色禁用 将子节点布局改为下拉垂直格式 (蓝色父节点在顶部，三个白色子节点在下方) 节点形状改为矩形 取消选中节点边框颜色 / 使用边缘颜色，并将颜色改为黑色 #000000 将最小节点宽度改为 2.2 厘米之类的颜色 边缘样式改为水平 边缘颜色改为灰色 #808080 然后输入回车符 (shift+enter) 和一行条目的空格，使节点都是相同的两行高  然后你会得到非常类似于传统组织结构图样式的东西。可用于各种层次结构用例，例如项目管理中的工作分解结构。    提交人    /u/foss4all   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ekqkzq/how_to_make_organization_charts_and_hierarchies/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源希伯来语语音克隆网站/软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ekqcgc/is_there_any_open_source_hebrew_voice_cloning/</link>
-      <description><![CDATA[我的祖母刚刚去世，我的家人正在为她举办一个追悼会，我们希望她的声音能成为当晚的开场白，我们找到的唯一一个有她声音的视频是这个视频，我搜索了一个半小时，没有找到任何免费的希伯来语语音克隆软件。如果您找到任何网站/软件，请回复。 附言：抱歉我的英语不好，如果你想要争论政治，就不要在这里做    提交人    /u/nintendo_man1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ekqcgc/is_there_any_open_source_hebrew_voice_cloning/</guid>
-      <pubDate>Mon, 05 Aug 2024 15:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
