@@ -4,7 +4,28 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Aug 2024 05:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 09:04:24 GMT</lastBuildDate>
+    <item>
+      <title>亚洲股市从抛售中反弹，日本日经指数上涨</title>
+      <link>https://www.nytimes.com/2024/08/05/business/nikkei-global-stocks.html</link>
+      <description><![CDATA[日本基准指数日经 225 指数周二在创纪录下跌后上涨 10.2%。欧洲股市早盘上涨，美国股指期货高开。]]></description>
+      <guid>https://www.nytimes.com/2024/08/05/business/nikkei-global-stocks.html</guid>
+      <pubDate>Tue, 06 Aug 2024 09:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>废墟之城的长期战斗陷入绝境</title>
+      <link>https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html</link>
+      <description><![CDATA[乌克兰军队正在为争夺托列茨克而展开艰苦的斗争，托列茨克是乌克兰东部一座战略要地，一直遭到俄罗斯军队的无情攻击。]]></description>
+      <guid>https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html</guid>
+      <pubDate>Tue, 06 Aug 2024 07:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里斯正式获得民主党总统候选人提名</title>
+      <link>https://www.nytimes.com/2024/08/06/us/politics/kamala-harris-president-campaign-2024.html</link>
+      <description><![CDATA[该党表示，在周一结束的一次不同寻常的虚拟唱名表决中，副总统赢得了 99% 与会代表的投票。]]></description>
+      <guid>https://www.nytimes.com/2024/08/06/us/politics/kamala-harris-president-campaign-2024.html</guid>
+      <pubDate>Tue, 06 Aug 2024 06:08:24 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰在巴黎收获奖牌之际，其体育渠道却陷入困境</title>
       <link>https://www.nytimes.com/2024/08/06/world/europe/ukraine-olympics-sports-war.html</link>
@@ -13,32 +34,11 @@
       <pubDate>Tue, 06 Aug 2024 04:05:20 GMT</pubDate>
     </item>
     <item>
-      <title>废墟之城的长期战斗陷入绝境</title>
-      <link>https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html</link>
-      <description><![CDATA[乌克兰军队正在为争夺托列茨克而展开艰苦的斗争，托列茨克是乌克兰东部一座战略要地，一直遭到俄罗斯军队的无情攻击。]]></description>
-      <guid>https://www.nytimes.com/2024/08/06/world/europe/ukraine-war-donetsk-toretsk.html</guid>
-      <pubDate>Tue, 06 Aug 2024 04:00:27 GMT</pubDate>
-    </item>
-    <item>
       <title>为了拯救日益萎缩的城市，一位市长向被斯大林驱逐的韩国人求助</title>
       <link>https://www.nytimes.com/2024/08/06/world/asia/korea-soviet-jecheon-population.html</link>
       <description><![CDATA[和许多韩国城市一样，堤川正因人口老龄化和出生率低迷而衰落。来自中亚的朝鲜族移民能扭转这种局面吗？]]></description>
       <guid>https://www.nytimes.com/2024/08/06/world/asia/korea-soviet-jecheon-population.html</guid>
       <pubDate>Tue, 06 Aug 2024 04:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市从抛售中反弹，日本日经指数上涨</title>
-      <link>https://www.nytimes.com/2024/08/05/business/nikkei-global-stocks.html</link>
-      <description><![CDATA[日本基准指数日经 225 指数在创纪录下跌之后于周二上涨。]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/business/nikkei-global-stocks.html</guid>
-      <pubDate>Tue, 06 Aug 2024 03:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>担忧美国经济增长放缓，全球股市大幅下跌</title>
-      <link>https://www.nytimes.com/2024/08/05/business/global-stocks.html</link>
-      <description><![CDATA[始于亚洲的暴跌延续至欧洲，美国股市大幅下跌。一些投资者表示，此次抛售是迟来的回调。]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/business/global-stocks.html</guid>
-      <pubDate>Tue, 06 Aug 2024 02:53:37 GMT</pubDate>
     </item>
     <item>
       <title>民主党激烈游说后，哈里斯即将揭晓副总统人选</title>
@@ -55,11 +55,11 @@
       <pubDate>Tue, 06 Aug 2024 01:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>驻伊拉克美军在空军基地遭火箭弹袭击中受伤</title>
-      <link>https://www.nytimes.com/2024/08/05/world/middleeast/iraq-us-troops-iran-attack.html</link>
-      <description><![CDATA[周一晚间的袭击与伊朗支持的伊拉克武装团体此前发动的袭击类似，过去九个月里，这些武装团体曾多次将该基地作为袭击目标。]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/world/middleeast/iraq-us-troops-iran-attack.html</guid>
-      <pubDate>Tue, 06 Aug 2024 00:31:25 GMT</pubDate>
+      <title>JD Vance 刚刚写了一本书，称进步主义者是低等人</title>
+      <link>https://www.nytimes.com/2024/08/05/opinion/jd-vance-fascism-unhumans.html</link>
+      <description><![CDATA[一场为弗朗西斯科·佛朗哥和约瑟夫·麦卡锡举行的 MAGA 世界庆典。]]></description>
+      <guid>https://www.nytimes.com/2024/08/05/opinion/jd-vance-fascism-unhumans.html</guid>
+      <pubDate>Mon, 05 Aug 2024 23:30:48 GMT</pubDate>
     </item>
     <item>
       <title>谢赫·哈西娜认为她对孟加拉国的控制牢不可破</title>
@@ -67,13 +67,6 @@
       <description><![CDATA[曾经给孟加拉国带来民主希望的总理谢赫·哈西娜变得越来越专制，并因镇压抗议者而下台。]]></description>
       <guid>https://www.nytimes.com/2024/08/05/world/asia/bangladesh-protest-sheikh-hasina.html</guid>
       <pubDate>Mon, 05 Aug 2024 23:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列准备应对伊朗报复，外交官们手忙脚乱</title>
-      <link>https://www.nytimes.com/2024/08/05/world/middleeast/israel-hamas-iran-retaliation.html</link>
-      <description><![CDATA[拜登总统召集国家安全团队并与约旦国王阿卜杜拉二世进行会谈，各伊斯兰国家的外交部长计划于周三在沙特会面。]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/world/middleeast/israel-hamas-iran-retaliation.html</guid>
-      <pubDate>Mon, 05 Aug 2024 22:46:26 GMT</pubDate>
     </item>
     <item>
       <title>反垄断里程碑案：法官裁定谷歌是垄断者</title>
@@ -90,13 +83,6 @@
       <pubDate>Mon, 05 Aug 2024 21:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>压缩选举时间表如何使卡马拉·哈里斯受益</title>
-      <link>https://www.nytimes.com/2024/08/05/us/politics/kamala-harris-donald-trump-2024-campaign.html</link>
-      <description><![CDATA[此次总统竞选活动进展顺利。两党战略家都表示，速度可能会让副总统卡马拉·哈里斯受益。]]></description>
-      <guid>https://www.nytimes.com/2024/08/05/us/politics/kamala-harris-donald-trump-2024-campaign.html</guid>
-      <pubDate>Mon, 05 Aug 2024 20:47:33 GMT</pubDate>
-    </item>
-    <item>
       <title>参议院民主党人称，托马斯大法官未能披露更多私人飞机旅行</title>
       <link>https://www.nytimes.com/2024/08/05/us/politics/clarence-thomas-harlan-crow-private-jet.html</link>
       <description><![CDATA[有记录显示，2010 年最高法院法官哈兰·克罗曾乘坐秘密航班往返于夏威夷和新西兰之间。此后，参议员罗恩·怀登 (Ron Wyden) 向富有的保守派捐助者哈兰·克罗的律师发了一封信。]]></description>
@@ -109,6 +95,20 @@
       <description><![CDATA[美联储的行动迟缓是否会令胜利在望？]]></description>
       <guid>https://www.nytimes.com/2024/08/05/opinion/interest-rates-federal-reserve.html</guid>
       <pubDate>Mon, 05 Aug 2024 20:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡马拉·哈里斯给所有人带来惊喜</title>
+      <link>https://www.nytimes.com/2024/08/05/opinion/kamala-harris-trump-birthrate.html</link>
+      <description><![CDATA[一切都彻底改变了吗？]]></description>
+      <guid>https://www.nytimes.com/2024/08/05/opinion/kamala-harris-trump-birthrate.html</guid>
+      <pubDate>Mon, 05 Aug 2024 15:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>杀害我母亲的凶手被判死刑。我想释放他。</title>
+      <link>https://www.nytimes.com/2024/08/05/opinion/death-penalty-louisiana.html</link>
+      <description><![CDATA[我们擅长定罪和惩罚他人，但我们需要学习如何宽恕。]]></description>
+      <guid>https://www.nytimes.com/2024/08/05/opinion/death-penalty-louisiana.html</guid>
+      <pubDate>Mon, 05 Aug 2024 09:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
