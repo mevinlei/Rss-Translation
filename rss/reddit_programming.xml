@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>电脑编程</description>
-    <lastBuildDate>Thu, 08 Aug 2024 03:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:14:54 GMT</lastBuildDate>
+    <item>
+      <title>使用确定性线程调度程序进行基于属性的并行测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1emync4/parallel_propertybased_testing_with_a/</link>
+      <description><![CDATA[  由    /u/stevana  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emync4/parallel_propertybased_testing_with_a/</guid>
+      <pubDate>Thu, 08 Aug 2024 06:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 p5.js 模拟自动驾驶汽车：车道检测、路径寻找和转向行为</title>
+      <link>https://www.reddit.com/r/programming/comments/1emxudm/simulating_a_selfdriving_car_with_p5js_lane/</link>
+      <description><![CDATA[  由    /u/Distinct-Curve-660  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emxudm/simulating_a_selfdriving_car_with_p5js_lane/</guid>
+      <pubDate>Thu, 08 Aug 2024 05:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apache OFBiz RCE 扫描器 CVE-2024-38856</title>
+      <link>https://www.reddit.com/r/programming/comments/1emvh9c/apache_ofbiz_rce_scanner_cve202438856/</link>
+      <description><![CDATA[  由    /u/FreshConversation639  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1emvh9c/apache_ofbiz_rce_scanner_cve202438856/</guid>
+      <pubDate>Thu, 08 Aug 2024 03:11:36 GMT</pubDate>
+    </item>
     <item>
       <title>Polyfill 供应链攻击</title>
       <link>https://www.reddit.com/r/programming/comments/1emv4kp/polyfill_supply_chain_attack/</link>
       <description><![CDATA[  由    /u/FreshConversation639  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1emv4kp/polyfill_supply_chain_attack/</guid>
       <pubDate>Thu, 08 Aug 2024 02:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML 为 Headstarter Fell 创建的作品集网站演练...</title>
-      <link>https://www.reddit.com/r/programming/comments/1emuxp8/walkthrough_of_portfolio_website_created_using/</link>
-      <description><![CDATA[  由    /u/VeterinarianBroad499  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emuxp8/walkthrough_of_portfolio_website_created_using/</guid>
-      <pubDate>Thu, 08 Aug 2024 02:44:29 GMT</pubDate>
     </item>
     <item>
       <title>对 JSON 创建者 Douglas Crockford 的简短采访</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1emkn4h/zen5s_avx512_teardown_and_more/</guid>
       <pubDate>Wed, 07 Aug 2024 19:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tony Hawk 的 Pro Strcpy</title>
-      <link>https://www.reddit.com/r/programming/comments/1emkmb7/tony_hawks_pro_strcpy/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emkmb7/tony_hawks_pro_strcpy/</guid>
-      <pubDate>Wed, 07 Aug 2024 19:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>C̶a̶k̶e̶ 用户位置是个谎言！！！</title>
-      <link>https://www.reddit.com/r/programming/comments/1emjsaf/the_cake_user_location_is_a_lie/</link>
-      <description><![CDATA[  由    /u/Stegosource  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1emjsaf/the_cake_user_location_is_a_lie/</guid>
-      <pubDate>Wed, 07 Aug 2024 18:42:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
