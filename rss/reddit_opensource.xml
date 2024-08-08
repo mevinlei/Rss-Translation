@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 08 Aug 2024 15:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 18:14:59 GMT</lastBuildDate>
+    <item>
+      <title>资金和捐赠？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1enccht/funding_donations/</link>
+      <description><![CDATA[我一直在研究一些接受和接收捐赠和资金的 Github 项目，并且对 FOSS 资金管理的道德和期望有一些疑问……  假设我在 Github 上有一个项目，无论是 JavaScript 库还是应用程序。我接受个人或公司为该项目提供的资金或捐赠。并且还有其他人为该项目贡献代码，例如错误修复、新功能等。我有义务向这些代码贡献者付费吗？ 假设我在 Github 上有一个项目，无论是 JavaScript 库还是应用程序。我接受个人或公司为该项目提供的资金或捐赠。我多久可以给自己支付一次费用？即使我或没有人为该代码工作了数月或数年，我可以给自己支付费用吗？ 资金和捐赠需要公开吗？或者捐赠和资助可以是私密的吗？ 是否需要有资助该项目或已经捐赠的捐赠者才能被列为财务贡献者？或者我可以不列出任何资助过该项目的人吗？ 财务贡献者和捐赠之间有什么区别吗？ 我看到像 Open Collective 和 Librepay 这样的服务看起来像简单的解决方案。这些解决方案中的任何一个是否允许您接受加密货币（比特币、比特币现金、莱特币、门罗币）作为捐赠并能够自行保管您的私钥，但让服务跟踪地址以确保资金透明度？     提交人    /u/trymeouteh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1enccht/funding_donations/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:44:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么开源软件具有如此好的扩展性？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1enc9t7/why_is_opensource_software_so_extendible/</link>
+      <description><![CDATA[你有 Vim、Emacs、Linux。一切都是可破解的，可配置的，甚至有错误。你可以编写扩展，人们实际上有配置文件可以共享。 但这不是开源的固有特性，但为什么与专有软件相比，这种情况发生得如此频繁？是文化原因吗？ 或者我错了？也许闭源也一样开放？    提交人    /u/Revolutionary_Ad6574   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1enc9t7/why_is_opensource_software_so_extendible/</guid>
+      <pubDate>Thu, 08 Aug 2024 17:41:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maelstrom：使用延迟指标对并发线程上的 API 可靠性进行压力测试。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1enb7p1/maelstrom_stresstest_your_api_reliability_on/</link>
+      <description><![CDATA[嗨，Reddit！ 我刚刚在 MIT 许可证上开源了一个新的压力测试工具（“ma​​elstrom”），这对我很有用。它很轻量，旨在高效测试具有可配置参数的 API 端点。以下是其一些主要功能：  可自定义参数：设置请求数、并发级别、重试限制等。 详细日志记录：跟踪 HTTP 状态代码和响应时间。 电子邮件通知：通过电子邮件获取测试结果摘要（可选）。 优雅关闭：平稳处理中断。 延迟指标：帮助了解 API 的平均延迟 优雅关闭：平稳处理中断。 多线程设计：模拟对 API 端点的多线程并发请求  GitHub：https://github.com/twentyone24/maelstrom 如果您有兴趣，请查看。我很乐意听到任何反馈或建议！ 干杯！感谢您的时间 :-)    提交人    /u/Flashy-Weird8715   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1enb7p1/maelstrom_stresstest_your_api_reliability_on/</guid>
+      <pubDate>Thu, 08 Aug 2024 16:59:32 GMT</pubDate>
+    </item>
     <item>
       <title>您好，我想宣布一个适用于 macOS 的类似容器的解决方案，它不需要禁用 sip。</title>
       <link>https://www.reddit.com/r/opensource/comments/1en7kls/hello_i_would_like_to_announce_a_containerlike/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Outrageous-Medium-49  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1emasyt/adminforth_mit_admin_framework_with_vue/</guid>
       <pubDate>Wed, 07 Aug 2024 12:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源的未来</title>
-      <link>https://www.reddit.com/r/opensource/comments/1eltxn3/the_future_of_open_source/</link>
-      <description><![CDATA[        提交人    /u/jakepen   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1eltxn3/the_future_of_open_source/</guid>
-      <pubDate>Tue, 06 Aug 2024 21:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>GUAC 采用 ClearlyDefined 的许可元数据</title>
-      <link>https://www.reddit.com/r/opensource/comments/1elm51f/guac_adopts_license_metadata_from_clearlydefined/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1elm51f/guac_adopts_license_metadata_from_clearlydefined/</guid>
-      <pubDate>Tue, 06 Aug 2024 16:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>eslint-plugin-project-structure - 带有规则的 Eslint 插件，可帮助您实现可扩展、一致且经过深思熟虑的项目结构。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1elkcul/eslintpluginprojectstructure_eslint_plugin_with/</link>
-      <description><![CDATA[大家好，我认为项目的有序性、一致性和可扩展性至关重要，我相信我并不是唯一一个这样认为的人。我想与大家分享我的图书馆，它专注于这些关键方面。它完全用 TypeScript 编写，允许您自动化基本规则的审查过程并提高项目质量，尤其是在大型团队中工作时。 eslint-plugin-project-structure 带有规则的 Eslint 插件将帮助您实现可扩展、一致且经过深思熟虑的项目结构。 ​​包含所有规则的游乐场。 规则： project-structure-folder-structure 对文件夹结构实施规则，以使您的存储库保持一致、有序且经过深思熟虑。 特点：  ✅ 文件夹结构验证（结构之外的任何文件/文件夹都将被视为错误）。 ✅ 文件夹和文件名验证。 ✅ 文件/文件夹名称大小写验证。 ✅ 文件/文件夹名称正则表达式验证。 ✅ 文件扩展名验证（支持所有扩展名）。 ✅ 继承父级名称（子级继承其所在文件夹的名称）。 ✅ 文件夹递归（您可以   健康项目的一个关键原则是防止创建庞大的依赖树， 删除或编辑一个功能会引发影响整个项目的连锁反应。 创建独立的模块以使您的项目可扩展且易于维护。 摆脱模块之间的依赖关系并创建真正独立的功能。 特点：  ✅ 创建独立的模块，您可以在其中控制可以导入的内容（例如✅ 禁用给定模块的外部导入（node_modules）（添加例外的选项）。 ✅ 引用 {dirname}，它允许您决定当前目录及其在模式中的级别。 ✅ 引用 {family}，它查找给定导入和当前文件之间的公共部分。 ✅ 支持非相对/相对导入。 ✅ 支持无扩展的导入。 ✅ 可重复使用的导入模式。  project-structure-naming-rules 强制执行命名规则。 特点：  ✅ 命名验证。 ✅ 支持类、类型、接口、枚举、变量、函数、箭头函数。 ✅ 继承文件名作为名称（可以选择添加自己的前缀/后缀或更改大小写）。 ✅ 删除文件名的部分内容。 ✅ 仅针对位于文件根目录中的名称类型（不嵌套）的命名规则。 ✅ 正则表达式验证 ✅ 内置大小写验证。 ✅ 不同文件的不同命名规则。     提交人    /u/igorkowalski94   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1elkcul/eslintpluginprojectstructure_eslint_plugin_with/</guid>
-      <pubDate>Tue, 06 Aug 2024 15:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
