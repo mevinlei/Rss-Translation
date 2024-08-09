@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>英国广播公司的新闻</title>
+    <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Thu, 08 Aug 2024 21:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 00:42:55 GMT</lastBuildDate>
+    <item>
+      <title>凯蒂·普莱斯因返回英国后未出庭而被捕</title>
+      <link>https://www.bbc.com/news/articles/cg79gg1pz5no</link>
+      <description><![CDATA[这位前魅力模特没有出庭接受与其多次破产相关的听证会。]]></description>
+      <guid>https://www.bbc.com/news/articles/cg79gg1pz5no</guid>
+      <pubDate>Fri, 09 Aug 2024 00:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vinted 在遭遇强烈反对后改变配送方式</title>
+      <link>https://www.bbc.com/news/articles/cgedy443ldqo</link>
+      <description><![CDATA[这款流行的应用程序正在试行一种选择邮资的新方式，但用户表示这让销售变得更加困难。]]></description>
+      <guid>https://www.bbc.com/news/articles/cgedy443ldqo</guid>
+      <pubDate>Thu, 08 Aug 2024 23:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国夺金，Covid 冲击 200 米，KJT 开局良好 - 巴黎站第 13 天</title>
+      <link>https://www.bbc.com/sport/olympics/articles/c20lmy6rn7no</link>
+      <description><![CDATA[杰德·琼斯 (Jade Jones) 在跆拳道比赛第一轮中失利，但卡塔琳娜·约翰逊-汤普森 (Katarina Johnson-Thompson) 在 2024 年巴黎奥运会七项全能比赛中取得了良好的开局。]]></description>
+      <guid>https://www.bbc.com/sport/olympics/articles/c20lmy6rn7no</guid>
+      <pubDate>Thu, 08 Aug 2024 21:52:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯塔默告诉 Cobra，要对骚乱保持高度警惕</title>
+      <link>https://www.bbc.com/news/articles/cly8rzky7lno</link>
+      <description><![CDATA[首相表示，迅速判刑和增加警力可以遏制暴力行为。]]></description>
+      <guid>https://www.bbc.com/news/articles/cly8rzky7lno</guid>
+      <pubDate>Thu, 08 Aug 2024 21:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普和哈里斯的辩论对决将于 9 月举行</title>
+      <link>https://www.bbc.com/news/articles/cy54l4x7d71o</link>
+      <description><![CDATA[ABC 新闻的这场辩论将是哈里斯成为民主党总统候选人以来两位对手的首次对决]]></description>
+      <guid>https://www.bbc.com/news/articles/cy54l4x7d71o</guid>
+      <pubDate>Thu, 08 Aug 2024 21:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>爱德华兹被剥夺威尔士最高荣誉之一</title>
       <link>https://www.bbc.com/news/articles/c78l1kj1yv4o</link>
@@ -18,20 +53,6 @@
       <description><![CDATA[受俄罗斯领空禁令影响，英国航空将从十月起取消飞往北京的航班。]]></description>
       <guid>https://www.bbc.com/news/articles/c5ykrkv0m5mo</guid>
       <pubDate>Thu, 08 Aug 2024 20:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯塔默告诉警方，要高度警惕骚乱</title>
-      <link>https://www.bbc.com/news/articles/cly8rzky7lno</link>
-      <description><![CDATA[首相表示，迅速判刑和增加警力可以遏制暴力行为。]]></description>
-      <guid>https://www.bbc.com/news/articles/cly8rzky7lno</guid>
-      <pubDate>Thu, 08 Aug 2024 20:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>面临暴乱指控的青少年太冲动了 - 妈妈</title>
-      <link>https://www.bbc.com/news/articles/cy0nlnr731xo</link>
-      <description><![CDATA[一名因在利物浦扰乱秩序而被捕的青少年的妈妈说，他“应该得到第二次机会”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy0nlnr731xo</guid>
-      <pubDate>Thu, 08 Aug 2024 20:15:02 GMT</pubDate>
     </item>
     <item>
       <title>泽连斯基在乌克兰袭击事件中表示，俄罗斯必须感受到战争的后果</title>
@@ -55,18 +76,11 @@
       <pubDate>Thu, 08 Aug 2024 18:38:16 GMT</pubDate>
     </item>
     <item>
-      <title>69 岁退休老人因骚乱而入狱</title>
-      <link>https://www.bbc.com/news/articles/cze5g4djeplo</link>
-      <description><![CDATA[周四共有 21 人被定罪，随着嫌疑人陆续出庭受审，更多的暴徒面临监禁。]]></description>
-      <guid>https://www.bbc.com/news/articles/cze5g4djeplo</guid>
-      <pubDate>Thu, 08 Aug 2024 17:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯选择新领导人的幕后</title>
-      <link>https://www.bbc.com/news/articles/clyl3yg7wzzo</link>
-      <description><![CDATA[BBC 的拉什迪·阿布卢夫亲眼目睹了哈马斯的神秘老兵们聚集在卡塔尔选举新领导人。]]></description>
-      <guid>https://www.bbc.com/news/articles/clyl3yg7wzzo</guid>
-      <pubDate>Thu, 08 Aug 2024 16:57:50 GMT</pubDate>
+      <title>厄瓜多尔政客女儿死亡，司机被判入狱</title>
+      <link>https://www.bbc.com/news/articles/cgl2klz0gw9o</link>
+      <description><![CDATA[瓦内萨·萨格奈·德拉巴斯蒂达 (Vanessa Sagnay de la Bastida) 与未婚夫一起散步时被一辆疾驰的汽车撞倒身亡。]]></description>
+      <guid>https://www.bbc.com/news/articles/cgl2klz0gw9o</guid>
+      <pubDate>Thu, 08 Aug 2024 16:53:26 GMT</pubDate>
     </item>
     <item>
       <title>暴徒是谁？他们被判处了什么刑罚？</title>
@@ -74,20 +88,6 @@
       <description><![CDATA[此次骚乱已造成近 500 人被捕，近 150 人受到指控。]]></description>
       <guid>https://www.bbc.com/news/articles/cm23y7l01v8o</guid>
       <pubDate>Thu, 08 Aug 2024 16:23:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>班克斯嚎叫狼的艺术作品被移除</title>
-      <link>https://www.bbc.com/news/articles/cgrjyv2dwnvo</link>
-      <description><![CDATA[这幅作品被揭开几个小时后，有人看到戴着巴拉克拉法帽的男子将其取下。]]></description>
-      <guid>https://www.bbc.com/news/articles/cgrjyv2dwnvo</guid>
-      <pubDate>Thu, 08 Aug 2024 15:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>因发表反抗议言论被停职的工党议员被捕</title>
-      <link>https://www.bbc.com/news/articles/cz074vyvjzvo</link>
-      <description><![CDATA[工党表示，这种行为“完全不可接受且不会被容忍”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cz074vyvjzvo</guid>
-      <pubDate>Thu, 08 Aug 2024 15:39:03 GMT</pubDate>
     </item>
     <item>
       <title>热带风暴会给英国带来小型热浪吗？</title>
