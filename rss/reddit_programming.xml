@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 09 Aug 2024 00:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 03:10:53 GMT</lastBuildDate>
     <item>
-      <title>Python 基础知识：使用 PyTermTk 进行 TUI - 直播</title>
-      <link>https://www.reddit.com/r/programming/comments/1enkoxt/python_basics_tui_in_with_pytermtk_live_stream/</link>
-      <description><![CDATA[  由    /u/drinkincode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1enkoxt/python_basics_tui_in_with_pytermtk_live_stream/</guid>
-      <pubDate>Thu, 08 Aug 2024 23:29:59 GMT</pubDate>
+      <title>学习机器人编程：使用 Raspberry Pi 和 Python 构建和控制支持 AI 的自主机器人，第 2 版</title>
+      <link>https://www.reddit.com/r/programming/comments/1enmiwf/learn_robotics_programming_build_and_control/</link>
+      <description><![CDATA[  由    /u/Grandworkssarl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1enmiwf/learn_robotics_programming_build_and_control/</guid>
+      <pubDate>Fri, 09 Aug 2024 00:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>向量搜索的探索</title>
+      <link>https://www.reddit.com/r/programming/comments/1enm99c/an_exploration_of_vector_search/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1enm99c/an_exploration_of_vector_search/</guid>
+      <pubDate>Fri, 09 Aug 2024 00:43:01 GMT</pubDate>
     </item>
     <item>
       <title>模拟是一种反模式</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[  由    /u/notmaged  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1enfm03/learn_to_code_even_if_you_can_ask_the_llm_to_do/</guid>
       <pubDate>Thu, 08 Aug 2024 19:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 结构在赋值时被复制（以及我错过的有关 Go 的其他事情）</title>
-      <link>https://www.reddit.com/r/programming/comments/1enffxg/go_structs_are_copied_on_assignment_and_other/</link>
-      <description><![CDATA[  由    /u/imadij  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1enffxg/go_structs_are_copied_on_assignment_and_other/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:48:32 GMT</pubDate>
     </item>
     <item>
       <title>大声思考：软件开发人员被低估的超能力</title>
