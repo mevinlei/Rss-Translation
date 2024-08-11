@@ -4,11 +4,25 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 11 Aug 2024 03:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 06:14:53 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰总统泽连斯基承认俄罗斯发动攻势</title>
+      <link>https://www.bbc.com/news/articles/c5y87gk729do</link>
+      <description><![CDATA[乌克兰总统称其军队正在将战争“推向侵略者的领土”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c5y87gk729do</guid>
+      <pubDate>Sun, 11 Aug 2024 04:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡马拉·哈里斯称加沙平民死亡“太多”</title>
+      <link>https://www.bbc.com/news/articles/cn0lx2xgn55o</link>
+      <description><![CDATA[以色列称此次袭击针对的是哈马斯和伊斯兰圣战组织武装分子，造成至少 70 人死亡。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn0lx2xgn55o</guid>
+      <pubDate>Sun, 11 Aug 2024 04:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>司法部长警告称，骚乱的影响将持续“数年”</title>
       <link>https://www.bbc.com/news/articles/cnvy314jr3go</link>
-      <description><![CDATA[沙巴纳·马哈茂德表示，骚乱使得重建司法系统的任务变得更加艰巨。]]></description>
+      <description><![CDATA[沙巴纳·马哈茂德表示，混乱的局势使得重建司法系统的任务变得更加困难。]]></description>
       <guid>https://www.bbc.com/news/articles/cnvy314jr3go</guid>
       <pubDate>Sun, 11 Aug 2024 02:56:21 GMT</pubDate>
     </item>
@@ -48,20 +62,6 @@
       <pubDate>Sat, 10 Aug 2024 23:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰总统泽连斯基承认俄罗斯发动进攻</title>
-      <link>https://www.bbc.com/news/articles/c5y87gk729do</link>
-      <description><![CDATA[乌克兰总统称其军队正在将战争“推向侵略者的领土”。]]></description>
-      <guid>https://www.bbc.com/news/articles/c5y87gk729do</guid>
-      <pubDate>Sat, 10 Aug 2024 23:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国夺得篮球和足球金牌，英国在第 15 天获得六枚奖牌</title>
-      <link>https://www.bbc.com/sport/olympics/articles/c3ej8gz13z8o</link>
-      <description><![CDATA[巴黎奥运会第 15 天的头条新闻：美国队夺得足球和篮球金牌，英国队夺得六枚奖牌。]]></description>
-      <guid>https://www.bbc.com/sport/olympics/articles/c3ej8gz13z8o</guid>
-      <pubDate>Sat, 10 Aug 2024 22:07:18 GMT</pubDate>
-    </item>
-    <item>
       <title>英国队医护人员挽救了乌兹别克斯坦拳击教练的生命</title>
       <link>https://www.bbc.com/news/articles/cn47x2xyk1do</link>
       <description><![CDATA[拳击教练图尔金·基利切夫在庆祝他的运动员获得金牌时突然心脏骤停。]]></description>
@@ -69,11 +69,11 @@
       <pubDate>Sat, 10 Aug 2024 21:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>医院负责人称以色列袭击加沙已造成 70 多人死亡</title>
-      <link>https://www.bbc.com/news/articles/c8erk37yn2no</link>
-      <description><![CDATA[以色列称其目标是驻扎在加沙城学校内的哈马斯和伊斯兰圣战分子，该学校是近期遭到袭击的多所学校之一。]]></description>
-      <guid>https://www.bbc.com/news/articles/c8erk37yn2no</guid>
-      <pubDate>Sat, 10 Aug 2024 21:13:18 GMT</pubDate>
+      <title>贝尔在铜牌和接力赛中的出色表现为英国奖牌总数增添光彩</title>
+      <link>https://www.bbc.com/sport/olympics/articles/cq82qq12w00o</link>
+      <description><![CDATA[英国选手乔治亚·贝尔在 2024 年巴黎奥运会上首次亮相，就获得了女子 1500 米铜牌。]]></description>
+      <guid>https://www.bbc.com/sport/olympics/articles/cq82qq12w00o</guid>
+      <pubDate>Sat, 10 Aug 2024 21:30:43 GMT</pubDate>
     </item>
     <item>
       <title>特朗普竞选团队称其内部信息遭伊朗黑客攻击</title>
@@ -85,7 +85,7 @@
     <item>
       <title>最后 13 枚奖牌和闭幕式——周日在巴黎会发生什么？</title>
       <link>https://www.bbc.com/sport/articles/c1dmp9krz91o</link>
-      <description><![CDATA[您将每日了解 2024 年巴黎奥运会的赛事信息、何时举办以及关注哪些人。]]></description>
+      <description><![CDATA[您将每日了解 2024 年巴黎奥运会的赛事信息、比赛时间以及关注的人物。]]></description>
       <guid>https://www.bbc.com/sport/articles/c1dmp9krz91o</guid>
       <pubDate>Sat, 10 Aug 2024 21:04:18 GMT</pubDate>
     </item>
@@ -104,11 +104,11 @@
       <pubDate>Sat, 10 Aug 2024 20:17:51 GMT</pubDate>
     </item>
     <item>
-      <title>南港刺伤事件中被杀害女孩的父母称其姐姐目睹了袭击事件</title>
-      <link>https://www.bbc.com/news/articles/ce80x0jn44jo</link>
-      <description><![CDATA[在父母的记忆中，六岁的贝贝·金是一个“甜美、善良、活泼的女孩”。]]></description>
-      <guid>https://www.bbc.com/news/articles/ce80x0jn44jo</guid>
-      <pubDate>Sat, 10 Aug 2024 13:10:57 GMT</pubDate>
+      <title>周一会是英国一年中最热的一天吗？</title>
+      <link>https://www.bbc.com/weather/articles/c2edk0yvd92o</link>
+      <description><![CDATA[最新的热浪可能导致气温升至 34 摄氏度吗？]]></description>
+      <guid>https://www.bbc.com/weather/articles/c2edk0yvd92o</guid>
+      <pubDate>Sat, 10 Aug 2024 13:25:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
