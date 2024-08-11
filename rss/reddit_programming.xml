@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 11 Aug 2024 18:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 21:10:03 GMT</lastBuildDate>
     <item>
-      <title>我更新了用户界面以捕捉来自 Instagram 上的用户和标签的最新公开图像。非常欢迎任何反馈:)</title>
-      <link>https://www.reddit.com/r/programming/comments/1epr1aa/i_updated_the_ui_to_catch_the_latest_public/</link>
-      <description><![CDATA[  由    /u/orsifrancesco  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1epr1aa/i_updated_the_ui_to_catch_the_latest_public/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>优秀的经理人很难找到，但一旦找到，就应该受到赞赏</title>
-      <link>https://www.reddit.com/r/programming/comments/1epqcwd/good_managers_are_hard_to_find_and_once_you_have/</link>
-      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1epqcwd/good_managers_are_hard_to_find_and_once_you_have/</guid>
-      <pubDate>Sun, 11 Aug 2024 17:28:10 GMT</pubDate>
+      <title>Go 中的抢占：简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1epuf0d/preemption_in_go_an_introduction/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1epuf0d/preemption_in_go_an_introduction/</guid>
+      <pubDate>Sun, 11 Aug 2024 20:20:24 GMT</pubDate>
     </item>
     <item>
       <title>不同语言的默认地图值</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/pjmlp  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1epfqn5/walter_bright_interview_5_minutes_dogged/</guid>
       <pubDate>Sun, 11 Aug 2024 08:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Go 语言编写“编写你的 HTTP 服务器”挑战</title>
+      <link>https://www.reddit.com/r/programming/comments/1epfaa1/write_up_of_a_write_your_http_server_challenge_in/</link>
+      <description><![CDATA[  由    /u/_Krayorn_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1epfaa1/write_up_of_a_write_your_http_server_challenge_in/</guid>
+      <pubDate>Sun, 11 Aug 2024 07:45:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
