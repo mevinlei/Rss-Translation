@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 11 Aug 2024 12:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 15:09:07 GMT</lastBuildDate>
     <item>
       <title>影子工作操作系统</title>
       <link>https://www.producthunt.com/posts/shadow-work-os</link>
@@ -23,7 +23,7 @@
       <title>3dlooky</title>
       <link>https://www.producthunt.com/posts/3dlooky</link>
       <description><![CDATA[
-无需任何代码，几分钟内即可将 3D 连接到网站
+无需代码，几分钟内即可将 3D 连接到网站
 
 
 讨论
@@ -34,18 +34,32 @@
       <pubDate>Fri, 09 Aug 2024 21:02:37 GMT</pubDate>
     </item>
     <item>
-      <title>同步变量</title>
-      <link>https://www.producthunt.com/posts/syncvariables</link>
+      <title>多卡明</title>
+      <link>https://www.producthunt.com/posts/docamine</link>
       <description><![CDATA[
-让您的网站保持最新状态 - 无需编码
+使用 AI 填写未标记的文档
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/syncvariables</guid>
-      <pubDate>Fri, 09 Aug 2024 19:06:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/docamine</guid>
+      <pubDate>Fri, 09 Aug 2024 12:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署</title>
+      <link>https://www.producthunt.com/posts/justdeploy-2</link>
+      <description><![CDATA[
+无需锁定和额外费用即可部署您的应用
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/justdeploy-2</guid>
+      <pubDate>Fri, 09 Aug 2024 08:46:13 GMT</pubDate>
     </item>
     <item>
       <title>Yesscribe.ai</title>
@@ -60,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/yescribe-ai</guid>
       <pubDate>Thu, 08 Aug 2024 10:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>梦机人工智能上线</title>
-      <link>https://www.producthunt.com/posts/dream-machine-ai-online</link>
-      <description><![CDATA[
-使用 AI 在线将照片转换为视频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dream-machine-ai-online</guid>
-      <pubDate>Wed, 07 Aug 2024 09:29:03 GMT</pubDate>
     </item>
     <item>
       <title>重叠</title>
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/recipe-reel</guid>
       <pubDate>Sun, 04 Aug 2024 23:46:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>URL转文本</title>
-      <link>https://www.producthunt.com/posts/urltotext</link>
-      <description><![CDATA[
-从任何网站提取干净的文本
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/urltotext</guid>
-      <pubDate>Sun, 04 Aug 2024 16:17:03 GMT</pubDate>
     </item>
     <item>
       <title>回顾</title>
@@ -191,7 +177,7 @@ AI 生成您最近笔记和书签的新闻稿
       <title>AI SaaS启动器</title>
       <link>https://www.producthunt.com/posts/ai-saas-launcher</link>
       <description><![CDATA[
-快速构建 SaaS MVP：AI + 下一代低代码能力
+快速构建 SaaS MVP：AI + 下一代低代码功能​​
 
 
 讨论
@@ -214,6 +200,20 @@ AI 生成您最近笔记和书签的新闻稿
 ]]></description>
       <guid>https://www.producthunt.com/posts/timebox-so</guid>
       <pubDate>Fri, 05 Jul 2024 21:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>脚印</title>
+      <link>https://www.producthunt.com/posts/pegada</link>
+      <description><![CDATA[
+为您的狗找到匹配项
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pegada</guid>
+      <pubDate>Tue, 25 Jun 2024 22:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
