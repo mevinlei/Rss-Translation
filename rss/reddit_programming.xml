@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 13 Aug 2024 15:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 18:13:30 GMT</lastBuildDate>
+    <item>
+      <title>将 Flappy Bird（包含资源）嵌入二维码</title>
+      <link>https://www.reddit.com/r/programming/comments/1ere099/fitting_flappy_bird_assets_included_onto_a_qr_code/</link>
+      <description><![CDATA[  由    /u/RandomGamingDev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ere099/fitting_flappy_bird_assets_included_onto_a_qr_code/</guid>
+      <pubDate>Tue, 13 Aug 2024 17:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Python 中查找第三方依赖项</title>
+      <link>https://www.reddit.com/r/programming/comments/1erbt8w/how_to_find_your_thirdparty_dependencies_in_python/</link>
+      <description><![CDATA[  由    /u/the1024  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1erbt8w/how_to_find_your_thirdparty_dependencies_in_python/</guid>
+      <pubDate>Tue, 13 Aug 2024 16:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 驱动的 C 到 Rust。不只是一个好主意，还是一个渴望逃脱的精灵</title>
+      <link>https://www.reddit.com/r/programming/comments/1erb2f9/llmdriven_ctorust_not_just_a_good_idea_a_genie/</link>
+      <description><![CDATA[  由    /u/waxedcesa  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1erb2f9/llmdriven_ctorust_not_just_a_good_idea_a_genie/</guid>
+      <pubDate>Tue, 13 Aug 2024 15:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>解耦授权的技术复杂性</title>
+      <link>https://www.reddit.com/r/programming/comments/1erae25/the_technical_complexities_of_decoupled/</link>
+      <description><![CDATA[  由    /u/LisaDziuba  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1erae25/the_technical_complexities_of_decoupled/</guid>
+      <pubDate>Tue, 13 Aug 2024 15:11:50 GMT</pubDate>
+    </item>
     <item>
       <title>🔥 到目前为止，2024 年的所有 JavaScript 演讲按会议分组并按浏览次数排序</title>
       <link>https://www.reddit.com/r/programming/comments/1er9kdt/all_javascript_talks_of_2024_so_far_grouped_by/</link>
@@ -62,20 +90,6 @@
       <pubDate>Tue, 13 Aug 2024 12:27:08 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年选择最佳数据库的秘诀</title>
-      <link>https://www.reddit.com/r/programming/comments/1er6dbj/1_tip_for_choosing_the_best_database_in_2024/</link>
-      <description><![CDATA[  由    /u/sh_tomer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1er6dbj/1_tip_for_choosing_the_best_database_in_2024/</guid>
-      <pubDate>Tue, 13 Aug 2024 12:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>钢琴英雄 - 钢琴版吉他英雄</title>
-      <link>https://www.reddit.com/r/programming/comments/1er60jt/piano_hero_a_guitar_hero_for_piano/</link>
-      <description><![CDATA[  由    /u/koziel_gpc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1er60jt/piano_hero_a_guitar_hero_for_piano/</guid>
-      <pubDate>Tue, 13 Aug 2024 11:59:51 GMT</pubDate>
-    </item>
-    <item>
       <title>ArtiPACKED：通过 GitHub Actions Artifacts 中的竞争条件攻击巨人</title>
       <link>https://www.reddit.com/r/programming/comments/1er5x62/artipacked_hacking_giants_through_a_race/</link>
       <description><![CDATA[  由    /u/Due_Lengthiness_9329  提交  [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/aetherpurple  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1er50bh/ptreesortpy_44_lines_of_python_that_messed_with/</guid>
       <pubDate>Tue, 13 Aug 2024 11:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>你总是通过数据库进行集成 - 对微服务架构中共享数据库的思考</title>
-      <link>https://www.reddit.com/r/programming/comments/1er4nzh/you_are_always_integrating_through_a_database/</link>
-      <description><![CDATA[  由    /u/null_was_a_mistake  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1er4nzh/you_are_always_integrating_through_a_database/</guid>
-      <pubDate>Tue, 13 Aug 2024 10:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transact-SQL 编程入门</title>
-      <link>https://www.reddit.com/r/programming/comments/1er3xm3/get_started_with_transactsql_programming/</link>
-      <description><![CDATA[  由   提交  /u/Strange-Slide-5300   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1er3xm3/get_started_with_transactsql_programming/</guid>
-      <pubDate>Tue, 13 Aug 2024 09:59:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
