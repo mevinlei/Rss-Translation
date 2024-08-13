@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 13 Aug 2024 12:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 15:10:31 GMT</lastBuildDate>
+    <item>
+      <title>文档平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1er7mrp/documentation_platform/</link>
+      <description><![CDATA[大家好，我们是一个由 4 人组成的小团队，想要从事私人项目。有没有好的文档软件可以推荐，最好是已经托管的？谢谢！    提交人    /u/nemanja_jovic   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1er7mrp/documentation_platform/</guid>
+      <pubDate>Tue, 13 Aug 2024 13:16:35 GMT</pubDate>
+    </item>
     <item>
       <title>SurfSense 为万维网冲浪者提供的知识图谱🧠大脑🧠。</title>
       <link>https://www.reddit.com/r/opensource/comments/1er254x/surfsense_a_knowledge_graph_brain_for_world_wide/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[类似于 DiskDrill 的东西，如果可能的话带有 GUI    提交人    /u/Separate-Solution801   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1epyj0t/is_there_any_good_foss_data_recovery_tool_for/</guid>
       <pubDate>Sun, 11 Aug 2024 23:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1epwy3r/help/</link>
-      <description><![CDATA[所以我是一个 Roblox 玩家（畏缩），Roblox 的一个缺点是您不能同时运行 2 个游戏，并且有一个程序允许您同时运行多个游戏，并且很多人都说它不安全，有人知道如何阅读源代码并有时间阅读它并告诉我它是否安全吗 链接：https://github.com/ic3w0lf22/Roblox-Account-Manager    提交人    /u/MySuperCoolReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1epwy3r/help/</guid>
-      <pubDate>Sun, 11 Aug 2024 22:09:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
