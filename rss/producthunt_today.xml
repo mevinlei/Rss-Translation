@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 14 Aug 2024 00:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 03:12:13 GMT</lastBuildDate>
     <item>
       <title>AI FLUX 图像生成器</title>
       <link>https://www.producthunt.com/posts/ai-flux-image-generator</link>
@@ -48,20 +48,6 @@
       <pubDate>Mon, 12 Aug 2024 23:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>ElevenLabs 的 Elevenstudios</title>
-      <link>https://www.producthunt.com/posts/elevenstudios-by-elevenlabs</link>
-      <description><![CDATA[
-完全托管的视频和播客配音
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/elevenstudios-by-elevenlabs</guid>
-      <pubDate>Mon, 12 Aug 2024 21:17:17 GMT</pubDate>
-    </item>
-    <item>
       <title>MINE 保存</title>
       <link>https://www.producthunt.com/posts/mine-to-save</link>
       <description><![CDATA[
@@ -90,6 +76,20 @@
       <pubDate>Mon, 12 Aug 2024 12:26:00 GMT</pubDate>
     </item>
     <item>
+      <title>Ocode图像到代码AI</title>
+      <link>https://www.producthunt.com/posts/ocode-image-to-code-ai</link>
+      <description><![CDATA[
+使用 AI 生成带有提示或图像的反应代码
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ocode-image-to-code-ai</guid>
+      <pubDate>Mon, 12 Aug 2024 09:04:54 GMT</pubDate>
+    </item>
+    <item>
       <title>日历链接生成器</title>
       <link>https://www.producthunt.com/posts/calendar-link-generator</link>
       <description><![CDATA[
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/calendar-link-generator</guid>
       <pubDate>Mon, 12 Aug 2024 07:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenVC 平台</title>
-      <link>https://www.producthunt.com/posts/openvc-decks</link>
-      <description><![CDATA[
-DocSend 的免费替代方案，可与投资者分享您的演示文稿
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/openvc-decks</guid>
-      <pubDate>Mon, 12 Aug 2024 06:11:22 GMT</pubDate>
     </item>
     <item>
       <title>升级</title>
@@ -132,6 +118,20 @@ DocSend 的免费替代方案，可与投资者分享您的演示文稿
       <pubDate>Sun, 11 Aug 2024 10:56:01 GMT</pubDate>
     </item>
     <item>
+      <title>狩猎屏幕</title>
+      <link>https://www.producthunt.com/posts/huntscreens</link>
+      <description><![CDATA[
+直观地发现 PH、IH 和 YC 的最新产品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/huntscreens</guid>
+      <pubDate>Sun, 11 Aug 2024 04:59:09 GMT</pubDate>
+    </item>
+    <item>
       <title>人工智能表格填写</title>
       <link>https://www.producthunt.com/posts/ai-form-fill</link>
       <description><![CDATA[
@@ -146,32 +146,32 @@ DocSend 的免费替代方案，可与投资者分享您的演示文稿
       <pubDate>Sat, 10 Aug 2024 10:47:20 GMT</pubDate>
     </item>
     <item>
-      <title>滴答声</title>
-      <link>https://www.producthunt.com/posts/tickr-4</link>
+      <title>a1.艺术</title>
+      <link>https://www.producthunt.com/posts/a1-art</link>
       <description><![CDATA[
-倒计时器的新用法
+改变您的照片，将瞬间变成故事
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tickr-4</guid>
-      <pubDate>Fri, 09 Aug 2024 12:55:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/a1-art</guid>
+      <pubDate>Wed, 07 Aug 2024 15:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>Unwrangle 提供的 Amazon 数据 API</title>
-      <link>https://www.producthunt.com/posts/amazon-data-apis-by-unwrangle</link>
+      <title>深的</title>
+      <link>https://www.producthunt.com/posts/profundo</link>
       <description><![CDATA[
-从亚马逊抓取搜索结果、产品和评论数据
+AI 研究助理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/amazon-data-apis-by-unwrangle</guid>
-      <pubDate>Thu, 08 Aug 2024 08:20:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/profundo</guid>
+      <pubDate>Tue, 06 Aug 2024 15:32:35 GMT</pubDate>
     </item>
     <item>
       <title>失败</title>
@@ -188,6 +188,20 @@ DocSend 的免费替代方案，可与投资者分享您的演示文稿
       <pubDate>Wed, 31 Jul 2024 17:54:43 GMT</pubDate>
     </item>
     <item>
+      <title>塔斯克 (YC W24)</title>
+      <link>https://www.producthunt.com/posts/tusk-yc-w24</link>
+      <description><![CDATA[
+使用 AI 改进 UI
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tusk-yc-w24</guid>
+      <pubDate>Wed, 31 Jul 2024 17:20:19 GMT</pubDate>
+    </item>
+    <item>
       <title>NotHotDog（Alpha 版）</title>
       <link>https://www.producthunt.com/posts/nothotdog-alpha</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@ DocSend 的免费替代方案，可与投资者分享您的演示文稿
 ]]></description>
       <guid>https://www.producthunt.com/posts/nothotdog-alpha</guid>
       <pubDate>Sun, 28 Jul 2024 09:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>康维</title>
-      <link>https://www.producthunt.com/posts/conva-ai</link>
-      <description><![CDATA[
-一键为您的应用构建 AI 助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/conva-ai</guid>
-      <pubDate>Tue, 23 Jul 2024 07:33:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
