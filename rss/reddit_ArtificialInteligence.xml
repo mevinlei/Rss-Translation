@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 16 Aug 2024 00:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 03:12:17 GMT</lastBuildDate>
     <item>
       <title>基于人工智能的图雷特氏症的潜在解决方案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1eta81k/potential_aibased_solution_to_tourettes/</link>
@@ -20,14 +20,7 @@
       <pubDate>Thu, 15 Aug 2024 23:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>你好，我是 Tobias jacob du preez，请帮我建立一个开源 Jarvis</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1et9k8l/greetings_i_am_tobias_jacob_du_preez_please_help/</link>
-      <description><![CDATA[我没有计算资源来测试我的代码。请帮忙： https://github.com/FootlooseNomad/Gadget1.0 我将附加音频处理过程，让 AI 在说话时仍能执行任务。但与此同时，请告诉我你们是否会使用它？    提交人    /u/idunnojustanotherguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1et9k8l/greetings_i_am_tobias_jacob_du_preez_please_help/</guid>
-      <pubDate>Thu, 15 Aug 2024 23:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>据这位物理学家称，大型语言模型可能会被基于数理逻辑的模型所取代</title>
+      <title>据这位物理学家称，大型语言模型可能会被基于数理逻辑的模型取代</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1et95v9/according_to_this_physicist_large_language_models/</link>
       <description><![CDATA[幻觉会戳破人工智能泡沫吗？ 拥有物理学博士学位的 Sabine Hossenfelder 经营着一个 YouTube 频道，她在该频道上提供有关天文学、物理学、计算机科学和其他主题的新闻评论。在这里，她讨论了大型语言模型在生成准确、事实信息和避免生成令人信服但虚假的信息方面的缺点，并探索了一种尝试对严格的数学逻辑进行建模的可能替代方案。    提交人    /u/ferriematthew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1et95v9/according_to_this_physicist_large_language_models/</guid>
@@ -48,11 +41,11 @@
       <pubDate>Thu, 15 Aug 2024 19:43:04 GMT</pubDate>
     </item>
     <item>
-      <title>本地（大型）语言模型 - 如何实现？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1et3blg/local_large_language_model_howto/</link>
-      <description><![CDATA[嗨， 我对这个主题还很陌生，这是我的第一个项目。我需要在本地运行一个语言模型（隐私是这个决定的唯一原因）。 好消息是这个任务应该相对简单（我的期望）。应用程序应该基本上根据几个关键字（指示要生成什么类型​​的文本）和特定于实例的数据生成全文。重要的是，要生成的文本来自少数类别，每个类别的文本总是相似的。这意味着，它们主要由固定片段组成，少数特定于实例的部分直接来自文本输入。即使基于规则的方法（根据关键字选择合适的片段并进行某种掩码填充）也可以工作，但我仍然想尝试 LLM 以使其更加灵活。 我的方法是采用一个基本模型并对其进行微调。我的期望是 LLM 不需要非常大。它必须只掌握语言的语法。但由于它主要根据固定片段或从输入中获取的片段来组装文本，因此模型不需要包含大量知识，较小的模型就可以完成这项工作。这听起来合理吗？ 我尝试了一些模型（全部来自 HuggingFace），例如 gpt2、LLaMA、Orca 等的较小版本。但即使是具有 7B 参数的版本也无法在我的本地机器上管理。我可以加载的最大模型是 3B，我可以方便地使用和微调的最大模型是 1B。从 3B 及以上开始，它们甚至对于*生成*文本（更不用说微调）来说都是超级槽。这让我很惊讶，并提出了另一个问题：服务器集群如何有效地生成文本？这个问题可能听起来很愚蠢，但与预调或微调不同，*生成*文本似乎无法并行化。LLM 预测一个标记，将其添加到输入中，然后重复该过程。服务器集群中的单个 GPU 可能比我的好一点，但不是好很多。数量决定了集群的优劣，但如何利用数量来生成数据？    提交人    /u/duffano   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1et3blg/local_large_language_model_howto/</guid>
-      <pubDate>Thu, 15 Aug 2024 18:58:02 GMT</pubDate>
+      <title>AI 生成的环境音乐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1et2wzm/ai_generated_ambient_music/</link>
+      <description><![CDATA[大家好！我在 YouTube 上看到了很多这样的“氛围”频道，想尝试制作一些类似的音乐。这些是如何生成的？我试过几个网站，但它们的时间限制为 2-5 分钟。有没有可以生成 2-3 小时的？ https://www.youtube.com/watch?v=LzNT5ReohcM    提交人    /u/cyb0rgasm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1et2wzm/ai_generated_ambient_music/</guid>
+      <pubDate>Thu, 15 Aug 2024 18:42:18 GMT</pubDate>
     </item>
     <item>
       <title>谷歌推出 Gemini Live AI 产品</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[我知道最大的目标是让人工智能尽可能接近人类。但你对不这样做有多大接受度？你对人工智能可能是另一种与人类平行或相邻的“有知觉/思考的物种”的想法有多大接受度？我们是否需要让人工智能感受到情感作为最终目标？我认为它们可能是我们自己创造的另一个物种。我们可以与之建立某种共生关系的物种。    提交人    /u/Sun-607   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1esuwcm/does_ai_actually_need_to_be_more_human/</guid>
       <pubDate>Thu, 15 Aug 2024 13:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有人工智能和教育工具的平台：我将非常感谢您的反馈</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1esuc6b/platform_with_ai_and_educational_tools_i_would_be/</link>
+      <description><![CDATA[我们的团队正在为学生和教育工作者开发一个平台，但主要面向学生。这是一个带有 AI 工具的网站，旨在让学习变得更容易一些。它不仅仅是完成你的家庭作业任务；它还提供了有助于节省时间的工具。 例如，如果你的想法太短，可以使用段落扩展工具将其加长。就是这样。 我们还为大学生​​以及对学习或学习方法有任何疑虑的人添加了有用的指南和教程。 定价：每天 3 个免费积分（足够使用基本功能）或每月 9 至 19 美元的付费计划。 特别优惠：在返校季，我们提供年度订阅 25% 的折扣。可从您的仪表板获取。 网站： https://academichelp.net/ 有任何问题吗？欢迎在下面提问。    提交人    /u/Maggy_success   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1esuc6b/platform_with_ai_and_educational_tools_i_would_be/</guid>
+      <pubDate>Thu, 15 Aug 2024 12:49:57 GMT</pubDate>
     </item>
     <item>
       <title>寻找一个人工智能来加载我的所有书籍并与我讨论</title>
