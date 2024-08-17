@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 17 Aug 2024 00:40:08 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 17 Aug 2024 03:10:35 GMT</lastBuildDate>
+    <item>
+      <title>制作了这个实时多人井字游戏。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eu70ei/made_this_realtime_multiplayer_tic_tac_toe_game/</link>
+      <description><![CDATA[      以下是功能的简要介绍：  用户身份验证：用户可以注册并登录。 游戏室：创建并加入游戏室。 邀请：邀请朋友加入您的游戏。 实时游戏：WebSocket 集成可确保流畅的实时游戏体验。  技术栈：  前端：Nuxt.js、Tailwind CSS、NuxtUI 后端：Laravel、WebSockets 数据库：MariaDB 语言： PHP、JavaScript  查看代码：  前端： GitHub - tic-tac-toe-frontend 后端： GitHub - tic-tac-toe-backend  欢迎深入研究代码，尝试一下，然后告诉我你的想法！欢迎任何反馈或建议。享受游戏！    提交人    /u/rootShiv   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eu70ei/made_this_realtime_multiplayer_tic_tac_toe_game/</guid>
+      <pubDate>Sat, 17 Aug 2024 02:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲市场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1eu5038/european_market/</link>
+      <description><![CDATA[大家好，我在美国有一家网页设计/开发公司，很快将和家人一起搬回欧洲（克罗地亚）。 我有兴趣了解其他个体经营/自由职业/网页设计企业主的市场情况。 你们的大多数客户是本地客户、欧盟客户还是美国以外的客户？ 欧洲的定价和利润是什么样的？ 哪些细分市场和获取客户的方式比较受欢迎？ 我想看看我应该如何转变业务以适应欧洲市场，或者我是否应该继续关注美国客户。 任何来自自由职业网页开发人员的信息都有帮助！谢谢！    提交人    /u/m_o_r_e_n_o   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1eu5038/european_market/</guid>
+      <pubDate>Sat, 17 Aug 2024 00:48:35 GMT</pubDate>
+    </item>
     <item>
       <title>我想要保持对计算机科学知识的敏锐，所以我做了一个开源的抽认卡网络应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1eu3coc/i_wanted_stay_sharp_on_cs_knowledge_so_i_made_an/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[由于我有研究背景，所以一直喜欢原始数据。完成博士学位后，我想将我的技能应用到一个与股票市场相关的新项目中。目标是创建一个平台，尽可能多地获取原始数据，以便从中得出有意义的结论。如今，Alpha 真的很难找到，每个视角/数据源都很重要。 因此到目前为止，我已将以下功能添加到我的代码库中： 发现股票：一些功能包括：涨幅最大的股票；即将发布的收益报告；卖空最多的股票；基于华尔街分析师的顶级股票； Jim Cramer 的顶级股票推荐。 替代数据集：主要功能包括：对冲基金的实时期权流、暗池交易、未交割股票、从 IB 借来的股票、做市商活动、散户投资者活动。 免费期权流阅读器：我一直在寻找有用的期权流阅读器，但 Unusual Whales 和 Cheddarflow 总是非常昂贵。所以，我自己创建了一个并在这里免费提供。 基本面分析：为每家公司添加了所有收益、资产负债表、现金流和比率表，以快速了解它们在基本面上的表现。 技术分析：常见的技术指标：SMA、RSI、MACD、MFI、ADI、CCI 等。 预测技术：我为不同的任务开发了几个 ML 模型。一个模型只考虑基本面数据来预测下一季度的价格是高于还是低于上一季度。另一个模型使用 Prophet 来预测未来 12 个月的股价。还有一个模型使用各种特征来预测下周、下个月和下三个月的趋势。 华尔街分析师数据库：收集并排名超过 4800 名分析师，从最好到最差。评级基于成功率、平均回报率和上次评级的持续时间。 国会交易数据库：收集国会（众议院和参议院）每个政客的所有交易，以便实时查看他们最新的交易并获得见解和趋势。 对冲基金数据库：收集所有必须每季度提交 13F 报告的美国对冲基金的最新持股和整体表现。 股息之王和贵族：当然，我们还提供了股息之王和股息贵族的列表。 我希望您觉得这个项目有用，甚至可能为它做出贡献（参见 GitHub 链接）！ 注意：这个项目将永远保持开源。 目前，价格为每月 1.99 美元，可无限制访问平台以支付账单（数据许可证、服务器等）。但是，如果您认为价格不公平，请告诉我。我非常愿意讨论有助于大多数交易者的公平价格。 链接：https://stocknear.com 回购：https://github.com/stocknear    提交人    /u/realstocknear   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1eu3bgx/showoffsaturday_stocknear_a_platform_for_data/</guid>
       <pubDate>Fri, 16 Aug 2024 23:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>对网页制作非常陌生，所以尽量解释得简单一点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1eu2m3a/very_new_to_web_making_so_try_to_explain_it_simple/</link>
-      <description><![CDATA[我试图将 zip 文件制作成一个网站。我拥有所有资产，我只需要将其制作成一个网站。你们知道怎么做吗？    提交人    /u/SubToBEPLON   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1eu2m3a/very_new_to_web_making_so_try_to_explain_it_simple/</guid>
-      <pubDate>Fri, 16 Aug 2024 23:00:26 GMT</pubDate>
     </item>
     <item>
       <title>通过 Cloudfare 开发和销售网站</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有这个 handleSelectFigure 函数： function handleSelectFigure(figure) { if (isGameover) return if ( (isRedsTurn &amp;&amp; === &#39;red&#39;) || (!isRedsTurn &amp;&amp; === &#39;blue&#39;) ) { console.log(figure) setSelectedFigure(figure) } }  单击 div 即可执行此函数： &lt;div ref={drag} className={classNames} onClick={() =&gt; { handleSelectFigure(getFigure()) }} &gt; O &lt;/div&gt;  并且这按预期工作。 我还想在拖动此 div 时更改状态，因此这是我的尝试： const [{ isDragging }, drag] = useDrag(() =&gt; ({ type: &#39;Figure&#39;, collect: (monitor) =&gt; ({ isDragging: !!monitor.isDragging(), }), })) useEffect(() =&gt; { if (isDragging) { console.log(getFigure()) handleSelectFigure(getFigure()) } }, [isDragging])  并且这也有效，因此我的状态得到更新。 现在我有这个函数 handleClickOnCell  function handleClickOnCell(clickedCell) { console.log(selectedFigure) ... }  当我单击单元格时，此方法有效。控制台日志向我显示了 selectedFigure。 &lt;div ref={drop} key={cell.id} className=&quot;cell&quot; onClick={() =&gt; { handleClickOnCell(cell) }} &gt; {lastFigureOnCell ? ( &lt;Figure handleSelectFigure={handleSelectFigure} ... &gt;&lt;/Figure&gt; ) : ( &lt;&gt;&lt;/&gt; )} &lt;/div&gt;  但是当我&quot;drop&quot; 时，它不起作用我的图在单元格上。 const [{}, drop] = useDrop( () =&gt; ({ accept: &#39;Figure&#39;, drop: (item) =&gt; { handleClickOnCell(cell) }, }), [cell]  现在控制台记录 null 而不是 selectedFigure 状态。 为什么会这样？Repo。代码位于 src/components &gt; Cell.jsx、Figure.jsx 和 Game.jsx 中。 拖放库    提交人    /u/kadaxda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ettovs/why_is_my_state_null_using_reactdnd_but_works/</guid>
       <pubDate>Fri, 16 Aug 2024 16:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用交叉观察器调整垂直填充时，Chrome 中的粘性标题出现故障</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ettl7h/sticky_header_glitch_in_chrome_when_adjusting/</link>
-      <description><![CDATA[有人知道如何修复这样的问题吗？粘性标题。基本交叉点观察器在滚动时向其添加类。工作完全正常。但是，我在滚动时调整的一件事是元素的垂直填充。使用滚轮滚动没有问题，但是在 Chrome 中，如果您使用滚动条并用鼠标单击并向下拖动，您可能会停留在无休止地添加/删除类的点，并导致上下像素故障。 看起来很简单，我知道大多数人不会单击并拖动他们的滚动条，但如果有一个简单的解决方案，我愿意这样做。如果我删除垂直填充更改，显然一切都会正常工作。 https://codepen.io/lianad311/pen/ExBoeaL    提交人    /u/Lianad311   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ettl7h/sticky_header_glitch_in_chrome_when_adjusting/</guid>
-      <pubDate>Fri, 16 Aug 2024 16:41:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
