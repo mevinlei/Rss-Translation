@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 19 Aug 2024 18:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 21:10:13 GMT</lastBuildDate>
+    <item>
+      <title>Seeed Studio 的 reTerminal</title>
+      <link>https://www.producthunt.com/posts/reterminal-by-seeed-studio</link>
+      <description><![CDATA[
+用于 AI 和 IoT 项目的人机界面设施
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/reterminal-by-seeed-studio</guid>
+      <pubDate>Mon, 19 Aug 2024 19:03:38 GMT</pubDate>
+    </item>
     <item>
       <title>野火：有 3 秒吗？</title>
       <link>https://www.producthunt.com/posts/wildfire-got-3-seconds</link>
@@ -90,6 +104,20 @@ Pinterest 但用于推文
       <pubDate>Sun, 18 Aug 2024 12:10:04 GMT</pubDate>
     </item>
     <item>
+      <title>切波</title>
+      <link>https://www.producthunt.com/posts/chepo</link>
+      <description><![CDATA[
+只需单击一下即可获取生成的数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chepo</guid>
+      <pubDate>Sun, 18 Aug 2024 09:49:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Notion AI 提示中心</title>
       <link>https://www.producthunt.com/posts/notion-ai-prompt-hub</link>
       <description><![CDATA[
@@ -104,18 +132,18 @@ Pinterest 但用于推文
       <pubDate>Sun, 18 Aug 2024 07:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>邀请函</title>
-      <link>https://www.producthunt.com/posts/invite-sh</link>
+      <title>科尔德里奇 (YC W23)</title>
+      <link>https://www.producthunt.com/posts/coldreach-yc-w23</link>
       <description><![CDATA[
-简易 Google 日历邀请创建器
+使用 AI 查找准备购买的潜在客户 + 听起来相关
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/invite-sh</guid>
-      <pubDate>Sat, 17 Aug 2024 21:40:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/coldreach-yc-w23</guid>
+      <pubDate>Sat, 17 Aug 2024 04:05:23 GMT</pubDate>
     </item>
     <item>
       <title>字形</title>
@@ -163,7 +191,7 @@ Pinterest 但用于推文
       <title>Clipchamp 移动 2.0</title>
       <link>https://www.producthunt.com/posts/clipchamp-mobile-2-0</link>
       <description><![CDATA[
-在几分钟内创建适合移动设备的视频（iOS）
+在几分钟内制作适合移动设备的视频（iOS）
 
 
 讨论
@@ -186,34 +214,6 @@ Pinterest 但用于推文
 ]]></description>
       <guid>https://www.producthunt.com/posts/web-action-sdk</guid>
       <pubDate>Sat, 10 Aug 2024 23:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>中环 (YC S24)</title>
-      <link>https://www.producthunt.com/posts/central-yc-s24</link>
-      <description><![CDATA[
-初创企业的工资单、福利和政府废话
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/central-yc-s24</guid>
-      <pubDate>Fri, 09 Aug 2024 22:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>汉明人工智能（YC S24）</title>
-      <link>https://www.producthunt.com/posts/hamming-ai-yc-s24</link>
-      <description><![CDATA[
-语音代理的自动测试
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/hamming-ai-yc-s24</guid>
-      <pubDate>Thu, 08 Aug 2024 04:55:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
