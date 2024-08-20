@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Aug 2024 09:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 12:18:51 GMT</lastBuildDate>
+    <item>
+      <title>卢莫斯马克西玛</title>
+      <link>https://www.producthunt.com/posts/lumosmaxima</link>
+      <description><![CDATA[
+提高 MacBook Pro 的屏幕亮度
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/lumosmaxima</guid>
+      <pubDate>Tue, 20 Aug 2024 09:19:36 GMT</pubDate>
+    </item>
     <item>
       <title>奇偶校验 (YC S24)</title>
       <link>https://www.producthunt.com/posts/parity-yc-s24</link>
@@ -20,32 +34,46 @@
       <pubDate>Tue, 20 Aug 2024 07:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>有风险的文本</title>
-      <link>https://www.producthunt.com/posts/risky-text</link>
+      <title>每日机器人</title>
+      <link>https://www.producthunt.com/posts/daily-bots</link>
       <description><![CDATA[
-未经审查的 AI 短信
+使用任何 LLM 构建语音对语音 AI 代理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/risky-text</guid>
-      <pubDate>Mon, 19 Aug 2024 22:20:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/daily-bots</guid>
+      <pubDate>Tue, 20 Aug 2024 05:31:51 GMT</pubDate>
     </item>
     <item>
-      <title>卫生监察</title>
-      <link>https://www.producthunt.com/posts/health-inspecta</link>
+      <title>拥抱</title>
+      <link>https://www.producthunt.com/posts/krammar</link>
       <description><![CDATA[
-AI 食品分级器和进度追踪器
+您的语法纳粹但友好的朋友
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/health-inspecta</guid>
-      <pubDate>Mon, 19 Aug 2024 20:09:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/krammar</guid>
+      <pubDate>Mon, 19 Aug 2024 15:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>威格罗</title>
+      <link>https://www.producthunt.com/posts/wiglo</link>
+      <description><![CDATA[
+通过游戏化应用跟踪狗狗的幸福感
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/wiglo</guid>
+      <pubDate>Mon, 19 Aug 2024 11:36:00 GMT</pubDate>
     </item>
     <item>
       <title>适用于 Microsoft Teams 的 Jotform</title>
@@ -60,20 +88,6 @@ AI 食品分级器和进度追踪器
 ]]></description>
       <guid>https://www.producthunt.com/posts/jotform-for-microsoft-teams</guid>
       <pubDate>Mon, 19 Aug 2024 07:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>文本框</title>
-      <link>https://www.producthunt.com/posts/textbin-2</link>
-      <description><![CDATA[
-一个注重隐私的开源 paste bin 替代品
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/textbin-2</guid>
-      <pubDate>Mon, 19 Aug 2024 07:18:35 GMT</pubDate>
     </item>
     <item>
       <title>WebAssistants.ai</title>
@@ -132,6 +146,20 @@ LLM 应用程序的开源评估和可观察性
       <pubDate>Mon, 12 Aug 2024 19:21:09 GMT</pubDate>
     </item>
     <item>
+      <title>AgentQL</title>
+      <link>https://www.producthunt.com/posts/agentql</link>
+      <description><![CDATA[
+轻松的数据提取和网络自动化
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/agentql</guid>
+      <pubDate>Sat, 10 Aug 2024 17:14:21 GMT</pubDate>
+    </item>
+    <item>
       <title>我的测验</title>
       <link>https://www.producthunt.com/posts/my-quizzes</link>
       <description><![CDATA[
@@ -158,34 +186,6 @@ LLM 应用程序的开源评估和可观察性
 ]]></description>
       <guid>https://www.producthunt.com/posts/fleak-ai-workflows</guid>
       <pubDate>Fri, 26 Jul 2024 23:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>思想邮报</title>
-      <link>https://www.producthunt.com/posts/thinkpost</link>
-      <description><![CDATA[
-交互式分屏笔记和头脑风暴工具
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/thinkpost</guid>
-      <pubDate>Thu, 25 Jul 2024 17:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teamhub.com</title>
-      <link>https://www.producthunt.com/posts/teamhub-com</link>
-      <description><![CDATA[
-您的团队将坚持使用的项目工具。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/teamhub-com</guid>
-      <pubDate>Thu, 18 Jul 2024 10:16:51 GMT</pubDate>
     </item>
     <item>
       <title>WOLO:我们只活一次</title>
