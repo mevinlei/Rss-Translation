@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:41:22 GMT</lastBuildDate>
+    <item>
+      <title>保险行业已经准备好采用开源 AMS 解决方案......</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ex76ga/the_insurance_industry_is_ripe_for_a_open_source/</link>
+      <description><![CDATA[我家的商业保险经纪公司一直在考虑改用不同的代理管理系统，但我发现这些选择实在是太糟糕了。所有系统要么超级过时，要么昂贵且臃肿，要么专为专门的小众市场打造。 如果有人感兴趣的话，我在 Blazor 上有一个非常酷的项目。    提交人    /u/malachi347   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ex76ga/the_insurance_industry_is_ripe_for_a_open_source/</guid>
+      <pubDate>Tue, 20 Aug 2024 21:11:40 GMT</pubDate>
+    </item>
     <item>
       <title>利用开源技术改造土木工程：寻求革命性项目管理工具的合作伙伴</title>
       <link>https://www.reddit.com/r/opensource/comments/1ex40do/transforming_civil_engineering_with_opensource/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[代码：https://github.com/kenhktsui/anyclassifier 详细博客：https://huggingface.co/blog/kenhktsui/anyclassifier 我想与大家分享这一点，因为我认为这对大多数 ML 工程师和软件工程师来说都是一个很好的资源。 我为文本分类模块创建了一个合成数据生成。因此，即使没有数据集，也可以从头开始构建分类器。它在 5 个基准测试中使用合成数据取得了与使用真实数据相当的竞争结果。 未来有许多开放的研究和实施：  研究合成数据算法以获得更高的性能 模型评估、错误分析和模型改进的代理工作流程 多语言支持  该项目根据 MIT 许可发布。如果您有兴趣，请尝试一下并做出贡献。如果您有任何反馈，请告诉我。    提交人    /u/transformer_ML   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ew5jyu/anyclassifier_one_line_to_build_zerodata_machine/</guid>
       <pubDate>Mon, 19 Aug 2024 16:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关展示我的 DevOps 项目的建议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1evz2g4/looking_for_advice_on_showcasing_my_devops/</link>
-      <description><![CDATA[大家好， 正如标题所述，我一直在从事一些与 DevOps 相关的基于容器的项目，我发现这些项目非常有趣：  Let&#39;s Encrypt Web UI 客户端 用于 Kubernetes 的自定义轻量级 CI/CD 管道 用于 Podman API 的 .NET 客户端库  我正在寻找有关如何最好地推进这些项目的建议。我应该专注于开源它们、撰写博客文章、创建教程还是其他完全不同的东西？ 承认这一点有点令人难过，但尽管我在该领域拥有 15 年的经验，但我仍然没有找到参与开源社区的最佳方式。我还担心，由于我没有参加过任何社区并且没有建立声誉，我可能会被视为垃圾邮件发送者。  如有任何建议或见解，我们将不胜感激！ 提前致谢！    由    /u/maks-it 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1evz2g4/looking_for_advice_on_showcasing_my_devops/</guid>
-      <pubDate>Mon, 19 Aug 2024 11:11:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
