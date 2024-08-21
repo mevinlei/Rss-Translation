@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 21 Aug 2024 12:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 15:09:42 GMT</lastBuildDate>
+    <item>
+      <title>mathjs 未在 jsbin 中定义</title>
+      <link>https://www.reddit.com/r/programming/comments/1exqxhb/mathjs_not_defined_in_jsbin/</link>
+      <description><![CDATA[  由    /u/Solid-Astronaut7449  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1exqxhb/mathjs_not_defined_in_jsbin/</guid>
+      <pubDate>Wed, 21 Aug 2024 14:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Cerbos 保护 Spring Boot 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1exozz4/securing_a_spring_boot_application_with_cerbos/</link>
+      <description><![CDATA[  由    /u/kirshiyin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1exozz4/securing_a_spring_boot_application_with_cerbos/</guid>
+      <pubDate>Wed, 21 Aug 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码内容：防止 HTTP GET 请求自动缓存（欢迎提出建设性反馈）</title>
+      <link>https://www.reddit.com/r/programming/comments/1exogvv/coding_content_preventing_http_get_requests_from/</link>
+      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1exogvv/coding_content_preventing_http_get_requests_from/</guid>
+      <pubDate>Wed, 21 Aug 2024 12:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT 内部 – 揭秘大型语言模型 • Alan Smith</title>
+      <link>https://www.reddit.com/r/programming/comments/1exobon/inside_gpt_large_language_models_demystified_alan/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1exobon/inside_gpt_large_language_models_demystified_alan/</guid>
+      <pubDate>Wed, 21 Aug 2024 12:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个简单的 AI 驱动的 Python 脚本将彻底改变你的工作方式</title>
+      <link>https://www.reddit.com/r/programming/comments/1exo8vz/this_simple_aipowered_python_script_will/</link>
+      <description><![CDATA[  由    /u/HerpyTheDerpyDude  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1exo8vz/this_simple_aipowered_python_script_will/</guid>
+      <pubDate>Wed, 21 Aug 2024 12:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>strlcpy 以及 CPU 如何违背常识</title>
       <link>https://www.reddit.com/r/programming/comments/1exnq8f/strlcpy_and_how_cpus_can_defy_common_sense/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/bajcmartinez  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1exjg31/hi_all_im_restarting_my_youtube_channel_please/</guid>
       <pubDate>Wed, 21 Aug 2024 07:27:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Wolfram 语言、JS 和 SVG 进行实时流体模拟第 2 部分（最终版）</title>
-      <link>https://www.reddit.com/r/programming/comments/1exj2l7/realtime_fluid_simulation_using_wolfram_language/</link>
-      <description><![CDATA[在这篇文章中，我们将继续探索一种简单的技术，用于模拟 2D 不可压缩流体以获得视觉效果。这项工作主要基于 Jos Stam 的稳定流体 SIGGRAPH 1999 以及 Karl Sims 的教程。    提交人    /u/Inst2f   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1exj2l7/realtime_fluid_simulation_using_wolfram_language/</guid>
-      <pubDate>Wed, 21 Aug 2024 07:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>理解 CSS 盒子模型样式表</title>
-      <link>https://www.reddit.com/r/programming/comments/1exic6f/understanding_css_box_model_stylesheet/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1exic6f/understanding_css_box_model_stylesheet/</guid>
-      <pubDate>Wed, 21 Aug 2024 06:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的重构与坏的重构</title>
-      <link>https://www.reddit.com/r/programming/comments/1exdzug/good_refactoring_vs_bad_refactoring/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1exdzug/good_refactoring_vs_bad_refactoring/</guid>
-      <pubDate>Wed, 21 Aug 2024 02:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码分析和代码审查 - 细微的差别</title>
-      <link>https://www.reddit.com/r/programming/comments/1ex9rv9/code_analysis_and_code_review_subtle_differences/</link>
-      <description><![CDATA[  由    /u/CodeSherlockAI  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ex9rv9/code_analysis_and_code_review_subtle_differences/</guid>
-      <pubDate>Tue, 20 Aug 2024 22:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mad_Blog,超轻量、简单的 9gag 克隆,下载Mad_Blog的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/programming/comments/1ex9l39/github_madromasmad_blog_super_light_weight_simple/</link>
-      <description><![CDATA[  由    /u/glonkscom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ex9l39/github_madromasmad_blog_super_light_weight_simple/</guid>
-      <pubDate>Tue, 20 Aug 2024 22:51:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
