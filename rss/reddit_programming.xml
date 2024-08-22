@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 22 Aug 2024 18:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 21:10:18 GMT</lastBuildDate>
+    <item>
+      <title>为“光芒之池：神话卓诺废墟”构建地图提取器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyu9nb/building_a_map_extractor_for_pool_of_radiance/</link>
+      <description><![CDATA[  由    /u/Bobby_Bonsaimind  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyu9nb/building_a_map_extractor_for_pool_of_radiance/</guid>
+      <pubDate>Thu, 22 Aug 2024 20:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma II 笔记：工程学习</title>
+      <link>https://www.reddit.com/r/programming/comments/1eytxwr/notes_from_figma_ii_engineering_learnings/</link>
+      <description><![CDATA[  由    /u/reasonableklout  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eytxwr/notes_from_figma_ii_engineering_learnings/</guid>
+      <pubDate>Thu, 22 Aug 2024 20:39:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>将数学语句直接编译为可执行文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyto77/compiling_math_statements_directly_to_excecutables/</link>
+      <description><![CDATA[我为我的业余项目写了一篇小解释文章。很高兴收到一些反馈 :)    提交人    /u/kn0rk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyto77/compiling_math_statements_directly_to_excecutables/</guid>
+      <pubDate>Thu, 22 Aug 2024 20:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 Postgres 中 pgvector 的 HNSW 索引存储</title>
+      <link>https://www.reddit.com/r/programming/comments/1eytaol/understanding_pgvectors_hnsw_index_storage_in/</link>
+      <description><![CDATA[  由    /u/diqitally  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eytaol/understanding_pgvectors_hnsw_index_storage_in/</guid>
+      <pubDate>Thu, 22 Aug 2024 20:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>给漏洞赏金新手的简单提示：查找盲 XSS 漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1eysudi/simple_tips_for_bug_bounty_beginners_finding/</link>
+      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eysudi/simple_tips_for_bug_bounty_beginners_finding/</guid>
+      <pubDate>Thu, 22 Aug 2024 19:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发人员清单——每个软件开发人员都应该知道的基本事项</title>
+      <link>https://www.reddit.com/r/programming/comments/1eysjzf/software_developer_checklist_basic_things_that/</link>
+      <description><![CDATA[  由    /u/pandiyancool  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eysjzf/software_developer_checklist_basic_things_that/</guid>
+      <pubDate>Thu, 22 Aug 2024 19:42:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS 不传播</title>
+      <link>https://www.reddit.com/r/programming/comments/1eys70o/dns_doesnt_propagate/</link>
+      <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eys70o/dns_doesnt_propagate/</guid>
+      <pubDate>Thu, 22 Aug 2024 19:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>压力还不够大？成为 Oracle 认证的专业 Java 开发人员！</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyqetf/not_stressed_enough_become_an_oracle_certified/</link>
+      <description><![CDATA[  由    /u/InsuranceMain6277  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyqetf/not_stressed_enough_become_an_oracle_certified/</guid>
+      <pubDate>Thu, 22 Aug 2024 18:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>由工程师撰写的关于如何成为一名优秀经理的完整指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyqe7p/a_complete_guide_on_being_a_great_manager_written/</link>
+      <description><![CDATA[第一次写一篇关于我思考了一段时间的事情的非技术性文章。任何反馈都将不胜感激。    由   提交  /u/MaxB_Scar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyqe7p/a_complete_guide_on_being_a_great_manager_written/</guid>
+      <pubDate>Thu, 22 Aug 2024 18:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>建立随叫随到：我们的可观察性策略</title>
       <link>https://www.reddit.com/r/programming/comments/1eypyk5/building_oncall_our_observability_strategy/</link>
@@ -18,13 +81,6 @@
       <description><![CDATA[  由    /u/Firfi  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eypbin/typescript_validators_jamboree_a_fairly_cruel/</guid>
       <pubDate>Thu, 22 Aug 2024 17:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>LeetCode 问题是否不能准确缩放？</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyp2i1/are_leetcode_problems_not_accurately_scaled/</link>
-      <description><![CDATA[我绝不是专家，而且我还在上大学。然而，对我来说，似乎有些难题你可以轻松解决，而有些简单的问题只需要一分钟。大多数时候，我发现中等难度只是抛硬币来决定它是难还是易。现在别误会我的意思，我花了很多小时来解决许多难题，它们带来了巨大的挑战，但你肯定会遇到一些不应该被归类为困难的问题。    提交人    /u/Infectedtoe32   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyp2i1/are_leetcode_problems_not_accurately_scaled/</guid>
-      <pubDate>Thu, 22 Aug 2024 17:19:40 GMT</pubDate>
     </item>
     <item>
       <title>35 年软件开发经验教训</title>
@@ -41,20 +97,6 @@
       <pubDate>Thu, 22 Aug 2024 16:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>最终为设计师和前端开发人员实现了调色板下载功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyneqd/finally_implemented_pallette_download_feature_for/</link>
-      <description><![CDATA[我太激动了。我承认这并不容易，但经过多次失败和尝试，我的网站现在可以为图形设计师或前端开发人员下载调色板了。现在就来看看，让我知道你的想法。    提交人    /u/Plane-Football-2521   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyneqd/finally_implemented_pallette_download_feature_for/</guid>
-      <pubDate>Thu, 22 Aug 2024 16:14:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要指导</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyn7fa/need_mentorship/</link>
-      <description><![CDATA[大家好！ 我正在为 Smart India Hackathon 做一个项目，我正在寻找一些有行业经验的人的指导。我正在解决的问题集中在改善印度农村地区的教育——这些地方的学校经常面临基础设施薄弱、互联网接入有限和资源不足的问题。 我的想法是为虚拟教室、管理教育资源、优化互联网连接甚至创建用于离线学习的移动应用程序等创建软件解决方案。我妈妈是农村地区的一名教师，她花了大量时间手动管理学校记录。看到她这样做，我觉得很多工作都可以用软件来简化，让她的生活更轻松，也让其他学校受益。 我正在寻找一位有行业经验的导师，他可以向我们展示正确的道路——不需要编码工作，只需指导我们完成整个过程。如果您愿意提供帮助并且在软件设计或开发方面有一些经验，请直接发信息给我！您的指导可能会对这个项目产生巨大的影响。 谢谢！    提交人    /u/BaburaO29   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyn7fa/need_mentorship/</guid>
-      <pubDate>Thu, 22 Aug 2024 16:06:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Tqla — 一个小型轻量级的文本解析器，它包装了 golang 文本/模板标准库。</title>
       <link>https://www.reddit.com/r/programming/comments/1eymnnl/tqla_a_small_lightweight_text_parser_that_wraps/</link>
       <description><![CDATA[  由    /u/Apart_Lobster000  提交  [链接] [评论]]]></description>
@@ -62,53 +104,11 @@
       <pubDate>Thu, 22 Aug 2024 15:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>我最喜欢的 10 种编码字体</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyln3r/my_top_10_coding_fonts/</link>
-      <description><![CDATA[  由    /u/jordiolle11  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyln3r/my_top_10_coding_fonts/</guid>
-      <pubDate>Thu, 22 Aug 2024 15:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在接受 AWS 首席执行官采访时听说人工智能很快就会取代程序员，如果这是真的，那么我从今天开始应该学习哪些技能？</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyl00k/heard_in_an_interview_from_aws_ceo_that_soon_ai/</link>
-      <description><![CDATA[  由    /u/Swimming-Ad-2105  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyl00k/heard_in_an_interview_from_aws_ceo_that_soon_ai/</guid>
-      <pubDate>Thu, 22 Aug 2024 14:39:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 u/KickEspanol 上学习英语 100 天 - 加入我！</title>
-      <link>https://www.reddit.com/r/programming/comments/1eykzql/100_días_aprendiendo_inglés_en_ukickespanol/</link>
-      <description><![CDATA[  由    /u/martin_mnz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eykzql/100_días_aprendiendo_inglés_en_ukickespanol/</guid>
-      <pubDate>Thu, 22 Aug 2024 14:39:11 GMT</pubDate>
-    </item>
-    <item>
       <title>网络安全初学者完整教程</title>
       <link>https://www.reddit.com/r/programming/comments/1eyk9d1/cybersecurity_full_tutorial_for_beginners/</link>
       <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eyk9d1/cybersecurity_full_tutorial_for_beginners/</guid>
       <pubDate>Thu, 22 Aug 2024 14:08:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我完善了我一直使用的为 LLM 提供背景的脚本</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyk72x/i_beefed_up_a_script_that_i_have_been_using_to/</link>
-      <description><![CDATA[  由    /u/Isaac1234101  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyk72x/i_beefed_up_a_script_that_i_have_been_using_to/</guid>
-      <pubDate>Thu, 22 Aug 2024 14:05:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计面试 - Indeed.com</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyjht1/system_design_interview_indeedcom/</link>
-      <description><![CDATA[  由    /u/InspectionSpirite  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyjht1/system_design_interview_indeedcom/</guid>
-      <pubDate>Thu, 22 Aug 2024 13:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>💥 每周技术讲座 #28：所有最近上传的技术会议讲座。本期包括 GopherCon UK 2024、PyData Eindhoven 2024、Chain React 2024 等等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyjex5/tech_talks_weekly_28_all_the_recently_uploaded/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyjex5/tech_talks_weekly_28_all_the_recently_uploaded/</guid>
-      <pubDate>Thu, 22 Aug 2024 13:31:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
