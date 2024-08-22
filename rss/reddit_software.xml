@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 22 Aug 2024 12:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 15:11:57 GMT</lastBuildDate>
+    <item>
+      <title>有任何类似 winamp 的应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1eykudu/any_app_like_winamp/</link>
+      <description><![CDATA[您好！我正在寻找一款类似于旧版 Winamp 的 Windows 应用。 小型、轻便、极简且不需要网络连接的应用。 我只想要一款可以播放存储在 PC 上的音乐的播放器。    提交人    /u/Old-Juice-2490   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1eykudu/any_app_like_winamp/</guid>
+      <pubDate>Thu, 22 Aug 2024 14:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>创业</title>
       <link>https://www.reddit.com/r/software/comments/1eyh19h/entrepreneurship/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 22 Aug 2024 11:35:43 GMT</pubDate>
     </item>
     <item>
-      <title>如何编程这些自定义按键和旋钮？</title>
+      <title>如何对这些自定义按键和旋钮进行编程？</title>
       <link>https://www.reddit.com/r/software/comments/1eyezu6/how_to_program_this_custom_keys_and_knob/</link>
       <description><![CDATA[我从亚马逊购买了这个便宜的“自定义快捷键和旋钮”，因为我觉得每次想要调整音量时都要按 FN 很烦人（因为它们在键盘的两侧）。所以我买了这个 - 但是我有一个程序（HotkeyP）来配置它们，但它们都自动分配给了“C”。 有没有可以用来正确配置这些键的程序？（抱歉，我在这方面没有太多经验）    提交人    /u/JeremiahWD12604   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1eyezu6/how_to_program_this_custom_keys_and_knob/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>寻找内部收费账户软件</title>
       <link>https://www.reddit.com/r/software/comments/1ey5qxw/looking_for_in_house_charge_account_software/</link>
-      <description><![CDATA[大家好， 我管理一家加油站，我们有内部收费客户。基本上，我们的企业每月付款一次，我们整个月都保留一张实物收据，然后将所有单据加起来。我正在寻找一种能够汇总当月所有费用并将其打印在月度发票上的软件。该软件需要能够接受和存储收费人员的签名，还需要能够按交易进行打印。我找了无数次，但似乎找不到符合我确切需求的东西。理想情况下，它最好是移动的，这样人们就可以在屏幕上签名，然后它可以无线打印到打印机上，每笔交易的单据。    提交人    /u/mikeysal12   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我管理一家加油站，我们有内部收费客户。基本上，我们的企业每月付款一次，我们整个月都保留一张实物收据，然后将所有单据加起来。我正在寻找一种能够汇总当月所有费用并将其打印在月度发票上的软件。该软件需要能够接受和存储收费人员的签名，还需要能够按交易进行打印。我找了无数次，但似乎找不到完全符合我需求的东西。理想情况下，它最好是移动的，这样人们就可以在屏幕上签名，然后它可以无线打印到打印机上，每笔交易的单据。    提交人    /u/mikeysal12   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ey5qxw/looking_for_in_house_charge_account_software/</guid>
       <pubDate>Thu, 22 Aug 2024 00:31:45 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>寻找一种特定的低维护的类似 CRM 的历史数据库查找工具，可以安全地托管，最好是 Web 或 WordPress 托管（如果存在的话）</title>
       <link>https://www.reddit.com/r/software/comments/1exx6wj/looking_for_a_somewhat_specific_lowmaintenance/</link>
-      <description><![CDATA[我妻子的家族公司自 60 年代以来就一直存在，自 80 年代以来他们已经使用过多个 CRM。我正在尝试制作某种整合数据库查找工具，以便从他们所有的旧 CRM 数据中查找历史敏感信息（姓名、地址、电子邮件等，但不包括信用卡信息），我有几个想法，但要弄清楚如何开始这项工作已经有点让人不知所措。 我之所以尝试这样做，是因为他们当前的 CRM 无法支持旧 CRM 的某些方面。但是，有时仍可以通过他们旧的、几乎不定制的软件通过远程方式引用这些内容。甚至还有一些旧数据，只有我可以通过他们服务器上的数据库工具或存储在存储中的旧备份驱动器访问。 我对此进行了一段时间的研究，有一些想法，但我不知道最好的选择是什么： 1) 找到一些免费/开源 CRM，通过公司网络域托管或隐藏在 WordPress 网站中。这个很烦人，因为我不需要 CRM 的许多功能来处理这些数据，例如销售内容、电子邮件等，因为它只是查找有关客户及其之前所做工作的信息。此选项通常还缺少我可能需要的自定义功能，以适应非标准数据或防止人们意外从中删除内容。 2) 将新的组合数据库上传到他们的网站/域并编写一个简单的 Web UI 来访问它。我不确定如何保护非 WordPress 版本免受黑客攻击，而且我不希望这些信息落入坏人之手。出于安全方面的考虑，我考虑将其放在他们域名的 WordPress 部分，因为它已经有了多层安全性。 3) 与 2 相同，但托管在他们的服务器上。我不喜欢这个选项，因为它需要的维护比我有时间做的要多，而且我不知道该服务器还能使用多久。 4) 完全不同的东西。    提交人    /u/shakgriig   [link] [评论]]]></description>
+      <description><![CDATA[我妻子的家族公司自 60 年代以来就一直存在，自 80 年代以来他们已经使用过多个 CRM。我正在尝试制作某种整合数据库查找工具，以便从他们所有的旧 CRM 数据中查找历史敏感信息（姓名、地址、电子邮件等，但不包括信用卡信息），我有几个想法，但弄清楚如何开始这项工作有点让人不知所措。 我尝试这样做是因为他们当前的 CRM 无法支持旧 CRM 的某些方面。但是，有时仍可以通过他们旧的、几乎不定制的软件通过远程方式引用这些内容。甚至还有一些旧数据，只有我可以通过他们服务器上的数据库工具或存储在存储中的旧备份驱动器访问。 我对此进行了一段时间的研究，有一些想法，但我不知道最好的选择是什么： 1) 找到一些免费/开源 CRM，通过公司网络域托管或隐藏在 WordPress 网站中。这个很烦人，因为我不需要 CRM 的许多功能来处理这些数据，例如销售内容、电子邮件等，因为它只是查找有关客户及其之前所做工作的信息。此选项通常还缺少我可能需要的自定义功能，以适应非标准数据或防止人们意外从中删除内容。 2) 将新的组合数据库上传到他们的网站/域并编写一个简单的 Web UI 来访问它。我不确定如何保护非 WordPress 版本免受黑客攻击，而且我不希望这些信息落入坏人之手。出于安全方面的考虑，我考虑将其放在他们域名的 WordPress 部分，因为它已经有了多层安全性。 3) 与 2 相同，但托管在他们的服务器上。我不喜欢这个选项，因为它需要的维护比我有时间做的要多，而且我不知道该服务器还能使用多久。 4) 完全不同的东西。    提交人    /u/shakgriig   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1exx6wj/looking_for_a_somewhat_specific_lowmaintenance/</guid>
       <pubDate>Wed, 21 Aug 2024 18:31:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[终于有一款可以正常使用的 yt mp3 和 mp4 下载器了    由    /u/Repulsive-Lunch3515  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1exwpdy/finally_a_working_youtube_downloader/</guid>
       <pubDate>Wed, 21 Aug 2024 18:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找战略军事可视化工具。</title>
-      <link>https://www.reddit.com/r/software/comments/1exvr0f/looking_for_strategic_military_visualizer/</link>
-      <description><![CDATA[我想对历史上的战争进行一些分析，最早可以追溯到巴比伦帝国，甚至还有一些未来的事物。我只是不知道该寻找什么。我希望它非常详细，就像一个军事地图生成器，我可以在其中绘制某些场景的进展情况。如果这是错误的子版块，我很抱歉，也许如果你知道一个更好的发布版块，请告诉我哈哈。    提交人    /u/Ok_Decision_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1exvr0f/looking_for_strategic_military_visualizer/</guid>
-      <pubDate>Wed, 21 Aug 2024 17:33:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
