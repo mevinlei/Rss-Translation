@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 22 Aug 2024 15:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 18:12:27 GMT</lastBuildDate>
+    <item>
+      <title>建立随叫随到：我们的可观察性策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1eypyk5/building_oncall_our_observability_strategy/</link>
+      <description><![CDATA[  由    /u/shared_ptr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eypyk5/building_oncall_our_observability_strategy/</guid>
+      <pubDate>Thu, 22 Aug 2024 17:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typescript 验证器大会：对 Typescript 验证库的公平（残酷）评论</title>
+      <link>https://www.reddit.com/r/programming/comments/1eypbin/typescript_validators_jamboree_a_fairly_cruel/</link>
+      <description><![CDATA[  由    /u/Firfi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eypbin/typescript_validators_jamboree_a_fairly_cruel/</guid>
+      <pubDate>Thu, 22 Aug 2024 17:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LeetCode 问题是否不能准确缩放？</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyp2i1/are_leetcode_problems_not_accurately_scaled/</link>
+      <description><![CDATA[我绝不是专家，而且我还在上大学。然而，对我来说，似乎有些难题你可以轻松解决，而有些简单的问题只需要一分钟。大多数时候，我发现中等难度只是抛硬币来决定它是难还是易。现在别误会我的意思，我花了很多小时来解决许多难题，它们带来了巨大的挑战，但你肯定会遇到一些不应该被归类为困难的问题。    提交人    /u/Infectedtoe32   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyp2i1/are_leetcode_problems_not_accurately_scaled/</guid>
+      <pubDate>Thu, 22 Aug 2024 17:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>35 年软件开发经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyoq4j/lessons_learned_in_35_years_of_making_software/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyoq4j/lessons_learned_in_35_years_of_making_software/</guid>
+      <pubDate>Thu, 22 Aug 2024 17:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>最强后置条件生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyntez/strongest_postconditions_generator/</link>
+      <description><![CDATA[我目前正在使用 Dafny 进行一些正式规范和验证项目。项目中的一个特定点是生成给定 C 代码的最强后置条件。我正在使用 SP 演算手动（笔和纸）进行此操作。有没有办法可以自动完成？我在想也许我可以使用 CLANG AST 和一些 LLVM 传递，但我对这两者都不太熟悉。任何帮助都值得赞赏！    提交人    /u/Infamous_Bread_6020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyntez/strongest_postconditions_generator/</guid>
+      <pubDate>Thu, 22 Aug 2024 16:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>最终为设计师和前端开发人员实现了调色板下载功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyneqd/finally_implemented_pallette_download_feature_for/</link>
+      <description><![CDATA[我太激动了。我承认这并不容易，但经过多次失败和尝试，我的网站现在可以为图形设计师或前端开发人员下载调色板了。现在就来看看，让我知道你的想法。    提交人    /u/Plane-Football-2521   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyneqd/finally_implemented_pallette_download_feature_for/</guid>
+      <pubDate>Thu, 22 Aug 2024 16:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要指导</title>
+      <link>https://www.reddit.com/r/programming/comments/1eyn7fa/need_mentorship/</link>
+      <description><![CDATA[大家好！ 我正在为 Smart India Hackathon 做一个项目，我正在寻找一些有行业经验的人的指导。我正在解决的问题集中在改善印度农村地区的教育——这些地方的学校经常面临基础设施薄弱、互联网接入有限和资源不足的问题。 我的想法是为虚拟教室、管理教育资源、优化互联网连接甚至创建用于离线学习的移动应用程序等创建软件解决方案。我妈妈是农村地区的一名教师，她花了大量时间手动管理学校记录。看到她这样做，我觉得很多工作都可以用软件来简化，让她的生活更轻松，也让其他学校受益。 我正在寻找一位有行业经验的导师，他可以向我们展示正确的道路——不需要编码工作，只需指导我们完成整个过程。如果您愿意提供帮助并且在软件设计或开发方面有一些经验，请直接发信息给我！您的指导可能会对这个项目产生巨大的影响。 谢谢！    提交人    /u/BaburaO29   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eyn7fa/need_mentorship/</guid>
+      <pubDate>Thu, 22 Aug 2024 16:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tqla — 一个小型轻量级的文本解析器，它包装了 golang 文本/模板标准库。</title>
+      <link>https://www.reddit.com/r/programming/comments/1eymnnl/tqla_a_small_lightweight_text_parser_that_wraps/</link>
+      <description><![CDATA[  由    /u/Apart_Lobster000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1eymnnl/tqla_a_small_lightweight_text_parser_that_wraps/</guid>
+      <pubDate>Thu, 22 Aug 2024 15:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>我最喜欢的 10 种编码字体</title>
       <link>https://www.reddit.com/r/programming/comments/1eyln3r/my_top_10_coding_fonts/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1eyjex5/tech_talks_weekly_28_all_the_recently_uploaded/</guid>
       <pubDate>Thu, 22 Aug 2024 13:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的虚幻项目中构建核心游戏循环</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyismb/building_the_core_gameplay_loop_in_my_unreal/</link>
-      <description><![CDATA[  由    /u/vancity-  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyismb/building_the_core_gameplay_loop_in_my_unreal/</guid>
-      <pubDate>Thu, 22 Aug 2024 13:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止使用 UUID：现代 ID 规范</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyictn/stop_using_uuids_the_modern_id_spec/</link>
-      <description><![CDATA[  由    /u/pimterry  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyictn/stop_using_uuids_the_modern_id_spec/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostgreSQL 中的索引类型以及使用索引优化查询（欢迎提出建设性建议）</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyi7fa/types_of_indexes_and_optimizing_queries_with/</link>
-      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyi7fa/types_of_indexes_and_optimizing_queries_with/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据科学：从零到英雄（数据科学播放列表）</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyi02q/data_science_from_zero_to_hero_data_science/</link>
-      <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyi02q/data_science_from_zero_to_hero_data_science/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>少即是多：简单评论的原则</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyhsxj/less_is_more_principles_for_simple_comments/</link>
-      <description><![CDATA[  由    /u/codingindoc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyhsxj/less_is_more_principles_for_simple_comments/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪伦·比蒂与 Linebreakers 乐队 - 科技界的“怪人奥尔”扬科维奇。</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyhqj4/dylan_beattie_the_linebreakers_the_tech_industrys/</link>
-      <description><![CDATA[  由    /u/Belenar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyhqj4/dylan_beattie_the_linebreakers_the_tech_industrys/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向初学者的 6 个 Python 项目</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyhokz/build_6_projects_with_python_for_beginners/</link>
-      <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyhokz/build_6_projects_with_python_for_beginners/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整的哈佛课程（CS50）</title>
-      <link>https://www.reddit.com/r/programming/comments/1eyhkzd/the_complete_harvard_courses_cs50/</link>
-      <description><![CDATA[  由    /u/bravehub  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1eyhkzd/the_complete_harvard_courses_cs50/</guid>
-      <pubDate>Thu, 22 Aug 2024 12:04:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
