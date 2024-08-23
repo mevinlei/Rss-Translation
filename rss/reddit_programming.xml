@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 23 Aug 2024 18:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 21:09:04 GMT</lastBuildDate>
+    <item>
+      <title>给漏洞赏金新手的简单提示：查找开放重定向漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1ezm49v/simple_tips_for_bug_bounty_beginners_finding_open/</link>
+      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ezm49v/simple_tips_for_bug_bounty_beginners_finding_open/</guid>
+      <pubDate>Fri, 23 Aug 2024 19:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>给漏洞赏金新手的简单提示：寻找 OTP 绕过漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1ezkl89/simple_tips_for_bug_bounty_beginners_finding_otp/</link>
+      <description><![CDATA[  由    /u/Ok_Set_6991  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ezkl89/simple_tips_for_bug_bounty_beginners_finding_otp/</guid>
+      <pubDate>Fri, 23 Aug 2024 18:50:27 GMT</pubDate>
+    </item>
     <item>
       <title>wcurl 在这里</title>
       <link>https://www.reddit.com/r/programming/comments/1ezi16t/wcurl_is_here/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/ArchAndStarch  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ezdttd/how_many_iconic_computing_numbers_can_you/</guid>
       <pubDate>Fri, 23 Aug 2024 14:14:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页抓取合乎道德吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezdftc/is_web_scraping_ethical/</link>
-      <description><![CDATA[  由    /u/david-teather  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezdftc/is_web_scraping_ethical/</guid>
-      <pubDate>Fri, 23 Aug 2024 13:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 Cats-Actors RC4 发布提醒！🚀</title>
-      <link>https://www.reddit.com/r/programming/comments/1ezck8a/catsactors_rc4_release_alert/</link>
-      <description><![CDATA[  由    /u/kloudmark  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ezck8a/catsactors_rc4_release_alert/</guid>
-      <pubDate>Fri, 23 Aug 2024 13:19:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
