@@ -4,7 +4,28 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 24 Aug 2024 06:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 09:11:08 GMT</lastBuildDate>
+    <item>
+      <title>害虫还是完美画面？昆虫生活被清晰捕捉</title>
+      <link>https://www.bbc.com/news/articles/c39kjwrlwr8o</link>
+      <description><![CDATA[黄蜂、飞蛾和蚂蚁只是吉米·里德在他精致的照片中捕捉到的一些野生动物。]]></description>
+      <guid>https://www.bbc.com/news/articles/c39kjwrlwr8o</guid>
+      <pubDate>Sat, 24 Aug 2024 08:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里斯精力充沛，但细节不多，她寄希望于人们对变革的渴望</title>
+      <link>https://www.bbc.com/news/articles/cged20l3nq8o</link>
+      <description><![CDATA[安东尼·祖尔彻 (Anthony Zurcher) 写道，此次竞选活动缺乏政策支撑，那么仅凭能源就能击败唐纳德·特朗普 (Donald Trump) 吗？]]></description>
+      <guid>https://www.bbc.com/news/articles/cged20l3nq8o</guid>
+      <pubDate>Sat, 24 Aug 2024 07:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>贾斯汀和海莉·比伯宣布第一个孩子出生</title>
+      <link>https://www.bbc.com/news/articles/crlr289ykj1o</link>
+      <description><![CDATA[这位加拿大歌手分享了一张他刚出生的儿子的小脚被新妈妈海莉抱着的照片。]]></description>
+      <guid>https://www.bbc.com/news/articles/crlr289ykj1o</guid>
+      <pubDate>Sat, 24 Aug 2024 06:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>美国 TikToker 的使命是证明英国食物并不乏味</title>
       <link>https://www.bbc.com/news/articles/cx2xl705q2eo</link>
@@ -27,13 +48,6 @@
       <pubDate>Sat, 24 Aug 2024 03:24:34 GMT</pubDate>
     </item>
     <item>
-      <title>以色列与加沙停火：还有可能达成协议吗？</title>
-      <link>https://www.bbc.com/news/articles/c7854g3gz0eo</link>
-      <description><![CDATA[随着本杰明内塔尼亚胡在以色列民意调查中支持率上升，他的美国盟友担心他会阻碍停火协议。]]></description>
-      <guid>https://www.bbc.com/news/articles/c7854g3gz0eo</guid>
-      <pubDate>Sat, 24 Aug 2024 03:07:41 GMT</pubDate>
-    </item>
-    <item>
       <title>罗伯特·肯尼迪暂停竞选总统，转而支持唐纳德·特朗普</title>
       <link>https://www.bbc.com/news/articles/cwy5ekxlwzgo</link>
       <description><![CDATA[特朗普在集会上称赞罗伯特·肯尼迪“非凡”，但肯尼迪家族成员却指责他“背叛”。]]></description>
@@ -41,25 +55,11 @@
       <pubDate>Sat, 24 Aug 2024 02:18:36 GMT</pubDate>
     </item>
     <item>
-      <title>受感染血液管理部门现在可以向患者支付费用</title>
-      <link>https://www.bbc.com/news/articles/ce8147j7l92o</link>
-      <description><![CDATA[对那些感染受污染血液的人的第一笔赔偿将于今年年底开始。]]></description>
-      <guid>https://www.bbc.com/news/articles/ce8147j7l92o</guid>
-      <pubDate>Sat, 24 Aug 2024 01:43:29 GMT</pubDate>
-    </item>
-    <item>
       <title>未就业或未接受教育的年轻人数量增至 85 万多</title>
       <link>https://www.bbc.com/articles/cz55mjj4rlgo</link>
       <description><![CDATA[BBC新闻采访了两名年轻人，谈论他们所面临的障碍。]]></description>
       <guid>https://www.bbc.com/articles/cz55mjj4rlgo</guid>
       <pubDate>Sat, 24 Aug 2024 01:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国节日持刀袭击致三人死亡</title>
-      <link>https://www.bbc.com/news/articles/cd73292p1vpo</link>
-      <description><![CDATA[据报道，一名现已逃亡的男子在索林根市的一个节日期间随意刺伤人们。]]></description>
-      <guid>https://www.bbc.com/news/articles/cd73292p1vpo</guid>
-      <pubDate>Sat, 24 Aug 2024 01:04:44 GMT</pubDate>
     </item>
     <item>
       <title>“狂欢节期间，请将格伦费尔牢记在心”</title>
@@ -76,7 +76,7 @@
       <pubDate>Sat, 24 Aug 2024 00:46:39 GMT</pubDate>
     </item>
     <item>
-      <title>“我的喉咙痛得睡不着觉”——在 mpox 前线</title>
+      <title>“Mpox 让我的喉咙痛得无法入睡”</title>
       <link>https://www.bbc.com/news/articles/cly3xzdq909o</link>
       <description><![CDATA[随着病毒从邻国刚果民主共和国传播到布隆迪，布隆迪的病例正在增加。]]></description>
       <guid>https://www.bbc.com/news/articles/cly3xzdq909o</guid>
@@ -90,25 +90,25 @@
       <pubDate>Fri, 23 Aug 2024 23:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>慈善机构担心养老金领取者将遭受双重能源价格打击</title>
-      <link>https://www.bbc.com/news/articles/cy5409qq5xyo</link>
-      <description><![CDATA[慈善机构表示，能源价格上涨和资金支持的取消将给一些慈善机构带来沉重打击。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy5409qq5xyo</guid>
-      <pubDate>Fri, 23 Aug 2024 21:09:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党势头强劲，但胜利仍遥遥无期</title>
-      <link>https://www.bbc.com/news/articles/cgl21j2py8xo</link>
-      <description><![CDATA[在欢欣鼓舞的党代会为一个月的势头画上了句号之后，民意调查仍然显示选举结果势均力敌。]]></description>
-      <guid>https://www.bbc.com/news/articles/cgl21j2py8xo</guid>
-      <pubDate>Fri, 23 Aug 2024 20:05:28 GMT</pubDate>
-    </item>
-    <item>
       <title>宠物鳄鱼如何成为澳大利亚选举议题</title>
       <link>https://www.bbc.com/news/articles/c8rxyz1p830o</link>
       <description><![CDATA[北领地是该国最后几个允许饲养鳄鱼作为宠物的地区之一。]]></description>
       <guid>https://www.bbc.com/news/articles/c8rxyz1p830o</guid>
       <pubDate>Fri, 23 Aug 2024 15:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何发音“Kamala”——她的侄女们教给她的</title>
+      <link>https://www.bbc.com/news/videos/c5y8k930lpjo</link>
+      <description><![CDATA[女演员凯丽·华盛顿 (Kerry Washington) 与卡玛拉·哈里斯 (Kamala Harris) 的两个侄孙女一起亮相，令观众欣喜不已。]]></description>
+      <guid>https://www.bbc.com/news/videos/c5y8k930lpjo</guid>
+      <pubDate>Fri, 23 Aug 2024 08:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴黎残奥会值得关注的全球运动员</title>
+      <link>https://www.bbc.com/sport/articles/c5yl5pejvkjo</link>
+      <description><![CDATA[进一步了解一些希望在巴黎残奥会上给人留下深刻印象的全球明星。]]></description>
+      <guid>https://www.bbc.com/sport/articles/c5yl5pejvkjo</guid>
+      <pubDate>Fri, 23 Aug 2024 05:29:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
