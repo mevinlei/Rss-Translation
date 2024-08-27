@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 00:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 03:11:16 GMT</lastBuildDate>
     <item>
       <title>询问</title>
       <link>https://www.producthunt.com/posts/rakun-ask</link>
@@ -48,6 +48,20 @@
       <pubDate>Mon, 26 Aug 2024 01:27:56 GMT</pubDate>
     </item>
     <item>
+      <title>Kypso 用于代码审查</title>
+      <link>https://www.producthunt.com/posts/kypso-for-code-reviews</link>
+      <description><![CDATA[
+消除代码审查瓶颈
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/kypso-for-code-reviews</guid>
+      <pubDate>Sun, 25 Aug 2024 16:12:08 GMT</pubDate>
+    </item>
+    <item>
       <title>检查统计</title>
       <link>https://www.producthunt.com/posts/checkstat</link>
       <description><![CDATA[
@@ -60,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/checkstat</guid>
       <pubDate>Sun, 25 Aug 2024 14:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>MidJourney 网页版</title>
+      <link>https://www.producthunt.com/posts/midjourney-for-web</link>
+      <description><![CDATA[
+探索想象力的边界
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/midjourney-for-web</guid>
+      <pubDate>Sun, 25 Aug 2024 02:07:55 GMT</pubDate>
     </item>
     <item>
       <title>戒除鼻烟瘾</title>
@@ -88,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/commanddash</guid>
       <pubDate>Wed, 21 Aug 2024 12:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SnapFood</title>
-      <link>https://www.producthunt.com/posts/snapfood</link>
-      <description><![CDATA[
-您的饮食伴侣应用可跟踪您的饮食
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/snapfood</guid>
-      <pubDate>Mon, 19 Aug 2024 12:07:14 GMT</pubDate>
     </item>
     <item>
       <title>维博</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/copycat-clipboard</guid>
       <pubDate>Fri, 12 Jul 2024 12:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>米姆尔</title>
-      <link>https://www.producthunt.com/posts/mimrr-2</link>
-      <description><![CDATA[
-为您的初创公司消除技术债务。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mimrr-2</guid>
-      <pubDate>Tue, 04 Jun 2024 09:42:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
