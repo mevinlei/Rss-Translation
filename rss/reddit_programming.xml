@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 28 Aug 2024 00:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 03:11:20 GMT</lastBuildDate>
+    <item>
+      <title>介绍使用 Golang 实现的 CRUD 的 OQM 技术</title>
+      <link>https://www.reddit.com/r/programming/comments/1f2zzvu/introduction_to_oqm_technology_for_crud_with_the/</link>
+      <description><![CDATA[  由    /u/saidBy4b  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f2zzvu/introduction_to_oqm_technology_for_crud_with_the/</guid>
+      <pubDate>Wed, 28 Aug 2024 03:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 工程：文摘 #30</title>
+      <link>https://www.reddit.com/r/programming/comments/1f2zgt9/engineering_with_java_digest_30/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f2zgt9/engineering_with_java_digest_30/</guid>
+      <pubDate>Wed, 28 Aug 2024 02:38:35 GMT</pubDate>
+    </item>
     <item>
       <title>程序员书籍</title>
       <link>https://www.reddit.com/r/programming/comments/1f2w4h4/books_for_programmers/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/dadamssg  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f2qg2f/peter_levels_inspired_me_to_rethink_my/</guid>
       <pubDate>Tue, 27 Aug 2024 19:51:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gaudi 处理器和英特尔的 AI 产品组合</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2ppgc/gaudi_processors_intels_ai_portfolio/</link>
-      <description><![CDATA[  由    /u/WolfofIntel  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2ppgc/gaudi_processors_intels_ai_portfolio/</guid>
-      <pubDate>Tue, 27 Aug 2024 19:21:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有基于 AI 的块编辑器的 Nodejs CMS 和网站构建器</title>
-      <link>https://www.reddit.com/r/programming/comments/1f2p0ys/cms_site_builder_for_nodejs_with_ai_based_block/</link>
-      <description><![CDATA[  由    /u/thehadiahmadi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f2p0ys/cms_site_builder_for_nodejs_with_ai_based_block/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:54:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
