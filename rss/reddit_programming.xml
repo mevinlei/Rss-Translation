@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Aug 2024 03:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:14:12 GMT</lastBuildDate>
+    <item>
+      <title>我是世界上最蠢的人 AMA</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3v9e6/i_am_the_dumbest_person_alive_ama/</link>
+      <description><![CDATA[大家好，今天我来这里是为了承认我的失败和我使用 Linux 的濒死体验。当时我正在开发一个 vulkan 项目，然后我决定安装一个新的软件包来解决我遇到的问题，长话短说，在运行了几个 bash 命令之后，我不知怎么地开始删除 python3，惊慌失措的我不知怎么地关闭了终端，我惊恐地看着我的应用程序从屏幕上消失，我再也无法打开终端了 :)。不管怎样，我的救命稻草是一个终端窗口不知怎么地仍然打开着，我可以重新安装 Ubuntu 桌面并挽救操作系统。不管怎样，我不知道我怎么会这么愚蠢地走到这一步，希望大家度过一个美好的夜晚。    提交人    /u/Disastrous-Shock2771   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3v9e6/i_am_the_dumbest_person_alive_ama/</guid>
+      <pubDate>Thu, 29 Aug 2024 06:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>高性能二分查找</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3ule5/highperformance_binary_search/</link>
+      <description><![CDATA[  由    /u/noblex33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3ule5/highperformance_binary_search/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 150 行 C 代码击败 OpenBLAS 和 MKL：高性能矩阵乘法教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1f3uk54/beating_openblas_and_mkl_in_150_lines_of_c_code_a/</link>
+      <description><![CDATA[  由    /u/noblex33  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f3uk54/beating_openblas_and_mkl_in_150_lines_of_c_code_a/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:13:34 GMT</pubDate>
+    </item>
     <item>
       <title>破解 Electron：为什么 Electron 对于付费 macOS 应用来说并不安全</title>
       <link>https://www.reddit.com/r/programming/comments/1f3qg5g/cracking_electron_why_electron_is_not_secure_for/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/scosio  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f3a9tg/how_to_test_your_ansible_playbooks_locally_using/</guid>
       <pubDate>Wed, 28 Aug 2024 13:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>打字</title>
-      <link>https://www.reddit.com/r/programming/comments/1f39p04/typst/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f39p04/typst/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 分钟内使用 Nextjs 设置 Fumadocs</title>
-      <link>https://www.reddit.com/r/programming/comments/1f37lor/setup_fumadocs_with_nextjs_in_5_minutes/</link>
-      <description><![CDATA[  由    /u/craciun_07  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f37lor/setup_fumadocs_with_nextjs_in_5_minutes/</guid>
-      <pubDate>Wed, 28 Aug 2024 11:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>保护用户数据免受人工智能训练爬虫的侵害</title>
-      <link>https://www.reddit.com/r/programming/comments/1f374x7/protecting_users_data_from_ai_training_crawlers/</link>
-      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f374x7/protecting_users_data_from_ai_training_crawlers/</guid>
-      <pubDate>Wed, 28 Aug 2024 10:52:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
