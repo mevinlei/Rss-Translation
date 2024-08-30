@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 00:42:09 GMT</lastBuildDate>
+    <item>
+      <title>Llama 与 ChatGPT</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f4hzur/llama_vs_chatgpt/</link>
+      <description><![CDATA[我想学习如何将 AI 集成到 Web 应用程序中。使用 Llama 与 ChatGPT 相比有哪些优势/用例？ChatGPT 的其他竞争对手 LLM 怎么样？ 关于何时使用生成式方法与其他 AI/ML 方法，有没有推荐的文章？ 对于传统 ML，2024 年 Python 中最好的库是什么？    提交人    /u/dca12345   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f4hzur/llama_vs_chatgpt/</guid>
+      <pubDate>Fri, 30 Aug 2024 00:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种职业发展方式更佳？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f4geag/which_is_a_better_career_approach/</link>
+      <description><![CDATA[我将于 9 月开始攻读学士学位，我只有不到一周的时间来决定要选择哪个专业 1-人工智能和计算机信息学，开始纯粹的人工智能/机器学习职业生涯 2-生物信息学，并在业余时间开发人工智能/机器学习、编码和其他计算机科学专业知识，并尝试融合人工智能和生物学，并专攻生物工程或计算生物学（将根据哪个更适用于人工智能来决定） 总的来说，我喜欢生物学及其应用，而且我对人工智能和法学硕士学位非常感兴趣 我想要一个能让我毕业后更容易找到工作的专业，有人告诉我人工智能已经饱和，仅凭学士学位很难找到工作，所以我需要一些指导。    提交人    /u/R0b0_69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f4geag/which_is_a_better_career_approach/</guid>
+      <pubDate>Thu, 29 Aug 2024 23:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法与 Claude 一起注册</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f4ebei/cant_sign_up_with_claude/</link>
+      <description><![CDATA[我试图用电子邮件地址和手机号码进行注册。 他们向我的手机发送了一条 5 位数的短信，但是当我在文本框中输入该号码并按“Enter”键时，什么也没有发生，并且继续按钮未被激活。 并且没有“联系我们”的链接，因此无法就此问题与他们联系 这里有人知道我该如何注册或联系他们寻求帮助吗？    提交人    /u/CalTechie-55   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f4ebei/cant_sign_up_with_claude/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:39:34 GMT</pubDate>
+    </item>
     <item>
       <title>目前是否有可能最大限度地减少人工智能幻觉？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f4dbvx/is_it_currently_possible_to_minimize_ai/</link>
@@ -34,32 +55,11 @@
       <pubDate>Thu, 29 Aug 2024 19:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员重写代码使 Grok-2 在短短三天内就获得了速度提升！！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f4a3rm/code_rewrite_by_developers_results_in_grok2/</link>
-      <description><![CDATA[文章链接：https://medium.com/@sadozye86/code-rewrite-by-developers-results-in-grok-2-getting-a-speed-bump-in-just-three-days-8d4221ff094e    提交人    /u/zain017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f4a3rm/code_rewrite_by_developers_results_in_grok2/</guid>
-      <pubDate>Thu, 29 Aug 2024 18:43:48 GMT</pubDate>
-    </item>
-    <item>
       <title>用于分析视频片段的人工智能工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f48kv8/ai_tool_to_analyze_video_footage/</link>
       <description><![CDATA[我和我的朋友经常玩电子游戏，我会录制这些游戏过程，记录下有趣的时刻和类似的事情。我已经这样做了很长一段时间，很难从所有的镜头中找到特定的时刻和类似的东西。 有没有什么人工智能工具可以/应该用来帮我整理镜头？ 例如，我刚刚对我的一个朋友玩 Valorant 做了一个有趣的剪辑，观看我们以前的游戏视频来找到剪辑，因为它比实际编辑视频花费的时间更长。所以在这种情况下我会使用这个工具。 谢谢大家的帮助！    提交人    /u/ZookeepergameNo4590   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f48kv8/ai_tool_to_analyze_video_footage/</guid>
       <pubDate>Thu, 29 Aug 2024 17:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>最令人印象深刻的跑道动画</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f484d7/most_impressive_runway_animations/</link>
-      <description><![CDATA[一直在尝试使用 Runway 制作静态动画，想知道到目前为止，你们从新的 Gen 3 模型中看到的最令人印象深刻的东西是什么。在为 EOM 冲刺个人艺术项目之前，希望研究任何最后一刻的提示方法、youtubers 等。    由   提交  /u/tomrogersartist   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f484d7/most_impressive_runway_animations/</guid>
-      <pubDate>Thu, 29 Aug 2024 17:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找最佳 AI 聊天机器人和顶级 AI 女友应用程序？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f46s8p/looking_for_the_best_ai_chatbots_and_the_top_ai/</link>
-      <description><![CDATA[正是从这个角度来看，我想更多地了解当今的人工智能女友或聊天机器人。如果你碰巧有最好的推荐，那么确定它们是什么是值得的，因为它们中的很多都存在。对于人工智能女友，你最喜欢的应用程序是什么？我需要那些有趣的聊天、情感支持和个性化的应用程序。请分享您的列表等，对于聊天机器人，我正在寻找用于休闲聊天、客户服务或个人帮助的最佳人工智能聊天机器人。哪一个给你留下了最深刻的印象，你觉得哪些功能有用？我很想听听你的想法！让我们列出人工智能社区中最顶级的人工智能伴侣和聊天机器人。谢谢你的建议！期待你们    提交人    /u/broadputting522   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f46s8p/looking_for_the_best_ai_chatbots_and_the_top_ai/</guid>
-      <pubDate>Thu, 29 Aug 2024 16:29:15 GMT</pubDate>
     </item>
     <item>
       <title>人工智能女友会改变我们对恋爱关系中“真实”的定义吗</title>
