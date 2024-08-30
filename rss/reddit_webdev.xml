@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 30 Aug 2024 12:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 15:10:31 GMT</lastBuildDate>
+    <item>
+      <title>对于那些从 Svelte 转换到 React 或返回的人，你们为什么这样做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4wvee/for_those_of_you_who_transitioned_to_or_back_to/</link>
+      <description><![CDATA[在我的工程师生涯中，我已经使用 React 大约 4 年了。我最近尝试使用 Svelte（Kit）进行个人项目。我故意将它做成一个相当复杂的项目，这样我就可以尝试找到 Svelte 中我个人不喜欢的任何缺陷。 在广泛使用 Svelte 几个月后，我决定在大约 2 周前放弃它，并努力用 React 重构我的项目，主要原因是我怀念 React 的生态系统。能够简单地即插即用如此多的复杂功能是一种超能力，我不知道我会觉得这是一种需要，直到我失去它。 总而言之，这次经历教会了我两件事：  当涉及到技术时，总是要付出代价的。 React 的性能可能不如 Svelte，但是，它不仅工具强大，而且，如果你对 React 足够熟悉，它也可以性能足够好（即最终用户不会注意到许多/大多数/所有功能的性能差异）。 如果/当 Svelte 变得更大时，我肯定会回去的哈哈     提交人    /u/roynotto   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4wvee/for_those_of_you_who_transitioned_to_or_back_to/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>将法学硕士纳入我们的应用程序，自托管选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4wu35/incorporating_a_llm_into_our_app_self_hosting/</link>
+      <description><![CDATA[我们的初创公司（我知道这很令人震惊）正在考虑将 llm 纳入我们的应用程序。我不想训练我们自己的模型，我们所需的复杂性很可能通过向 openai 发出提示以及来自我们数据库的一些额外数据来实现。 但是，随着我们的首席执行官不断“发明”，我开始担心 llm 可能会成为我们产品的核心。因此，为了不浪费过多的代币或过度依赖我们无法控制的产品，我正在研究自我托管及其含义。 我们是一家 aws 商店，但我不知道应该从哪里开始寻找？基本上，有什么选项可以获得自托管模型，这样我们就不必担心模型更新和提示不再按照我们想要的方式运行？ 由于我在一家初创公司，钱不是真的，所以自托管的成本不是太关键    提交人    /u/JackBauerTheCat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4wu35/incorporating_a_llm_into_our_app_self_hosting/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:36:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥抱中间变量和早期回报</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4wln0/embrace_intermediate_variables_and_early_returns/</link>
+      <description><![CDATA[  由    /u/Beneficial-Cable-182  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4wln0/embrace_intermediate_variables_and_early_returns/</guid>
+      <pubDate>Fri, 30 Aug 2024 14:26:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是不是一名糟糕的开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4vfif/am_i_a_bad_developer/</link>
+      <description><![CDATA[我是一名自学成才的独立开发人员，我有 3 天的期限来制作一个响应式测验应用程序，该应用程序具有结果和在冷却后重新参加测验的能力，使用 php、js 从头开始​​，包括 ui/ux、后端、数据库、前端并将它们连接起来，我目前已经进行了第 4 天，但仍有一些事情要做    提交人    /u/Trayansh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4vfif/am_i_a_bad_developer/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建此网站是为了展示费城的小型企业。你们觉得怎么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4v2ha/created_this_website_to_showcase_small_businesses/</link>
+      <description><![CDATA[  由    /u/yo-mommas-lunchbox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4v2ha/created_this_website_to_showcase_small_businesses/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以接受 Shopify 的工作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4utlb/do_i_take_shopify_job/</link>
+      <description><![CDATA[嘿， 所以，就某些情况而言，我是一名具有 11 年经验的高级全栈开发人员。React、typescript、python，但我现在主要关注前端。 有人找我做 Shopify 平台的工作。规范提到他们希望在未来使用 Next.js、React、TS 等，这可能是他们招聘的原因。（我还没有接到电话）。 我的问题是，作为一名经验丰富的程序员，shopify 是一个好的选择吗？还是我会觉得我没有使用我的技能？我听人提到 shopify headless 好吗？ 编辑：企业使用 Shopify 作为平台。    提交人    /u/jonolock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4utlb/do_i_take_shopify_job/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:07:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>子域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4us8a/subdomains/</link>
+      <description><![CDATA[我一直让别人控制域名，所以我在这方面没有太多经验。我正在创建一个网站，我希望用户能够使用我的域名，例如类似于 &lt;app&gt;.azurewebsites.net。我假设我可以注册的子域名数量会有限制，所以  谁限制并向我收费，是托管服务提供商还是域名提供商？ 如何自动添加子域名（我不想整天坐在 cpanel 前创建子域名） 我是否需要生成代码来将单独的应用程序部署到每个子域名，或者他们可以查询我的主域名？     提交人    /u/dotnet_ninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4us8a/subdomains/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>蓝领开发商的兴衰</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4urpa/the_rise_and_fall_of_the_bluecollar_developers/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4urpa/the_rise_and_fall_of_the_bluecollar_developers/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>“在百万复选框受欢迎程度达到顶峰的时候，我以为自己被黑了。几个小时后，我泪流满面，为这些才华横溢的青少年感到无比自豪。”一个令人难以置信的故事。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4urc8/at_the_height_of_one_million_checkboxess/</link>
+      <description><![CDATA[        提交者    /u/annaheim   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4urc8/at_the_height_of_one_million_checkboxess/</guid>
+      <pubDate>Fri, 30 Aug 2024 13:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>支付系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4ui3l/payment_systems/</link>
+      <description><![CDATA[我不确定是否可以在这里发布这个主题，但你们使用哪种支付系统。paypal 和 stripe 的评价都很糟糕。我不断看到他们只是退还所有钱并毫无理由地冻结他们的钱。我知道这些支付系统必须遵循他们的政策指南，即关闭他们认为非法或有风险的支付系统，但我也听到一些生意很好的人因为使用 stripes 或 paypal 而损失了数千美元的故事。我正在考虑使用 wise 或 square，因为它们的评价相当不错，而且使用它们没有遇到太多挫折。你们觉得呢？    提交人    /u/Legitimate_Power_347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4ui3l/payment_systems/</guid>
+      <pubDate>Fri, 30 Aug 2024 12:52:40 GMT</pubDate>
+    </item>
     <item>
       <title>最糟糕的框架/库是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f4t622/whats_the_worst_frameworklibrary/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[嗨， 我喜欢以下存储难民案例数据的网站的布局：https://rllp.ca/ 当您点击“移民难民委员会”时，您会被重定向到带有散点图和统计数据的关键数据。您还在下面列出了委员会成员的声明和认可率 - 我们有这些数据。这只是一个视觉呈现的问题。 我想知道最好的程序来编写这个程序，以及它是否可以是一个独立的程序。如果是这样，理想情况下我希望以这种格式将其导入到网络上。    提交人    /u/opportunitylaidbare   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f4rd59/how_do_i_design_an_interactive_portal_like_the/</guid>
       <pubDate>Fri, 30 Aug 2024 09:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>完成了我的投资组合网站。希望得到一些建设性的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4r5ap/finished_my_portfolio_website_would_appreciate/</link>
-      <description><![CDATA[因此，我决定建立一个简单的作品集网站来展示与我的职业生涯相关的一切。如果您能提供一些反馈，我将不胜感激！这是链接 https://kastoyan.com/    提交人    /u/xch228   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4r5ap/finished_my_portfolio_website_would_appreciate/</guid>
-      <pubDate>Fri, 30 Aug 2024 09:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 http-proxy-middleware 的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4pt1n/help_with_httpproxymiddleware/</link>
-      <description><![CDATA[我正在做一个 react 前端、express 后端的 web 应用程序，我正在使用我的服务器作为代理服务器将请求转发到另一个端点（不是我的）。在本地处理我的项目时，一切都运行良好，但是当我尝试部署时，我发现端点正在使用 cloudflare 来阻止请求。所以我遇到了这个库 http-proxy-middleware，我正在尝试一下。问题是当我发出请求时，我得到了响应，然后服务器崩溃了。响应被缓冲，我将其转换为字符串并正确打印。当服务器崩溃时，抛出以下错误：TypeError [ERR_INVALID_ARG_TYPE]: 第一个参数必须是字符串类型或 Buffer、ArrayBuffer 或 Array 或类似 Array 的对象的实例。收到未定义。我不明白，为什么即使我得到了响应并进行了转换，它仍会出现错误。我也尝试使用邮递员发出请求，并收到了正确的响应，但服务器仍然崩溃了。这是服务器 api：  app.use(&#39;/api/someAPI&#39;, createProxyMiddleware({ target: &#39;https://api.example.com&#39;, changeOrigin: true, pathRewrite: (path, req) =&gt; { const { arg1, arg2 } = req.query; return `/arg1/arg2}`; }, selfHandleResponse: true, on: { proxyRes: responseInterceptor(async (responseBuffer, proxyRes, req, res) =&gt; { try { if (!responseBuffer || typeof responseBuffer !== &#39;object&#39; || responseBuffer.length === 0) { throw new Error(&#39;目标服务器的响应无效或为空&#39;); } const response = responseBuffer.toString(&#39;utf8&#39;); res.json({ id: response }); } catch (error) { res.status(500).json({ error: &#39;无法处理来自目标服务器的响应&#39; }); } }), }, headers: { Accept: &quot;application/json&quot;, &#39;User-Agent&#39;: &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 13_4_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15&quot; } }));     提交人    /u/Latinotech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4pt1n/help_with_httpproxymiddleware/</guid>
-      <pubDate>Fri, 30 Aug 2024 08:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>内存使用量急剧上升 - 寻求帮助以解决该问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4oqsa/huge_memory_usage_spike_seeking_help_on_how_to/</link>
-      <description><![CDATA[      大家好！最近发布了一个应用程序，正在被一家公司使用，而且运行良好。他们最近要求我添加一项功能，允许将照片附加到项目，以便他们可以上传图案或项目，以便能够直观地看到它应该是什么样子。  应用程序简介：crm，订单管理系统，主要管理 postgres 关系并以漂亮的格式显示所有内容。主要使用 Lucia 进行 crud 操作进行身份验证，我们通过服务器操作运行所有操作。 我使用了 theo 的 uploadThing - 而且它运行良好。问题是应用程序的平均内存使用量约为 150-160mb（Next.js），然后在添加 uploadthing 之后的某个地方，它飙升到 500mb，现在是早上 8 点，登录的员工开始使用该应用程序，内存使用量跳升至 1.5 GB。在 1.5 GB 跳跃之前，我还做了一些代码清理，删除了不必要的导入并重建了应用程序。 添加上传后，第一次内存峰值并没有立即发生。 它大致翻译为我添加的时间： 从“uploadthing / server”导入{UTApi}；  导出 const utapi = new UTApi();  所以我可以使用 utapi 从 uploadthing 存储中删除文件。但这可能只是一种完全不合适且不相关的怀疑。 https://preview.redd.it/s315lznjyqld1.png?width=975&amp;format=png&amp;auto=webp&amp;s=d3286fd81b6b376ee0c5186787f85b80dd42d256 我在铁路上托管，这是一个 next.js 项目和一个 postgres 数据库。  老实说，目前我不知道到底是什么原因造成的。这并不是世界末日，我必须在一小时内修复它，因为即使有这种使用量，铁路估计也要 10 美元，而且我们已经设置了限制 - 但我不会让它一直这样，这是肯定的。 我将不胜感激任何帮助、想法或任何可以指导我正确修复此问题的东西    提交人    /u/Sziszhaq   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4oqsa/huge_memory_usage_spike_seeking_help_on_how_to/</guid>
-      <pubDate>Fri, 30 Aug 2024 06:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>dockerized nginx 的更好工作流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4ns5g/better_workflow_for_dockerized_nginx/</link>
-      <description><![CDATA[这是我现在的文件夹结构 Nginx - nginx.conf - Dockerfile Docker-compose.yml Dockerfile  Docker-compose.yml services: … nginx: build: ./nginx ports: - &quot;80:80&quot;  Nginx/Dockerfile FROM nginx:latest COPY nginx.conf /etc/nginx/nginx.conf EXPOSE 80  我已经使用 docker-compose 在虚拟机中部署了我的应用程序。 问题是，每次我在 `nginx.conf` 中更新 nginx 配置时， 我必须  将新的 nginx.conf 上传到我的虚拟机 通过 `docker-compose up -d —build` 重建并重启 nginx 容器  我想知道在更新 `nginx.conf` 中的配置后，是否有办法最大限度地减少我的手动工作。 我正在考虑创建一个 CI/CD 工作流，以便在每次将更改从功能分支合并到主分支时上传 nginx.conf分支，但每次都这样做似乎并不明智。 如果有任何建议以更好的方法以 devops 方式管理 nginx.conf，将不胜感激。    提交人    /u/More-Ad-5258   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4ns5g/better_workflow_for_dockerized_nginx/</guid>
-      <pubDate>Fri, 30 Aug 2024 05:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>事件源对于微服务来说是强制性的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4nl3f/is_event_sourcing_mandatory_for_microservices/</link>
-      <description><![CDATA[微服务是否始终由事件驱动并始终使用事件源？或者不完全是？    提交人    /u/raulalexo99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4nl3f/is_event_sourcing_mandatory_for_microservices/</guid>
-      <pubDate>Fri, 30 Aug 2024 05:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 VPS/VPD 来运行带有机器人的多个 chrome 标签。有什么推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4nc3b/need_vpsvpd_for_running_many_chrome_tabs_with/</link>
-      <description><![CDATA[嗨，我需要一个虚拟专用桌面，因为我不想在我的 MacBook 上运行所有那些东西。 有什么便宜的推荐吗？ 我认为应该是 Windows。Linux 会更好，因为 Windows 是一堆垃圾，占用大量容量，但我不知道将来我是否需要运行更多只能在 Windows 上运行的工具 因为它有很多选项卡，我认为我需要至少 16GB 的 RAM https://vshield.com/vds 就像这样但更便宜    提交人    /u/JuriJurka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4nc3b/need_vpsvpd_for_running_many_chrome_tabs_with/</guid>
-      <pubDate>Fri, 30 Aug 2024 05:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我在库存管理应用中使用 JSON 文件而不是数据库，这是否很愚蠢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4n2z0/is_it_dumb_if_i_use_json_files_instead_of_a/</link>
-      <description><![CDATA[由于我对 SQL 不太熟悉，因此现在用这种方式构建速度更快。如果我改用 JSON，世界末日会来临吗？    提交人    /u/Affectionate-Goat847   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4n2z0/is_it_dumb_if_i_use_json_files_instead_of_a/</guid>
-      <pubDate>Fri, 30 Aug 2024 04:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手可以在一周内开发出一个网络应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4n2iz/can_a_fresher_build_a_web_app_in_a_week/</link>
-      <description><![CDATA[没有数学背景或 Web 开发经验的人可以在一周内构建聊天 Web 应用程序吗？    提交人    /u/Quiet_Bend_5506   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4n2iz/can_a_fresher_build_a_web_app_in_a_week/</guid>
-      <pubDate>Fri, 30 Aug 2024 04:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>很少有机会编写 JavaScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4ml7u/rarely_get_a_chance_to_write_javascript_ever/</link>
-      <description><![CDATA[我想讨论一下为什么很难找到机会编写普通的现代原生 Javascript。在客户端，不能用 JQuery！不能用 React！好吧，使用 React 你必须使用 TanStack Query，不能用 Vue。你需要一种声明式的方式来制作你的 UI 等。很多人说 JS 会导致意大利面条式代码，这可能是真的，我不知道。 哦，你需要一个工具链，你需要 Vite、SWC 等等。 然后在 NodeJS 的服务器端，你只需要使用 TypeScript。哦，你必须使用 Nuxt 或 Nest。或者根本不要将 Node 用于后端，而要使用 C#、Go 或 PHP。我不得不同意，对于纯后端来说，Node 有点输给其他语言，这还不错，但那些可能是更好的选择。 NPM 不是我的最爱。 所以我已经到了对 JavaScript 极其生疏的地步，因为我从来没有机会接触它。    提交人    /u/Appropriate-Cell-171   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4ml7u/rarely_get_a_chance_to_write_javascript_ever/</guid>
-      <pubDate>Fri, 30 Aug 2024 04:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何创建自己的网络主机？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4mjwg/how_do_i_make_my_own_webhost/</link>
-      <description><![CDATA[我想建立一个网站，但付不起网络托管费，所以我必须自己做一个。    提交人    /u/FurryMaster15   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4mjwg/how_do_i_make_my_own_webhost/</guid>
-      <pubDate>Fri, 30 Aug 2024 04:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
