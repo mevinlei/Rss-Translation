@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 15:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 18:11:40 GMT</lastBuildDate>
+    <item>
+      <title>适合初学者的笔记本电脑</title>
+      <link>https://www.reddit.com/r/editors/comments/1f5rkgm/laptop_for_beginner/</link>
+      <description><![CDATA[你好 reddit， 我决定学习视频编辑，我应该为此买一台笔记本电脑，所以请与我分享你对哪台笔记本电脑更适合入门的看法（我没有太多钱买它）。另外，如果你知道纽约有哪些好的课程，我会很高兴听到的。总的来说，请分享你的入门经验，我对很多细节都很感兴趣。我应该了解这个职业的哪些方面，我应该避免哪些方面等等。    提交人    /u/-Mockinggbird-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f5rkgm/laptop_for_beginner/</guid>
+      <pubDate>Sat, 31 Aug 2024 16:41:03 GMT</pubDate>
+    </item>
     <item>
       <title>DropBox 重播</title>
       <link>https://www.reddit.com/r/editors/comments/1f5j2eq/dropbox_replay/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>好的防眩光显示器屏幕？</title>
       <link>https://www.reddit.com/r/editors/comments/1f4ctjy/good_antiglare_monitor_screen/</link>
-      <description><![CDATA[大家好，我想为我的主要编辑显示器购买一块防眩光屏幕。我最近搬到了一个新地方，显示器上的光线和反射太多，让我头疼。我以为贴上某种磨砂屏幕保护膜可以帮助减少这个问题，但似乎我在亚马逊上搜索的所有产品都包括减少蓝光的功能，这对我来说似乎不太合适，因为它会在我编辑/色彩校正时影响显示器上的颜色。  所以我很好奇，是否有人推荐一款有助于减少眩光的好屏幕。谢谢！    提交人    /u/SeagateSG1   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想为我的主要编辑显示器购买一块防眩光屏幕。我最近搬到了一个新地方，显示器上的光线和反射太多，让我头疼。我以为贴上某种磨砂屏幕保护膜可以帮助减少这个问题，但似乎我在亚马逊上搜索的所有产品都包括减少蓝光的功能，这对我来说似乎不太可取，因为它会在我编辑/色彩校正时影响显示器上的颜色。  所以我很好奇，是否有人推荐一款有助于减少眩光的好屏幕。谢谢！    提交人    /u/SeagateSG1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4ctjy/good_antiglare_monitor_screen/</guid>
       <pubDate>Thu, 29 Aug 2024 20:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频问题：从立体声转换为 5.1 以用于影院放映</title>
-      <link>https://www.reddit.com/r/editors/comments/1f4azlo/audio_question_converting_from_stereo_to_51_for/</link>
-      <description><![CDATA[我正在将一个较旧的纪录片项目转换为 5.1，以便在数字影院进行慈善演示（我猜现在它们大多都是数字投影仪）。编辑对我来说并不陌生，准备电影院 5.1 演示才是，请原谅我对其中一些内容的无知。我正在使用 Davinci Resolve，我可以毫无问题地使用 DR 中的 Fairlight 来设置 5.1 音频。 我的计划是使用以下级别和分配：  前中：音频旁白和受访者音频（-10db） 前左和前右：立体声背景音乐（-20db）/立体声前景音乐（-12db） 后左和后右：立体声偶然/环境声音 (-20db)  这看起来合理吗？音乐也应该通过后置扬声器发出吗？如果还有更多的时间来处理这个问题，我可以让它更细致入微，但我时间紧迫。 谢谢    提交人    /u/ChevChance   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f4azlo/audio_question_converting_from_stereo_to_51_for/</guid>
-      <pubDate>Thu, 29 Aug 2024 19:20:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
