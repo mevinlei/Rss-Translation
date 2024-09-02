@@ -4,7 +4,14 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 02 Sep 2024 00:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 03:13:26 GMT</lastBuildDate>
+    <item>
+      <title>为婴儿和老人推出冬季病毒疫苗</title>
+      <link>https://www.bbc.com/news/articles/cx2ed29v415o</link>
+      <description><![CDATA[我们尤其敦促孕妇接种这种可以保护新生儿的新疫苗。]]></description>
+      <guid>https://www.bbc.com/news/articles/cx2ed29v415o</guid>
+      <pubDate>Mon, 02 Sep 2024 01:14:00 GMT</pubDate>
+    </item>
     <item>
       <title>石油行业称提高能源税将影响经济增长</title>
       <link>https://www.bbc.com/news/articles/cx287xq91e5o</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[随着巴黎残奥会的临近，BBC 体育将带您了解残奥会的运动项目、比赛场馆以及可以获得的金牌数量。]]></description>
       <guid>https://www.bbc.com/sport/articles/cer3wvlzpx1o</guid>
       <pubDate>Wed, 28 Aug 2024 15:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用吸汗吸尘器和加热室为残奥会做准备</title>
-      <link>https://www.bbc.co.uk/sounds/play/p0jm2b3l</link>
-      <description><![CDATA[使用吸汗吸尘器和加热室为残奥会做准备]]></description>
-      <guid>https://www.bbc.co.uk/sounds/play/p0jm2b3l</guid>
-      <pubDate>Wed, 28 Aug 2024 12:27:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
