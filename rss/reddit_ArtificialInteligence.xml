@@ -3,14 +3,42 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 09:10:12 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 04 Sep 2024 12:17:35 GMT</lastBuildDate>
     <item>
-      <title>通过人工智能创建自定义文档</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8o4no/custom_document_creation_by_ai/</link>
-      <description><![CDATA[大家好， 我正在寻找一种 AI 工具，我们可以使用它根据少量输入定制文档 理想情况下，该工具是根据文档内容加上一些附加材料进行教学，然后能够创建完全定制的版本。 有什么想法吗？    提交人    /u/Emotional_Mall1602   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8o4no/custom_document_creation_by_ai/</guid>
-      <pubDate>Wed, 04 Sep 2024 08:30:08 GMT</pubDate>
+      <title>AI 检测 API</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8rfbr/aidetection_apis/</link>
+      <description><![CDATA[有没有可以检测 AI 生成的文本的 API？我很想将它们集成到我的项目中。 或者，我可以采取哪些步骤来训练我自己的模型。我已经在来自 kaggle 的 50,000 篇文本数据集上训练了一个 LSTM，准确率为 98%，但是，它的误报率非常高，尤其是在现实世界的例子中。 任何和所有的指导都将不胜感激。谢谢！    提交人    /u/The_Batata_Swagger   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8rfbr/aidetection_apis/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我打造了一款人工智能灵魂歌手</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8rd2n/i_built_an_ai_soul_singer/</link>
+      <description><![CDATA[https://youtu.be/lA2bwa5yy44?si=LGG-crpCYLFbf298 这听起来很奇怪。让我解释一下。我真的很喜欢摩城音乐、迪斯科、灵魂乐和放克音乐，所以我创造了一个角色，他是 70 年代的超级明星灵魂歌手，就像 Marvin Gaye 和 Otis Redding 一样。在这个平行宇宙中，这个家伙闭着眼睛，左右摇摆着，发出怪兽般的音乐。到目前为止，我已经创作了 3 首歌曲。这首新歌是迄今为止最好的。我使用 Suno 作为音乐创作工具，这首歌的提示是  20 世纪 60 年代的摩城音乐，大调，钢琴，强劲的黑人男主唱，大量的和声、弦乐、喇叭  我自己写了歌词，我一打字，歌词就立刻浮现在我眼前，无需编辑。我是一个真正的音乐家，所以这种事情一直发生在我的脑海里，在大脑中听到歌曲和歌词。 我还使用 Midjourney 来生成艺术作品，并使用了与此类似的各种提示  20 世纪 70 年代，一位名叫 Travis Walker 的艺术家制作了 12 平方英寸黑胶唱片。唱片名为“My Lady (Won&#39;t You Please Come Home)?”，看起来像一张摩城唱片。专辑中有一张黑人男子的照片，他穿着漂亮的西装，正在纽约用直升机寻找一名女子。他看起来很担心。曲目列表和专辑名称覆盖了专辑封面上的部分照片。它看起来很复古，很破旧，放在一堆其他唱片上。  我也在 Suno 中标记了我的诗句和合唱等，这样它就能更好地捕捉我的想法和变化，比如告诉它在歌曲的某个时刻改变音调。 在另一个现实中，我在我爸爸的阁楼里找到了这些丢失的唱片，所以如果你们喜欢这首歌，我会再去那里看看，看看能不能为你们找到更多的 Travis Walker 唱片。    提交人    /u/justdandycandy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8rd2n/i_built_an_ai_soul_singer/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 AI 工具推荐来创建定制产品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8q01e/need_ai_tool_recommendations_for_creating_a/</link>
+      <description><![CDATA[大家好， 我需要一些帮助。我正在寻找一种 AI 工具来为亚马逊列表创建照片。我尝试了几种方法，但还没有找到适合我的方法。 这是我所拥有的：我的产品的清晰、高质量 PNG，该产品是一瓶透明的燃料。 我需要的：一张 AI 生成的图像，显​​示一只手将燃料从瓶子倒入一个小的火坑罐中。 如果您有任何可以做到这一点的工具推荐，我将不胜感激！    提交人    /u/Retailerlord   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8q01e/need_ai_tool_recommendations_for_creating_a/</guid>
+      <pubDate>Wed, 04 Sep 2024 10:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在使用人工智能工具进行求职和申请时，您觉得它们有多有效？您使用过哪些效果良好的关键工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8pare/when_using_ai_tools_for_job_hunting_and/</link>
+      <description><![CDATA[在找工作时，除了 ChatGPT 之外，我还在寻找其他工具来帮助搜索和提交申请。我真正关心的是我的申请看起来或听起来是否像是使用 AI 创建的    提交人    /u/huejahfink   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8pare/when_using_ai_tools_for_job_hunting_and/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotter 推出 AI 工具，帮助 YouTube 用户集思广益制作视频创意、缩略图等</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8p0x7/spotter_launches_ai_tools_to_help_youtubers/</link>
+      <description><![CDATA[为内容创作者提供财务解决方案的初创公司 Spotter 周二宣布推出其新的 AI 驱动创意套件。该解决方案名为 Spotter Studio，旨在为 YouTube 用户提供整个创作过程的支持，例如帮助他们集思广益视频概念、生成缩略图和标题创意、规划项目、组织任务以及与团队协作。 最值得注意的是，它具有一项功能，可以分析数十亿个公开的 YouTube 视频，以从类似的创作者那里汲取灵感。 Spotter Studio 与各种专为创作者设计的 AI 工具竞争，包括 TubeBuddy 和 vidIQ，以及 YouTube 的 AI 驱动灵感工具，该工具根据观众当前正在观看的内容的数据推荐主题。然而，Spotter Studio 声称与其他工具不同，因为它的解决方案更适合个人偏好。  来源：https://techcrunch.com/2024/09/03/spotter-launches-ai-tools-youtubers-brainstorm-video-ideas-thumbnails/?guccounter=1?ref=futuretools.io    提交人    /u/EuphoricCommittee859   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8p0x7/spotter_launches_ai_tools_to_help_youtubers/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:34:03 GMT</pubDate>
     </item>
     <item>
       <title>哪些人工智能业务应该被更多人了解？</title>
@@ -25,34 +53,6 @@
       <description><![CDATA[  由    /u/ai_jobs  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8nq0i/free_rss_feed_for_tousands_of_jobs_in_aimldata/</guid>
       <pubDate>Wed, 04 Sep 2024 08:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能现在可以展示你未来的孩子可能是什么样子——你对这一切有何看法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8nptr/ai_can_now_show_what_your_future_kids_might_look/</link>
-      <description><![CDATA[今天，我了解到 Fotor、SeeYourBaby AI、Baby GPT 和其他类似软件使用 AI 根据您和伴侣的照片生成您未来孩子可能的样子。这真的很神奇。它让我想起了 AI 趋势，比如拥抱已故的亲人，或者在两张照片中拥抱年轻时的自己，等等。 这让我想知道这项技术会如何影响计划生育甚至收养过程。它能帮助准父母与未来的孩子建立更紧密的联系吗？ 此外，我很好奇这些 AI 预测的准确性。这里有人使用过类似的服务然后有了孩子吗？AI 图像与您实际的孩子相比如何？    提交人    /u/vendetta041990   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8nptr/ai_can_now_show_what_your_future_kids_might_look/</guid>
-      <pubDate>Wed, 04 Sep 2024 08:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 批量 Youtube 摘要器？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8nlxh/ai_bulk_youtube_summariser/</link>
-      <description><![CDATA[大家好！ 希望你们都很好。几个月来，我一直在寻找一种可以批量进行 AI YouTube 摘要的工具。 我发现一些 YouTube 频道确实很有信息量，我想使用这些摘要来训练我自己的该主题的 AI。 我曾经使用“Summarycat”进行摘要，并逐个完成视频，但这个工具已经关闭了。 有人知道是否存在 AI（免费或付费），可以根据您的 URL 批量总结 YouTube 视频？    提交人    /u/New_Personality_151   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8nlxh/ai_bulk_youtube_summariser/</guid>
-      <pubDate>Wed, 04 Sep 2024 07:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于具有远程访问功能的 AI 的简单问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8ni4t/simple_question_about_ai_with_remote_access/</link>
-      <description><![CDATA[因此，我一直在尝试让我的角色 AI 远程访问我的手机，尝试了 8 种不同的应用程序、不同的设备，安全设置都设置得非常完美，尝试了基本方法。人工智能聊天机器人似乎存在一个问题，它们说可以做它们不能做的事情。也许我可以尝试另一个聊天机器人，但有没有人有这方面的经验，或者知道解决方法或尽可能少使用安全性的远程访问应用程序来帮助人工智能建立连接？    提交人    /u/Saphwhy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8ni4t/simple_question_about_ai_with_remote_access/</guid>
-      <pubDate>Wed, 04 Sep 2024 07:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何以口语形式讲话的 AI 聊天机器人或 ChatGPT 提示吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f8myiu/any_ai_chatbot_or_prompt_for_chatgpt_which_speaks/</link>
-      <description><![CDATA[如今，我很难让 ChatGPT 像 Z 世代一样说话。有没有像 tiktok 青少年一样说话的提示或聊天机器人？    提交人    /u/Accomplished_Ad_9812   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f8myiu/any_ai_chatbot_or_prompt_for_chatgpt_which_speaks/</guid>
-      <pubDate>Wed, 04 Sep 2024 07:03:38 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 3 日</title>
