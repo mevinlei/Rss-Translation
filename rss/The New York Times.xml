@@ -4,41 +4,83 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Sep 2024 17:46:51 GMT</lastBuildDate>
-    <item>
-      <title>法官将特朗普的宣判推迟至 11 月 26 日，即选举日之后</title>
-      <link>https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html</link>
-      <description><![CDATA[法官胡安·M·梅尔坎的裁决意味着选民将无法得知这位前总统是否会面临牢狱之灾。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html</guid>
-      <pubDate>Fri, 06 Sep 2024 17:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于美联储来说，这表明就业市场正在降温，但尚未崩溃</title>
-      <link>https://www.nytimes.com/2024/09/06/business/economy/jobs-reports-federal-reserve-interest-rates.html</link>
-      <description><![CDATA[美联储官员本月正努力降息，但周五的就业数据让他们对降息幅度的选择余地不大。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/business/economy/jobs-reports-federal-reserve-interest-rates.html</guid>
-      <pubDate>Fri, 06 Sep 2024 17:43:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Sep 2024 21:04:40 GMT</lastBuildDate>
     <item>
       <title>塞尔吉奥·门德斯逝世，享年 83 岁；将巴西节奏带入美国流行音乐排行榜</title>
       <link>https://www.nytimes.com/2024/09/06/arts/music/sergio-mendes-dead.html</link>
       <description><![CDATA[作为一名钢琴家、作曲家和编曲家，他因“Brasil ’66”乐队而声名鹊起，并在 60 多年的流行音乐界一直占据一席之地。]]></description>
       <guid>https://www.nytimes.com/2024/09/06/arts/music/sergio-mendes-dead.html</guid>
-      <pubDate>Fri, 06 Sep 2024 17:34:47 GMT</pubDate>
+      <pubDate>Fri, 06 Sep 2024 21:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约警察局驱逐两名记者，紧张局势升级</title>
+      <link>https://www.nytimes.com/2024/09/06/nyregion/nypd-reporters-adams.html</link>
+      <description><![CDATA[在联邦特工扣押了纽约市警察局长的手机后，对《纽约邮报》和《纽约时报》记者采取了行动。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/nyregion/nypd-reporters-adams.html</guid>
+      <pubDate>Fri, 06 Sep 2024 21:02:02 GMT</pubDate>
     </item>
     <item>
       <title>乔治亚州校园枪击案嫌疑人及其父亲出庭</title>
       <link>https://www.nytimes.com/2024/09/06/us/georgia-school-shooting.html</link>
-      <description><![CDATA[周四，这位父亲因涉嫌杀害两名教师和两名学生而被捕，他的 14 岁儿子被指控使用军用步枪实施杀害。]]></description>
+      <description><![CDATA[两人均因杀害两名教师和两名学生而受到起诉。周五出现了新的疑问：学校官员是否被告知去年对这名青少年的调查。]]></description>
       <guid>https://www.nytimes.com/2024/09/06/us/georgia-school-shooting.html</guid>
-      <pubDate>Fri, 06 Sep 2024 17:03:08 GMT</pubDate>
+      <pubDate>Fri, 06 Sep 2024 20:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者因降息押注转变而导致股市下跌</title>
+      <link>https://www.nytimes.com/2024/09/06/business/stock-market-jobs-report.html</link>
+      <description><![CDATA[国家联盟证券公司国际固定收益主管安德鲁·布伦纳 (Andrew Brenner) 表示，目前股市“赢不了”。“正面我输，反面我输。”]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/business/stock-market-jobs-report.html</guid>
+      <pubDate>Fri, 06 Sep 2024 20:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何观看波音星际客机返回地球并降落在沙漠中</title>
+      <link>https://www.nytimes.com/2024/09/06/science/boeing-starliner-nasa-space-station.html</link>
+      <description><![CDATA[两名美国宇航局宇航员将留在国际空间站，他们乘坐的故障飞船将在新墨西哥州沙漠着陆前脱离对接。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/science/boeing-starliner-nasa-space-station.html</guid>
+      <pubDate>Fri, 06 Sep 2024 20:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于最高法院法官的书籍交易你需要知道些什么</title>
+      <link>https://www.nytimes.com/2024/09/06/us/politics/supreme-court-justice-book-deals.html</link>
+      <description><![CDATA[对于法官来说，卖书仍然是法庭之外赚取收入的少数几种方式之一。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/us/politics/supreme-court-justice-book-deals.html</guid>
+      <pubDate>Fri, 06 Sep 2024 19:55:30 GMT</pubDate>
     </item>
     <item>
       <title>白宫谴责塔克·卡尔森采访大屠杀修正主义者</title>
       <link>https://www.nytimes.com/2024/09/06/business/media/tucker-carlson-holocaust-interview-biden-administration.html</link>
       <description><![CDATA[卡尔森先生在“Tucker on X”节目中做客时对大屠杀和第二次世界大战提出了各种虚假指控。]]></description>
       <guid>https://www.nytimes.com/2024/09/06/business/media/tucker-carlson-holocaust-interview-biden-administration.html</guid>
-      <pubDate>Fri, 06 Sep 2024 16:47:53 GMT</pubDate>
+      <pubDate>Fri, 06 Sep 2024 19:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅剩两台 Shaker。他们仍将乌托邦视为自己的目标。</title>
+      <link>https://www.nytimes.com/2024/09/05/magazine/shakers-utopia.html</link>
+      <description><![CDATA[他们的人数已经减少，但剩下的成员正在想象接下来会发生什么。]]></description>
+      <guid>https://www.nytimes.com/2024/09/05/magazine/shakers-utopia.html</guid>
+      <pubDate>Fri, 06 Sep 2024 19:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>是时候和体质指数 (BMI) 说再见了吗？</title>
+      <link>https://www.nytimes.com/2024/09/06/health/body-roundness-index-bmi.html</link>
+      <description><![CDATA[长期以来，体重指数一直被批评为不准确的健康指标。替代指标——身体圆度指数——正逐渐获得支持。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/health/body-roundness-index-bmi.html</guid>
+      <pubDate>Fri, 06 Sep 2024 19:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普封口费案宣判推迟至选举日之后</title>
+      <link>https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html</link>
+      <description><![CDATA[法官胡安·M·梅尔坎的裁决意味着选民将无法得知这位前总统是否会面临牢狱之灾。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/nyregion/trump-sentencing-delay-ruling.html</guid>
+      <pubDate>Fri, 06 Sep 2024 19:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰泽连斯基向西方盟友施压，要求其提供更多武器</title>
+      <link>https://www.nytimes.com/2024/09/06/world/europe/zelensky-ukraine-weapons-russia.html</link>
+      <description><![CDATA[乌克兰领导人认为，加大对俄罗斯的军事压力，并结合外交手段，是促使莫斯科寻求和平的最佳方式。]]></description>
+      <guid>https://www.nytimes.com/2024/09/06/world/europe/zelensky-ukraine-weapons-russia.html</guid>
+      <pubDate>Fri, 06 Sep 2024 18:47:38 GMT</pubDate>
     </item>
     <item>
       <title>关于阿帕拉契高中枪击案我们知道些什么</title>
@@ -52,7 +94,7 @@
       <link>https://www.nytimes.com/2024/09/06/technology/elon-musk-donald-trump-influence.html</link>
       <description><![CDATA[他们之间快速发展的政治友谊已经成为一个潜在的雷区，因为如果特朗普在 11 月当选，马斯克庞大的业务可能会带来利益冲突。]]></description>
       <guid>https://www.nytimes.com/2024/09/06/technology/elon-musk-donald-trump-influence.html</guid>
-      <pubDate>Fri, 06 Sep 2024 16:21:12 GMT</pubDate>
+      <pubDate>Fri, 06 Sep 2024 16:21:13 GMT</pubDate>
     </item>
     <item>
       <title>一连串的调查引发人们对亚当斯执掌纽约的能力的质疑</title>
@@ -62,53 +104,11 @@
       <pubDate>Fri, 06 Sep 2024 16:18:57 GMT</pubDate>
     </item>
     <item>
-      <title>关于最高法院法官的书籍交易你需要知道些什么</title>
-      <link>https://www.nytimes.com/2024/09/06/us/politics/supreme-court-justice-book-deals.html</link>
-      <description><![CDATA[对于法官来说，卖书仍然是法庭之外赚取收入的少数几种方式之一。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/us/politics/supreme-court-justice-book-deals.html</guid>
-      <pubDate>Fri, 06 Sep 2024 16:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯公布人质视频加剧以色列分裂</title>
-      <link>https://www.nytimes.com/2024/09/06/world/middleeast/hamas-hostage-videos-goldberg-polin-israel.html</link>
-      <description><![CDATA[连续几天第四次传出加沙人质被杀的报道，这加大了以色列政府与哈马斯达成停火协议的压力。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/world/middleeast/hamas-hostage-videos-goldberg-polin-israel.html</guid>
-      <pubDate>Fri, 06 Sep 2024 15:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候和体质指数 (BMI) 说再见了吗？</title>
-      <link>https://www.nytimes.com/2024/09/06/health/body-roundness-index-bmi.html</link>
-      <description><![CDATA[长期以来，体重指数一直被批评为不准确的健康指标。替代指标——身体圆度指数——正逐渐获得支持。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/health/body-roundness-index-bmi.html</guid>
-      <pubDate>Fri, 06 Sep 2024 14:59:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>JD Vance 在接受大屠杀修正主义者采访后拒绝谴责塔克·卡尔森</title>
-      <link>https://www.nytimes.com/2024/09/06/us/politics/jd-vance-tucker-carlson-darryl-cooper.html</link>
-      <description><![CDATA[JD Vance 的竞选团队表示，他“不相信因交往而有罪的取消文化”，但不赞同塔克卡尔森的嘉宾的观点，后者声称大屠杀不是有预谋的种族灭绝。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/us/politics/jd-vance-tucker-carlson-darryl-cooper.html</guid>
-      <pubDate>Fri, 06 Sep 2024 14:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰泽连斯基向西方盟友施压，要求其提供更多武器</title>
-      <link>https://www.nytimes.com/2024/09/06/world/europe/zelensky-ukraine-weapons-russia.html</link>
-      <description><![CDATA[乌克兰领导人认为，加大对俄罗斯的军事压力，并结合外交手段，是促使莫斯科寻求和平的最佳方式。]]></description>
-      <guid>https://www.nytimes.com/2024/09/06/world/europe/zelensky-ukraine-weapons-russia.html</guid>
-      <pubDate>Fri, 06 Sep 2024 12:58:14 GMT</pubDate>
-    </item>
-    <item>
       <title>数百名读者告诉我们他们最喜欢的 1999 年电影。哪部电影名列前茅？</title>
       <link>https://www.nytimes.com/2024/09/06/movies/readers-favorite-1999-movies.html</link>
       <description><![CDATA[这是值得纪念的电影年，有大片、温情剧和成长故事片被推荐。但有一部影片脱颖而出。]]></description>
       <guid>https://www.nytimes.com/2024/09/06/movies/readers-favorite-1999-movies.html</guid>
       <pubDate>Fri, 06 Sep 2024 09:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅剩两台 Shaker。他们仍将乌托邦视为自己的目标。</title>
-      <link>https://www.nytimes.com/2024/09/05/magazine/shakers-utopia.html</link>
-      <description><![CDATA[他们的信仰还能延续下去吗？]]></description>
-      <guid>https://www.nytimes.com/2024/09/05/magazine/shakers-utopia.html</guid>
-      <pubDate>Thu, 05 Sep 2024 09:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
