@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Sep 2024 12:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 15:30:16 GMT</lastBuildDate>
     <item>
       <title>AirPods Pro 2</title>
       <link>https://www.producthunt.com/posts/airpods-pro-2-2</link>
@@ -32,34 +32,6 @@ Apple 最新旗舰 AirPods
 ]]></description>
       <guid>https://www.producthunt.com/posts/iphone-16</guid>
       <pubDate>Mon, 09 Sep 2024 18:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝尔斯塔德</title>
-      <link>https://www.producthunt.com/posts/belstad</link>
-      <description><![CDATA[
-实时、无党派新闻应用
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/belstad</guid>
-      <pubDate>Mon, 09 Sep 2024 17:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地Xpose</title>
-      <link>https://www.producthunt.com/posts/localxpose-2</link>
-      <description><![CDATA[
-将您的本地主机暴露给互联网
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/localxpose-2</guid>
-      <pubDate>Mon, 09 Sep 2024 15:11:57 GMT</pubDate>
     </item>
     <item>
       <title>TypeScript 控制台</title>
@@ -172,6 +144,34 @@ ChatGPT 为您的会议服务
 ]]></description>
       <guid>https://www.producthunt.com/posts/fine-ai-coding-workflows</guid>
       <pubDate>Sun, 01 Sep 2024 07:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>箍</title>
+      <link>https://www.producthunt.com/posts/hoop-83cf26a5-11cb-4a8c-a3e4-1e0ba27dadb0</link>
+      <description><![CDATA[
+为忙碌的专业人士提供 AI 任务管理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hoop-83cf26a5-11cb-4a8c-a3e4-1e0ba27dadb0</guid>
+      <pubDate>Tue, 27 Aug 2024 16:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Datazip 的 OpenEngine</title>
+      <link>https://www.producthunt.com/posts/openengine-by-datazip</link>
+      <description><![CDATA[
+按需虚拟仓库可在 30 秒内运行临时查询
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/openengine-by-datazip</guid>
+      <pubDate>Mon, 26 Aug 2024 08:12:25 GMT</pubDate>
     </item>
     <item>
       <title>票据</title>
