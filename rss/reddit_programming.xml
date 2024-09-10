@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Sep 2024 00:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 03:12:16 GMT</lastBuildDate>
+    <item>
+      <title>开源未定义，第一部分：另类起源故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1fd5nze/open_source_undefined_part_1_the_alternative/</link>
+      <description><![CDATA[  由    /u/sionescu  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fd5nze/open_source_undefined_part_1_the_alternative/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我进行这项民意调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1fd5ixs/help_me_with_this_poll/</link>
+      <description><![CDATA[  由    /u/Hollowbird123  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fd5ixs/help_me_with_this_poll/</guid>
+      <pubDate>Tue, 10 Sep 2024 00:53:33 GMT</pubDate>
+    </item>
     <item>
       <title>将 Node.js Native Messaging 主机编译为单个可执行应用程序</title>
       <link>https://www.reddit.com/r/programming/comments/1fd55cs/compile_nodejs_native_messaging_host_to_single/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/StellarNavigator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fctulv/making_hard_things_easy/</guid>
       <pubDate>Mon, 09 Sep 2024 16:35:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握管道和过滤器：消息系统模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1fctknn/mastering_pipes_and_filters_a_messaging_system/</link>
-      <description><![CDATA[  由    /u/Nadaralp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fctknn/mastering_pipes_and_filters_a_messaging_system/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>proctrace - 流程生命周期事件的高级分析器</title>
-      <link>https://www.reddit.com/r/programming/comments/1fct8op/proctrace_a_high_level_profiler_for_process/</link>
-      <description><![CDATA[  由    /u/z_mitchell  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fct8op/proctrace_a_high_level_profiler_for_process/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
