@@ -4,20 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 11 Sep 2024 00:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 03:10:48 GMT</lastBuildDate>
     <item>
       <title>IBC 调色师 - 9 月 14 日下午 6 点至晚上 11 点（欧洲中部夏令时间）</title>
       <link>https://www.reddit.com/r/editors/comments/1fdwtzv/colorist_mixer_at_ibc_sept_14th_611pm_cest/</link>
       <description><![CDATA[  由    /u/greenysmac  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fdwtzv/colorist_mixer_at_ibc_sept_14th_611pm_cest/</guid>
       <pubDate>Wed, 11 Sep 2024 00:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用云或服务器软件为我的团队寻找素材和资产（带标记，非基于名称的搜索，如果有人工智能）</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdwmcw/i_search_cloud_or_server_software_for_stock/</link>
-      <description><![CDATA[您好，我和我的团队使用了一些资源，问题是我们可以在哪里妥善地、有组织地积累这些资源。今天，我们有基于文件资源管理器软件，并使用类似于 MacOS 上的 Tag。这对于节省时间很有用。您知道也许 Windows 上的所有东西，文件资源管理器比 Windows 官方的更高效。但所有这些解决方案都是一台自己的计算机，很少可以共享。  我搜索了一个解决方案来解决这个问题：为我的团队存储、存档素材和共享素材 我看到这个网站与此类似（4tb 免费，带有 portoliothat 很好，但是......）我搜索了，但我搜索了基于确切的搜索说明（如果搜索白鸟，那就给我看白鸭子、白猫头鹰等）  https://www.playbook.com/ 因此，youtube 使用 AI 标记组织来做到这一点，但它只在他的计算机上 https://youtu.be/wTQeMkYRMcw  所以有些人有想法让服务器或平台可以用标签来组织云？    提交人    /u/Dartsgame_FR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdwmcw/i_search_cloud_or_server_software_for_stock/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:54:32 GMT</pubDate>
     </item>
     <item>
       <title>Tiktok风格视频编辑建议</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[从业 8 年，上周刚刚开始在十大市场工作。Edius Station，之前的站点是 Premiere，之前的站点是 Final Cut。你们呢？你在用什么，喜欢吗？    提交人    /u/DaNewsEditorSeanyBoo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fd3cm0/new_to_the_party/</guid>
       <pubDate>Mon, 09 Sep 2024 23:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么建议可以修复这个音频吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fd0zqq/any_suggestions_to_fix_this_audio/</link>
+      <description><![CDATA[有什么建议可以帮助我修复此音频的问题？ 问题最明显出现在视频结尾她说“好的”之前。她戴着 LAV，防喷罩掉了，她的头发摩擦着金属，所以你可以听到一种尖锐的叮当声。 我正在使用 Davinci Resolve Fairlight。我尝试通过搜索声音发生的特定频率区域来均衡它，并将其减弱，但我无法完全消除它，否则会完全弄乱音频。 有什么想法吗？也许是我还没有考虑过的效果或动态变化？让我知道，谢谢！    提交人    /u/MaxKCoolio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fd0zqq/any_suggestions_to_fix_this_audio/</guid>
+      <pubDate>Mon, 09 Sep 2024 21:25:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
