@@ -4,107 +4,101 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 00:43:23 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 网站：perthirtysix.com</title>
-      <link>https://t.me/hn_summary/107871</link>
-      <description><![CDATA[彩票模拟器
-标题：彩票模拟器
-网站：perthirtysix.com
+      <title>[媒体] 标题：星巴克新任CEO想让星巴克重返咖啡店</title>
+      <link>https://t.me/hn_summary/107889</link>
+      <description><![CDATA[星巴克新任首席执行官希望让星巴克再次成为一家咖啡店
+标题：星巴克新任首席执行官希望让星巴克再次成为一家咖啡店
 
-每次有彩票大奖的消息传出，我都会幻想自己中奖，并思考中奖的几率。虽然中奖的几率显然非常小，但我想更深入地研究背后的数学原理。诸如“我需要买多少张彩票才能中奖？”和“不同的数字会如何改变中奖几率？”等问题引起了我的兴趣。因此，我创建了 PerThirtySix 彩票模拟器。此工具允许用户探索现有彩票的概率或创建自定义规则。模拟器允许您每秒玩数千张彩票并可视化回报。请注意，它简化了一些方面，例如忽略税收并假设只有一个头奖得主。
+网站：www.cnn.com
 
-令人惊讶/聪明：该工具每秒模拟数千张彩票进行探索性分析的能力非常独特和聪明。
-
-在 Twitter 上关注我们@PerThirtySixers和@ShriKhalpada。请给我买杯咖啡来支持该项目☕。]]></description>
-      <guid>https://t.me/hn_summary/107871</guid>
-      <pubDate>Tue, 10 Sep 2024 21:18:19 GMT</pubDate>
+星巴克新任首席执行官 Brian Niccol 旨在通过让公司回归“社区咖啡馆”的本质，提供舒适的座位，并明确区分“外带”和“即买即取”服务，从而重振公司。尼科尔因成功扭转 Chipotle 和 Taco Bell 的颓势而闻名，他是星巴克两年来的第四任首席执行官。在销售额下降、客户对高价格、应用程序订单缓慢和食物质量不佳的不满情绪不断加剧的情况下，他计划提升店内体验。尼科尔的方法包括赋予咖啡师权力和解决移动订单量过大的问题。有争议的是，尼科尔因不搬到西雅图和乘坐公务机上下班而受到批评。]]></description>
+      <guid>https://t.me/hn_summary/107889</guid>
+      <pubDate>Wed, 11 Sep 2024 00:43:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在 Buttondown 的最新更新中，作者探讨了“为什么不”的概念 [...]</title>
-      <link>https://t.me/hn_summary/107870</link>
-      <description><![CDATA[为什么不评论
-在 Buttondown 的最新更新中，作者探讨了编码中“为什么不”评论的概念，强调了它们在记录负面信息（代码没有做什么）方面的重要性。作者认为，虽然代码是结构化的，表达能力有限，但评论提供了更丰富的人类语言背景。他们重点介绍了他们著作《程序员的逻辑》中的一个个人例子，其中一条评论解释了由于当前限制而选择较慢、较简单的算法。作者认为，此类评论对于未来参考至关重要，不能被自记录代码或测试所取代，因为它们传达了标识符无法封装的权衡和决策。时事通讯以一个发人深省的问题结束，即自记录反事实和人类交流抽象的更广泛含义。]]></description>
-      <guid>https://t.me/hn_summary/107870</guid>
-      <pubDate>Tue, 10 Sep 2024 21:16:13 GMT</pubDate>
+      <title>[媒体] 在朱莉娅·查尔德 (Julia Child) 的《法国大厨》第七季中，电视转播转为彩色 [...]</title>
+      <link>https://t.me/hn_summary/107888</link>
+      <description><![CDATA[色盲人士不太可能挑食
+在朱莉娅·查尔德的《法国大厨》第七季中，彩色电视的转变突显了色彩如何增强食物体验。作为一名研究视觉能力的心理学家，我的研究历程表明，颜色在对食物的情绪反应中起着独特的作用。我们发现，人们识别食物的能力存在很大差异，这种差异与食物新奇恐惧症有关——挑食者在食物识别测试中的得分较低。有趣的是，当食物图像以灰度显示时，食物新奇恐惧症和识别能力之间的相关性消失了。这表明颜色会影响对食物的情绪反应。我们的研究进一步发现，色盲男性对食物新奇恐惧症的程度较低，这表明有限的调色板可能会减少对新食物的焦虑。这些发现为利用色彩的力量解决食物恐惧症开辟了新途径。]]></description>
+      <guid>https://t.me/hn_summary/107888</guid>
+      <pubDate>Wed, 11 Sep 2024 00:21:14 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 根据我的经验，Git Bash 是 Windows 上最好的 shell。</title>
-      <link>https://t.me/hn_summary/107869</link>
-      <description><![CDATA[Git Bash 是我首选的 Windows Shell
-根据我的经验，Git Bash 是 Windows 的最佳 Shell。它与 Git 和 Unix 命令的无缝集成使其成为开发人员不可或缺的工具。我使用的配色方案通过前景色和背景色的舒缓混合增强了可读性并减少了眼睛疲劳。从黑色到粗白色，每种颜色的特定 RGB 值都经过精心选择，以创建视觉上吸引人且高效的编码环境。这种设置不仅可以提高工作效率，还可以使编码体验更加愉快。如果您还没有尝试过 Git Bash，我强烈建议您尝试一下。]]></description>
-      <guid>https://t.me/hn_summary/107869</guid>
-      <pubDate>Tue, 10 Sep 2024 21:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在《当代生物学》杂志上发表的一项开创性研究中，长崎大学的研究人员 [...]</title>
-      <link>https://t.me/hn_summary/107868</link>
-      <description><![CDATA[X 射线镜头显示日本鳗鱼如何逃离捕食者的胃部
-在一项发表于《当代生物学》的开创性研究中，长崎大学的研究人员记录了日本鳗鱼从掠食性鱼类消化道中逃脱的非凡行为。利用 X 射线摄像技术，研究小组观察到这些鳗鱼可以尾部朝前穿过捕食者的食道和鳃逃出。这是首次证实鱼类逃离捕食者消化系统的案例。研究显示，40.6% 的鳗鱼成功将尾巴从鳃中伸出，其中 69.2% 的人平均在 56 秒内成功逃脱。研究人员惊讶地发现，鳗鱼并没有直接从嘴里逃出，而是通过消化道返回。这种独特的生存策略凸显了鳗鱼非凡的适应性和韧性。]]></description>
-      <guid>https://t.me/hn_summary/107868</guid>
-      <pubDate>Tue, 10 Sep 2024 21:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：science.nasa.gov</title>
-      <link>https://t.me/hn_summary/107867</link>
-      <description><![CDATA[航海者 1 号团队完成棘手的推进器更换
-标题：航海者 1 号团队完成棘手的推进器更换
-网站：science.nasa.gov
+      <title>[媒体] Plough.com 刊登了 Arvo Pärt 的旅程，深入探讨了生活和音乐的演变 [...]</title>
+      <link>https://t.me/hn_summary/107887</link>
+      <description><![CDATA[Arvo Pärt 的旅程
+Arvo Pärt 的旅程刊登在 Plough.com 上，深入探讨了著名爱沙尼亚作曲家 Arvo Pärt 的生活和音乐演变。文章追溯了他早期的影响、他独特的极简主义风格（被称为“tintinnabuli”）的发展以及他深刻的精神之旅。Pärt 的音乐以其简单和深刻的情感共鸣为特点，吸引了全世界的观众。这篇文章还涉及他在苏联统治下面临的挑战以及他最终移民西方。叙述内容丰富且发人深省，深刻评价了帕特对当代古典音乐的贡献。
 
-航海者 1 号团队成功执行了一项复杂的操作，切换到另一组推进器，确保航天器继续准确指向地球。航海者 1 号及其孪生航海者 2 号配备了三组推进器：两组用于姿态控制，一组用于轨迹校正。最初，这些推进器用于精确的行星飞越。然而，随着旅行者 1 号现在沿着稳定的路径飞出太阳系，其推进器要求已简化。这种巧妙的替换展示了该团队在管理老化航天器有限资源和延长其任务寿命方面的独创性。]]></description>
-      <guid>https://t.me/hn_summary/107867</guid>
-      <pubDate>Tue, 10 Sep 2024 21:04:00 GMT</pubDate>
+争议：本文可能涉及帕特在苏联审查制度下经历的政治紧张局势，突出了艺术表达与压迫政权之间的斗争。]]></description>
+      <guid>https://t.me/hn_summary/107887</guid>
+      <pubDate>Wed, 11 Sep 2024 00:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 标题：Stratovision</title>
-      <link>https://t.me/hn_summary/107866</link>
-      <description><![CDATA[Stratovision
-标题：Stratovision
+      <title>问 HN：对于可拆卸、可充电电池标准有什么希望吗？</title>
+      <link>https://t.me/hn_summary/107886</link>
+      <description><![CDATA[问 HN：可拆卸、可充电电池标准还有希望吗？
+标题：问 HN：可拆卸、可充电电池标准还有希望吗？
+网站：news.ycombinator.com
 
-网站：en.wikipedia.org
-
-Stratovision 是一种创新的机载电视传输中继系统，由 Glenn L. Martin 公司和西屋电气公司于 1945 年开发。该概念涉及使用高空飞行的飞机为美国各地的农村和大都市地区提供电视覆盖。虽然从未全面实施，但 Stratovision 已在国内广播和军事行动中使用，尤其是在越南战争期间的南越。 1948-1949 年的测试证明了其潜力，一架 B-29 超级堡垒轰炸机从巴尔的摩的 WMAR-TV 转播信号。尽管前景光明，但该系统面临着技术和法律挑战，导致其随着光纤和卫星广播的兴起而衰落。值得注意的是，在 1999 年北约轰炸南斯拉夫期间，EC-130 突击队 Solo 使用 Stratovision 进行宣传，但收效甚微。]]></description>
-      <guid>https://t.me/hn_summary/107866</guid>
-      <pubDate>Tue, 10 Sep 2024 20:58:55 GMT</pubDate>
+作者对各种家用物品（如电动工具、吸尘器和儿童玩具）的可拆卸、可充电电池缺乏标准化表示沮丧。尽管许多电池具有相似的电压和电流，但由于适配器不同，它们无法互换。作者质疑我们是否会看到类似于 AA/AAA 电池的标准化电池组，从而简化使用和更换。与没有标准化 AA/AAA 电池的世界相比，突出了当前情况的荒谬性。这种标准化的呼吁既实用又发人深省，强调了当前系统的不便和低效。]]></description>
+      <guid>https://t.me/hn_summary/107886</guid>
+      <pubDate>Tue, 10 Sep 2024 23:50:58 GMT</pubDate>
     </item>
     <item>
-      <title>Unicode 标准 16.0 版已经发布，其中有 5 个重要更新，[...]</title>
-      <link>https://t.me/hn_summary/107865</link>
-      <description><![CDATA[Unicode 标准，版本 16.0
-Unicode 标准版本 16.0 已发布，包含 5,185 个新字符，这是一次重大更新。其中包括 3,995 个额外的埃及象形文字、7 个新脚本、7 个新表情符号以及来自传统计算环境的 700 多个符号，使总数达到 154,998 个字符。值得注意的是，已添加超过 36,000 个 CJK 统一表意文字的新日语源参考。核心规范现已在线提供，导航功能得到增强。已引入两个新附件，UAX #53（阿拉伯标记渲染）和 UAX #57（Unicode 埃及象形文字数据库）。有关更多详细信息，请访问 Unicode 网站。此外，您可以采用一个角色或表情符号来支持 Unicode 的使命，并且捐款可能有资格获得减税。]]></description>
-      <guid>https://t.me/hn_summary/107865</guid>
-      <pubDate>Tue, 10 Sep 2024 20:50:46 GMT</pubDate>
+      <title>语义书签管理器是一个 Web 应用程序，旨在使用语义来管理书签 [...]</title>
+      <link>https://t.me/hn_summary/107885</link>
+      <description><![CDATA[显示 HN：语义书签管理器
+语义书签管理器是一款 Web 应用程序，旨在使用语义搜索管理书签，解决传统书签管理器混乱且难以导航的常见问题。与分类系统不同，它通过消除手动组织来简化用户体验。它使用 Flask 和最少的 CSS/JavaScript 构建，设置快速且易于使用。主要功能包括添加多个书签、自动抓取内容、生成摘要、使用 RAG 技术进行语义搜索以及用于集成的 API 端点。它支持 Google Gemini 和 Ollama 模型进行嵌入和语言处理。该项目根据 MIT 许可开源，欢迎贡献。]]></description>
+      <guid>https://t.me/hn_summary/107885</guid>
+      <pubDate>Tue, 10 Sep 2024 23:47:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 题为“Pixhell 攻击：通过‘Singing Pix’从气隙计算机泄露信息”的论文 [...]</title>
-      <link>https://t.me/hn_summary/107864</link>
-      <description><![CDATA[Pixhell 攻击：通过“唱歌像素”从隔离计算机泄露信息
-arxiv.org 上的论文“Pixhell 攻击：通过“唱歌像素”从隔离计算机泄露信息”探讨了一种新颖的网络攻击方法，攻击者可以使用屏幕像素从隔离计算机窃取数据。通过以特定模式操纵像素的亮度，屏幕会发出高频声音，附近的智能手机或麦克风可以捕捉到这些声音。这种被称为“唱歌像素”的方法独特而巧妙，因为它利用视觉显示绕过了传统的安全措施。争议在于，此类攻击可能会破坏依赖隔离系统保护的高度安全环境。]]></description>
-      <guid>https://t.me/hn_summary/107864</guid>
-      <pubDate>Tue, 10 Sep 2024 20:48:42 GMT</pubDate>
+      <title>[媒体] 标题：佛罗里达州政府派出警察恐吓投票倡议请愿支持者</title>
+      <link>https://t.me/hn_summary/107884</link>
+      <description><![CDATA[佛罗里达州政府派出警察恐吓投票倡议请愿书支持者
+标题：佛罗里达州政府派出警察恐吓投票倡议请愿书支持者
+
+网站：www.techdirt.com
+
+据报道，在州长罗恩·德桑蒂斯的领导下，佛罗里达州政府派出警察前往签署支持堕胎选择权投票倡议请愿书的个人家中。该倡议旨在推翻佛罗里达州目前的六周堕胎禁令。李县的多名居民报告称，执法人员曾上门拜访，他们掌握了他们的详细个人信息。这种针对疑似请愿欺诈的强硬态度非常不寻常，与通过传票或法庭诉讼处理此类问题的更常见做法形成鲜明对比。批评者认为，这是公然恐吓和压制反对德桑蒂斯反堕胎立场的人的企图。争议在于执法人员被用作政治恐吓手段，引发了人们对民主进程和公民自由受到侵蚀的担忧。]]></description>
+      <guid>https://t.me/hn_summary/107884</guid>
+      <pubDate>Tue, 10 Sep 2024 23:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>机器渴望：适用于带有两个 SID 芯片的改进型 C64 的 4 KB 音乐盘</title>
-      <link>https://t.me/hn_summary/107863</link>
-      <description><![CDATA[Machine Yearning：适用于配备两个 SID 芯片的改进型 C64 的 4 KB 音乐盘
-“Machine Yearning”是一款 4 KB 音乐盘，专为配备两个 SID 芯片的改进型 Commodore 64 (C64) 设计。这张专辑在 Creative Commons CC-BY-NC 4.0 下可用，探索了人类创造力与机器限制之间的相互作用。由 SID FX 等第三方硬件支持的双 SID 设置允许同时使用旧 (6581) 和新 (8580) SID 芯片，从而增强了音乐的复杂性。这七首歌曲被压缩成一个可执行文件，利用共享的播放程序和数据相似性来适应 4 KB 的限制。音乐是通过虚拟机生成的，节奏和旋律来自数据表和移位寄存器。歌曲标题源自 C64 错误消息，增加了一个象征层，反映了机器内部的“不安的灵魂”。这个项目证明了技术与艺术之间错综复杂的关系。
-
-争议：双 SID 芯片的使用及其所涉及的技术复杂性可能不会得到纯粹主义者的普遍认可，正如对假立体声的评论所表明的那样。
-
-独特/巧妙：使用 C64 错误消息作为歌曲标题以及将复杂音乐压缩到 4 KB 的压缩技术特别巧妙。]]></description>
-      <guid>https://t.me/hn_summary/107863</guid>
-      <pubDate>Tue, 10 Sep 2024 20:47:38 GMT</pubDate>
+      <title>[媒体] 我们很高兴推出 Chai-1，这是一种突破性的多模式基础模型 [...]</title>
+      <link>https://t.me/hn_summary/107883</link>
+      <description><![CDATA[Chai-1 击败 AlphaFold 3
+我们很高兴推出 Chai-1，这是一种用于分子结构预测的突破性多模态基础模型，在药物发现的关键任务中表现出色。Chai-1 支持对蛋白质、小分子、DNA、RNA 等的统一预测，并且可以通过 Web 界面免费访问以供商业使用。值得注意的是，Chai-1 在 PoseBusters 基准测试中的成功率超过 AlphaFold 3，为 77%，并且在多聚体折叠方面实现了卓越的准确性，而无需进行多次序列比对 (MSA)。这种独特的功能使其与现有工具区别开来。此外，Chai-1 可以整合实验室数据，显著提高性能，特别是在抗体-抗原结构预测方面。我们正在发布该模型及其代码以供非商业使用，以促进研究和工业界的合作。我们的使命是将生物学转化为工程学，而我们才刚刚起步。有关更多详细信息，请访问我们的技术报告，并在 lab.chaidiscovery.com 或 github.com/chaidiscovery/chai-lab 上试用 Chai-1。]]></description>
+      <guid>https://t.me/hn_summary/107883</guid>
+      <pubDate>Tue, 10 Sep 2024 22:53:32 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 网站：www.wired.com</title>
-      <link>https://t.me/hn_summary/107862</link>
-      <description><![CDATA[为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕
-标题：为什么人工智能在生成卡玛拉·哈里斯的图像方面如此糟糕
-网站：www.wired.com
+      <title>[媒体] 最好的指针标记方法是什么？</title>
+      <link>https://t.me/hn_summary/107882</link>
+      <description><![CDATA[最佳指针标记方法是什么？
+在这篇文章中，我们深入研究了指针标记，这是一种将元数据编码为字大小的指针的技术，允许在机器寄存器中高效传递紧凑的表示。这在动态编程语言中特别有用，但可以广泛应用。我们探索了各种标记方法：低位、低字节、高字节、高位和 NaN 装箱，每种方法都有自己的优点和权衡。基准测试显示，虽然对齐位标记由于编译器优化而优于零标记，但其他标记根据所使用的指令集和编译器显示出不同的结果。值得注意的是，GCC 比 LLVM 更好地优化了某些操作，从而导致性能差异。这篇文章强调，虽然这些微优化可能很重要，但内存访问模式和缓存行为通常对整体性能有更大的影响。因此，真实世界的基准测试对于确定特定工作负载的最佳方法至关重要。（基于 92% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/107882</guid>
+      <pubDate>Tue, 10 Sep 2024 22:51:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 甲骨文公司董事长兼联合创始人拉里·埃里森在 [...] 期间发表了令人惊讶的声明。</title>
+      <link>https://t.me/hn_summary/107881</link>
+      <description><![CDATA[Oracle 设计由核反应堆驱动的数据中心
+Oracle 董事长兼联合创始人拉里·埃里森 (Larry Ellison) 在公司财报电话会议上宣布了一项令人惊讶的消息，透露计划设计一个由下一代核技术驱动的数据中心。埃里森强调了人工智能对电力的“疯狂”需求，并表示数据中心将需要超过 1 千兆瓦的电力，由三个小型模块化核反应堆提供。这些反应堆仍处于开发阶段，预计要到 2030 年代才会在美国商业化，有望提供可靠的无碳能源。数据中心和反应堆的位置仍未公开。此举凸显了数据中心日益增长的能源需求以及正在考虑满足这些需求的创新解决方案。]]></description>
+      <guid>https://t.me/hn_summary/107881</guid>
+      <pubDate>Tue, 10 Sep 2024 22:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Ceph：20 年尖端边缘存储</title>
+      <link>https://t.me/hn_summary/107880</link>
+      <description><![CDATA[Ceph：20 年尖端边缘存储
+Ceph：20 年尖端边缘存储
 
-埃隆·马斯克最近在 X 上分享了一张卡玛拉·哈里斯打扮成“共产主义独裁者”的人工智能生成的拙劣图像，突显了人工智能在准确描绘副总统方面所面临的困难。这幅图像很可能是由 X 的 Grok 工具创建的，与哈里斯几乎没有相似之处，许多用户指出，它看起来更像是一个随机的拉丁裔女性或女演员伊娃·朗格利亚。这一问题还延伸到哈里斯的其他 AI 生成图像，这些图像通常具有不一致的外观，而唐纳德·特朗普的图像则更准确。这种差异归因于与特朗普相比，可用于 AI 训练的哈里斯标记良好的图像较少。尽管哈里斯是一位杰出人物，但她并没有被广泛拍摄，这使她成为 AI 界的“新名人”。这凸显了当前 AI 图像生成技术的一个重大限制。]]></description>
-      <guid>https://t.me/hn_summary/107862</guid>
-      <pubDate>Tue, 10 Sep 2024 20:33:29 GMT</pubDate>
+在 OpenInfra 亚洲峰会的主题演讲中，CLYSO 首席技术官兼 Ceph 执行委员会成员 Dan van der Ster 强调，截至 2023 年，82% 的开放基础设施用户使用 Ceph 进行数据存储。Ceph 最初是加州大学圣克鲁斯分校 Sage Weil 的一个学生项目，现已发展成为一个全面的存储解决方案。Ceph 最初得到劳伦斯利弗莫尔国家实验室等主要机构的支持，引入了分布式对象存储、解耦数据和元数据以及 CRUSH 算法等创新功能。DreamHost 和 Red Hat 在其开发和企业采用中发挥了关键作用。 Ceph 独特的数据复制和可靠性方法可确保高可用性和快速恢复。Linux 基金会于 2018 年成立的 Ceph 基金会继续推动其成功。随着 Ceph 进入第三个十年，它有望成为人工智能和机器学习领域的关键参与者，使其成为现代数据存储需求不可或缺的一部分。]]></description>
+      <guid>https://t.me/hn_summary/107880</guid>
+      <pubDate>Tue, 10 Sep 2024 22:36:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
