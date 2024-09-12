@@ -4,7 +4,42 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:15:10 GMT</lastBuildDate>
+    <item>
+      <title>开源剪贴板历史记录 chrome 扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ff89ec/an_opensource_clipboard_history_chrome_extension/</link>
+      <description><![CDATA[扩展：https://chromewebstore.google.com/detail/clipboard-history-pro-sec/ombhfdknibjljckajldielimdjcomcek?hl=en Repo：https://github.com/ayoung19/clipboard-history 大家好！在过去的几天里，我一直在开发流行的剪贴板历史记录 chrome 扩展程序的全新改进版本，该扩展程序将从 chrome 网上应用店中移除。我以前经常使用这个扩展程序，它对于快速访问经常复制的命令和恢复丢失的表单数据等非常方便。它甚至可以很好地用作机密管理器。 但这有点问题。除了性能下降和过多的广告外，我认为扩展程序的主要问题是它是封闭源代码的。我无法轻松查看我的敏感信息是如何处理的。自由访问读取剪贴板非常具有侵入性，任何具有此权限的 chrome 扩展程序都应该完全透明地说明它的使用方式。我开始构建一个克隆以供个人使用，然后意识到其他人可能会发现透明度很有吸引力。最初是一个快速而肮脏的黑客攻击，现在是一个正在进行的项目，成为旧扩展在各个方面的全面升级 - 易用性，性能，功能和安全性！ 如果这个扩展听起来可能有用，我希望你尝试一下并告诉我它怎么样！关于代码/架构/其他任何内容的反馈也非常感谢。一颗星也会有所帮助，因为我计划很快添加安全云功能，这并不介意额外的一双眼睛。最后，如果你想做出贡献，只需打开 PR！我将开始组织和迁移我的所有待办事项到 Github 供其他人处理。    提交人    /u/LingLingAndy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ff89ec/an_opensource_clipboard_history_chrome_extension/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>eBPF 探测器和您：浏览内核源代码以进行跟踪</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ff76my/ebpf_probes_and_you_navigating_the_kernel_source/</link>
+      <description><![CDATA[  由    /u/ddelnano  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ff76my/ebpf_probes_and_you_navigating_the_kernel_source/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:45:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>pipefunc：用于最少代码科学工作流程的开源 Python 库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ff5ml6/pipefunc_an_opensource_python_library_for/</link>
+      <description><![CDATA[       由    /u/basnijholt  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ff5ml6/pipefunc_an_opensource_python_library_for/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blink 代码搜索 - 源代码索引器和即时搜索工具 v1.10.0 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ff4y3j/blink_code_search_source_code_indexer_and_instant/</link>
+      <description><![CDATA[      源代码的索引搜索工具。适用于中小型代码库。它支持模糊匹配、自动完成和实时 grep。 它是开源的，可在 Windows 和 Linux 中使用。    提交人    /u/_janc_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ff4y3j/blink_code_search_source_code_indexer_and_instant/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>申请维护者奖学金（来自主权科技基金）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ff4y1t/apply_to_the_fellowship_for_maintainers_from/</link>
+      <description><![CDATA[       由    /u/kelsetdev  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ff4y1t/apply_to_the_fellowship_for_maintainers_from/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:11:57 GMT</pubDate>
+    </item>
     <item>
       <title>有人通过为开源做贡献而找到工作吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ff4cew/has_anyone_gotten_a_job_from_contributing_to_open/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[在 npmjs.com 中搜索“CSS 验证”，你会发现一堆拉丁文乱码。发生了什么事，我们如何阻止这种乱码的涌入？    由   提交  /u/The_Game_Genie   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1felabf/npm_flooded_with_latin_text_junk_libraries/</guid>
       <pubDate>Wed, 11 Sep 2024 21:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建昂贵的员工认可 Slack Bot 开源替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fei8l2/building_an_expensive_employee_recognition_slack/</link>
-      <description><![CDATA[我知道许多 Slack 机器人非常昂贵，尤其是员工识别 Slack 机器人，它们非常昂贵。所以我和我的朋友决定构建该工具的开源版本，现在我们已经完成了一半，我们构建了我们的第一个工作 MVP。所以如果你真的对此感到好奇，不要犹豫，浏览我的个人资料，你一定会在任何相关帖子中找到该视频    提交人    /u/Charming_You_8285   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fei8l2/building_an_expensive_employee_recognition_slack/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - guilhermeprokisch/see：用于终端的一只可爱的猫（1），具有高级代码查看、Markdown 渲染、🌳 tree-sitter 语法突出显示、图像视图等功能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</link>
-      <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</guid>
-      <pubDate>Wed, 11 Sep 2024 18:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于假开源的问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</link>
-      <description><![CDATA[新手。有没有已知的案例，看似开源的软件（带有 github 等）如果不更改一些小东西，就会人为地变得难以（或不可能）构建？    由    /u/BobbyBronkers  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feeyp6/question_about_fake_opensource/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用版本控制平台使文档开源的最佳方式</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
-      <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数据网格4年经验和我的收获</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fea66y/open_source_data_grid_4_years_of_experience_and/</link>
-      <description><![CDATA[大家好！ 自从我第一次将 RevoGrid 作为开源电子表格推出以来，已经过去了 4 年。那时，这对我来说是一次全新的体验。我带着一些成果回来了，非常希望得到您的指导和想法。 主要目标是 为 Handsontable 和 Ag-Grid 等知名商业解决方案提供经济实惠的替代方案，同时让社区参与进来，帮助我们更好地构建它并获得反馈。 开源结论：  这很难：无论您多么努力，要达到让每个人都满意的水平都是很复杂的。 这是利他主义：没有人会感谢你；您将被要求提供更多功能，或者想知道为什么您交付的功能没有达到他们的期望。 获得贡献很难：我收到了数百封甚至数千封电子邮件和消息，其中有疑问和帮助承诺。但当你跟进这些承诺时，只有大约 10% 的人回应。 来自公司的有限支持：我们接到过大大小小的公司的电话，询问各种功能，但只有少数公司真正支持该项目（我们感谢您！）。但正如您所猜测的，他们不是大多数。 集成是关键：最后，对我们来说最好的策略是我们开始的策略：将您的项目集成到一个更大的项目中，这就是您开始获得关注的时候。这是我们的主要动力。  新的技术目标和版本 4+： 定制和完整性至关重要。我们直接在单元格内构建我们最喜欢的组件，并自定义所有内容，而无需深入网格核心或从主分支分叉。 在最新版本的 RevoGrid 中，我们专注于两件主要的事情：  使用插件、事件和自定义类型进行高级定制 为需要更多支持的人提供专业版。  我们在网格内开发了一个高度适应性的事件系统，允许您在不更改核心的情况下实现功能。您可以添加公式、在主行中创建子表以及进行任何高级选择。 import { BasePlugin, type PluginProviders } from &#39;@revolist/revogrid&#39;; /** * 应用“odd”的插件类到网格中的每个奇数行。 * * 该插件使用 `beforerowrender` 事件通过 * “odd” 类扩展虚拟节点。 然后可以在 CSS 中使用此类来设置奇数行的样式。 */ export class RowOddPlugin extends BasePlugin { /** * 提供程序使您可以访问网格核心功能，如选择、数据顺序、行/单元格大小、视口 */ constrained(revogrid: HTMLRevoGridElement, provider: PluginProviders) { super(revogrid, provider); /** * 订阅 `beforerowrender` 事件并扩展虚拟节点 * 渲染属性。 */ this.addEventListener( &#39;beforerowrender&#39;, ({ detail, }: CustomEvent&lt;HTMLRevogrDataElementEventMap[&#39;beforerowrender&#39;]&gt;) =&gt; { // 为每个奇数行添加 odd 类 detail.node.$attrs$ = { ...detail.node.$attrs$, odd: detail.item.itemIndex % 2 !== 0, }; } ); } }  大创意 我们希望构建一个电子表格框架（而不仅仅是另一个库），以便每个人都可以在其上创建高级组件。 问题： 您将如何将其集成到您的项目中？您觉得哪些功能最有趣？    提交人    /u/kumakint   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fea66y/open_source_data_grid_4_years_of_experience_and/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:30:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,83 +4,97 @@
     <title>纽约时报 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:00:24 GMT</lastBuildDate>
+    <item>
+      <title>地震震动洛杉矶附近沿海地区</title>
+      <link>https://www.nytimes.com/2024/09/12/us/earthquake-california-los-angeles-malibu.html</link>
+      <description><![CDATA[初步估计，地震震中位于马里布附近，震级为 4.7 级。当局正在确定地震是否造成重大损失。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/us/earthquake-california-los-angeles-malibu.html</guid>
+      <pubDate>Thu, 12 Sep 2024 17:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列突击队突袭叙利亚秘密武器基地</title>
+      <link>https://www.nytimes.com/2024/09/12/us/politics/israel-raid-syria-weapons.html</link>
+      <description><![CDATA[据西方官员称，导弹生产设施在袭击中被摧毁。叙利亚国家媒体报道称，袭击造成 18 人死亡。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/us/politics/israel-raid-syria-weapons.html</guid>
+      <pubDate>Thu, 12 Sep 2024 17:15:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 推出可以进行数学运算的全新 ChatGPT</title>
+      <link>https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html</link>
+      <description><![CDATA[在名为 OpenAI o1 的新技术的推动下，该聊天机器人可以测试各种策略并在处理复杂任务时尝试识别错误。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/technology/openai-chatgpt-math.html</guid>
+      <pubDate>Thu, 12 Sep 2024 17:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约警察局局长爱德华·卡班在联邦调查期间辞职</title>
+      <link>https://www.nytimes.com/2024/09/12/nyregion/edward-caban-resigns-nypd-commissioner.html</link>
+      <description><![CDATA[联邦特工在一次刑事调查中扣押了爱德华·卡班的手机，随后他被要求下台，这次调查是针对市长埃里克·亚当斯政府成员的多项调查之一。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/nyregion/edward-caban-resigns-nypd-commissioner.html</guid>
+      <pubDate>Thu, 12 Sep 2024 16:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是有关埃里克·亚当斯政府的调查</title>
+      <link>https://www.nytimes.com/article/eric-adams-investigations.html</link>
+      <description><![CDATA[联邦特工和检察官已对亚当斯先生及其在市政厅的一些高级助手展开一系列调查。]]></description>
+      <guid>https://www.nytimes.com/article/eric-adams-investigations.html</guid>
+      <pubDate>Thu, 12 Sep 2024 15:59:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>众议院共和党为何在选举前几周将矛头指向中国</title>
+      <link>https://www.nytimes.com/2024/09/12/us/politics/china-congress-republicans.html</link>
+      <description><![CDATA[共和党推动了一系列对华强硬的立法，试图让选民相信，共和党将保护美国人民免受北京的经济和军事威胁。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/us/politics/china-congress-republicans.html</guid>
+      <pubDate>Thu, 12 Sep 2024 15:46:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果哈里斯赢得北卡罗来纳州，这个县将成为转折点</title>
+      <link>https://www.nytimes.com/2024/09/12/us/politics/harris-democrats-north-carolina.html</link>
+      <description><![CDATA[16 年来，该州一直让民主党人心碎，梅克伦堡县也是如此——一个可靠的蓝色地区，但还不够蓝。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/us/politics/harris-democrats-north-carolina.html</guid>
+      <pubDate>Thu, 12 Sep 2024 15:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰称俄罗斯军队正在加强对波克罗夫斯克的攻击</title>
+      <link>https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</link>
+      <description><![CDATA[乌克兰官员称，波克罗夫斯克及其周边地区的轰炸不断增加，目前供水已被切断，一座公路立交桥被毁。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/world/europe/russia-ukraine-pokrovsk-attacks.html</guid>
+      <pubDate>Thu, 12 Sep 2024 15:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>波阿斯头李斯特菌疫情幸存者描述了可怕的疾病</title>
+      <link>https://www.nytimes.com/2024/09/12/well/listeria-survivors-boars-head.html</link>
+      <description><![CDATA[此次疫情与 Boar’s Head 产品有关，对孕妇和老年人等高危人群造成的损失尤其严重。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/well/listeria-survivors-boars-head.html</guid>
+      <pubDate>Thu, 12 Sep 2024 15:10:13 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰应该向俄罗斯腹地发射西方武器吗？</title>
       <link>https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</link>
       <description><![CDATA[拜登总统拒绝允许乌克兰使用西方远程导弹攻击俄罗斯军事目标，但他似乎有些动摇。]]></description>
       <guid>https://www.nytimes.com/2024/09/12/world/europe/biden-ukraine-strike-russia.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:48:48 GMT</pubDate>
+      <pubDate>Thu, 12 Sep 2024 14:48:49 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰称俄罗斯导弹击中黑海的粮食运输船</title>
       <link>https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</link>
       <description><![CDATA[如果得到证实，这将是乌克兰去年开辟通往海外粮食市场的航线以来，第一起针对商船的袭击。]]></description>
       <guid>https://www.nytimes.com/2024/09/12/world/europe/ukraine-grain.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:47:09 GMT</pubDate>
+      <pubDate>Thu, 12 Sep 2024 14:47:10 GMT</pubDate>
     </item>
     <item>
-      <title>在约旦河西岸被杀害的土耳其裔美国活动人士将被埋葬在土耳其</title>
-      <link>https://www.nytimes.com/2024/09/12/world/middleeast/west-bank-shooting-turkey-aysenur-ezgi-eygi-burial.html</link>
-      <description><![CDATA[土耳其裔美国双重国籍公民艾森努尔·埃兹吉·埃吉的遗体正被送往土耳其举行葬礼。她被以色列军队枪杀，这在两国都引发了愤怒。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/world/middleeast/west-bank-shooting-turkey-aysenur-ezgi-eygi-burial.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:39:23 GMT</pubDate>
+      <title>罗伯特·卡罗 50 岁时回顾“权力掮客”及其遗产</title>
+      <link>https://www.nytimes.com/2024/09/12/books/robert-caro-the-power-broker-at-50.html</link>
+      <description><![CDATA[卡罗的这本关于重塑纽约的城市规划师罗伯特·摩西斯的书也反思了“不受制约的权力的危险”，并且比以往任何时候都更能引起共鸣和现实意义。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/books/robert-caro-the-power-broker-at-50.html</guid>
+      <pubDate>Thu, 12 Sep 2024 12:40:08 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 太空舱首次私人太空行走实现新里程碑</title>
-      <link>https://www.nytimes.com/2024/09/11/science/spacex-polaris-dawn-astronauts-spacewalk.html</link>
-      <description><![CDATA[领导“北极星黎明”任务的亿万富翁贾里德·艾萨克曼和 SpaceX 工程师莎拉·吉利斯退出并重新进入他们的宇宙飞船，以测试商业太空技术。]]></description>
-      <guid>https://www.nytimes.com/2024/09/11/science/spacex-polaris-dawn-astronauts-spacewalk.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥司法改革计划即将出台 各方意见分歧严重</title>
-      <link>https://www.nytimes.com/2024/09/12/world/americas/mexico-judicial-overhaul-controversy.html</link>
-      <description><![CDATA[尽管一项选举近 7,000 名法官的提案即将出台，但一些墨西哥人还是提出了抗议。其他人则对有机会投票选举法官表示欢迎。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/world/americas/mexico-judicial-overhaul-controversy.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:25:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>叶片损坏、成本上升和渔民愤怒导致海上风力发电放缓</title>
-      <link>https://www.nytimes.com/2024/09/12/business/energy-environment/offshore-wind-blade-vineyard-wind.html</link>
-      <description><![CDATA[通用电气 Vernova 生产的叶片发生事故，导致马萨诸塞州和英格兰沿海的项目被推迟，并可能危及气候目标。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/business/energy-environment/offshore-wind-blade-vineyard-wind.html</guid>
-      <pubDate>Thu, 12 Sep 2024 13:49:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>年轻中国移民直面美国残酷的签证抽签</title>
-      <link>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</link>
-      <description><![CDATA[对于寻求教育机会的中国人来说，美国长期以来一直是首选，但随着越来越多的人希望留下来工作，他们的道路上充满了障碍。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/business/chinese-h1b-visa.html</guid>
-      <pubDate>Thu, 12 Sep 2024 13:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普称他的辩论很精彩。但他的盟友私下却说并非如此。</title>
-      <link>https://www.nytimes.com/2024/09/11/us/politics/trump-debate-performance.html</link>
-      <description><![CDATA[唐纳德·J·特朗普 (Donald J. Trump) 对自己辩论表现的激进解读表明，他知道自己的表现不够理想，并让助手们考虑如何在仅剩八周的时间里继续前进。]]></description>
-      <guid>https://www.nytimes.com/2024/09/11/us/politics/trump-debate-performance.html</guid>
-      <pubDate>Thu, 12 Sep 2024 12:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>大学如何改变抗议规则</title>
-      <link>https://www.nytimes.com/2024/09/12/us/college-protest-rules.html</link>
-      <description><![CDATA[新学年开始前，全国各地的大学都出台了一系列有关抗议和言论的新规则。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/us/college-protest-rules.html</guid>
-      <pubDate>Thu, 12 Sep 2024 12:43:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯和特朗普的下一步行动，以及弗朗辛抨击南路易斯安那州</title>
-      <link>https://www.nytimes.com/2024/09/12/podcasts/springfield-ohio-debate-election.html</link>
-      <description><![CDATA[此外，还揭穿了有关俄亥俄州移民的指控。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/podcasts/springfield-ohio-debate-election.html</guid>
-      <pubDate>Thu, 12 Sep 2024 10:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>弗朗辛洪水淹没了新奥尔良过去遭受风暴袭击的地区</title>
-      <link>https://www.nytimes.com/2024/09/12/weather/hurricane-francine-new-orleans-katrina-ida.html</link>
-      <description><![CDATA[飓风过境后，路易斯安那州南部居民做好了防洪准备。许多人居住在遭受卡特里娜飓风和艾达袭击的社区。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/weather/hurricane-francine-new-orleans-katrina-ida.html</guid>
-      <pubDate>Thu, 12 Sep 2024 09:48:15 GMT</pubDate>
+      <title>《权力掮客》终于要推出数字版了。为什么花了这么长时间？</title>
+      <link>https://www.nytimes.com/2024/09/12/books/ebook-robert-caro-the-power-broker.html</link>
+      <description><![CDATA[罗伯特·卡罗 (Robert Caro) 对城市规划师罗伯特·摩西 (Robert Moses) 的巨著将于本月以电子书形式推出，正值该传记出版 50 周年。]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/books/ebook-robert-caro-the-power-broker.html</guid>
+      <pubDate>Thu, 12 Sep 2024 12:39:45 GMT</pubDate>
     </item>
     <item>
       <title>哈里斯在辩论中获胜后，面临一场“寸土必争”的战场</title>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 12 Sep 2024 09:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>联合国机构如何成为加沙战争的导火索</title>
-      <link>https://www.nytimes.com/2024/09/12/magazine/unrwa-gaza-war.html</link>
-      <description><![CDATA[联合国近东巴勒斯坦难民救济和工程处 (UNRWA) 是联合国负责巴勒斯坦难民的机构，在巴以冲突 75 年中幸存下来。它能否挺过最近的冲突？]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/magazine/unrwa-gaza-war.html</guid>
-      <pubDate>Thu, 12 Sep 2024 09:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯洛伐克领导人遭枪击后将矛头指向敌人</title>
-      <link>https://www.nytimes.com/2024/09/12/world/europe/slovakia-robert-fico.html</link>
-      <description><![CDATA[总理罗伯特·菲科清洗了检察官、文化官员、记者和其他他认为煽动对他“仇恨和侵略”的人。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/world/europe/slovakia-robert-fico.html</guid>
-      <pubDate>Thu, 12 Sep 2024 09:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>几个月没见到大象了，这是怎么回事？</title>
-      <link>https://www.nytimes.com/2024/09/12/nyregion/happy-the-elephant-bronx-zoo.html</link>
-      <description><![CDATA[布朗克斯动物园的明星动物自 7 月以来就再也没有出现过。动物园称它很好。动物权利活动家对此并不十分确定。]]></description>
-      <guid>https://www.nytimes.com/2024/09/12/nyregion/happy-the-elephant-bronx-zoo.html</guid>
-      <pubDate>Thu, 12 Sep 2024 07:00:14 GMT</pubDate>
+      <title>这首歌连接了杰克逊·布朗、尼科和玛戈特·特南鲍姆</title>
+      <link>https://www.nytimes.com/2024/09/12/arts/music/jackson-browne-these-days-nico.html</link>
+      <description><![CDATA[布朗 16 岁时创作了《这些日子》。如今，75 岁的他和一些著名的崇拜者这样回忆他这首意想不到的代表作：“如果一首歌有任何价值，那就是它关乎听众的生活。”]]></description>
+      <guid>https://www.nytimes.com/2024/09/12/arts/music/jackson-browne-these-days-nico.html</guid>
+      <pubDate>Thu, 12 Sep 2024 09:02:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
