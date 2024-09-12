@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Sep 2024 06:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 09:11:23 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 IT 领域新生路径建议，[印度 ECE 本科生]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fex5u3/path_advice_for_fresher_in_2024_in_it_undergrad/</link>
+      <description><![CDATA[你好，我有点困惑，我于 6 月份毕业，具备前端 ReactJS、JS、HTML、Tailwind CSS、Java-Core 技能，但没有任何经验。我现在无法接到任何电话或工作。目前，我正在考虑了解 node、express 和 mongodb。现在我在考虑是否应该探索一些其他职业选择，例如 Devops、网络安全、云或任何其他。只是不知道该如何走上这条路。开发是安全的一面，因为这只在大学里安全地讲授。但是是的，现在找不到任何工作  Ps- 我来自三级大学，已经完成了 ECE     提交人    /u/whyadiwhy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fex5u3/path_advice_for_fresher_in_2024_in_it_undergrad/</guid>
+      <pubDate>Thu, 12 Sep 2024 07:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>会议摘要的开源替代方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fevswk/open_source_alternative_for_meeting_summaries/</link>
+      <description><![CDATA[https://youtube.com/shorts/Dqzm709qmpk    由   提交  /u/Matthew_heartful   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fevswk/open_source_alternative_for_meeting_summaries/</guid>
+      <pubDate>Thu, 12 Sep 2024 06:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>请对此项目提供一些反馈：用于构建分布式系统的 Python 框架。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fetsik/please_kindly_gives_some_feedback_to_this_project/</link>
@@ -20,25 +34,11 @@
       <pubDate>Thu, 12 Sep 2024 03:47:45 GMT</pubDate>
     </item>
     <item>
-      <title>用于狗身份标记的自托管 AI 图像扫描仪？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feszwb/self_hosted_ai_image_scanner_for_dog_id_tagging/</link>
-      <description><![CDATA[嗨，我正在寻找是否有一种解决方案可以扫描多只狗的照片并根据狗的身份标记它们或将它们移动到不同的文件夹？这个想法是自动扫描照片并为每只狗分组。这是为了帮助狗日托地点。 我不是这个领域的专家，但任何建议或提示都非常感谢 谢谢！    提交人    /u/ksteink   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feszwb/self_hosted_ai_image_scanner_for_dog_id_tagging/</guid>
-      <pubDate>Thu, 12 Sep 2024 03:22:34 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找兼容 Android 11 的开源健身追踪器和计步器以替代 Google Fit</title>
       <link>https://www.reddit.com/r/opensource/comments/1feqzj7/looking_for_an_open_source_android_11_compatible/</link>
       <description><![CDATA[正如标题所述 - 寻找 google fit 的开源替代应用程序，因为 google 不再支持。对 google fit 的支持将于 2024 年结束。我最感兴趣的功能是计步器、卡路里计数器、体重跟踪器和距离跟踪器。 我完全没有信心 Health Connect 会避免变得低劣（就这一点而言，google 也是如此。） 如果有人碰巧知道并且不介意分享，我将不胜感激。    提交人    /u/thedesertwolf   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feqzj7/looking_for_an_open_source_android_11_compatible/</guid>
       <pubDate>Thu, 12 Sep 2024 01:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>密钥管理器符合 KMIP 标准</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fep655/key_manager_kmip_compliant/</link>
-      <description><![CDATA[大家好，我正在尝试实现 MongoDB 可查询加密，它需要符合 KMIP 的密钥管理器，但他们的建议是付费的，我找不到开源替代方案。有人知道吗？ 他们的付费建议：  Amazon Web Services KMS Azure Key Vault Google Cloud Platform KMS  MongoDB 文档：https://www.mongodb.com/docs/v7.0/core/queryable-encryption/fundamentals/kms-providers/#std-label-qe-fundamentals-kms-providers    提交人    /u/a_lost_cake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fep655/key_manager_kmip_compliant/</guid>
-      <pubDate>Thu, 12 Sep 2024 00:06:53 GMT</pubDate>
     </item>
     <item>
       <title>跟踪 Maven 存储库使用情况</title>
@@ -62,13 +62,6 @@
       <pubDate>Wed, 11 Sep 2024 19:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>Echo：一款新的开源发现工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1feha4o/echo_a_new_open_source_discovery_tool/</link>
-      <description><![CDATA[  由    /u/Longjumping-Spend  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1feha4o/echo_a_new_open_source_discovery_tool/</guid>
-      <pubDate>Wed, 11 Sep 2024 18:24:43 GMT</pubDate>
-    </item>
-    <item>
       <title>GitHub - guilhermeprokisch/see：用于终端的一只可爱的猫（1），具有高级代码查看、Markdown 渲染、🌳 tree-sitter 语法突出显示、图像视图等功能。</title>
       <link>https://www.reddit.com/r/opensource/comments/1feh272/github_guilhermeprokischsee_a_cute_cat1_for_the/</link>
       <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
@@ -85,7 +78,7 @@
     <item>
       <title>使用版本控制平台使文档开源的最佳方式</title>
       <link>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</link>
-      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份能源效率计划的技术参考/资源手册 (TRM)，用于标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
+      <description><![CDATA[我正在考虑一项提议，即使用像 GitHub 这样的版本控制平台将政府发布的文件开源。本文件是一份技术参考/资源手册 (TRM)，供能源效率计划使用，以标准化 LED 照明、热泵、能源之星电视等节能措施的算法和规则。 以下是 PDF 格式的 TRM 示例：https://dps.ny.gov/technical-resource-manual-version-11-filed-october-6-2023-effective-january-1-2024 我认为这样做的好处是可以提高利益相关者的参与度，从而更容易在 TRM 中提出新措施和对现有措施的更改以及提供支持文档。TRM 管理委员会可以从版本跟踪和控制中受益。并且它将使修订过程对公众更加透明。 我最初考虑以某种方式提议使用 GitHub 来促进这一点，但我不确定这是否是动态文档的最佳平台。有很多单独的措施被编译成一个 PDF 并提交给公用事业监管机构，格式使文档更容易阅读。也许可以将 TRM 分解为每项措施的单独纯文本文件，然后以某种方式编译成具有文本格式的 PDF？ 关于实现这样的最佳方法有什么想法吗？    提交人    /u/PyreLightMW2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1feawag/best_way_to_make_a_document_opensource_with_a/</guid>
       <pubDate>Wed, 11 Sep 2024 14:02:37 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/Skitulz_da_Ninja  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fe4ijt/hey_guys_i_have_one_of_the_last_few_copies_of/</guid>
       <pubDate>Wed, 11 Sep 2024 07:37:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenLitterMap QGIS 插件成为 24 个新开源插件中的亮点</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fe3u4o/openlittermap_qgis_plugin_featured_as_the/</link>
+      <description><![CDATA[        由    /u/littercoin  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fe3u4o/openlittermap_qgis_plugin_featured_as_the/</guid>
+      <pubDate>Wed, 11 Sep 2024 06:46:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
