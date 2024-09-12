@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 09:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:16:54 GMT</lastBuildDate>
     <item>
-      <title>个性化助理 GPT4o✨</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fey3vt/personalised_assistant_gpt4o/</link>
-      <description><![CDATA[  由    /u/Maybe-reality842  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fey3vt/personalised_assistant_gpt4o/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:07:48 GMT</pubDate>
+      <title>最适合普通教育/小众用途的高级/付费 AI 聊天机器人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff11rl/best_premiumpaid_ai_chatbot_for_general/</link>
+      <description><![CDATA[我对所有这些 AI 的东西都相当落后，我觉得这些自称 AI 的聊天机器人/网站大部分都是经销商/通往 OpenAI 等实际平台的门户。我的需求主要是总结 YouTube 视频、写论文、中级编码和作为协助。寻找每月低于 40 美元且配额无限的东西。    由   提交  /u/ElegantCellist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff11rl/best_premiumpaid_ai_chatbot_for_general/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>我不知道</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fexa5i/i_dont_know/</link>
-      <description><![CDATA[向 Perplexity 询问以下问题：“2024 年 Prime Day 期间发送了多少封电子邮件”。AI 不应该产生幻觉，而应该说“我不知道 / 找不到此信息”。 顺便说一句，如果您知道 2024 年 Prime Day 期间发送的电子邮件数量，请告诉我。 谢谢    提交人    /u/chribonn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fexa5i/i_dont_know/</guid>
-      <pubDate>Thu, 12 Sep 2024 08:05:11 GMT</pubDate>
+      <title>爱尔兰对谷歌人工智能模型启动 GDPR 调查</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff0wmu/ireland_launches_gdpr_investigation_into_googles/</link>
+      <description><![CDATA[ 爱尔兰 DPC 正在调查谷歌的 AI 模型是否存在有关个人数据使用方面的 GDPR 违规行为； 谷歌的 PaLM 2 因其潜在的高风险数据处理而成为调查的对象； 此次调查是在 X 的一个类似案件之后展开的，X 同意停止使用欧盟/欧洲经济区用户数据进行 AI 训练。  来源：https://www.bitdegree.org/crypto/news/ireland-launches-gdpr-investigation-into-googles-ai-model?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-ireland-gdpr-investigation-google-ai    提交人    /u/webbs3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff0wmu/ireland_launches_gdpr_investigation_into_googles/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何防止文章被识别为AI撰写的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff0czx/how_to_prevent_articles_from_being_recognized_as/</link>
+      <description><![CDATA[大家好，如果这个问题之前有人问过，我很抱歉，如果可以的话，请将我引导到相关的帖子。我的问题是： 如你所知，人工智能撰写的文章和研究论文很容易被识别。你知道有什么人工智能应用程序或方法专门用于解决这个问题吗？我们如何确保我们写的文章看起来不像是人工智能写的？    提交人    /u/nuxxorcoin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff0czx/how_to_prevent_articles_from_being_recognized_as/</guid>
+      <pubDate>Thu, 12 Sep 2024 11:36:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能：技术、应用和对商业的影响</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ff08ww/generative_ai_techniques_applications_and_impact/</link>
+      <description><![CDATA[生成式 AI 涉及各种技术，每种技术都有其优势和应用。让我们来探索这项突破性技术背后一些最突出的生成式 AI 模型： 生成式对抗网络 (GAN)： 想象一下两位 AI 艺术家在艺术对决中竞争。这就是 GAN 背后的概念！它们由两个神经网络组成：  生成器：该网络充当创造性的远见者，不断努力产生新的和逼真的数据，如图像、音乐或文本。 鉴别器：该网络充当关键判断者，仔细分析生成的数据以将其与真实数据区分开来。  阅读：https://www.seaflux.tech/blogs/generative-ai-revolutionizing-industries    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ff08ww/generative_ai_techniques_applications_and_impact/</guid>
+      <pubDate>Thu, 12 Sep 2024 11:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高神经网络逻辑性/合理性的方法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fezyvn/ways_to_improve_logicrationality_of_neuralnetworks/</link>
+      <description><![CDATA[理论上，每个单词和概念难道不应该有自己专属的神经网络吗？处理逻辑的专属神经网络难道不应该把所有东西联系在一起吗？因此，最终结果是数百万个神经网络独立工作，而理性网络在遇到新信息时可以删除、添加或合并网络。 当人们要求 chatGPT 回应逻辑谬误时，有时它似乎缺乏对单词含义的深刻理解。    提交人    /u/neospacian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fezyvn/ways_to_improve_logicrationality_of_neuralnetworks/</guid>
+      <pubDate>Thu, 12 Sep 2024 11:12:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用多模态模型对卫星图像进行文本描述：已经完成了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fezad1/textual_descriptions_from_satellite_images_using/</link>
+      <description><![CDATA[我在想是否可以使用多模态模型根据特定参数（例如土壤湿度）生成图像的文本描述。数据可能是来自卫星或无人机的遥感图像。 图像数据：RGB 参数数据：2D 数组，其中每个元素对应于相应像素的参数值。 这已经实现了吗？是否有任何模型可以很好地解决此类问题？任何见解或建议都将不胜感激！ 提前致谢！    提交人    /u/MrGolran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fezad1/textual_descriptions_from_satellite_images_using/</guid>
+      <pubDate>Thu, 12 Sep 2024 10:30:59 GMT</pubDate>
     </item>
     <item>
       <title>如果有人发现人工智能可能具有感知能力，会发生什么？</title>
@@ -34,25 +62,11 @@
       <pubDate>Thu, 12 Sep 2024 07:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>您现在使用 customGPT 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fewsh2/do_you_use_customgpts_now/</link>
-      <description><![CDATA[  由    /u/MeanEquipment577  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fewsh2/do_you_use_customgpts_now/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:27:39 GMT</pubDate>
-    </item>
-    <item>
       <title>前同事称，前 Alameda 首席执行官 Caroline Ellison 受到人工智能威胁的驱使</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fewqo0/exalameda_ceo_caroline_ellison_was_driven_by_ai/</link>
       <description><![CDATA[关键要点  前 Alameda 首席执行官 Caroline Ellison 的财务野心是由她对人工智能对人类生存构成威胁的恐惧所驱动，正如她的前同事 Leila Clark 的一封信所揭示的那样； Clark 澄清说，Ellison 对人工智能的恐惧并不能为她被判有罪的欺诈行为辩护； 在对 Sam Bankman-Fried 的证词中，Ellison 承认伪造记录并希望在 FTX 倒闭前辞去首席执行官一职。  来源：https://www.bitdegree.org/crypto/news/ex-alameda-ceo-caroline-ellison-was-driven-by-ai-threat-says-former-colleague?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-alameda-ceo-ai-threat    提交人    /u/webbs3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fewqo0/exalameda_ceo_caroline_ellison_was_driven_by_ai/</guid>
       <pubDate>Thu, 12 Sep 2024 07:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>廉价论文写作服务 Reddit：学生指南</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fevy8c/cheap_essay_writing_service_reddit_a_students/</link>
-      <description><![CDATA[  由    /u/Silly_ShipSo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fevy8c/cheap_essay_writing_service_reddit_a_students/</guid>
-      <pubDate>Thu, 12 Sep 2024 06:26:55 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 9 月 11 日</title>
@@ -67,20 +81,6 @@
       <description><![CDATA[这是我的一个随机想法，但显然 openai 并没有在任何有关机密火箭/核/隐形技术蓝图的材料上训练 chatgpt（除非他们在 Warthunder discords 上训练它）。 但你估计（假设没有限制）要花多长时间才能向它提出一个复杂的工程问题，并且仅通过了解元素如何相互作用，它就可以为你提供完整的计划？ 按照目前的速度，这样的事情还需要几十年或一个世纪吗？ 如果人工智能最终可以从头开始制定设计计划，那么保守某些危险的技术秘密会变得多么困难，这对我来说很奇怪。    提交人    /u/HurryFun7677   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1feuewy/how_long_until_ai_can_start_working_out_complex/</guid>
       <pubDate>Thu, 12 Sep 2024 04:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让你的工作或职业不受人工智能影响？哪些领域或技能最有可能受到人工智能的影响最小？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fekeun/how_can_you_make_your_work_or_career_airesistant/</link>
-      <description><![CDATA[大家好， 随着人工智能能力的不断增强和自动化的普及，我们许多人都在思考如何确保我们的职业和企业面向未来。我很想听听你对哪些初创公司、行业或白领工作（尤其是技术相关职位）最有可能受到人工智能的影响最小或完全取代的看法。虽然我相信将人工智能融入工作流程可以保持领先地位，但我特别想问的是白领工作，而不是蓝领职位。我很好奇哪些职位可能会被人工智能完全取代或影响最大。期待您的真知灼见！    提交人    /u/masm33   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fekeun/how_can_you_make_your_work_or_career_airesistant/</guid>
-      <pubDate>Wed, 11 Sep 2024 20:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用人工智能构建知识工作的个人本体</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1feim9b/building_personal_ontologies_for_knowledge_work/</link>
-      <description><![CDATA[🦄 如果您是一名知识工作者，在我看来，您需要开始构建个人专业知识本体，以便通过 AI 增强您的工作能力。  “但是 SHEp，什么是本体？” 如果您不知道那是什么或意味着什么，我写了一本指南来帮助您赶上。 https://www.shepbryan.com/blog/ontologies-101 随着人工智能的持续爆炸式增长，您应该每天/每周投入时间来制定和维护您自己的专有领域地图和程序专业知识，以推动您的职业生涯。  我们在日常工作中接触的人工智能模型具有其自身固有的知识结构、通过训练数据灌输给它们的世界观或战略视角等。  但如果您可以在使用语言模型时为其提供一个新的本体以供参考，那么您就可以覆盖其固有的思维方式并将其替换为您自己的思维方式。这是从人工智能助手和代理合作者那里获得更高质量输出的宝贵捷径。可以将其想象成在控制台中交换游戏卡带/光盘。控制台保持不变，具有相同的固有功能。但现在它使用相同的构建块执行完全不同的事情。 公司尚未大规模实施此操作。他们很快就会想要这样做。我不确定他们是否会过得轻松。所以在我看来，这是您可以轻松地在人工智能时代作为就业能力的增值产品带到谈判桌上的东西。  查看博客，阅读后告诉我您对本体论的看法。  我很乐意回答任何问题。  顺便说一句，我试图让它尽可能地非技术化，同时仍然为您提供在这个新时代所需的游戏。  这有点像学习一门新语言，但是……您需要这种语言，并且需要尽快获得它。  背景环境：我不是数据科学家，但在成为 LLM 高级用户的过去 2 年里，我已成为“民间本体论者”。我现在管理着一个大型的个人本体论模块库（基本上是大量我可以组成更大概念的结构化上下文片段），用于个人/专业用途。我不骗你，自从我开始做这件事以来，这为我节省了数百甚至数千小时的工作时间。这主要是因为当我在工作中解决问题时，我将获得解决方案的元认知过程映射为本体模块。然后，当我再次面对该问题时，我可以将模块与 LLM 一起放入聊天中并立即得到我想要的东西。不再从头开始做所有事情..而是从第二步开始。     提交人    /u/shepbryan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1feim9b/building_personal_ontologies_for_knowledge_work/</guid>
-      <pubDate>Wed, 11 Sep 2024 19:19:31 GMT</pubDate>
     </item>
     <item>
       <title>NotebookLM.Google.com 现在可以从您的文档和 URL 生成播客！</title>
