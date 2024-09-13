@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 00:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 03:11:56 GMT</lastBuildDate>
+    <item>
+      <title>寻找能够用操作系统来标记分区的分区软件（用于双启动管理）。例如标记由 Windows 或 Linux 创建和使用的所有分区</title>
+      <link>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</link>
+      <description><![CDATA[我正在考虑任何类似自动 GUID 类型验证和标记的东西，但我不知道是否存在。    提交人    /u/Manjandro_M4nuEK07   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:45:54 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个应用程序来帮助我将屏幕的各个部分组织成一个可以流式传输的虚拟屏幕</title>
       <link>https://www.reddit.com/r/software/comments/1ffh0yj/need_an_app_that_can_help_me_organize_parts_of_my/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>用于触发屏幕上的动画/图像的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ff9inh/software_to_trigger_animations_images_on_screen/</link>
-      <description><![CDATA[所以基本上我在寻找任何你可以推荐给我的特定软件。我正在寻找的是可以执行以下操作的东西：  触发动画或图像（理想情况下，在动画或图像出现时触发音频）。 可以进行设置，以便我可以设置键盘快捷键来触发某些动画或图像。  我的第一个选择是 OBS（我相信这是最好的选择），但我只能使用装有 Windows 7 的笔记本电脑，我不知道是否有这样的软件。如果有人能帮助我，我将不胜感激。提前致谢！    提交人    /u/MirrorOfDisgrace   [链接] [评论]]]></description>
+      <description><![CDATA[所以基本上我在寻找任何你可以推荐给我的特定软件。我正在寻找的是可以执行以下操作的东西：  触发动画或图像（理想情况下，在动画或图像出现时触发音频）。 可以设置它，以便我可以设置键盘快捷键来触发某些动画或图像。  我的第一个选择是 OBS（我相信这是最好的选择），但我只能使用装有 Windows 7 的笔记本电脑，我不知道是否有这样的软件。如果有人能帮助我，我将不胜感激。提前致谢！    提交人    /u/MirrorOfDisgrace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ff9inh/software_to_trigger_animations_images_on_screen/</guid>
       <pubDate>Thu, 12 Sep 2024 18:21:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有任何不需要管理员访问权限的键盘宏软件，以便我可以在办公室电脑上使用它们？我会使用 AHK，但你知道，需要管理员权限。    提交人    /u/Xyphuz_   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1feoyt1/keyboard_macro_for_office_pc/</guid>
       <pubDate>Wed, 11 Sep 2024 23:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>终身人工智能工具——省钱还是只是炒作？</title>
-      <link>https://www.reddit.com/r/software/comments/1feop1k/lifetime_ai_toolsmoney_saver_or_just_hype/</link>
-      <description><![CDATA[最近一直在研究 AI 工具，偶然发现了 Oncely AI，它提供终身优惠。我总是对任何“终身”的东西都持怀疑态度，但我决定尝试一些项目管理工具。不得不说，不用每月付款的感觉真好。还有人试过 Oncely 或类似的交易吗？我想知道这是否真的是长期更明智的选择，或者我只是在避免以后不可避免地切换回订阅。你们觉得怎么样？    提交人    /u/KevinRiveran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1feop1k/lifetime_ai_toolsmoney_saver_or_just_hype/</guid>
-      <pubDate>Wed, 11 Sep 2024 23:44:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
