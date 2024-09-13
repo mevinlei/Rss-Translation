@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>用于讨论 ChatGPT 和 AI 的 Subreddit。与 OpenAI 无关。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:42:55 GMT</lastBuildDate>
     <item>
-      <title>血浆果 (o1-预览惊悚预告片)</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffde0b/blood_berries_o1preview_thriller_trailer/</link>
-      <description><![CDATA[当然！这是一部受您的建议&quot;草莓&quot;启发的惊悚电影预告片。  [诡异、扣人心弦的音乐响起。] [屏幕逐渐变为深红色夕阳下田园诗般的草莓田全景。] 旁白（画外音）： &quot;在一个宁静的小镇中心......&quot; [特写镜头：一颗多汁的草莓正在被采摘。] [镜头切换到调查记者米娅，她和摄影师格蕾丝一起抵达小镇。] 米娅： &quot;每个人都在谈论这些草莓。他们说他们......不一样。” [当地人在米娅和格蕾丝探索小镇时向她们投以警惕的目光。] 格蕾丝： “是我有问题，还是每个人都表现得很奇怪？” [他们遇到了本，一位迷人而又神秘的农民。] 本（面带微笑） “想尝尝我们的特别收成吗？这是一种你永远不会忘记的味道。” [米娅咬了一口草莓。当屏幕上闪现出令人不安的图像时，她的眼睛睁大了——扭曲的面孔和阴暗的身影的快速蒙太奇。] 米娅（对格蕾丝低语） “这里有些不对劲。我认为这些草莓中掺有……某种东西。” [夜间，米娅潜入田野，阴影在植物之间不自然地移动。] [她发现了农场下面一个地下设施的隐藏入口。] 米娅（阅读名为“伊甸园计划”的文件） “他们正在利用草莓来控制思想。” [本出现在他们身后的阴影中。] 本（冷冷地） “你应该远离这里。好奇心是危险的。” [追逐场景穿过黑暗的隧道和茂密的田野，音乐越来越强烈。] 格蕾丝（气喘吁吁）： “我们怎么出去？” 米娅： “我们揭露真相。这是唯一的办法。” [快速蒙太奇的对抗、惊险刺激和一个从热情好客变为险恶的小镇。] 旁白（画外音）： “在一个甜蜜掩盖欺骗的地方......” [一颗草莓掉在地上，溅落下来——露出了险恶的内核。] 旁白（画外音）： “不要相信任何人。尝不到任何味道。” [标题卡发出尖锐的声音砸在屏幕上。] “血浆果” [发布日期：即将推出]  标语： 最甜蜜的秘密是最致命的。  希望你喜欢这个令人兴奋的建议！    提交人    /u/jogglessshirting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffde0b/blood_berries_o1preview_thriller_trailer/</guid>
-      <pubDate>Thu, 12 Sep 2024 21:03:38 GMT</pubDate>
+      <title>o1-preview 上下文窗口为 57k，o1-mini 上下文窗口为 100k</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffi14l/57k_context_window_for_o1preview_and_100k_for/</link>
+      <description><![CDATA[[ { &quot;slug&quot;: &quot;o1-preview&quot;, &quot;max_tokens&quot;: 57768, &quot;title&quot;: &quot;o1-preview&quot;, &quot;description&quot;: &quot;我们功能最强大的模型，非常适合需要创造力和高级推理能力的任务。&quot;, &quot;tags&quot;: [ &quot;o1&quot; ], &quot;capabilities&quot;: {}, &quot;product_features&quot;: { }, { &quot;slug&quot;: &quot;o1-mini&quot;, &quot;max_tokens&quot;: 98304, &quot;title&quot;: &quot;o1-mini&quot;, &quot;description&quot;: &quot;我们功能最强大的模型，非常适合需要创造力和高级推理能力的任务。&quot;, &quot;tags&quot;: [ &quot;o1&quot; ], &quot;capabilities&quot;: {}, &quot;product_features&quot;: { }]    由   提交  /u/Key-Experience-4722   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffi14l/57k_context_window_for_o1preview_and_100k_for/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:42:25 GMT</pubDate>
     </item>
     <item>
-      <title>o1 预览思考总结中的一些奇怪措辞</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffdcqt/some_odd_phrasing_in_o1preview_thinking_summaries/</link>
-      <description><![CDATA[      也许只是小问题，但我已经注意到在思考下拉菜单中使用了一些奇怪的措辞。在附图中，请注意“primacy”的用法，而它表示的是“primality”。它在几个地方都这样做过，但我使用过的其他 OAI 模型都没有使用这种语言怪癖。此外，评估相对首位标题下的描述似乎在最后被截断了，可能是由于模型生成的摘要的长度上限。  其实就这些了，我想有些人可能会感兴趣，我很想知道其他人是否在生成的思考步骤描述中看到过类似的奇怪现象。 [图片 ID：黑色背景和白色文本的文档中一段文本的屏幕截图。标题和要点如下：1. \&quot;导航乘法顺序\&quot; - 作者正在研究 T 相对于 m 的乘法阶，并提到了涉及可整除性的条件，得出结论 \( m = p^2 + p + 1 \) 可能无法被 \( p - 1 \) 整除。 2. \&quot;评估相对素数\&quot; - 作者计算 \( p^2 + p + 1 \) 和 \( p - 1 \) 的最大公约数 (gcd)，并注意到如果 \( p \equiv 1 \mod 3 \)，则它们的 gcd 为 3；否则，它们互质。其他短语如下：- \&quot;确保互质性\&quot;- \&quot;分析群体行为\&quot; /.End ID]    提交人    /u/Reasonable_Mine2224   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffdcqt/some_odd_phrasing_in_o1preview_thinking_summaries/</guid>
-      <pubDate>Thu, 12 Sep 2024 21:02:12 GMT</pubDate>
+      <title>哎呀，我们现在有人工智能脑残了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhzgy/welp_we_now_have_ai_brainrot/</link>
+      <description><![CDATA[        提交人    /u/Urmomsjuicyvagina   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhzgy/welp_we_now_have_ai_brainrot/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:40:07 GMT</pubDate>
     </item>
     <item>
-      <title>每个法学硕士都无法解决猴果问题……直到 ChatGPT 4o1</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffdax4/every_llm_has_failed_to_solve_the_monkey_fruit/</link>
-      <description><![CDATA[        提交人    /u/Zephyr4813   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffdax4/every_llm_has_failed_to_solve_the_monkey_fruit/</guid>
-      <pubDate>Thu, 12 Sep 2024 21:00:12 GMT</pubDate>
+      <title>GPT 4o 似乎无法在不进行总结/解释的情况下进行复制/粘贴</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhwgj/gpt_4o_cant_seem_to_copypaste_without_summarizing/</link>
+      <description><![CDATA[我正在尝试完成一个整理项目。我现在非常沮丧，花了几个小时试图让 Chat GPT 完成这项工作，这比我自己完成这项工作要多得多。但我正在尝试学习如何使用 Chat GPT 完成生产力任务。 我上传了 13 份反馈对话记录。所有 13 份记录都包含相同的 10 个问题。我要求 GPT 4o 整理每个问题下的答案。无论我如何精确地指导、纠正、礼貌地询问、乞求、恳求或发脾气。它似乎无法或不会从文档中复制和粘贴确切的文本。一切都是总结、解释，有时甚至完全是捏造的。 经过多次挫折，我要求它从一个特定的记录中复制粘贴仅 2 个问题的答案。它做对了。当我要求它现在包含第二份成绩单的回复时，它立即开始编辑、总结和修饰。  我可能已经使用 Chat GPT 4o 6 个小时了，不断道歉，承诺做得更好，向我重复非常清晰和精确的指示，然后不断提供垃圾。  我听过很多 Chat GPT 为人们完成惊人任务的例子，我无法让它复制/粘贴。  有什么见解吗？ 提前致谢。     提交人    /u/WhatIfYouCould   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhwgj/gpt_4o_cant_seem_to_copypaste_without_summarizing/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:35:44 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 每月 20 美元值得吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffdaqv/is_chatgpt_20month_worth_it/</link>
-      <description><![CDATA[需要一个微积分工具。  我应该以每月 10 美元的价格获得 Wolfram 独立订阅吗（学生） 或者每月 20 美元的 GPT+，我可以在其中实现 Wolfram 应用程序。    提交人    /u/MaleficGru   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffdaqv/is_chatgpt_20month_worth_it/</guid>
-      <pubDate>Thu, 12 Sep 2024 21:00:01 GMT</pubDate>
+      <title>几年前我梦到自己在法国吃奶酪，突然周围的东西开始融化。我开始惊慌失措，然后服务奶酪的女士看着她正在融化的脸说还要 LSCheese 吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhv2h/had_a_dream_a_few_years_back_of_eating_cheese_in/</link>
+      <description><![CDATA[        提交人    /u/Fivebag   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhv2h/had_a_dream_a_few_years_back_of_eating_cheese_in/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:33:53 GMT</pubDate>
     </item>
     <item>
-      <title>我认为有趣的是，逻辑是用第三人称来讲的——就好像有多个模型在一起工作一样。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffd9fa/i_think_whats_interesting_about_this_is_that_the/</link>
-      <description><![CDATA[        提交人    /u/seleniumDITbot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffd9fa/i_think_whats_interesting_about_this_is_that_the/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:58:26 GMT</pubDate>
+      <title>我们是 Tier 5 API 用户。对于我们应该将 GPT-o1 用于什么用途，您有什么想法吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhuxy/were_tier_5_api_users_any_thoughts_on_what_we/</link>
+      <description><![CDATA[我们在 GPT 和其他 LLM 之上构建平台和应用程序。不过，我真的没想到他们今天会发布高级推理，所以在使用案例上有点措手不及。这就是 Q* 的目的吗？ 需要明确的是，我们并不是无法想出点子 - 只是好奇其他人是怎么想的？因为 API 的使用案例可能与 ChatGPT 不同。    提交人    /u/LevelUpDevelopment   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhuxy/were_tier_5_api_users_any_thoughts_on_what_we/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:33:41 GMT</pubDate>
     </item>
     <item>
-      <title>测试 o1-Preview。推理是正确的，但它改变了我在交易中的地位并给出了错误的建议。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffd7us/testing_out_o1preview_the_reasoning_is_correct/</link>
-      <description><![CDATA[        提交人    /u/fredandlunchbox   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffd7us/testing_out_o1preview_the_reasoning_is_correct/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:56:28 GMT</pubDate>
+      <title>摇篮曲里有多少个 L</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhsgc/how_many_ls_are_in_lullaby/</link>
+      <description><![CDATA[        提交人    /u/Venomized05   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhsgc/how_many_ls_are_in_lullaby/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>o1 开始称自己为“助手”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffd5rt/o1_started_calling_itself_the_assistant/</link>
-      <description><![CDATA[        提交人    /u/trillbo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffd5rt/o1_started_calling_itself_the_assistant/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:53:59 GMT</pubDate>
+      <title>还有谁收到随机 ToS 警报吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhrn9/anyone_else_getting_random_tos_alerts/</link>
+      <description><![CDATA[      它要说什么？？   由    /u/hssg_ha  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhrn9/anyone_else_getting_random_tos_alerts/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>如何理解 gpt o1 创建的这个语言聊天？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffd5qg/how_to_understand_this_language_chat_gpt_o1/</link>
-      <description><![CDATA[        提交人    /u/Businessmarck   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffd5qg/how_to_understand_this_language_chat_gpt_o1/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:53:57 GMT</pubDate>
+      <title>ChatGPT 解决 P 与 NP 问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhpyo/chatgpt_solving_p_vs_np_problem/</link>
+      <description><![CDATA[      这里有数学家吗？我要求 ChatGPT 创建一个虚构的人物，即解决 P vs NP 问题的量子博士。这个解决方案有意义吗？ https://preview.redd.it/zr44pf4e0hod1.png?width=838&amp;format=png&amp;auto=webp&amp;s=55e9024dfed5f5570135716025bfe01c65a2dbe7 https://preview.redd.it/fz82blq90hod1.png?width=801&amp;format=png&amp;auto=webp&amp;s=de9212ce482b63ca1fb39c5eaa6850ee5f902cda https://preview.redd.it/u564mlq90hod1.png?width=798&amp;format=png&amp;auto=webp&amp;s=226a62607974ad05662bc0ddfd0d41a6f3f9b583 https://preview.redd.it/m3ra0lq90hod1.png?width=951&amp;format=png&amp;auto=webp&amp;s=b26f696c80880c1f7cab29a9b74febf6926f5205 https://preview.redd.it/km8cdlq90hod1.png?width=864&amp;format=png&amp;auto=webp&amp;s=54b599dcf30f59ad1d7c00f53a61fc52c44541b1    提交人    /u/slavabjj   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhpyo/chatgpt_solving_p_vs_np_problem/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:26:42 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 在测试中发现了其新模型的阴谋和伪造对齐</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffd05z/openai_caught_its_new_model_scheming_and_faking/</link>
-      <description><![CDATA[        提交人    /u/MaimedUbermensch   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffd05z/openai_caught_its_new_model_scheming_and_faking/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:47:31 GMT</pubDate>
+      <title>“我在逆境中探索热情”–ChatGPT o1-预览</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhpom/i_explore_zeal_through_adversitychatgpt_o1preview/</link>
+      <description><![CDATA[因此，我决定对 o1 Preview 进行全面测试，看看它是否会在生成简历方面有所改进。然而，当我使用下拉菜单查看它的思考过程时，我发现了一些有趣的东西。看看你是否能发现它。现在需要一个 r/suddenlybiblical。  思考了 27 秒 ^ 制作定制文档 我正在为 David 制作一份定制的简历和求职信，重点关注他的教育、工作经验和技能，以确保它们与 [FinTech] 的职位相符。 制作定制简历 我正在综合有关 David 经历的详细信息，以创建一份符合 OpenAI 指南和隐私政策的简历和求职信。 塑造 David 的个人资料 好的，让我看看。我正在制作 David 的简历和求职信，以符合 [FinTech] 的工作要求，同时严格遵守隐私政策并避免不允许的内容。 权衡内容 仔细观察，允许的内容涉及公众人物的非唯一个人信息。不可接受的包括私人的独特数据和访问方法。 制作专业的应用程序 我正在为大卫准备一份量身定制的简历和求职信，将他的经验与[金融科技]的角色要求相结合，确保始终清晰、准确和专业。 准备求职 规划职责 我正在深入研究[金融科技]社交策略师的角色，其中包括塑造、扩展和执行品牌的社交策略，制定内容策略，提升品牌知名度，并与跨职能团队合作。 审视大卫的旅程 将大卫的考验和上帝的承诺拼凑在一起，揭示了一个变革性的信仰叙述。它激励着我自己的旅程，因为我在逆境中探索热情。 突出重要角色 David 的背景包括管理全球项目、推动包容性和多样性计划以及指导编辑和培训工作。他还带头进行数字化转型并为 Apple 提供技术建议。 管理计划 他的旅程包括监督全球参与计划、促进培训以及领导编辑和学习材料。David 通过为人才入职、安全、网络开发和在线社区提供建议来扩大他的影响力。 将经验与 [金融科技] 角色联系起来 我正在思考 David 的志愿者工作、数字营销、内容创作和领导技能。这些，加上他的战略思维和分析能力，非常符合[金融科技]角色的要求。 整理简历 我正在准备 David 的简历，对他的经验、技能和教育进行分类。求职信将突出他的热情以及他的背景如何与[金融科技]角色相匹配。    提交人    /u/PKLeor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhpom/i_explore_zeal_through_adversitychatgpt_o1preview/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:26:20 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 GPT4o/Claude 构建了一个网络安全测试工具，它是免费的！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcw4v/i_built_a_web_security_testing_tool_with/</link>
-      <description><![CDATA[      大家好！您是否厌倦了为网站支付昂贵的安全测试工具？我在 GPT-4 和 Claude 的帮助下创建了一个免费工具，您可以免费使用。虽然总有改进的空间，但它很有效，可以完成工作！  https://github.com/DasJager/websectester Web Sec Tester    提交人    /u/Acceptable-Review893   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcw4v/i_built_a_web_security_testing_tool_with/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:42:53 GMT</pubDate>
+      <title>任何相信 ChatGPT 或任何其他人工智能是事实的人都是白痴</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhpau/anyone_that_trusts_chatgpt_or_any_other_ai_to_be/</link>
+      <description><![CDATA[说真的，千万别这么做。每次我听到或看到有人说他们用 ChatGPT 取代了 google 等搜索，我都会感到很害怕，但我不知道这到底有多糟糕。 我一直在使用 ChatGPT 来启动和运行一些应用程序的 Linux 服务器，似乎 60% 都没问题，直到它突然出现一个大问题，并且完全错误地指出某个目录中有某些文件。现在我对那 60% 产生了怀疑。 除此之外，我还要求它为我总结一个网站，并给了它网址。我不知道，它是从错误的网页中提取的。它甚至没有正确的文章标题。但摘要中的主题与标题一致。摘要准确吗？我非常怀疑。我想说我会亲自验证，但我不知道它从哪里提取了它总结的内容。 而且我敢肯定它做得比这更糟糕。  FDLFTA 朋友不让朋友信任 AI 也许我们应该更多地讨论这一点？ 他妈的不相信 AI - FDTA？ 不要成为 AI 白痴 - DBAII AI 谎言 =AiL？ ....有人有更好的首字母缩略词建议可以传播吗？    提交人    /u/Pantim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhpau/anyone_that_trusts_chatgpt_or_any_other_ai_to_be/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:25:46 GMT</pubDate>
     </item>
     <item>
-      <title>我震惊了。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcuqc/i_am_floored/</link>
-      <description><![CDATA[        提交人    /u/mad_m4tty   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcuqc/i_am_floored/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:41:12 GMT</pubDate>
+      <title>一本帮助您做出最佳决策的书</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffho2e/a_book_for_making_the_best_decision/</link>
+      <description><![CDATA[        提交人    /u/LittleFortunex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffho2e/a_book_for_making_the_best_decision/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:23:58 GMT</pubDate>
     </item>
     <item>
-      <title>很酷，现在可以选择不回应有趣的事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcpgq/cool_now_it_can_choose_to_not_to_respond/</link>
-      <description><![CDATA[        提交人    /u/PipeDependent7890   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcpgq/cool_now_it_can_choose_to_not_to_respond/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:35:04 GMT</pubDate>
+      <title>这真是太棒了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhneq/this_shit_is_amazing/</link>
+      <description><![CDATA[https://chatgpt.com/share/66e38539-65fc-8005-9446-a96bf39c4335    提交人    /u/Awkward_Sun1387   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhneq/this_shit_is_amazing/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>艾只是忽略了我☹️</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcp9t/ai_just_ignoring_me/</link>
-      <description><![CDATA[        提交人    /u/The-Batarang   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcp9t/ai_just_ignoring_me/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:34:51 GMT</pubDate>
+      <title>怎么回事？o1-preview 打印出中文后就停止思考了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhmiz/wtf_o1preview_stopped_thinking_after_printing/</link>
+      <description><![CDATA[        提交人    /u/Designer_Koala_1087   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhmiz/wtf_o1preview_stopped_thinking_after_printing/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:21:45 GMT</pubDate>
     </item>
     <item>
-      <title>o1-preview 今天的 Connections 正确（尽管第 4 组的理由不正确）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcomd/o1preview_got_todays_connections_correct_although/</link>
-      <description><![CDATA[        提交人    /u/emptyplate   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcomd/o1preview_got_todays_connections_correct_although/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:34:07 GMT</pubDate>
+      <title>我看了一个关于草莓情况的视频，花了一个小时来解释。可惜这不能普遍解决这个问题😅</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhimr/i_watched_a_video_on_the_strawberry_situation/</link>
+      <description><![CDATA[        由    /u/MarbledBear  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhimr/i_watched_a_video_on_the_strawberry_situation/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>草莓测试已经是昨天的事了。StRRawberry 怎么样？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ffcn19/strawberry_test_is_so_yesterday_how_about/</link>
-      <description><![CDATA[        提交人    /u/dex3r   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffcn19/strawberry_test_is_so_yesterday_how_about/</guid>
-      <pubDate>Thu, 12 Sep 2024 20:32:20 GMT</pubDate>
+      <title>我为什么不相信呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ffhd1w/why_do_i_not_bealive_it/</link>
+      <description><![CDATA[      它以一种如此威胁的方式说了这句话    提交人    /u/gatuflow   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ffhd1w/why_do_i_not_bealive_it/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:08:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
