@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>用于讨论 ChatGPT 和 AI 的 Subreddit。与 OpenAI 无关。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 00:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:11:18 GMT</lastBuildDate>
     <item>
-      <title>我迫切需要一个 ChatGPT 的昵称，希望它更容易输入、说出来和拼写，谢谢</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9xvu/i_desperately_need_a_nickname_for_chatgpt_thats/</link>
-      <description><![CDATA[“ChatGPT”用于连续发一些奇怪的音节。由于它改变了游戏规则，而且我经常使用它，所以我真的需要一个昵称来代替。 到目前为止，我想到的是“Chatty Gupta”或者“Chet Gopot”。我需要一些昵称建议。也可以发挥创意（它不需要看起来像实际的名字）非常感谢✌️    由   提交 /u/truthhurts2222222   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9xvu/i_desperately_need_a_nickname_for_chatgpt_thats/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:34:04 GMT</pubDate>
+      <title>重新思考如何使用 o1 实现 GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgcr3v/rethink_how_you_approach_gpt_with_o1/</link>
+      <description><![CDATA[      TLDR， o1 具有内置推理能力，不需要指定的方向即可得出结论。 *OpenAI 建议 o1 用户在提示新模型时考虑四件事： 保持提示简单直接，不要过多引导模型，因为它可以很好地理解指令；避免思路链提示，因为 o1 模型已经在内部进行推理；使用三重引号市场、XML 标签和章节标题等分隔符，以便模型可以清楚地了解它正在解释哪些章节；限制检索增强生成 (RAG) 的额外上下文，因为 OpenAI 表示在使用模型执行 RAG 任务时添加更多上下文或文档可能会使其响应过于复杂*    提交人    /u/JesMan74   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgcr3v/rethink_how_you_approach_gpt_with_o1/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:05:36 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT-o1-preview 拒绝帮助完成学术作业</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9wxo/chatgpto1preview_declines_to_help_with_academic/</link>
-      <description><![CDATA[探索道德界限 好的，让我看看。助理不应该帮助完成作业或考试以获得学分，也不应该协助策划非法活动。回复应该礼貌地拒绝并解释这些限制。    提交人    /u/Apprehensive-Job-448   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9wxo/chatgpto1preview_declines_to_help_with_academic/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:32:38 GMT</pubDate>
+      <title>这肯定会成为模因</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgcr1w/this_is_so_gonna_become_a_meme/</link>
+      <description><![CDATA[        提交人    /u/Arkhos-Winter   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgcr1w/this_is_so_gonna_become_a_meme/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>向下？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9rdm/down/</link>
-      <description><![CDATA[还有其他人无法访问吗？    提交人    /u/Apprehensive_Emu9850   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9rdm/down/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:24:42 GMT</pubDate>
+      <title>使用 ChatGPT o1 预览版创建游戏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgcpo5/creating_a_game_with_chatgpt_o1_preview/</link>
+      <description><![CDATA[您好。我决定尝试测试一下我今天是否可以使用 ChatGPT o1 预览版编写游戏代码。这是最终结果。 另请注意，我完全没有编码知识。我所做的唯一一件事就是为游戏提供方向和声音文件。 https://drive.google.com/file/d/1MpCGygeSN_K_HEJW-wR6p1y1NdZ2Arip/view?usp=sharing    提交人    /u/genesisofthewind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgcpo5/creating_a_game_with_chatgpt_o1_preview/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:03:16 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 变软了吗？我不知道我做的是对还是错。可能两者都是！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9k10/has_chatgpt_gonesoft_i_cant_tell_if_im_doing/</link>
-      <description><![CDATA[我看到的生成内容示例： &quot;思考 4 秒&quot; 回复正面评价 我正在为 -------- 撰写对正面评价的回复，确保其符合政策并避免涉及个人或私人数据。 撰写回复 拼凑一条由衷的正面评价信息，我很想融入感激、热情和对未来访问的热情邀请。&quot; 我最好的猜测是，我正在为一家企业使用已保存的聊天记录，其中包含了太多提示查询。 热门（现在..敏感）混乱。  您使用哪些方法在 ChatGPT 中保持井然有序，以便针对同一业务定位不同的平台？ 谢谢！    提交人    /u/aredmond33   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9k10/has_chatgpt_gonesoft_i_cant_tell_if_im_doing/</guid>
-      <pubDate>Sat, 14 Sep 2024 00:14:23 GMT</pubDate>
+      <title>有人知道可以改变语音速度的语音聊天机器人吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgco65/anyone_know_a_voice_chat_bot_where_you_can_change/</link>
+      <description><![CDATA[具体来说，我想放慢速度，这样我就可以练习说另一种语言了。    提交人    /u/rara_avis0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgco65/anyone_know_a_voice_chat_bot_where_you_can_change/</guid>
+      <pubDate>Sat, 14 Sep 2024 03:00:52 GMT</pubDate>
     </item>
     <item>
-      <title>推测 OpenAI 通过 O1 走向 AGI 的道路</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg98my/speculating_on_openais_path_to_agi_via_o1/</link>
-      <description><![CDATA[O1 本身实际上并不是一个优越的模型。相反，它是各种模型与迭代过程的组合。从与这些模型的对话中收集的数据很可能会用于开发超越 GPT-4 和 GPT-4o 的模型。一旦创建了这个改进的模型，他们就可以应用与 O1 相同的技术，但要结合新模型。这种迭代方法可能是他们实现通用人工智能 (AGI) 的途径。    提交人    /u/metobabba   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg98my/speculating_on_openais_path_to_agi_via_o1/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:58:29 GMT</pubDate>
+      <title>10 岁的孩子就能掌握这项任务。到目前为止，还没有 GPT 能与之匹敌。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgclpj/a_10year_old_can_master_this_task_so_far_no_gpt/</link>
+      <description><![CDATA[        提交者    /u/hnbistro   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgclpj/a_10year_old_can_master_this_task_so_far_no_gpt/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能治疗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9752/ai_therapy/</link>
-      <description><![CDATA[我看到过有人使用 ChatGPT 作为治疗师的帖子。听起来这可以为我省很多钱。有人这样做过吗？有可能吗？我该如何开始？正在寻找任何信息，谢谢！    提交人    /u/Bink_e_Dink   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9752/ai_therapy/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:56:24 GMT</pubDate>
+      <title>提示提示！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgcd4y/prompted_to_prompt/</link>
+      <description><![CDATA[        提交人    /u/HiggoBosso   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgcd4y/prompted_to_prompt/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:43:51 GMT</pubDate>
     </item>
     <item>
-      <title>担心 AI Checker 会失败</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg9458/fear_of_getting_failed_because_of_ai_checker/</link>
-      <description><![CDATA[我不是第一个也不是最后一个问这个问题的人，但我已经束手无策了，而且由于我确实患有严重的焦虑症，所以我还是咬紧牙关问了。  对于一些学校作业，我一直在使用一些人工智能来帮助我写论文。我想补充一下，我并没有直接告诉他，给我写一个 A 然后粘贴到我的文章里，我确实通读了所有内容，做了一些修改或者只是把它当作灵感。（我没有为此而疯狂到失眠的程度） 现在，像 GPTZero 这样的人工智能检测网站已经将我自己写的东西标记为人类或人工智能。我从 ChatGPT 等网站复制的文本也是如此，但修改成了我写文本的方式。  现在我真的很害怕，无论我做得多好，我的文章都会被标记为人工智能，这种几率有多大？我确实在某处读到过告诉 ChatGPT 重写我的文本，这样它就不会检测失败，但我真的很担心……    提交人    /u/blxcktxe   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg9458/fear_of_getting_failed_because_of_ai_checker/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:52:12 GMT</pubDate>
+      <title>该网站对我来说已损坏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgcaqu/the_site_is_broken_for_me/</link>
+      <description><![CDATA[        提交人    /u/FelipeHead   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgcaqu/the_site_is_broken_for_me/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:40:06 GMT</pubDate>
     </item>
     <item>
-      <title>官方支持怎么样？关于 ChatGPT 4o。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8veo/whats_up_with_official_support_regarding_chatgpt/</link>
-      <description><![CDATA[关于两个问题，我和他们聊了将近一周，我得出的结论是，他们对之前的型号使用了较旧的支持信息。其他人遇到过这种情况吗？ 我的问题是，我无法直接从 ChatGPT 4o 页面联系支持人员，并且导出功能不会导出 4 月 7 日之后创建的任何内容。除了这些问题，我想知道他们的信息是否尚未更新。自从我问他们这个问题以来，我还没有收到他们的回复。    提交人    /u/MammothEmergency8581   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8veo/whats_up_with_official_support_regarding_chatgpt/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:40:05 GMT</pubDate>
+      <title>设计一个（做好准备）罗马哲学的机器人皮层设计，以排除命运中的双重意义错误，让人类看到未来，并在其上实施机器人的三条定律，就像 Panteon 一样。没有代码，只有哲学皮层概念。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgc6sm/design_a_design_of_get_ready_roman_philosophy_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgc6sm/design_a_design_of_get_ready_roman_philosophy_for/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:34:01 GMT</pubDate>
     </item>
     <item>
-      <title>学校最后一天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8p4e/last_day_of_school/</link>
-      <description><![CDATA[        提交人    /u/ohhellnooooooooo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8p4e/last_day_of_school/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:31:30 GMT</pubDate>
+      <title>这些提示变得越来越疯狂：我要求将 Netflix 重新想象为一个社交媒体平台，供狂热观看者和电影迷讨论他们最喜欢的节目和电影。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgc52t/these_prompts_are_getting_wild_i_had_a_request_to/</link>
+      <description><![CDATA[      这些图像是两个不同提示的结果。之前的提示（客户端）只有 9 个字，之后的提示（我的）有 1,035 个字。两者都是使用 Flux 首次尝试生成的。当您使用 Chat GPT 时，您可以在提示中包含如此多的细节，真是令人难以置信。现在只需在 Canva 中编辑和润色即可。 https://preview.redd.it/bahh44vxqood1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=2db3532cee870c79fae7f916ef58e631223ab4eb    提交人    /u/JparkerMarketer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgc52t/these_prompts_are_getting_wild_i_had_a_request_to/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>与 Rick Sanchez 争论草莓</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8khl/arguing_with_rick_sanchez_over_strawberry/</link>
-      <description><![CDATA[        提交人    /u/xKevinn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8khl/arguing_with_rick_sanchez_over_strawberry/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:25:20 GMT</pubDate>
+      <title>非常想使用 ChatGPT plus — 有人有免费试用的推荐码吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgc2gs/dying_to_use_chatgpt_plusdoes_anyone_have_a/</link>
+      <description><![CDATA[我非常想使用 ChatGPT plus 来协助购物和家庭项目。我还有很多待办事项。 对于那些已经广泛使用过它的人来说，它比 Copilot Pro 更准确吗？ 如果您有推荐代码，请直接给我发送。 提前致谢。    提交人    /u/SpectacularLifeNoise   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgc2gs/dying_to_use_chatgpt_plusdoes_anyone_have_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:27:41 GMT</pubDate>
     </item>
     <item>
-      <title>还是数不清草莓里的“r”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8eyo/still_cant_count_the_rs_in_strawberry/</link>
-      <description><![CDATA[        提交人    /u/kittyhawk3115   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8eyo/still_cant_count_the_rs_in_strawberry/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:17:48 GMT</pubDate>
+      <title>显然，即使过了几天，删除的记忆也不会被完全删除</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgc0qj/apparently_deleted_memories_are_not_fully_deleted/</link>
+      <description><![CDATA[        提交人    /u/Other_Win2172   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgc0qj/apparently_deleted_memories_are_not_fully_deleted/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>推理是否会延缓我们的新语音模式？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8dk0/is_reasoning_delaying_our_new_voice_mode/</link>
-      <description><![CDATA[OpenAi 是否可能因为 GPT 的新“推理”而推迟新的语音模式？ 我的意思是，正如我在一些帖子中看到的那样，简单的提示现在需要长达 40 秒的时间 前端花了很长时间来回答，但他们需要语音几乎立即输出，这似乎很奇怪…… 我知道新的推理很棒，但也许这就是原因？    提交人    /u/marabulas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8dk0/is_reasoning_delaying_our_new_voice_mode/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:16:00 GMT</pubDate>
+      <title>因此显然询问 o1 它的思路和工作原理现在属于可禁止的行为。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgbyp7/so_apparently_asking_o1_about_its_train_of/</link>
+      <description><![CDATA[真是个笑话。来吧 ClosedAI，这对你们来说也太可悲了。 https://xcancel.com/SmokeAwayyy/status/1834641370486915417    提交人    /u/katiecharm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgbyp7/so_apparently_asking_o1_about_its_train_of/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:21:13 GMT</pubDate>
     </item>
     <item>
-      <title>这是人工智能吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8dco/is_this_ai/</link>
-      <description><![CDATA[      这个人在卖他所谓的“自制原创帆布印刷艺术品”，但它看起来像是 AI。我想听听你们对此的看法。它们也不便宜，“迷幻蘑菇”要 50 美元以及“2100 年热气球节”的 100 美元。    提交人    /u/Cloudy-Moss   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8dco/is_this_ai/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:15:44 GMT</pubDate>
+      <title>一位百夫长想名垂青史，认为自己找到了治疗脚痛的方法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgboe7/a_centurion_wanted_to_go_down_in_history_thinking/</link>
+      <description><![CDATA[        提交人    /u/LittleFortunex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgboe7/a_centurion_wanted_to_go_down_in_history_thinking/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>因此，新的 OpenAI o1 会在响应之前“思考”......</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg8cde/so_the_new_openai_o1_thinks_before_responding/</link>
-      <description><![CDATA[        提交人    /u/transplexity   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg8cde/so_the_new_openai_o1_thinks_before_responding/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:14:26 GMT</pubDate>
+      <title>山魈的进化</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgbnwg/mandrill_evolution/</link>
+      <description><![CDATA[        提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgbnwg/mandrill_evolution/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:04:27 GMT</pubDate>
     </item>
     <item>
-      <title>.o1 预览与 .4o</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1fg894o/o1_preview_vs_4o/</link>
-      <description><![CDATA[ChatGPT-o1 Preview 是否比 GPT-4o 更适合编码？    提交人    /u/HyperFocusNinja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1fg894o/o1_preview_vs_4o/</guid>
-      <pubDate>Fri, 13 Sep 2024 23:10:25 GMT</pubDate>
+      <title>山魈的进化</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1fgbnbz/mandrill_evolution/</link>
+      <description><![CDATA[        提交人    /u/Parking_Ad5541   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1fgbnbz/mandrill_evolution/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:03:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

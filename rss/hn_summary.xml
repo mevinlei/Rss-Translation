@@ -4,7 +4,77 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 00:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:05:41 GMT</lastBuildDate>
+    <item>
+      <title>[媒体] “Haskell Postgres 存储过程”项目是用于 […] 的过程语言扩展</title>
+      <link>https://t.me/hn_summary/108308</link>
+      <description><![CDATA[Haskell Postgres 存储过程
+“Haskell Postgres 存储过程”项目是 PostgreSQL 的过程语言扩展，支持在 SQL 中执行 Haskell 代码。尽管 Haskell 是一种函数式语言，但 PostgreSQL 的术语将其归类为过程语言。此扩展允许用户（包括非特权用户）在 SQL 中编写、安装和运行 Haskell 函数。差异化功能包括支持“受信任”和“不受信任”语言变体，前者可确保非超级用户安全执行。该项目根据 GNU 通用公共许可证开源，并为 Fedora 和 Ubuntu 提供详细的安装说明。作者 Edward F. Behn, Jr. 创建该项目是为了个人娱乐和挑战，并通过电子邮件邀请反馈。 （根据 39% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108308</guid>
+      <pubDate>Sat, 14 Sep 2024 03:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 加州可能很快会要求在燃气灶上贴上类似于烟草制品的健康警告标签 [...]</title>
+      <link>https://t.me/hn_summary/108307</link>
+      <description><![CDATA[加州的燃气灶可能很快会贴上类似烟草的健康警告标签
+由于蓝色火焰会释放二氧化氮等污染物，加州可能很快会要求在燃气灶上贴上类似于烟草的健康警告标签。这项法案正在等待州长加文·纽森 (Gavin Newsom) 的签署，此前有诉讼针对燃气灶制造商未警告消费者健康风险。环保人士提倡使用电炉减少气候污染。厨师 Samin Nosrat 在家中一氧化碳含量过高后改用电磁炉。美国公共卫生协会和美国医学协会将燃气灶与呼吸问题联系起来。然而，家电制造商协会反对该法案，认为它将烹饪油烟与化石燃料污染混为一谈。这场争议在全国范围内蔓延，活动和诉讼都在推动类似的法规。 （根据 88% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/108307</guid>
+      <pubDate>Sat, 14 Sep 2024 01:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 网站：trieve.ai</title>
+      <link>https://t.me/hn_summary/108306</link>
+      <description><![CDATA[PGVector 缺少的功能
+标题：PGVector 缺少的功能
+网站：trieve.ai
+
+Trieve 的基础架构集成了 Postgres 和专用搜索引擎，但理想情况下，最好将 Postgres 单独与 pgvector 一起使用。但是，除了可扩展性之外，pgvector 还缺少几个关键功能。例如，它在处理涉及必需和否定词的查询时遇到困难，因为密集向量搜索不能很好地处理否定。Postgres 的 LIKE 查询可以部分复制这一点，但存在性能问题。此外，pgvector 缺乏可解释性，无法突出显示，这对于用户体验至关重要。过滤和排序查询也会出现性能问题，导致 pgvector 运行缓慢且繁琐。此外，pgvector 仅支持语义搜索，不支持全文搜索，这可能会疏远习惯于关键字搜索的用户。尽管存在这些缺点，但 pgvector 的简单性在某些情况下还是有优势的。如需更多见解，您可以通过电子邮件与我们联系或加入我们的 Discord 社区。]]></description>
+      <guid>https://t.me/hn_summary/108306</guid>
+      <pubDate>Sat, 14 Sep 2024 01:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站：arcprize.org</title>
+      <link>https://t.me/hn_summary/108305</link>
+      <description><![CDATA[OpenAI o1 在 ARC-AGI-Pub 上的结果
+标题：OpenAI o1 在 ARC-AGI-Pub 上的结果
+网站：arcprize.org
+
+在过去 24 小时内，我们在 ARC Prize 基准上测试了 OpenAI 的新 o1-preview 和 o1-mini 模型，这些模型旨在模拟推理。这些模型使用“思维链”（CoT）范式，在训练和推理过程中应用它以提高准确性。虽然 o1 的表现优于 GPT-4o，准确率与 Claude 3.5 Sonnet 相当，但实现这些结果所需的时间明显更长。关键创新在于 o1 能够在测试时改进推理标记，从而增强泛化能力和适应性。然而，与其他基准相比，该模型在 ARC-AGI 上的表现并不出色，这引发了人们对其可扩展性和效率的质疑。结果表明，虽然 o1 代表了向基于推理的 AI 的转变，但要实现真正的 AGI，仍然需要新的想法。]]></description>
+      <guid>https://t.me/hn_summary/108305</guid>
+      <pubDate>Sat, 14 Sep 2024 01:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 两名 NASA 宇航员驾驶波音公司的 Starliner 太空舱进行了首次载人测试 [...]</title>
+      <link>https://t.me/hn_summary/108304</link>
+      <description><![CDATA[Starliner 宇航员：我们发现了一些我们无法接受的事情
+在波音 Starliner 首次载人试飞中驾驶太空舱的两名 NASA 宇航员讨论了他们在飞船返回地球时被留在国际空间站 (ISS) 的经历。布奇·威尔莫尔 (Butch Wilmore) 和苏尼·威廉姆斯 (Suni Williams) 对乘坐 SpaceX 载人龙飞船返回地球的备用方案表示感谢。威尔莫尔指出，如果有更多的时间，他们可能已经解决了 Starliner 的问题，但国际空间站的时间限制使这成为不可能。NASA 和波音公司的风险评估不同，波音公司在某些方面存在分歧。尽管存在氦气泄漏和推进问题，但 Starliner 还是平安返回。两位宇航员都强调了太空任务的固有风险以及他们对改进 Starliner 的承诺。威廉姆斯强调了她对太空的热爱，尽管错过了家庭活动。宇航员们将参与未来的讨论，以应对星际航线面临的挑战。]]></description>
+      <guid>https://t.me/hn_summary/108304</guid>
+      <pubDate>Sat, 14 Sep 2024 00:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 2023 年 9 月，地震科学家检测到了前所未有的地震信号，m [...]</title>
+      <link>https://t.me/hn_summary/108303</link>
+      <description><![CDATA[“不明地震物体”震动地球九天——现在我们知道它是什么了
+2023 年 9 月，地震科学家探测到前所未有的地震信号，这是一种持续九天的单调嗡嗡声，从北极到南极洲都有记录。研究人员最初感到困惑，他们追踪到震源是格陵兰岛偏远的迪克森峡湾的一次大规模山体滑坡，那里巨大的岩石和冰块引发了 200 米高的巨型海啸和持续的地震。这一事件与气候变化引起的冰川变薄有关，凸显了全球变暖对地球地质的深远影响。这一发现发表在《科学》杂志上，涉及来自 40 个机构的 66 位科学家的合作。这一现象凸显了迫切需要新的科学方法来理解和应对气候变化的连锁效应。]]></description>
+      <guid>https://t.me/hn_summary/108303</guid>
+      <pubDate>Sat, 14 Sep 2024 00:45:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国政府正在严厉打击电子商务所利用的贸易漏洞 [...]</title>
+      <link>https://t.me/hn_summary/108302</link>
+      <description><![CDATA[美国打击电商集团 Temu 和 Shein 所利用的贸易漏洞
+美国政府正在打击电商巨头 Temu 和 Shein 所利用的贸易漏洞。这一漏洞允许这些公司将低价值商品直接运送给美国消费者而无需缴纳进口关税，从而使他们相对于国内零售商拥有不公平的竞争优势。此举旨在创造公平的竞争环境并确保公平的贸易行为。此举引发了争议，因为它可能会对这些快速增长的电商平台的商业模式产生重大影响。这种情况的独特之处在于关注现代电商实践及其与传统贸易法规的交集。]]></description>
+      <guid>https://t.me/hn_summary/108302</guid>
+      <pubDate>Sat, 14 Sep 2024 00:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 苹果在 iOS 18 中推出了一项新功能，将激活锁扩展到个人 [...]</title>
+      <link>https://t.me/hn_summary/108301</link>
+      <description><![CDATA[从 iOS 18 开始，被盗 iPhone 将变得更加无用
+Apple 在 iOS 18 中推出了一项新功能，将激活锁扩展到单个 iPhone 组件，该功能将于 2024 年 9 月 16 日推出。此更新通过唯一的序列号将电池、摄像头和显示器等部件链接到所有者的 Apple 帐户，增加了一层额外的安全性。当 iPhone 在维修过程中检测到二手部件时，它会要求原始设备所有者输入 Apple 帐户密码来验证该部件的合法性。此举旨在扰乱被盗 iPhone 零件市场并减少盗窃动机。虽然这增强了安全性，但可能会使某些维修变得复杂，尤其是涉及其他设备零件的维修。值得注意的是，此功能仅限于 iPhone，运行 iPadOS 18 的 iPad 无法使用。]]></description>
+      <guid>https://t.me/hn_summary/108301</guid>
+      <pubDate>Sat, 14 Sep 2024 00:44:38 GMT</pubDate>
+    </item>
     <item>
       <title>[媒体] 七年来，谷歌的雄心勃勃的项目旨在通过以下方式赋予人工智能物理形态[...]</title>
       <link>https://t.me/hn_summary/108300</link>
@@ -24,77 +94,6 @@
 800 多年前，波利尼西亚人航行到拉帕努伊岛，创造了以摩艾石像闻名的文化。一项针对其后代古代基因组的新研究推翻了欧洲前人口崩溃理论，该理论由贾雷德·戴蒙德 2006 年出版的《崩溃》一书广为传播。相反，研究表明，直到 19 世纪，人口一直保持稳定增长。该研究还证实了殖民前与美洲原住民的接触，遗传证据表明 14 世纪存在互动。这一发现得到了拉帕努伊社区的支持，挑战了之前的叙述，并强调了土著观点在科学研究中的重要性。]]></description>
       <guid>https://t.me/hn_summary/108299</guid>
       <pubDate>Sat, 14 Sep 2024 00:36:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 戈特弗里德·明德（Gottfried Mind）通常被称为“猫中的拉斐尔”，他提出了一个有趣的问题[...]</title>
-      <link>https://t.me/hn_summary/108298</link>
-      <description><![CDATA[戈特弗里德·明德，猫中的拉斐尔
-戈特弗里德·明德通常被称为“猫中的拉斐尔”，他提出了关于艺术创造力和灵感本质的有趣问题，尤其是在浪漫主义的背景下。与彼得·保罗·鲁本斯（Peter Paul Rubens）不同，后者兼顾多重角色并迎合皇室赞助人，19 世纪早期将这位艺术家视为一个被误解的孤独人物。这个时代的艺术家如威廉·布莱克（William Blake）和本杰明·罗伯特·海顿（Benjamin Robert Haydon）体现了这种悲剧性的局外人原型。明德的才华被认为更多是出于本能而非理性，他完全符合这一模式。他的作品和生活以梦幻般的内省为标志，难以轻易归类，就像他如此喜欢描绘的那些难以捉摸的猫一样。]]></description>
-      <guid>https://t.me/hn_summary/108298</guid>
-      <pubDate>Sat, 14 Sep 2024 00:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] arxiv.org 上的论文“EMP：增强数据修剪中的记忆”介绍了一种新方法 [...]</title>
-      <link>https://t.me/hn_summary/108297</link>
-      <description><![CDATA[EMP：增强数据修剪中的内存
-arxiv.org 上的论文“EMP：增强数据修剪中的内存”介绍了一种旨在提高内存效率的数据修剪新方法。作者提出了 EMP 方法，该方法策略性地修剪数据以保留基本信息，同时丢弃冗余或不太重要的数据。这种技术在内存资源有限的场景中特别有用，可提高整体系统性能。本文提供了详细的实验结果，证明了 EMP 在各种应用中的有效性。这项研究的独特之处在于它能够在不损害数据完整性的情况下平衡内存使用，从而使其成为数据管理领域的重大进步。]]></description>
-      <guid>https://t.me/hn_summary/108297</guid>
-      <pubDate>Fri, 13 Sep 2024 23:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型语言模型 (LLM) 已经改变了我们与信息的交互，同时确保 [...]</title>
-      <link>https://t.me/hn_summary/108296</link>
-      <description><![CDATA[借助 Data Commons 的帮助将 AI 应用于现实
-大型语言模型 (LLM) 已经改变了我们与信息的交互方式，但确保它们的响应基于可验证的事实仍然是一项重大挑战。现实世界知识的碎片化性质加剧了这一困难，这些知识分散在具有不同数据格式和 API 的各种来源中。这种缺乏基础可能会导致“幻觉”，即模型产生不正确或误导性的信息。我们的研究优先考虑构建负责任且值得信赖的 AI 系统，解决 LLM 中的幻觉对于这一使命至关重要。我们很高兴推出 DataGemma，这是一组实验性的开放模型，旨在使用来自 Google Data Commons 的大量现实世界统计数据为 LLM 奠定基础。 Data Commons 已经具备自然语言界面，DataGemma 利用该界面允许自然语言查询，从而简化对不同数据源的访问。这种创新方法有效地将 LLM 转变为外部数据的通用 API，解决了各种数据模式和 API 的挑战。]]></description>
-      <guid>https://t.me/hn_summary/108296</guid>
-      <pubDate>Fri, 13 Sep 2024 23:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：apnews.com</title>
-      <link>https://t.me/hn_summary/108295</link>
-      <description><![CDATA[波音星际客机宇航员在太空舱没有他们的情况下离开后发表讲话
-标题：波音星际客机宇航员在太空舱没有他们的情况下离开后发表讲话
-网站：apnews.com
-
-佛罗里达州卡纳维拉尔角（美联社）——宇航员布奇·威尔莫尔和苏尼·威廉姆斯对他们的波音星际客机太空舱在没有他们的情况下返回地球表示失望，他们的任务从八天延长到八个多月。美国宇航局认为由于推进器故障和氦气泄漏，太空舱风险太大。尽管遭遇挫折，两位宇航员都很好地适应了长期驻留，为空间站维护和实验做出了贡献。威廉姆斯很快将指挥空间站。他们欢迎新机组人员，并期待乘坐 SpaceX 太空舱返回。威廉姆斯强调了在一次任务中测试两艘航天器的独特机会，强调了他们作为测试人员的角色。波音公司参与 NASA 商业机组人员计划的未来仍不确定。]]></description>
-      <guid>https://t.me/hn_summary/108295</guid>
-      <pubDate>Fri, 13 Sep 2024 23:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 最近关于大脑衰老的研究，利用高通量血浆蛋白和大分子 [...]</title>
-      <link>https://t.me/hn_summary/108294</link>
-      <description><![CDATA[减缓大脑衰老速度
-最近利用高通量血浆蛋白和大量队列随访进行的大脑衰老研究揭示了大脑衰老速度在个体间和器官间存在显著差异。这些研究强调了与死亡率和可改变因素的关联。大脑衰老主要通过成像（例如 MRI）和深度学习模型（例如 Surreal-GAN）来测量。主要发现包括血糖调节（HbA1C）、生活方式因素以及空气污染和社会经济差异等环境影响的影响。值得注意的是，心肺健康和间歇性禁食有望减缓大脑衰老。突破性的血液生物标志物 p-Tau217 可预测阿尔茨海默病的风险。苏格兰的 NEURii 项目等令人兴奋的进展旨在进一步加深我们对大脑衰老的了解。这项研究强调了尽管衰老，但仍有可能保持大脑健康。
-
-争议：大脑衰老与社会经济不平等和健康差距之间的关联，尤其是拉丁美洲国家加速的老龄化，可能会引发争论。
-
-独特见解：使用深度学习模型和大规模队列研究来识别脑萎缩的具体模式及其与痴呆症的联系特别具有创新性。]]></description>
-      <guid>https://t.me/hn_summary/108294</guid>
-      <pubDate>Fri, 13 Sep 2024 23:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 英特尔公司</title>
-      <link>https://t.me/hn_summary/108293</link>
-      <description><![CDATA[英特尔达成 35 亿美元军用芯片生产协议
-据内部人士透露，英特尔公司已获得高达 35 亿美元的联邦拨款，用于为五角大楼生产半导体。此前，英特尔与美国官员在秘密安全飞地计划下达成了一项具有约束力的协议，旨在为军事和情报部门制造先进芯片。该计划包括亚利桑那州的生产设施，并延伸到多个州。这笔交易凸显了国内半导体生产对国家安全的战略重要性。]]></description>
-      <guid>https://t.me/hn_summary/108293</guid>
-      <pubDate>Fri, 13 Sep 2024 23:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 一个独立专家小组报告称，美国宇航局的老化设施是 [...]</title>
-      <link>https://t.me/hn_summary/108292</link>
-      <description><![CDATA[知名官员表示，NASA 设施是他们见过的“最差”设施之一
-一个独立专家小组报告称，NASA 老化的设施是他们见过的最糟糕的设施之一，其中 83% 的设施已超过设计寿命，维护积压金额达 33 亿美元。该小组由 Norm Augustine 担任主席，他强调，NASA 的预算限制迫使其优先考虑新任务而不是维护现有基础设施，导致情况恶化。尽管自 2010 年以来任务预算增加了 8%，但任务支持预算却下降了 33%，资源紧张。该报告呼吁国会建立一个用于维护的循环营运资金基金，类似于其他政府机构。这种情况尤其令人担忧，因为 NASA 正在执行像 Artemis 计划这样的复杂任务。]]></description>
-      <guid>https://t.me/hn_summary/108292</guid>
-      <pubDate>Fri, 13 Sep 2024 23:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 在苹果 9 月份的 Glowtime 活动上，首席执行官蒂姆·库克 (Tim Cook) 和硬件工程副总裁凯特·[...]</title>
-      <link>https://t.me/hn_summary/108291</link>
-      <description><![CDATA[售价 129 美元的 AirPods 4 具有售价 549 美元的 AirPods Max 所没有的功能
-在 Apple 9 月的 Glowtime 活动上，首席执行官 Tim Cook 和硬件工程副总裁 Kate Bergeron 公布了 AirPods 系列的重大更新，其中价格实惠的 AirPods 4 成为焦点。售价 129 美元的 AirPods 4 现在配备了先进的 H2 芯片，之前在 AirPods Pro 2 中出现过，可增强降噪和音质，并引入了 Siri 交互、自适应音频和对话感知等智能功能。令人惊讶的是，这些功能超越了更昂贵的 AirPods Max，后者仅进行了小幅更新，例如新颜色和 USB-C 连接。这种差异凸显了苹果的一个有争议的举动，导致其旗舰耳机在技术上处于劣势。]]></description>
-      <guid>https://t.me/hn_summary/108291</guid>
-      <pubDate>Fri, 13 Sep 2024 23:46:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
