@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 21:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:43:26 GMT</lastBuildDate>
+    <item>
+      <title>GitHub 和 Bitbucket 的 AI 代码审查 | Korbit AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</link>
+      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队努力工作的反馈，那将是一件不可思议的事情。 如果您有任何问题，请直接给我发问题，我希望您喜欢我们所有的辛勤工作，让您的代码审查变得更好。    提交人    /u/ItsRyeGuyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</guid>
+      <pubDate>Sat, 14 Sep 2024 00:38:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由开发者，你如何处理自定义域名和托管？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg9b3c/freelance_devs_how_do_you_deal_with_custom/</link>
+      <description><![CDATA[您是否告诉您的客户前往 X 网站购买自定义域名，然后自己在另一个网站上托管它？    提交人    /u/PsychologicalDraw909   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg9b3c/freelance_devs_how_do_you_deal_with_custom/</guid>
+      <pubDate>Sat, 14 Sep 2024 00:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg8t1l/need_help/</link>
+      <description><![CDATA[我修理电脑，并且拥有一家商店，每个月为我带来近 12k 的收入，最低收入（去年冬天）是 5k，最高收入（回到学校时）是 37k，听起来很多，但大多数情况下我几乎赚不到什么可观的利润，大部分利润都用于维持业务并支付我的 2 名工人的工资，其余的我自己留着，然后用于支付账单等  我一直在考虑建立一个网站，这样我就可以做广告并吸引更多的客户，我认为这会让我的业务在潜在客户眼中看起来更专业，有人可以给我一个好的预算网站构建器吗，让我可以用我的公司名称创建自己的域名，并显示价格等  我本来打算试试 wix，但我想先听听你们的意见，看看情况如何    提交人    /u/West_Ticket8495   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg8t1l/need_help/</guid>
+      <pubDate>Fri, 13 Sep 2024 23:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>从我的服务器到 ec2 的连接数很高...AmazonAWS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg7gmh/high_number_of_connections_from_my_server_to_ec2/</link>
+      <description><![CDATA[我有点不知所措，希望有人能给我指明正确的方向。 我发现过去几周的服务器负载比平时要高，而且总是有 2-3 个 httpd 连接，CPU 使用率很高。现在（下午 6:30），我有一个 httpd 连接使用了 19.6%，第二个使用了 15.0%，第三个使用了 9.6%。 当我在最大的一个上使用 lsof 时，我看到了很多这样的信息： # lsof -p 32767 httpd 32767 nobody 27u IPv4 1214989331 0t0 TCP myserver.name.com:https-&gt;ec2-174-129-103-109.compute-1.amazonaws.com:52182 (FIN_WAIT1)  （ec2- 后面的 IP 和我猜测的 : 后面的端口每一行都不同，但它们都说 compute.amazonaws.com 或 compute-[0-9].amazonaws.com) 这是否意味着我的服务器正在向 AmazonAWS 发送连接请求，或者它是某些东西使用 AmazonAWS 尝试连接到我的服务器？    提交人    /u/csdude5   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg7gmh/high_number_of_connections_from_my_server_to_ec2/</guid>
+      <pubDate>Fri, 13 Sep 2024 22:32:54 GMT</pubDate>
+    </item>
     <item>
       <title>solopreneur microapp PaaS 选择</title>
       <link>https://www.reddit.com/r/webdev/comments/1fg4j3k/solopreneur_microapp_paas_choice/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[嗨，我偶然发现了这个链接，我想用这个 API 创建有趣的项目。我不知道如何使用这些 API 并制作应用程序。  https://github.com/public-apis/public-apis?tab=readme-ov-file#books    提交人    /u/curiKINGous   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ffzvej/how_to_create_fun_projects_using_publicapi_github/</guid>
       <pubDate>Fri, 13 Sep 2024 17:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求使用 Google、FB、电子邮件注册等进行用户身份验证的后端端点（TypeScript、Express.js、MongoDB、OAuth + JWT）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffzt3v/seeking_backend_endpoints_for_user_authentication/</link>
-      <description><![CDATA[        由    /u/ClassicClarifier  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffzt3v/seeking_backend_endpoints_for_user_authentication/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 还是前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffyzv3/wordpress_or_front_end/</link>
-      <description><![CDATA[我对 Web 开发人员很感兴趣，但我不知道从哪里开始。在我的国家，有些公司正在寻找 WP。但是学什么更好呢？（我参加了一些前端研讨会，我擅长 HTML 和 CSS，但缺乏 JS。）    提交人    /u/Valuable_Ad1100   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffyzv3/wordpress_or_front_end/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我再次登录了页面，此时请叫我 Google</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffyy1v/i_did_my_sign_in_page_again_call_me_google_at/</link>
-      <description><![CDATA[        提交人    /u/ego100trique   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffyy1v/i_did_my_sign_in_page_again_call_me_google_at/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 CSS 中更改尺寸时图像地图混乱！需要帮助修复！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffymdy/image_map_messing_up_when_changing_size_in_css/</link>
-      <description><![CDATA[因此，我有一个正在使用的图像，我想在 CSS 中调整它的大小。图像地图已经制作好了，但是一旦我调整了它的大小，图像地图就不再起作用了。我需要帮助，这样当我使用 css 将其缩小时，图像地图就会调整到那个大小（它的坐标）。非常感谢您的帮助！我已经为此工作了好几个小时。 .site-menu { display: flex; justify-content: left; height: auto; width: 570px; padding: 50px 0 0 10px; }  我的 Main.CSS 文件 ^^^^ 下面是我的 Main.HTML 文件 ----&gt; 我还添加了用于项目这一特定部分的脚本。 &lt;div class=&quot;site-home&quot;&gt; &lt;!--带有集成图像映射的菜单--&gt; &lt;img class=&quot;site-menu&quot; src=&quot;img/menu.png&quot; usemap=&quot;#image-map&quot;&gt; &lt;map name=&quot;image-map&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;744,513,1254,577&quot; href=&quot;#&quot; alt=&quot;espresso&quot; data-item=&quot;Espresso&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;740,589,1253,653&quot; href=&quot;#&quot; alt=&quot;americano&quot; data-item=&quot;Americano&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;743,656,1252,721&quot; href=&quot;#&quot; alt=&quot;cafe latte&quot; data-item=&quot;Cafe Latte&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,724,1254,786&quot; href=&quot;#&quot; alt=&quot;cafe mocha&quot; data-item=&quot;Cafe Mocha&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,790,1254,847&quot; href=&quot;#&quot; alt=&quot;cappucino&quot; data-item=&quot;Cappucino&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,863,1252,918&quot; href=&quot;#&quot; alt=&quot;焦糖玛奇朵&quot; data-item=&quot;焦糖玛奇朵&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;243,1054,765,1115&quot; href=&quot;#&quot; alt=&quot;玛恰&quot; data-item=&quot;玛恰&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;241,1124,756,1183&quot; href=&quot;#&quot; alt=&quot;柑橘&quot; data-item=&quot;柑橘&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;241,1192,756,1257&quot; href=&quot;#&quot; alt=&quot;earl grey&quot; data-item=&quot;Early Grey&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;247,1264,759,1328&quot; href=&quot;#&quot; alt=&quot;paper mint&quot; data-item=&quot;Paper Mint&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;745,1490,1254,1552&quot; href=&quot;#&quot; alt=&quot;lemon cheese cake&quot; data-item=&quot;Lemon Cheese Cake&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,1570,1254,1622&quot; href=&quot;#&quot; alt=&quot;巧克力曲奇饼干&quot; data-item=&quot;巧克力曲奇饼干&gt; &lt;area shape=&quot;rect&quot; coords=&quot;741,1638,1256,1685&quot; href=&quot;#&quot; alt=&quot;软糖布朗尼&quot; data-item=&quot;软糖布朗尼&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,1705,1259,1760&quot; href=&quot;#&quot; alt=&quot;蓝莓松饼&quot; data-item=&quot;蓝莓松饼&gt; &lt;/map&gt; &lt;/div&gt; &lt;div class=&quot;cart&quot;&gt; &lt;h2&gt;cart:&lt;/h2&gt; &lt;ul id=&quot;cartList&quot;&gt;&lt;/ul&gt; &lt;button id=&quot;btn-ordernow&quot;&gt;立即订购&lt;/button&gt; &lt;/div&gt; &lt;script&gt; // 将选定商品添加到购物车 document.querySelectorAll(&#39;area&#39;).forEach(area =&gt; { area.addEventListener(&#39;click&#39;, function(event) { event.preventDefault(); const item = this.getAttribute(&#39;data-item&#39;); addItemToCart(item); }); }); // 添加添加到购物车功能 function addItemToCart(item) { const cartList = document.getElementById(&#39;cartList&#39;); const listItem = document.createElement(&#39;li&#39;); listItem.textContent = item; cartList.appendChild(listItem); } // 添加清空购物车功能 function clearCart() { const cartList = document.getElementById(&#39;cartList&#39;); cartList.innerHTML = &#39;&#39;; } // 添加事件监听器 document.getElementById(&#39;btn-ordernow&#39;).addEventListener(&#39;click&#39;, function() { clearCart(); // 发送成功消息 alert(&#39;订单已下达！&#39;); }); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;     submitted by    /u/moodersun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffymdy/image_map_messing_up_when_changing_size_in_css/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:12:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
