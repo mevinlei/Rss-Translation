@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Sep 2024 15:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:14:15 GMT</lastBuildDate>
+    <item>
+      <title>Passknight：多保险库、自托管密码管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fhergx/passknight_multivault_self_hosted_password_manager/</link>
+      <description><![CDATA[      嗨大家好！ 在过去的几个月里，我一直在从事这个项目。现在我认为已经完成了，我想得到一些反馈（特别是在加密和安全部分）。 Passknight 是一个自托管、多保险库密码管理器。后端、数据库和身份验证由 firebase 处理，每个保险库都是一个 firebase 用户。它支持 Android、Windows，也是一个浏览器扩展（用于基于 chromium 的浏览器）。 我不是安全专家，所以 Passknight 的安全措施很大程度上受到 bitwarden 实施的安全措施的启发。非常感谢大家对此的一些反馈，我想让它尽可能安全。我在 repo 的自述文件中写了更多关于安全措施的细节。 非常感谢任何反馈或问题！    提交人    /u/KryXus05   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fhergx/passknight_multivault_self_hosted_password_manager/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>FreeCAD 已进入 1.0 RC1 版本，任何人都可以测试其下一个重要版本！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Musescore 和 Audacity 确实不再是开源的。有没有真正的、无需付费或企业努力的音乐符号、混音等应用程序？    提交人    /u/shingi345   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fg1cqn/open_source_music_apps/</guid>
       <pubDate>Fri, 13 Sep 2024 18:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似 Wwise/FMOD 的音频中间件适合游戏开发吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ffyz2m/audio_middleware_like_wwisefmod_for_game_dev/</link>
-      <description><![CDATA[我希望有 Wwise 或 Fmod 的替代品用于游戏开发。我已经在使用 Godot、Audacity 和 Blender，并希望继续使用开源主题。 谢谢！    提交人    /u/_fernsssssss   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ffyz2m/audio_middleware_like_wwisefmod_for_game_dev/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:28:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
