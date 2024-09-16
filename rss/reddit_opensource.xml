@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 15:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 18:13:48 GMT</lastBuildDate>
+    <item>
+      <title>使用单个命令从给定的网站列表获取电子邮件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fi9tk9/get_emails_from_a_given_list_of_websites_with_a/</link>
+      <description><![CDATA[我目前正在自发发送申请以寻找实习机会，我厌倦了在网站上手动搜索电子邮件。因此，我创建了一个小脚本，用于查找电子邮件并使用 &lt;href&gt; 链接“浏览”网站。 用户输入只是一个带有 URL 的文件，脚本将扫描所有 URL！它还可以扫描单个 URL 而不是文件。 我相信这在很多方面都很有用，可用于各种目的。我不是一个经验丰富的程序员，但如果有人觉得这有用，我会很感激，即使只有一次！ 如果您愿意分享您的知识，我很乐意接受有关代码的任何建议！  https://github.com/past3ll3/emailFinder     由   提交  /u/Snoo_11846   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fi9tk9/get_emails_from_a_given_list_of_websites_with_a/</guid>
+      <pubDate>Mon, 16 Sep 2024 16:58:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个开源项目，可以在浏览器中裁剪和 OCR PDF</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fi9ryp/i_made_an_opensource_thing_to_crop_and_ocr_pdfs/</link>
+      <description><![CDATA[       由    /u/DareFail  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fi9ryp/i_made_an_opensource_thing_to_crop_and_ocr_pdfs/</guid>
+      <pubDate>Mon, 16 Sep 2024 16:57:17 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚发布了 ThreadsPipePy，这是一个使用官方 Meta 的 Threads API 的 Threads API 开源 Python 库</title>
       <link>https://www.reddit.com/r/opensource/comments/1fi1pl9/i_just_launched_threadspipepy_an_open_source/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>经过 3 个多月的工作，我刚刚推出了一个开源表单后端，它是 formspree、getform、formspark 等服务的替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</link>
-      <description><![CDATA[此工具允许您在电子邮件、电报等中接收表单提交。 GitHub 存储库在此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
+      <description><![CDATA[此工具可让您在电子邮件、电报等中接收表单提交。 GitHub 存储库位于此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</guid>
       <pubDate>Mon, 16 Sep 2024 01:36:18 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[        由    /u/ivosaurus 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</guid>
       <pubDate>Sun, 15 Sep 2024 14:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trello s*cks！我可以用什么来替代它？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fhcbzo/trello_scks_with_what_can_i_to_replace_it/</link>
-      <description><![CDATA[我正在运营一个小型非营利性开源团队。我们致力于一个项目，偶尔也会为邻近社区做贡献。我们希望以结构化的方式组织我们的任务。这包括明确的截止日期（我们使用 SCRUM）、子任务（用于跟踪大型功能同时打破其复杂性）以及带有代码语法突出显示的线程讨论，以便将所有相关信息汇总到单个位置。该工具还必须是公开的（互联网上的任何人都应该可以访问我们的论坛），因此我们对社区保持透明。  我一直在努力寻找满足上述所有要求的产品。您能推荐一些足够接近我们团队需求的应用程序吗？    提交人    /u/owl_from_hogvarts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fhcbzo/trello_scks_with_what_can_i_to_replace_it/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频剪辑转AI语音开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fh79se/audio_clip_to_ai_voice_open_source/</link>
-      <description><![CDATA[嗨，有没有什么开源工具可以在 Windows 或 Ubuntu 上安装，帮助我上传音频并将其转换为 AI 语音？类似于 Elevenlabs 的东西？它用于创建演示音频，声音不是很好。风格、英语等都很好。谢谢。    提交人    /u/Rajaene   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fh79se/audio_clip_to_ai_voice_open_source/</guid>
-      <pubDate>Sun, 15 Sep 2024 07:47:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
