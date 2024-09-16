@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 21:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 00:45:45 GMT</lastBuildDate>
     <item>
-      <title>我可以使用什么 AI 聊天从网络链接编译本地事件？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeic/what_ai_chat_can_i_use_to_compile_local_events/</link>
-      <description><![CDATA[我尝试了一些方法，甚至是这个 subreddit 上其他类似帖子中提到的方法。下面是我想使用的提示： “这里是列出本地发生的事件的网页列表。您能否将不同网页上的所有事件编译成按日期排序的 1 个列表？忽略已经过去的日期。” [链接 1] [链接 2] [链接 3]  ...&quot; Chat GPT 无法访问链接。我试过 Aaron 浏览器插件。它告诉我自己从每个站点收集事件数据并在提示中提供。Bing AI 只给我一般事件，没有实际信息。肯定有一个工具可以做到这一点，对吧？看起来很简单。我提供的每个链接都有易于识别的事件，标题和日期以及基本文本的简短描述。我的想法是，每次尝试查看我所在地区我特别感兴趣的不同企业、地点和组织的本地动态时，就重新生成该提示。我的手机上有一个文件夹，里面有这些网站的链接，一次打开一个真的很繁琐。所以我想找到一种方法来在一个地方查看所有这些信息。    提交人    /u/conn250   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeic/what_ai_chat_can_i_use_to_compile_local_events/</guid>
-      <pubDate>Sun, 15 Sep 2024 20:31:31 GMT</pubDate>
+      <title>生成动漫 AI 视频的最简单方法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhqn7t/easiest_way_to_generate_anime_ai_videos/</link>
+      <description><![CDATA[首先我要说的是，我对 AI 并不是很了解。我是一个写火影忍者同人小说的书呆子。我听说过文本到视频 AI 软件，我很好奇是否可以使用它来将我的同人小说变成视频。我查过，但对很多服务都不太了解。我想制作火影忍者动漫风格的视频，视频长度为 20 分钟左右。假设这是可能的，那么最好的服务是什么？我愿意花钱购买它。或者，如果有可以购买的软件可以实现我的目标，我也可以买一台新电脑来运行 AI。如果有必要，我愿意并且有能力在合理范围内学习更多。谢谢。    提交人    /u/MidasOfNerds   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhqn7t/easiest_way_to_generate_anime_ai_videos/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synthesia.IO 的竞争对手？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhqlnf/synthesiaio_competitors/</link>
+      <description><![CDATA[Synthesia.IO 允许您上传自己的视频。然后它会克隆您的声音和脸，您只需上传新脚本即可。遗憾的是，您无法更改背景或衣服。  还有哪些网站/应用程序允许您执行此操作？    提交人    /u/Disastrous-Theory648   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhqlnf/synthesiaio_competitors/</guid>
+      <pubDate>Sun, 15 Sep 2024 23:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能的未来还是仅仅是泡沫？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhog3c/ai_future_or_just_a_bubble/</link>
+      <description><![CDATA[很多人说人工智能将是未来，2028-2030 年我们将拥有 AGI。之后我们将需要某种全民基本收入。  其他人说这只是一种炒作，它会放慢速度，只会帮助我们完成任务。  你怎么看？ 查看投票    提交人    /u/Serious-Bear933   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhog3c/ai_future_or_just_a_bubble/</guid>
+      <pubDate>Sun, 15 Sep 2024 22:00:05 GMT</pubDate>
     </item>
     <item>
       <title>1,250 名出租车司机已被自动驾驶 Waymo 取代：他们能多快取代所有司机？</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[Waymo 宣布每周打车 10 万次，这意味着： 每小时打车 2 次： 10 万次打车 ÷ 每周 80 次 = 1,250 名全职司机流失 随着 Waymo 迅速扩张，我想知道在美国，所有出租车司机要多久才能被取代。2 年？5 年？ 所有被取代的司机会怎样？（例如，美国有 150 万名 Uber 司机）    提交人    /u/Excellent_Box_8216   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhmeg8/1250_taxi_drivers_already_replaced_by_autonomous/</guid>
       <pubDate>Sun, 15 Sep 2024 20:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>打造最便宜的人工智能视频平台——寻找另一位创始工程师</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjc7n/building_the_cheapest_ai_video_platform_looking/</link>
-      <description><![CDATA[就某些情况而言，它将是市场上最便宜的长篇 AI 视频平台（目前价格为 4 美元/小时）+ 未经审查。本质上，我和我的团队正在寻找另一位愿意与我们一起努力并利用这个市场的开发人员。最近获得了一些合作机会，并意识到有另一个人加入会很棒。如果您有任何问题，请给我发私信或发表评论 :)    提交人    /u/cobalt1137   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhjc7n/building_the_cheapest_ai_video_platform_looking/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:23:10 GMT</pubDate>
     </item>
     <item>
       <title>我讨厌人工智能广告</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[首先，不，这不是我的服务，也不是我的附属机构，但是，我已经使用他们的其他产品一段时间了，我真心认为它们很棒。他们最近推出了这款“匿名人工智能”服务，它是免费使用的（尽管我有一个 Premium，但我已经在私人窗口中测试过，以确保在发布之前）。请注意，我只使用了 2 天，所以对这篇文章持保留态度。 您可以将它与 Openrouter.ai 进行比较，只是它以隐私为导向，本质上是匿名的，而且在我看来，它的 UI 要好得多。 Hoody AI：每个 AI，一个仪表板，匿名。 这个概念相对简单，它们充当 OpenAI 的网关，Claude...通过拥有一个自定义仪表板与 LLM 交互，您不需要任何电子邮件或任何东西来注册，您可以在接下来的 30 秒内进行测试而无需提供任何信息。这很酷，因为你的 IP 从未泄露给 OpenAI，也没有任何分析，我发现 Claude 使用 Google Analytics 非常令人不安，这基本上意味着提示会发送到 Google 并与你的身份绑定，直到今天仍然如此。 您可以直接与最新型号聊天：Claude 3.5 Sonnet、GPT 4-o Mini、LLama3.1 405B......有几个型号可以免费使用，而其他型号似乎只有 Premium 才有，我不太确定实际的限制，但至少目前似乎很高。 为什么我认为人工智能中的隐私很重要？我（和我的整个团队）经常使用人工智能模型，但将其用于个人用途让我非常担心，这比永久存储谷歌搜索更糟糕，亲密对话或个人提示永远不应永久存储，或至少不应链接到您的身份，最近，有一些关于人工智能和隐私的严重问题的讨论，但公司采取的行动不够，我们也不能相信人工智能巨头会采取行动，毕竟，他们的整个商业模式都是基于数据收集的。 您可以立即尝试 Hoody AI，制作一个密钥，进入仪表板并单击 Hoody AI：https://hoody.com/ai 最大的优点：可以同时与多个模型对话，您可以编辑某个模型的响应提示，以便它可以为下一个响应进行自我修复，并认为它真的回答了这个问题，坦率地说，我觉得这个功能很棒。 严重缺点：没有提供 API，它不适合开发人员或大众使用，而更像是常规 AI 使用，出于开发目的，我不推荐这项服务，只需坚持使用 Claude/OpenAI API 密钥。我祈祷他们的支持会听取我的意见并吸引这些客户。    提交人    /u/HandleMasterNone   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7xcv/review_hoodycom_ai_beta_and_why_i_think_privacy/</guid>
       <pubDate>Sun, 15 Sep 2024 08:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>FastAgency 简介：从 AutoGen 工作流程部署控制台或 Web 应用程序的最快方法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7m0h/introducing_fastagency_the_fastest_way_to_deploy/</link>
-      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎贡献者:)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7m0h/introducing_fastagency_the_fastest_way_to_deploy/</guid>
-      <pubDate>Sun, 15 Sep 2024 08:12:11 GMT</pubDate>
     </item>
     <item>
       <title>我花了 3 年时间打造一个人工智能投资平台。我希望得到您的反馈</title>
