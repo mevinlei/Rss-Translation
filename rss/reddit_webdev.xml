@@ -3,12 +3,47 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 00:46:57 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 16 Sep 2024 03:19:31 GMT</lastBuildDate>
+    <item>
+      <title>Node 22.5.0 中的 5 个为什么以及“退出处理程序从未调用”的修复</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhutow/5_whys_and_the_fix_for_exit_handler_never_called/</link>
+      <description><![CDATA[        由    /u/fagnerbrack 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhutow/5_whys_and_the_fix_for_exit_handler_never_called/</guid>
+      <pubDate>Mon, 16 Sep 2024 03:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于企业网站的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhui37/question_about_corporate_websites/</link>
+      <description><![CDATA[我的问题尤其适用于受到严格监管的行业，例如医疗、能源、金融等。保存网站变更记录的标准做法是什么，尤其是涉及需要向公众通知的内容？    提交人    /u/srmcmahon   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhui37/question_about_corporate_websites/</guid>
+      <pubDate>Mon, 16 Sep 2024 02:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[为 HTML 电子邮件而苦恼？] 让我们讨论如何简化电子邮件模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhud3o/struggling_with_html_emails_lets_talk_about/</link>
+      <description><![CDATA[大家好， 我花了数年时间研究 HTML 电子邮件模板 — 让它们响应迅速且外观美观始终是一个挑战。这让我想知道这里的其他人是如何处理这个问题的。 我很好奇，您使用什么工具或方法来创建 HTML 电子邮件？您是从头开始编码，使用构建器还是依赖模板？您在设计、响应性或其他方面面临哪些挑战？ 我一直在研究一个使用 AI 来简化流程的附带项目（想想根据您的输入生成模板，无需编码）。如果您有兴趣，我很乐意得到一些反馈或想法 — 请随时给我发私信或在合适的时候查看！ 期待听到您的想法和经验。    提交人    /u/Leather_Ad_6035   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhud3o/struggling_with_html_emails_lets_talk_about/</guid>
+      <pubDate>Mon, 16 Sep 2024 02:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些方法可以预防这种情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhs4zz/what_are_ways_to_prevent_this/</link>
+      <description><![CDATA[      https://preview.redd.it/qz6am838k2pd1.png?width=274&amp;format=png&amp;auto=webp&amp;s=991e9c3676f81039d781ffed731728e43e03de0a 我知道 Lighthouse 分数并不能代表一切，但是我在我正在开发的 JS 库中看到了这些非常糟糕的数字，我想知道如何防止这种情况发生。    提交人    /u/_computerguy_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhs4zz/what_are_ways_to_prevent_this/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频付费网站托管帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhs0fy/video_pay_site_hosting_help/</link>
+      <description><![CDATA[我从 2008 年起就开始使用 bluehost，它是一个可以下载文件的基本网站，非常基础。但是现在只有 1TB（当时都是无限制的），尽管现在说没有限制，但他们似乎说我无法再上传任何文件，实际上一年前我的容量是 1.5TB，他们让我降低一点，应该没问题。 所以我想弄清楚如何让我的小型付费网站继续运行（我每月赚 100 美元），所以下载量大约是每月 30GB。 我的网站不像其他视频网站那样好，只是基本拍一张视频的照片并将缩略图放在网站上，通过 notepad ++ 手动附加链接（我也不介意尝试改进所有这些） 当有人注册时，paypal 部分会重定向到 1 个页面，使用手动设置的用户名/密码来访问包含所有视频的目录文件夹。 我想我每年要支付 400 美元，但我认为现在，他们的托管地点不适合这样的事情，可能需要搬走10 多年后 我希望有一种干净的方法来创建一个视频，然后上传，网站会自己把它放在一个带有自动缩略图和可下载按钮的页面上，位于真正的付费墙后面。    提交人    /u/japanb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhs0fy/video_pay_site_hosting_help/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>每个页面捆绑 js 和特定代码</title>
       <link>https://www.reddit.com/r/webdev/comments/1fhr820/bundled_js_and_specific_code_per_page/</link>
-      <description><![CDATA[大家好， 问这个问题我感觉有点不好意思，但是我刚刚开始在别人开发的一个网站上工作。该应用程序使用 Webpack 将所有 JavaScript 捆绑到一个 main.js 文件中，并且每个页面都会加载此文件。 问题是，捆绑包实例化了很多对象并包含了很多函数，甚至包括那些当前页面上未使用的函数。本质上，入口点如下所示： import $ from &#39;jquery&#39;; import Ajax from &#39;./ajax.js&#39;; import Cart from &#39;./cart.js&#39;; import Admin from &#39;./admin.js&#39;; import Audio from &#39;./audio.js&#39;; import Quiz from &#39;./quiz.js&#39;; export default class App { const () { this.audio = new Audio(); this.ajax = new Ajax(); this.quiz = new Quiz(); if (undefined !== window.session) { this.admin = new Admin(); this.cart = new Cart(); } } $(function () { window.app = new App(); });  我读到将 JavaScript 捆绑到单个文件中通常被认为是很好的做法。但是，我的问题是该网站有许多页面，每个页面都有特定的功能，并且它们之间并没有密切的联系。 查看当前代码，许多对象在每个页面上都进行了初始化，即使购物车页面与音频相关功能无关也是如此。 例如，quiz.js 文件如下所示： export default class Quiz { constrained() { this.elements = { tab: $(&#39;#QuizTab&#39;), quiz: $(&#39;#Quiz&#39;), questions: $(&#39;#Questions&#39;), valid: $(&#39;#Valid&#39;), }; this.handleActions(); } }  因此，即使我不在测验页面上，一些测验实例化代码也会运行。这不是什么大问题，但感觉可以处理得更好。我对 Web 开发还很陌生，所以如果这听起来很幼稚，请耐心听我说，但是您如何处理这种情况呢？ 这算是好的做法吗？我是否应该使用 Webpack 为页面特定功能创建更多入口点（从而创建更多文件），还是应该通过直接定位页面和延迟加载模块在 JavaScript 中处理此问题？ 感谢您的帮助，如果这看起来很明显，请见谅！    提交人    /u/MrDeagle80   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 问这个问题我感觉有点不好意思，但是我刚刚开始在别人开发的一个网站上工作。该应用程序使用 Webpack 将所有 JavaScript 捆绑到一个 main.js 文件中，并且每个页面都会加载此文件。 问题是，捆绑包实例化了很多对象并包含了很多函数，甚至包括那些当前页面上没有使用的函数。本质上，入口点如下所示： import $ from &#39;jquery&#39;; import Ajax from &#39;./ajax.js&#39;; import Cart from &#39;./cart.js&#39;; import Admin from &#39;./admin.js&#39;; import Audio from &#39;./audio.js&#39;; import Quiz from &#39;./quiz.js&#39;; export default class App { const () { this.audio = new Audio(); this.ajax = new Ajax(); this.quiz = new Quiz(); if (undefined !== window.session) { this.admin = new Admin(); this.cart = new Cart(); } } $(function () { window.app = new App(); });  我读到将 JavaScript 捆绑到单个文件中通常被认为是很好的做法。但是，我的问题是该网站有许多页面，每个页面都有特定的功能，而且它们之间并没有密切的联系。 查看当前代码，许多对象在每个页面上都进行了初始化，即使购物车页面与音频相关功能无关也是如此。 例如，quiz.js 文件如下所示： export default class Quiz { constrained() { this.elements = { tab: $(&#39;#QuizTab&#39;), quiz: $(&#39;#Quiz&#39;), questions: $(&#39;#Questions&#39;), valid: $(&#39;#Valid&#39;), }; this.handleActions(); } }  因此，即使我不在测验页面上，一些测验实例化代码也会运行。这不是什么大问题，但感觉可以处理得更好。我对 Web 开发还很陌生，所以如果这听起来很幼稚，请耐心听我说，但是您如何处理这种情况？ 这被认为是好的做法吗？我是否应该使用 Webpack 为页面特定功能创建更多入口点（从而创建更多文件）？还是我应该在 JavaScript 中通过直接定位页面和延迟加载模块来处理这个问题？ 感谢您的帮助，如果这看起来很明显，我很抱歉！    提交人    /u/MrDeagle80   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fhr820/bundled_js_and_specific_code_per_page/</guid>
       <pubDate>Mon, 16 Sep 2024 00:09:03 GMT</pubDate>
     </item>
@@ -74,41 +109,6 @@
       <description><![CDATA[我想使用 React、TypeScript 和 Matter.js 制作我自己的 2D 物理游乐场（目前它主要关注运动和碰撞）。如果您有兴趣，请查看我是如何制作的 https://youtu.be/SHAAcVzYloo    提交人    /u/Zestyclose-Ad6874   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fhjeub/making_my_own_2d_physics_simulator_in_react/</guid>
       <pubDate>Sun, 15 Sep 2024 18:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用本地视频文件与朋友一起举办观看派对</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhiz0o/host_watch_party_with_friends_using_local_video/</link>
-      <description><![CDATA[      https://preview.redd.it/3mw4rmzbk0pd1.png?width=2447&amp;format=png&amp;auto=webp&amp;s=5ae74afd911f38388226d27acc9c77029dbee2e5 介绍 Kast，一个简单但有用的工具，可以与朋友一起欣赏电影。假设所有参与者在他们的系统中都有相同的视频文件（浏览器可播放），他们可以轻松举办观看派对。目前的功能有：  创建私人房间并邀请朋友 同步播放/暂停/搜索事件 实时聊天 添加字幕（需要 WebVTT 格式。您可以在线将任何常规字幕转换为 WebVTT）  试试看！它已经在线托管。如果您能给我一颗星，我将不胜感激。 项目链接：https://github.com/ahmedsadman/kast    提交人    /u/muhib21   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhiz0o/host_watch_party_with_friends_using_local_video/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算器和即兴写作之间的区别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhhf3r/the_difference_between_calculators_and_prompt/</link>
-      <description><![CDATA[一个是数字和纯数学。另一个是本质上可变的书面描述。我认为如果我们像使用计算器一样多地使用 ChatGPT，那么 QA 就会消失，我错了吗？    提交人    /u/SingerEast1469   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhhf3r/the_difference_between_calculators_and_prompt/</guid>
-      <pubDate>Sun, 15 Sep 2024 17:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhh8m7/domain_names/</link>
-      <description><![CDATA[大家都用什么域名服务？什么时候我应该获得自定义域名？我的投资组合和展示的项目使用默认域名看起来不好吗？    提交人    /u/DarthRektor   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhh8m7/domain_names/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么存储/库来存储用户数据/令牌？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhglmd/what_storagelibraries_do_you_use_to_store/</link>
-      <description><![CDATA[我正在为我的一个朋友开发这个网站，他将使用此网站作为他的应用程序的试点，预计明年将获得约 500 名用户。我主要使用 React/Vite/Tailwind 在前端工作。 目前，我正在使用本地存储来存储访问令牌，并使用 redux 来存储用户详细信息，但问题是，当我刷新页面时，用户详细信息消失了，并且网站在每个页面中都使用名字等详细信息。 我考虑过以下几件事：1. 将用户详细信息也存储在本地存储中。2. 每次加载页面时进行 API 调用以获取这些详细信息。3. 将其状态提升到根组件并将详细信息作为道具传递（不确定这里会发生什么）。 我对这个主题进行了研究，发现也可以使用会话和 cookie。我只是想知道在这种情况下最佳做法是什么以及使用哪些库，因为这是我第一次在其他人会使用的网站上工作。    提交人    /u/imnovastorm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhglmd/what_storagelibraries_do_you_use_to_store/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的离线 Web 服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhg870/simple_web_server_offline/</link>
-      <description><![CDATA[大家好，最近我得到了一些建议，当时我想在手机或平板电脑上本地托管一个网站，这样我就可以在没有互联网连接的情况下向客户展示一些内容。他们所在的地方没有互联网，所以它只能在一台设备上本地工作。这个建议很好，我找到了一个适用于平板电脑和手机的选项，还有一个适用于 Windows 机器的选项，但是，两者的行为相同，可能不适合。我能够加载和浏览本地网站，当设备有互联网连接时（使用本地链接），功能完好无损，后来在互联网连接被移除后仍然可以正常工作，没有任何问题。问题是，如果我在重新启动后最初启动服务器时没有互联网，或者几天后，例如浏览器只会加载一个空白的白色屏幕，没有错误。当互联网从本地存储请求索引页使其工作时，它为浏览器做了什么？我该如何修复它，以便它们在没有互联网连接的情况下也能工作？    提交人    /u/JaVelin-X-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhg870/simple_web_server_offline/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:12:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
