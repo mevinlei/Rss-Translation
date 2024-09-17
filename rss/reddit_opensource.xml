@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:37:12 GMT</lastBuildDate>
+    <item>
+      <title>开源 AI 定义 – 9 月 16 日每周更新</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fijq2k/open_source_ai_definition_weekly_update_september/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fijq2k/open_source_ai_definition_weekly_update_september/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:39:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔 Web AI 展示 - 一个展示一些新兴 Web AI 演示的网站，这些演示在浏览器中本地运行，由 WebAssembly、WebGPU 和 WebNN 技术提供支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fii19a/intel_web_ai_showcase_a_website_which/</link>
+      <description><![CDATA[        提交人    /u/reps_up   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fii19a/intel_web_ai_showcase_a_website_which/</guid>
+      <pubDate>Mon, 16 Sep 2024 22:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个开源宗教/道德哲学</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fiea00/ive_created_an_open_source_religionmoral/</link>
+      <description><![CDATA[写得不好——抱歉。这只是我花了大约一周时间拼凑起来的东西。我对它的工作原理有一个直观的概念，但不能很好地表达出来。 请在评论中留下所有批评，并附上解释。希望听到其他人的道德反对意见。 https://github.com/ki4jgt/Truism/    提交人    /u/ki4jgt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fiea00/ive_created_an_open_source_religionmoral/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>在为企业使用而分叉开源时预计会出现哪些错误？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fiboy5/what_mistakes_are_expected_when_forking/</link>
+      <description><![CDATA[去年，我在一家公司工作，那里的“平台”开发人员痴迷于克隆和“改进”一些开源项目。我的职责是 vault。整个 vault 事件（使其成为多主）从一开始就非常错误，但现在我想列出一些常见错误，这些错误发生在 X 公司决定使用修改版（而不是原始版）的开源项目时。我现在的印象很模糊，但希望你能补充一下，这样我（和其他人）将来就有了备忘录 :) 因此，以下是我的一些观察结果：  不正确的克隆（例如使用“depth=1”） - 这使得从上游进行进一步合并非常痛苦，因为文件历史记录会丢失，而且并不总是能够找出“我们”添加了哪些文件而这些只是从上游移除，但仍然保留在我们的副本中。 对现有代码进行过多修改。为了将来能轻松合并来自上游的更新，最好尽可能少地更改现有文件。例如，传递配置参数并将其添加到数十个函数签名中是一个坏主意。总体而言，最好向现有代码添加单行调用，从而导致在添加的“我们的”中定义的函数文件。 忽略及时从上游更新项目的需要——通常是由于上述问题导致的合并困难。 破坏和忽略测试——因为原始项目可能有复杂的测试设置并且测试需要很长时间——如果它们只是因为主代码中的签名更改等而中断，情况就更糟了。通常有一种感觉，“它们无论如何都在上游工作，我们的更改没有触及那部分”，但这种感觉似乎可能具有误导性，特别是在代码没有被很好地理解的情况下。 误解或违反许可条款。当项目在内部使用时，很难判断这会导致什么后果——所以欢迎提供任何好的例子。  总的来说，我有时认为分叉实时项目在做这件事之前是“三思而后行，不，七思而后行”，因为它需要从开始就不断进行开发。我很确定有些情况下这样做是合理的，但我经常看到“只是因为我们能做到”的动机。当然，对于不期望更新的陈旧项目来说，情况并非如此。    提交人    /u/RodionGork   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fiboy5/what_mistakes_are_expected_when_forking/</guid>
+      <pubDate>Mon, 16 Sep 2024 18:14:45 GMT</pubDate>
+    </item>
     <item>
       <title>使用单个命令从给定的网站列表获取电子邮件</title>
       <link>https://www.reddit.com/r/opensource/comments/1fi9tk9/get_emails_from_a_given_list_of_websites_with_a/</link>
@@ -57,7 +85,7 @@
     <item>
       <title>经过 3 个多月的工作，我刚刚推出了一个开源表单后端，它是 formspree、getform、formspark 等服务的替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</link>
-      <description><![CDATA[此工具可让您在电子邮件、电报等中接收表单提交。 GitHub 存储库位于此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
+      <description><![CDATA[此工具允许您在电子邮件、电报等中接收表单提交。 GitHub 存储库在此处：https://github.com/FormBee/formbee    提交人    /u/OiaOrca   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhsyia/after_3_months_of_work_ive_just_launched_an_open/</guid>
       <pubDate>Mon, 16 Sep 2024 01:36:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fhmjrb/begun_the_open_source_ai_wars_have/</guid>
       <pubDate>Sun, 15 Sep 2024 20:37:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>即插即用电源管理解决方案：电源选项 (GUI)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fhjps7/plug_play_power_management_solution_power_options/</link>
-      <description><![CDATA[        提交人    /u/TheAlexDev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fhjps7/plug_play_power_management_solution_power_options/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源匿名数字日记</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fhjgaf/i_made_an_opensource_anonymous_digital_journal/</link>
-      <description><![CDATA[网站：https://innerpage.org Github：https://github.com/innerpage ........... 你好 Innerpage 是一个私密而安全的空间，可以倾诉敏感的想法和感受，而不必担心隐私。 Innerpage 不需要电子邮件或其他任何东西来创建帐户。没有跟踪。什么都没有。只需使用用户名和密码设置您的帐户，您就完成了！ 您可以自行托管或使用托管版本：https://innerpage.org 尝试一下，让我知道如何做得更好。我特别需要以下反馈：  您的第一印象是什么？ 我应该在 Innerpage 中包含哪些功能？ 改进 UI/UX 的建议？ 改进 repo 描述的建议？  感谢阅读    提交人    /u/tbhyn_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fhjgaf/i_made_an_opensource_anonymous_digital_journal/</guid>
-      <pubDate>Sun, 15 Sep 2024 18:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Passknight：多保险库、自托管密码管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fhergx/passknight_multivault_self_hosted_password_manager/</link>
-      <description><![CDATA[      嗨大家好！ 在过去的几个月里，我一直在从事这个项目。现在我认为已经完成了，我想得到一些反馈（特别是在加密和安全部分）。 Passknight 是一个自托管、多保险库密码管理器。后端、数据库和身份验证由 firebase 处理，每个保险库都是一个 firebase 用户。它支持 Android、Windows，也是一个浏览器扩展（用于基于 chromium 的浏览器）。 我不是安全专家，所以 Passknight 的安全措施很大程度上受到 bitwarden 实施的安全措施的启发。非常感谢大家对此的一些反馈，我想让它尽可能安全。我在 repo 的自述文件中写了更多关于安全措施的细节。 非常感谢任何反馈或问题！    提交人    /u/KryXus05   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fhergx/passknight_multivault_self_hosted_password_manager/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeCAD 已进入 1.0 RC1 版本，任何人都可以测试其下一个重要版本！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</link>
-      <description><![CDATA[        由    /u/ivosaurus 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fhdby5/freecad_has_gone_into_10_rc1_for_anyone_to_test/</guid>
-      <pubDate>Sun, 15 Sep 2024 14:07:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
