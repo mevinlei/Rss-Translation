@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 18 Sep 2024 15:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 18:13:30 GMT</lastBuildDate>
     <item>
-      <title>礼仪问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fjv089/etiquette_question/</link>
-      <description><![CDATA[大家好， 有一个开源项目（Apache-2.0 许可证）用于 PCB，我想让 PCB 制造商打印并填充。最小订单数量为 5，而我只需要 1。 该项目的开发人员维护着一个网上商店，您可以在其中购买完全组装、编程和测试过的电路板。我想知道的是，如果我打印了这四块额外的电路板，出售它们时需要遵守哪些礼仪？我当时想，我会以实际成本在 eBay 上列出它们（当然，带有项目链接）。我无意从中赚钱，我只是不想被这些额外的东西困住。 如果这很重要的话，我没有能力帮助开发电路板，但我确实计划在拿到硬件后帮助开发项目的其他方面。一个工作版本最近才刚刚发布。 谢谢！    提交人    /u/cantaim4shiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fjv089/etiquette_question/</guid>
-      <pubDate>Wed, 18 Sep 2024 15:03:18 GMT</pubDate>
+      <title>开源活动日历</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fjw1p8/open_source_event_calendar/</link>
+      <description><![CDATA[大家好， 是否有一个应用程序可以让不同的组织输入他们的活动，并向感兴趣的人展示？ 谢谢，    提交人    /u/g3t_re4l   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fjw1p8/open_source_event_calendar/</guid>
+      <pubDate>Wed, 18 Sep 2024 15:46:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 将 OpenSearch 转让给 Linux 基金会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fjv84z/aws_transfers_opensearch_to_the_linux_foundation/</link>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fjv84z/aws_transfers_opensearch_to_the_linux_foundation/</guid>
+      <pubDate>Wed, 18 Sep 2024 15:12:25 GMT</pubDate>
     </item>
     <item>
       <title>Twake 工作场所的新人才</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[也许我找错地方了，但我正在寻找类似谷歌照片技术的东西，可以通过人脸识别过滤相册。     提交人    /u/Far_Star_6475   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fj8tbm/google_face_recognise/</guid>
       <pubDate>Tue, 17 Sep 2024 19:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>power-options 1.1.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</link>
-      <description><![CDATA[power-options 是一个 Linux GUI 应用程序，用于有效、简单和高级电源管理。power-options 可以替代 TLP 和任何其他省电工具。新发布的 1.1.0 版本包括以下更改：  添加了睡眠设置 修复了 GTK 前端在 acpi-cpufreq 或其他通用 cpufreq 驱动程序上崩溃的问题。 修复了在具有 0 个 SATA 接口的系统上的恐慌问题 修复与图形失败相关的一些命令 在 webview 前端悬停时使用信息图标作为工具提示 通过弹出窗口通知用户何时会发生意外的系统设置更改。  发布链接：https://github.com/TheAlexDev23/power-options/releases/tag/v1.1.0    提交人    /u/TheAlexDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fj8t99/poweroptions_110_released/</guid>
-      <pubDate>Tue, 17 Sep 2024 19:46:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
