@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Sep 2024 00:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 03:13:56 GMT</lastBuildDate>
+    <item>
+      <title>有 665 个开放许可证，大多数都很垃圾</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fk9iu6/there_are_665_open_licences_most_are_pretty/</link>
+      <description><![CDATA[       由    /u/calp  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fk9iu6/there_are_665_open_licences_most_are_pretty/</guid>
+      <pubDate>Thu, 19 Sep 2024 01:42:24 GMT</pubDate>
+    </item>
     <item>
       <title>嗨，这是新来的，所以请教一下</title>
       <link>https://www.reddit.com/r/opensource/comments/1fk71mn/hi_new_to_this_so_asking_advice/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，我和我的团队一直在开发一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。 我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的 控制台应用程序（非常适合调试） 使用 Mesop 的 Web 应用程序，只需一行更改！  我们非常希望您查看它、提供反馈或做出贡献！该项目是开源的，欢迎大家贡献：)  https://github.com/airtai/fastagency    提交人    /u/davorrunje   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fjbqwb/introducing_fastagency_the_fastest_way_to_deploy/</guid>
       <pubDate>Tue, 17 Sep 2024 21:40:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找会员门户的开源解决方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</link>
-      <description><![CDATA[我最近提出帮助一个不断发展的非营利性网络基础设施，虽然大多数东西都已整理好，但我正在寻找一个可以托管成员和分支机构门户的网站，供成员访问内部服务和资源以及管理成员资料。有人知道任何针对这种事情的东西吗？它看起来像工会和会员团体可能会使用的那种系统。    提交人    /u/redcorerobot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fjbioa/looking_for_an_open_source_solution_for_a_members/</guid>
-      <pubDate>Tue, 17 Sep 2024 21:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
