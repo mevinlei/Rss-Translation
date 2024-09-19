@@ -4,27 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 19 Sep 2024 18:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 21:14:46 GMT</lastBuildDate>
     <item>
-      <title>这些 AI 简历生成器是如何在后台构建的？我了解 LLM 文本方面，但没有了解简历 PDF 生成方面。有人可以指导我学习吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkriny/how_are_these_ai_resume_builders_built_under_the/</link>
-      <description><![CDATA[  由    /u/lovebes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkriny/how_are_these_ai_resume_builders_built_under_the/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:09:45 GMT</pubDate>
+      <title>各位高级经理和招聘人员，您会因为 2+ YOE 而雇用这个人吗？您认为他的简历的优点和缺点是什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkv7uv/to_senior_managers_and_recruiters_out_here_would/</link>
+      <description><![CDATA[  由    /u/SnooMachines740  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkv7uv/to_senior_managers_and_recruiters_out_here_would/</guid>
+      <pubDate>Thu, 19 Sep 2024 21:09:15 GMT</pubDate>
     </item>
     <item>
-      <title>还有人觉得跨多个环境测试 webhook 非常令人沮丧吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkrh13/anyone_else_find_testing_webhooks_across_multiple/</link>
-      <description><![CDATA[  由    /u/MaximumImagination82  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkrh13/anyone_else_find_testing_webhooks_across_multiple/</guid>
-      <pubDate>Thu, 19 Sep 2024 18:07:45 GMT</pubDate>
+      <title>我对 openai 和 python 有疑问</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkuzro/i_have_an_issue_with_openai_and_python/</link>
+      <description><![CDATA[我没有链接，我无法在此处放置图像，但这是我放置的内容： 1 import openai 2 openai.api_key &quot;=&quot; 而在第二个，当我想放置 &quot;=&quot; 时，它显示以下内容：&quot;在 &quot;=&quot; 右侧应有表达式&quot; 所以我不能放置密钥。    提交人    /u/InflationNo5159   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkuzro/i_have_an_issue_with_openai_and_python/</guid>
+      <pubDate>Thu, 19 Sep 2024 20:59:56 GMT</pubDate>
     </item>
     <item>
-      <title>演示 - Devpedia - 编程资源</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</link>
-      <description><![CDATA[  由    /u/Prior-Sink-4104  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</guid>
-      <pubDate>Thu, 19 Sep 2024 17:55:43 GMT</pubDate>
+      <title>使用 Postgres 构建 RAG</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkt75l/building_rag_with_postgres/</link>
+      <description><![CDATA[  由    /u/ecz-  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkt75l/building_rag_with_postgres/</guid>
+      <pubDate>Thu, 19 Sep 2024 19:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Valkey 8 为开源内存 NoSQL 数据存储设定了新的标准。</title>
+      <link>https://www.reddit.com/r/programming/comments/1fks7i9/valkey_8_sets_a_new_bar_for_opensource_inmemory/</link>
+      <description><![CDATA[  由    /u/CrankyBear  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fks7i9/valkey_8_sets_a_new_bar_for_opensource_inmemory/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:39:07 GMT</pubDate>
     </item>
     <item>
       <title>跨项目的快速注释 VS Code 扩展</title>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 19 Sep 2024 12:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>Go 入门：Google 编程语言初学者指南</title>
+      <title></title>
       <link>https://www.reddit.com/r/programming/comments/1fkj2qx/getting_started_with_go_a_beginners_guide_to/</link>
       <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkj2qx/getting_started_with_go_a_beginners_guide_to/</guid>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 19 Sep 2024 12:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>Project-PythOyO，我制作了一个 UyU 编程语言，一个用 Python 编写的奇特语言</title>
+      <title>Project-PythOyO，我制作了一个UyU编程语言，一个用Python编写的奇特语言</title>
       <link>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</link>
       <description><![CDATA[  由    /u/Weary-Milk-268  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkitfq/projectpythoyo_i_made_a_uyu_programming_language/</guid>
       <pubDate>Thu, 19 Sep 2024 11:46:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 的崛起：这种编程语言为何越来越受欢迎</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</link>
-      <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:20:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
