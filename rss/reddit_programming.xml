@@ -4,27 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 19 Sep 2024 15:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 18:14:03 GMT</lastBuildDate>
     <item>
-      <title>为什么我们在 2024 年要开发另一款文档产品？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkn02f/why_did_we_build_another_documentation_product_in/</link>
-      <description><![CDATA[  由    /u/cheerfulboy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkn02f/why_did_we_build_another_documentation_product_in/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:02:05 GMT</pubDate>
+      <title>这些 AI 简历生成器是如何在后台构建的？我了解 LLM 文本方面，但没有了解简历 PDF 生成方面。有人可以指导我学习吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkriny/how_are_these_ai_resume_builders_built_under_the/</link>
+      <description><![CDATA[  由    /u/lovebes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkriny/how_are_these_ai_resume_builders_built_under_the/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>Neovim 与 Emacs：在编程、做笔记和构建项目时我应该使用哪一个？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkmerh/neovim_vs_emacs_which_should_i_stick_with_for/</link>
-      <description><![CDATA[  由    /u/Icy-Wrap-4410  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkmerh/neovim_vs_emacs_which_should_i_stick_with_for/</guid>
-      <pubDate>Thu, 19 Sep 2024 14:36:38 GMT</pubDate>
+      <title>还有人觉得跨多个环境测试 webhook 非常令人沮丧吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkrh13/anyone_else_find_testing_webhooks_across_multiple/</link>
+      <description><![CDATA[  由    /u/MaximumImagination82  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkrh13/anyone_else_find_testing_webhooks_across_multiple/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:07:45 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年，简历中这些改进能帮你找到工作 | 提示和建议 [Bagged MAANG SDE 面试]</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkmbp3/do_these_improvements_in_your_resume_to_land_jobs/</link>
-      <description><![CDATA[  由    /u/Ill-Double334  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkmbp3/do_these_improvements_in_your_resume_to_land_jobs/</guid>
-      <pubDate>Thu, 19 Sep 2024 14:32:51 GMT</pubDate>
+      <title>演示 - Devpedia - 编程资源</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</link>
+      <description><![CDATA[  由    /u/Prior-Sink-4104  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkr6np/demo_devpedia_a_programming_resource/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨项目的快速注释 VS Code 扩展</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkqflx/quick_notes_across_projects_vs_code_extension/</link>
+      <description><![CDATA[  由    /u/LostShinobiUmbra  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkqflx/quick_notes_across_projects_vs_code_extension/</guid>
+      <pubDate>Thu, 19 Sep 2024 17:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Nodepp 简化 C++ 中异步 I/O 的套接字编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkphzt/simplifying_socket_programming_in_c_with/</link>
+      <description><![CDATA[  由   提交  /u/EDBC_REPO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkphzt/simplifying_socket_programming_in_c_with/</guid>
+      <pubDate>Thu, 19 Sep 2024 16:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Alteryx 释放数据的力量：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkorng/unlocking_the_power_of_data_with_alteryx_a/</link>
+      <description><![CDATA[  由    /u/shyamcody  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkorng/unlocking_the_power_of_data_with_alteryx_a/</guid>
+      <pubDate>Thu, 19 Sep 2024 16:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果及早公开采用，公平来源许可是可行的</title>
+      <link>https://www.reddit.com/r/programming/comments/1fkntly/fair_source_licensing_can_work_if_adopted_early/</link>
+      <description><![CDATA[  由    /u/batteriesincl_corp  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fkntly/fair_source_licensing_can_work_if_adopted_early/</guid>
+      <pubDate>Thu, 19 Sep 2024 15:36:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习系统思维 • Diana Montalion 和 Charles Humble</title>
+      <link>https://www.reddit.com/r/programming/comments/1fknjr3/learning_systems_thinking_diana_montalion_charles/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fknjr3/learning_systems_thinking_diana_montalion_charles/</guid>
+      <pubDate>Thu, 19 Sep 2024 15:25:08 GMT</pubDate>
     </item>
     <item>
       <title>任何人都可以访问 GitHub 上已删除和私有的 Repo 数据</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/abutun  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fkid2s/the_rise_of_rust_why_this_programming_language_is/</guid>
       <pubDate>Thu, 19 Sep 2024 11:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试🔍——减少✂️还是重建🔨？</title>
-      <link>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</link>
-      <description><![CDATA[  由    /u/ablx0000  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fki09i/debugging_reduce_or_rebuild/</guid>
-      <pubDate>Thu, 19 Sep 2024 10:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你的用户数还不到 100 时，就不要再为数百万用户设计 Web 应用程序了</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</link>
-      <description><![CDATA[  由    /u/bizzehdee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkh1k7/stop_designing_your_web_application_for_millions/</guid>
-      <pubDate>Thu, 19 Sep 2024 09:52:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 暗黑模式：综合指南 - Makemychance</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkgd3j/css_dark_mode_a_comprehensive_guide_makemychance/</link>
-      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkgd3j/css_dark_mode_a_comprehensive_guide_makemychance/</guid>
-      <pubDate>Thu, 19 Sep 2024 09:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级 Python 类型提示将显著改善你的代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkfqt6/advanced_python_type_hints_that_will_improve_your/</link>
-      <description><![CDATA[  由    /u/wyhjsbyb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkfqt6/advanced_python_type_hints_that_will_improve_your/</guid>
-      <pubDate>Thu, 19 Sep 2024 08:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>企业数据为何不断崩溃</title>
-      <link>https://www.reddit.com/r/programming/comments/1fkf18t/why_data_in_enterprise_keeps_breaking/</link>
-      <description><![CDATA[  由    /u/andras_gerlits  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fkf18t/why_data_in_enterprise_keeps_breaking/</guid>
-      <pubDate>Thu, 19 Sep 2024 07:15:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
