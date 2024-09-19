@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 19 Sep 2024 06:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:10:58 GMT</lastBuildDate>
+    <item>
+      <title>编辑过程中您最不喜欢的部分是？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fkgabv/your_least_favorite_part_of_the_editing_process/</link>
+      <description><![CDATA[作为文档编辑：找到正确的 b 卷。现在我将一个场景从冬季移到了夏季，所以我需要替换所有的 b 卷来反映季节。而且它们也必须给出正确的情绪。 作为一个额外的障碍，我正在使用 Premiere 制作，出于某种原因，当我打开包含原始材料的项目而编辑项目处于打开状态时，一切都会离线。所以我必须关闭编辑项目，打开原始材料项目并传输我认为可以通过第三个项目工作的镜头。哎哟 好的，我现在要开始了。    提交人    /u/morsomme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fkgabv/your_least_favorite_part_of_the_editing_process/</guid>
+      <pubDate>Thu, 19 Sep 2024 08:54:32 GMT</pubDate>
+    </item>
     <item>
       <title>编辑 webM 编码的 mp4 封装文件</title>
       <link>https://www.reddit.com/r/editors/comments/1fkdzdo/editing_webm_encoded_mp4_encapsulated_file/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[有人做过更改吗？ 我已经使用 Lucid 两年了，但我喜欢 Suite 邀请新用户的简单方式，也喜欢他们的 Suite Connect 功能，但不确定他们的服务是否可靠。Suite 似乎也更快，写入 Lucid 文件夹，无论缓存大小如何，都比我迄今为止使用 Suite 时遇到的速度慢得多。    提交人    /u/_ParanoidUser_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fkbfdr/switch_from_lucid_link_to_suite_studios/</guid>
       <pubDate>Thu, 19 Sep 2024 03:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>对您来说，音效中最困难的部分是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fkb59x/what_is_the_hardest_part_about_sound_effects_for/</link>
-      <description><![CDATA[嘿 r/editors！我创建了一个音效生成器 Web 应用程序来帮助您生成您在库中永远找不到的那些小众自定义声音。（不在这里发布链接，所以它不仅仅是促销） 我很想知道您在视频中寻找和使用音效时面临的最大挑战是什么，因为我想让您的整个工作流程更轻松！    提交人    /u/RogKubs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fkb59x/what_is_the_hardest_part_about_sound_effects_for/</guid>
-      <pubDate>Thu, 19 Sep 2024 03:05:33 GMT</pubDate>
     </item>
     <item>
       <title>作为一名编辑，您是否曾感到被边缘化或不受尊重？</title>
@@ -92,7 +92,7 @@
     <item>
       <title>减少 Premiere Pro 崩溃？| 编辑大量素材</title>
       <link>https://www.reddit.com/r/editors/comments/1fjna63/reduce_premiere_pro_crashing_editing_lots_of/</link>
-      <description><![CDATA[大家好，我遇到了一个问题。一位客户提供了近 1TB 的素材：原始和 4K。我对素材的长度没有意见，而且他们付的钱也很高。 Adobe Premiere 总是让我感到厌烦，经常崩溃：每小时 2-10 次，但渲染时从不崩溃。我真的考虑过在我的免费订阅（由我的大学提供）结束后从 Premiere 切换。我预料到会崩溃，但没想到崩溃这么多次。这只会浪费很多时间。例如，在创建标题时尤其容易发生崩溃。除此之外，Premiere 对我来说表现非常好。 我已经做了一些基本的事情来减少我的电脑上的负载，比如渲染代理。 除此之外，我的 Windows PC 处理一切都非常好：从未超过 60% 的 CPU 或 GPU 使用率，而且我有足够的 RAM 可用。 目前，有什么方法可以减少崩溃吗？我也有一台 M2 Macbook Pro，我是否值得花时间尝试将这个项目转移到那台笔记本电脑上，并在该项目的剩余部分使用它？ 规格  CPU：i9-9900k GPU：RTX 3080 RAM：32gb @ 5600mhz  软件/素材  4096x2160 @ 25fps（约 20 小时的素材） 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） AVC Long GOP High 4:2:2 Profile 10 位无约束编码  最新Premiere Pro 版本    由    /u/XoRDroopy 提交   [链接] [评论]]]></description>
+      <description><![CDATA[解决方案 我删除了所有代理，然后重新渲染了所有代理。这似乎笨拙地解决了问题。我保持代理渲染设置不变（低 ProRes）。我确保所有素材都在 SSD 上。Premiere 现在处理得很好：程序根本没有挂起。也许我的代理在某个时候以某种方式自行脱离了连接，我可能不方便地查看了这一点。我不确定到底出了什么问题。感谢所有帮助过我的人！ 对于其他背景信息，我还使用了 Windows 的专用版本 GhostSpectre Windows 10。最近我的 PC 一直出现与随机重启相关的问题（黑屏 --&gt; PC 重启）。我不能排除我的 Adob​​e Premiere Pro 问题是由这些因素引起的。 问题 大家好，我有一个问题。一位客户提供了近 1TB 的素材：原始和 4K。我对素材的长度没有意见，而且他们付的钱也很高。 Adobe Premiere 想扼杀我，经常崩溃：每小时 2-10 次，但渲染时从不崩溃。我真的考虑过在我的免费订阅（由我的大学提供）完成后从 Premiere 切换。我预料到会崩溃，但没想到崩溃这么多。这只会浪费很多时间。例如，在创建标题时尤其容易发生崩溃。除此之外，Premiere 对我来说表现非常好。 我已经做了一些基本的事情来减少我的电脑上的负载，比如渲染代理。 除此之外，我的 Windows PC 处理一切都非常好：从未超过 60% 的 CPU 或 GPU 使用率，而且我有足够的 RAM 可用。 目前，有什么方法可以减少崩溃吗？我也有一台 M2 Macbook Pro，我是否值得花时间尝试将这个项目转移到那台笔记本电脑上，并在该项目的剩余部分使用它？ 规格  CPU：i9-9900k GPU：RTX 3080 RAM：32gb @ 5600mhz  软件/素材  4096x2160 @ 25fps（约 20 小时的素材） 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） AVC Long GOP High 4:2:2 Profile 10 位无约束编码  最新Premiere Pro 版本    由    /u/XoRDroopy 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fjna63/reduce_premiere_pro_crashing_editing_lots_of/</guid>
       <pubDate>Wed, 18 Sep 2024 07:39:49 GMT</pubDate>
     </item>
