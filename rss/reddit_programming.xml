@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Sep 2024 09:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 12:18:03 GMT</lastBuildDate>
+    <item>
+      <title>为什么 CSV 仍是王道</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl9c3f/why_csv_is_still_king/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl9c3f/why_csv_is_still_king/</guid>
+      <pubDate>Fri, 20 Sep 2024 11:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如今利润优先于质量</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl9782/profit_takes_priority_over_quality_today/</link>
+      <description><![CDATA[  由    /u/TheDeveloper12345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl9782/profit_takes_priority_over_quality_today/</guid>
+      <pubDate>Fri, 20 Sep 2024 10:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在多语言项目中结合 Java 和 Rust 代码覆盖率</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl8qle/combine_java_and_rust_code_coverage_in_a_polyglot/</link>
+      <description><![CDATA[  由    /u/bluestreak01  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl8qle/combine_java_and_rust_code_coverage_in_a_polyglot/</guid>
+      <pubDate>Fri, 20 Sep 2024 10:27:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>PB 级 Postgres</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl81po/petabyte_postgres/</link>
+      <description><![CDATA[  由    /u/jamesgresql  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl81po/petabyte_postgres/</guid>
+      <pubDate>Fri, 20 Sep 2024 09:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>干净的代码：是福还是祸？第二幕。妥协</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl7wxx/clean_code_blessing_or_curse_act_ii_compromise/</link>
+      <description><![CDATA[  由    /u/Wor_king2000  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl7wxx/clean_code_blessing_or_curse_act_ii_compromise/</guid>
+      <pubDate>Fri, 20 Sep 2024 09:27:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>REPL 在 Python3.13 中焕然一新 - 增加了改变游戏规则的功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1fl7rr3/repl_got_makeover_in_python313_added_gamechanging/</link>
+      <description><![CDATA[  由    /u/python4geeks  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fl7rr3/repl_got_makeover_in_python313_added_gamechanging/</guid>
+      <pubDate>Fri, 20 Sep 2024 09:16:00 GMT</pubDate>
+    </item>
     <item>
       <title>我最近在大学参加了一次导师会议，我的导师告诉我，对于提供实习机会的公司来说，做项目很重要。我是理工学士二年级学生，我懂 C、C++，正在学习数据结构和算法 (DSA)。你能指导我应该做哪些项目吗</title>
       <link>https://www.reddit.com/r/programming/comments/1fl7l5p/i_recently_had_a_mentor_session_at_my_college_and/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/suman077  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fl3kmq/completed_basic_sql_tutorial_now_moving_to/</guid>
       <pubDate>Fri, 20 Sep 2024 04:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP 代码入门指南，面向新开发人员</title>
-      <link>https://www.reddit.com/r/programming/comments/1fl3jqh/php_code_made_easy_a_stepbystep_guide_for_new/</link>
-      <description><![CDATA[  由    /u/EnoughContext022  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl3jqh/php_code_made_easy_a_stepbystep_guide_for_new/</guid>
-      <pubDate>Fri, 20 Sep 2024 04:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>从更高级别的角度来看，对于 Web Dev 来说这是一个有趣的见解和一个很酷的项目。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fl38tx/interesting_insight_and_a_cool_project_for_web/</link>
-      <description><![CDATA[  由    /u/Dry-Taro616  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl38tx/interesting_insight_and_a_cool_project_for_web/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的严峻现实：研究人员的观点</title>
-      <link>https://www.reddit.com/r/programming/comments/1fl2nju/the_sobering_reality_of_ai_a_researchers/</link>
-      <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl2nju/the_sobering_reality_of_ai_a_researchers/</guid>
-      <pubDate>Fri, 20 Sep 2024 03:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stripe 如何打造硅谷最优秀的工程团队之一</title>
-      <link>https://www.reddit.com/r/programming/comments/1fl1u45/how_stripe_built_one_of_silicon_valleys_best/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl1u45/how_stripe_built_one_of_silicon_valleys_best/</guid>
-      <pubDate>Fri, 20 Sep 2024 02:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 Lua 项目 - 终端中的康威生命游戏模拟。</title>
-      <link>https://www.reddit.com/r/programming/comments/1fl15os/my_first_lua_project_conways_game_of_life/</link>
-      <description><![CDATA[  由    /u/CodeByExample  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl15os/my_first_lua_project_conways_game_of_life/</guid>
-      <pubDate>Fri, 20 Sep 2024 01:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML 和 CSS 进行时尚笔记本设计 - <FrontBackGeek/></title>
-      <link>https://www.reddit.com/r/programming/comments/1fl0wwc/stylish_notebook_design_with_html_and_css/</link>
-      <description><![CDATA[  由    /u/codeagencyblog  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fl0wwc/stylish_notebook_design_with_html_and_css/</guid>
-      <pubDate>Fri, 20 Sep 2024 01:45:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
