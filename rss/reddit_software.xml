@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 21:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 00:44:00 GMT</lastBuildDate>
+    <item>
+      <title>有选择地备份 YouTube 频道、播放列表 [YT Channel Downloader 0.4.0]</title>
+      <link>https://www.reddit.com/r/software/comments/1flpca0/selectively_backup_youtube_channels_playlists_yt/</link>
+      <description><![CDATA[YT Channel Downloader 是一款跨平台 (Windows、Mac、Linux) 开源桌面应用程序，旨在简化 YouTube 内容的下载流程。它利用 yt-dlp、scrapetube 和 pytube 进行底层开发，并搭配易于使用的图形界面。此工具旨在为您提供无缝体验，让您可以离线（即备份）获取您喜爱的视频和音频内容。您可以有选择地或完全下载频道、播放列表或单个视频，选择仅音频曲目，并自定义视频或音频的质量。 新版本提供了使用您的 YouTube 帐户下载年龄限制和高级内容的功能 [可选]，并且还修复了一些错误并做出了一些小改进。 此应用程序与许多其他用于下载视频的软件不同，它提供了一个易于点击的界面，可以快速选择并下载您需要的内容。 请参阅自述文件中的安装说明。在 Windows 上，您还可以选择从 SourceForge 或 Github Releases 下载预制安装程序。 欢迎对新功能、错误报告和改进想法提出建议。 YT 频道下载器    由    /u/ph0tone  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flpca0/selectively_backup_youtube_channels_playlists_yt/</guid>
+      <pubDate>Fri, 20 Sep 2024 23:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>比较两个 GIF</title>
+      <link>https://www.reddit.com/r/software/comments/1floy8b/compare_two_gifs/</link>
+      <description><![CDATA[我使用 FreeConvert 压缩了一个 gif，然后又用 Ezgif 压缩了它。问题是，我不知道如何找出哪个质量更高？有哪些工具可以做到这一点？    提交人    /u/Low-Finance-2275   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1floy8b/compare_two_gifs/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>准确追踪远程用户在我的电脑上执行的操作</title>
+      <link>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</link>
+      <description><![CDATA[嘿，我将让远程支持人员通过 teamviewer 或 anydesk 访问我的电脑。他将安装软件并进行一些配置。 我正在寻找一种软件来准确跟踪他将在我的电脑上执行的操作，以便我可以知道并准确地执行他在做什么。此外，如果他将文件传输到我的电脑上以运行它们并在之后删除它们，我也希望这些文件能够以某种方式存储起来。 有这样的事情吗？谢谢？    提交人    /u/koffis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1flo0t7/track_exactly_what_remote_user_does_on_my_pc/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:11:09 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助寻找一款软件</title>
       <link>https://www.reddit.com/r/software/comments/1flmnxg/need_help_finding_a_piece_of_software/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/Raivolz  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1flafwv/i_want_this_but_on_pc_mininote_dont_suggest_me/</guid>
       <pubDate>Fri, 20 Sep 2024 12:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么软件可以帮助我放大一个显示器，而其他连接的显示器则不放大？</title>
-      <link>https://www.reddit.com/r/software/comments/1fl9cyg/any_software_that_can_help_me_zoom_in_one_monitor/</link>
-      <description><![CDATA[我有 3 台显示器，我是一名教师，我需要将连接到我的显示器的那台显示器缩放。我希望我的另一台显示器保持相同的默认非缩放级别。 我教计算机科学，按 ctrl + 是不够的，我需要能够与我的学生一起非常接近地缩放代码。 我尝试过 glassbrick，但它不提供此功能。Zoomit 会缩放，但放大后我无法移动到另一台显示器...    提交人    /u/hexcodehero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl9cyg/any_software_that_can_help_me_zoom_in_one_monitor/</guid>
-      <pubDate>Fri, 20 Sep 2024 11:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 的屏幕使用时间。</title>
-      <link>https://www.reddit.com/r/software/comments/1fl8ja4/screen_time_for_chrome/</link>
-      <description><![CDATA[  由    /u/RedditNoobie777  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl8ja4/screen_time_for_chrome/</guid>
-      <pubDate>Fri, 20 Sep 2024 10:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 ChatGPT 和 UiPath 机器人为 SAP 采购订单构建 AI 代理 - 分步教程！</title>
-      <link>https://www.reddit.com/r/software/comments/1fl6qgk/build_an_ai_agent_for_sap_purchase_orders_with/</link>
-      <description><![CDATA[  由    /u/Cristi_UiPath  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fl6qgk/build_an_ai_agent_for_sap_purchase_orders_with/</guid>
-      <pubDate>Fri, 20 Sep 2024 07:54:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
