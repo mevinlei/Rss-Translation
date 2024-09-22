@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 21:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 00:49:12 GMT</lastBuildDate>
+    <item>
+      <title>我编写了一个 Python 脚本，使用 AI 来组织文件，100% 在你的设备上运行</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg7yg/i_built_a_python_script_uses_ai_to_organize_files/</link>
+      <description><![CDATA[嗨，r/ArtificialInteligence！ GitHub 上的项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 我想要一个真正了解我的文件内容的文件管理工具。以前的项目如 LlamaFS (https://github.com/iyaja/llama-fs) 不是 100% 本地的，需要 AI API。因此，我创建了一个 Python 脚本，利用 AI 来组织本地文件，完全在您的设备上运行，以完全保护隐私。它使用 Google Gemma2 2B 和 llava-v1.6-vicuna-7b 模型进行处理。 注意：您不需要任何 API 密钥和互联网连接来运行此项目，它完全在您的设备上运行模型。 它的作用：   扫描指定的输入目录中的文件 了解文件的内容（文本、图像等）以生成相关的描述、文件夹名称和文件名 根据生成的元数据将文件组织到新的目录结构中  支持的文件类型：  图像： .png、.jpg、.jpeg、.gif、.bmp 文本文件： .txt, .docx PDF： .pdf  支持的系统： macOS、Linux、Windows 它是完全开源的！ 有关演示和安装指南，这里再次提供项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 您对这个项目有何看法？您希望在未来版本中看到什么吗？ 谢谢！    提交人    /u/unseenmarscai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg7yg/i_built_a_python_script_uses_ai_to_organize_files/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>论文编辑人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg6v0/ai_for_thesis_redaction/</link>
+      <description><![CDATA[大家好， 在这个人工智能威胁要取代人类智能的时代，我想听听你对撰写长篇论文的最佳工具的看法。我们都知道 ChatGPT，但随着人工智能在最近几个月的迅速发展，你还有其他关于写论文的人工智能建议吗？ 当然，最重要的标准之一是教授使用的最强大和付费的抄袭检测和人工智能使用软件（Ouriginal 等）无法检测到人工智能的使用。 我愿意接受所有建议，谢谢你的帮助。    提交人    /u/outhinking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg6v0/ai_for_thesis_redaction/</guid>
+      <pubDate>Sat, 21 Sep 2024 23:47:16 GMT</pubDate>
+    </item>
     <item>
       <title>我问 ChatGPT，如果政府拥有不受审查和监管的人工智能，他们会怎么做。以下是答案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmcwqq/i_asked_chatgpt_what_governments_would_do_if_they/</link>
@@ -55,13 +69,6 @@
       <pubDate>Sat, 21 Sep 2024 17:09:18 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建优秀的 Tony Soprano AI 配音</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7mi3/how_do_i_create_a_good_tony_soprano_ai_voice_over/</link>
-      <description><![CDATA[大家好， 我尝试制作一个以《黑道家族》为主题的 AI 模仿 YouTube 频道：https://www.youtube.com/@SopranosAI 做得不错。但阻碍我的是，我很难为各种黑道家族角色获得良好的 AI 声音。我使用了 eleven labs 和 playht。但它们仍然很烂，我厌倦了浪费数小时编辑音频样本来迎合 AI 之神，我得到了一些好东西。  这就是我想要达到的质量。 https://www.youtube.com/watch?v=UplwuB4T-oI https://youtu.be/ai5Bb5lV2H8?si=hhKdQDhOWlcrpaYg 任何提示或技巧如果有人可以指导我如何制作不糟糕的女高音，我会很高兴。我觉得这是一个金矿，但在我获得良好的配音之前，它只是一个垃圾产品。     提交人    /u/LobsterMagnet181   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7mi3/how_do_i_create_a_good_tony_soprano_ai_voice_over/</guid>
-      <pubDate>Sat, 21 Sep 2024 17:02:09 GMT</pubDate>
-    </item>
-    <item>
       <title>谢谢，常见的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm7cwb/thanks_gemeini/</link>
       <description><![CDATA[我问 Gemini 如何祝酒，它回答道：如何祝酒令人难忘 1. 了解你的听众：* 你在为谁祝酒？这将帮助你调整你的演讲。* 什么场合？正式晚宴，休闲聚会，还是特殊活动？2. 简短而甜蜜：* 祝酒词应该简明扼要。目标是 30 秒到 1 分钟。3. 开头要有力：* 用相关的轶事、衷心的赞美或幽默的观察来吸引注意力。4. 分享个人联系：* 解释你是如何认识这个人的或者你为什么要祝酒。5. 真诚地赞美：* 强调你欣赏这个人或场合的品质或成就。6. 举杯：* 祝酒结束时，举起你的酒杯说，“敬 [人或场合]。” 7. 练习： * 排练祝酒词，确保你能自信流畅地发表祝酒词。示例： * “献给我亲爱的朋友 Sarah。我认识 Sarah 已有 [number] 年，她一直陪伴着我。她不仅才华横溢，而且心地善良、富有同情心。向 Sarah 致敬，她是一位真正的励志人物。” 请记住：最重要的是发自内心地表达自己的观点，让你的祝酒词有意义。 你想让我帮你为某个特定场合写一份祝酒词吗？ 我不知道祝酒词这么难    提交人    /u/zerox511_overwatch   [链接] [评论]]]></description>
@@ -83,13 +90,6 @@
       <pubDate>Sat, 21 Sep 2024 13:50:42 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌在大型数字营销会议上首次推出针对广告的人工智能更新</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fm2n3a/google_debuts_ai_updates_for_ads_at_major_digital/</link>
-      <description><![CDATA[Google 为其 AI 广告工具添加了对多种语言的支持、更好的视觉生成、品牌指南和效果洞察，从而使所有格式的广告系列都更加有效。https://theaiwired.com/google-debuts-ai-updates-for-ads-at-major-digital-marketing-conference/    提交人    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fm2n3a/google_debuts_ai_updates_for_ads_at_major_digital/</guid>
-      <pubDate>Sat, 21 Sep 2024 13:09:13 GMT</pubDate>
-    </item>
-    <item>
       <title>我讨厌 Google 赞助搜索结果。因此，我仅使用 Reddit、YT 和 TikTok 的众包意见构建了一个 AI 搜索引擎</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1flef0y/i_hated_sponsored_google_results_so_i_built_an_ai/</link>
       <description><![CDATA[今年 1 月，我被一个简单的问题困扰：为什么在互联网上找不到真实的推荐？ 我的搜索遇到了大量赞助内容和明显有偏见的联盟网站，这让我对自己的决定比刚开始时更加困惑。 深入挖掘后，我发现了一个惊人的事实。如今，16 家占主导地位的出版公司主导着搜索，这意味着答案不再使用户受益，而是为出版公司带来收益。 事实上，一项研究在您能想到的每个领域进行了 10,000 次不同的搜索，这 16 家出版公司在其中 85% 的搜索中名列前茅！！ 当我想听听真实人物的经历时，为什么少数几家公司要控制我们的信息来源？ 然后我转向 reddit..我从像我这样的真实人物身上找到了很多有用的人生经验。但问题是什么？外面有太多内容，很难找到共识。 我意识到我必须构建解决方案。我启动了一个名为 lynksearch.com 的工作原型，该原型解决了 SEO/Affiliate BS 问题，并使用 LLM 从 Reddit、YouTube 和 TikTok 生成了众包推荐。 我的使命是使互联网上的信息发现民主化，并回到我们最初设想的更加以人为本的互联网。 请让我知道我可以如何改进它！感谢您的时间 :)    提交人    /u/notepad---   [链接] [评论]]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>重要提示：征求有关 subreddit 规则和未来方向的评论。请阅读！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</link>
-      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  该子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
+      <description><![CDATA[欢迎来到 r/ArtificialIntelligence！ 我们的目标是为所有考虑人工智能的事情提供一个开放和尊重的论坛 - 其中包括  促进有关人工智能的哲学和伦理讨论 作为理解和学习人工智能主题的起点 提供技术论文演示和讨论 展示高质量的人工智能/机器学习应用程序 提供培训和学习资源 引导用户获取更具体的信息和子版块 列出人工智能/机器学习应用程序、它们的用途、成本和访问信息 其他与人工智能相关的内容。 ...等等  此子版块的审核团队正在进行改组，这将导致子版块发生一些变化。但是，无需担心，因为这些变化主要集中在改进组织、资源和预先准备的内容上。为了确保社区充分了解并能够提供反馈，将提供多次机会对变化进行反馈。 第一轮反馈收集是通过此线程作为“征求意见”（RFC）进行的，这是收集反馈的标准方法。在准备和实施更改时，将有多轮 RFC 流程。 ​  发布新应用程序/自我推广/AI 生成内容的规则  由 ChatGPT-api“皮肤”组成的应用程序的帖子或类似内容将被阻止或限制在特定的置顶帖子中。 AI 生成特定于艺术（写作、视觉艺术、音乐）的内容需要天赋，否则将被限制在特定的置顶帖子中。 博客链接应包含高质量内容。链接到纯促销博客的帖子将被删除。 除非包含一定字数的详细信息，否则将禁止仅包含链接的帖子。必须付出一些努力。 我们应该阻止由 AI 撰写的帖子吗？存在可用于 Mod-bot 的模型，但这是一个我们需要反馈的问题。  使用天赋来组织帖子。请注意，已经添加了新的天赋，我们愿意接受更多建议。 关于 AI/ML 应用的 NSFW 应用和技术的子政策应该是什么？ 我们希望向社区提供有关 mod-bot 的想法。虽然一些标准机器人将用于基本维护，但是社区可以为 AI/ML 机器人功能想出什么有趣的东西呢？ 培养初级、中级和高级资源，以帮助人们找到他们正在寻找的信息、培训、模型、技术数据等。 启动 substack/podcast 来采访整个 AI/ML 领域的人。这可能包括哲学家和思想家、程序员、科学家、商人，甚至那些对 AI 持对立观点的人 如果您想创建代表子版块的横幅，请使用适当的尺寸进行创建。任何创建方法都是​​可以接受的。  不用说，每个人都应该受到尊重。我个人觉得我们都知道这一点，不需要把它灌输到人们的脑海里。要友善。 感谢您的耐心和帮助！   由    /u/FHIR_HL7_Integrator  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/10ctvur/important_request_for_comments_regarding/</guid>
       <pubDate>Sun, 15 Jan 2023 20:24:42 GMT</pubDate>
     </item>
