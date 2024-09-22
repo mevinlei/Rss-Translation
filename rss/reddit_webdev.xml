@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 15:15:36 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Sep 2024 18:12:33 GMT</lastBuildDate>
+    <item>
+      <title>你从你的副业中赚钱吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmzj74/do_you_earn_money_from_your_side_projects/</link>
+      <description><![CDATA[你好。我是一名开发人员。无论我付出多少努力在办公室做出多少贡献，我听到的都是你对我的最低期望。我受够了。几个月来，我为了好玩做了一些个人项目。现在我想认真起来，在办公室工作之外运用我的技能。我想从事能赚钱或帮助我建立良好关系的项目。我有一些想法，已经开始着手了。我也想听听其他人的想法和经验。  您对什么类型的项目感兴趣？ 您为个人项目花费了多少时间 您从中赚了多少钱？ 您是为了钱而开始这些项目，还是钱只是副产品而来的？ 您在此过程中建立了显着的联系吗？ 您的目标受众是广泛的还是小众话题？ 您是在什么堆栈中构建它的？ 您是否正在解决市场上没有解决方案的问题？或者您的解决方案比别人更好？ 您什么时候开始从事有偿的副业？     提交人    /u/KattappaKarikala   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmzj74/do_you_earn_money_from_your_side_projects/</guid>
+      <pubDate>Sun, 22 Sep 2024 18:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不喜欢 webpack</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmziym/i_dont_like_webpack/</link>
+      <description><![CDATA[当我必须设置或修改 webpack 时，我会感到畏缩。Vite 设置要容易得多。 Webpack 配置非常复杂，需要额外的插件才能完成任何操作。 我的应用程序目录很典型且显而易见，应该有更好的默认值。 我觉得学习 webpack 的时间浪费了，它已经被更快/更好的捆绑器取代了。 我不断遇到使用它的工具/项目，并且在进行基本更改时遇到困难。 请告诉我，我并不孤单。 /rant    提交人    /u/iBN3qk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmziym/i_dont_like_webpack/</guid>
+      <pubDate>Sun, 22 Sep 2024 18:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 正在成为全栈框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmyzes/react_is_becoming_a_fullstack_framework/</link>
+      <description><![CDATA[        提交人    /u/Active-Fuel-49   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmyzes/react_is_becoming_a_fullstack_framework/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:44:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以看看我的网站吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmy3dr/can_somebody_look_over_my_website/</link>
+      <description><![CDATA[我刚刚学习制作网站，如果有人能为我的作品集提供一些建议就太好了，对我来说，这个网站看起来有点不对劲，但我说不出到底是什么问题 lc9.lol    提交人    /u/Otherwise_Weather_57   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmy3dr/can_somebody_look_over_my_website/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐歌词 API 及其使用方法 | MusixMatch</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmy0a8/music_lyrics_apis_and_how_to_use_musixmatch/</link>
+      <description><![CDATA[我正在开始一个新的宠物项目，我计划使用同步音乐歌词。我知道 Spotify API 不提供歌词，所以我决定使用 Musixmatch。但是，我似乎找不到任何带有实际数字的具体定价详细信息。这里有人试过吗？它有多贵，我如何才能找到确切的价格和 API 限制？ 提前谢谢！    提交人    /u/some-daisy-tea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmy0a8/music_lyrics_apis_and_how_to_use_musixmatch/</guid>
+      <pubDate>Sun, 22 Sep 2024 17:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助创建交互式座位表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmwwj4/help_with_creating_an_interactive_seating_chart/</link>
+      <description><![CDATA[我正在开展一个项目，涉及创建交互式座位表，类似于 SeatGeek 使用的座位表，我正在寻找一些有关如何处理它的建议或最佳实践。 这是我的想法：  我想使用地理参照图像或矢量数据叠加场地布局或座位计划。 我计划使各个座位可点击并提供有关可用性的详细信息，并可能在用户与地图交互时突出显示部分座位。 理想情况下，我想使用实时数据来动态更新座位状态。 体验需要流畅且响应迅速，即使在缩放和平移时也是如此。     由    /u/Spartan_King_ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmwwj4/help_with_creating_an_interactive_seating_chart/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:12:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么地方可以帮助从概念上学习 Git？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmwnj1/any_place_that_helps_with_learning_git/</link>
+      <description><![CDATA[有几件事让我困惑。    提交者    /u/whateverwhoknowswhat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmwnj1/any_place_that_helps_with_learning_git/</guid>
+      <pubDate>Sun, 22 Sep 2024 16:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我了解了一些 UI 设计和实现原则</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmvx2o/i_figure_out_few_ui_design_and_implementation/</link>
+      <description><![CDATA[本周，我回顾了一些成功的产品，以了解它们如何实现更好的用户界面和体验。此分析的目的是确定关键见解并将其应用于我们的团队。我在此概述了一些原则。这不是自我推销，但我很感激任何关于这个话题的额外见解或想法    提交人    /u/brbee07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmvx2o/i_figure_out_few_ui_design_and_implementation/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>继续烤肉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmvtj1/resume_roast/</link>
+      <description><![CDATA[      使出浑身解数，让我的简历锦上添花。    提交人    /u/MagicalBot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmvtj1/resume_roast/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:24:12 GMT</pubDate>
+    </item>
     <item>
       <title>我如何让这个锚点的内容在框中居中？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fmvgki/how_do_i_center_the_content_of_this_anchor_in_the/</link>
@@ -22,7 +85,7 @@
     <item>
       <title>最适合工作的工具？（愿意学习任何东西）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fmv5ur/best_tools_for_the_job_willing_to_learn_anything/</link>
-      <description><![CDATA[大家好，希望你们一切都好。 我一直在构思一个平台，我想把它变成现实。这个名为“forever.移动”的网站（中文顶级域名，因为它很酷）将作为一个艺术平台，目前是照片和音乐平台。它将允许人们创建帐户、拥有头像、购买歌曲、下载图片、评论所述艺术作品并查看其他用户的评论和个人资料。它将有一个弹出式媒体播放器。该平台将具有高度定制的美学设计；例如，一个旋转动画会显示标题菜单。我在这里用 figma 制作了一个公共原型，您可以在此处查看。 将来，我认为该网站还可以销售实体产品，并在其弹出式媒体播放器中托管视频。 我想知道你们对创建和运行这个平台的堆栈有什么建议吗？ 我只有使用 wordpress 和 pagebuilders 的经验，还有一点python，但我愿意学习任何东西。我听说 headless wordpress 可能适合其帐户和数据库结构，搭配 headless woo commerce。我还听说过很多关于 react 和 next.js 以及后端的 node.js。我只是很迷茫，很感谢任何建议。我愿意学习任何东西，但决定最合适的堆栈很困难。谢谢 (:    由   提交  /u/hjorje69   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，希望你们一切都好。 我一直在构思一个平台，我想把它变成现实。这个名为“forever.移动”的网站（中文顶级域名，因为它很酷）将作为一个艺术平台，目前是照片和音乐平台。它将允许人们创建帐户、拥有头像、购买歌曲、下载图片、评论所述艺术作品并查看其他用户的评论和个人资料。它将有一个弹出式媒体播放器。该平台将具有高度定制的美学设计；例如，一个旋转动画会显示标题菜单。我在这里用 figma 制作了一个公共原型，您可以在此处查看。 将来，我认为该网站还可以销售实体产品，并在其弹出式媒体播放器中托管视频。 我想知道你们对创建和运行这个平台的堆栈有什么建议吗？ 我只有使用 wordpress 和 pagebuilders 的经验，还有一点python，但我愿意学习任何东西。我唯一真正想做的是使用 Stripe 进行支付。我听说无头 wordpress 可能适合其帐户和数据库结构，使用无头 woo commerce。我也听说过很多关于 react 和 next.js 以及后端的 node.js。我只是很迷茫，很感谢任何建议。我愿意学习任何东西，但决定最合适的堆栈很困难。谢谢 (:    由   提交  /u/hjorje69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmv5ur/best_tools_for_the_job_willing_to_learn_anything/</guid>
       <pubDate>Sun, 22 Sep 2024 14:55:15 GMT</pubDate>
     </item>
@@ -41,74 +104,11 @@
       <pubDate>Sun, 22 Sep 2024 13:05:12 GMT</pubDate>
     </item>
     <item>
-      <title>WebPush 是 Google Cloud Messaging/Apple Push Notification 的可行替代品吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmsi4l/is_webpush_a_viable_replacement_for_google_cloud/</link>
-      <description><![CDATA[根据这篇文章： https://blog.mozilla.org/services/2016/08/23/sending-vapid-identified-webpush-notifications-via-mozillas-push-service/  请记住，推送并非旨在取代更丰富的消息传递技术，如 Google Cloud Messaging (GCM)、Apple Push Notification 系统 (APNs) 或 Microsoft 的 Windows Notification System (WNS)。每种技术都有其优点和成本，作为开发人员或架构师，您需要确定哪种系统可以解决您的特定问题。 Push 只是一种低成本、简单的向应用程序发送数据的方式。  这是什么意思？为什么 WebPush 不能取代上述通知系统？    submitted by    /u/longiner   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmsi4l/is_webpush_a_viable_replacement_for_google_cloud/</guid>
-      <pubDate>Sun, 22 Sep 2024 12:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮我验证我的 SAAS！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmrd5p/help_me_validate_my_saas_please/</link>
-      <description><![CDATA[好的， 所以我已经构建 SAAS Decio (https://decio.site) 一段时间了，我已经达到了所有优秀 SAAS 开发人员都会达到的水平，他们开始怀疑“真的有人想要这个吗？？”和“我又在为谁构建它？？”。 简要总结 - Decio 旨在使技术团队的决策更简单、更顺畅、更具协作性。基础设施决策、技术决策、设计决策……所有这些都可以在 Decio 中捕获！这意味着您的团队可以在更短的时间内做出更明智的决策。 到目前为止，我一直在为我自己构建 Decio - 以解决我的痛点和我的观察。但是，我只是一个人（也许我有偏见）。 Decio 是为软件团队构建的，这就是我想问你们的原因  Decio 对你有用吗？ 它解决了你的问题吗？ 你会为像 Decio 这样的工具支付月费吗？  想知道你的想法！ 谢谢， 来自 Decio 的 Ben    提交人    /u/Benjeev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmrd5p/help_me_validate_my_saas_please/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>你曾经使用过这个堆栈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</link>
-      <description><![CDATA[嘿， 作为一名精疲力竭的高级开发人员，我最近开始了为期一个月的寻找新堆栈。经过大量时间的学习和测试 Phoenix、Ruby 和 Go 等各种选项后，我确定了以下组合：  Supabase：实时将变异传播到连接的客户端、文件处理和授权 - 这些功能我过去一直必须手动实现 TRPC：轻松实现用于数据库交互的附加后端逻辑，同时使用 Zod 保持 I/O 类型安全性和清理 TanStack Query（React Query）：将 trpc 包装在可缓存查询中，防止订阅同一密钥的多个组件发送冗余网络请求 SvelteKit：可以用任何其他框架替代，但我选择了 Svelte 以获得全新的视角  虽然 SvelteKit 和 Supabase 的搭配在开发人员中似乎很受欢迎，但我遇到的并不多的人决定用 tRPC 包装所有内容，然后进一步将其封装在TanStack Query 而不是直接使用 Supabase。经过几天的开发，我必须说这是一次愉快的体验。 我很好奇：还有其他人尝试过这种组合吗？它的扩展性如何？我很想听听您的经验或见解。    提交人    /u/Sarithis   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我想在不使用“大技术”解决方案的情况下尽可能“合乎道德”且最佳地托管我的 SSR 网站，我有哪些选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmqy76/if_i_want_to_host_my_ssr_site_as_ethically_and/</link>
-      <description><![CDATA[我已经将 Github 换成了 https://codeberg.org，但说到实际托管，我有点迷茫。是否有可能在不使用大技术的情况下获得一个具有良好全球 CDN 覆盖范围的最佳服务 SSR 网站？如果可能的话，我想使用欧洲解决方案。 谢谢！    提交人    /u/angryloser89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmqy76/if_i_want_to_host_my_ssr_site_as_ethically_and/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成200个指向图片的img标签？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmqufj/generate_200_img_tags_that_points_to_pictures/</link>
-      <description><![CDATA[我的文件夹中有 200 张不同名称的图片。我想在 index.html 页面上创建 200 个指向这些图片的 img 标签。我该如何最简单、最快速地完成？ 我不想使用任何 CMS（例如 WordPress）。 应该只供我离线使用，因此代码或性能如何并不重要。 我已经在线测试了所见即所得编辑器，但它们只能导入一张图片或崩溃。    提交人    /u/xtreme79   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmqufj/generate_200_img_tags_that_points_to_pictures/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新互联网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmqq29/the_new_internet/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmqq29/the_new_internet/</guid>
-      <pubDate>Sun, 22 Sep 2024 11:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁知道为什么 YouTube 在 Firefox 中冻结但嵌入工作正常？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmqmgc/anyone_knows_why_youtube_freezes_in_firefox_but/</link>
-      <description><![CDATA[嗨，我想问一下那些比我了解更多的人： 晚上的时候，我在 Firefox 上无法观看 YouTube 视频。缓冲一定时间并播放几秒钟后，首先视频会冻结，然后几秒钟后音频会冻结。之后就卡住了。我已经尝试禁用 noscript 和 adblocker。没有任何效果。尝试使用其他浏览器（我保留了原始版本）可以正常工作，但显然有广告。  但是，我发现当我使用 YouTube 的视频嵌入代码时，它可以在任何浏览器中完美运行，并且不会出现广告。有人知道发生了什么吗？这是谷歌发起的又一场浏览器战争吗？我自己从事 Web 开发工作，我觉得我应该知道这一点，但一直无法自己弄清楚……    提交人    /u/Alive_Tumbleweed_144   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmqmgc/anyone_knows_why_youtube_freezes_in_firefox_but/</guid>
-      <pubDate>Sun, 22 Sep 2024 10:59:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工匠的时代</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmq4tj/the_age_of_software_artisans/</link>
-      <description><![CDATA[  由    /u/gray4444  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmq4tj/the_age_of_software_artisans/</guid>
-      <pubDate>Sun, 22 Sep 2024 10:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关电子商务迁移的图像提取的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmpb4y/seeking_advice_on_image_extraction_for_ecommerce/</link>
-      <description><![CDATA[大家好， 我正在用 WordPress 构建一个新的电子商务网站，需要从旧网站转移产品信息。理想情况下，我希望尽可能多地移动数据以节省时间和精力。旧网站不是建立在任何知名平台上的；它似乎是自定义编码的，非常过时，提供的选项有限。 我可以将大多数文本相关信息复制并粘贴到 Excel 中，然后将其上传到 WordPress，但我在处理图像时遇到了麻烦。不幸的是，旧网站的构建器几乎没有提供任何支持，因为它是几年前为前客户创建的。 有人知道是否有办法提取所有图像？或者可能是所有信息以及图像？我尝试搜索任何“神奇”工具并探索选项，但没有任何运气。我担心这可能无法实现，但我想和大家核实一下。否则，我将不得不管理大约 4,000 件商品的手动转移。 :( 谢谢！:)    提交人    /u/TommenLouthbrock   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmpb4y/seeking_advice_on_image_extraction_for_ecommerce/</guid>
-      <pubDate>Sun, 22 Sep 2024 09:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现无需身份验证的“赞”按钮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmpa33/how_i_implemented_a_like_button_without/</link>
-      <description><![CDATA[在我看来，要求用户登录您的个人网站来喜欢某个帖子太过分了。相反，如果没有这种身份验证，那么有一个喜欢按钮怎么样？我写了一篇博客，介绍如何在我的网站上做到这一点 - https://abhisaha.com/blog/no-authentication-like-button    提交人    /u/redsnowmac   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmpa33/how_i_implemented_a_like_button_without/</guid>
-      <pubDate>Sun, 22 Sep 2024 09:26:59 GMT</pubDate>
+      <title>我制作了一款应用程序，可以将任何网站变成对话：Crumbs - 开源 Dapp + 扩展</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fm73n8/i_made_an_app_to_turn_any_website_into_a/</link>
+      <description><![CDATA[        提交人    /u/Comfortable_Tiger530   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fm73n8/i_made_an_app_to_turn_any_website_into_a/</guid>
+      <pubDate>Sat, 21 Sep 2024 16:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
