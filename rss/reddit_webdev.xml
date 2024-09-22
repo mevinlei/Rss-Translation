@@ -4,20 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 06:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 09:10:32 GMT</lastBuildDate>
+    <item>
+      <title>java 和 javascript 有什么区别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmooio/difference_between_java_and_javascript/</link>
+      <description><![CDATA[我不知道这是否是发布它的正确 subreddit。 我是编码的完全初学者，所以我想知道 java 和 javascript 之间的区别。 谢谢。    提交人    /u/Disastrous_Judge_506   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmooio/difference_between_java_and_javascript/</guid>
+      <pubDate>Sun, 22 Sep 2024 08:42:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向 .NET 开发人员的 Laravel (PHP)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmofh5/laravel_php_for_net_developer/</link>
+      <description><![CDATA[嗨， 我从事 .NET 开发已有 10 多年了。全职使用它。我唯一的 PHP 经验是我在 Wordpress 中做过的一些事情。 我还做一些兼职工作（主要是小型 Web 应用程序）。最近我一直在听说 PHP，我很想开始将它用于我的业余项目，使用像 Laravel 这样的框架。 开始学习并将 Laravel 用于这些业余项目是否有意义？或者，鉴于我对 .NET 非常熟悉，最好坚持使用 .NET 并进一步提高它？ 我能看到的优点是：- 学习新的框架/语言- 做一些与我全职工作不同的事情- 在 Mac（我的个人电脑）上有良好的开发经验？ - 我已经在 Cloudways 上为一些 WP 项目配备了 VPS，它也支持 Laravel/PHP，我可以使用它 - 一个看起来可以快速交付的框架 缺点 - 我将从头开始学习，并失去我已经拥有的 .NET 灵活性 - 我将没有机会学习 .NET 中我可能无法全职学习的东西。  — 如果学习 Laravel 可以为我提供更多的机会，丰富我的简历，甚至让我成为一名更好的程序员，那就太好了。但是，最终最重要的是能够快速、高质量地交付，因为可用于副项目的时间通常非常有限。如果我真的不能从中获得太多东西，那么我想我会忘记这个想法。  你的想法是什么？有什么经验可以分享吗？     提交人    /u/Top_Confidence_1921   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmofh5/laravel_php_for_net_developer/</guid>
+      <pubDate>Sun, 22 Sep 2024 08:24:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于快速反应小组应用程序的问题 - 类似于 Act IL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmncwe/question_about_app_for_rapid_response_team/</link>
+      <description><![CDATA[对于制作一个可供一群人用作快速反应团队的应用程序，您有什么建议。管理员将添加指向 FB 帖子的链接 - 然后打开 Web 应用程序或应用程序的匿名用户将收到通知，其中包含新添加的 URL/上传的图像截图。几年前，有一款用于“人群报道”的 Act-IL izraeli 应用程序。  我想要： - 用于添加链接的简单管理员（Facebook、X、TikTok） - 带有帖子列表 /预览/ 的用户界面 - 手机/手表上的通知 也许有一些“模板”，比如我可以使用的一些基于 RSS 的应用程序。只是想向您寻求建议。     提交人    /u/Paolo-Cortez   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmncwe/question_about_app_for_rapid_response_team/</guid>
+      <pubDate>Sun, 22 Sep 2024 07:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名网络新手，在购买网络托管后遇到了一个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmn4hp/im_a_web_noob_and_i_have_a_problem_after_having/</link>
+      <description><![CDATA[[已解决] 嘿！所以我最近创建了自己的 HTML 网站（自定义鼠标光标和所有内容），我决定购买一个域名并进行设置。现在，该网站已启动并运行，除了我的自定义鼠标光标不显示之外，其他一切都正常。 当我在本地打开我的网站时，它可以正常工作，其他一切都可以在线工作，但我的鼠标光标不起作用。 能够修复这个问题对我来说很重要，因为光标对我来说非常重要。如果有人知道这可能是为什么以及如何修复它，请告诉我！    提交人    /u/FireJojoBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmn4hp/im_a_web_noob_and_i_have_a_problem_after_having/</guid>
+      <pubDate>Sun, 22 Sep 2024 06:47:55 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Google Gemini AI API 生成网站登陆页面</title>
       <link>https://www.reddit.com/r/webdev/comments/1fmlvzv/using_google_gemini_ai_api_to_generate_website/</link>
       <description><![CDATA[大家好， 我正在尝试使用 google Gemini AI API 随机生成网站登录页面。这是一个只是为了好玩的附带项目。我正在撰写一系列文章，试图记录整个过程。这是链接， https://medium.com/@xianli_74374/how-to-randomly-generate-a-website-landing-page-with-google-gemini-ai-747bdf1c23af 请让我知道您对这个项目的想法。我真的很感激！谢谢！ 注意。我也开始使用 Substack，我也积极地在那里发布一些笔记和文章，这里是链接， https://open.substack.com/pub/xianli?r=4b54s&amp;utm_medium=ios    提交人    /u/Pipe-Silly   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmlvzv/using_google_gemini_ai_api_to_generate_website/</guid>
       <pubDate>Sun, 22 Sep 2024 05:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮我挑选我的堆栈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmloz7/please_help_me_pick_my_stack/</link>
-      <description><![CDATA[我花了两周时间研究各种平台和选项，开始有点疯狂了。 我迫切需要一个更新的现代网站，用于我的服务业务以及随之而来的典型功能。一旦完成，我将直接尝试构建我们自己的 crm 和内部系统。将来，我打算构建我们自己的现场服务管理模块以及基于 gis 的现场管理模块并实施物联网。 我绝不是一名开发人员，但我在边学边学，通过解决具体问题，我的学习效果最好。 我想要一个可以随着时间的推移而发展且不会达到极限的系统，并且理想情况下，在我未来的开发中尽可能多地使用相同的堆栈。  关键标准： - 无供应商锁定 - 性能和搜索引擎优化 - 必须具有可视化用户界面以便在需要时进行构建，但也希望完全控制代码库 - 无头 cms  很想能够使用 webflow，但我不想在其上托管，因此我将导出更新，如果我正确理解了导出限制的话，这对于基于 api 的网站实际上不起作用。  短暂尝试了 sanity 并在 UI 上挣扎。  Plasmic 似乎可能是一种选择。  DB我喜欢supabase，因为它似乎可以处理网站内容以及满足我未来的应用程序需求。  我需要网站超快速地启动和运行，并且我希望能够以无代码样式对应用程序元素进行原型设计，然后根据需要自定义代码。  这里的任何建议都很棒。  我查看过： - webflow - framer - headless wp - strapi - sanity - plasmic - prismic - weweb - wappler - directus - supabase - vercel     提交人    /u/SuperDangerBro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmloz7/please_help_me_pick_my_stack/</guid>
-      <pubDate>Sun, 22 Sep 2024 05:08:39 GMT</pubDate>
     </item>
     <item>
       <title>一直在构建 Windows 95 产品组合</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[        提交人    /u/blaazaar   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmge6e/i_made_an_open_source_vscode_shortcuts_cheatsheet/</guid>
       <pubDate>Sat, 21 Sep 2024 23:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在开发者工具上导入 WebAuthn 凭证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmfjmd/import_webauthn_credentials_on_developer_tools/</link>
-      <description><![CDATA[我之前在捣鼓，在 Dev Tools 上发现了 WebAuthn。我相信它可以生成一个“虚拟身份验证器”用于测试。它也允许您导出它。有人知道如何导入生成的私钥文件以供以后使用吗？    提交人    /u/runningwhipstitch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmfjmd/import_webauthn_credentials_on_developer_tools/</guid>
-      <pubDate>Sat, 21 Sep 2024 23:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个设计和代码生成器，用于快速生成美观的页面 —aspect.app</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmf7pr/i_made_a_design_code_generator_for_quick/</link>
-      <description><![CDATA[        提交人    /u/sennt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmf7pr/i_made_a_design_code_generator_for_quick/</guid>
-      <pubDate>Sat, 21 Sep 2024 22:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的项目有反馈？suggest-me-a-book.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmejrj/feedback_on_my_project_suggestmeabookcom/</link>
-      <description><![CDATA[大家好！ 我刚刚完成我的项目的 MVP，名为 https://suggest-me-a-book.com 欢迎提供任何反馈！设计功能等。 如果您有任何问题，请不要犹豫。 堆栈： NextJS AWS Lambdas API 网关 + CloudFront + S3 功能摘要： 用自己的语言描述您想阅读的书，AI将为您提供量身定制的建议！ 人工智能可以理解任何语言，因此您可以随心所欲地表达自己，并以该语言接收书籍建议。 需要帮助添加更多详细信息吗？单击+按钮获取引导提示，以优化您的偏好。 （让我知道你的想法！我对最初的想法做了一些改变，以保持它更加灵活。） 喜欢冒险吗？点击给我惊喜按钮获取随机图书推荐！ 您还可以使用语言下拉菜单将整个网站翻译成 20 多种语言，以获得无缝体验！    提交人    /u/Vanals   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmejrj/feedback_on_my_project_suggestmeabookcom/</guid>
-      <pubDate>Sat, 21 Sep 2024 22:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
