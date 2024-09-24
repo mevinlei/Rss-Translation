@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Sep 2024 12:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:11:41 GMT</lastBuildDate>
+    <item>
+      <title>Orbit：用于构建径向用户界面的通用 CSS 框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1foeq5s/orbit_a_generalpurpose_css_framework_designed_for/</link>
+      <description><![CDATA[        提交人    /u/tinchox5   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1foeq5s/orbit_a_generalpurpose_css_framework_designed_for/</guid>
+      <pubDate>Tue, 24 Sep 2024 15:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winamp 媒体播放器源代码正式发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</link>
+      <description><![CDATA[        提交人    /u/MT4K   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fodpgq/winamp_mediaplayer_source_code_is_officially/</guid>
+      <pubDate>Tue, 24 Sep 2024 14:22:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以向我解释一下 wxWidgets 许可证吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</link>
+      <description><![CDATA[我不明白 wxWidgets 的 许可证 背后的意图  它是 LGPL，但有一个例外：“您可以根据自己的条款使用、复制、链接、修改和分发基于该库的作品的二进制目标代码版本”  对我来说，这似乎是一种毫无意义的复杂方式，却编写了本质上是宽松的许可证。  是我误解了，还是这里有一些特定的意图？    提交人    /u/CumCloggedArteries   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</guid>
+      <pubDate>Tue, 24 Sep 2024 13:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于创建下一代 AI 代理的实时多模式代理框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</link>
+      <description><![CDATA[       由    /u/hu-beau  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</guid>
+      <pubDate>Tue, 24 Sep 2024 12:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>YogaDNS 替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>想法：TBO（待开放）许可方案......</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</link>
-      <description><![CDATA[我已经重复这个想法很长时间了，但从未真正与任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
+      <description><![CDATA[我已经重复这个想法一段时间了，但从来没有真正和任何人谈论过它，所以为什么不在这里... 这背后的想法是允许独立开发者获得报酬，同时最终维护开源的核心原则。作为一名开发者，我需要赚钱。作为一名患有 ADHD 的开发者，我不想努力围绕每个小项目建立业务。作为 OSS 的用户/支持者，我只是厌倦了所有伪开放免费增值项目。 这个想法有点像众筹开发和 IP 托管的结合，开发者可以使用这个托管合作伙伴/许可方案来开发 TBO（待开放）的代码，但在开发者收到预定金额的补偿（和/或可能已经过了一定时间）之前可能会受到一些限制。将会有一套预先设定的使用许可证，这些许可证在达到筹资目标之前一直适用，之后 IP 将在完全开放的许可证下可用（这是提前选定的）。要实现这一点，我认为还需要设立或指定一个受信任的实体来托管捐款以及 IP 本身。  我的想法是，完全开放项目的筹资目标应该预先设定，并且是一次性的。一旦达到目标，完全开放的许可证就会生效，人们可以继续向最初的开发者（或其他开发者，用于赏金/等）捐款，但不能再回头了。托管实体拥有版权，并有义务维护指定的完全开放许可证。我还没有深入研究所有细节，但想得到一些关于可行性和可取性的反馈。  也许这样的事情已经存在了？如果有人听说过这样的事情，请告诉我。我欢迎所有评论/反馈。    由   提交  /u/Warm_Command7954   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnso8i/idea_tbo_to_be_open_license_scheme/</guid>
       <pubDate>Mon, 23 Sep 2024 19:11:32 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[这是我已经工作了 2 年多的项目。它是开源的，因此您可以下载并使用它来启动您的 SaaS 应用程序。为什么是无服务器的？为了尽量降低成本。目前，安装和部署后，每月费用为 50 美分。 还有更多功能，例如：云中的蓝绿部署、用于测试的云中的开发堆栈、开发团队的轻松堆栈复制、GraphQL 后端和 React 前端。 您可以在文档链接中阅读更多内容，我欢迎任何反馈！    提交人    /u/bmilesp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fnos9c/s6pack_a_serverless_saas_starter_pack_using/</guid>
       <pubDate>Mon, 23 Sep 2024 16:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>FSL：比 AGPL 更能实现商业/开源平衡</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnnquj/fsl_a_better_businessopen_source_balance_than_agpl/</link>
-      <description><![CDATA[  由    /u/mitsuhiko  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnnquj/fsl_a_better_businessopen_source_balance_than_agpl/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>ElevenLabs 配音人工智能替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</link>
-      <description><![CDATA[我需要一个可以自行托管的免费工具，它可以获取音频，识别语音和强调，然后将其转换为另一种语言并保留强调和克隆的声音（或者如果最后一件事不可能，至少我需要导入自定义语音模型的可能性）。 ElevenLabs 可以做到这一点，但是它很昂贵，我需要免费的东西。谢谢。    提交人    /u/TraditionalItalian27   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnnc0u/elevenlabs_dubbing_ai_alternative/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 AI 定义 – 9 月 23 日每周更新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnkiwf/open_source_ai_definition_weekly_update_september/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnkiwf/open_source_ai_definition_weekly_update_september/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>threadpipepy：一个开源 Python 库，用于使用官方 Meta 的 Threads API 与 Threads API 进行交互</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fnkf7y/threadspipepy_an_open_source_python_library_for/</link>
-      <description><![CDATA[大家好，我来介绍一下我的新库threadpipepy，这是一个使用官方Meta的Threads API的Threads API的开源Python库，它使入门变得非常容易，并且如果您的帖子长度超过最大字符长度，该库会自动创建链式帖子或类似线程的帖子，并且如果媒体文件超过限制，它还可以将其拆分为链式帖子，您可以上传Threads API不允许的本地文件，还可以轻松实现授权窗口，添加文件标题和限制帖子等。 它还附带一个CLI工具，可用于在访问令牌过期之前通过CLI获取和刷新访问令牌 Pypi上库的链接是 https://pypi.org/project/threadspipepy/ 如果您想贡献GitHub 存储库是 https://github.com/paulosabayomi/ThreadsPipe-py 该库对于想要构建自动帖子调度程序应用程序和（好的）线程机器人以及许多其他东西的人很有用    提交人    /u/paulos_ab   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fnkf7y/threadspipepy_an_open_source_python_library_for/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
