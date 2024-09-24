@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 18:13:19 GMT</lastBuildDate>
+    <item>
+      <title>您知道带有 GPT4o 语音控制的笔记应用程序吗？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1foh8u0/do_you_know_a_note_taking_app_with_gpt4o_voice/</link>
+      <description><![CDATA[嗨，我正在寻找一款像 OneNote 或 Evernote 这样的应用，并支持具备 GPT4o 级别语音能力的 AI 助手。 我正在寻找的功能： - 在笔记本和页面中整理笔记 - 能够手动编辑笔记 - 能够以聊天的方式向 AI 助手询问我的笔记，比如使用语音与 GPT4o 聊天 - 要求 AI 助手编辑现有笔记 - 告诉 AI 助手写新笔记 使用 OpenAI GPT 聊天应用记笔记并不舒服。我找到了 GPT 和 Evernote 的集成 https://notelinkgpt.com，但它不能用于编辑和创建笔记。另一方面，https://usenotesgpt.com/ 支持使用语音创建笔记，但不支持编辑聊天。    提交人    /u/tomb155   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1foh8u0/do_you_know_a_note_taking_app_with_gpt4o_voice/</guid>
+      <pubDate>Tue, 24 Sep 2024 16:51:09 GMT</pubDate>
+    </item>
     <item>
       <title>使用 ChatGPT 创作艺术是不可能的</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fodd4g/impossible_to_create_art_with_chatgpt/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/harshit_nariya  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fdcgcp/automate_reddit_with_ai_agents/</guid>
       <pubDate>Tue, 10 Sep 2024 07:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年编码 AI 副驾驶比较 - CodiumAI、GitHub Copilot、Replit、Cursor</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</link>
-      <description><![CDATA[该指南比较了 2024 年最佳编码 AI 副驾驶 - 作为通过提供实时代码建议和完成来协助开发人员完成整个软件开发生命周期的高级工具（这使它们有别于可能仅提供任务特定支持的常规编码 AI 助手）：2024 年四大编码 AI 副驾驶 它解释了这些副驾驶的主要好处，包括提高效率、减少错误、保持一致的代码质量和自然语言处理。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</guid>
-      <pubDate>Mon, 09 Sep 2024 10:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
