@@ -4,7 +4,21 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Thu, 26 Sep 2024 00:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 03:24:02 GMT</lastBuildDate>
+    <item>
+      <title>纽约市长埃里克·亚当斯被联邦起诉</title>
+      <link>https://www.bbc.com/news/articles/cglkeyjzez2o</link>
+      <description><![CDATA[64 岁的亚当斯是该市历史上第一位在任期间受到刑事指控的市长。]]></description>
+      <guid>https://www.bbc.com/news/articles/cglkeyjzez2o</guid>
+      <pubDate>Thu, 26 Sep 2024 03:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国及其盟友呼吁黎以边境停火21天</title>
+      <link>https://www.bbc.com/news/articles/c20m1d77m86o</link>
+      <description><![CDATA[该十二国集团表示，以色列和真主党之间的局势存在更大范围升级的“不可接受的风险”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c20m1d77m86o</guid>
+      <pubDate>Thu, 26 Sep 2024 03:22:21 GMT</pubDate>
+    </item>
     <item>
       <title>RSPCA 启动对农场动物福利计划的审查</title>
       <link>https://www.bbc.com/news/articles/czj9nl88k0mo</link>
@@ -20,25 +34,11 @@
       <pubDate>Thu, 26 Sep 2024 00:11:07 GMT</pubDate>
     </item>
     <item>
-      <title>以色列陆军参谋长：对黎巴嫩的袭击正准备进行地面攻势</title>
-      <link>https://www.bbc.com/news/articles/c8xe8nkj9wyo</link>
-      <description><![CDATA[星期三，真主党向特拉维夫发射导弹，以色列的袭击造成 50 多人死亡。]]></description>
-      <guid>https://www.bbc.com/news/articles/c8xe8nkj9wyo</guid>
-      <pubDate>Wed, 25 Sep 2024 23:56:35 GMT</pubDate>
-    </item>
-    <item>
       <title>伊隆·马斯克未受邀参加英国顶级投资峰会</title>
       <link>https://www.bbc.com/news/articles/c756d56d2dro</link>
       <description><![CDATA[据 BBC 了解，这是因为人们担心他在上个月的骚乱期间传播了有关英国的错误信息。]]></description>
       <guid>https://www.bbc.com/news/articles/c756d56d2dro</guid>
       <pubDate>Wed, 25 Sep 2024 23:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们欢呼雀跃，然后躲在死者中间——新星幸存者回忆哈马斯大屠杀</title>
-      <link>https://www.bbc.com/news/videos/c0qznj3l5ypo</link>
-      <description><![CDATA[英国广播公司 (BBC) 的一部新纪录片让我们看到了哈马斯在以色列新星音乐节上发动的恐怖袭击，此次袭击造成数百人死亡。]]></description>
-      <guid>https://www.bbc.com/news/videos/c0qznj3l5ypo</guid>
-      <pubDate>Wed, 25 Sep 2024 21:04:54 GMT</pubDate>
     </item>
     <item>
       <title>普京提出使用核武器的新规则</title>
@@ -104,11 +104,11 @@
       <pubDate>Tue, 24 Sep 2024 19:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>什么是真主党？为什么以色列要攻击黎巴嫩？</title>
-      <link>https://www.bbc.co.uk/news/world-middle-east-67307858</link>
-      <description><![CDATA[跨境敌对行动不断升级，加剧了人们对爆发全面冲突的担忧。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-middle-east-67307858</guid>
-      <pubDate>Tue, 24 Sep 2024 16:00:55 GMT</pubDate>
+      <title>观看：BBC 探访收容 1000 人的贝鲁特学校</title>
+      <link>https://www.bbc.com/news/videos/clyl8gxxm9lo</link>
+      <description><![CDATA[随着以色列持续轰炸黎巴嫩南部，数以千计的平民逃离家园。]]></description>
+      <guid>https://www.bbc.com/news/videos/clyl8gxxm9lo</guid>
+      <pubDate>Tue, 24 Sep 2024 13:47:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
