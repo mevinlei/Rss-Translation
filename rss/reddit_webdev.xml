@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 06:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 09:11:52 GMT</lastBuildDate>
+    <item>
+      <title>我如何利用 JavaScript、AI 和一罐 WD-40 赢得 2,750 美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fs09zd/how_i_won_2750_using_javascript_ai_and_a_can_of/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fs09zd/how_i_won_2750_using_javascript_ai_and_a_can_of/</guid>
+      <pubDate>Sun, 29 Sep 2024 09:07:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于面试和综合研究的 DBMS!???</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frzuld/dbms_for_interviews_and_general_studies/</link>
+      <description><![CDATA[我想问一下我是否应该详细了解事务并发协议，例如基于时间戳戳的协议、锁协议、图形协议，例如它们在内部是如何工作的（目前我对它们有一点了解，例如定义和表面级别）。我目前正在遵循 chatgpt 生成的 ossu 和 dbms 计划的混合。我已经详细介绍了索引、ER 模型、关系模型、事务、中级 SQL、规范化、ACID 属性、无 SQL 数据库等主题。我的问题是  1- CS 学生是否学习实施这些协议或在学位期间详细研究它们  2- 我应该跳过学习协议以备后用吗？从面试的角度是否要求他们担任 Web 开发人员角色     提交人    /u/Slow-General3930   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frzuld/dbms_for_interviews_and_general_studies/</guid>
+      <pubDate>Sun, 29 Sep 2024 08:35:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>CORS 代理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frzc7r/cors_proxies/</link>
+      <description><![CDATA[在您的前端使用公共/共享 CORS 代理有任何顾虑吗？ 我理解这会为您设置中间人攻击，但如果您尝试访问您可能无法控制的站点上的公共（未经身份验证的）端点 - 您实际上并没有变得更糟，是吗？    提交人    /u/AdequateSource   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frzc7r/cors_proxies/</guid>
+      <pubDate>Sun, 29 Sep 2024 07:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我无法从我的 bubble.io 网络应用中删除 GA4 脚本。帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frxwud/i_am_unable_to_remove_the_ga4_script_from_my/</link>
+      <description><![CDATA[有人能帮我吗？我找到了一个 GA4 脚本源代码，但无法将其从我的网络应用中删除。我尝试通过转到“设置”&gt;“SEO/Meta”&gt;“标头/正文”部分将其删除，但那里也不可用    提交人    /u/Saad_here   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frxwud/i_am_unable_to_remove_the_ga4_script_from_my/</guid>
+      <pubDate>Sun, 29 Sep 2024 06:13:31 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助选择正确的前端框架!!!</title>
       <link>https://www.reddit.com/r/webdev/comments/1frxcyt/need_help_in_choosing_the_right_frontend_framework/</link>
@@ -60,34 +88,6 @@
       <description><![CDATA[Hello Web Devs， 当我完成我的机构网页的重新设计时，我安装了 Microsoft Clarity 来查看网站内的用户体验。这有助于我了解用户最喜欢什么以及我们应该更改、更新或完全删除什么。 突然间，我发现来自谷歌和 Facebook（不是 Instagram，只是 Facebook）的访客数量激增。很高兴看到所有这些新的用户互动，我试图分析数据，但突然间网站似乎变得一团糟......似乎什么都不能正常工作。 任何粘性内容都不会显示在它们的位置，但是当我在手机上测试它时，它工作正常。 我对此非常困惑，所以我想问问你的意见/帮助你的经验或想法。 谢谢 PS：如果这很重要的话，我正在使用 wordpress。    提交人    /u/asata-io   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1frsje5/something_is_wrong_with_my_site_or_microsoft/</guid>
       <pubDate>Sun, 29 Sep 2024 00:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个类似于 Pinterest 的网站有多难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frsfnn/how_hard_it_would_be_to_make_a_site_similar_to/</link>
-      <description><![CDATA[我完全不懂这个话题，因为我只做过非常基本的网站（针对只有信息的小品牌），所以我不确定算法部分是如何工作的，但我想这应该不难，对吧？ 我问这个问题是因为那个网站快要死了，我很惊讶有很少有类似于它的工作方式的选项。    提交人    /u/nobadinou   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frsfnn/how_hard_it_would_be_to_make_a_site_similar_to/</guid>
-      <pubDate>Sun, 29 Sep 2024 00:41:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择个人域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frrbea/how_to_choose_a_personal_domain/</link>
-      <description><![CDATA[GitHub 学生开发者包包含一个带有 .me TLD 的免费域名。我要注册一个，将我的作品集托管在它下面，将其他项目托管在子域名下。 但我不知道应该买什么域名？应该是 fnamelname.me、fname-lname.me 还是其他完全不同的东西。 我听说为作品集使用个人域名会让它看起来更专业，所以我想选择正确的域名。 使用我的 GitHub ID 也可以吗（我更喜欢这个而不是我的姓氏）？    提交人    /u/Agitated-Cucumber244   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frrbea/how_to_choose_a_personal_domain/</guid>
-      <pubDate>Sat, 28 Sep 2024 23:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] Kallax.io - Blazor 中的棋盘游戏应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frr8y6/showoff_saturday_kallaxio_a_board_game_app_in/</link>
-      <description><![CDATA[        提交人    /u/AdequateSource   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frr8y6/showoff_saturday_kallaxio_a_board_game_app_in/</guid>
-      <pubDate>Sat, 28 Sep 2024 23:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>咆哮：我正在尝试使用人工智能来构建一款应用程序，但我却非常失望，人们在谈论什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frr6ja/rant_im_trying_to_use_ai_to_build_an_app_i_am/</link>
-      <description><![CDATA[所以我现在失业了几个月。这并不完全是 AI 的错。 但 Upwork 上的几乎所有内容都是“你能为我建立一个 AI 等等”。 Otta 上大约有一半的招聘信息是“我们正在将 AI 构建到我们的应用程序中” 我不断听到所有这些“思想领袖”说编程已死，AI 将取代所有初级职位，并很快取代中级到高级职位。 首先 - 我从未听到过有人谈论 AI 的承诺之地而没有试图向我推销 AI。 现在，其次也是最重要的。 我在这里，试图使用我能接触到的每一个 AI 工具来真正“完成我的工作”。  任务很简单 - 获取 Figma 文件/屏幕截图/其他内容，然后将其转换为 react/html/css。 我希望它能节省我手动执行此操作的工作。  结果是......嗯，老实说，我浪费了大量时间试图让它做我需要它做的事情，最终并没有为我节省任何工作。  别误会我的意思，我喜欢在编码的同时使用 chatGPT，它让我的效率提高了 10 倍 - 主要是节省了我谷歌搜索和阅读文档的时间，它回答了我非常尖锐的问题，但我知道如何做的事情，它就帮我做了。很好的合作伙伴。  但是有很多有钱人相信人工智能是一种可以实现他们愿望的神奇精灵。  好吧，我在这里，把灯里的废物擦掉，我的神灯就像一个喝醉的小孩一样。  所以这个神话必须消失，这个谎言正在摧毁许多好人的生计。  如果“自由市场”用来取代我们的工具确实完成了我们的工作，我不会反对“自由市场”取代我们。     提交人    /u/IAmRules   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frr6ja/rant_im_trying_to_use_ai_to_build_an_app_i_am/</guid>
-      <pubDate>Sat, 28 Sep 2024 23:35:16 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一个用于建立网站的网站</title>
