@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 30 Sep 2024 06:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:13:27 GMT</lastBuildDate>
+    <item>
+      <title>有没有开源的编剧软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fsqvm7/are_there_any_open_source_screenwriting_software/</link>
+      <description><![CDATA[  由    /u/haiiiiiiiiiiiii__  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fsqvm7/are_there_any_open_source_screenwriting_software/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenFreeMap - 免费开源地图托管</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fsqbiy/openfreemap_free_and_opensource_map_hosting/</link>
+      <description><![CDATA[  由    /u/whyhatcry  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fsqbiy/openfreemap_free_and_opensource_map_hosting/</guid>
+      <pubDate>Mon, 30 Sep 2024 07:58:19 GMT</pubDate>
+    </item>
     <item>
       <title>开源、自托管社交网络</title>
       <link>https://www.reddit.com/r/opensource/comments/1fso5d7/open_source_selfhost_social_network/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>开源贡献建议</title>
       <link>https://www.reddit.com/r/opensource/comments/1fs3alh/suggestions_for_opensource_contribution/</link>
-      <description><![CDATA[大家好！ 过去 3 年，我一直担任后端 Java 开发人员，主要专注于银行项目。我的技术栈包括 Java、Spring Boot、Microservices、Kafka、Docker 和 MySQL。最近，我一直想回馈开发者社区，并通过为开源项目做贡献来获得更多经验。 我很乐意听取以下方面的建议：  可以从我的技能中受益的项目或存储库。 如何开始为开源做贡献（欢迎提供任何提示或指南！）。 任何为基于 Java 的后端项目做贡献的最佳实践。  如果您有为开源做贡献的经验，我也很想听听它如何使您受益以及您面临的任何具体挑战。 提前感谢您的建议和意见！🙏    提交人    /u/vijaynethamandala   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 过去 3 年，我一直担任后端 Java 开发人员，主要专注于银行项目。我的技术栈包括 Java、Spring Boot、Microservices、Kafka、Docker 和 MySQL。最近，我一直想回馈开发者社区，并通过为开源项目做贡献来获得更多经验。 我很乐意听取以下方面的建议：  可以从我的技能中受益的项目或存储库。 如何开始为开源做贡献（欢迎提供任何提示或指南！）。 任何为基于 Java 的后端项目做贡献的最佳实践。  如果您有为开源做贡献的经验，我也很想听听它给您带来了什么好处以及您面临的任何具体挑战。 提前感谢您的建议和意见！🙏    提交人    /u/vijaynethamandala   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fs3alh/suggestions_for_opensource_contribution/</guid>
       <pubDate>Sun, 29 Sep 2024 12:33:01 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/Wide-Standard8082  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frypy2/does_open_source_not_mean_free_by_default/</guid>
       <pubDate>Sun, 29 Sep 2024 07:11:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有适合 C++ Student 的“即插即用” FOSS 替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</link>
-      <description><![CDATA[我是一名学习 C++ 的学生，我现在的编译器是 Visual Studio。但是，我对使用 FOSS 软件很感兴趣，所以我想知道有哪些 FOSS 替代方案？我现在正在尝试 VSCode，但我有点困惑，因为在 VS 上，我可以直接运行代码而无需调试，而无需安装扩展或配置 .json 文件等。这与 VSCode 形成鲜明对比，每次我尝试运行一个简单的 cout &lt;&lt; &quot;Hello World!&quot;; 时，每次我尝试运行它时，它都会要求我安装调试扩展或配置 .json 文件等。我不知道这一切意味着什么，我想我应该学习，但 VS 是如此即插即用，我只是希望还有其他同样即插即用的 FOSS 替代方案？    提交人    /u/Ok-Agent5002   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</guid>
-      <pubDate>Sun, 29 Sep 2024 04:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是哪种类型的开源贡献者？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</link>
-      <description><![CDATA[我一直在分析人们在使用开源存储库时面临的挑战，我发现贡献者通常根据他们的需求和经验分为三类。我很想知道你最认同哪一类！ 1. 有具体问题但找不到解决方案 你遇到了一个特定的问题或错误，但你正在努力寻找解决方法。你真正需要的是存储库内一个高质量的问答系统，以便更快地获得有用的答案。 2. 想从开源项目中学习，但不知道从哪里开始 你有兴趣学习和贡献开源，但你不确定如何有效地开始。你可能会受益于一个指导学习系统来帮助你浏览项目。 3.想要贡献代码但需要明确的指导 您已准备好编写代码并做出贡献，但需要更好的指导来了解如何开始执行特定任务。基于特定问题指导您的学习系统将为您带来翻天覆地的变化。 ​    提交人    /u/More-Shop9383   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</guid>
-      <pubDate>Sun, 29 Sep 2024 03:04:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
