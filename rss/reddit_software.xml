@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 09:12:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 12:19:31 GMT</lastBuildDate>
+    <item>
+      <title>Revo 还是 unistalr？</title>
+      <link>https://www.reddit.com/r/software/comments/1fsu2mf/revo_or_unistalr/</link>
+      <description><![CDATA[我一直在寻找一款优秀的卸载程序，我发现很多人喜欢 Revo，但其他人更喜欢 unistalr，因为 Revo 卸载其他文件时会出现误报。您使用什么程序，更喜欢哪个？    提交人    /u/qtSora   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fsu2mf/revo_or_unistalr/</guid>
+      <pubDate>Mon, 30 Sep 2024 12:16:26 GMT</pubDate>
+    </item>
     <item>
       <title>有什么软件/数据库可以轻松搜索Word文件的标签吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fspos8/softwaredatabase_of_word_files_to_easily_search/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>需要一个程序来安全地将大量图像从手机传输到计算机（最好是免费或试用版）</title>
       <link>https://www.reddit.com/r/software/comments/1fsoi4a/need_a_program_to_safely_transfer_a_large_number/</link>
-      <description><![CDATA[大家好， 我正尝试将大量图像从手机移动到计算机，但系统说大约需要 10 个小时。通常的 Windows 剪切粘贴过程的问题在于它分阶段进行：  从旧目录复制所有项目。 将所有项目粘贴到新目录中。 从旧目录中删除所有项目。  这种方法意味着，如果在传输过程中出现问题，我最终会在新文件夹中得到一些图像，一些图像仍在旧文件夹中，并且可能还有一些损坏的文件。 我正在寻找一个可以像这样传输每个图像的程序：  复制图像。 将其粘贴到新目录中。 从旧目录中删除它。 然后移动到下一个图像。  这样，如果有任何事情中断，我就可以避免丢失文件。 你们有人知道可以这样做的程序吗？我更喜欢免费版或试用版——我不想为此付费。提前感谢你的帮助！    提交人    /u/yogi_bear2k   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我正尝试将大量图像从手机移动到计算机，但系统说大约需要 10 个小时。通常的 Windows 剪切粘贴过程的问题在于它分阶段进行：  从旧目录复制所有项目。 将所有项目粘贴到新目录中。 从旧目录中删除所有项目。  这种方法意味着，如果在传输过程中出现问题，我最终会在新文件夹中得到一些图像，一些图像仍在旧文件夹中，并且可能还有一些损坏的文件。 我正在寻找一个可以像这样传输每个图像的程序：  复制图像。 将其粘贴到新目录中。 从旧目录中删除它。 然后移动到下一个图像。  这样，如果有任何事情中断，我就可以避免丢失文件。 你们有人知道可以这样做的程序吗？我更喜欢免费版或试用版——我不想为此付费。提前感谢您的帮助！    提交人    /u/yogi_bear2k   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fsoi4a/need_a_program_to_safely_transfer_a_large_number/</guid>
       <pubDate>Mon, 30 Sep 2024 05:44:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Kingofhollows099  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fs6wqm/really_useful_alternative_to_windows_recall_was/</guid>
       <pubDate>Sun, 29 Sep 2024 15:26:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>摆脱空白</title>
-      <link>https://www.reddit.com/r/software/comments/1fs6j08/get_rid_of_white_spaces/</link>
-      <description><![CDATA[每当我使用 Autopano Giga 拼接照片时，照片上总会有空白。我该如何去除它们？它是否具有像 Microsoft ICE 一样的自动裁剪或自动完成功能？    提交人    /u/Low-Finance-2275   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fs6j08/get_rid_of_white_spaces/</guid>
-      <pubDate>Sun, 29 Sep 2024 15:09:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
