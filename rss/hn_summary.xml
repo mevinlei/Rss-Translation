@@ -4,95 +4,109 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:13:56 GMT</lastBuildDate>
     <item>
-      <title>[媒体] QRCode.fun 是一个用户友好的平台，旨在帮助您生成漂亮的二维码[...]</title>
-      <link>https://t.me/hn_summary/110666</link>
-      <description><![CDATA[显示 HN：QRCode.fun – 精美的二维码生成器
-QRCode.fun 是一个用户友好的平台，旨在帮助您轻松生成精美的二维码。无论您需要二维码用于 URL、文本、联系信息还是其他目的，我们的“输入和生成”功能都可以让流程变得快速而简单。只需输入您想要的信息，我们的工具就会立即为您创建自定义二维码。该网站强调易用性和可访问性，确保任何人都可以轻松创建二维码。]]></description>
-      <guid>https://t.me/hn_summary/110666</guid>
-      <pubDate>Tue, 01 Oct 2024 15:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 我在 tweetsearch.co 上创建了一个工具，允许用户探索 X (以前称为 Twitter) [...]</title>
-      <link>https://t.me/hn_summary/110665</link>
-      <description><![CDATA[我制作了一个工具，可以从任何帐户探索 X 档案
-我在 tweetsearch.co 上创建了一个工具，允许用户从任何公共帐户探索 X（以前称为 Twitter）档案。此工具旨在帮助用户轻松搜索来自任何公共个人资料的推文、转发和回复。但是，需要注意的是，此工具不授予私人帐户或已删除的推文的访问权限。主要目标是提供一个用户友好的界面，用于浏览和发现来自公共 X 帐户的内容。此工具因其简单性和有效性而脱颖而出，使社交媒体探索更加容易。]]></description>
-      <guid>https://t.me/hn_summary/110665</guid>
-      <pubDate>Tue, 01 Oct 2024 15:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 荷兰政府已归还 288 件文物，包括武器、硬币、珠宝、[...]</title>
-      <link>https://t.me/hn_summary/110664</link>
-      <description><![CDATA[荷兰已向印尼归还 288 件被盗文物
-荷兰政府已向印尼归还 288 件文物，包括武器、硬币、珠宝和纺织品，承认这些文物是殖民时期被盗。荷兰教育、文化和科学部长 Eppo Bruins 强调了此次归还的道德要求，他说：“这些物品本不应该出现在这里。”这是自 2020 年以来第二次归还，此前殖民收藏委员会发布了一份报告。这些文物包括印度教-佛教雕像和 1906 年巴厘岛南部战争的物品，是印尼去年正式要求归还的。评论家们对归还物品的保管表示担忧，但 Marieke van Bommel 坚称合法拥有者应该决定它们的命运。]]></description>
-      <guid>https://t.me/hn_summary/110664</guid>
-      <pubDate>Tue, 01 Oct 2024 14:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>[媒体] 网站：wakatime.com</title>
-      <link>https://t.me/hn_summary/110663</link>
-      <description><![CDATA[机器人，太多机器人了
-标题：机器人，太多机器人了
-网站：wakatime.com
+      <title>[媒体] 网站：garymarcus.substack.com</title>
+      <link>https://t.me/hn_summary/110709</link>
+      <description><![CDATA[抱歉，GenAI 不会让计算机编程速度提高 10 倍
+标题：抱歉，GenAI 不会让计算机编程速度提高 10 倍
+网站：garymarcus.substack.com
 
-ProductHunt 拥有超过 100 万用户注册，但超过 60% 都是机器人。我从 2014 年开始使用 ProductHunt 来跟踪技术发布并收集反馈。最近，我注意到许多评论似乎是人工智能生成的。为了测试这一点，我发布了一款产品，并在其描述中注入了提示，确认大多数评论都是自动生成的。通过分析点赞和评论，我发现机器人活动自 2018 年以来激增，尤其是在 2022 年底 ChatGPT 发布后。机器人形成投票圈，扭曲排名和点赞。尽管我有这些发现，但我没有指出具体的发布，以避免不公平地针对它们。]]></description>
-      <guid>https://t.me/hn_summary/110663</guid>
-      <pubDate>Tue, 01 Oct 2024 14:59:18 GMT</pubDate>
+在过去 18 个月中，我们收到了大量关于生成式人工智能将彻底改变编码方式、将程序员的工作效率提高 10 倍的说法。然而，最近的数据与这种炒作相矛盾。有影响力的人一直在热切地宣传这些夸大其词的说法，但最近的两项研究表明，这种说法只带来了适度的改进，并存在安全风险和技术债务等潜在缺点。好的 IDE 可能会提供更可靠、更经济实惠的好处。人工智能研究员 Francois Chollet 之前曾指出，真正的 10 倍收益需要深刻的概念理解，而 GenAI 缺乏这种理解。因此，虽然 GenAI 可以加快打字速度，但它无法取代对算法和数据结构的清晰思考。不要相信炒作。]]></description>
+      <guid>https://t.me/hn_summary/110709</guid>
+      <pubDate>Tue, 01 Oct 2024 18:13:56 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] darkfutura.substack.com 的文章“死亡的互联网”哀叹互联网的衰落[...]</title>
-      <link>https://t.me/hn_summary/110662</link>
-      <description><![CDATA[死亡的互联网
-darkfutura.substack.com 上的文章《死亡的互联网》哀叹互联网从一个充满活力、多样化的生态系统衰落为一个同质化、商业化的荒地。作者怀旧地回忆了网络的早期，那时充满了独特、独立的网站和真正的人际互动。如今，互联网受到侵入性广告、弹出窗口和对货币化的不懈关注的困扰，使得浏览互联网变得繁琐和令人沮丧。大型科技垄断企业和人工智能生成内容的兴起进一步侵蚀了在线体验的真实性和多样性。作者强调了有争议的观点，即人工智能和机器人正在创造一个模拟的、人工的互联网，将真正的人类参与边缘化。这篇文章尖锐地批评了现代互联网转变为一个枯燥的商业化空间，远离了它最初的承诺。（基于 87% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/110662</guid>
-      <pubDate>Tue, 01 Oct 2024 14:48:11 GMT</pubDate>
+      <title>[媒体] Not a Wheelchair 的创始人 Cambry 和 Zack Nelson 正在彻底改变轮椅使用手册的方式 [...]</title>
+      <link>https://t.me/hn_summary/110708</link>
+      <description><![CDATA[1000 美元轮椅
+Not a Wheelchair 的创始人 Cambry 和 Zack Nelson 正在通过生产价格略低于 1,000 美元的高质量、价格实惠的轮椅来彻底改变手动轮椅市场。他们的使命是希望让移动设备更容易获得，并减少购买新轮椅通常需要的漫长等待时间。利用最先进的制造技术和设备，他们的目标是在几周内交付定制的手动轮椅。Zack 以其受欢迎的 YouTube 频道 JerryRigEverything 而闻名，他利用其平台的收入来资助这项事业，使他们能够绕过传统的以利润为导向的商业模式。这种独特的方法强调了他们致力于改善轮椅使用者的生活。（基于 59% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/110708</guid>
+      <pubDate>Tue, 01 Oct 2024 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 任天堂以坚决保护其知识产权而闻名，经常采取 [...]</title>
-      <link>https://t.me/hn_summary/110661</link>
-      <description><![CDATA[任天堂正在追查那些展示其游戏被模仿的 YouTube 账户
-任天堂以坚决保护其知识产权而闻名，经常对内容创作者采取法律行动。最近，它对 Retro Game Corps 发出了版权警告，这是一个受欢迎的 YouTube 频道，拥有超过 50 万订阅者，评论模拟掌上游戏机。该频道的所有者 Russ 因展示 Wii U 模拟而被删除了一个视频，这促使他考虑提出合理使用反诉。然而，由于任天堂可能采取的法律行动，他犹豫不决。因此，Retro Game Corps 将不再展示任天堂游戏，影响其内容。此举引发了人们对游戏保存和模拟设备合法性的质疑。社区内部出现分歧，民意调查显示 74% 的人反对任天堂的行为。]]></description>
-      <guid>https://t.me/hn_summary/110661</guid>
-      <pubDate>Tue, 01 Oct 2024 14:20:56 GMT</pubDate>
+      <title>[媒体] 布莱根妇女医院的研究人员发现，老年人如果经历过 [...]</title>
+      <link>https://t.me/hn_summary/110707</link>
+      <description><![CDATA[研究发现跌倒的老年人患痴呆症的风险更高
+布莱根妇女医院的研究人员发现，跌倒的老年人被诊断出患有阿尔茨海默病和相关痴呆症的风险更高。该研究发表在《JAMA Network Open》上，建议对需要紧急或住院治疗的跌倒受伤的老年人进行认知筛查。该研究的第一作者 Alexander Ordoobadi 博士强调了解决跌倒潜在风险因素的重要性，这些因素通常与认知能力下降有关。该研究分析了 2014 年至 2015 年的医疗保险数据，发现跌倒伤害与随后的痴呆症诊断之间存在显着相关性。该研究强调需要更多临床医生为老年人提供全面护理，包括认知评估。这种方法可以更早发现和更好地管理认知健康。然而，由于初级保健和老年病学的可及性存在差异，挑战仍然存在。]]></description>
+      <guid>https://t.me/hn_summary/110707</guid>
+      <pubDate>Tue, 01 Oct 2024 18:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] GitHub Issues 自 2009 年以来一直是软件团队协作的基石，它经历了 [...]</title>
-      <link>https://t.me/hn_summary/110660</link>
-      <description><![CDATA[不断发展的 GitHub Issues
-GitHub Issues 自 2009 年以来一直是软件团队协作的基石，经历了重大变革。最新更新引入了备受期待的功能，例如子问题、问题类型和高级搜索功能。这些增强功能旨在简化工作分解、进度可视化和问题分类。新功能现已推出公开预览版，邀请用户注册并提供反馈。
+      <title>[媒体] 网站：www.theregister.com</title>
+      <link>https://t.me/hn_summary/110706</link>
+      <description><![CDATA[借助 Granite Rapids，英特尔再次与 AMD 交锋
+标题：借助 Granite Rapids，英特尔再次与 AMD 交锋
+网站：www.theregister.com
 
-子问题支持父子层次结构，以便更好地组织，而问题类型则提供了跨存储库的一致分类系统。高级搜索允许使用关键字和括号进行复杂的过滤。 UI 也已更新，以提高速度和熟悉度，包括新的过滤栏、更快的问题创建和改进的导航。
+近年来，英特尔的 Xeon 处理器在核心数量、时钟速度和内存带宽方面都落后于 AMD。然而，Granite Rapids Xeons 的推出标志着一个重大转折。 6900P 处理器系列拥有多达 128 个性能核心、256 个线程和高达 3.9 GHz 的时钟速度，使英特尔与 AMD 的 Bergamo 和即将推出的 Turin Epycs 不相上下。值得注意的是，得益于更大的 L3 缓存和更快的内存，Granite Rapids 在内存带宽和 AI 应用方面表现出色。尽管功耗较高，但英特尔声称在典型利用率水平下每瓦性能有所提高。该架构采用异构芯片设计，增强了连接性和计算效率。虽然英特尔已经迎头赶上，但随着 AMD 即将推出的 Turin Epycs 和科技巨头的定制 Arm 芯片，核心之战仍在继续。
 
-此外，GitHub Projects 现在支持多达 50,000 个项目，并具有切片、泳道和 GraphQL API 等新功能。此更新按项目逐个提供。
+争议：英特尔的基准测试应谨慎对待，因为它们比较了不同的配置，可能会扭曲结果。
 
-加入公开预览以探索这些功能并分享您的反馈。]]></description>
-      <guid>https://t.me/hn_summary/110660</guid>
-      <pubDate>Tue, 01 Oct 2024 14:10:48 GMT</pubDate>
+独特/聪明：Granite Rapids 的架构将内存控制器直接集成到计算芯片中，可能会减少延迟。]]></description>
+      <guid>https://t.me/hn_summary/110706</guid>
+      <pubDate>Tue, 01 Oct 2024 18:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nvidia 即将推出的 RTX 5080 可能有两种 VRAM 选项——16 GB 和更大的 24 GB。</title>
-      <link>https://t.me/hn_summary/110659</link>
-      <description><![CDATA[Nvidia 可能会发布 24 GB GeForce RTX 5080 和 16 GB 版本
-Nvidia 即将推出的 RTX 5080 可能提供两种 VRAM 选项 - 16 GB 和更大的 24 GB。但是，由于技术挑战，24 GB 版本可能无法在发布时提供。据报道，Nvidia 将停产广受欢迎的 RTX 3060，可能为这些新 GPU 腾出空间。泄密者 PolyMorph 在 ChipHell 论坛上透露，RTX 5080 可能配备 24 GB VRAM，但其发布时间表仍不确定。RTX 5080 将使用具有 256 位内存接口的 GB203 GPU，支持 16 GB VRAM。为了实现 24 GB，Nvidia 可能需要 3 GB 内存模块（仍在开发中），或者可以选择具有 384 位接口的 GB202 GPU，这可能会增加成本。目前尚不清楚这一决定，但更多的 VRAM 可以保证更流畅的游戏体验。]]></description>
-      <guid>https://t.me/hn_summary/110659</guid>
-      <pubDate>Tue, 01 Oct 2024 14:06:42 GMT</pubDate>
+      <title>[媒体] 标题：Abby 一天内解雇所有俄罗斯员工</title>
+      <link>https://t.me/hn_summary/110705</link>
+      <description><![CDATA[Abby 一天内解雇所有俄罗斯员工
+标题：Abby 一天内解雇所有俄罗斯员工
+
+网站：english.pravda.ru
+
+ABBYY 是一家领先的国际软件开发商，以其文档处理和词典软件而闻名，该公司在一天内突然解雇了所有俄罗斯公民员工。此次大规模裁员影响了塞浦路斯、匈牙利和塞尔维亚的办事处。在一次会议上，员工被告知他们被解雇，但他们无法进行交流，他们的公司访问权限也立即被撤销。此前，ABBYY 于 2022 年退出俄罗斯，并于 2024 年 9 月解散其俄罗斯主要实体。有人猜测，该公司旨在通过支持印度开发商来削减成本。有趣的是，加州总部的俄罗斯员工并未受到影响。ABBYY 由俄罗斯学生 David Yang 于 1989 年创立，目前尚未对此事发表评论。]]></description>
+      <guid>https://t.me/hn_summary/110705</guid>
+      <pubDate>Tue, 01 Oct 2024 17:57:37 GMT</pubDate>
     </item>
     <item>
-      <title>Dynamiq 是一个编排框架，旨在简化 AI 驱动的应用程序的开发[...]</title>
-      <link>https://t.me/hn_summary/110658</link>
-      <description><![CDATA[显示 HN：Dynamiq – 用于代理 AI 和 LLM 应用程序的编排框架
-Dynamiq 是一个编排框架，旨在简化 AI 驱动应用程序的开发，特别是那些利用检索增强生成 (RAG) 和大型语言模型 (LLM) 的应用程序。它旨在简化各种 AI 组件（如 LLM、文档转换器和矢量数据库）的集成和管理。Dynamiq 通过为翻译、复杂编码、多代理编排、文档索引和检索等任务提供一套全面的工具和工作流程来脱颖而出。该框架支持轻松安装，并提供大量文档和示例，帮助用户快速入门。（基于 91% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/110658</guid>
-      <pubDate>Tue, 01 Oct 2024 14:01:36 GMT</pubDate>
+      <title>[媒体] 我在旧金山参加 OpenAI DevDay，尝试一些新事物：一个实时博客，更新 [...]</title>
+      <link>https://t.me/hn_summary/110704</link>
+      <description><![CDATA[OpenAI DevDay 2024 直播博客
+我在旧金山的 OpenAI DevDay，尝试一些新的东西：一个直播博客，在活动期间更新笔记。
+
+10:19：主题演讲以对 o1 的回顾及其应用示例开始。
+10:30：o1 的实际演示和重大更新：o1 的速率限制翻倍至 10,000 RPM，与 GPT-4 匹配。
+10:31：重大公告：使用 WebSockets 进行语音输入和输出的实时 API。
+10:33：使用更新的 Wanderlust 旅行社演示演示新的实时 API，展示语音作为输入和输出。]]></description>
+      <guid>https://t.me/hn_summary/110704</guid>
+      <pubDate>Tue, 01 Oct 2024 17:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>问 HN：新时尚（即无处不在的人工智能）多久不会带来利润？</title>
-      <link>https://t.me/hn_summary/110657</link>
-      <description><![CDATA[问 HN：新潮流（即无处不在的人工智能）还能持续多久不盈利？
-Hacker News 上的帖子质疑当前人工智能初创企业热潮的可持续性，将其与过去的科技潮流相提并论。作者指出，许多人工智能初创企业被认为不是特别有用，甚至是不诚实的，并以 PearAi 为例。他们寻找类似趋势的历史例子，即初创企业激增，并询问这些公司在盈利或失败之前，这种时期通常持续多久。潜在的担忧是“将人工智能投入到某件事上的人都能赚钱”现象的持续时间。该帖子巧妙地批评了科技投资的炒作性质。]]></description>
-      <guid>https://t.me/hn_summary/110657</guid>
-      <pubDate>Tue, 01 Oct 2024 14:01:34 GMT</pubDate>
+      <title>[媒体] 您提供的内容似乎不完整或中断。</title>
+      <link>https://t.me/hn_summary/110703</link>
+      <description><![CDATA[Quake 在 Arduino Nano Matter 开发板上仅需 276 kB RAM 即可运行
+您提供的内容似乎不完整或中断。如果您可以提供全文或更多详细信息，我很乐意帮您总结。]]></description>
+      <guid>https://t.me/hn_summary/110703</guid>
+      <pubDate>Tue, 01 Oct 2024 17:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] Sourcebot 是一个开源的、速度极快的代码索引和搜索工具，旨在 [...]</title>
+      <link>https://t.me/hn_summary/110702</link>
+      <description><![CDATA[显示 HN：Sourcebot，一种开源的 Sourcegraph 替代品
+Sourcebot 是一种开源的、速度极快的代码索引和搜索工具，旨在替代 Sourcegraph。它基于 Zoekt 搜索引擎构建，允许用户快速搜索 GitHub 和 GitLab 上的多个公共和私有存储库。主要功能包括通过 Docker 进行一键部署、多存储库搜索、完整文件可视化以及具有语法突出显示和 vim 风格导航的现代 Web 界面。Sourcebot 以其易于设置、高性能和时尚的用户界面而脱颖而出。它支持索引特定存储库的配置，并需要私有存储库的访问令牌。默认情况下会收集遥测数据，但可以禁用。]]></description>
+      <guid>https://t.me/hn_summary/110702</guid>
+      <pubDate>Tue, 01 Oct 2024 17:38:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 微软已向 UploadVR 确认将停止生产 HoloLen [...]</title>
+      <link>https://t.me/hn_summary/110701</link>
+      <description><![CDATA[微软将停产 HoloLens 2，不提供替代产品
+微软已向 UploadVR 证实，将停止生产 HoloLens 2，剩余库存是最后可供购买的库存。对 HoloLens 2 的软件支持将持续到 2027 年 12 月 31 日，而对原始 HoloLens 的支持将于 2023 年 12 月 10 日结束。HoloLens 2 于 2019 年推出，与其前代产品相比有了重大升级，但一直难以与 Magic Leap 2 和 Varjo 的 XR 耳机等较新的设备保持竞争力。尽管 HoloLens 3 被曝光，但内部混乱和战略不确定性导致其被取消。微软的混合现实部门面临大规模裁员，该公司目前正专注于与 Meta 的合作以及为美国陆军开发的军用 HoloLens IVAS。值得注意的是，Quest 耳机很快就能通过看一眼 Windows 11 笔记本电脑来扩展它们，这一独特功能凸显了不断发展的 AR 格局。]]></description>
+      <guid>https://t.me/hn_summary/110701</guid>
+      <pubDate>Tue, 01 Oct 2024 17:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[媒体] 伊朗周二向以色列发射了弹道导弹袭击，以报复 [...]</title>
+      <link>https://t.me/hn_summary/110700</link>
+      <description><![CDATA[伊朗对以色列发动导弹袭击
+伊朗周二对以色列发动弹道导弹袭击，以报复最近在黎巴嫩杀害真主党领导人哈桑·纳斯鲁拉和伊朗指挥官阿巴斯·尼勒福鲁山。此次袭击是在以色列向黎巴嫩南部部署地面部队之后发生的，这加剧了以色列与真主党的冲突。伊朗革命卫队 (IRGC) 警告称，如果以色列作出回应，将遭到“毁灭性打击”。美国已警告伊朗将面临严重后果，并支持以色列的防御准备。美国驻耶路撒冷大使馆已指示美国人员就地避难。由于担心中东紧张局势加剧，道琼斯指数下跌超过 250 点。 
+
+争议：以色列杀害纳斯鲁拉和尼福鲁山，以及伊朗随后发动导弹袭击，使紧张局势显著升级，双方均发出严厉警告。
+
+令人惊讶/聪明：美国迅速、协调地支持以色列的防御，以及对全球市场产生的直​​接影响，尤其是原油价格飙升，凸显了冲突的深远影响。]]></description>
+      <guid>https://t.me/hn_summary/110700</guid>
+      <pubDate>Tue, 01 Oct 2024 17:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
