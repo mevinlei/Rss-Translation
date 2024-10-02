@@ -4,7 +4,21 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 02 Oct 2024 18:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:12:36 GMT</lastBuildDate>
+    <item>
+      <title>医生承认马修·佩里吸毒过量致死案</title>
+      <link>https://www.bbc.com/news/articles/cd0z4j5e2m3o</link>
+      <description><![CDATA[马克·查韦斯通过虚假处方从他以前的诊所和批发经销商处获得了氯胺酮。]]></description>
+      <guid>https://www.bbc.com/news/articles/cd0z4j5e2m3o</guid>
+      <pubDate>Wed, 02 Oct 2024 20:49:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>捐款纠纷后，斯塔默偿还了 6,000 多英镑的礼物</title>
+      <link>https://www.bbc.com/news/articles/cn7yeydd42jo</link>
+      <description><![CDATA[在捐款受到批评后，首相将承担泰勒·斯威夫特门票和其他礼物的费用。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn7yeydd42jo</guid>
+      <pubDate>Wed, 02 Oct 2024 18:34:17 GMT</pubDate>
+    </item>
     <item>
       <title>万斯和沃尔兹在礼貌的辩论中坚持政策——但谁赢了？</title>
       <link>https://www.bbc.com/news/articles/c5y0863ry88o</link>
@@ -25,20 +39,6 @@
       <description><![CDATA[大都会警察神射手马丁·布莱克因枪杀克里斯·卡巴而受到审判。]]></description>
       <guid>https://www.bbc.com/news/articles/ckgv2g1q8x5o</guid>
       <pubDate>Wed, 02 Oct 2024 16:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>海伦飓风死亡人数升至 175 人，拜登部署 1,000 名士兵</title>
-      <link>https://www.bbc.com/news/articles/cgmgz3elmjxo</link>
-      <description><![CDATA[总统乔·拜登和副总统卡玛拉·哈里斯将于周三访问受灾严重的州。]]></description>
-      <guid>https://www.bbc.com/news/articles/cgmgz3elmjxo</guid>
-      <pubDate>Wed, 02 Oct 2024 16:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>捐款纠纷后，斯塔默偿还了 6,000 多英镑的礼物</title>
-      <link>https://www.bbc.com/news/articles/cn7yeydd42jo</link>
-      <description><![CDATA[在捐款受到批评后，首相将承担泰勒·斯威夫特门票和其他礼物的费用。]]></description>
-      <guid>https://www.bbc.com/news/articles/cn7yeydd42jo</guid>
-      <pubDate>Wed, 02 Oct 2024 16:34:03 GMT</pubDate>
     </item>
     <item>
       <title>希利称英国军队无需参与</title>
@@ -97,18 +97,18 @@
       <pubDate>Wed, 02 Oct 2024 14:07:11 GMT</pubDate>
     </item>
     <item>
+      <title>一名歹徒被一船香蕉击倒</title>
+      <link>https://www.bbc.com/news/articles/c4g4e3pvngno</link>
+      <description><![CDATA[杰米·史蒂文森通过贩卖毒品发了大财，该毒品与苏格兰数百人死亡有关。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4g4e3pvngno</guid>
+      <pubDate>Wed, 02 Oct 2024 11:57:38 GMT</pubDate>
+    </item>
+    <item>
       <title>以色列的铁穹防御系统和其他导弹防御系统有哪些？</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-20385306</link>
       <description><![CDATA[以色列一直在使用其所有导弹防御系统来抵抗哈马斯、真主党和伊朗的袭击。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-20385306</guid>
       <pubDate>Wed, 02 Oct 2024 10:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰全科医生短缺最严重的地区揭晓</title>
-      <link>https://www.bbc.com/news/articles/cjd51y9vn9do</link>
-      <description><![CDATA[某些地区每位全科医生的患者数量是其他地区的两倍，因为自 2015 年以来，全科医生的名单规模增加了 17%。]]></description>
-      <guid>https://www.bbc.com/news/articles/cjd51y9vn9do</guid>
-      <pubDate>Tue, 01 Oct 2024 23:37:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
