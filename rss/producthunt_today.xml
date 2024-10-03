@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Oct 2024 12:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 15:11:29 GMT</lastBuildDate>
     <item>
       <title>冷电子邮件生成器</title>
       <link>https://www.producthunt.com/posts/cold-email-generator-2</link>
       <description><![CDATA[
-撰写可转换的冷电子邮件。
+撰写可转换的冷电子邮件
 
 
 讨论
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/fullenrich-2-0</guid>
       <pubDate>Wed, 02 Oct 2024 16:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>游标使用计数器</title>
-      <link>https://www.producthunt.com/posts/cursor-usage-counter</link>
-      <description><![CDATA[
-快速查看和跟踪您在 Cursor 中使用每个模型的频率
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cursor-usage-counter</guid>
-      <pubDate>Wed, 02 Oct 2024 07:28:22 GMT</pubDate>
     </item>
     <item>
       <title>前景</title>
@@ -104,10 +90,24 @@ Windows 上应用和网站的自动私人时间跟踪
       <pubDate>Sun, 29 Sep 2024 11:41:42 GMT</pubDate>
     </item>
     <item>
+      <title>HoundDog.ai 静态代码扫描器</title>
+      <link>https://www.producthunt.com/posts/hounddog-ai-static-code-scanner-2</link>
+      <description><![CDATA[
+捕获代码中的 PII 泄漏并保持 PII 库存最新
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hounddog-ai-static-code-scanner-2</guid>
+      <pubDate>Sun, 29 Sep 2024 01:23:31 GMT</pubDate>
+    </item>
+    <item>
       <title>已发邮件</title>
       <link>https://www.producthunt.com/posts/sent-dm-2</link>
       <description><![CDATA[
-用于在 SMS、WhatsApp 等上发送消息的统一 API。
+用于在 SMS、WhatsApp 等上发送消息的统一 API
 
 
 讨论
@@ -163,7 +163,7 @@ Windows 上应用和网站的自动私人时间跟踪
       <title>美人鱼白板</title>
       <link>https://www.producthunt.com/posts/mermaid-whiteboard</link>
       <description><![CDATA[
-使用 Mermaid 的新白板拖放您的节点！
+拖放白板，使用基于文本的图表
 
 
 讨论
@@ -202,18 +202,18 @@ Windows 上应用和网站的自动私人时间跟踪
       <pubDate>Mon, 19 Aug 2024 03:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>热点话题</title>
-      <link>https://www.producthunt.com/posts/buzzabout</link>
+      <title>編輯應用</title>
+      <link>https://www.producthunt.com/posts/editapp</link>
       <description><![CDATA[
-2 分钟内从数十亿在线讨论中获取受众见解
+互动、响应和可跟踪的平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/buzzabout</guid>
-      <pubDate>Mon, 08 Jul 2024 15:36:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/editapp</guid>
+      <pubDate>Tue, 13 Aug 2024 09:52:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
