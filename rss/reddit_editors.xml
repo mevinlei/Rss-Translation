@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 06 Oct 2024 15:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 18:12:03 GMT</lastBuildDate>
+    <item>
+      <title>智能手机上可以添加标记的采访回放应用程序吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fxmu66/app_for_interview_playback_on_smartphone_that_can/</link>
+      <description><![CDATA[有谁知道有什么好的手机应用（Android 优先）可以播放音频和放置标记，这些标记可以保存到元数据中并带回 NLE？我很想能够收听我拍摄的采访并随时随地进行标记。如果它可以播放视频就更好了，但这不是必需的。  我想我可以在我的 Tascam DR40 上做到这一点，但我不想随身携带 XLR 录音机    提交人    /u/24FPS4Life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fxmu66/app_for_interview_playback_on_smartphone_that_can/</guid>
+      <pubDate>Sun, 06 Oct 2024 18:11:32 GMT</pubDate>
+    </item>
     <item>
       <title>Pro-Res 日志一致文件帮助！</title>
       <link>https://www.reddit.com/r/editors/comments/1fxi74e/prores_log_conformed_file_help/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我正在 Premiere（最新版本，24.6.1）上处理一个稍大（25.6 Mb（）的项目 机器：Mac Studio（Apple M2 Max，64 Gb RAM）。 我的大部分素材都是 4K，4：2：2，来自佳能 C70。 项目几乎完成了，但是今天当我尝试进行一些最后的编辑时，Premiere 决定基本上停止工作。它大多数时候都拒绝播放，保存文件需要几分钟，它拒绝处理 Warp Stabilizer 等效果。 我尝试以不同的名称保存项目，删除视频和音频预览文件夹，确保我的硬盘有足够的空间，增加分配给 Premiere 的内存，删除未使用的剪辑，但都不起作用。 我能想到的唯一额外解决方案是合并项目并使用另一个硬盘，但在我这样做之前，有人遇到过这种情况吗？你是怎么解决的？ 非常感谢！    提交人    /u/BMedTO   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fwjm6f/premiere_pro_lagging/</guid>
       <pubDate>Sat, 05 Oct 2024 05:49:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>归档</title>
-      <link>https://www.reddit.com/r/editors/comments/1fwc1i0/archiving/</link>
-      <description><![CDATA[我有大约 50TB 的素材想要存档。离线存储它的最佳方式是什么？NAS 中的传统硬盘不是正确的方式，因为它们在长时间不使用时有丢失数据的风险。 光驱？还有其他的吗？    提交人    /u/jamesnolans   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fwc1i0/archiving/</guid>
-      <pubDate>Fri, 04 Oct 2024 22:46:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
