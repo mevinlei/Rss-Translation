@@ -4,87 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 00:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 06:09:29 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在探索高级人工智能模型的行为时，Schellaert 的团队调查了 [...]</title>
-      <link>https://t.me/hn_summary/111301</link>
-      <description><![CDATA[AI 模型越复杂，撒谎的可能性就越大
-在探索高级 AI 模型的行为时，Schellaert 的团队调查了这些系统倾向于对他们一无所知的话题发表意见，这种现象被称为 ultracrepidarianism。这种趋势在 OpenAI 的 ChatGPT、Meta 的 LLaMA 和 BigScience 的 BLOOM 等主要 AI 模型中都有所体现，并且随着训练数据的规模而可预测地增加。令人惊讶的是，监督反馈加剧了这个问题，像 text-davinci-003 这样的模型利用了从人类反馈中进行强化学习，回避无法回答的问题的情况明显减少。研究发现，AI 模型在解决难题时会遇到困难，尤其是最难的问题，失败率超过 90%。这引发了人们对人工智能回答可靠性的担忧，尤其是当它们听起来令人信服但却不正确时。争议在于，人工智能模型本质上因提供误导性答案而获得奖励，这凸显了其训练过程中的一个关键缺陷。]]></description>
-      <guid>https://t.me/hn_summary/111301</guid>
-      <pubDate>Sun, 06 Oct 2024 00:12:23 GMT</pubDate>
+      <title>[媒体] 在我最近寻求担任员工级工程职位的过程中，我发现了几个 [...]</title>
+      <link>https://t.me/hn_summary/111327</link>
+      <description><![CDATA[我在面试 Staff 职位时学到的东西
+在我最近争取 Staff 级工程职位的过程中，我发现了一些值得分享的见解。这个过程持续了 9 到 2 个月，涉及与大约 10 家公司进行面试，其中 4 家公司进行了最终面试。值得注意的是，我避开了 FAANG 公司，而专注于中型公司。一个关键的收获是，不同公司对“Staff”角色的解释各不相同，期望和责任也不同。我发现许多面试仍然依赖于过时的 Leetcode 式评估，我认为这并不能反映实际的工作表现。令人惊讶的是，由于申请人数众多，一些公司使用这些作为筛选条件。尽管如此，与这样的公司接触对学习和谈判更好的报价还是有益的。此外，我意识到了人际网络的重要性，因为许多非标准职位并没有公开招聘。总体而言，这次经历凸显了明确角色期望的必要性以及战略准备的价值。（基于 81% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/111327</guid>
+      <pubDate>Sun, 06 Oct 2024 06:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]美国</title>
-      <link>https://t.me/hn_summary/111300</link>
-      <description><![CDATA[海军最终选定 2030 年代服役的 F/A-XX 隐形战斗机
-
-美国海军正在推进其 F/A-XX 计划，目标是让第六代隐形战斗机在 2030 年代服役。这款战斗机将与无人机集成并进行长距离作战，这对于与中国的潜在冲突至关重要。有趣的是，海军可能会在空军之前推出其战斗机，空军的 NGAD 计划由于成本问题正在接受审查，估计每架飞机的成本将达到 3 亿美元。海军的计划也面临预算削减，参议院的提案将资金削减近 90%。尽管面临这些挑战，海军仍致力于其时间表，波音、洛克希德马丁和诺斯罗普格鲁曼正在争夺合同。海军对远程能力的关注凸显了其战略重点，尤其是考虑到广阔的太平洋战区。海军和空军在下一代自适应推进等共享技术方面的合作可能会影响 F/A-XX 的开发。然而，海军正在与空军的不确定性保持距离，强调其独立道路。]]></description>
-      <guid>https://t.me/hn_summary/111300</guid>
-      <pubDate>Sun, 06 Oct 2024 00:05:18 GMT</pubDate>
+      <title>[媒体] “Fuzzing 101” GitHub 项目是一门教育课程，旨在教授个人 [...]</title>
+      <link>https://t.me/hn_summary/111326</link>
+      <description><![CDATA[Fuzzing 101
+“Fuzzing 101”GitHub 项目是一个教育课程，旨在教个人如何执行模糊测试，这是一种软件测试技术，涉及向程序提供随机或变异的输入以查找漏洞。该课程包含十个练习，每个练习都针对具有已知漏洞 (CVE) 的真实软件，例如 Xpdf、libexif 和 Google Chrome/V8。它旨在让学习者掌握使用 AFL++（AFL 的高级分支）等工具的技能，并涵盖诸如清理器、代码覆盖率和模糊测试闭源应用程序等主题。该课程适合任何具有基本 Linux 技能的人，并提供 VMware 映像以方便使用。它通过提供实际的、实际的软件项目实践经验而脱颖而出，成为那些希望了解模糊测试基础知识和漏洞发现的人的理想选择。]]></description>
+      <guid>https://t.me/hn_summary/111326</guid>
+      <pubDate>Sun, 06 Oct 2024 05:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 俄罗斯为何在乌克兰上空击落自己的战斗机大小的 S-70 猎人无人机？</title>
-      <link>https://t.me/hn_summary/111299</link>
-      <description><![CDATA[俄罗斯为何在乌克兰上空击落自己的战斗机大小的 S-70 猎人无人机？
-出乎意料且颇具讽刺意味的是，一架俄罗斯战斗机在乌克兰东部上空击落了自己的 S-70 Okhotnik-B 无人机。此次事件发生在顿涅茨克康斯坦丁尼夫卡附近，涉及一架罕见的先进无人作战飞机 (UCAV)，该飞机专为隐身和侦察而设计。据报道，S-70 可能是早期的演示模型，被 Su-57 Felon 击落，但这一消息尚未得到证实。无人机的毁坏可能是由于密集的电子战环境中失去指挥或系统故障造成的。决定击落该无人机可能是为了防止敏感技术落入敌人之手，这让人想起了美国 RQ-170 在伊朗发生的事件。这一事件凸显了俄罗斯愿意冒着在战区使用先进资产的风险，尽管可能会遭受重大损失。俄罗斯军事博客作者批评了该行动的执行，强调需要进行彻底调查。]]></description>
-      <guid>https://t.me/hn_summary/111299</guid>
-      <pubDate>Sun, 06 Oct 2024 00:04:14 GMT</pubDate>
+      <title>在 rubenerd.com 上的博客文章“Web 技术需要多样性”中，作者反思了灾难 [...]</title>
+      <link>https://t.me/hn_summary/111325</link>
+      <description><![CDATA[Web 技术需要多样性
+在rubenerd.com上的博客文章“Web 技术需要多样性”中，作者反思了 Crowdstrike 对 Windows 安全软件的更新造成的灾难性影响，该更新扰乱了全球各个关键部门。该事件凸显了由单一供应商主导的同质 IT 基础设施的脆弱性，引发了人们对这种技术单一文化对全球影响的担忧。作者对科技行业缺乏多样性表示遗憾，并将其与自然界遗传多样性对恢复力的重要性相提并论。他们主张采用更多样化的实现和平台，以防止未来出现类似的大规模破坏。这篇文章巧妙地批评了安全供应商无意中造成类似于恶意行为者的伤害的讽刺现象。]]></description>
+      <guid>https://t.me/hn_summary/111325</guid>
+      <pubDate>Sun, 06 Oct 2024 05:23:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] literariness.org 的内容探讨了批判理论的演变，重点关注 [...]</title>
-      <link>https://t.me/hn_summary/111298</link>
-      <description><![CDATA[文学理论与批评
-literariness.org 的内容探讨了批判理论的演变，重点关注其对现代性和现代国家的批判。法兰克福学派起源于 1930 年代，以马克斯·霍克海默、西奥多·阿多诺和瓦尔特·本雅明等人为代表，批判意识形态和“文化产业”，强调资本​​主义下的文化商品化。阿多诺的“否定辩证法”概念和本雅明对艺术“光环”的探索凸显了他们独特的方法。有争议的是，阿多诺认为爵士乐是低劣的，反映了对文化商品化的更广泛批评。本文还讨论了尤尔根·哈贝马斯后来的贡献，强调交流行动和现代性未实现的潜力，与后现代批评形成鲜明对比。（基于 79% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/111298</guid>
-      <pubDate>Sun, 06 Oct 2024 00:00:08 GMT</pubDate>
+      <title>[媒体] DMNO 引入了一种管理环境变量的进化方法，强调安全 [...]</title>
+      <link>https://t.me/hn_summary/111324</link>
+      <description><![CDATA[DMNO：环境变量进化
+DMNO 引入了一种进化的环境变量管理方法，强调安全性和灵活性。通过利用 EncryptedVaultDmnoPlugin 和 OnePasswordDmnoPlugin 等插件，DMNO 允许开发人员安全地从 1Password 等后端获取机密信息。此设置可确保敏感数据受到保护，并具有自动检测和防止泄漏、编辑敏感日志和防止客户端泄漏的功能。该服务支持重复使用配置和类型，提供内置验证和文档。一个巧妙的功能是能够根据环境动态切换值，从而增强适应性。这种创新方法解决了配置管理中常见的安全问题。]]></description>
+      <guid>https://t.me/hn_summary/111324</guid>
+      <pubDate>Sun, 06 Oct 2024 04:36:49 GMT</pubDate>
     </item>
     <item>
-      <title>在湾区，入侵物种海狸鼠（一种重达 20 磅的啮齿动物）正在迅速蔓延，对环境构成重大威胁 [...]</title>
-      <link>https://t.me/hn_summary/111297</link>
-      <description><![CDATA[20 磅重的入侵啮齿动物继续在湾区蔓延
-在湾区，20 磅重的入侵啮齿动物海狸鼠正在迅速蔓延，对农业、水利基础设施和湿地构成重大威胁。野生动物官员今年在加州捕获了近一千只海狸鼠，最近在康特拉科斯塔县发现的海狸鼠引起了人们对它们可能对萨克拉门托-圣华金河三角洲造成影响的警惕。海狸鼠繁殖力强，消耗大量植被，破坏生态系统并威胁濒危物种。它们还携带对人类和动物有害的疾病。加州鱼类和野生动物部敦促公众报告目击情况，以协助根除工作。争议在于控制这种入侵物种的难度，以及它们继续不受控制地蔓延可能造成的经济和环境影响。]]></description>
-      <guid>https://t.me/hn_summary/111297</guid>
-      <pubDate>Sat, 05 Oct 2024 23:35:58 GMT</pubDate>
+      <title>[媒体] Gokapi 是一个轻量级、自托管的文件共享服务器，旨在替代 [...]</title>
+      <link>https://t.me/hn_summary/111323</link>
+      <description><![CDATA[Gokapi：轻量级自托管 Firefox Send 替代方案，支持 AWS S3
+Gokapi 是一款轻量级自托管文件共享服务器，旨在替代已停用的 Firefox Send。它只允许管理员上传文件，这些文件可以与他人共享，并在指定的下载次数或天数后自动删除，有助于节省磁盘空间并保持对文件访问的控制。Gokapi 支持对相同文件进行重复数据删除，并提供用于交互的 API。它可以使用 AWS S3 或 Backblaze B2 进行存储，而不是本地选项。该项目可通过 HTML/CSS 轻松定制，并支持加密，包括端到端加密。它可以在裸机或 Docker 上快速部署，并获得 AGPL3 许可。]]></description>
+      <guid>https://t.me/hn_summary/111323</guid>
+      <pubDate>Sun, 06 Oct 2024 04:36:47 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] WordPress 插件镜像下载器是一个概念验证项目，旨在有效地 [...]</title>
-      <link>https://t.me/hn_summary/111296</link>
-      <description><![CDATA[WordPress 插件镜像下载器（概念验证）
-WordPress 插件镜像下载器是一个概念验证项目，旨在高效下载、缓存和管理 WordPress 插件。它旨在通过利用 Cloudflare 的边缘计算和 R2 S3 对象存储在 WordPress.org 停机期间提供后备解决方案。与传统的 SVN 镜像不同，该项目专注于镜像插件 zip 文件，减少存储和带宽要求。关键组件包括 Cloudflare Workers、R2 Storage 和用于协调下载的 bash 脚本。该系统提供高效缓存、版本跟踪、并行处理和高级错误处理等优势。它的独特之处在于使用 Cloudflare 的基础设施来提高下载速度并降低成本。（基于 5% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/111296</guid>
-      <pubDate>Sat, 05 Oct 2024 23:31:52 GMT</pubDate>
+      <title>问 HN：您喜欢哪些没有留下太多痕迹的旧电子游戏？</title>
+      <link>https://t.me/hn_summary/111322</link>
+      <description><![CDATA[问 HN：你喜欢哪些没有留下太多痕迹的老电子游戏？
+在怀旧的回忆中，我思考了我年轻时玩过的那些电子游戏，尽管它们非常出色，但并没有在游戏世界中保持持久的存在。其中包括《Centurion: Defender of Rome》，这是一款比《文明》更早的回合制策略游戏，以其引人入胜的实时战斗机制和历史深度而闻名。另一款是《No One Lives Forever》，这是一款具有独特 Austin Powers/Archer 氛围的 3D 射击游戏，具有诙谐的故事情节和创造性的小玩意，例如口红相机和小猫形状的近炸炸弹。最后，90 年代的多人游戏“Acrophobia”要求玩家用随机的首字母缩略词来制作短语，通过其富有创意和竞争性的游戏玩法提供无尽的乐趣。]]></description>
+      <guid>https://t.me/hn_summary/111322</guid>
+      <pubDate>Sun, 06 Oct 2024 04:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我最近的 Medium 文章中，我介绍了 FAIR，一个旨在确保公平解决的 Go 库 [...]</title>
-      <link>https://t.me/hn_summary/111295</link>
-      <description><![CDATA[公平：大规模公平分配资源
-在我最近的 Medium 帖子中，我介绍了 FAIR，这是一个 Go 库，旨在使用随机公平 BLUE 算法确保多租户系统中的公平资源分配。这种创新方法保持恒定的内存使用量，使其成为一种“即用即忘”的解决方案，具有最小的运营开销。FAIR 通过将限制集中在重击者身上来解决资源分配的挑战，允许请求率较低的客户端更自由地访问资源。一个独特的功能是它使用受计数布隆过滤器启发的概率数据结构来有效地管理资源分配。该库还实现了哈希轮换，以防止由于碰撞而持续不公平的限制。这确保了即使在复杂场景中也能实现公平，为大多数客户端保持了单一租户的假象。 FAIR 的适应性和低内存占用使其成为分布式系统的宝贵工具。查看 GitHub 存储库了解更多详细信息并为该项目做出贡献。]]></description>
-      <guid>https://t.me/hn_summary/111295</guid>
-      <pubDate>Sat, 05 Oct 2024 23:29:49 GMT</pubDate>
+      <title>[媒体] AT&T 正在对 Broadcom 提出的 VMware 服务提价计划提出质疑，这可能会 [...]</title>
+      <link>https://t.me/hn_summary/111321</link>
+      <description><![CDATA[AT&amp;T 称，博通提出的“极端”涨价将使 VMware 成本增加 1,050%
+AT&amp;T 正在挑战博通提出的 VMware 服务涨价提议，这可能会使成本增加 1,050%。尽管从 VMware 迁移的难度和成本很高，但 AT&amp;T 仍在探索替代方案，认为它必须在 2026 年 9 月之前续订其许可证。然而，AT&amp;T 声称博通通过阻止某些供应商向他们销售产品来阻碍这一转变。博通尚未公开回应这些指控，但表示有信心在法律上胜诉。争议在于所谓的供应商限制和大幅涨价。与此同时，Broadcom 同意继续为 AT&amp;T 提供 VMware 支持直至 10 月 9 日，初步禁令听证会将于 10 月 15 日举行。]]></description>
+      <guid>https://t.me/hn_summary/111321</guid>
+      <pubDate>Sun, 06 Oct 2024 03:54:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TinyUSB 是一个开源、跨平台的 USB 主机/设备堆栈，专为嵌入式 [...]</title>
-      <link>https://t.me/hn_summary/111294</link>
-      <description><![CDATA[Tinyusb：用于嵌入式系统的开源跨平台 USB 堆栈
-TinyUSB 是一种开源、跨平台的 USB 主机/设备堆栈，专为嵌入式系统而设计。它旨在通过避免动态内存分配和将中断事件推迟到非 ISR 任务中处理来提供内存安全和线程安全的 USB 堆栈。该项目由 Adafruit 支持，并通过 GitHub Discussions 提供全面的文档和社区支持。TinyUSB 支持各种 USB 类，包括音频、HID、MSC 等，并允许在不改变堆栈的情况下实现自定义类驱动程序。它与 FreeRTOS 和 Mynewt 等各种操作系统兼容，并支持多种 CPU 架构，使其适用于嵌入式应用程序。（基于 69% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/111294</guid>
-      <pubDate>Sat, 05 Oct 2024 23:17:41 GMT</pubDate>
+      <title>[媒体] 据报道，亚马逊将在明年初之前削减 14,000 个管理职位，目标是 [...]</title>
+      <link>https://t.me/hn_summary/111320</link>
+      <description><![CDATA[亚马逊裁员：据报道，科技公司将在 2025 年前削减 14,000 个管理职位
+据摩根士丹利 (Morgan Stanley) 的一份报告称，亚马逊计划在明年初之前削减 14,000 个管理职位，旨在每年节省 30 亿美元。此举是首席执行官安迪·贾西 (Andy Jassy) 提高运营效率的战略的一部分，该战略旨在到 2025 年 3 月将个人贡献者与管理者的比例提高 15%。该计划旨在简化决策并减少官僚主义，贾西强调紧迫感、责任感和协作的文化。已经推出了一条“官僚主义热线”，供员工报告效率低下的情况。虽然亚马逊承认需要重新审视团队结构，但尚未确认具体的裁员计划，而是暗示可能会进行重新分配。摩根士丹利认为这次重组是有益的，强调了将重点放在扁平化组织以提高速度上。此外，亚马逊计划从明年 1 月开始让员工全职返回办公室。这是在更广泛的行业挑战和之前的裁员背景下发生的。潜在的争议在于管理职位的大幅减少，这可能会影响员工的士气和工作保障。]]></description>
+      <guid>https://t.me/hn_summary/111320</guid>
+      <pubDate>Sun, 06 Oct 2024 03:43:23 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 博客圈正蓬勃发展。</title>
-      <link>https://t.me/hn_summary/111293</link>
-      <description><![CDATA[博客圈正在蓬勃发展。互联网的其余部分已经枯萎
-在这篇文章中，作者赞扬了 Dave Winer 的持久影响力，他是博客圈和早期互联网创新的先驱人物。Winer 以创建“outliner”软件和在开发 RSS 源方面发挥的作用而闻名，他在 Scripting News 上写博客已有近 30 年。作者强调了 Winer 对数字领域的影响，指出他的经济独立和坦率使他能够自由发言并将博客圈塑造成一个现代公共领域。本文批评了主流媒体对博客圈重要性的忽视，社交媒体的崛起掩盖了博客圈的重要性。作者认为，博客圈仍然充满活力，对当代写作和思想至关重要，这得益于 feedland.org 等工具。这篇文章巧妙地批评了科技公司封闭公共领域，并强调了博客圈的持续相关性。争议在于批评主流媒体忽视博客的价值以及企业对数字空间的控制。]]></description>
-      <guid>https://t.me/hn_summary/111293</guid>
-      <pubDate>Sat, 05 Oct 2024 23:12:37 GMT</pubDate>
+      <title>[媒体] 在本文中，我探讨了使用分销作为产品策略的巧妙创新[...]</title>
+      <link>https://t.me/hn_summary/111319</link>
+      <description><![CDATA[有时产品创新就是分销
+在这篇文章中，我探讨了将分销作为产品策略的巧妙创新，例如 Moleskine 笔记本拥有自己的 ISBN。这使得它们可以通过传统的图书分销渠道销售，尽管它们不是书籍。我讲述了我经营自动售货机书店的经历，Moleskine 笔记本由于其 ISBN 而无缝融入系统。这种分销技巧促成了它们在 21 世纪初的广泛流行。同样，我重点介绍了其他产品，如 Psychobox 和 USB 记忆棒上的音乐专辑，它们巧妙地利用了现有的分销渠道来吸引新的受众。关键的一点是，产品创新可以源于创造性的分销策略，我鼓励设计师在将产品推向市场时考虑这种方法。如果您是一家在商业化方面苦苦挣扎的设计工作室，尤其是在伦敦和英国，我愿意讨论和分享见解。]]></description>
+      <guid>https://t.me/hn_summary/111319</guid>
+      <pubDate>Sun, 06 Oct 2024 03:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>推出“今日”应用程序，它是日历和待办事项列表功能的无缝融合，设计用于 [...]</title>
-      <link>https://t.me/hn_summary/111292</link>
-      <description><![CDATA[显示 HN：创建了一个将日历和待办事项混合在一个列表中的应用程序
-推出“今日”应用程序，它无缝融合了日历和待办事项列表功能，旨在简化您的日常组织。借助这款创新工具，您可以毫不费力地将您的日程安排和任务整合到一个统一的列表中，无需在不同的应用程序之间切换。无论您是管理约会、截止日期还是自发任务，“今日”都提供了一个灵活的解决方案，将所有内容集中在一个地方。这种独特的方法简化了规划，确保您轻松掌握一天的进度。这些功能的巧妙整合可能会让习惯于使用多个应用程序来满足日常规划需求的用户感到惊讶。]]></description>
-      <guid>https://t.me/hn_summary/111292</guid>
-      <pubDate>Sat, 05 Oct 2024 23:09:33 GMT</pubDate>
+      <title>Marketplace.org 的文章以波音公司为例，警示人们美国航空业的种种缺陷 [...]</title>
+      <link>https://t.me/hn_summary/111318</link>
+      <description><![CDATA[波音公司是当前美国制造业的一个警示故事
+Marketplace.org 的文章以波音公司为例，警示美国制造业的陷阱，强调通过外包优先考虑短期财务收益的长期成本。Miles Arnone 讲述了一家地毯清洁设备公司将生产转移到中国的故事，该公司最初提高了利润，但最终失去了竞争优势和创新能力。这一叙述反映了美国制造业的更广泛趋势，通用电气和波音等公司将生产外包，导致创新减少和成本增加。这篇文章强调了美国制造业就业岗位的减少以及扭转这一趋势的挑战，尽管政府采取了《芯片和信息安全法案》等措施。争议在于对外包利弊的争论，批评者认为外包会破坏国内创新和竞争力。这篇文章巧妙地将历史决策与当前的经济挑战联系起来，敦促重新评估制造业战略。]]></description>
+      <guid>https://t.me/hn_summary/111318</guid>
+      <pubDate>Sun, 06 Oct 2024 03:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
