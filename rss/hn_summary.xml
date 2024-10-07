@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 18:02:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 21:00:28 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 名为“使用 raylib C++ 的粒子/液体吸引力模拟器”的 GitHub 项目正在开发 [...]</title>
-      <link>https://t.me/hn_summary/111569</link>
-      <description><![CDATA[显示 HN：使用 raylib C++ 的粒子/液体引力模拟器
-GitHub 项目名为“使用 raylib C++ 的粒子/液体引力模拟器”，旨在使用 C++ 中的 raylib 库模拟粒子或液体之间的引力。该项目为 Linux 提供了一个二进制文件，允许用户在该平台上运行模拟。该模拟器可用于研究和可视化粒子在引力下的行为，这可能对教育目的或物理和计算机图形等领域有用。作者强调使用 raylib（一个简单易用的库）作为其显著特点，使那些对图形模拟感兴趣的人可以访问该项目。]]></description>
-      <guid>https://t.me/hn_summary/111569</guid>
-      <pubDate>Mon, 07 Oct 2024 18:02:28 GMT</pubDate>
+      <title>[媒体] 推出 GoUnfaked，一个提供 AI 生成图像库的革命性平台 [...]</title>
+      <link>https://t.me/hn_summary/111591</link>
+      <description><![CDATA[向 HN 展示：看起来像现实生活的 AI 生成的图像
+介绍 GoUnfaked，这是一个革命性的平台，提供 AI 生成的图像库，这些图像与现实生活中的照片非常相似。这些图像免版税且无版权，允许用户无限制地下载和使用它们。该网站承诺不断扩大收藏，每周都会添加新图像。这种创新方法不仅为创意人员提供了丰富的资源，而且还通过模糊人造和真实视觉之间的界限来挑战传统摄影。潜在的争议在于 AI 生成内容的道德含义及其对摄影行业的影响。尽管如此，GoUnfaked 为不同的视觉需求提供了独特而巧妙的解决方案。]]></description>
+      <guid>https://t.me/hn_summary/111591</guid>
+      <pubDate>Mon, 07 Oct 2024 21:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 欢迎来到 bitcoindevs.xyz 上的《解码比特币》，这是您掌握比特币的基本指南 [...]</title>
-      <link>https://t.me/hn_summary/111568</link>
-      <description><![CDATA[解码比特币：一种互动的、练习为主的比特币学习方法
-欢迎来到bitcoindevs.xyz上的解码比特币，这是您掌握比特币、隐私和去中心化的基本指南。我们的互动式、练习为主的方法简化了复杂的比特币概念，使其易于理解。目前，您可以探索比特币脚本的核心模块，了解它们的结构以及它们如何设置交易条件。即将推出的模块将涵盖密钥和地址、钱包和交易机制，提供全面的学习体验。加入我们充满活力的 Discord 社区，与其他学习者互动、提问并获得支持。注意：并非所有浏览器都支持该网站的视频内容，这可能会限制某些用户的可访问性。]]></description>
-      <guid>https://t.me/hn_summary/111568</guid>
-      <pubDate>Mon, 07 Oct 2024 18:01:24 GMT</pubDate>
+      <title>在对 ELF（可执行和可链接格式）和 DWARF（调试信息 [...]</title>
+      <link>https://t.me/hn_summary/111590</link>
+      <description><![CDATA[Dwarf 的工作原理：解析足够的 ELF
+在对 ELF（可执行和可链接格式）和 DWARF（调试信息格式）的详细探索中，我们深入研究了解析 ELF 文件以提取 DWARF 调试信息的复杂性。ELF 文件类似于 Windows .exe 文件，对于在类 Unix 系统上运行程序至关重要，而 DWARF 提供了基本的调试功能，例如将机器代码映射回源代码和展开调用堆栈。使用在 Manjaro Linux 上使用 GCC 编译的简单 C 程序“cloop”，我们演示了解析技术。本指南包括 Go 代码片段，以清晰易懂，强调简单性而不是效率。值得注意的是，本文重点介绍了 ELF 和 DWARF 中为自定义处理器和操作系统值保留的高值范围，这是 GNU 和 Zig 等编译器经常利用的一个巧妙的方面。（基于 58% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/111590</guid>
+      <pubDate>Mon, 07 Oct 2024 20:48:18 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] “魔法内核”是一种突破性的图像调整大小算法，优于广泛使用的 [...]</title>
-      <link>https://t.me/hn_summary/111567</link>
-      <description><![CDATA[魔法（图像重采样）内核
-“魔法内核”是一种突破性的图像调整算法，优于广泛使用的 Lanczos 内核，在提高 Facebook 和 Instagram 等平台的图像质量方面发挥了重要作用。该内核于 2006 年被发现，使用简单的插值权重（1/4 和 3/4）以非常清晰的方式调整图像大小，尽管最初会导致轻微模糊。2013 年，添加了一个锐化步骤，创建了“魔法内核锐化”，提高了图像保真度和计算效率。令人惊讶的是，内核的傅里叶特性显示它是 sinc 函数的立方，解释了其在抑制混叠伪影方面的有效性。这一发现推动了进一步的发展，包括 2021 年的改进版本，证明了其优于 Lanczos 内核。该内核的简单性和效率使其成为图像处理的重要贡献，并根据 MIT-0 许可提供免费的开源实现。（基于 22% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/111567</guid>
-      <pubDate>Mon, 07 Oct 2024 17:55:20 GMT</pubDate>
+      <title>我最近参加了在都柏林举行的 EuroBSDCon 2024，这是我自 2017 年以来的回归。</title>
+      <link>https://t.me/hn_summary/111589</link>
+      <description><![CDATA[EuroBSDcon 2024 会后笔记
+我最近参加了在都柏林举行的 EuroBSDCon 2024，这是我自 2017 年以来的回归。这次会议是一次令人愉快的结合，既有深刻的演讲，也有社交互动。周五，我游览了都柏林，品尝了当地的精酿啤酒。周六的会议包括 Tom Smyth 关于欧盟政策制定的主题演讲和 Taylor R Campbell 关于内存错误的精彩演讲，其中有使用 NetBSD 的 APEI EINJ 的现场演示。Nicola Mingotti 博士关于 Raspberry Pi 中的 GPIO 的演讲特别有教育意义。BrewDog Dublin Outpost 的社交活动是一大亮点，提供了充足的交流机会。周日的演讲涵盖了 FreeBSD 的 30 年历程和 OpenBSD 的机密计算。会议结束时，宣布将于克罗地亚萨格勒布举办 EuroBSDCon 2025。总的来说，这是一次奇妙的经历，充满了学习和友谊。（根据 96% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/111589</guid>
+      <pubDate>Mon, 07 Oct 2024 20:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 命运出乎意料地转折，来自林肯郡盖德尼山的 70 岁老人蒂兹·霍德森 [...]</title>
-      <link>https://t.me/hn_summary/111566</link>
-      <description><![CDATA[女子求职申请 48 年后收到回复
-命运出人意料地转折，来自林肯郡盖德尼山的 70 岁女子蒂兹·霍德森终于收到了她 48 年前发送的求职申请的回复。1976 年，她申请了梦寐以求的摩托车特技骑手工作，但她的申请从未到达目的地，这些年来一直被困在邮局的抽屉里。这封信被斯坦斯邮局退回，并附有一张便条，这对霍德森来说是一个令人惊讶的启示，她曾多次跨国搬家。尽管最初遭遇挫折，但她还是追求了一份令人兴奋的职业，成为一名蛇处理师、马语者、特技飞行员和飞行教练。回顾她的冒险生涯，霍德森对自己的经历表示感激，即使这些经历让她骨折。这个故事讲述了一封丢失的信件和一段美好生活的独特而神秘的旅程。]]></description>
-      <guid>https://t.me/hn_summary/111566</guid>
-      <pubDate>Mon, 07 Oct 2024 17:48:14 GMT</pubDate>
+      <title>[媒体] 我们很高兴地宣布发布 XCP-ng 8.3，这是 8 中的最后一部分。[...]</title>
+      <link>https://t.me/hn_summary/111588</link>
+      <description><![CDATA[XCP-ng 8.3 现已推出
+我们很高兴地宣布 XCP-ng 8.3 的发布，这是 8.x 系列的最后一部分，标志着我们社区的关键时刻。此版本证明了我们团队的辛勤工作和协作，超过 11,000 次预发布下载和广泛的测试确保了其稳健性。虽然 XCP-ng 8.2 LTS 仍然是稳定性的基准，但 8.3 引入了令人兴奋的新功能和增强功能，例如 XO Lite 集成、Windows 11 vTPM 支持和完整的 IPv6 支持。值得注意的是，此版本反映了我们业务模式的重大转变，巩固了我们的产品并推动了增长。我们也在超越 XenServer，专注于创新和社区需求。这一战略方向使我们能够更好地为寻求 VMware 替代方案的组织提供服务，尤其是在 Broadcom/VMware 发生变化的情况下。在我们期待 XCP-ng 9.0 的同时，我们对合作和进步的承诺依然坚定不移。（基于 73% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/111588</guid>
+      <pubDate>Mon, 07 Oct 2024 20:43:08 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 我最近偶然发现了 DKE Builds 的一款迷人套件，它可以将任何 Hot Whe [...]</title>
-      <link>https://t.me/hn_summary/111565</link>
-      <description><![CDATA[61 美元套件可将任何 Hot Wheels 变成遥控漂移车
-我最近偶然发现了 DKE Builds 的一款迷人套件，它可以将任何 Hot Wheels 变成遥控漂移车，重新点燃了我对压铸汽车的兴趣。这家英国一人公司提供与大多数 1:64 模型车兼容的套件，有 61 美元的 DIY 套装或 136 美元的即插即用底盘可供选择。两者都需要额外购买发射器和电池。DIY 套件包括可调节组件和双轴电机，非常适合漂移爱好者。但是，DKE 建议具备焊接和工程技能才能进行组装。现在的挑战是选择改装哪辆汽车——也许是三菱帕杰罗 Evolution 还是派克峰本田奥德赛？]]></description>
-      <guid>https://t.me/hn_summary/111565</guid>
-      <pubDate>Mon, 07 Oct 2024 17:47:11 GMT</pubDate>
+      <title>[媒体] 在此详细指南中，我们探讨了在 L 上实现 USB 小工具设备的过程 [...]</title>
+      <link>https://t.me/hn_summary/111587</link>
+      <description><![CDATA[Linux 上的现代 USB 小工具及其与 systemd 的集成方式（第 1 部分）（2019 年）
+在本详细指南中，我们将探讨在配备 USB 设备控制器 (UDC) 的 Linux 系统上实现 USB 小工具设备的过程。为每个小工具组合创建内核模块的传统方法正在不断发展。现在，用户可以通过声明性小工具“方案”自动执行手动配置过程，从而允许在运行时动态组合小工具。这是使用“gt”和“libusbgx”等工具实现的，它们通过使用配置文件而不是 shell 命令来简化流程。与 systemd 的集成允许在启动时自动设置小工具，从而提高效率和控制力。本指南提供了一个使用 Odroid U3 板创建以太网小工具的实际示例。一个潜在的争议是有关 systemd 在 Linux 系统中的作用的争论，作者承认这一点，但没有深入探讨。巧妙使用 configfs 和 systemd 来简化 USB 小工具的创建是这种方法的一大亮点。（基于 88% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/111587</guid>
+      <pubDate>Mon, 07 Oct 2024 20:43:03 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]《自然》杂志的文章讨论了大幅延长人类寿命所面临的挑战[...]</title>
-      <link>https://t.me/hn_summary/111564</link>
-      <description><![CDATA[21 世纪人类寿命延长的可能性不大
-《自然》杂志的这篇文章讨论了在 21 世纪大幅延长人类预期寿命所面临的挑战。尽管过去曾预测寿命会大幅延长，但来自世界最长寿人口的证据显示，自 1990 年以来，预期寿命的改善速度有所减缓。该研究强调，虽然一些国家已经达到了假设的极限，但老年死亡率改善的速度不足以实现寿命的大幅延长。“玻璃死亡率底线”的概念表明，寿命存在一个软极限，只能通过减缓生物衰老的进步来改变。文章强调，目前的预测高估了存活率，影响了保险等行业。尽管对未来老年科学的突破持乐观态度，但文章得出结论，本世纪实现寿命的大幅延长仍然不太可能。争议在于挑战关于预期寿命的乐观预测和假设，而聪明的见解是确定了长寿的“第二个软限制”。]]></description>
-      <guid>https://t.me/hn_summary/111564</guid>
-      <pubDate>Mon, 07 Oct 2024 17:47:08 GMT</pubDate>
+      <title>[媒体] 谁是好孩子？</title>
+      <link>https://t.me/hn_summary/111586</link>
+      <description><![CDATA[谁是好孩子？Puppy Linux 迷你评论
+在这篇 Puppy Linux 迷你评论中，作者分享了他们使用轻量级、便携的 Linux 发行版的经验。由于对工作用 Windows 笔记本电脑的限制和电池问题感到沮丧，他们转向 Puppy Linux 寻求更灵活、更高效的解决方案。Puppy Linux 以从 RAM 运行和极低的资源占用而闻名，尽管其外观古怪、网站导航混乱，但其速度和功能令作者感到惊讶。该发行版的默认根用户访问权限和独特的软件管理方法（包括使用 PET 和 SFS 包）对新用户来说既令人惊讶又具有潜在的挑战性。作者强调，活跃的 Puppy Linux 讨论论坛是一种宝贵的资源，因为其他地方缺乏全面的文档。评论指出用户界面和术语存在一些不一致之处，这可能会让新手和经验丰富的 Linux 用户感到困惑。总体而言，作者认为 Puppy Linux 对于那些寻求便携式 Linux 体验的人来说是一个聪明而强大的选择，尽管它有怪癖和学习曲线。（摘要基于 90% 的故事文本。）]]></description>
+      <guid>https://t.me/hn_summary/111586</guid>
+      <pubDate>Mon, 07 Oct 2024 20:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在本文中，作者反对将秘密存储在环境变量中，[...]</title>
-      <link>https://t.me/hn_summary/111563</link>
-      <description><![CDATA[不要在环境变量中使用机密
-在本文中，作者反对将机密存储在环境变量中，这是开发人员的一种常见做法，因为它很方便。虽然通过这种方式管理配置设置很容易，但作者强调了几个安全风险：机密通常管理不善、不定期轮换、缺乏审计能力，并且未在静止时加密。此外，Next.js 和 Nuxt 等框架中前端和后端之间的界限模糊可能会导致意外泄漏。作者提供了现实世界的例子，例如 Seneca CVE-2019-5483 漏洞，以说明这些风险。本文强调了使用更安全的方法来管理机密的重要性，尤其是在生产环境中。令人惊讶的是，它详细探讨了即使是看似微不足道的做法也可能导致严重的安全漏洞。 （根据 42% 的故事文本进行总结。）]]></description>
-      <guid>https://t.me/hn_summary/111563</guid>
-      <pubDate>Mon, 07 Oct 2024 17:45:03 GMT</pubDate>
+      <title>[媒体] 在数字时代，私人情报公司已经成为 [...] 领域的关键参与者。</title>
+      <link>https://t.me/hn_summary/111585</link>
+      <description><![CDATA[私人情报公司如何成为新的间谍大师
+在数字时代，私人情报公司已成为全球间谍活动的关键参与者，其发展速度往往超过传统的国家情报机构。丹·吉尔 (Dan Geer) 2014 年的演讲预示了这一转变，他预见到由于数字化环境的普及，情报将民主化。一个引人注目的例子发生在 2021 年，当时一家私营公司 Recorded Future 发现了一项针对印度电网的中国网络间谍活动。这些公司利用来自互联网（包括暗网）的大量数据来追踪威胁，通常会揭示国家机构错过的见解。虽然私营公司受到法律约束，但其开放、协作的性质促进了创新和透明度，挑战了国家情报的秘密传统。然而，开源数据和机密数据的整合仍然很复杂，而且对数据利用的道德担忧仍然存在，特别是在与中国等国家进行战略竞争的背景下。私人情报的发展凸显了现代间谍活动的机遇和挑战。（基于 82% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/111585</guid>
+      <pubDate>Mon, 07 Oct 2024 20:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在“解锁‘啊哈’时刻：初创企业的开发者关系”中，Jarod Reyes，[...]</title>
-      <link>https://t.me/hn_summary/111562</link>
-      <description><![CDATA[解锁“顿悟”时刻：初创企业的开发者关系
-在“解锁“顿悟”时刻：初创企业的开发者关系”中，SignalFire 开发者社区负责人 Jarod Reyes 强调了开发者关系 (DevRel) 在早期初创企业中的重要性。成功的关键是引导开发者进入“顿悟”时刻——当他们第一次意识到产品的核心价值时。Reyes 分享了他在 Twilio、Auth0 和 PlanetScale 工作时的经验，建议初创企业专注于紧密的产品循环、与开发者共同创造以及卓越的开发者体验。他警告不要过度分散资源，并强调开源工具吸引开发者的力量。这篇文章巧妙地将 DevRel 定位为一种产品营销形式，敦促初创公司优先考虑开发者的需求并培养拥护者社区。有争议的是，它表明传统营销工具在早期阶段可能没有必要，提倡采用更草根的方法。]]></description>
-      <guid>https://t.me/hn_summary/111562</guid>
-      <pubDate>Mon, 07 Oct 2024 17:40:58 GMT</pubDate>
+      <title>[媒体] Gunter 的太空页面成立于 1996 年，是艺术领域首屈一指的在线资源 [...]</title>
+      <link>https://t.me/hn_summary/111584</link>
+      <description><![CDATA[Gunter 的太空页面
+Gunter 的太空页面成立于 1996 年，是太空任务、卫星、火箭和更广泛的太空探索领域爱好者和专业人士的首选在线资源。该网站经常更新，最新条目从 2024 年 9 月 21 日到 2024 年 1 月 20 日，展示了其提供最新和全面信息的承诺。虽然内容简单明了，但更新的数量和频率凸显了该网站致力于保持太空探索新闻的前沿地位。虽然没有明显的争议，但在快速发展的太空探索领域，该网站的长寿和一致性是值得注意的。]]></description>
+      <guid>https://t.me/hn_summary/111584</guid>
+      <pubDate>Mon, 07 Oct 2024 20:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一个惊人的发现是，人们在一个 g [...] 中发现了之前从未见过的雷鸟电影胶片。</title>
-      <link>https://t.me/hn_summary/111561</link>
-      <description><![CDATA[花园小屋中发现未曾见过的《雷鸟神机队》电影胶片
-据拉里维埃先生称，这是一个惊人的发现，之前未曾见过的《雷鸟神机队》电影胶片在花园小屋中被发现。虽然大部分材料与已播出的内容相符，但其中一卷胶片显示了一集的另一种剪辑，其中有一个从未见过的场景。胶片盒受损，内容暴露在风雨中，需要进行修复工作。拉里维埃先生表示希望修复后的镜头能在 2025 年向公众展示，标志着它被遗弃 60 周年，至今“闲置等待被发现”。这一发现为人们提供了一个独特的视角，让我们一窥这部标志性系列背后的创作过程。]]></description>
-      <guid>https://t.me/hn_summary/111561</guid>
-      <pubDate>Mon, 07 Oct 2024 17:29:51 GMT</pubDate>
+      <title>[媒体] 攻击直升机死了吗？</title>
+      <link>https://t.me/hn_summary/111583</link>
+      <description><![CDATA[攻击直升机已死？
+Hushkit.net 上的文章探讨了攻击直升机在现代战争中不断演变的角色和可行性，尤其是在俄罗斯入侵乌克兰的情况下。文章强调了俄罗斯攻击直升机和坦克的重大损失，表明它们容易受到现代防空系统和无人机的攻击。文章质疑攻击直升机是否正在过时，因为它们的运营成本高昂，而且容易受到武装无人机和精确火炮等新威胁的攻击。作者指出，小型无人驾驶飞机对传统装甲部队的打击效果令人惊讶。文章还讨论了空中优势和先进情报对于成功实施直升机行动的战略重要性，强调了战术和技术适应性的必要性。文章还提到了潜在的政治影响，例如美国领导层的变化，这些因素可能会影响军事支持和战略的未来。（基于 57% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/111583</guid>
+      <pubDate>Mon, 07 Oct 2024 20:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Lighthigher 是一个 JavaScript 实用程序，旨在将语法高亮应用于 HTML 元素 [...]</title>
-      <link>https://t.me/hn_summary/111560</link>
-      <description><![CDATA[显示 HN：Lighthigher，突出显示同时保留 HTML 层次结构
-Lighthigher 是一个 JavaScript 实用程序，旨在将语法突出显示应用于 HTML 元素而不破坏其内部结构。与可能更改或删除 HTML 节点的传统语法高亮器不同，Lighthigher 保留了原始 DOM 层次结构，允许在  元素中包含链接和事件侦听器。此功能对于需要在突出显示的代码块中维护交互式或动态内容的开发人员特别有用。该项目支持与 Highlight.js 和 Prism.js 等流行高亮器的集成。用户可以通过 CDN 包含其脚本并使用自定义突出显示函数和目标元素调用 lighthigh 函数，轻松实现 Lighthigher。]]></description>
-      <guid>https://t.me/hn_summary/111560</guid>
-      <pubDate>Mon, 07 Oct 2024 17:11:42 GMT</pubDate>
+      <title>[媒体] 2024 年 4 月，加州出台了一项具有突破性的行业工资政策，为 [...]</title>
+      <link>https://t.me/hn_summary/111582</link>
+      <description><![CDATA[研究：加州快餐业最低工资上调并未导致就业岗位减少、价格大幅上涨
+2024 年 4 月，加州出台了一项开创性的行业工资政策，为大型快餐和饮料连锁店的员工设定了 20 美元的最低时薪，影响了约 75 万名员工。这项政策是美国同类政策中最高的，它大幅提高了 90% 受影响工人的工资，这些工人之前的收入较低。该研究利用 Glassdoor 和餐厅菜单上的创新数据，发现工资增长了 18%，但就业岗位没有减少。价格小幅上涨了 3.7%，打消了行业对大幅上涨的担忧。有趣的是，62% 的成本增长被转嫁给了消费者，利润率吸收了剩余的成本，由于需求缺乏弹性，母公司从中受益。这种独特的方法挑战了对工资政策影响的传统观点。]]></description>
+      <guid>https://t.me/hn_summary/111582</guid>
+      <pubDate>Mon, 07 Oct 2024 20:13:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
