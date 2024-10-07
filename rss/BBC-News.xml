@@ -4,13 +4,27 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 07 Oct 2024 12:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 15:13:19 GMT</lastBuildDate>
     <item>
-      <title>刺伤老师的女孩在学校总是带着刀</title>
-      <link>https://www.bbc.com/news/articles/ckgmv0kpyxxo</link>
-      <description><![CDATA[女孩说，她想殴打老师，但“从不希望任何人死亡”。]]></description>
-      <guid>https://www.bbc.com/news/articles/ckgmv0kpyxxo</guid>
-      <pubDate>Mon, 07 Oct 2024 12:06:47 GMT</pubDate>
+      <title>TGI Fridays 达成救助协议 但英国仍有 1,000 个工作岗位需要裁员</title>
+      <link>https://www.bbc.com/news/articles/cqxryv2pw40o</link>
+      <description><![CDATA[为拯救该连锁店，该协议将导致其 30 多家餐厅关闭。]]></description>
+      <guid>https://www.bbc.com/news/articles/cqxryv2pw40o</guid>
+      <pubDate>Mon, 07 Oct 2024 15:05:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>飓风米尔顿迅速增强为四级风暴</title>
+      <link>https://www.bbc.com/news/articles/crl8e084r9yo</link>
+      <description><![CDATA[预计飓风米尔顿将于周三在佛罗里达州登陆。]]></description>
+      <guid>https://www.bbc.com/news/articles/crl8e084r9yo</guid>
+      <pubDate>Mon, 07 Oct 2024 14:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>曼城在英超商业交易中取得部分胜利</title>
+      <link>https://www.bbc.com/sport/football/articles/cq5eyvl7nggo</link>
+      <description><![CDATA[这是曼城队针对英超联赛关联交易规则一案的判决结果。]]></description>
+      <guid>https://www.bbc.com/sport/football/articles/cq5eyvl7nggo</guid>
+      <pubDate>Mon, 07 Oct 2024 13:55:31 GMT</pubDate>
     </item>
     <item>
       <title>天龙座流星雨将于周二晚达到顶峰</title>
@@ -20,9 +34,9 @@
       <pubDate>Mon, 07 Oct 2024 12:05:50 GMT</pubDate>
     </item>
     <item>
-      <title>伪装全科医生承认因遗嘱纠纷企图谋杀</title>
+      <title>伪装的全科医生承认企图投毒谋杀</title>
       <link>https://www.bbc.com/news/articles/c4g9ve47e92o</link>
-      <description><![CDATA[托马斯·关 (Thomas Kwan) 因谋杀未遂罪接受审判后改变了自己的辩护。]]></description>
+      <description><![CDATA[托马斯·关 (Thomas Kwan) 因谋杀未遂案开始审判后改变了自己的辩护理由。]]></description>
       <guid>https://www.bbc.com/news/articles/c4g9ve47e92o</guid>
       <pubDate>Mon, 07 Oct 2024 11:58:22 GMT</pubDate>
     </item>
@@ -34,25 +48,11 @@
       <pubDate>Mon, 07 Oct 2024 11:46:42 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯以雇佣兵罪名判处 72 岁美国人监禁</title>
-      <link>https://www.bbc.com/news/articles/crr5n4nlg79o</link>
-      <description><![CDATA[检察官称，斯蒂芬·哈伯德 (Stephen Hubbard) 于 2022 年在乌克兰方面作战时被俄罗斯军队俘虏。]]></description>
-      <guid>https://www.bbc.com/news/articles/crr5n4nlg79o</guid>
-      <pubDate>Mon, 07 Oct 2024 10:54:47 GMT</pubDate>
-    </item>
-    <item>
       <title>诺贝尔奖授予那些揭开基因秘密的科学家</title>
       <link>https://www.bbc.com/news/articles/c79nrgp97x9o</link>
       <description><![CDATA[美国科学家维克多·安布罗斯和加里·鲁夫昆帮助解释了基因在人体内如何发挥作用。]]></description>
       <guid>https://www.bbc.com/news/articles/c79nrgp97x9o</guid>
       <pubDate>Mon, 07 Oct 2024 10:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈利法克斯称房价接近历史高位</title>
-      <link>https://www.bbc.com/news/articles/c62mv1d3650o</link>
-      <description><![CDATA[贷款机构表示，抵押贷款利率下降有助于增强购房者的信心。]]></description>
-      <guid>https://www.bbc.com/news/articles/c62mv1d3650o</guid>
-      <pubDate>Mon, 07 Oct 2024 09:42:13 GMT</pubDate>
     </item>
     <item>
       <title>这些人质仍被哈马斯扣押</title>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 06 Oct 2024 17:46:57 GMT</pubDate>
     </item>
     <item>
-      <title>BBC 各地记者反思长达一年的战争</title>
+      <title>BBC 各地记者回顾长达一年的战争</title>
       <link>https://www.bbc.co.uk/sounds/play/p0jvxhrd</link>
       <description><![CDATA[我们的专家回顾了战争如何开始、如何加剧以及整个地区的紧张局势如何升级。]]></description>
       <guid>https://www.bbc.co.uk/sounds/play/p0jvxhrd</guid>
