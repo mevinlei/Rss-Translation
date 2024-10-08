@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Oct 2024 12:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 15:11:39 GMT</lastBuildDate>
     <item>
       <title>统一玩法</title>
       <link>https://www.producthunt.com/posts/unify-plays</link>
@@ -20,18 +20,46 @@
       <pubDate>Tue, 08 Oct 2024 06:11:20 GMT</pubDate>
     </item>
     <item>
-      <title>汞费用报销</title>
-      <link>https://www.producthunt.com/posts/mercury-expense-reimbursements</link>
+      <title>客户支持 Jam</title>
+      <link>https://www.producthunt.com/posts/jam-for-customer-support</link>
       <description><![CDATA[
-直接从 Mercury 报销员工自付费用
+使用开发日志记录客户错误
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/mercury-expense-reimbursements</guid>
-      <pubDate>Tue, 08 Oct 2024 00:04:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jam-for-customer-support</guid>
+      <pubDate>Tue, 08 Oct 2024 05:19:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>超垫</title>
+      <link>https://www.producthunt.com/posts/hyperpad-2</link>
+      <description><![CDATA[
+适用于 iPad 的无代码游戏制作工具
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/hyperpad-2</guid>
+      <pubDate>Mon, 07 Oct 2024 22:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>玛戈</title>
+      <link>https://www.producthunt.com/posts/marqo</link>
+      <description><![CDATA[
+训练和部署嵌入模型
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/marqo</guid>
+      <pubDate>Mon, 07 Oct 2024 18:34:49 GMT</pubDate>
     </item>
     <item>
       <title>睡眠天堂</title>
@@ -76,20 +104,6 @@ Stripe 用于国际化
       <pubDate>Sat, 05 Oct 2024 18:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>蒙娜丽莎</title>
-      <link>https://www.producthunt.com/posts/monalisa</link>
-      <description><![CDATA[
-LinkedIn Premium，但适用于 Github
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/monalisa</guid>
-      <pubDate>Fri, 04 Oct 2024 00:29:21 GMT</pubDate>
-    </item>
-    <item>
       <title>Xcode 模拟器的 ProSim</title>
       <link>https://www.producthunt.com/posts/prosim-for-xcode-simulator</link>
       <description><![CDATA[
@@ -132,24 +146,10 @@ AI 驱动的个人生产力
       <pubDate>Mon, 30 Sep 2024 06:26:15 GMT</pubDate>
     </item>
     <item>
-      <title>麦克风掉落 2.0</title>
-      <link>https://www.producthunt.com/posts/mic-drop-2-0</link>
-      <description><![CDATA[
-在任何应用中将麦克风静音
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mic-drop-2-0</guid>
-      <pubDate>Sun, 29 Sep 2024 14:34:54 GMT</pubDate>
-    </item>
-    <item>
       <title>艾迪</title>
       <link>https://www.producthunt.com/posts/eddie-ai</link>
       <description><![CDATA[
-您的讲故事伙伴
+ChatGPT 用于视频编辑
 
 
 讨论
