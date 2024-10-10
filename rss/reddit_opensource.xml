@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 10 Oct 2024 09:12:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:19:22 GMT</lastBuildDate>
+    <item>
+      <title>MINIO开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</link>
+      <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
+      <pubDate>Thu, 10 Oct 2024 11:34:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们呼吸的空气：Sachit Mahajan 访谈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0fhli/the_air_we_breathe_interview_with_sachit_mahajan/</link>
+      <description><![CDATA[       由    /u/Spartacus90210  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0fhli/the_air_we_breathe_interview_with_sachit_mahajan/</guid>
+      <pubDate>Thu, 10 Oct 2024 10:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>最简单、免费且开源的 Tailwind CSS 组件库，带有语义类 - FlyonUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g0f6fu/the_easiest_free_opensource_tailwind_css/</link>
+      <description><![CDATA[我偶然发现了一个开源 Tailwind CSS 组件库 FlyonUI，它在 Hackernews 上很流行。 所以，我检查了一下，觉得这是开源社区和开发者必备的资源。 它有 78 多个组件和 800 多个组件示例。我真的觉得开发人员在创作这个杰作时已经尽了最大努力。 以下是一些令人难以置信的功能：  JS 插件支持 语义组件 800 多个免费组件和示例 通用框架兼容性 无限主题 无样式且可访问的插件 响应式和 RTL 支持 永久免费 美观且语义化的样式 效率和生产力 可维护和可扩展  Github Repo： https://github.com/themeselection/flyonui    提交人    /u/Saanvi_Sen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g0f6fu/the_easiest_free_opensource_tailwind_css/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:52:47 GMT</pubDate>
+    </item>
     <item>
       <title>构建开源 AI 驱动的 Lead Magnet 工具 – 寻求提示和指导！</title>
       <link>https://www.reddit.com/r/opensource/comments/1g0dxdr/building_an_opensource_aipowered_lead_magnet_tool/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>开源 Lovense 性爱机器代码？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</link>
-      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但都不起作用，我被卡住了。有人能指点我吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试开发一个操作我的 Lovense 性爱机器的开源程序。 我找到了 buttplug.io，但他们没有太多关于性爱机器的内容，我找到了 Hush 的旧式肛塞软件并将该设备转储到控制台 if (newTips.length) { newTipsOccurred(newTips); for (const device of window.buttplug_devices) { console.log(device.AllowedMessages.join(&quot;, &quot;)); if (device.AllowedMessages.includes(&quot;VibrateCmd&quot;)) { await window.buttplug_devices[0].SendVibrateCmd(1.0); setTimeout(() =&gt; window.buttplug_devices[0].SendVibrateCmd(0), newTips[0].amount * 100); } else { console.log(device); } } }  随着嘘声的响起 VibrateCmd、stop_device_cmd、single_motor_vibrate_cmd 但是对于性爱机器，它说唯一可接受的消息是&quot;stop_device_cmd&quot; 我尝试输入一些其他命令，但没有任何效果，我被卡住了。有人能指出我在哪里吗。    提交人    /u/Ajadeofsorts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g08h3p/open_source_lovense_sex_machine_code/</guid>
       <pubDate>Thu, 10 Oct 2024 02:10:30 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[一个缓存和键值存储，同时也是一个多模型数据库，用 C++ 编写，API 用 Go 编写 它的功能也类似于 Redis！ Repo：https://github.com/Kazooki123/LunarDB 文档：https://lunardbdocs.vercel.app/docs/    提交人    /u/Wala_kang_jowa143   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fzn7rf/lunardb/</guid>
       <pubDate>Wed, 09 Oct 2024 09:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户日历与现有的 Google/Apple 日历同步</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzmvbg/users_calendar_synchornization_with_existing/</link>
-      <description><![CDATA[我可能对日历了解不多，除了通过需要定制开发的 API。 在我的软件中，我允许用户使用某种日历（简单，没什么花哨的），其中有些事件会自动添加/删除。 现在我想要 2 件事：  将这些事件同步到用户的日历（在我获得许可、连接 gmail/apple 并授权我后，我的事件应该会显示在他们的日历中） 可以访问（只读）日历中存在的任何其他事件（原因是检查重叠）  现在，我明白我可以使用 API 手动执行此操作并从这些日历中提取/推送数据。 我的问题：  是否有开源软件可以通过某些标准日历格式自动执行此操作（webdav/caldav）？     由   提交  /u/alexrada   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzmvbg/users_calendar_synchornization_with_existing/</guid>
-      <pubDate>Wed, 09 Oct 2024 08:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何保持开源代码公开以防止企业欺凌？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzl3k3/how_to_keep_an_open_source_code_public_against/</link>
-      <description><![CDATA[你知道...当你最喜欢的应用程序被大公司以法律欺凌的方式关闭时，你肯定会想知道是否有办法在 GitHub 之外继续工作。  我的第一个想法是询问一些类似 tor 的解决方案来连接到 git 服务器。然后我想到了一些 ipfs 解决方案。 我的意思是，有些东西以这种方式保存在网上，但不应该，当然我们可以公开提供开源代码来对抗邪恶的公司    提交人    /u/plichi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzl3k3/how_to_keep_an_open_source_code_public_against/</guid>
-      <pubDate>Wed, 09 Oct 2024 06:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用或推荐哪种浏览器？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fzi3w2/which_browser_do_you_use_or_recommend/</link>
-      <description><![CDATA[自从我决定退出谷歌浏览器以来，我一直在使用 Firefox，希望能保留我仅存的隐私。在搜索隐私时，我看到了对 Brave 浏览器的推荐，过去几天我一直在使用它。它似乎比 Firefox 更注重隐私，它也是开源的，可用性也很好。 我不知道我是否应该迁移到 Brave，或者任何其他浏览器。这就是我决定创建这篇文章的原因  当安全和隐私是主要问题时，您会使用或推荐哪种浏览器？ 注意：我正在寻找一款安全的浏览器，但也适合日常任务和整体体验。    提交人    /u/luanmdlima   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fzi3w2/which_browser_do_you_use_or_recommend/</guid>
-      <pubDate>Wed, 09 Oct 2024 03:13:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
