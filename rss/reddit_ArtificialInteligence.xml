@@ -4,7 +4,49 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 15:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 18:12:42 GMT</lastBuildDate>
+    <item>
+      <title>用于视频编辑的人工智能：游戏规则改变者还是仅仅是一个酷炫的小工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1fg76/ai_for_video_editing_game_changer_or_just_a_cool/</link>
+      <description><![CDATA[我听说很多关于视频编辑中使用 AI 工具的消息 - 自动编辑剪辑、调色，甚至建议过渡。听起来很棒，但我想知道：AI 真的会改变我们的编辑方式吗？还是它只是一个可以加快小任务的有趣工具？ 对于从事视频工作的人来说，AI 如何影响了您的工作流程？您是在使用它来更快地创建内容，还是它仍然是一种新奇事物？我希望看到您的反馈。    提交人    /u/OddReplacement5567   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1fg76/ai_for_video_editing_game_changer_or_just_a_cool/</guid>
+      <pubDate>Fri, 11 Oct 2024 17:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>从医学到人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dy04/medicine_to_ai/</link>
+      <description><![CDATA[大家好， 我是一名医生，目前居住在英国。我刚刚开始接受精神病学培训，也是我当医生的第 4 年。虽然我喜欢我的工作，但有时我觉得还有其他工作对我的大脑更有意义。我从小就喜欢化学和数学。所有这些都是为了说明，我如何才能进入或开始从事人工智能职业？我只完成了 Data Camp 的一些人工智能模块的基础知识，没有其他的。有人能给我一些建议吗？我该如何将我的医学学位和人工智能结合起来，进入未来的职业？    提交人    /u/Better-Branch-9604   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dy04/medicine_to_ai/</guid>
+      <pubDate>Fri, 11 Oct 2024 16:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>新论文或表明，当前的法学硕士可以成为一般智力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dqob/new_paper_might_show_that_current_llms_can_become/</link>
+      <description><![CDATA[我刚刚读了一篇论文（https://www.arxiv.org/abs/2410.02536），我对此进行了思考。我认为它表明当前的模型和架​​构能够从数据中获得通用智能。目前，我相信大多数对人工智能进展持怀疑态度的人之所以持怀疑态度，是因为他们认为这些模型和架构不是通往人工智能的道路，因为它们没有泛化；它们没有从数据中获得通用智能。相反，它们依赖于记忆，基本上在这些记忆事件之间使用某种简单的插值。这样，由于它们吸收了所有数据，它们看起来很聪明。所以当他们遇到新问题时，比如 ArcAGI 测试，它们无法解决。 我发现 ArcAGI 测试一开始就非常引人注目。看起来它们确实没有真正的通用智能，只是在记忆。但后来我看到了这篇论文，我认为它挑战了这一观点。这是因为，在这篇论文中，这些模型从自动化数据中学习，这与国际象棋完全无关。但通过从自动化数据中学习，它们在国际象棋方面变得更好。我认为这只有在他们从自动化数据中获得通用智能时才会发生。我认为他们在预测变量、解决问题、推理方面做得更好——不管是什么。他们从这些看似与国际象棋无关的数据中获得了通用智能，他们能够更好地下国际象棋。 现在，如果他们只能记忆并进行简单的插值，学习自动化数据对他们下国际象棋没有任何帮助——但确实如此。因此，如果他们不能从数据中提取通用智能，我看不出这怎么可能。那么为什么 LLM 在 ArcAGI 挑战中挣扎呢？嗯，我认为原因不是因为这些架构在提取通用智能方面天生就受到限制，而是因为它们更喜欢记忆而不是抽象通用智能。它们基本上可以看到大量数据，而与人脑相比，它们的参数大小（如果我们可以比较的话）要小得多。这使得对于 LLM 模型来说，仅通过记忆来解决问题比真正理解问题要高效得多。 因此，我认为这是由于参数的数量、训练数据以及它们在这方面接受训练的时间长短，它们更喜欢记忆而不是推理，因为这对它们来说效率更高。但它们有能力做到这一点，正如本文所示。因此，我相信，如果我们获得足够的参数来与人脑相等，并且我们给它足够的训练时间，它很可能成为 AGI。我对数据进行了一些分析，表明参数大小将在四年内与人脑相等。这就是我的预测，与许多其他人一样，关于 AGI 何时到来。    提交人    /u/PianistWinter8293   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dqob/new_paper_might_show_that_current_llms_can_become/</guid>
+      <pubDate>Fri, 11 Oct 2024 16:22:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类参与是改进 RAG 系统的关键吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dpey/is_human_in_the_loop_the_key_to_improving_rag/</link>
+      <description><![CDATA[  由    /u/SmythOSInfo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1dpey/is_human_in_the_loop_the_key_to_improving_rag/</guid>
+      <pubDate>Fri, 11 Oct 2024 16:21:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索：高影响力、抓住我的裤子座位、毫不留情、极度偏见的人工智能产品经理课程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1ciz5/searching_high_impact_grab_the_seat_of_my_pants/</link>
+      <description><![CDATA[大家好， 我是一名目前失业的项目经理，希望掌握 AI/ML 基础知识和中级技能。 我并不想成为一名工程师，但我希望能够与他们进行接近他们水平的交流。 在过去，我总是根据需要，有组织地提高自己在产品开发各个方面的技能，或者采用久经考验的&quot;反复试验，希望上帝保佑你能在开发主管发现并欠他们啤酒之前修复错误&quot;。 这种心态让我在网上搜索教程，但它会在精神上虐待我，永远不会原谅我的错误，同时证明我的逻辑代数教授对我的建设性批评，他将 Taco Bell 应用程序附加到所有成绩低于的考试中。 A B+。 欢迎任何和所有的课程建议！ P.s. 我在技术上倾向于 PM，我只是一个半糟糕的开发人员！    提交人    /u/DatJavaClass   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1ciz5/searching_high_impact_grab_the_seat_of_my_pants/</guid>
+      <pubDate>Fri, 11 Oct 2024 15:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能最新进展：新工具和更新 Clarity-upscaler、Claude-dev 2.0.0 等</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1cdls/latest_in_ai_new_tools_and_update_clarityupscaler/</link>
+      <description><![CDATA[大家好！要分享的 AI 更新： Clarity Upscaler：您知道开源工具变得超级强大吗？使用 Clarity Upscaler，您现在可以制作大到 14,336 x 14,336 像素的图像，而且完全免费！Magnific AI 等付费工具的绝佳替代品。在 GitHub 上查看！ Cline (Claude-dev 2.0.0)：Cline 从 Claude-dev 2.0.0 开始，就像是编码的 AI 助手！它基于 Claude 3.5 的模型构建，可帮助完成从编写代码到运行命令的所有工作。在 GitHub 上了解更多信息！ Whisper-Web：需要快速的语音到文本转录？ Whisper-Web 速度超快，您甚至可以通过演示进行测试。在 GitHub 上找到它！ Hailuo AI：视频创作者们注意了！Hailuo AI 刚刚推出了 3 天无限制视频优惠，无水印。非常适合那些从事大型项目的人！ 3D Gaussian Splats (3DGS)：喜欢 3D 建模吗？ 3DGS 是一种用于渲染柔和、自然的 3D 形状的方法，非常适合游戏开发者！ 来源： https://comfyuiblog.com/ai-tools-and-update-clarity-upscaler-claude-dev-2-0-0-and-more/    提交人    /u/hackerzcity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1cdls/latest_in_ai_new_tools_and_update_clarityupscaler/</guid>
+      <pubDate>Fri, 11 Oct 2024 15:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>为学生、学者、研究人员和博士建立了人工智能研究平台 (Paperguide)。寻求您的反馈</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1b4hu/built_aipowered_research_platform_paperguide_for/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>最受认可的人工智能认证是什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g19wk6/whats_the_most_recognized_ai_certification/</link>
-      <description><![CDATA[我是一名软件工程师，接受过一些机器学习方面的教育和培训，拥有计算机科学（专业）、数学和统计学学位。我有兴趣获得人工智能/机器学习方面的认证。Chatgpt 表示以下是最受认可的认证。这是正确的吗？您是否关注过其中任何一个？什么值得做？ &quot;  Google 专业机器学习工程师  重点：机器学习、TensorFlow、MLOps。 认可：Google Cloud 认证备受推崇，尤其是涉及云 AI 和机器学习的角色。 技能：设计、构建和生产 ML 模型，在 Google Cloud 上部署模型。  Microsoft 认证：Azure AI Engineer Associate  重点：Microsoft Azure 上的 AI 和机器学习。 认可：在 Microsoft 生态系统内工作的 AI 专业人士备受推崇。 技能：AI 模型、机器学习、认知服务以及对 Python 和 Azure ML 的了解。  AWS 认证机器学习 - 专业  重点：AWS 上的机器学习。 认可：AWS认证受到云基础设施和 ML 专业人员的高度认可。 技能：在 AWS 生态系统中设计和实施可扩展的 ML 解决方案、优化算法和模型部署。  IBM AI 工程专业证书 (Coursera)  重点：基础 AI 和机器学习。 认可：此认证由 IBM 提供，对于那些刚进入 AI 领域或希望获得实用 ML 技能的人来说非常受好评。 技能：机器学习、深度学习、强化学习以及 Scikit-learn、Keras 和 TensorFlow 等工具。  美国人工智能研究所 (USAII) 认证的 AI 专业人士 (CAIP)  重点：AI 基础和业务应用。 认可：针对希望从管理和战略角度使用 AI 的专业人士。 技能：AI应用程序开发、自然语言处理和深度学习。  DeepLearning.AI TensorFlow 开发者证书  重点：深度学习和 TensorFlow。 认可：对于想要展示使用 TensorFlow 进行 AI 和机器学习项目的专业知识的人来说很有价值。 技能：实现神经网络、TensorFlow 库和构建 AI 应用程序。  CertNexus 认证的道德新兴技术专家 (CEET)  重点：道德 AI、数据治理和负责任的 AI 实施。 认可：针对旨在确保合乎道德地使用 AI 技术的专业人士。 技能：道德框架、AI 监管和数据隐私问题。  Coursera AI 认证（各种）  重点：人工智能、机器学习和深度学习方面的专业化。 认可：Andrew Ng（斯坦福大学）和其他人在 Coursera 上开设的课程在学术界和业界都广受认可。 技能：机器学习模型、神经网络、深度学习框架和 Python 编程。  DataCamp AI/ML 认证  重点：人工智能、机器学习和数据科学技能。 认可：DataCamp 认证在数据科学家和人工智能工程师中很受欢迎。 技能：人工智能建模、数据可视化、Python、R 编程和高级 ML 算法。  斯坦福大学人工智能专业课程  重点：人工智能原理和实际应用。 认可：斯坦福大学的在线人工智能课程因其学术严谨性和行业影响力而广受尊重相关性。 技能：AI算法，ML技术，计算机视觉和NLP。 &quot; 编辑：在chatgpt的答案周围加上引号。    提交人    /u/BambaZillah   [link] [评论]]]></description>
+      <description><![CDATA[我是一名软件工程师，接受过一些机器学习方面的教育和培训，拥有计算机科学（主修）、数学和统计学学位。我有兴趣获得人工智能/机器学习方面的认证。Chatgpt 表示以下是最受认可的认证。这是正确的吗？您是否关注过其中任何一个？什么值得做？ &quot;  Google 专业机器学习工程师  重点：机器学习、TensorFlow、MLOps。 认可：Google Cloud 认证备受推崇，尤其是涉及云 AI 和机器学习的角色。 技能：设计、构建和生产 ML 模型，在 Google Cloud 上部署模型。  Microsoft 认证：Azure AI Engineer Associate  重点：Microsoft Azure 上的 AI 和机器学习。 认可：在 Microsoft 生态系统内工作的 AI 专业人士备受推崇。 技能：AI 模型、机器学习、认知服务以及对 Python 和 Azure ML 的了解。  AWS 认证机器学习 - 专业  重点：AWS 上的机器学习。 认可：AWS认证受到云基础设施和 ML 专业人员的高度认可。 技能：在 AWS 生态系统中设计和实施可扩展的 ML 解决方案、优化算法和模型部署。  IBM AI 工程专业证书 (Coursera)  重点：基础 AI 和机器学习。 认可：此认证由 IBM 提供，对于那些刚进入 AI 领域或希望获得实用 ML 技能的人来说非常受好评。 技能：机器学习、深度学习、强化学习以及 Scikit-learn、Keras 和 TensorFlow 等工具。  美国人工智能研究所 (USAII) 认证的 AI 专业人士 (CAIP)  重点：AI 基础和业务应用。 认可：针对希望从管理和战略角度使用 AI 的专业人士。 技能：AI应用程序开发、自然语言处理和深度学习。  DeepLearning.AI TensorFlow 开发者证书  重点：深度学习和 TensorFlow。 认可：对于想要展示使用 TensorFlow 进行 AI 和机器学习项目的专业知识的人来说很有价值。 技能：实现神经网络、TensorFlow 库和构建 AI 应用程序。  CertNexus 认证的道德新兴技术专家 (CEET)  重点：道德 AI、数据治理和负责任的 AI 实施。 认可：针对旨在确保合乎道德地使用 AI 技术的专业人士。 技能：道德框架、AI 监管和数据隐私问题。  Coursera AI 认证（各种）  重点：人工智能、机器学习和深度学习方面的专业化。 认可：Andrew Ng（斯坦福大学）和其他人在 Coursera 上开设的课程在学术界和业界都广受认可。 技能：机器学习模型、神经网络、深度学习框架和 Python 编程。  DataCamp AI/ML 认证  重点：人工智能、机器学习和数据科学技能。 认可：DataCamp 认证在数据科学家和人工智能工程师中很受欢迎。 技能：人工智能建模、数据可视化、Python、R 编程和高级 ML 算法。  斯坦福大学人工智能专业课程  重点：人工智能原理和实际应用。 认可：斯坦福大学的在线人工智能课程因其学术严谨性和行业影响力而广受尊重相关性。 技能：AI算法，ML技术，计算机视觉和NLP。 &quot; 编辑：在chatgpt的答案周围加上引号。    提交人    /u/BambaZillah   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g19wk6/whats_the_most_recognized_ai_certification/</guid>
       <pubDate>Fri, 11 Oct 2024 13:33:38 GMT</pubDate>
     </item>
@@ -43,23 +85,9 @@
     <item>
       <title>您做过的最好的人工智能项目是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g18wub/what_was_the_best_ai_project_youve_done/</link>
-      <description><![CDATA[我很好奇，需要自己集思广益，想出一些想法。这可能是你为个人使用而做的项目，也可能是为了提供人们/某人或任何东西。你做过的最好的事情是什么？    由   提交  /u/Gold_Conversation351   [link] [评论]]]></description>
+      <description><![CDATA[我很好奇，需要自己集思广益，想出一些想法。这可能是你为个人使用而做的项目，或者为人们/某人或任何东西提供。你做过的最好的事情是什么？    由   提交  /u/Gold_Conversation351   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g18wub/what_was_the_best_ai_project_youve_done/</guid>
       <pubDate>Fri, 11 Oct 2024 12:44:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道一个好的编写代码的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g18w0c/anyone_know_a_good_ai_for_writing_code/</link>
-      <description><![CDATA[因此，我需要一个类似 chatgpt 风格的人工智能，我可以告诉它该做什么，它能很好地理解，并且能编写出非常好的代码，我需要用 python 编写的代码，但是如果能了解所有语言就更好了，我还需要它链接到数据库，并且像 chatgpt 那样能很好地理解，这样我就可以给它一些复杂的东西去做，它会编写代码，还会和我交谈，解释它，或者帮助我完成与我的程序相关的其他事情 你能告诉我一些付费的和免费的吗    提交人    /u/ItsukiKyuu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g18w0c/anyone_know_a_good_ai_for_writing_code/</guid>
-      <pubDate>Fri, 11 Oct 2024 12:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于转录大量音频的最有价值的 AI 是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g17vmk/what_is_the_best_value_ai_to_transcribe_large/</link>
-      <description><![CDATA[考虑到成本和交付质量，目前有哪些最具成本效益的工具可以自动化此操作？ 此操作的主要目标是每月转录和分析来自各个呼叫中心的大约 500 小时的音频。 步骤  音频转录：自动转录通话音频。 内容分析：分析转录通话的内容。对呼叫中心代理（人员 1）和客户（人员 2）的行为进行分类。 行为分类：使用预期行为的参考和映射系统进行分类。 数据存储：将分类数据分批保存在数据库中，包括以下信息：呼叫 ID；每次互动的分数；通话的最终结果；完成对话的记录。     提交人    /u/SpeakerAnnual8482   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g17vmk/what_is_the_best_value_ai_to_transcribe_large/</guid>
-      <pubDate>Fri, 11 Oct 2024 11:48:33 GMT</pubDate>
     </item>
     <item>
       <title>我再次使用 Chatgpt 进行 Shroom 测试</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[我爸爸现在很老了。我想我没有太多他说话、讲话的训练数据，甚至在视频中也没有。在我拥有的关于他的大多数视频中，他都很沉默。 我很快就要去看他了。这次我想确保我有他的声音或其他数据，可以用来重新创建/克隆他。我知道这里面有很多道德问题。老实说，我还没有考虑过所有的问题。 但我知道一件事——在他去世后，我会后悔没有努力收集一些数据。我想尽量减少我的遗憾。 有什么建议吗？我具体需要做什么？我有一部 iPhone，我还从亚马逊买了一个录音机。    提交人    /u/Slow-Passenger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0v2bt/id_like_to_clone_my_dads_voice_how_can_i_do_that/</guid>
       <pubDate>Thu, 10 Oct 2024 22:29:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望建立 AI 应答服务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0uug8/looking_to_set_up_an_ai_answering_service/</link>
-      <description><![CDATA[编辑：Google Voice 严格禁止此操作。将寻求其他 SIP 选项。 大家好， 我有一台 NVIDIA Jetson Nano，正在寻求构建一个自托管应答服务。我希望实现的是：Jetson 接听来自我的 Google Voice 商务电话号码的来电，与呼叫者沟通，回答知识库中的任何问题，与我的谷歌日历或 Zoho 日历集成，并为我安排服务电话/约会。然后通过电子邮件向我发送通话记录。 希望将工作作为一个项目来投入，但对此很陌生。编程语言技能主要集中在 Python 上。我应该从哪里开始？    提交人    /u/Wonderful_Fail_8253   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0uug8/looking_to_set_up_an_ai_answering_service/</guid>
-      <pubDate>Thu, 10 Oct 2024 22:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个人工智能，它可以根据幻灯片创建 TedTalk 演示文稿</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0tbic/i_need_an_ai_that_creates_a_tedtalk_presentation/</link>
-      <description><![CDATA[我发现 Google 的 NotebookLM Podcast 功能对我在学校学习笔记非常有帮助。 我想知道是否有类似的东西可以跟随我提供的幻灯片，这样我就可以有一些视觉效果来帮助保留信息。 有了无穷无尽的播客内容，我敢肯定 NotebookLM 有大量的训练数据，我认为也有足够的 TedTalks 和类似的东西！ 我知道我几乎重新发明了自己的教授，但其中一些教授很无聊，如果我说实话的话，可能会被人工智能取代 :P    提交人    /u/MasterWizard25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0tbic/i_need_an_ai_that_creates_a_tedtalk_presentation/</guid>
-      <pubDate>Thu, 10 Oct 2024 21:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索用于创意视频编辑的 AI 工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0odm8/exploring_ai_tools_for_creative_video_editing/</link>
-      <description><![CDATA[最近我一直在研究人工智能及其在视频编辑中的应用，我想分享一些见解并收集您的想法。有一些有趣的工具可以利用人工智能来简化视频创作过程，使初学者和经验丰富的创作者都更容易上手。 例如，我遇到了一些可以根据提示生成脚本、创建自动字幕甚至增强旧照片的工具。我很好奇——你们觉得哪些人工智能工具对视频编辑或内容创作最有用？您是否尝试过任何您认为可以显着改善工作流程的工具？ 期待听到您的经验和建议！    提交人    /u/NovelFoxa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0odm8/exploring_ai_tools_for_creative_video_editing/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们还要多久才能拥有一个可以基本掌控我们生活的个人助理人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g0f226/how_long_till_we_have_a_personal_assistant_ai_who/</link>
-      <description><![CDATA[例如，我在下办公室回家的路上，在车里听音乐。我到家，下车，音乐传输到手机扬声器，然后传输到家里的扬声器。暖气打开了，晚餐已经准备好，正在烹饪。人工智能根据我的饮食习惯选择了菜式。电视调到最喜欢的频道。诸如此类的事情。     提交人    /u/Critical39   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g0f226/how_long_till_we_have_a_personal_assistant_ai_who/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:43:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
