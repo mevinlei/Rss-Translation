@@ -4,87 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 00:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 02:53:48 GMT</lastBuildDate>
     <item>
-      <title>[媒体] AMD 在 Advancing AI 活动上发布了其第五代 EPYC“Turin”处理器，展示了 [...]</title>
-      <link>https://t.me/hn_summary/112007</link>
-      <description><![CDATA[AMD 发布 EPYC 9005“Turin”服务器处理器评测
-AMD 在 Advancing AI 活动上发布了其第五代 EPYC“Turin”处理器，展示了与之前型号相比的重大进步。EPYC 9005 系列拥有每插槽多达 192 个内核和 384 个线程，IPC 提升了 17%，并进行了 Zen 5 架构改进，包括具有完整 512 位数据路径的 AVX-512。值得注意的是，该系列保留了 SP5 插槽，只需更新 BIOS 即可轻松升级。但是，像 EPYC 9965 这样的顶级 SKU 可能需要增强冷却，因为它们的 TDP 为 500 瓦。该系列支持 DDR5-6000 ECC Registered 内存，某些配置可能达到 DDR5-6400。虽然这些处理器提供了令人印象深刻的规格，但与英特尔的 Granite Rapids 不同，它们缺乏 MRDIMM 支持。价格从 527 美元到 14,813 美元不等，与英特尔的产品相比具有竞争力。然而，一些 Linux 驱动程序支持功能仍处于补丁形式，尚未上游，突出了一个潜在的问题领域。总体而言，EPYC 9005 系列承诺带来令人兴奋的性能改进，更多基准测试即将发布。]]></description>
-      <guid>https://t.me/hn_summary/112007</guid>
-      <pubDate>Fri, 11 Oct 2024 00:43:45 GMT</pubDate>
+      <title>[媒体] 自学成才的库尔德天文摄影师达里亚·卡瓦·米尔扎 (Darya Kawa Mirza) 取得了非凡的成就 [...]</title>
+      <link>https://t.me/hn_summary/112027</link>
+      <description><![CDATA[月球照片
+自学成才的库尔德天文摄影师达里亚·卡瓦·米尔扎 (Darya Kawa Mirza) 取得了非凡的成就，他以非凡的细节捕捉到了月球崎岖的表面。在四天的时间里，米尔扎收集了 81,000 张照片，制作了一张 708 千兆字节的合成图，以惊人的清晰度展示了月球地形。他的作品突出了个别陨石坑和瘀伤色斑点，揭示了小行星和彗星撞击的影响，以及火山沉积物。米尔扎利用自家后院的高倍望远镜和相机，开发了一种他称之为“相位融合”的技术，该技术涉及合并四个不同月相的图像。这个复杂的过程因月球的轴向运动而变得复杂，它为我们提供了难得一见的天体景观及其不断变化的光影。米尔扎计划将他的天文摄影范围扩大到行星、星系和星云。在 Instagram 上探索他的更多作品，并通过成为 Colossal 会员来支持独立艺术出版。]]></description>
+      <guid>https://t.me/hn_summary/112027</guid>
+      <pubDate>Fri, 11 Oct 2024 02:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 人口密度是美国人不能讨论政治的原因吗？</title>
-      <link>https://t.me/hn_summary/112006</link>
-      <description><![CDATA[人口密度是美国人不敢谈论政治的原因吗？
-在最近于奥斯汀举行的工作晚宴上，同事 Vinay 引发了一场发人深省的讨论，探讨了为什么美国人会避免谈论政治，并将其与他在印度的经历进行了对比，在印度，政治言论很普遍，而且没有分歧。这场对话揭示了美国的一种文化规范，即政治和金钱被认为是不礼貌的话题，可能是因为人们害怕因分歧而失去友谊。有趣的是，讨论强调了人口密度是一个潜在因素；在美国，物理空间可以让人们避免不愉快的互动，这与印度等人口稠密的地区不同。这种独特的观点表明，空间上的分离可能导致美国人倾向于避开政治讨论。]]></description>
-      <guid>https://t.me/hn_summary/112006</guid>
-      <pubDate>Thu, 10 Oct 2024 23:27:16 GMT</pubDate>
+      <title>[媒体] 在《GPU 租赁泡沫如何破灭》一文中，Eugene Cheah 探讨了 GPU 租赁泡沫的剧烈转变 [...]</title>
+      <link>https://t.me/hn_summary/112026</link>
+      <description><![CDATA[2 美元的 H100：GPU 租赁泡沫如何破灭
+在“GPU 租赁泡沫如何破灭”一文中，Eugene Cheah 探讨了 GPU 租赁市场的急剧变化，尤其关注 NVIDIA 的 H100 GPU。最初，这些 GPU 需求旺盛，租赁价格飙升至每小时 8 美元以上。然而，市场随后转向供过于求，价格降至每小时 1-2 美元。这种转变归因于诸如保留计算的转售、开源模型微调的兴起以及新基础模型公司的衰落等因素。鉴于当前的市场状况，Cheah 建议不要购买 H100，而是建议租赁。文章强调了影响 GPU 基础设施投资的经济压力和市场动态，强调了这些资产的快速贬值。争议在于那些在 H100 上投入巨资并预期需求持续旺盛的人可能会遭受财务损失。令人惊讶的是价格的快速下跌和向开放式模型的转变，这些模型正在重塑 AI 格局。（基于 57% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/112026</guid>
+      <pubDate>Fri, 11 Oct 2024 02:34:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在这篇评测中，我们深入探讨了 AMD 第五代 EPYC“Turin”的出色性能 [...]</title>
-      <link>https://t.me/hn_summary/112005</link>
-      <description><![CDATA[AMD EPYC 9755 / 9575F / 9965 基准测试显示性能评测表现优异
-在这篇评测中，我们深入探讨了 AMD 第 5 代 EPYC“Turin”处理器的出色性能，特别是 EPYC 9575F、9755 和 9965 型号。这些处理器采用 Zen 5 架构，在性能和能效方面实现了显著的代际飞跃，超越了英特尔的 Xeon 6“Granite Rapids”系列。 EPYC 9005 系列拥有 AVX-512 的 512 位数据路径、DDR5-6000 内存支持以及每插槽最多 192 个内核等功能，使其成为强大的竞争对手。AMD“Volcano”平台的独特之处在于它可以高效管理 500 瓦 TDP 处理器。但是，一些 Linux 内核补丁仍未解决，这可能会影响某些功能。总体而言，EPYC 9005 系列在服务器性能方面树立了新的标杆。]]></description>
-      <guid>https://t.me/hn_summary/112005</guid>
-      <pubDate>Thu, 10 Oct 2024 23:19:11 GMT</pubDate>
+      <title>在 2024 年 GNU Tools Cauldron 的最新更新中，Pierre-Emmanuel Patry 讨论了 [...]</title>
+      <link>https://t.me/hn_summary/112025</link>
+      <description><![CDATA[Gccrs 开发更新
+在 2024 年 GNU Tools Cauldron 的最新更新中，Pierre-Emmanuel Patry 讨论了 gccrs 项目的进展，该项目旨在为 GCC 添加 Rust 前端。这项工作解决了人们对 Rust 依赖单一编译器的担忧，这限制了其标准化和架构支持。自 2019 年重启以来，gccrs 一直以 Rust 1.49 为目标，现在是 GCC 14 的一部分，尽管文档仍有待完成。值得注意的是，该项目将其积压从 800 多个提交减少到 40 个，这在一定程度上要归功于 Google Summer of Code 实习生的贡献。挑战依然存在，特别是在编译 Rust 核心库和提高编译器速度方面。尽管该项目非常重要，但它缺乏行业支持，这可能导致 Rust 继续依赖单一编译器。令人惊讶的是，尽管资源有限，但该项目仍取得了进展，凸显了开发人员的奉献精神。]]></description>
+      <guid>https://t.me/hn_summary/112025</guid>
+      <pubDate>Fri, 11 Oct 2024 02:19:30 GMT</pubDate>
     </item>
     <item>
-      <title>Tiram.ai 推出了一个创新平台，允许用户构建网络、移动和逻辑 [...]</title>
-      <link>https://t.me/hn_summary/112004</link>
-      <description><![CDATA[显示 HN：通过语音构建应用程序
-Tiram.ai 推出了一个创新平台，允许用户仅使用语音即可构建 Web、移动和逻辑应用程序。此工具可根据用户故事快速生成和重新生成应用程序，为每个角色提供个性化的应用体验。Tiram.ai 的独特之处在于它能够简化应用程序开发，使那些没有技术专业知识的人也可以使用它。这种方法可能会颠覆传统的应用开发流程，引发关于未来开发者角色的争论。巧妙地将语音命令集成到应用创建中，使 Tiram.ai 成为技术创新的先锋力量。]]></description>
-      <guid>https://t.me/hn_summary/112004</guid>
-      <pubDate>Thu, 10 Oct 2024 23:12:02 GMT</pubDate>
+      <title>过去三个月来，计划前恢复项目取得了重大进展，[...]</title>
+      <link>https://t.me/hn_summary/112024</link>
+      <description><![CDATA[Pre-Scheme 恢复的第一份报告
+Pre-Scheme 恢复项目在过去三个月中取得了重大进展，目前 75% 的代码库已加载到三个与 R7RS 兼容的 Scheme 实现（Chibi、Sagittarius 和 Guile）中，并且 100% 通过 Scheme 48 的新 R7RS 兼容层运行。下一个主要重点是用可移植扩展器替换 Scheme 扩展器前端。保持与 Scheme 48 兼容性的一个巧妙解决方案是开发“不完整的 Scheme48 R7RS 兼容性库”（s48-r7rs），以便进行持续的端到端测试。该项目还利用 Scsh 进行工具开发，尽管它并非永久依赖项。 R7RS-small 在 Scheme 48 中的实现得益于其现有的 R5RS 功能。该项目旨在将 Unsyntax 集成为便携式扩展器，并扩大测试覆盖范围和文档。鼓励社区通过各种在线渠道关注该项目的进展。该项目的一个独特之处在于其移植宏和库定义的方法，这种方法兼顾了兼容性和创新性。]]></description>
+      <guid>https://t.me/hn_summary/112024</guid>
+      <pubDate>Fri, 11 Oct 2024 01:59:15 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在我探索仅使用免费的 L 在 GNU/Linux 上配置 XpPen ACK05 Remote 的过程中 [...]</title>
-      <link>https://t.me/hn_summary/112003</link>
-      <description><![CDATA[在 GNU/Linux 上仅使用 Floss 配置 XpPen ACK05 遥控器：我的调查
-在我探索在 GNU/Linux 上仅使用自由开源软件 (FLOSS) 配置 XpPen ACK05 遥控器的过程中，我发现这个过程非常有限。虽然设备通过 USB-C 连接没有问题，但蓝牙和 USB 加密狗仍然无法使用。默认键盘快捷键可以工作，尽管布局有问题，可能会导致意外操作，例如关闭文档。可以通过输入重新映射软件进行自定义，但拨号盘的功能有限。由于专有限制，目前无法使用 FLOSS 对硬件进行编程。尽管存在这些挑战，但该设备的核心功能开箱即用，展示了独创性的一小点胜利。为了更好地进行定制，我建议探索 Duckypad 等开源项目。有趣的是，一个简单的 15 美元 USB 数字键盘或 8Bitdo Zero 2 游戏手柄可能会为 GNU/Linux 用户提供更多价值。]]></description>
-      <guid>https://t.me/hn_summary/112003</guid>
-      <pubDate>Thu, 10 Oct 2024 22:52:53 GMT</pubDate>
+      <title>[媒体] 热沃当野兽是指一种神秘的食人生物，它恐吓了 [...]</title>
+      <link>https://t.me/hn_summary/112023</link>
+      <description><![CDATA[热沃当野兽
+热沃当野兽指的是一种神秘的食人生物，它在 1764 年至 1767 年间恐吓了法国中南部的热沃当地区。对这种野兽的描述各不相同，目击者称它有可怕的牙齿和爪子、长尾巴，并且能够跨越田野。尽管法国王国付出了巨大的努力，包括由贵族和士兵领导的狩猎，但这种野兽仍在继续袭击，造成大量人员死亡和受伤。这种生物的身份仍然存在争议，各种理论从一只大狼到一只小狮子不一而足。争议在于这种野兽的真实本性以及一些目击者认为它具有的超自然能力。这个故事引起了广泛关注，国王路易十五甚至悬赏捉拿它。尽管据报道有几只野兽被杀，但袭击仍在继续，导致人们持续恐惧和猜测。（基于 36% 的故事文本总结。）]]></description>
+      <guid>https://t.me/hn_summary/112023</guid>
+      <pubDate>Fri, 11 Oct 2024 01:53:09 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在《人工智能是招聘的强化》一书中，作者表达了对 [...] 的失望。</title>
-      <link>https://t.me/hn_summary/112002</link>
-      <description><![CDATA[AI 是招聘的 Enshittification
-在“AI 是招聘的 Enshittification”一文中，作者表达了对招聘流程越来越依赖 AI 和大型语言模型 (LLM) 的沮丧。在审查了 1,000 份简历后，作者注意到“带头”一词被反复使用，这表明许多候选人可能正在使用 AI 来制作简历。这引发了人们对真实性和招聘非人性化的担忧。作者批评了使用 AI 工具进行筛选和招聘的趋势，认为它破坏了招聘的社会性，并可能延续偏见。这篇文章幽默地建议使用隐藏的 HTML 标签作为绕过 AI 筛选的巧妙解决方案。争议在于使用人工智能进行招聘的伦理问题，可能会使不同背景的候选人处于不利地位。]]></description>
-      <guid>https://t.me/hn_summary/112002</guid>
-      <pubDate>Thu, 10 Oct 2024 22:46:41 GMT</pubDate>
+      <title>[媒体] 詹姆斯韦伯太空望远镜 (JWST) 彻底改变了我们对早期宇宙的理解 [...]</title>
+      <link>https://t.me/hn_summary/112022</link>
+      <description><![CDATA[第一个十亿年的“美丽混乱”进入视野
+詹姆斯·韦伯太空望远镜 (JWST) 彻底改变了我们对早期宇宙的理解，提供了前所未有的清晰度，就像验光师翻转镜头以获得更清晰的视野一样。其先进的红外传感器和独特的定位使其能够观察到第一个星系和恒星，而这些星系和恒星以前是哈勃望远镜等望远镜无法观测到的。这在天文学家之间引发了一种合作氛围，他们渴望合作并探索 JWST 提供的大量数据。一个值得注意的发现是星系 JADES-GS-z14-0，它是大爆炸后 3 亿年的样子，挑战了现有的宇宙理论。解释如此明亮的早期星系的理论包括恒星形成效率和初始质量函数 (IMF) 的变化，其中一些理论认为活跃的超大质量黑洞是其贡献者。这引发了争论和新模型，例如安德烈亚·费拉拉 (Andrea Ferrara) 的尘埃衰减假说。争议在于将这些观测结果与当前模型相协调，因为这些数据挑战了长期以来对宇宙演化的假设。]]></description>
+      <guid>https://t.me/hn_summary/112022</guid>
+      <pubDate>Fri, 11 Oct 2024 01:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Paradox Interactive 曾是 PC 游戏界的著名发行商，目前正经历 [...]</title>
-      <link>https://t.me/hn_summary/112001</link>
-      <description><![CDATA[黑暗时代的 Paradox Interactive 游戏界最好的发行商之一发生了什么
-Paradox Interactive 曾是 PC 游戏界著名的发行商，但现在正经历一段动荡时期，其特点是延期、取消和财务挫折。Paradox 以其大战略游戏和《十字军之王》和《城市：天际线》等成功游戏而闻名，但在最近的项目中遇到了挑战。《吸血鬼：化装舞会 - 血统 2》多次延期，《城市：天际线 2》的第一个 DLC 反响不佳，以至于退款。 2024 年第二季度，该公司的营业利润暴跌了 90%。尽管存在这些问题，Paradox 的开发工作室仍继续制作《维多利亚 3》和《十字军之王 3》等强劲游戏。争议在于 Paradox 在这些挫折中难以管理雄心勃勃的项目并保持其声誉。（基于 46% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/112001</guid>
-      <pubDate>Thu, 10 Oct 2024 22:34:35 GMT</pubDate>
+      <title>[媒体] 在最近 r/slatestarcodex 上关于改变生活的黑客的讨论中，建议 [...]</title>
+      <link>https://t.me/hn_summary/112021</link>
+      <description><![CDATA[反对高速有声读物的反乌托邦观点
+在最近 r/slatestarcodex 上关于改变生活的技巧的讨论中，以 1.5-2 倍速收听有声读物的建议引发了争论。虽然有些人认为这可以让你读更多的书，但其他人，比如 Ccc，声称这只会分散人们对存在危机的注意力。作者幽默地批评了这种观点，把它比作将其他提高生活质量的活动（如锻炼或人际关​​系）视为仅仅是转移焦虑的手段。他们建议将预防存在危机的活动作为一种有效的生活策略，质疑这种做法是否类似于“wireheading”——人为地诱导幸福。最终，作者鼓励以更快的速度欣赏有声读物，而不必过多思考其哲学含义。]]></description>
+      <guid>https://t.me/hn_summary/112021</guid>
+      <pubDate>Fri, 11 Oct 2024 01:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 等待已经结束，我很高兴揭开 FreeWP 的面纱，它是 Word 领域的一股变革力量 [...]</title>
-      <link>https://t.me/hn_summary/112000</link>
-      <description><![CDATA[等待结束了：FreeWP 将撼动 WordPress 生态系统
-等待结束了，我很高兴能揭开 FreeWP 的面纱，它是 WordPress 生态系统中的一股变革力量。这家由工人所有的媒体巨头旨在将控制权交还给社区。除了 FreeWP，我还领导了 Newsplicity，这是一个开放平台，新闻出版商可以借此拥抱 WordPress。对于 WordPress Tavern 和 Newspack 等老牌公司来说，要做好竞争的准备。在法律方面，WP 集体诉讼将解决社区问题，而 WP2 域名（如 wp2cloud.com 和 wp2.social）则预示着开放的新时代。这些举措是我送给社区驱动型 WordPress 的礼物，挑战现状并确保自由、开放的未来。变革就在眼前 — 加入我们或袖手旁观。]]></description>
-      <guid>https://t.me/hn_summary/112000</guid>
-      <pubDate>Thu, 10 Oct 2024 22:25:28 GMT</pubDate>
+      <title>[媒体] Git Py Stats 是一个基于 Python 的工具，灵感来自 git-quick-stats，旨在提供 c [...]</title>
+      <link>https://t.me/hn_summary/112020</link>
+      <description><![CDATA[显示 HN：Git Py Stats 是 Git Quick Stats 的 Python 版本
+Git Py Stats 是一款基于 Python 的工具，灵感来自 git-quick-stats，旨在提供全面的 git 统计数据和报告。它通过利用 Python 的标准库解决了原始工具的局限性，例如跨平台兼容性问题和对外部实用程序的依赖。这确保了在安装了 Python 3 的任何平台上都能顺利运行。Git Py Stats 提供按作者统计贡献、提交分析和分支历史记录等功能，输出格式为 CSV 和 JSON。它通过允许在命令行中输入作者、日期和分支名称，并将 CSV 和 JSON 输出保存到文件来区分自己。该项目根据 MIT 许可获得许可，欢迎贡献。]]></description>
+      <guid>https://t.me/hn_summary/112020</guid>
+      <pubDate>Fri, 11 Oct 2024 01:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 这是一个科技对人际关系影响的显著例子，一名男子发现 [...]</title>
-      <link>https://t.me/hn_summary/111999</link>
-      <description><![CDATA[男子通过“反乌托邦”人工智能短信摘要发现自己被甩了
-
-这是一个技术影响人际关系的惊人例子，一名男子通过人工智能生成的短信摘要发现自己被甩了。随着人工智能介导的交流变得越来越普遍，这一事件标志着分手方式演变的新篇章。从历史上看，通过短信分手被认为是不礼貌的，2007 年只有 11% 的美国人赞成。然而，社会规范已经发生了变化，到 2023 年，短信分手将被广泛接受，甚至得到《时尚》等出版物的认可。这篇文章幽默地推测了未来人工智能驱动的分手，强调了技术进一步改变人际互动的潜力。争议在于将人工智能用于如此敏感问题的伦理问题。]]></description>
-      <guid>https://t.me/hn_summary/111999</guid>
-      <pubDate>Thu, 10 Oct 2024 22:23:23 GMT</pubDate>
+      <title>[媒体] 抱歉，我无法访问彭博网页的内容，因为它需要 [...]</title>
+      <link>https://t.me/hn_summary/112019</link>
+      <description><![CDATA[Lina Khan 才刚刚起步（她希望如此）
+很抱歉，我无法访问彭博网页的内容，因为需要与网站交互才能验证访问权限。但是，如果有帮助的话，我可以提供有关 Lina Khan 及其角色的一般信息。请告诉我您希望如何继续！]]></description>
+      <guid>https://t.me/hn_summary/112019</guid>
+      <pubDate>Fri, 11 Oct 2024 01:08:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 任天堂推出了 Sound Clock Alarmo，这是一款结合了运动检测和声音的独特设备 [...]</title>
-      <link>https://t.me/hn_summary/111998</link>
-      <description><![CDATA[任天堂新时钟可追踪您在床上的运动
-任天堂推出了 Sound Clock Alarmo，这是一款独特的设备，将运动检测与深受喜爱的任天堂主题相结合。时钟的传感器可追踪您在床上的运动，并相应地调整屏幕上的角色和音效。它适用于各种床尺寸，并采用《超级马里奥：奥德赛》和《塞尔达传说：荒野之息》等热门游戏的主题。The Verge 的 Chris Welch 指出，设置过程很长，对年轻用户来说可能具有挑战性，但他称赞了任天堂的贴心设计。时钟还可以根据环境光调节屏幕亮度并提供睡眠声音。未来的更新将包括可通过 Wi-Fi 下载的主题和声音。目前任天堂在线会员均可购买，它将在 2025 年 1 月登陆其他零售商。将游戏元素巧妙地融入功能性时钟既令人惊讶又富有创新性。]]></description>
-      <guid>https://t.me/hn_summary/111998</guid>
-      <pubDate>Thu, 10 Oct 2024 22:10:16 GMT</pubDate>
+      <title>[媒体] Hacktrack.info 是一项新服务，旨在让您随时了解最新的通用 [...]</title>
+      <link>https://t.me/hn_summary/112018</link>
+      <description><![CDATA[显示 HN：Hacktrack.info – 影响您堆栈的新 CVE 的电子邮件通知
+Hacktrack.info 是一项新服务，旨在让您了解可能影响您技术堆栈的最新常见漏洞和暴露 (CVE)。通过注册，您可以在发现可能影响您所依赖的软件和工具的新漏洞时及时收到电子邮件通知。这种主动方法使开发人员和 IT 专业人员能够领先于潜在的安全威胁并采取必要的措施来保护他们的系统。该服务简单易用，需要 JavaScript 才能正常运行。虽然没有明显的争议，但巧妙之处在于有针对性的通知系统，提高了安全管理效率。]]></description>
+      <guid>https://t.me/hn_summary/112018</guid>
+      <pubDate>Fri, 11 Oct 2024 01:05:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

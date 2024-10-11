@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>纽约时报 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Oct 2024 00:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 03:13:50 GMT</lastBuildDate>
+    <item>
+      <title>罕见的北极光吸引纽约及其他地方的观赏者</title>
+      <link>https://www.nytimes.com/2024/10/10/nyregion/northern-lights-new-york.html</link>
+      <description><![CDATA[北极光是由磁暴引起的，它使天空呈现出令人惊叹的粉色和紫色条纹。]]></description>
+      <guid>https://www.nytimes.com/2024/10/10/nyregion/northern-lights-new-york.html</guid>
+      <pubDate>Fri, 11 Oct 2024 03:13:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>科罗拉多州金矿事故造成 1 人死亡，12 人获救</title>
+      <link>https://www.nytimes.com/2024/10/10/us/gold-mine-colorado-rescue.html</link>
+      <description><![CDATA[克里普尔克里克附近的莫利凯瑟琳金矿发生设备故障，导致正在地下参观的 12 名游客被困数小时。]]></description>
+      <guid>https://www.nytimes.com/2024/10/10/us/gold-mine-colorado-rescue.html</guid>
+      <pubDate>Fri, 11 Oct 2024 02:07:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>比利乔尔正在出售位于长岛价值 4990 万美元的梦幻豪宅</title>
+      <link>https://www.nytimes.com/2024/10/10/realestate/billy-joel-mansion-long-island.html</link>
+      <description><![CDATA[这位著名的音乐家决定放弃他童年时最疯狂梦想的房子。]]></description>
+      <guid>https://www.nytimes.com/2024/10/10/realestate/billy-joel-mansion-long-island.html</guid>
+      <pubDate>Fri, 11 Oct 2024 01:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>米尔顿是一场令人印象深刻的风暴。以下是我们气象学家注意到的 5 件事。</title>
       <link>https://www.nytimes.com/2024/10/10/weather/milton-forecast-meteorologists.html</link>
       <description><![CDATA[上个月的飓风海伦将因给阿巴拉契亚山脉带来降雨和佛罗里达州西海岸掀起巨浪而被人们铭记。米尔顿则因其他原因而引人注目。]]></description>
       <guid>https://www.nytimes.com/2024/10/10/weather/milton-forecast-meteorologists.html</guid>
       <pubDate>Fri, 11 Oct 2024 00:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>科罗拉多州历史悠久的金矿发生故障，导致 1 人死亡，12 人被困</title>
-      <link>https://www.nytimes.com/2024/10/10/us/gold-mine-colorado-rescue.html</link>
-      <description><![CDATA[克里普尔克里克 (Cripple Creek) 附近的莫利凯瑟琳金矿 (Mollie Kathleen Gold Mine) 发生设备故障，导致 12 名参观者被困地下。]]></description>
-      <guid>https://www.nytimes.com/2024/10/10/us/gold-mine-colorado-rescue.html</guid>
-      <pubDate>Fri, 11 Oct 2024 00:19:22 GMT</pubDate>
     </item>
     <item>
       <title>飓风米尔顿：我们对佛罗里达州造成的损失和洪水了解多少</title>
@@ -41,6 +55,13 @@
       <pubDate>Thu, 10 Oct 2024 23:03:10 GMT</pubDate>
     </item>
     <item>
+      <title>卡马拉·哈里斯如何取得好成绩</title>
+      <link>https://www.nytimes.com/2024/10/10/opinion/kamala-harris-election-attention.html</link>
+      <description><![CDATA[小说家和编剧就如何吸引观众注意力提出了一些建议。]]></description>
+      <guid>https://www.nytimes.com/2024/10/10/opinion/kamala-harris-election-attention.html</guid>
+      <pubDate>Thu, 10 Oct 2024 23:00:08 GMT</pubDate>
+    </item>
+    <item>
       <title>埃塞尔·肯尼迪：照片中的一生</title>
       <link>https://www.nytimes.com/2024/10/10/us/ethel-kennedy-life-photos.html</link>
       <description><![CDATA[她的丈夫、参议员罗伯特·F·肯尼迪遇刺后，她的人生发生了悲剧性的转折，但她仍继续致力于社会倡导，并因其对家庭和国家的奉献而受到认可。]]></description>
@@ -48,25 +69,11 @@
       <pubDate>Thu, 10 Oct 2024 22:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>比利乔尔正在出售位于长岛价值 4990 万美元的梦幻豪宅</title>
-      <link>https://www.nytimes.com/2024/10/10/realestate/billy-joel-mansion-long-island.html</link>
-      <description><![CDATA[这位著名的音乐家决定放弃他童年时最疯狂梦想的房子。]]></description>
-      <guid>https://www.nytimes.com/2024/10/10/realestate/billy-joel-mansion-long-island.html</guid>
-      <pubDate>Thu, 10 Oct 2024 22:10:14 GMT</pubDate>
-    </item>
-    <item>
       <title>罗伯特·肯尼迪遗孀、家族传承捍卫者埃塞尔·肯尼迪逝世，享年 96 岁</title>
       <link>https://www.nytimes.com/2024/10/10/us/politics/ethel-kennedy-dead.html</link>
       <description><![CDATA[在她的丈夫、参议员罗伯特·F·肯尼迪遇刺后，她再也没有结婚，并致力于为他所倡导的事业而努力。]]></description>
       <guid>https://www.nytimes.com/2024/10/10/us/politics/ethel-kennedy-dead.html</guid>
-      <pubDate>Thu, 10 Oct 2024 21:51:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>道明银行承认有罪并支付 30 亿美元以和解洗钱案</title>
-      <link>https://www.nytimes.com/2024/10/10/business/td-bank-fine.html</link>
-      <description><![CDATA[当局援引银行员工关于犯罪的玩笑：“‘你们真的需要关闭这个网站，哈哈。’”]]></description>
-      <guid>https://www.nytimes.com/2024/10/10/business/td-bank-fine.html</guid>
-      <pubDate>Thu, 10 Oct 2024 20:12:05 GMT</pubDate>
+      <pubDate>Thu, 10 Oct 2024 21:51:36 GMT</pubDate>
     </item>
     <item>
       <title>飓风灾后恢复工作因阴谋论和谎言而受阻</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[自 2022 年战争开始以来，已有 60 多万俄罗斯军队伤亡。]]></description>
       <guid>https://www.nytimes.com/2024/10/10/us/politics/russia-casualties-ukraine-war.html</guid>
       <pubDate>Thu, 10 Oct 2024 18:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动房屋公园的居民联手购买他们的社区</title>
-      <link>https://www.nytimes.com/2024/10/10/realestate/brunswick-mobile-home-sale-maine.html</link>
-      <description><![CDATA[这些居民是缅因州第一批成功利用新法律的人，这使得他们更容易与投资者竞争并获得其房屋所在土地的所有权。]]></description>
-      <guid>https://www.nytimes.com/2024/10/10/realestate/brunswick-mobile-home-sale-maine.html</guid>
-      <pubDate>Thu, 10 Oct 2024 15:09:17 GMT</pubDate>
     </item>
     <item>
       <title>什么才算是‘适度饮酒’？</title>
