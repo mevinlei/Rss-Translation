@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:12:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 12:17:26 GMT</lastBuildDate>
+    <item>
+      <title>Mastodon 4.3</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</link>
+      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</guid>
+      <pubDate>Sat, 12 Oct 2024 10:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建最佳配置和容器管理器：Squirrel Servers Manager (SSM) - V0.1.20 发布 - 现在带有 DockerCompose 文件的可视化编辑器。（免费、开源）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</link>
+      <description><![CDATA[大家好， 为了提供最好的配置、容器和堆栈管理，我刚刚通过发布🐿️ SSM 0.1.20 实现了一个重要的里程碑！ 此版本提供了一个图形界面来创建和编辑 Docker Compose 文件，允许您拖放元素或模板，并在 UI 和代码编辑器之间无缝切换。某些元素将根据您的环境自动完成！ 此外，现在可以在您的设备上以 Dockerized 版本安装代理，从而无需直接在主机上安装依赖项即可提供无缝安装过程。 我还对容器管理进行了改进，包括实时日志查看、详细的容器信息和增强的堆栈管理。 检查一下并让我知道你的想法！ https://squirrelserversmanager.io/    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>为 2024 年 Hacktoberfest 的 Cooklang 做出贡献！</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1w4mf/contribute_to_cooklang_for_hacktoberfest_2024/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正计划创建一个很酷的项目。我有一个由 3 人组成的团队 - FE、BE 和 Devops 人员。只需要一名设计师。如果您正在寻找项目来添加您的简历，请联系我们    提交人    /u/damian_179   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g14w8n/any_undergrad_figma_designer_has_to_be_a_manga/</guid>
       <pubDate>Fri, 11 Oct 2024 08:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boxcars - 免费在线西洋双陆棋 (AGPL)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g105r0/boxcars_free_online_backgammon_agpl/</link>
-      <description><![CDATA[        提交人    /u/tslocum   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g105r0/boxcars_free_online_backgammon_agpl/</guid>
-      <pubDate>Fri, 11 Oct 2024 02:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu 24.10 Oracular Oriole 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0xdtb/kubuntu_2410_oracular_oriole_released/</link>
-      <description><![CDATA[  由    /u/jlpcsl  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0xdtb/kubuntu_2410_oracular_oriole_released/</guid>
-      <pubDate>Fri, 11 Oct 2024 00:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
