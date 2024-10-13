@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 09:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:16:13 GMT</lastBuildDate>
+    <item>
+      <title>对于 RAG Devs - langchain 还是 llamaindex？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2noxt/for_rag_devs_langchain_or_llamaindex/</link>
+      <description><![CDATA[  由    /u/dhj9817  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2noxt/for_rag_devs_langchain_or_llamaindex/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:36:41 GMT</pubDate>
+    </item>
     <item>
       <title>在家庭环境中培养人工智能，以建立内在的道德和同情心模型</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2lkkp/raising_ai_in_a_home_environment_for_an/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[我认为人工智能是智能手机的延伸，甚至是升级。当智能手机出现时，我们卸下了过去需要记住或死记硬背的很多东西，比如电话号码、位置和某些事实。 有了人工智能，即使是更复杂的知识，包括学术科目、流程，也不再是我们需要学习或记住的东西，只需一个提示即可。 虽然我相信社会仍将运转良好，因为有一小部分人抵制这种依赖，但大多数人严重依赖人工智能的影响肯定会以明显的方式塑造未来。    提交人    /u/Anonlegio   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2kwgm/ai_an_extension_of_smartphones/</guid>
       <pubDate>Sun, 13 Oct 2024 08:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>人机共生聊天的潜力——想法和见解？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2ktm5/potential_of_humanai_symbiosis_chat_wchat/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2ktm5/potential_of_humanai_symbiosis_chat_wchat/</guid>
-      <pubDate>Sun, 13 Oct 2024 08:05:51 GMT</pubDate>
     </item>
     <item>
       <title>用于列出 Vero 电路图中元件的 OCR 工具</title>
@@ -57,16 +57,9 @@
     <item>
       <title>人类的人工智能克隆</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</link>
-      <description><![CDATA[https://beyond.ubc.ca/ai-clones-made-from-user-data-pose-uncanny-risks/ https://en.m.wikipedia.org/wiki/Upload_(TV_series) 不是危言耸听，而是我在查看信息时，有一个想法。 如果现在可以创建人类的人工智能克隆，那么它们可以从社交媒体帖子、购物习惯和客户服务互动、聊天机器人数据、法学硕士对话、电话对话或任何其他个人数据库中提取出来。  公司、政府或其他团体在未经同意的情况下创建了这些，我不知道它是否以这种方式被使用，但在某些情况下，它可用于运行场景并给出可能执行 X 评分系统。理论上，这一切都可以在未经任何人同意的情况下完成。 其他场景包括更换电影中的演员，伟大的科学家和知识分子可以继续创造，客户服务可以被完全取代，我们可以将人工智能人类克隆人送入太空而不是真正的人类，医疗场景可以高速运行以提供疾病或其他问题的可能性。 个人肖像的出售已经发生，我认为以 UBI 或版税类型的系统作为交换可能是可行的。一家公司创建人工智能人类克隆家谱也是可能的，这样你就可以保留自己的肖像在家庭中传承，与你未来的家庭成员交谈。 虽然今天的克隆是有限的，但收集到的数据可以在你死后的任何时间使用，如果有足够的数据点，就有可能模拟更大规模的人群互动。    提交人    /u/onedoesnotjust   [link] [评论]]]></description>
+      <description><![CDATA[https://beyond.ubc.ca/ai-clones-made-from-user-data-pose-uncanny-risks/ https://en.m.wikipedia.org/wiki/Upload_(TV_series) 不是危言耸听，而是我在查看信息时，有了一个想法。 如果现在可以创建人类的人工智能克隆，那么它们可以从社交媒体帖子、购物习惯和客户服务互动、聊天机器人数据、法学硕士对话、电话对话或任何其他个人数据库中提取出来。  公司、政府或其他团体在未经同意的情况下创建了这些，我不知道它是否以这种方式被使用，但在某些情况下，它可用于运行场景并给出可能执行 X 评分系统。理论上，这一切都可以在未经任何人同意的情况下完成。 其他场景包括更换电影中的演员，伟大的科学家和知识分子可以继续创造，客户服务可以被完全取代，我们可以将人工智能人类克隆人送入太空而不是真正的人类，医疗场景可以高速运行以提供疾病或其他问题的可能性。 个人肖像的出售已经发生，我认为以 UBI 或版税类型的系统作为交换可能是可行的。一家公司创建人工智能人类克隆家谱也是可能的，这样你就可以保留自己的肖像在家庭中传承，与自己未来的家庭成员交谈。 虽然今天的克隆是有限的，但收集到的数据可以在你死后的任何时间使用，有了足够的数据点，就有可能模拟更大规模的人群互动。    提交人    /u/onedoesnotjust   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2gd67/ai_clones_of_humans/</guid>
       <pubDate>Sun, 13 Oct 2024 02:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能真的会像某些人所说的那样改变我们的生活吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g2cowh/is_ai_really_going_to_change_our_lives_to_the/</link>
-      <description><![CDATA[人工智能真的会像某些人所说的那样改变我们的生活吗？人工智能究竟会如何改变我们的生活？我需要做些什么才能走在潮流的前面？我应该练习使用人工智能应用程序吗？这会导致大量失业吗？如果它如此迅速地改变我们的生活，而我们还没有为即将发生的事情做好准备，那么这可能会导致巨大的社会问题。这可能会导致更大的贫富不均，并使除了非常熟练的人之外的所有人都很难找到高薪工作。 我持怀疑态度，但也许我错了     提交人    /u/knowledgeseeker999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g2cowh/is_ai_really_going_to_change_our_lives_to_the/</guid>
-      <pubDate>Sat, 12 Oct 2024 23:29:53 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一个本地模型路由器来为您的妻子/丈夫找到最佳的角色扮演模型！</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[我的姑姑今年 85 岁了，上周末她问我：“什么是 AI？我不明白。” 我知道她已经 85 岁了，而且她会第一个告诉你她对技术几乎一无所知，所以我想了一会儿如何描述 AI 以便她能够理解它。 虽然我的回答本质上过于简化，但这是我当时能想到的最准确的回答，我的听众（我 85 岁的姑姑）能够理解。以下是我告诉她的…… “AI 是一台非常非常擅长猜测的计算机。” 我怎样才能为她更清楚地定义 AI？    提交人    /u/ritual_tradition   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g20odd/ai_is_a_computer_thats_really_really_good_at/</guid>
       <pubDate>Sat, 12 Oct 2024 13:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于多代理编排的 OpenAI Swarm</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xp9n/openai_swarm_for_multiagent_orchestration/</link>
+      <description><![CDATA[OpenAI 发布了 Swarm，这是一个与 CrewAI 和 AutoGen 非常相似的多代理编排框架。乍一看很不错，有很多选项（目前仅支持 OpenAI API）https://youtu.be/ELB48Zp9s3M    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g1xp9n/openai_swarm_for_multiagent_orchestration/</guid>
+      <pubDate>Sat, 12 Oct 2024 11:03:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
