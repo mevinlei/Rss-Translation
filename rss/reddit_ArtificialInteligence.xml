@@ -4,16 +4,16 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 00:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 03:17:31 GMT</lastBuildDate>
     <item>
-      <title>真正的 AGI 是不可能实现的</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3vdk3/real_agi_is_not_possible/</link>
-      <description><![CDATA[通过数字技术无法实现通用智能。人工智能最多只能模仿 AGI 并通过外观与之接近。通用智能是活着的生物系统的固有属性。人工智能永远不会变得像我车库里的铲子一样活着。一般的真正智能、生存意志和意识与数字技术无关，但它可以模仿智能这一事实是所有混乱的原因    提交人    /u/fullcongoblast   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3vdk3/real_agi_is_not_possible/</guid>
-      <pubDate>Tue, 15 Oct 2024 00:40:29 GMT</pubDate>
+      <title>AI 对抗 Zork：一项出乎意料的艰巨挑战</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3xyiy/ai_vs_zork_a_surprisingly_difficult_challenge/</link>
+      <description><![CDATA[我有点惊讶。我想到了一个简单的想法：让法学硕士玩一款基于文本的游戏——经典的 Zork。对于那些不熟悉的人来说，Zork 是最早的交互式虚构游戏之一，最初开发于 20 世纪 70 年代末。这是一款基于文本的冒险游戏，玩家输入命令来穿越神秘的地下世界、解决谜题、收集宝藏，并克服诸如巨​​魔或上锁的门之类的障碍。没有图形——只有玩家使用简单的文本命令（例如“向北走”、“检查灯笼”或“攻击巨魔”）与之交互的环境、物体和事件的描述。它被认为是一款经典游戏，但可能相当具有挑战性，因为它需要逻辑思维和仔细探索。 从表面上看，它似乎很容易实现，事实上确实如此。但是，我的具有 8B 参数的 LLaMA 3.1 模型在游戏中很难取得任何有意义的进展。 我使用 OpenAI 的 GPT-4o 迅速重写了该程序，它的表现好多了，尽管这是有代价的——每小时要花费 1 美元。成本本来会更高，但我让应用程序使用 TTS 大声读出输出，这样我就可以跟踪进度，而不需要手动阅读所有内容。 在切换到 GPT-4o 之前，我整个周末都在用 LLaMA 3.1 8B 调整提示，希望至少让它打败地下室里的巨魔。相反，它一直在森林里绕圈走，或者努力打开灯笼。 为了省钱，我决定通过将命令复制并粘贴到 ChatGPT 中来手动玩游戏。当然，GPT-4o 没有问题。我也尝试了 GPT-4o mini，但它遇到了与我的小型 LLaMA 3.1 模型类似的问题。相比之下，完整的 GPT-4o 轻松完成游戏，处理库存，击败巨魔，并毫无困难地探索地牢。 与此同时，Meta 的 LLaMA 3.1 模型（具有 405B 个参数）在森林中迷路了，Gemini 卡在了 examine 命令上。Zork 没有提供太多关于检查物体的信息，Gemini 最终欺骗了我，暗示我的游戏版本可能有错误，或者命令中出现了拼写错误。 Claude 的表现相当不错，但我没有进一步探索它，因为我厌倦了无休止地复制粘贴命令。我还尝试了具有 70B 参数的 LLaMA 3.1。由于它在我的笔记本电脑上运行速度非常慢，我把它设置好后躺在床上，用我的 Quest 3 看了两个小时的 YouTube。当我回来时，我发现模型陷入了一个荒谬的循环，仍然试图打开一扇被钉住的门。 TL;DR：我很惊讶法学硕士们竟然在一个看似简单的游戏中如此挣扎。也许有一天他们终于能摆脱这个喷子——在那之前，我会坚持看 YouTube。    提交人    /u/mika314   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3xyiy/ai_vs_zork_a_surprisingly_difficult_challenge/</guid>
+      <pubDate>Tue, 15 Oct 2024 02:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>在任何 Youtube 视频 URL 前添加“TLDW”即可获得 GPT4o，从而获取 Youtube 视频的摘要/精彩片段/文字记录</title>
+      <title>在任何 Youtube 视频 URL 前添加“TLDW”即可获取 GPT4o，从而获取 Youtube 视频的摘要/精彩片段/文字记录</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g3t8v7/add_tldw_before_any_youtube_video_url_to_get/</link>
       <description><![CDATA[大家好，我创建了 TLDWYoutube 来生成较长且可能带有点击诱饵性质的 Youtube 视频的摘要。例如，要获取此视频 youtube.com/watch?v=bAN3KmTSy2Q 的摘要，只需在 youtube 之前添加 TLDW，如 TLDWyoutube.com/watch?v=bAN3KmTSy2Q。 我真的很不喜欢很多基于 LLM 的摘要器都是付费的，因为它们是如此简单的工具哈哈 在后台，我使用 OpenAI 的 GPT4o 来生成摘要。到目前为止，它的表现还不错，但我希望得到任何其他 LLM 建议。任何反馈也都很棒。    提交人    /u/reccehour   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g3t8v7/add_tldw_before_any_youtube_video_url_to_get/</guid>
