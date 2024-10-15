@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 15 Oct 2024 18:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 21:10:45 GMT</lastBuildDate>
     <item>
       <title>忙碌状态栏</title>
       <link>https://www.producthunt.com/posts/busy-status-bar</link>
@@ -18,6 +18,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/busy-status-bar</guid>
       <pubDate>Tue, 15 Oct 2024 05:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>包含电池</title>
+      <link>https://www.producthunt.com/posts/batteries-included</link>
+      <description><![CDATA[
+一键将 DevOps 平台 Kubernetes 转换为 Postgres RAG
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/batteries-included</guid>
+      <pubDate>Tue, 15 Oct 2024 02:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间紧迫</title>
+      <link>https://www.producthunt.com/posts/time-squeeze</link>
+      <description><![CDATA[
+跟踪活动、提高生产力并记录每一刻
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/time-squeeze</guid>
+      <pubDate>Tue, 15 Oct 2024 01:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>神秘相机</title>
+      <link>https://www.producthunt.com/posts/arcane-camera</link>
+      <description><![CDATA[
+受哈苏 XPan 相机启发的 iPhone 相机
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/arcane-camera</guid>
+      <pubDate>Tue, 15 Oct 2024 01:45:39 GMT</pubDate>
     </item>
     <item>
       <title>等级5.0</title>
@@ -48,18 +90,18 @@
       <pubDate>Mon, 14 Oct 2024 18:37:25 GMT</pubDate>
     </item>
     <item>
-      <title>问题库</title>
-      <link>https://www.producthunt.com/posts/question-base-4</link>
+      <title>麦克风音量</title>
+      <link>https://www.producthunt.com/posts/mic-audio-level</link>
       <description><![CDATA[
-Slack 中的答案和文档
+从菜单栏监控麦克风输入电平
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/question-base-4</guid>
-      <pubDate>Mon, 14 Oct 2024 17:34:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/mic-audio-level</guid>
+      <pubDate>Mon, 14 Oct 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
       <title>拍手3.0</title>
@@ -76,18 +118,32 @@ AI 销售助理：询问有关您的交易的任何问题
       <pubDate>Mon, 14 Oct 2024 14:37:06 GMT</pubDate>
     </item>
     <item>
-      <title>步态</title>
-      <link>https://www.producthunt.com/posts/gait</link>
+      <title>边框 2.0</title>
+      <link>https://www.producthunt.com/posts/bezel-2-0</link>
       <description><![CDATA[
-AI 生成代码的 Git-Blame
+Mac 上任何 iPhone 的精良录音和现场演示
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/gait</guid>
-      <pubDate>Mon, 14 Oct 2024 06:35:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bezel-2-0</guid>
+      <pubDate>Mon, 14 Oct 2024 12:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>脉搏</title>
+      <link>https://www.producthunt.com/posts/apulse</link>
+      <description><![CDATA[
+一个文件 Node.js 服务器状态监控工具
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/apulse</guid>
+      <pubDate>Sun, 13 Oct 2024 05:38:35 GMT</pubDate>
     </item>
     <item>
       <title>仅限快捷方式</title>
@@ -102,48 +158,6 @@ AI 生成代码的 Git-Blame
 ]]></description>
       <guid>https://www.producthunt.com/posts/onlyshortcuts</guid>
       <pubDate>Fri, 11 Oct 2024 18:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code2.AI</title>
-      <link>https://www.producthunt.com/posts/code2-ai</link>
-      <description><![CDATA[
-几分钟内将您的想法转化为代码
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/code2-ai</guid>
-      <pubDate>Fri, 11 Oct 2024 09:28:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品线</title>
-      <link>https://www.producthunt.com/posts/productlane-3</link>
-      <description><![CDATA[
-一个用户反馈和客户支持的平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/productlane-3</guid>
-      <pubDate>Tue, 08 Oct 2024 09:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>燕尾榫 3.0</title>
-      <link>https://www.producthunt.com/posts/dovetail-3-0</link>
-      <description><![CDATA[
-AI-first 客户洞察中心
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/dovetail-3-0</guid>
-      <pubDate>Fri, 04 Oct 2024 17:41:07 GMT</pubDate>
     </item>
     <item>
       <title>HeyForm 3.0</title>
@@ -200,20 +214,6 @@ AI 主持的采访和实时合成
 ]]></description>
       <guid>https://www.producthunt.com/posts/scrintal</guid>
       <pubDate>Fri, 20 Sep 2024 13:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Z支持人工智能</title>
-      <link>https://www.producthunt.com/posts/zupport-ai</link>
-      <description><![CDATA[
-开创性的 SaaS 客户支持
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/zupport-ai</guid>
-      <pubDate>Tue, 17 Sep 2024 19:44:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
