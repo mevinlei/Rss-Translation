@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 03:20:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 06:15:38 GMT</lastBuildDate>
+    <item>
+      <title>简单的自主托管云解决方案</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4sqep/simple_slefhosted_cloud_solution/</link>
+      <description><![CDATA[大家好，我正在寻找一个简单的自托管云。我尝试了 nextcloud，它非常酷，但老实说，它对我的​​需求来说有点过头了。 我只需要一个可以在线访问的地方来存储我的文件，也许有一个我可以根据需要使用的查看器/编辑器。如果它有一个 android 应用程序，或者某种方式从我的手机上传文件，那就更好了。 我目前正在使用 Google 云端硬盘，但我正在考虑更换。    提交人    /u/masterzeng   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4sqep/simple_slefhosted_cloud_solution/</guid>
+      <pubDate>Wed, 16 Oct 2024 06:11:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该何时将一个项目开源并开始寻找合作者来帮助我？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4qtsg/when_should_i_make_a_project_into_open_source_and/</link>
+      <description><![CDATA[我是开源领域的新手，但我做了一个与我息息相关的项目。 它解决了我的问题（我尝试过很多框架，它们都有这个问题），我想说，使用它让我很开心。 它非常小众，因为当你试图做非常奇怪的事情时，问题才会变得非常痛苦（但这就是我在研究中所做的）。流行框架中需要 20 行代码的东西，在这个框架中可能只需要 2-5 行，而且仍然是底层的。希望有人能找到它并与我一起使用。 我已经完成了核心，它是可用的。我做的部分基本上是框架的内部结构，它决定了其余部分的工作方式。这个领域的所有框架都是这样做的。 所以缺少的部分是其他框架提供的内容。哪些是核心和通用组件（基于核心框架构建）。这意味着用户很少需要使用核心。核心组件太多了，我基本上无法全部编写代码，而且有些组件我不是从头开始编写的。 找人帮我做这件事会是“善良”还是“优雅”（我不知道该用什么词）？或者我应该在开源之前完成核心、CI/CD 等并寻求帮助？ 我计划在未来开源它，我只是不知道什么时候才是合适的时间。 抱歉发了这么长的帖子。总而言之；我应该在什么时候寻求帮助才不会让我看起来“无能”。我可以做到，但这需要时间，我只是想尽快分享这个，因为我知道我会用它（我已经用了），希望也能帮助别人    提交人    /u/MysticalDragoneer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4qtsg/when_should_i_make_a_project_into_open_source_and/</guid>
+      <pubDate>Wed, 16 Oct 2024 04:05:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何向开源项目提交无法回答的问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g4q24o/how_to_submit_unanswerable_questions_to/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g4q24o/how_to_submit_unanswerable_questions_to/</guid>
+      <pubDate>Wed, 16 Oct 2024 03:21:18 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一款用于查找免费游戏和赠品的应用程序！</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4msoe/i_made_an_app_for_finding_free_games_and_giveaways/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[GIMP 甚至比全尺寸图像编辑器标准还要复杂（Photoshop 竞争对手），我只需要进行基本的剪切、融合、叠加和添加不同字体和颜色的文本，以及偶尔进行基本的颜色校正。主要是清理/裁剪照片和制作表情包。 基本上是 Paint 3D 的替代品。你可以在半夜喝醉时几乎不需要学习曲线就可以使用它。Idc 只具有完整工具的 10% 的功能。唯一值得一提的是，我还没有暗示的是调整大小工具（像素/百分比）、填充和颜色拾取工具。    提交人    /u/Alias_X_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</guid>
       <pubDate>Tue, 15 Oct 2024 03:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.13 发布，主要特性概述</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</link>
-      <description><![CDATA[       由    /u/janodusho  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</guid>
-      <pubDate>Mon, 14 Oct 2024 22:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始的 Minecraft 服务器正在寻找贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</link>
-      <description><![CDATA[您好，我使用 Rust 语言从头开始开发了一个 Minecraft 服务器。 它非常高效和快速，还提供普通服务器所没有的功能。 我目前正在寻找贡献者，如果你有兴趣请查看： https://snowiiii.github.io/Pumpkin/ https://github.com/Snowiiii/Pumpkin    提交人    /u/Alex_Medvedev_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>L4 贡献者：前端优化 + 后端组织和测试</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g3oqfk/l4_contributors_frontend_polish_backend/</link>
-      <description><![CDATA[我们这个很酷的小项目一直没有找到人来提供精致的用户界面（从基本的 HTML 开始）并组织 Python 后端代码以及包括一些测试。  除此之外，我们还有 7 个未分配的开放问题，而且由于我们正在为 v1.0 做准备，您的帮助将大有帮助。由于当前贡献者的盘子已经满了，这些问题已经过时了一段时间，我想在这里试试运气，看看是否有人会感兴趣！  如果您想处理这些问题或我们遇到的任何其他开放问题，请告诉我。非常感谢    提交人    /u/Apart-Status9082   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g3oqfk/l4_contributors_frontend_polish_backend/</guid>
-      <pubDate>Mon, 14 Oct 2024 19:41:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
