@@ -4,34 +4,62 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 18:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:10:48 GMT</lastBuildDate>
     <item>
-      <title>玩节点</title>
-      <link>https://www.producthunt.com/posts/playnode</link>
+      <title>适用于 iOS 的 Groq</title>
+      <link>https://www.producthunt.com/posts/groq-for-ios</link>
       <description><![CDATA[
-共享 AI 游乐场，可同时探索多个想法
+快速获得答案
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/playnode</guid>
-      <pubDate>Wed, 16 Oct 2024 21:51:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/groq-for-ios</guid>
+      <pubDate>Thu, 17 Oct 2024 01:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>Marqly 3.0</title>
-      <link>https://www.producthunt.com/posts/marqly-3-0</link>
+      <title>安全日志</title>
+      <link>https://www.producthunt.com/posts/securelog</link>
       <description><![CDATA[
-书签管理器，革命性十足。
+防止代码、日志和管道中的机密泄露
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/marqly-3-0</guid>
-      <pubDate>Wed, 16 Oct 2024 15:06:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/securelog</guid>
+      <pubDate>Wed, 16 Oct 2024 19:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>萨瓦操作系统</title>
+      <link>https://www.producthunt.com/posts/sava-os</link>
+      <description><![CDATA[
+适用于您的网络浏览器的桌面界面
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sava-os</guid>
+      <pubDate>Wed, 16 Oct 2024 18:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>棱镜</title>
+      <link>https://www.producthunt.com/posts/prismy-2</link>
+      <description><![CDATA[
+GitHub 原生，面向开发和产品团队的 AI 本地化
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/prismy-2</guid>
+      <pubDate>Wed, 16 Oct 2024 15:21:38 GMT</pubDate>
     </item>
     <item>
       <title>我的手机在伦敦安全吗？</title>
@@ -158,34 +186,6 @@ MVP 阶段项目的联合创始人股权协议
 ]]></description>
       <guid>https://www.producthunt.com/posts/nango-auth</guid>
       <pubDate>Wed, 09 Oct 2024 09:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>羊乳酪</title>
-      <link>https://www.producthunt.com/posts/feta</link>
-      <description><![CDATA[
-开展站立会议、回顾会议和同步会议的更好方法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/feta</guid>
-      <pubDate>Mon, 07 Oct 2024 07:52:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>码蚁AI</title>
-      <link>https://www.producthunt.com/posts/codeant-ai-2</link>
-      <description><![CDATA[
-人工智能代码审查可将代码审查时间和错误减少一半
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/codeant-ai-2</guid>
-      <pubDate>Wed, 02 Oct 2024 16:56:31 GMT</pubDate>
     </item>
     <item>
       <title>Prisma 优化</title>
