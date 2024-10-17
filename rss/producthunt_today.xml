@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 00:46:27 GMT</lastBuildDate>
     <item>
       <title>焦点伙伴</title>
       <link>https://www.producthunt.com/posts/focus-buddy</link>
       <description><![CDATA[
-AI 生产力副驾驶
+您的随时在线 AI 执行助理
 
 
 讨论
@@ -62,32 +62,18 @@ AI 生产力副驾驶
       <pubDate>Tue, 15 Oct 2024 15:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>大疆空气3S</title>
-      <link>https://www.producthunt.com/posts/dji-air-3s</link>
+      <title>泛PHP</title>
+      <link>https://www.producthunt.com/posts/pan-php</link>
       <description><![CDATA[
-用于旅行摄影的双摄像头无人机
+一个简单且注重隐私的分析 php 包
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/dji-air-3s</guid>
-      <pubDate>Tue, 15 Oct 2024 13:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>讲道</title>
-      <link>https://www.producthunt.com/posts/prediko</link>
-      <description><![CDATA[
-Shopify 品牌的 AI 库存管理和融资
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/prediko</guid>
-      <pubDate>Tue, 15 Oct 2024 09:47:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/pan-php</guid>
+      <pubDate>Tue, 15 Oct 2024 10:20:26 GMT</pubDate>
     </item>
     <item>
       <title>常见问题小部件</title>
@@ -118,32 +104,18 @@ Shopify 品牌的 AI 库存管理和融资
       <pubDate>Mon, 14 Oct 2024 13:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>墙钉</title>
-      <link>https://www.producthunt.com/posts/wandpen</link>
+      <title>构建和播放</title>
+      <link>https://www.producthunt.com/posts/buildnplay</link>
       <description><![CDATA[
-在您写作的地方工作的 AI 重写器
+公开游戏化构建 - 让构建变得有趣，而不是无聊
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/wandpen</guid>
-      <pubDate>Mon, 14 Oct 2024 11:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>幽灵</title>
-      <link>https://www.producthunt.com/posts/ghostedd</link>
-      <description><![CDATA[
-举报对您不理不睬的公司
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/ghostedd</guid>
-      <pubDate>Mon, 14 Oct 2024 09:34:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/buildnplay</guid>
+      <pubDate>Fri, 11 Oct 2024 02:01:56 GMT</pubDate>
     </item>
     <item>
       <title>振幅网络实验</title>
@@ -158,6 +130,20 @@ Shopify 品牌的 AI 库存管理和融资
 ]]></description>
       <guid>https://www.producthunt.com/posts/amplitude-web-experimentation</guid>
       <pubDate>Thu, 10 Oct 2024 20:16:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>BUROGU.pro</title>
+      <link>https://www.producthunt.com/posts/burogu-pro</link>
+      <description><![CDATA[
+无代码 SEO 和性能就绪博客构建器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/burogu-pro</guid>
+      <pubDate>Thu, 10 Oct 2024 08:38:25 GMT</pubDate>
     </item>
     <item>
       <title>潜移默化地</title>
@@ -188,6 +174,20 @@ Shopify 品牌的 AI 库存管理和融资
       <pubDate>Fri, 04 Oct 2024 15:31:45 GMT</pubDate>
     </item>
     <item>
+      <title>数据猴子</title>
+      <link>https://www.producthunt.com/posts/datamonkey</link>
+      <description><![CDATA[
+您的 GeoAI 将内部数据与基于公共地图的数据相结合
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/datamonkey</guid>
+      <pubDate>Mon, 16 Sep 2024 11:21:45 GMT</pubDate>
+    </item>
+    <item>
       <title>洛加弗罗</title>
       <link>https://www.producthunt.com/posts/logaflow</link>
       <description><![CDATA[
@@ -205,7 +205,7 @@ Shopify 品牌的 AI 库存管理和融资
       <title>纹身应用程序</title>
       <link>https://www.producthunt.com/posts/tattoon-app</link>
       <description><![CDATA[
-利用 AI 将纹身逼真地叠加在人们的身体上
+利用人工智能将纹身逼真地叠加在人们的身体上
 
 
 讨论
