@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 12:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 15:09:18 GMT</lastBuildDate>
+    <item>
+      <title>免费的升级 PDF 的方法？</title>
+      <link>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</link>
+      <description><![CDATA[我的 PDF 大约有 200 页 18mb，几乎无法阅读，哈哈  我可以接受网站、Windows 应用程序、Linux 应用程序和 Android 应用程序，即使它是一个可以在旧版 iPhone 7 上运行的应用程序 但我更喜欢 Foss 应用程序 \ 安全    提交人    /u/Exotic_Insurance_969   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g7a8iy/free_way_to_upscale_pdf/</guid>
+      <pubDate>Sat, 19 Oct 2024 14:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于构建、存储和管理详细用户配置文件的基于 Web 的工具。</title>
+      <link>https://www.reddit.com/r/software/comments/1g77zod/webbased_tool_for_building_storing_and_managing/</link>
+      <description><![CDATA[我正在探索 Airtable 或其替代方案，以便为我的初创公司构建特定用户组的详细资料。这些资料是通过用户填写表格、多轮访谈（我们会做笔记）和其他事情创建的。 我们的要求：  每个资料中将有大约 30 个信息字段。有些字段可能是长文本（100-200 字），因此应该易于输入和阅读（就像在 google sheet 中一样，这不是最简单的）。当我们进行采访和/或打开某人的个人资料时，如果能将其打开为一个独立页面，其中所有字段都像表格一样列出，以便我们轻松输入、编辑和阅读，那就太理想了。 将有超过 1 人更新用户的个人资料 信息应易于编辑 我们应该获得所有个人资料的表格视图（我们预计第一阶段将有大约 25-30 个个人资料） 个人资料的内容将全部为文本。  我考虑过使用 Airtable Forms，但我认为我们无法在提交后编辑数据，并且超过 1 人无法在同一表格上工作。 请提出建议！ 提前致谢！    提交人    /u/Trick-Bee-23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1g77zod/webbased_tool_for_building_storing_and_managing/</guid>
+      <pubDate>Sat, 19 Oct 2024 12:40:02 GMT</pubDate>
+    </item>
     <item>
       <title>可以合并系列吗？</title>
       <link>https://www.reddit.com/r/software/comments/1g75273/is_it_possible_to_merge_series/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[如果不卖肾的话，这个程序似乎真的很难实现 我在一个地方找到了它以供参考::https://facialcomposites.com/products/faces-4-0-pro-software-download?pr_prod_strat=e5_desc&amp;pr_rec_id=77571b005&amp;pr_rec_pid=6601171239083&amp;pr_ref_pid=6068033716395&amp;pr_seq=uniform    由    /u/Various-Catch4509  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1g6l9ah/looking_for_iq_biometrix_faces_40/</guid>
       <pubDate>Fri, 18 Oct 2024 15:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费在线将音频文件转换为文本</title>
-      <link>https://www.reddit.com/r/software/comments/1g6jhu4/convert_audio_file_into_text_for_free_online/</link>
-      <description><![CDATA[有人可以推荐一个网站，可以通过一些人工智能或其他东西将我 1 小时长的音频转换成文本吗？ 我尝试过很多网站，但他们都希望我升级或为他们的服务付费.....请推荐免费的    提交人    /u/Brahm_a_sura   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6jhu4/convert_audio_file_into_text_for_free_online/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>鼠标宏录制器</title>
-      <link>https://www.reddit.com/r/software/comments/1g6gtnx/mouse_macro_recorder/</link>
-      <description><![CDATA[嘿，有谁知道是否有软件或网络扩展可以记录我的鼠标移动和点击，然后在发生某些事件时执行它（例如特定 URL 上的状态为 200）？我想在我的网络应用程序上自动执行一个过程，该过程偶尔会丢失连接并需要刷新（我已经使用 tapermonkey 网络扩展自动执行了这部分，并且只要 ping 后没有 pong 响应，它就会执行）。所以基本上我需要一些东西来执行我预先记录的鼠标移动和点击，因为在重新加载后，我需要将鼠标悬停在一个框上，然后出现另一个框，然后当我将鼠标悬停在第二个框上时，会出现另一个框，然后我在 URL 不变的情况下单击第三个框    提交人    /u/Alexgold46   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1g6gtnx/mouse_macro_recorder/</guid>
-      <pubDate>Fri, 18 Oct 2024 12:26:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
