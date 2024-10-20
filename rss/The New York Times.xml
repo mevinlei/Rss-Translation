@@ -4,20 +4,48 @@
     <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 20 Oct 2024 00:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 03:20:43 GMT</lastBuildDate>
+    <item>
+      <title>佐治亚州萨佩洛岛渡轮码头倒塌至少 7 人死亡</title>
+      <link>https://www.nytimes.com/2024/10/19/us/sapelo-island-dock-collapse.html</link>
+      <description><![CDATA[事故发生在萨凡纳南部的萨佩洛岛，具体情况目前尚不清楚。]]></description>
+      <guid>https://www.nytimes.com/2024/10/19/us/sapelo-island-dock-collapse.html</guid>
+      <pubDate>Sun, 20 Oct 2024 03:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管哈马斯领导人被杀，加沙和黎巴嫩的战斗仍然激烈</title>
+      <link>https://www.nytimes.com/2024/10/19/world/middleeast/gaza-lebanon-hamas-hezbollah-israel-netanyahu.html</link>
+      <description><![CDATA[和平谈判毫无进展，尽管叶海亚·辛瓦尔已死，但暴力事件似乎有增无减，以色列袭击了加沙北部地区，真主党发射了数十枚射弹。]]></description>
+      <guid>https://www.nytimes.com/2024/10/19/world/middleeast/gaza-lebanon-hamas-hezbollah-israel-netanyahu.html</guid>
+      <pubDate>Sun, 20 Oct 2024 02:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里斯支持底特律反对特朗普</title>
+      <link>https://www.nytimes.com/2024/10/19/us/politics/harris-trump-detroit.html</link>
+      <description><![CDATA[在美国前总统唐纳德·J·特朗普贬低这座城市后，副总统卡马拉·哈里斯表示，她的竞选活动正在寻求该市居民所拥有的那种“勇气”和“卓越”。]]></description>
+      <guid>https://www.nytimes.com/2024/10/19/us/politics/harris-trump-detroit.html</guid>
+      <pubDate>Sun, 20 Oct 2024 02:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>佐科·维多多担任总统期间取得的成就</title>
+      <link>https://www.nytimes.com/2024/10/19/world/asia/jokowi-legacy-gibran-dynasty.html</link>
+      <description><![CDATA[佐科·维多多从贫民窟崛起，成为总统。随着任期结束，他被指责破坏了实现这一目标的民主。]]></description>
+      <guid>https://www.nytimes.com/2024/10/19/world/asia/jokowi-legacy-gibran-dynasty.html</guid>
+      <pubDate>Sun, 20 Oct 2024 02:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>印尼领导人儿子的私人飞机丑闻</title>
+      <link>https://www.nytimes.com/2024/10/19/world/asia/jokowi-sons-kaesang-jet.html</link>
+      <description><![CDATA[这对将于周日卸任的总统佐科·维多多所树立的“平民”形象是一个重大打击。]]></description>
+      <guid>https://www.nytimes.com/2024/10/19/world/asia/jokowi-sons-kaesang-jet.html</guid>
+      <pubDate>Sun, 20 Oct 2024 02:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>古巴 24 小时内第二次停电，多年警告成真</title>
       <link>https://www.nytimes.com/2024/10/19/world/americas/cuba-power-outage.html</link>
       <description><![CDATA[菲德尔·卡斯特罗曾称古巴的发电厂“太落后了”。但古巴仍然依赖这些发电厂，导致该国前支持者苏联解体以来最长的停电。]]></description>
       <guid>https://www.nytimes.com/2024/10/19/world/americas/cuba-power-outage.html</guid>
       <pubDate>Sat, 19 Oct 2024 23:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管哈马斯领导人被杀，加沙和黎巴嫩的战斗仍然激烈</title>
-      <link>https://www.nytimes.com/2024/10/19/world/middleeast/gaza-lebanon-hamas-hezbollah-israel-netanyahu.html</link>
-      <description><![CDATA[和平谈判毫无进展，尽管叶海亚·辛瓦尔已死亡，但暴力事件似乎有增无减，以色列袭击了加沙北部，真主党发射了数十枚射弹。]]></description>
-      <guid>https://www.nytimes.com/2024/10/19/world/middleeast/gaza-lebanon-hamas-hezbollah-israel-netanyahu.html</guid>
-      <pubDate>Sat, 19 Oct 2024 23:43:29 GMT</pubDate>
     </item>
     <item>
       <title>无人机袭击以色列沿海内塔尼亚胡住所附近的建筑</title>
@@ -31,7 +59,7 @@
       <link>https://www.nytimes.com/2024/10/19/us/politics/us-intelligence-israel-iran.html</link>
       <description><![CDATA[美国官员正在试图确定泄密来源，其中包括军事演习和武器部署情况，以及它可能造成的破坏程度。]]></description>
       <guid>https://www.nytimes.com/2024/10/19/us/politics/us-intelligence-israel-iran.html</guid>
-      <pubDate>Sat, 19 Oct 2024 23:11:06 GMT</pubDate>
+      <pubDate>Sat, 19 Oct 2024 23:11:07 GMT</pubDate>
     </item>
     <item>
       <title>哈里斯将用曾经的右翼煽动者来讨好温和派</title>
@@ -39,13 +67,6 @@
       <description><![CDATA[反特朗普的保守派评论员查理·赛克斯 (Charlie Sykes) 周一在威斯康星州与副总统会面，他过去曾夸大选民欺诈的虚假指控，并将米歇尔·奥巴马 (Michelle Obama) 称为“Mooch”。]]></description>
       <guid>https://www.nytimes.com/2024/10/19/us/politics/harris-charlie-sykes-wisconsin.html</guid>
       <pubDate>Sat, 19 Oct 2024 21:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯支持底特律反对特朗普</title>
-      <link>https://www.nytimes.com/2024/10/19/us/politics/harris-trump-detroit.html</link>
-      <description><![CDATA[在美国前总统唐纳德·J·特朗普贬低这座城市后，副总统卡马拉·哈里斯表示，她的竞选活动正在寻求该市居民所拥有的那种“勇气”和“卓越”。]]></description>
-      <guid>https://www.nytimes.com/2024/10/19/us/politics/harris-trump-detroit.html</guid>
-      <pubDate>Sat, 19 Oct 2024 20:41:17 GMT</pubDate>
     </item>
     <item>
       <title>特朗普对任何人都不仁慈</title>
@@ -78,30 +99,9 @@
     <item>
       <title>玛雅·鲁道夫对卡玛拉·哈里斯的印象发生了怎样的变化</title>
       <link>https://www.nytimes.com/2024/10/19/us/politics/kamala-harris-maya-rudolph.html</link>
-      <description><![CDATA[随着哈里斯逐渐成为舞台的焦点，在《周六夜现场》中扮演她的演员改变了演绎方式，把副总统变成了一个严肃的老板，身边围满了愚蠢的男人。]]></description>
+      <description><![CDATA[随着哈里斯逐渐成为舞台的焦点，在《周六夜现场》中扮演她的演员也改变了演绎方式，把副总统变成了一个严肃的老板，身边都是愚蠢的男人。]]></description>
       <guid>https://www.nytimes.com/2024/10/19/us/politics/kamala-harris-maya-rudolph.html</guid>
       <pubDate>Sat, 19 Oct 2024 09:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>威斯康星州选票之争已然打响</title>
-      <link>https://www.nytimes.com/2024/10/19/us/wisconsin-ballot-drop-boxes.html</link>
-      <description><![CDATA[投递箱在威斯康星州使用多年，直到共和党人发起法律挑战后才基本被禁止，现在又恢复使用。它们已成为激烈争论的话题。]]></description>
-      <guid>https://www.nytimes.com/2024/10/19/us/wisconsin-ballot-drop-boxes.html</guid>
-      <pubDate>Sat, 19 Oct 2024 09:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>实力强大的公司迫使当地药店倒闭</title>
-      <link>https://www.nytimes.com/2024/10/19/business/drugstores-closing-pbm-pharmacy.html</link>
-      <description><![CDATA[最大的药房福利管理者通过系统性地少付独立药店的费用来获利，造成全国各地的“药房荒漠”。]]></description>
-      <guid>https://www.nytimes.com/2024/10/19/business/drugstores-closing-pbm-pharmacy.html</guid>
-      <pubDate>Sat, 19 Oct 2024 09:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩尔多瓦最受欢迎的电视节目主持人如何以惊人的人生选择毁掉自己的职业生涯</title>
-      <link>https://www.nytimes.com/2024/10/19/world/europe/natalia-morari-moldova-corrupt-business.html</link>
-      <description><![CDATA[纳塔利娅·莫拉里曾报道过摩尔多瓦的商业腐败。如今，她的儿子被指控腐败，她又在选举中与亲西方的总统竞争，这让很多人感到不满。]]></description>
-      <guid>https://www.nytimes.com/2024/10/19/world/europe/natalia-morari-moldova-corrupt-business.html</guid>
-      <pubDate>Sat, 19 Oct 2024 08:46:08 GMT</pubDate>
     </item>
     <item>
       <title>风月堂如何在小东京的演变中幸存下来</title>
