@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 21 Oct 2024 09:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 12:19:30 GMT</lastBuildDate>
+    <item>
+      <title>数据在工程行业决策中的重要性</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8nti6/the_importance_of_data_when_making_decisions_in/</link>
+      <description><![CDATA[  由    /u/albeXL  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8nti6/the_importance_of_data_when_making_decisions_in/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repopack：将整个存储库打包成一个文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8nsf1/repopack_pack_your_entire_repository_into_a/</link>
+      <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8nsf1/repopack_pack_your_entire_repository_into_a/</guid>
+      <pubDate>Mon, 21 Oct 2024 11:51:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年伦敦雪花世界巡回演唱会只是人工智能炒作吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g8lj4a/was_the_snowflake_world_tour_london_2024_just_ai/</link>
+      <description><![CDATA[  由    /u/TomBaileyCourses  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g8lj4a/was_the_snowflake_world_tour_london_2024_just_ai/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:24:48 GMT</pubDate>
+    </item>
     <item>
       <title>帮助 - 特征值问题优化</title>
       <link>https://www.reddit.com/r/programming/comments/1g8l9a3/help_eigenvalue_problem_optimization/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/nfrankel  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g85ume/summary_of_the_ajax_frameworks_comparison/</guid>
       <pubDate>Sun, 20 Oct 2024 18:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要开始编码：最好的软件工程师首先要学习帕金森定律、人为的最后期限和逆向工作计划</title>
-      <link>https://www.reddit.com/r/programming/comments/1g85i32/dont_start_coding_yet_the_best_software_engineers/</link>
-      <description><![CDATA[  由    /u/strategizeyourcareer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g85i32/dont_start_coding_yet_the_best_software_engineers/</guid>
-      <pubDate>Sun, 20 Oct 2024 18:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周的 JavaScript 新闻：JS 可能会分为两种语言、Node.js 23、Next.js 15 RC2 等。</title>
-      <link>https://www.reddit.com/r/programming/comments/1g83j79/this_weeks_javascript_news_js_might_split_into_2/</link>
-      <description><![CDATA[  由    /u/ThisWeekinJavaScript  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g83j79/this_weeks_javascript_news_js_might_split_into_2/</guid>
-      <pubDate>Sun, 20 Oct 2024 17:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现分布式锁定（2016）</title>
-      <link>https://www.reddit.com/r/programming/comments/1g83a6s/how_to_do_distributed_locking_2016/</link>
-      <description><![CDATA[  由    /u/yusufaytas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g83a6s/how_to_do_distributed_locking_2016/</guid>
-      <pubDate>Sun, 20 Oct 2024 16:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
