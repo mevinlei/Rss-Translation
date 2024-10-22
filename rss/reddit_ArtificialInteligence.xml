@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 22 Oct 2024 00:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 03:16:54 GMT</lastBuildDate>
+    <item>
+      <title>为什么人们不太谈论自动化？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g95x7t/why_dont_people_talk_as_much_about_automation/</link>
+      <description><![CDATA[GenAI 的很多叙述都围绕着生成内容。我明白了，但为什么没有更多人谈论人工智能的自动化能力（想想机器人）。Agentic AI 很棒，但这些模型不需要一种真正“执行”事情的方法吗？    提交人    /u/Eyehelpabc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g95x7t/why_dont_people_talk_as_much_about_automation/</guid>
+      <pubDate>Tue, 22 Oct 2024 00:57:46 GMT</pubDate>
+    </item>
     <item>
       <title>实验：通过 reddit 风格论坛进行代理协作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g95nec/experiment_agent_collaboration_through_a_reddit/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[“上个月，微软高调宣布将出资重新开放三哩岛核电站一号反应堆，以满足公司日益增长的数据中心电力需求，继亚马逊之后，成为第二家利用传统核设施满足日益增长的能源需求的美国大型科技公司。微软是 OpenAI 的主要投资者和计算提供商，OpenAI 启动了……” https://www.apricitas.io/p/the-ai-investment-boom    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g8x4uz/the_ai_investment_boom/</guid>
       <pubDate>Mon, 21 Oct 2024 18:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flux.1 Dev 现在可以在 8GB GPU 上运行（因此甚至可以在 Google Colab 上运行）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g8qdy4/flux1_dev_now_can_run_on_8gb_gpu_hence_even_on/</link>
-      <description><![CDATA[Flux.1 Dev 是文本到图像生成的最佳模型之一，但体积巨大。HuggingFace 今天发布了 Diffusers 和 BitsandBytes 的更新，允许在 Google Colab T4 GPU（免费）上运行量化版本的 Flux.1 Dev。在此处查看演示：https://youtu.be/-LIGvvYn398    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g8qdy4/flux1_dev_now_can_run_on_8gb_gpu_hence_even_on/</guid>
-      <pubDate>Mon, 21 Oct 2024 14:00:41 GMT</pubDate>
     </item>
     <item>
       <title>过去六个月中，人工智能领域最令人印象深刻的进步是什么？</title>
