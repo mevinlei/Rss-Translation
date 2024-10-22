@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 03:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 06:15:35 GMT</lastBuildDate>
     <item>
       <title>意外发现</title>
       <link>https://www.producthunt.com/posts/serendipity-6</link>
@@ -18,34 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/serendipity-6</guid>
       <pubDate>Sun, 20 Oct 2024 16:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>通知</title>
-      <link>https://www.producthunt.com/posts/notifyz</link>
-      <description><![CDATA[
-创建、订阅、通知一站式服务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/notifyz</guid>
-      <pubDate>Sun, 20 Oct 2024 16:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>点查找器</title>
-      <link>https://www.producthunt.com/posts/spotfinder</link>
-      <description><![CDATA[
-查找、评论和分享最适合远程工作空间的咖啡馆
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/spotfinder</guid>
-      <pubDate>Sun, 20 Oct 2024 10:09:38 GMT</pubDate>
     </item>
     <item>
       <title>明智选择</title>
@@ -76,6 +48,20 @@
       <pubDate>Sun, 20 Oct 2024 09:36:08 GMT</pubDate>
     </item>
     <item>
+      <title>粉色的</title>
+      <link>https://www.producthunt.com/posts/roozna</link>
+      <description><![CDATA[
+查找并自动填充 80,000 多家企业
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/roozna</guid>
+      <pubDate>Fri, 18 Oct 2024 18:31:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Metaview 的 hiring.studio</title>
       <link>https://www.producthunt.com/posts/hiring-studio-by-metaview</link>
       <description><![CDATA[
@@ -90,7 +76,7 @@
       <pubDate>Fri, 18 Oct 2024 10:50:04 GMT</pubDate>
     </item>
     <item>
-      <title>标签定时器</title>
+      <title>标签计时器</title>
       <link>https://www.producthunt.com/posts/tabtimer-2</link>
       <description><![CDATA[
 世界上最小的计时器。专为您的浏览器打造。
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/tabtimer-2</guid>
       <pubDate>Thu, 17 Oct 2024 16:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>火焰生命</title>
+      <link>https://www.producthunt.com/posts/llama-life-2</link>
+      <description><![CDATA[
+一款帮助注意力缺陷多动障碍患者完成任务和日常活动的应用程序
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/llama-life-2</guid>
+      <pubDate>Thu, 17 Oct 2024 05:47:44 GMT</pubDate>
     </item>
     <item>
       <title>冲刺到购物车</title>
@@ -118,20 +118,6 @@
       <pubDate>Tue, 15 Oct 2024 01:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>生命：仅此一次-V2</title>
-      <link>https://www.producthunt.com/posts/life-just-one-v2</link>
-      <description><![CDATA[
-你的时间真的很宝贵！
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/life-just-one-v2</guid>
-      <pubDate>Mon, 14 Oct 2024 12:28:56 GMT</pubDate>
-    </item>
-    <item>
       <title>马尼科德</title>
       <link>https://www.producthunt.com/posts/manicode</link>
       <description><![CDATA[
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/manicode</guid>
       <pubDate>Mon, 14 Oct 2024 06:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗莫</title>
+      <link>https://www.producthunt.com/posts/romo</link>
+      <description><![CDATA[
+认可团队中的文化榜样
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/romo</guid>
+      <pubDate>Sun, 13 Oct 2024 09:54:12 GMT</pubDate>
     </item>
     <item>
       <title>Talkstack人工智能</title>
@@ -174,6 +174,20 @@
       <pubDate>Wed, 02 Oct 2024 18:26:49 GMT</pubDate>
     </item>
     <item>
+      <title>斯威戈</title>
+      <link>https://www.producthunt.com/posts/sweego-3</link>
+      <description><![CDATA[
+面向开发人员的多渠道电子邮件和短信发送 API
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sweego-3</guid>
+      <pubDate>Tue, 01 Oct 2024 15:42:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Mailbird 对于 Mac</title>
       <link>https://www.producthunt.com/posts/mailbird-for-mac</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/mailbird-for-mac</guid>
       <pubDate>Sat, 28 Sep 2024 19:34:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>甜甜圈</title>
-      <link>https://www.producthunt.com/posts/duonut-3</link>
-      <description><![CDATA[
-具有实时跟进功能的 AI 对话式调查
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/duonut-3</guid>
-      <pubDate>Thu, 19 Sep 2024 12:21:47 GMT</pubDate>
     </item>
     <item>
       <title>瓦拉凡</title>
