@@ -4,7 +4,14 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 21:11:07 GMT</lastBuildDate>
+    <item>
+      <title>女子对大脑进行了 75 次扫描，以了解避孕措施对其有何影响</title>
+      <link>https://www.newscientist.com/article/2452737-woman-scanned-her-brain-75-times-to-see-how-birth-control-changes-it/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[一位神经科学家在三个月内进行了数十次脑部扫描，以更好地了解激素避孕药对神经系统的影响]]></description>
+      <guid>https://www.newscientist.com/article/2452737-woman-scanned-her-brain-75-times-to-see-how-birth-control-changes-it/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Tue, 22 Oct 2024 19:52:51 GMT</pubDate>
+    </item>
     <item>
       <title>Meta AI 解决了困扰人类一个多世纪的数学问题</title>
       <link>https://www.newscientist.com/article/2452780-meta-ai-tackles-maths-problems-that-stumped-humans-for-over-a-century/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[25 年来首次在寻找素数方面取得突破，数学家们为此欢呼雀跃，他们希望新证明背后的技术能够进一步推动数学的其他领域]]></description>
       <guid>https://www.newscientist.com/article/2452501-mathematicians-have-found-a-new-way-to-identify-prime-numbers/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Fri, 18 Oct 2024 16:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>反向书写可以诱使人工智能提供炸弹配方</title>
-      <link>https://www.newscientist.com/article/2450838-writing-backwards-can-trick-an-ai-into-providing-a-bomb-recipe/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[人工智能模型有安全措施来防止它们产生危险或非法的输出，但人们发现一系列越狱行为可以规避这些措施。现在，研究人员表明，反向书写可以诱使人工智能模型泄露制造炸弹的指令。]]></description>
-      <guid>https://www.newscientist.com/article/2450838-writing-backwards-can-trick-an-ai-into-providing-a-bomb-recipe/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Fri, 18 Oct 2024 15:22:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
