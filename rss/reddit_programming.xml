@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 23 Oct 2024 21:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:46:03 GMT</lastBuildDate>
+    <item>
+      <title>Jailer：关系数据导航工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gao1pi/jailer_relational_data_navigation_tool/</link>
+      <description><![CDATA[  由    /u/Plane-Discussion  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gao1pi/jailer_relational_data_navigation_tool/</guid>
+      <pubDate>Wed, 23 Oct 2024 23:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了我的第一个 Remix.js 应用程序 - 一个名为 ValidateFlow 的业务规则引擎。需要反馈！</title>
+      <link>https://www.reddit.com/r/programming/comments/1ganwy7/built_my_first_remixjs_app_a_business_rules/</link>
+      <description><![CDATA[  由    /u/Far-Round2092  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ganwy7/built_my_first_remixjs_app_a_business_rules/</guid>
+      <pubDate>Wed, 23 Oct 2024 22:57:51 GMT</pubDate>
+    </item>
     <item>
       <title>掌握 API 定义：综合指南</title>
       <link>https://www.reddit.com/r/programming/comments/1gal038/mastering_api_definitions_a_comprehensive_guide/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/simon_o  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gae0vx/async_rust_in_three_parts/</guid>
       <pubDate>Wed, 23 Oct 2024 15:57:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Git Reset | 第 3 集 Bits and Booze</title>
-      <link>https://www.reddit.com/r/programming/comments/1gadrvx/git_reset_ep3_bits_and_booze/</link>
-      <description><![CDATA[  由    /u/icyFur  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gadrvx/git_reset_ep3_bits_and_booze/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是 OpenTelemetry？-解释和演示</title>
-      <link>https://www.reddit.com/r/programming/comments/1gadhao/what_is_opentelemetry_explanation_and_demo/</link>
-      <description><![CDATA[  由    /u/JollyShopland  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gadhao/what_is_opentelemetry_explanation_and_demo/</guid>
-      <pubDate>Wed, 23 Oct 2024 15:34:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
