@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 25 Oct 2024 03:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 06:16:14 GMT</lastBuildDate>
+    <item>
+      <title>EagleGet 源代码在哪里？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbnobj/where_is_eagleget_source_code/</link>
+      <description><![CDATA[我从未使用过 EagleGet，但我听说它是​​ IDM 的免费替代品。我从谷歌搜索结果中转到了 eagleget.org。那里提到这是一个开源免费程序。但代码在哪里？我试着在谷歌上搜索它，发现一个 reddit 帖子提到 EagleGet 已停产。我很困惑。    提交人    /u/Safwan-Ahmad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbnobj/where_is_eagleget_source_code/</guid>
+      <pubDate>Fri, 25 Oct 2024 06:13:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我修复了 Aria2！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</link>
+      <description><![CDATA[有些人可能听说过 aria2，我想让它更加用户友好。所以我这样做了，不用带有目录和代码的终端，只需打开 exe，输入下载链接，浏览器下载速度就会快得多，如果您想了解有关 Aria2 的更多信息，可以单击此处 Aria2 NEW Aria2 这是我分叉的新产品，请转到发布版本下载 exe！（它使用相同的系统，只是在窗口中而不是终端中）    提交人    /u/tyty0310   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</guid>
+      <pubDate>Fri, 25 Oct 2024 04:44:24 GMT</pubDate>
+    </item>
     <item>
       <title>我正在为 HiLink LD2410 开发一个简洁易用的库。有人有兴趣合作吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gbdrrw/i_am_working_on_a_clean_and_easy_to_use_library/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在寻找一个开源项目，它是一个可用于开源项目网站的模板。 我什么也没找到。我想为我的项目网站添加一些好看的样式。当你在谷歌上不加引号搜索时，你会得到免费的或开源的通用网站模板。当你引用查询“开源项目模板”时，你会得到这个域名 open-innovation-projects[.]org，它只是文本，没有一张图片或链接。它看起来像是专为 SEO 创建的。 你知道有什么项目可以用作开源项目网站的参考吗？或者也许是 OSS 项目的免费模板？    提交人    /u/jcubic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gb09l2/looking_for_inspiration_or_html_templates_for/</guid>
       <pubDate>Thu, 24 Oct 2024 11:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我准备打开它之前 6 分钟，刚刚看到一位贡献者修复了一个问题</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gb02ol/just_saw_a_contributor_fix_an_issue_6_mins_before/</link>
-      <description><![CDATA[不得不说，太酷了哈哈。:D 我在工作中研究 HTML 正则表达式，并试图将 &lt;label&gt; 和 &lt;input&gt; 字段复制粘贴到我的笔记应用程序 (Anytype) 中以保存正则表达式模式。它没有起作用，只有 &lt;label&gt; 字段的内容被复制粘贴了。在我的其他笔记应用程序 (Notion) 中尝试过，它起作用了。 可能是一些清理问题？去了 GitHub 仓库，寻找类似的问题 - 没有，尝试打开一个问题，然后我查看了仓库。顶部的最新提交是“修复 xss - 6 分钟前”。 没办法。太酷了。哈哈。查看提交，虽然我并不完全理解代码，但他们将类似 ${U.Common.sanitize(U.Common.lbBr(text)) 的一行替换为 ${text。我认为这正是我的问题所在。 太酷了。想想我遇到了这个问题，而世界上其他人在那一刻也遇到了这个问题，并修复了它。开源太酷了。:D    提交人    /u/-metasequoia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gb02ol/just_saw_a_contributor_fix_an_issue_6_mins_before/</guid>
-      <pubDate>Thu, 24 Oct 2024 11:12:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Todoctor - CLI 工具，用于跟踪和可视化 Git 存储库中的 TODO 注释并生成报告</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gb00ld/todoctor_cli_tool_to_track_and_visualize_todo/</link>
-      <description><![CDATA[        由    /u/azat_io  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gb00ld/todoctor_cli_tool_to_track_and_visualize_todo/</guid>
-      <pubDate>Thu, 24 Oct 2024 11:09:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
