@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 30 Oct 2024 03:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 06:30:09 GMT</lastBuildDate>
     <item>
       <title>K4 - 高性能开源事务、持久存储引擎/嵌入式数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1gfdb5t/k4_high_performance_open_source_transactional/</link>
-      <description><![CDATA[向我的开源爱好者们问好！我想向你们介绍一种新的开源存储引擎/嵌入式数据库，适用于 GO 和其他语言，名为 K4！ K4 是一个可以嵌入到您的应用程序中并用作快速、持久、耐用的事务存储解决方案的库。K4 建立在日志结构合并树之上，以优化写入，但也提供非常高效的读取速度。  基准测试 ------------------------------------- goos：linux goarch：amd64 pkg：github.com/guycipher/k4 cpu：第 11 代 Intel(R) Core(TM) i7-11700K @ 3.60GHz BenchmarkK4_Put BenchmarkK4_Put-16 158104 6862 ns/op # 145,000 ops/s  特点 ------------------------------------- - 高速写入和读取 - 耐用性 - 可变长度的二进制键和值。键及其值可以是任意长度 - 预写日志 (WAL)。系统在将 PUT 和 DELETE 操作应用到 LSM 树之前，将它们写入日志文件。 - 原子事务。多个 PUT 和 DELETE 操作可以组合在一起，并以原子方式应用于 LSM 树。 - 配对压缩。SSTables 在压缩期间配对并合并为单个 SSTable。这减少了 SSTables 的数量并最大限度地减少了读取操作的磁盘 I/O。 - Memtable 作为跳过列表实现。 - 内存和基于磁盘的存储 - 可配置的 memtable 刷新阈值 - 可配置的压缩间隔（以秒为单位） - 可配置的日志记录 - 可配置的跳过列表 - 布隆过滤器用于更快的查找。SSTable 初始页包含布隆过滤器。 - 在扫描 SSTable 之前，系统使用布隆过滤器确定键是否在 SSTable 中。 - 从 WAL 恢复 - 细粒度页面锁定 - 线程安全 - TTL（生存时间）支持 - 可选压缩支持（简单轻量级和优化的 Lempel-Ziv 1977 启发压缩算法 - 范围和等值功能（Get、NGet、Range、NRange、GreaterThan、GreaterThanEq、LessThan、LessThanEq） - 无依赖项 我目前正在研究 C 绑定，然后我将为各种语言创建 FFI，包括 Python、Node.JS、Ruby、Java 等！ 请让我知道您的想法！:)    提交人    /u/diagraphic   [链接] [评论]]]></description>
+      <description><![CDATA[向我的开源爱好者们问好！我想向你们介绍一种新的开源存储引擎/嵌入式数据库，适用于 GO 和其他语言，名为 K4！ K4 是一个可以嵌入到您的应用程序中并用作快速、持久、耐用、事务性存储解决方案的库。 K4 建立在日志结构合并树之上，以优化写入，但也提供非常高效的读取速度。 基准测试 ------------------------------------- goos：linux goarch：amd64 pkg：github.com/guycipher/k4 cpu：第 11 代 Intel(R) Core(TM) i7-11700K @ 3.60GHz BenchmarkK4_Put BenchmarkK4_Put-16 158104 6862 ns/op # 145,000 ops/s 特点 ------------------------------------- - 高速写入和读取 -耐用性 - 可变长度的二进制键和值。键及其值可以是任意长度 - 预写日志 (WAL)。系统在将 PUT 和 DELETE 操作应用于 LSM 树之前，将它们写入日志文件。 - 原子事务。多个 PUT 和 DELETE 操作可以组合在一起并以原子方式应用于 LSM 树。 - 配对压缩。SSTable 在压缩期间配对并合并为单个 SSTable。这减少了 SSTable 的数量并最大限度地减少了读取操作的磁盘 I/O。 - Memtable 作为跳过列表实现。 - 内存和基于磁盘的存储 - 可配置的 memtable 刷新阈值 - 可配置的压缩间隔（以秒为单位） - 可配置的日志记录 - 可配置的跳过列表 - 布隆过滤器用于更快的查找。 SSTable 初始页面包含一个布隆过滤器。 - 在扫描 SSTable 之前，系统使用布隆过滤器确定键是否在 SSTable 中。 - 从 WAL 恢复 - 细粒度页面锁定 - 线程安全 - TTL（生存时间）支持 - 可选压缩支持（简单轻量级和优化的 Lempel-Ziv 1977 启发压缩算法 - 范围和等值功能（Get、NGet、Range、NRange、GreaterThan、GreaterThanEq、LessThan、LessThanEq） - 无依赖项 我目前正在研究 C 绑定，然后我将为各种语言创建 FFI，包括 Python、Node.JS、Ruby、Java 等！ 请让我知道您的想法！:)    提交人    /u/diagraphic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfdb5t/k4_high_performance_open_source_transactional/</guid>
       <pubDate>Wed, 30 Oct 2024 03:17:54 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>我该如何向我爸爸解释开源？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gezomu/how_do_i_explain_open_source_to_my_dad/</link>
-      <description><![CDATA[我是一名软件工程师。我父亲是那种老派的总承包商。他所有的工作都是用铅笔和纸完成的，50 岁时才拥有第一部智能手机。 我经常在我的项目中使用开源软件，如果我找到回馈的机会，我就会去做。从我父亲的角度来看，他无法理解为什么有人会免费编写软件并将其公开，因为这个想法违背了他大脑中作为企业主的那部分。 这不是一个非常紧迫的问题，我只是看到他努力去理解我正在做的事情，我不确定如何向完全不熟悉开源的人解释开源。 我很想听听你的想法。    提交人    /u/EcstaticPudding6251   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名软件工程师。我父亲是那种老派的总承包商。他所有的工作都是用铅笔和纸完成的，50 岁时才拥有第一部智能手机。 我经常在我的项目中使用开源软件，如果我找到机会回馈他们，我就会这么做。从我父亲的角度来看，他无法理解为什么有人会免费编写软件并将其公开，因为这个想法违背了他大脑中作为企业主的那部分。 这不是一个非常紧迫的问题，我只是看到他努力去理解我正在做的事情，我不确定如何向完全不熟悉开源的人解释开源。 我很想听听你的想法。    提交人    /u/EcstaticPudding6251   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gezomu/how_do_i_explain_open_source_to_my_dad/</guid>
       <pubDate>Tue, 29 Oct 2024 17:04:49 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>KoalaKeys - 创建便携式备忘单</title>
       <link>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</link>
-      <description><![CDATA[大家好， 当我决定少用鼠标时，我寻找一种工具来创建自定义键盘备忘单，但找不到合适的。所以，我决定构建 KoalaKeys。它可以生成时尚、可自定义的 HTML 备忘单，您几乎可以在任何地方使用 - 本地或托管。 您可以在此处找到 GitHub 存储库：KoalaKeys 我还在此处托管了一个公共实例：KoalaKeys Demo 期待您的反馈！    提交人    /u/rtuszik   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 当我决定少用鼠标时，我寻找一种工具来创建自定义键盘备忘单，但找不到合适的。所以，我决定开发 KoalaKeys。它可以生成时尚、可自定义的 HTML 备忘单，您几乎可以在任何地方使用 - 本地或托管。 您可以在此处找到 GitHub 存储库：KoalaKeys 我还在此处托管了一个公共实例：KoalaKeys Demo 期待您的反馈！    提交人    /u/rtuszik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gex719/koalakeys_create_portable_cheat_sheets/</guid>
       <pubDate>Tue, 29 Oct 2024 15:21:31 GMT</pubDate>
     </item>
