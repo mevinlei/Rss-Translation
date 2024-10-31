@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 31 Oct 2024 06:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 09:10:38 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 降低 API 成本：每增加 5 个声音，每百万仅需 0.06 美元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gg8918/openai_lowers_api_costs_5_voices_added_at_just/</link>
+      <description><![CDATA[OpenAI 的 Realtime API 仍处于公开测试阶段，这意味着开发人员无法获得客户端身份验证。ChatGPT 的母公司已大幅降低其实时 API 的价格，以便更多人更轻松地使用。https://theaiwired.com/openai-lowers-api-costs-5-voices-added-at-just-0-06-per-million/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gg8918/openai_lowers_api_costs_5_voices_added_at_just/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:34:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Apple M 系列芯片处理 AI 工作负载有哪些缺点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gg86iy/what_are_the_disadvantages_of_using_apple_m/</link>
+      <description><![CDATA[新款 Apple Mac 系列（例如 Mac Mini 和 MacBook Pro）提供高达 128 GB 的组合 RAM。我正在考虑购买一台，因为即使是昂贵的 Quadro 系列 GPU 也只有 48 GB 的 VRAM，因此高 RAM Mac 可以让我运行更大的模型。 但是，我听说 M 系列芯片不能很好地支持某些 AI 框架（例如某些 PyTorch 和 TensorFlow），并且需要重新编译图像生成模型。您能帮助我了解使用 Apple M 系列芯片进行 AI 工作的缺点吗？    提交人    /u/RageshAntony   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gg86iy/what_are_the_disadvantages_of_using_apple_m/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:28:58 GMT</pubDate>
+    </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 10 月 30 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gg6rto/oneminute_daily_ai_news_10302024/</link>
@@ -62,13 +76,6 @@
       <pubDate>Thu, 31 Oct 2024 01:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>关于利用语音片段制作视频的 AI 工具的推荐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfzndk/recommendations_for_ai_tools_that_create_videos/</link>
-      <description><![CDATA[大家好， 我正在寻找有关 AI 工具的推荐，这些工具可以通过接收音频剪辑而不是文本来创建视频（即使用库存视频）。我想使用自己的音频。有很多工具可以将文本转换为视频，但我正在寻找一种可以将音频转换为视频并在视频上创建字幕的工具。    提交人    /u/Nik-x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfzndk/recommendations_for_ai_tools_that_create_videos/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:47:35 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能和机器学习的今日话题：🖥️25% 的谷歌新代码是由人工智能生成的🧠麻省理工学院的新癌症治疗方法比传统化疗更有效⚙️GitHub 和微软开放 Copilot 以与人工智能模型竞争💻GitHub 的新工具可帮助您使用简单的英语等构建应用程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfyi6d/today_in_ai_machine_learning_25_of_googles_new/</link>
       <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
@@ -83,11 +90,11 @@
       <pubDate>Wed, 30 Oct 2024 20:48:06 GMT</pubDate>
     </item>
     <item>
-      <title>哪些人工智能软件可以生成真实面部图像？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfwqau/which_ai_software_can_generate_images_of_real/</link>
-      <description><![CDATA[各大 LLM 都不会生成明星脸或者我自己脸的图片，大家用什么软件可以生成人物真实脸部的图片？我想用自己的来玩图片。    提交人    /u/thejasonreagan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfwqau/which_ai_software_can_generate_images_of_real/</guid>
-      <pubDate>Wed, 30 Oct 2024 20:41:17 GMT</pubDate>
+      <title>[D] 我是一名 ML/编程教育者 - 我作为 codesmith 的首席执行官受邀参加柏林全球对话（技术/人工智能内部会议） - 看看他们在闭门会议上说了什么 - AMA</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfvnsk/d_im_an_mlprogramming_educator_i_was_invited_as/</link>
+      <description><![CDATA[  由    /u/Delicious-Ostrich890  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfvnsk/d_im_an_mlprogramming_educator_i_was_invited_as/</guid>
+      <pubDate>Wed, 30 Oct 2024 19:56:01 GMT</pubDate>
     </item>
     <item>
       <title>人工智能回音室</title>
@@ -97,14 +104,7 @@
       <pubDate>Wed, 30 Oct 2024 19:17:16 GMT</pubDate>
     </item>
     <item>
-      <title>我正在为想要创建和协作创新项目的人工智能人士构建一个在线平台！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfrexd/im_building_an_online_platform_for_people_in_ai/</link>
-      <description><![CDATA[大家好 :) 我有一些很酷的东西想和你们分享，在过去的几个月里，我一直在努力寻找实现梦想的方法 我正在为那些关心技术创新并通过建设和参与项目产生积极影响的人工智能人士创建一个在线中心 这个中心将是一个寻找志同道合的人联系并一起从事激情项目的地方。 目前，我们正在编写一个平台，以便每个人都能找到彼此并相互了解 在我们获得一些初始用户后，我们将从短期建设者计划开始，个人和团队可以参加在线竞赛，最突出的项目可以获得一些奖品 :) 我们的目标是通过帮助他人做同样的事情来让世界变得更美好 如果您喜欢我们的倡议，请在下面的网站上注册！ https://www.yournewway-ai.com/  几周后，一旦我们准备就绪，我们将向您发送加入我们平台的邀请 :)    提交人    /u/unknownstudentoflife   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfrexd/im_building_an_online_platform_for_people_in_ai/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是人工智能领域的新闻</title>
+      <title>人工智能领域的新闻内容如下</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmnk3/heres_what_making_news_in_the_ai/</link>
       <description><![CDATA[ 谷歌超过四分之一的新代码是由人工智能生成的 谷歌表示，其下一代人工智能代理最早要到 2025 年才会推出 据报道，OpenAI 计划在 2026 年打造其首款人工智能芯片 据报道，埃隆马斯克的 xAI 正试图再筹集数十亿美元 ElevenLabs 聘请了阅读器应用程序 Omnivore 背后的团队     提交人    /u/codeharman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gfmnk3/heres_what_making_news_in_the_ai/</guid>
