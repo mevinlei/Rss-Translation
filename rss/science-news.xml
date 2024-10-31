@@ -4,7 +4,14 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 15:12:48 GMT</lastBuildDate>
+    <item>
+      <title>间谍可以通过雷达感应振动来窃听电话</title>
+      <link>https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-calls-by-sensing-vibrations-with-radar/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[现成的毫米波传感器可以拾取智能手机扬声器产生的微小振动，使人工智能模型能够转录对话，即使在嘈杂的房间中也能听到]]></description>
+      <guid>https://www.newscientist.com/article/2453191-spies-can-eavesdrop-on-phone-calls-by-sensing-vibrations-with-radar/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Thu, 31 Oct 2024 13:52:43 GMT</pubDate>
+    </item>
     <item>
       <title>黑猩猩永远不会随机输入莎士比亚全集</title>
       <link>https://www.newscientist.com/article/2454221-chimpanzees-will-never-randomly-type-the-complete-works-of-shakespeare/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -48,16 +55,16 @@
       <pubDate>Wed, 30 Oct 2024 16:00:03 GMT</pubDate>
     </item>
     <item>
-      <title>量子电池释放的电量比储存的电量还多</title>
-      <link>https://www.newscientist.com/article/2453767-quantum-batteries-could-discharge-more-power-than-they-store/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <title>量子电池释放的能量可能比储存的能量还多</title>
+      <link>https://www.newscientist.com/article/2453767-quantum-batteries-could-give-off-more-energy-than-they-store/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
       <description><![CDATA[模拟表明，当量子电池与其供电的设备共享量子态时，该设备可以获得比电池最初存储的更多的电荷]]></description>
-      <guid>https://www.newscientist.com/article/2453767-quantum-batteries-could-discharge-more-power-than-they-store/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <guid>https://www.newscientist.com/article/2453767-quantum-batteries-could-give-off-more-energy-than-they-store/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 29 Oct 2024 19:15:33 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊正处于气候临界点的边缘</title>
       <link>https://www.newscientist.com/article/2453873-the-amazon-is-teetering-on-the-edge-of-a-climate-tipping-point/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[最近几年，亚马逊生物群落释放的碳多于其吸收的碳，进一步的退化可能导致永久性转变]]></description>
+      <description><![CDATA[最近几年，亚马逊生物群落释放的碳多于其吸收的碳，进一步的退化可能会造成永久性的变化]]></description>
       <guid>https://www.newscientist.com/article/2453873-the-amazon-is-teetering-on-the-edge-of-a-climate-tipping-point/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 29 Oct 2024 19:00:00 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[计算机模拟了甲型流感病毒如何在人体粘液中移动，发现它的理想配置是滑过粘性物质，然后感染细胞]]></description>
       <guid>https://www.newscientist.com/article/2453526-flu-viruses-have-evolved-proteins-that-let-them-break-through-mucus/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Mon, 28 Oct 2024 19:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界还远未实现遏制生物多样性丧失的目标</title>
-      <link>https://www.newscientist.com/article/2453640-the-world-is-falling-far-short-of-its-goal-to-halt-biodiversity-loss/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[2022 年，各国承诺到 2030 年保护地球 30% 的土地，遏制生物多样性丧失，但迄今为止进展缓慢]]></description>
-      <guid>https://www.newscientist.com/article/2453640-the-world-is-falling-far-short-of-its-goal-to-halt-biodiversity-loss/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Mon, 28 Oct 2024 16:35:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
