@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 31 Oct 2024 09:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 12:18:59 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 CSS 状态结果 | CSS-Tricks</title>
+      <link>https://www.reddit.com/r/programming/comments/1ggb04w/state_of_css_2024_results_csstricks/</link>
+      <description><![CDATA[  由    /u/Mech_beast001  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ggb04w/state_of_css_2024_results_csstricks/</guid>
+      <pubDate>Thu, 31 Oct 2024 10:10:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Pascal 值得重新审视</title>
+      <link>https://www.reddit.com/r/programming/comments/1gganlz/why_pascal_deserves_a_second_look/</link>
+      <description><![CDATA[  由    /u/GroundbreakingIron16  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gganlz/why_pascal_deserves_a_second_look/</guid>
+      <pubDate>Thu, 31 Oct 2024 09:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁会从 JavaScript 的拟议分裂中受益？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ggaljn/who_stands_to_benefit_from_a_proposed_split_of/</link>
+      <description><![CDATA[  由    /u/scarey102  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ggaljn/who_stands_to_benefit_from_a_proposed_split_of/</guid>
+      <pubDate>Thu, 31 Oct 2024 09:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Python 编写的素数大杂烩</title>
+      <link>https://www.reddit.com/r/programming/comments/1ggake4/a_primes_potpourri_coded_in_python/</link>
+      <description><![CDATA[  由    /u/ADavison2560  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ggake4/a_primes_potpourri_coded_in_python/</guid>
+      <pubDate>Thu, 31 Oct 2024 09:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Pure Rails 创建 URL 缩短服务</title>
+      <link>https://www.reddit.com/r/programming/comments/1ggabxo/create_a_url_shortener_service_with_pure_rails/</link>
+      <description><![CDATA[  由    /u/mehdifarsi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ggabxo/create_a_url_shortener_service_with_pure_rails/</guid>
+      <pubDate>Thu, 31 Oct 2024 09:19:32 GMT</pubDate>
+    </item>
     <item>
       <title>为什么我不依赖人工智能进行编程（太多）</title>
       <link>https://www.reddit.com/r/programming/comments/1gga472/why_i_dont_rely_on_ai_for_programming_too_much/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/raedslab  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gg081j/scrum_doesnt_have_to_suck/</guid>
       <pubDate>Wed, 30 Oct 2024 23:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>PACELC 定理</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfzupi/the_pacelc_theorem/</link>
-      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfzupi/the_pacelc_theorem/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>渲染排序</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfzk8e/sorting_for_rendering/</link>
-      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfzk8e/sorting_for_rendering/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polipo：第一个 Figma 编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfv393/polipo_the_first_figma_compiler/</link>
-      <description><![CDATA[  由    /u/MassimoCairo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfv393/polipo_the_first_figma_compiler/</guid>
-      <pubDate>Wed, 30 Oct 2024 19:31:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>(P)OOP 编程 | 为什么 OOP 不好</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfuiwt/poop_programming_why_oop_is_bad/</link>
-      <description><![CDATA[  由    /u/2codee  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfuiwt/poop_programming_why_oop_is_bad/</guid>
-      <pubDate>Wed, 30 Oct 2024 19:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - hypermodeinc/modus: Modus：一个由 WebAssembly 提供支持的用于构建智能功能和 API 的开源无服务器框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1gfu25z/github_hypermodeincmodus_modus_an_open_source/</link>
-      <description><![CDATA[  由    /u/lyonwj  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gfu25z/github_hypermodeincmodus_modus_an_open_source/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:47:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
