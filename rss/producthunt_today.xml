@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 30 Oct 2024 21:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 00:48:04 GMT</lastBuildDate>
     <item>
       <title>转化代理人工智能</title>
       <link>https://www.producthunt.com/posts/conversion-agent-ai</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/conversion-agent-ai</guid>
       <pubDate>Wed, 30 Oct 2024 04:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>盖特摩比</title>
+      <link>https://www.producthunt.com/posts/getmobi</link>
+      <description><![CDATA[
+拍手找回我的手机
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/getmobi</guid>
+      <pubDate>Wed, 30 Oct 2024 02:19:18 GMT</pubDate>
     </item>
     <item>
       <title>Gmail 版 DailyBot</title>
@@ -34,46 +48,18 @@ Gmail 聊天中的站立会议和团队报告
       <pubDate>Tue, 29 Oct 2024 21:56:08 GMT</pubDate>
     </item>
     <item>
-      <title>无限变量模式</title>
-      <link>https://www.producthunt.com/posts/infinite-variable-modes</link>
+      <title>mighty_docs</title>
+      <link>https://www.producthunt.com/posts/mighty_docs</link>
       <description><![CDATA[
-任何 Figma 计划中的无限变量模式
+适用于 macOS 的 AI 驱动开发人员文档帮助
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/infinite-variable-modes</guid>
-      <pubDate>Tue, 29 Oct 2024 21:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>考杜拉</title>
-      <link>https://www.producthunt.com/posts/codura</link>
-      <description><![CDATA[
-只需上传一次代码库，然后就可以编写代码了
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/codura</guid>
-      <pubDate>Tue, 29 Oct 2024 20:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的精彩产品</title>
-      <link>https://www.producthunt.com/posts/fantastical-for-windows</link>
-      <description><![CDATA[
-最畅销的日历应用现已适用于 Windows
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/fantastical-for-windows</guid>
-      <pubDate>Tue, 29 Oct 2024 19:41:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/mighty_docs</guid>
+      <pubDate>Tue, 29 Oct 2024 19:10:19 GMT</pubDate>
     </item>
     <item>
       <title>客户门户</title>
@@ -90,60 +76,32 @@ Gmail 聊天中的站立会议和团队报告
       <pubDate>Tue, 29 Oct 2024 18:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>达巴克</title>
-      <link>https://www.producthunt.com/posts/dabarqus</link>
+      <title>打你的客户</title>
+      <link>https://www.producthunt.com/posts/punch-your-client</link>
       <description><![CDATA[
-只需不到 9 行代码即可将 PDF 聊天功能添加到您的 LLM 应用程序中
+因为有时，客户需要现实检查
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/dabarqus</guid>
-      <pubDate>Tue, 29 Oct 2024 16:39:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/punch-your-client</guid>
+      <pubDate>Tue, 29 Oct 2024 15:33:39 GMT</pubDate>
     </item>
     <item>
-      <title>CaughtUp 应用程序</title>
-      <link>https://www.producthunt.com/posts/caughtup-app</link>
+      <title>螺栓</title>
+      <link>https://www.producthunt.com/posts/bolt-new</link>
       <description><![CDATA[
-与他人分享时间！
+提示、运行、编辑和部署全栈 Web 应用
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/caughtup-app</guid>
-      <pubDate>Tue, 29 Oct 2024 09:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>别针落下队</title>
-      <link>https://www.producthunt.com/posts/pin-drop-teams</link>
-      <description><![CDATA[
-专业人士进行规划、规划和协作的最简单方法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/pin-drop-teams</guid>
-      <pubDate>Mon, 28 Oct 2024 15:48:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>4雷姆</title>
-      <link>https://www.producthunt.com/posts/4rem</link>
-      <description><![CDATA[
-睡前停止使用屏幕时间的解决方法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/4rem</guid>
-      <pubDate>Fri, 25 Oct 2024 17:51:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bolt-new</guid>
+      <pubDate>Fri, 25 Oct 2024 23:51:20 GMT</pubDate>
     </item>
     <item>
       <title>魔杖</title>
@@ -160,18 +118,32 @@ Gmail 聊天中的站立会议和团队报告
       <pubDate>Fri, 25 Oct 2024 12:07:16 GMT</pubDate>
     </item>
     <item>
-      <title>时钟 点</title>
-      <link>https://www.producthunt.com/posts/clock-o-clock</link>
+      <title>果冻</title>
+      <link>https://www.producthunt.com/posts/jelly-7</link>
       <description><![CDATA[
-适用于智能电视的可定制时钟设计 
+团队协作处理电子邮件的最佳方式
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/clock-o-clock</guid>
-      <pubDate>Thu, 24 Oct 2024 13:04:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/jelly-7</guid>
+      <pubDate>Thu, 24 Oct 2024 16:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>朗泰尔 1.0</title>
+      <link>https://www.producthunt.com/posts/langtail-1-0</link>
+      <description><![CDATA[
+用于测试 AI 应用的低代码平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/langtail-1-0</guid>
+      <pubDate>Thu, 24 Oct 2024 07:56:03 GMT</pubDate>
     </item>
     <item>
       <title>人工智能工作室</title>
@@ -200,6 +172,34 @@ Gmail 聊天中的站立会议和团队报告
 ]]></description>
       <guid>https://www.producthunt.com/posts/lovetunesai</guid>
       <pubDate>Fri, 18 Oct 2024 21:15:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trieve 网站搜索</title>
+      <link>https://www.producthunt.com/posts/trieve-sitesearch</link>
+      <description><![CDATA[
+为用户提供强大的 AI 搜索和聊天功能，供您浏览您的网站/文档 🔎✨
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/trieve-sitesearch</guid>
+      <pubDate>Thu, 10 Oct 2024 19:07:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>前奏验证</title>
+      <link>https://www.producthunt.com/posts/prelude-verify</link>
+      <description><![CDATA[
+使用我们的无垃圾邮件短信 API 以更低的成本验证更多用户
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/prelude-verify</guid>
+      <pubDate>Tue, 08 Oct 2024 13:55:54 GMT</pubDate>
     </item>
     <item>
       <title>购物小工具</title>
