@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 15:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 18:11:36 GMT</lastBuildDate>
+    <item>
+      <title>用于提供科学信息和答案的人工智能工具？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghzs5t/ai_tools_for_providing_scientific_information_and/</link>
+      <description><![CDATA[嘿 我需要一些帮助。有人有什么建议或知道任何可以专门用于学习的人工智能机器人或工具吗？它们擅长提供科学信息，最好能提供引文或来源？ 例如，我正在学习自然科学，想在提交作业之前检查我的答案是否正确。假设我想问一个问题“酶是由什么样的化合物组成的？”，提供的答案应该是蛋白质和氨基酸，等等。并附上解释，可能还有这些信息的来源。    提交人    /u/morkeba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghzs5t/ai_tools_for_providing_scientific_information_and/</guid>
+      <pubDate>Sat, 02 Nov 2024 16:05:17 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能 AMA 的思想领袖</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghws8v/thought_leaders_with_ai_amas/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[The Sirius Model IIe 通过此功能，您可以更改系统消息以更改其推理方式。  其工作原理：它向 GPT-4o mini 的发生发送带有“主”系统消息的用户提示。它从以插槽 1 开始的插槽之一添加系统消息的第二部分，然后实例提供响应。在响应的末尾，它可以调用另一个推理“插槽”（通常是插槽 2），从而它再次使用主系统消息和“插槽 2”中的子系统消息提示 API 服务器，并且它还读取消息中的先前上下文，然后提供响应，依此类推。直到它达到六个推理步骤或提供解决方案。 至少我认为它就是这样工作的。你可以让它以不同的方式工作。 有人有任何提示来测试它是否比标准 4o-mini 推理得更好吗？    提交人    /u/rutan668   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghlfzq/you_can_make_your_own_reasoning_model_with_o1/</guid>
       <pubDate>Sat, 02 Nov 2024 01:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</link>
-      <description><![CDATA[我是一名高中老师，对人工智能几乎一无所知。 周一我们将进行一场相当奢华的模拟选举，我真的很想制作简短的人工智能视频，让特朗普和哈里斯都谈谈我们学校选举的结果，这样就可以在一天结束时播放给我们的学生。 我已经找到了一些非常用户友好的应用程序，可以让我制作特朗普视频，但我找不到哈里斯的视频。有些应用程序不让我看到可用的名人，直到我支付 20 美元注册。 如果有人能给我指出一个应用程序的方向，让我在几乎不需要用户专业知识的情况下做到这一点，我将不胜感激。    提交人    /u/LonelyAsLostKeys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ghiyqo/noob_question/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:26:28 GMT</pubDate>
     </item>
     <item>
       <title>Perplexity Pro 搜索不一致？</title>
