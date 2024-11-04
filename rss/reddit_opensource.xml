@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:20:13 GMT</lastBuildDate>
+    <item>
+      <title>[新工具] 面向科学爱好者的开源洲际弹道导弹弹道模拟器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gjadh4/new_tool_open_source_icbm_trajectory_simulator/</link>
+      <description><![CDATA[大家好 r/opensource， 我最近开发了一款名为 ICBM Simulator 的基本工具，我想与社区分享。这款开源模拟器可让您从科学角度探索洲际弹道导弹 (ICBM) 的轨迹。 关于该工具： 该模拟器非常简单 - 它允许您输入一些基本的发射参数，并查看 ICBM 如何穿越大气层并沿着其轨迹飞行。虽然它并不是很先进，但对于任何对导弹弹道背后的基础科学感兴趣的人来说，它都是一个坚实的起点。 您可以做什么：  基本弹道模拟：根据简单的输入参数可视化导弹的飞行路径。 影响估计：根据弹道大致了解导弹可能降落的位置。 教育目的：此工具纯粹用于科学好奇心和有关导弹弹道的学习。  我为什么制作它： 我创建这个模拟器是为了帮助人们了解导弹弹道的基本原理，而又不会太过技术性。无论您是学生、教育工作者，还是只是对这些东西的工作原理感到好奇，我都希望您会觉得它很有趣。 开源和欢迎反馈： 该项目是完全开源的，因此欢迎任何有兴趣贡献、探索或修改它的人这样做。查看 GitHub 上的源代码：GitHub 上的 ICBM 模拟器。我仍在努力改进，所以我很乐意听到任何反馈或建议！如果您有想法让它更有用或更有教育意义，请告诉我。 在 icbmsimulator.com 上查看并告诉我您的想法。    由   提交 /u/dimo_dbx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gjadh4/new_tool_open_source_icbm_trajectory_simulator/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>用我的基于 esp32 的开源/高分辨率显示器 Matouch 1.8' 制作了一个漂亮的 ui，想与大家分享</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gja77t/with_my_open_source_high_resolution_display/</link>
+      <description><![CDATA[众所周知，Squareline Studio 可以轻松创建漂亮的 UI 界面。我们的团队发现，将 Squareline Studio 和 LVGL 与我们的 MATOUCH 1.8&#39; 结合使用，可以以非常简单的方式创建一个非常漂亮的 UI 界面，所以我们做了这个项目，现在我们与大家分享。  我们已经在这里分享了该过程的详细信息，我们使用 Squareline 通过 Arduino 设计和编程界面，所以如果你有兴趣，请查看，我们还制作了一个视频来解释它。 什么是 Matouch 1.8&#39;： MaTouch ESP32-S3 AMOLED with Touch 1.8&#39;&#39; FT3168 是一款采用 ESP32S3 芯片和内置 Wi-Fi 功能的高清显示和触摸功能产品。它配备了 1.8 英寸 AMOLED 屏幕，具有出色的高对比度和色彩饱和度，可以呈现更清晰、更生动的图像。它专为需要灵活、美观的用户界面的应用而设计。此外，该产品还集成了 FT3168 触摸芯片，增强了用户体验。 特点：  - 控制器：ESP32-S3(R8) - 无线：WiFi&amp;蓝牙 5.0  - 分辨率：1.8 英寸，368*448  - 显示驱动器 IC：SH8601 - 显示接口：SPI 3 线 / QSPI - 驱动模式：有源矩阵。 - 色彩模式：全彩（16.7M 色） - 触摸驱动器 IC：FT3168 - 触摸接口：IIC [从属地址 A[6:0]---0X38] - 输入：USB Type-C 5V（原生 USB） - 输入电压：3.7V 锂电池 - 输出：2X12 1.27mm 接头 - 按钮：重置、启动和用户按钮 - LED：WS2812 - Arduino 支持：是 - LVGL 支持：是 - 高清显示  此外，Matouch 1.8 的赠品活动目前正在进行中，提供免费礼品。有关更多信息，可以查看这里。 如果您对基于 esp32 的屏幕产品或 Squareline Studio 和 LVGL 项目有任何建议，请随时在评论部分告诉我：）    提交人    /u/Vearts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gja77t/with_my_open_source_high_resolution_display/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:16:17 GMT</pubDate>
+    </item>
     <item>
       <title>抵制人工智能只会适得其反</title>
       <link>https://www.reddit.com/r/opensource/comments/1gj88nu/pushback_against_ai_is_entirely_counterproductive/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨！我目前正在为我的论文开发自己的开源 Doodle 替代品。如果你知道它的一些替代品，比如 Calendly 或 Rallly，那它应该是类似的。 主要的想法是你可以创建带有时间选项的会议投票，也可以创建其他一些选项，比如投票决定你想在哪里开会或会议应该是什么主题。我目前正在开发 MVP，它将在几周后上市。如果你有兴趣，请给我留言。 你也可以访问 github 存储库：https://github.com/Karur0su2024/MeetVote 我也需要公众意见，所以如果你能抽出 2 分钟时间，我希望得到一些回应。非常感谢。 https://docs.google.com/forms/d/e/1FAIpQLSfh5UyxodQPCsqY1yQWfPYzK_PKpqQLd0ILbKrlJDLQ1-BbKw/v​​iewform?usp=sf_link    提交人    /u/Karurosu2024   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gij6xf/opensource_doodle_alternative_as_project_for_my/</guid>
       <pubDate>Sun, 03 Nov 2024 09:33:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以改变 pdf 文本颜色和背景颜色（不改变图像颜色）？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1giipz8/is_there_any_way_to_change_pdf_text_colour_and/</link>
-      <description><![CDATA[颜色更改应针对 pdf 文件本身，而不仅限于特定应用程序    提交人    /u/ATS_4pc   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1giipz8/is_there_any_way_to_change_pdf_text_colour_and/</guid>
-      <pubDate>Sun, 03 Nov 2024 08:57:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>datamule：花费几美元构建昂贵的财务数据集（Gemini 结构化输出）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gii2yy/datamule_construct_expensive_financial_datasets/</link>
-      <description><![CDATA[大家好，我编写了一个软件包，可以从 SEC 文件中下载、解析和创建结构化数据集。这样做的一个很酷的结果是，您现在可以花几美元从文件中创建有趣的数据集。 例如，我的一些研究生朋友想使用董事会进入/退出数据进行研究实验，但数据集的成本为 35,000 美元。使用 SEC 文件，我能够创建一个仅需 5 美元的数据集。警告：它确实需要一些数据整理，但在正确的提示下幻觉不是问题。 安装 pip install datamule[all]  快速入门： import datamule as dm downloader = dm.Downloader() downloader.download(form=&#39;10-K&#39;, ticker=&#39;AAPL&#39;)  链接：GitHub，文档 它确实需要 Gemini API 密钥。我使用了 300 美元的免费试用积分（1500rpm），但完全免费的套餐也适用（15rpm）。    提交人    /u/status-code-200   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gii2yy/datamule_construct_expensive_financial_datasets/</guid>
-      <pubDate>Sun, 03 Nov 2024 08:06:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
