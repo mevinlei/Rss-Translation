@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 04 Nov 2024 06:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 09:13:51 GMT</lastBuildDate>
+    <item>
+      <title>抵制人工智能只会适得其反</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gj88nu/pushback_against_ai_is_entirely_counterproductive/</link>
+      <description><![CDATA[想象一下，领先的人工智能实现在本地运行，可以在自愿众包的用户数据上进行训练，并且是开源的。我们会赞美开源，谴责闭源商业模式无法竞争性地开发软件，并推崇我们的魔法黑匣子作为我们哲学和实践的典范。 许多对人工智能的负面看法是由偶然行为而非固有行为驱动的。碰巧的是，数十亿美元正流入各种新企业。不可避免地，许多开发的软件将是闭源的并远程运行。不可避免地，这些模型训练的大部分数据将来自与大型现有平台达成的数十亿美元的交易。 人工智能和闭源不是同义词。您可能会反对肆意收集用户数据和强制关系，这些关系从用户那里获取数据以开发和销售更多产品。如果没有这些，这种反对与人工智能有什么关系？如果您认为 AI 本质上无法通过开源实践来实现，那么支持创新的道德基础又在哪里呢？当您认为开源无法提供具有竞争力的 AI 或开源无法再自我发展以适应不断变化的形势时，您的信念又在哪里呢？ 允许 OpenAI（可能是这个时代的 AOL）和其他人的偶然实践推动人们对 AI 的看法，只会变成对价值创造的反对。尽管每个人都认为其结果将来自政治进程，但这种价值创造仍将继续，无论任何人对此有何看法。如果您的解决方案是拿走胡萝卜，那么您将拿着大棒。这有什么自由和开放的呢？ 在开源内部领导对 AI 的反对不会损害 AI、AI 的采用，也不会激发更多有效或必要的监管，但它会损害开源。这种观点和反对不仅不会引领开源实践构建的人工智能的开发和采用，反而会使人工智能牢牢地扎根于专有领域，被锁在最大化价值提取和抑制创新的大门后面。 没有人要求任何人热情拥抱炒作周期、大型平台、又一项订阅服务、渲染不佳的手、大规模失业或互联网的热死。但是，当你反对这些事情时，不要不公平地将十字准线对准人工智能本身。 随着人工智能从破解验证码发展到击败李世石，它最终将发展到计算机上可能实现的任何事物，无论是生物实现的还是数字实现的。问题是它是开放的，还是所有人都生活在 Snazzy Inc 公司园区内巨大、华丽的玻璃光明会金字塔内，一边向我们推销 AI Turbo Tax，一边游说制定更复杂的税法。 最后，有些人会说他们厌倦了听到有关人工智能的消息。在 90 年代，有些人厌倦了听到有关互联网的消息。你最好习惯它。与加密货币不同，加密货币几乎无法提供比低摩擦支付轨道、P2P 软件基础设施和大量可笑骗局更多的东西，而人工智能正在接受信用卡刷卡，因为人们想要它。它已经跨越了任何理智的人认为的大规模采用的门槛。只需拨动你大脑中控制你对即将发生的事情的理解的开关。开始弄清楚如何与之共存。 我以强有力的方式提出一个论点，因为我相信这种对话没有进行，我们有太多内向、自我强化的文化在发挥作用，必须以一种挑衅的方式来面对它，以提供反思的机会。我欢迎热情的回复。但是，你应该提出自己的观点，而不要觉得受到严厉的评判。   由    /u/Psionikus  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gj88nu/pushback_against_ai_is_entirely_counterproductive/</guid>
+      <pubDate>Mon, 04 Nov 2024 06:42:57 GMT</pubDate>
+    </item>
     <item>
       <title>dperf：基于 DPDK 的超高性能 HTTP 客户端/服务器，用于负载测试</title>
       <link>https://www.reddit.com/r/opensource/comments/1gj7f4z/dperf_a_super_high_performance_http_clientserver/</link>
       <description><![CDATA[        由    /u/Electrical-Wear773   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gj7f4z/dperf_a_super_high_performance_http_clientserver/</guid>
       <pubDate>Mon, 04 Nov 2024 05:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个开源声明性框架来构建 LLM 应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gj3dng/i_created_an_opensource_declarative_framework_to/</link>
-      <description><![CDATA[我一直在构建基于 LLM 的应用程序，对所有主要框架（langchain、autogen、crewAI 等）都感到非常沮丧。它们似乎还引入了一堆不必要的抽象。即使是非常简单的东西，也很难理解幕后发生了什么。 所以我刚刚发布了这个开源框架 GenSphere。您可以使用定义执行图的 yaml 文件构建 LLM 应用程序。节点可以是 LLM API 调用、常规函数执行或其他图本身。因为您可以轻松嵌套图，所以构建复杂的应用程序不是问题，但同时您不会失去控制。 您基本上用 yaml 编写代码，说明需要完成的任务是什么以及它们如何连接。除此之外，您只需编写在执行期间调用的单个 Python 函数。无需学习新的类和抽象。 它都是开源的。很乐意听取您的想法。如果您想做出贡献，请联系我们，有很多事情要做！    提交人    /u/Jazzlike_Tooth929   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gj3dng/i_created_an_opensource_declarative_framework_to/</guid>
-      <pubDate>Mon, 04 Nov 2024 01:52:20 GMT</pubDate>
     </item>
     <item>
       <title>LinkLoom：Linktree 克隆版，可以作为 Docker 服务托管，也可以通过 GitHub Pages 托管</title>
