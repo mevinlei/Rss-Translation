@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 05 Nov 2024 03:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:14:58 GMT</lastBuildDate>
+    <item>
+      <title>版本控制策略详解：从 SemVer 到 CalVer 及后续版本。您应该选择哪一个？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gk03bb/versioning_strategies_explained_semver_to_calver/</link>
+      <description><![CDATA[  由    /u/apalshah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gk03bb/versioning_strategies_explained_semver_to_calver/</guid>
+      <pubDate>Tue, 05 Nov 2024 05:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 种行之有效的方法来加速 VS Code 中的 Prettier 保存格式化</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjzy11/5_proven_ways_to_speed_up_prettier_formatonsave/</link>
+      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjzy11/5_proven_ways_to_speed_up_prettier_formatonsave/</guid>
+      <pubDate>Tue, 05 Nov 2024 05:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>去年，98% 的公司经历了机器学习项目失败，主要原因是数据清理不善和性价比不佳</title>
+      <link>https://www.reddit.com/r/programming/comments/1gjxd0q/98_of_companies_experienced_ml_project_failures/</link>
+      <description><![CDATA[  由    /u/Some-Technology4413  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gjxd0q/98_of_companies_experienced_ml_project_failures/</guid>
+      <pubDate>Tue, 05 Nov 2024 03:20:21 GMT</pubDate>
+    </item>
     <item>
       <title>编写设计文档的原因</title>
       <link>https://www.reddit.com/r/programming/comments/1gjx4r4/reasons_to_write_design_docs/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[这是我的第一个项目，如果您觉得它有用或者有要求，请告诉我您的想法    提交人    /u/UnclearMango5534   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gjipkp/made_a_python_poker_projectbaseintermediate_level/</guid>
       <pubDate>Mon, 04 Nov 2024 16:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 23：有什么新功能？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gjif8u/java_23_whats_new/</link>
-      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gjif8u/java_23_whats_new/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:29:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>无服务器和事件驱动解决方案的创新 • Ben Ellerby 和 Julian Wood</title>
-      <link>https://www.reddit.com/r/programming/comments/1gji062/innovations_in_serverless_eventdriven_solutions/</link>
-      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gji062/innovations_in_serverless_eventdriven_solutions/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计 JetBrains 编码的未来。JetBrains 的研究团队旨在设计 AI 驱动软件开发的未来蓝图。我们相信，这将使我们能够创建一类全新的开发人员工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gjhixz/designing_the_future_of_coding_at_jetbrains_our/</link>
-      <description><![CDATA[  由    /u/movingobserver  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gjhixz/designing_the_future_of_coding_at_jetbrains_our/</guid>
-      <pubDate>Mon, 04 Nov 2024 15:52:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
