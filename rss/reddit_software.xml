@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 09:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 12:18:27 GMT</lastBuildDate>
+    <item>
+      <title>Namecheap 评论 - 我应该使用它吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk4xb2/namecheap_review_should_i_use_it/</link>
+      <description><![CDATA[我在寻求有关 Namecheap 的建议。我有点左右为难，希望你们中一些使用过它的人能帮我。 情况是这样的：我最近开了一家小型在线公司，需要一个可靠的域名注册商和托管服务提供商。我听说 Namecheap 被提及了很多次，尤其是域名注册，但我想知道它是否也是其他所有事情的正确选择，比如托管。我真的需要易用性和可靠的客户支持。 我也想避免花太多钱，所以价格肯定是一个因素。 这里有人用过 Namecheap 进行域名注册和托管吗？我很想听听你对他们的服务、正常运行时间、客户支持的体验，以及我应该知道的任何隐藏费用。如果有更好的选择，我愿意听取建议。 你会向刚刚开始在线业务的初学者推荐 Namecheap 吗，还是我应该去别处看看？任何见解、优点和缺点都会非常有帮助。    提交人    /u/TheStarchLord   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk4xb2/namecheap_review_should_i_use_it/</guid>
+      <pubDate>Tue, 05 Nov 2024 11:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>wiki.bash-hackers.org 的存档</title>
+      <link>https://www.reddit.com/r/software/comments/1gk3ohs/archive_of_wikibashhackersorg/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk3ohs/archive_of_wikibashhackersorg/</guid>
+      <pubDate>Tue, 05 Nov 2024 10:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的 WordPress 托管服务？</title>
+      <link>https://www.reddit.com/r/software/comments/1gk2nqy/best_wordpress_hosting_services/</link>
+      <description><![CDATA[我在 Reddit 上看到了一些关于最佳网络主机的讨论，其中一些辩论非常有见地。  但我注意到人们经常推荐的主机并不总是最适合 WordPress 网站。  哪些网络托管公司是最好和最容易使用的，特别是用于使用 WordPress 构建电子商务网站？理想情况下，我正在寻找一些负担得起的东西，最好是共享托管。 WP Engine 似乎是我目前最好的选择    提交人    /u/Adion328   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gk2nqy/best_wordpress_hosting_services/</guid>
+      <pubDate>Tue, 05 Nov 2024 09:11:27 GMT</pubDate>
+    </item>
     <item>
       <title>低成本的网络托管选项？</title>
       <link>https://www.reddit.com/r/software/comments/1gk2joq/low_cost_web_hosting_options/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[有哪些工具可以将 HEVC/H.265 视频重新转换为 HEIF/HEIC 文件？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gjv67v/hevc_to_heif/</guid>
       <pubDate>Tue, 05 Nov 2024 01:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的任何桌面类型应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1gjsl3p/free_anydesk_type_app/</link>
-      <description><![CDATA[我正在寻找 anydesk 的免费（或更便宜）类似物，请给我一些建议    提交人    /u/kirkiimad123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjsl3p/free_anydesk_type_app/</guid>
-      <pubDate>Mon, 04 Nov 2024 23:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Okta 漏洞可能允许身份验证绕过，但有一个问题</title>
-      <link>https://www.reddit.com/r/software/comments/1gjrs7b/okta_flaw_could_have_allowed_authentication/</link>
-      <description><![CDATA[  由    /u/KingSash  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjrs7b/okta_flaw_could_have_allowed_authentication/</guid>
-      <pubDate>Mon, 04 Nov 2024 22:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于计时器的程序请求</title>
-      <link>https://www.reddit.com/r/software/comments/1gjqd7g/request_for_timerbased_program/</link>
-      <description><![CDATA[我正在寻找一个可以设置计时器的程序，我的显示器的显示会随着时间而变化 - 类似于 f.lux，但不基于太阳。我想象的是，它会在几个小时内逐渐使我的显示器变灰，但这不是严格要求；我需要的是，它会逐渐改变我的显示，以一种明显的方式，而不会干扰我正在做的事情。有什么想法吗？    提交人    /u/templar1138   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gjqd7g/request_for_timerbased_program/</guid>
-      <pubDate>Mon, 04 Nov 2024 21:51:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
