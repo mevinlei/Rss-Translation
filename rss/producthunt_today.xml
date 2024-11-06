@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 00:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 03:14:23 GMT</lastBuildDate>
     <item>
       <title>分析模型</title>
       <link>https://www.producthunt.com/posts/analytics-model</link>
@@ -23,7 +23,7 @@ AI分析，问任何问题都可以立即分析
       <title>Getaway.direct</title>
       <link>https://www.producthunt.com/posts/getaway-direct</link>
       <description><![CDATA[
-告别 Airbnb 费用，直接通过链接预订
+告别 Airbnb 费用，通过直接链接预订
 
 
 讨论
@@ -76,21 +76,7 @@ AI分析，问任何问题都可以立即分析
       <pubDate>Mon, 04 Nov 2024 21:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>MyBaby.help</title>
-      <link>https://www.producthunt.com/posts/mybaby-help</link>
-      <description><![CDATA[
-即时育儿助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/mybaby-help</guid>
-      <pubDate>Mon, 04 Nov 2024 14:32:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>神奇儿童书</title>
+      <title>神奇的儿童书</title>
       <link>https://www.producthunt.com/posts/magical-children-s-book</link>
       <description><![CDATA[
 创建个性化儿童读物
@@ -107,7 +93,7 @@ AI分析，问任何问题都可以立即分析
       <title>出售</title>
       <link>https://www.producthunt.com/posts/sellraze</link>
       <description><![CDATA[
-最快捷、最全面的在线销售工具。
+最快捷的一体化在线销售工具。
 
 
 讨论
@@ -146,10 +132,10 @@ AI分析，问任何问题都可以立即分析
       <pubDate>Thu, 31 Oct 2024 22:27:48 GMT</pubDate>
     </item>
     <item>
-      <title>卡克罗拉</title>
+      <title>卡克鲁拉</title>
       <link>https://www.producthunt.com/posts/kakrola</link>
       <description><![CDATA[
-停止标签马戏团
+结束标签马戏团
 
 
 讨论
@@ -186,6 +172,20 @@ AI分析，问任何问题都可以立即分析
 ]]></description>
       <guid>https://www.producthunt.com/posts/listy-2</guid>
       <pubDate>Fri, 18 Oct 2024 11:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尔塔 2.0</title>
+      <link>https://www.producthunt.com/posts/alta-2-0</link>
+      <description><![CDATA[
+您的强大写作伙伴
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/alta-2-0</guid>
+      <pubDate>Fri, 18 Oct 2024 08:24:33 GMT</pubDate>
     </item>
     <item>
       <title>MindOne 构建器</title>

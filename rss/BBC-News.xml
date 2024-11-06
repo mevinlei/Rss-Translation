@@ -4,13 +4,69 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 06 Nov 2024 00:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 03:14:59 GMT</lastBuildDate>
     <item>
-      <title>出口民意调查：美国选民将民主和经济列为首要问题</title>
-      <link>https://www.bbc.com/news/articles/c0lp48ldgyeo</link>
-      <description><![CDATA[自2008年以来，经济问题一直是历届总统选举中选民最关心的议题。]]></description>
-      <guid>https://www.bbc.com/news/articles/c0lp48ldgyeo</guid>
-      <pubDate>Wed, 06 Nov 2024 00:38:57 GMT</pubDate>
+      <title>Christian Fraser 观察现状</title>
+      <link>https://www.bbc.com/news/videos/cx2n4nkz4wpo</link>
+      <description><![CDATA[我们很快就会知道结果吗？哪个州将成为决定性选票？以下是本次美国大选可能出现的情况。]]></description>
+      <guid>https://www.bbc.com/news/videos/cx2n4nkz4wpo</guid>
+      <pubDate>Wed, 06 Nov 2024 03:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>佛罗里达州选民以微弱优势否决堕胎权法案</title>
+      <link>https://www.bbc.com/news/articles/c36pxnj01xgo</link>
+      <description><![CDATA[在佛罗里达州，一项恢复堕胎权的提案未能获得通过所需的 60% 支持率。]]></description>
+      <guid>https://www.bbc.com/news/articles/c36pxnj01xgo</guid>
+      <pubDate>Wed, 06 Nov 2024 02:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者等待结果，亚洲股市涨跌互现</title>
+      <link>https://www.bbc.com/news/articles/c6246e3w935o</link>
+      <description><![CDATA[投资者还关注美国央行利率决定和中国经济的重要公告。]]></description>
+      <guid>https://www.bbc.com/news/articles/c6246e3w935o</guid>
+      <pubDate>Wed, 06 Nov 2024 02:58:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthony Zurcher：我目前看到的结果</title>
+      <link>https://www.bbc.com/news/articles/cr4lwlpx3wxo</link>
+      <description><![CDATA[特朗普在农村地区的表现比 2020 年更好，而哈里斯在郊区选民中尚未表现出明显改善。]]></description>
+      <guid>https://www.bbc.com/news/articles/cr4lwlpx3wxo</guid>
+      <pubDate>Wed, 06 Nov 2024 02:54:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>内塔尼亚胡解雇国防部长后，以色列爆发抗议活动</title>
+      <link>https://www.bbc.com/news/articles/cqj07jdzzgno</link>
+      <description><![CDATA[本雅明·内塔尼亚胡表示，他和约阿夫·加兰特之间存在“信任危机”，并由以色列·卡茨取代他。]]></description>
+      <guid>https://www.bbc.com/news/articles/cqj07jdzzgno</guid>
+      <pubDate>Wed, 06 Nov 2024 01:55:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>共和党在初步计票结果中进一步接近参议院多数席位</title>
+      <link>https://www.bbc.com/news/articles/cwygr9wzxy2o</link>
+      <description><![CDATA[预计现任西弗吉尼亚州州长吉姆·贾斯蒂斯 (Jim Justice) 将赢得前民主党人乔·曼钦 (Joe Manchin) 空出的参议院席位。]]></description>
+      <guid>https://www.bbc.com/news/articles/cwygr9wzxy2o</guid>
+      <pubDate>Wed, 06 Nov 2024 01:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>“每次经过达特福德十字路口，都会有法警来到我家门口”</title>
+      <link>https://www.bbc.com/news/articles/c7v62v266q6o</link>
+      <description><![CDATA[据了解，自 2019 年以来，Dart Charge 法警已收取了近 1.12 亿英镑。]]></description>
+      <guid>https://www.bbc.com/news/articles/c7v62v266q6o</guid>
+      <pubDate>Wed, 06 Nov 2024 01:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们什么时候才能知道谁赢了？</title>
+      <link>https://www.bbc.com/news/articles/cde7ng85jwgo</link>
+      <description><![CDATA[一旦周二投票结束，获胜者可能要等上几个小时、几天甚至几周才能确定。]]></description>
+      <guid>https://www.bbc.com/news/articles/cde7ng85jwgo</guid>
+      <pubDate>Wed, 06 Nov 2024 01:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>“希望与恐惧”和“大麻烦”</title>
+      <link>https://www.bbc.com/news/articles/c8jy1l4940mo</link>
+      <description><![CDATA[美国总统大选占据了周三各大媒体的头版，全世界都在等待着知道最终结果。]]></description>
+      <guid>https://www.bbc.com/news/articles/c8jy1l4940mo</guid>
+      <pubDate>Wed, 06 Nov 2024 00:51:58 GMT</pubDate>
     </item>
     <item>
       <title>警告数百万人将难以支付上涨的水费</title>
@@ -20,60 +76,11 @@
       <pubDate>Wed, 06 Nov 2024 00:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>禁止警察局拘留精神病患者的法案</title>
+      <title>禁止警察局精神病拘留的法案</title>
       <link>https://www.bbc.com/news/articles/c78d02zm3yno</link>
       <description><![CDATA[此举是英格兰和威尔士对数十年历史的精神健康立法进行改革的一部分。]]></description>
       <guid>https://www.bbc.com/news/articles/c78d02zm3yno</guid>
       <pubDate>Wed, 06 Nov 2024 00:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>熬夜？以下是你需要知道的一切</title>
-      <link>https://www.bbc.com/news/articles/clyvr5k4epdo</link>
-      <description><![CDATA[在一场极其激烈的竞争之后，以下是我们可能会在一夜之间了解到也可能不会了解到的事情。]]></description>
-      <guid>https://www.bbc.com/news/articles/clyvr5k4epdo</guid>
-      <pubDate>Tue, 05 Nov 2024 23:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们什么时候才能知道谁赢了？</title>
-      <link>https://www.bbc.com/news/articles/cde7ng85jwgo</link>
-      <description><![CDATA[一旦周二投票结束，获胜者可能要等上几个小时、几天甚至几周才能确定。]]></description>
-      <guid>https://www.bbc.com/news/articles/cde7ng85jwgo</guid>
-      <pubDate>Tue, 05 Nov 2024 23:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>香烟和巧克力如何帮助应对结核病流行</title>
-      <link>https://www.bbc.com/news/articles/cyv7e9mery2o</link>
-      <description><![CDATA[1957年，格拉斯哥的肺结核死亡率居欧洲首位，因此卫生官员为接受X光检查的人提供免费抽奖。]]></description>
-      <guid>https://www.bbc.com/news/articles/cyv7e9mery2o</guid>
-      <pubDate>Tue, 05 Nov 2024 22:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列总理内塔尼亚胡解雇国防部长加兰特</title>
-      <link>https://www.bbc.com/news/articles/cqj07jdzzgno</link>
-      <description><![CDATA[本雅明·内塔尼亚胡表示，他和加兰特之间存在“信任危机”，并已任命以色列·卡茨取代他。]]></description>
-      <guid>https://www.bbc.com/news/articles/cqj07jdzzgno</guid>
-      <pubDate>Tue, 05 Nov 2024 22:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>佐治亚州摇摆州选民的感受</title>
-      <link>https://www.bbc.com/news/videos/c9wr1kl85l8o</link>
-      <description><![CDATA[在我们与当地选民进行交谈的战场州，特朗普和哈里斯势均力敌。]]></description>
-      <guid>https://www.bbc.com/news/videos/c9wr1kl85l8o</guid>
-      <pubDate>Tue, 05 Nov 2024 22:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯选举之夜返回母校霍华德大学</title>
-      <link>https://www.bbc.com/news/articles/cx2n4g86dw9o</link>
-      <description><![CDATA[这位民主党候选人与她在 1980 年代就读的历史悠久的黑人大学保持着联系。]]></description>
-      <guid>https://www.bbc.com/news/articles/cx2n4g86dw9o</guid>
-      <pubDate>Tue, 05 Nov 2024 21:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克将与唐纳德·特朗普一起观看选举结果</title>
-      <link>https://www.bbc.com/news/articles/c9dlg1v7jevo</link>
-      <description><![CDATA[特朗普此前表示，他将在佛罗里达州的海湖庄园接待“一群非常特别的人”。]]></description>
-      <guid>https://www.bbc.com/news/articles/c9dlg1v7jevo</guid>
-      <pubDate>Tue, 05 Nov 2024 21:41:39 GMT</pubDate>
     </item>
     <item>
       <title>以色列深入黎巴嫩山谷，造成混乱和破坏</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[这位患有晚期癌症的奥运自行车冠军希望更多年轻男性接受检查。]]></description>
       <guid>https://www.bbc.com/news/articles/cpqde80r0g8o</guid>
       <pubDate>Tue, 05 Nov 2024 14:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>慈善工作者帮助女子 30 年后找到父亲</title>
-      <link>https://www.bbc.com/news/articles/cgl4endggj5o</link>
-      <description><![CDATA[在一位好心人的帮助下，米卡·阿普·埃利斯找到了流落街头 30 年的父亲。]]></description>
-      <guid>https://www.bbc.com/news/articles/cgl4endggj5o</guid>
-      <pubDate>Tue, 05 Nov 2024 12:06:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
