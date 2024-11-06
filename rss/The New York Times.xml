@@ -4,13 +4,62 @@
     <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 12:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 14:59:02 GMT</lastBuildDate>
     <item>
-      <title>美国聘请了一位强人</title>
+      <title>特朗普赢得总统大选后股市和美元上涨</title>
+      <link>https://www.nytimes.com/2024/11/05/business/election-stock-markets.html</link>
+      <description><![CDATA[随着唐纳德·J·特朗普宣布获胜，比特币创下历史新高，特斯拉股价飙升，全球各大市场均出现大幅波动。]]></description>
+      <guid>https://www.nytimes.com/2024/11/05/business/election-stock-markets.html</guid>
+      <pubDate>Wed, 06 Nov 2024 14:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>内塔尼亚胡解雇加兰特，消除了一个威胁，但又冒着另一个威胁的风险</title>
+      <link>https://www.nytimes.com/2024/11/06/world/middleeast/gallant-netanyahu-israel-defense-minister.html</link>
+      <description><![CDATA[即将离任的国防部长约阿夫·加兰特在关键政策上与总理本雅明·内塔尼亚胡持相反意见。他的免职引发了公众的不满。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/world/middleeast/gallant-netanyahu-israel-defense-minister.html</guid>
+      <pubDate>Wed, 06 Nov 2024 14:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管特朗普难以预测，以色列官员仍欢迎他的胜利</title>
+      <link>https://www.nytimes.com/2024/11/06/world/middleeast/trump-netanyahu-israel.html</link>
+      <description><![CDATA[以色列总理本雅明内塔尼亚胡领导的右翼政府相信，特朗普政府将允许其以有利的条件结束战争。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/world/middleeast/trump-netanyahu-israel.html</guid>
+      <pubDate>Wed, 06 Nov 2024 14:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普击败哈里斯赢得 2024 年总统大选</title>
+      <link>https://www.nytimes.com/2024/11/06/us/politics/trump-wins-presidency.html</link>
+      <description><![CDATA[他利用人们对移民的恐惧和对经济的担忧击败了副总统卡马拉·哈里斯。他的胜利标志着孤立主义、全面关税和清算的到来。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/us/politics/trump-wins-presidency.html</guid>
+      <pubDate>Wed, 06 Nov 2024 13:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>共和党控制参议院</title>
+      <link>https://www.nytimes.com/2024/11/05/us/politics/republicans-senate-control.html</link>
+      <description><![CDATA[在赢得西弗吉尼亚州、俄亥俄州和蒙大拿州的席位，并在内布拉斯加州出人意料地险胜后，共和党获得了多数席位。摇摆州的激烈竞争将决定他们的胜负。]]></description>
+      <guid>https://www.nytimes.com/2024/11/05/us/politics/republicans-senate-control.html</guid>
+      <pubDate>Wed, 06 Nov 2024 13:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普要求权力。选民说可以。</title>
       <link>https://www.nytimes.com/2024/11/06/us/politics/trump-election-analysis.html</link>
-      <description><![CDATA[这不是用武力征服国家，而是用许可证征服国家。现在，美国正处在其 248 年历史上前所未有的独裁统治方式的边缘。]]></description>
+      <description><![CDATA[这不是武力征服国家，而是获得许可。如今，美国正处在其 248 年历史上前所未有的独裁统治的边缘。]]></description>
       <guid>https://www.nytimes.com/2024/11/06/us/politics/trump-election-analysis.html</guid>
-      <pubDate>Wed, 06 Nov 2024 11:58:29 GMT</pubDate>
+      <pubDate>Wed, 06 Nov 2024 12:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普如何重掌大权</title>
+      <link>https://www.nytimes.com/2024/11/06/us/politics/trump-won-arc.html</link>
+      <description><![CDATA[1 月 6 日国会大厦遭袭后，甚至许多共和党人都认为这位前总统的政治生涯已经结束。但他用实际证明了所有人的判断都是错的。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/us/politics/trump-won-arc.html</guid>
+      <pubDate>Wed, 06 Nov 2024 12:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普如何再次获胜</title>
+      <link>https://www.nytimes.com/2024/11/06/upshot/trump-election-victory.html</link>
+      <description><![CDATA[他在全国各地和几乎所有人口群体中都取得了进展。]]></description>
+      <guid>https://www.nytimes.com/2024/11/06/upshot/trump-election-victory.html</guid>
+      <pubDate>Wed, 06 Nov 2024 12:37:56 GMT</pubDate>
     </item>
     <item>
       <title>特朗普击败哈里斯重夺总统职位</title>
@@ -20,53 +69,18 @@
       <pubDate>Wed, 06 Nov 2024 11:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>尽管特朗普表现不可预测，以色列官员仍欢迎他的胜利</title>
-      <link>https://www.nytimes.com/live/2024/11/06/world/israel-gaza-iran-lebanon/trump-israel-netanyahu</link>
-      <description><![CDATA[以色列总理本雅明内塔尼亚胡领导的右翼政府相信，特朗普政府将允许其以有利的条件结束战争。]]></description>
-      <guid>https://www.nytimes.com/live/2024/11/06/world/israel-gaza-iran-lebanon/trump-israel-netanyahu</guid>
-      <pubDate>Wed, 06 Nov 2024 11:36:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>希伊在蒙大拿州击败泰斯特，扩大共和党在参议院的多数席位</title>
-      <link>https://www.nytimes.com/2024/11/06/us/elections/montana-senate-tester-sheehy.html</link>
-      <description><![CDATA[共和党富商蒂姆·希伊在竞选期间饱受争议。但民主党参议员乔恩·泰斯特却无法逃脱他所在的深红州的人口结构变化。]]></description>
-      <guid>https://www.nytimes.com/2024/11/06/us/elections/montana-senate-tester-sheehy.html</guid>
-      <pubDate>Wed, 06 Nov 2024 11:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普重返白宫之夜的 10 个要点</title>
+      <title>特朗普在 2024 年选举之夜击败哈里斯的 10 个要点</title>
       <link>https://www.nytimes.com/2024/11/06/us/politics/election-takeaways-trump-harris.html</link>
       <description><![CDATA[美国的民主将再次受到考验，其政府将急剧转向右翼。卡马拉·哈里斯和民主党在全国遭遇惨败。]]></description>
       <guid>https://www.nytimes.com/2024/11/06/us/politics/election-takeaways-trump-harris.html</guid>
-      <pubDate>Wed, 06 Nov 2024 11:18:43 GMT</pubDate>
+      <pubDate>Wed, 06 Nov 2024 11:18:44 GMT</pubDate>
     </item>
     <item>
       <title>特朗普胜选将预示乌克兰战争将发生转变。但尚不清楚具体会如何。</title>
       <link>https://www.nytimes.com/2024/11/06/world/europe/trump-ukraine-war-us.html</link>
       <description><![CDATA[作为美国总统，唐纳德·J·特朗普将继承乌克兰主要援助者的角色。但他对继续向基辅提供援助持怀疑态度。]]></description>
       <guid>https://www.nytimes.com/2024/11/06/world/europe/trump-ukraine-war-us.html</guid>
-      <pubDate>Wed, 06 Nov 2024 11:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界对唐纳德·特朗普赢得美国总统大选的反应</title>
-      <link>https://www.nytimes.com/2024/11/06/world/asia/world-reactions-trump-win.html</link>
-      <description><![CDATA[唐纳德·J·特朗普表示，他将改变美国与盟友和对手的关系。值得注意的是，他承诺在 24 小时内结束乌克兰战争、提高关税并驱逐数百万人。]]></description>
-      <guid>https://www.nytimes.com/2024/11/06/world/asia/world-reactions-trump-win.html</guid>
-      <pubDate>Wed, 06 Nov 2024 11:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>内塔尼亚胡解雇加兰特，消除了一个威胁，但又冒着另一个威胁的风险</title>
-      <link>https://www.nytimes.com/2024/11/06/world/middleeast/gallant-netanyahu-israel-defense-minister.html</link>
-      <description><![CDATA[即将离任的国防部长约阿夫·加兰特曾在关键政策上与总理本雅明·内塔尼亚胡对立。他的解职虽然让对手少了一个，但却引发了公众的不满。]]></description>
-      <guid>https://www.nytimes.com/2024/11/06/world/middleeast/gallant-netanyahu-israel-defense-minister.html</guid>
-      <pubDate>Wed, 06 Nov 2024 10:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普如何重掌大权</title>
-      <link>https://www.nytimes.com/2024/11/06/us/politics/trump-won-arc.html</link>
-      <description><![CDATA[1 月 6 日国会大厦遭袭后，甚至许多共和党人都认为这位前总统的政治生涯已经结束。但他用实际证明了所有人的判断都是错的。]]></description>
-      <guid>https://www.nytimes.com/2024/11/06/us/politics/trump-won-arc.html</guid>
-      <pubDate>Wed, 06 Nov 2024 10:47:31 GMT</pubDate>
+      <pubDate>Wed, 06 Nov 2024 11:18:44 GMT</pubDate>
     </item>
     <item>
       <title>JD Vance 将成为美国最年轻的副总统之一</title>
@@ -74,20 +88,6 @@
       <description><![CDATA[万斯的胜利标志着他从反特朗普作家到支持特朗普参议员的意识形态转变。]]></description>
       <guid>https://www.nytimes.com/2024/11/06/us/politics/jd-vance-wins-vp.html</guid>
       <pubDate>Wed, 06 Nov 2024 10:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普击败哈里斯赢得 2024 年总统大选</title>
-      <link>https://www.nytimes.com/2024/11/06/us/politics/trump-wins-presidency.html</link>
-      <description><![CDATA[他利用人们对移民的恐惧和对经济的担忧击败了副总统卡马拉·哈里斯。他的胜利标志着孤立主义、全面关税和清算的到来。]]></description>
-      <guid>https://www.nytimes.com/2024/11/06/us/politics/trump-wins-presidency.html</guid>
-      <pubDate>Wed, 06 Nov 2024 10:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党控制参议院</title>
-      <link>https://www.nytimes.com/2024/11/05/us/politics/republicans-senate-control.html</link>
-      <description><![CDATA[在赢得西弗吉尼亚州和俄亥俄州的席位，并在内布拉斯加州出人意料地险胜后，共和党已获得足够多数席位。摇摆州的激烈竞争将决定他们的胜负。]]></description>
-      <guid>https://www.nytimes.com/2024/11/05/us/politics/republicans-senate-control.html</guid>
-      <pubDate>Wed, 06 Nov 2024 07:01:35 GMT</pubDate>
     </item>
     <item>
       <title>安迪·金在新泽西州获胜，成为首位韩裔美国参议员</title>
