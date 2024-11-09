@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Nov 2024 00:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 03:15:45 GMT</lastBuildDate>
+    <item>
+      <title>修复一个大项目是一项招聘测试吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gmy4dh/is_fixing_a_big_project_a_hiring_test/</link>
+      <description><![CDATA[所以我得到了这份工作机会，面试官问了我一些问题，都很正常，谈到了他们正在尝试开发的项目。 然后他让我做一个“招聘测试”，他给我发了一个 Git 存储库让我克隆，并说“修复当前失败的代码”，没有说它是什么，我克隆了它，令人惊讶的是，这是他之前谈论的同一个项目。 根据我的经验，在以前与其他公司的面试中，当我问 XYZ 的问题是什么时，我总是得到非常积极的反馈，在这次面试中我问了同样的事情，得到的只是一个简单的“不”，没有任何理由。 我拒绝了，在我看来，他想获得一些免费劳动力。    提交人    /u/Otaxhu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gmy4dh/is_fixing_a_big_project_a_hiring_test/</guid>
+      <pubDate>Sat, 09 Nov 2024 00:55:53 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 functions.php 删除作者信息和日期类别？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmx8ap/how_remove_author_info_and_date_class_using/</link>
@@ -92,23 +99,16 @@
     <item>
       <title>无论我做什么，我的简单登陆页面都需要 7-11 秒才能实现 FCP，因为我的图像大小为 44kb。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmpj6h/no_matter_what_i_do_my_simple_landing_page_takes/</link>
-      <description><![CDATA[      我的应用程序是基于 Nuxt 构建的，因为第二阶段包含的开发计划比简单的登录页面更大。 这是我的图像标签：  &lt;img src=&quot;/assets/images/main-bg-300w.webp&quot; srcset=&quot;/assets/images/main-bg-300w.webp 300w, /assets/images/main-bg-800w.webp 800w, /assets/images/main-bg-1200w.webp 1200w&quot; alt=&quot;从机场转机到古道里图像&quot; class=&quot;absolute w-full object-cover rounded-2xl h-[700px]&quot; title=&quot;从机场到古多里的机场出租车服务&quot; height=&quot;700&quot; /&gt;  由于这张图片阻碍了加载时间，我在 Lighthouse 的 SEO 中获得了 55 分，我的页面的 SEO 排名受到了严重影响。 大家有什么建议吗？ https://preview.redd.it/okidbkxc0rzd1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=69699fcb43ce83b1f442666d1d741d5ecffd236f    由   提交  /u/Life_Country_5622   [链接] [评论] ]]></description>
+      <description><![CDATA[      我的应用程序是基于 Nuxt 构建的，因为第二阶段包含的开发计划比简单的登录页面更大。 这是我的图像标签：  &lt;img src=&quot;/assets/images/main-bg-300w.webp&quot; srcset=&quot;/assets/images/main-bg-300w.webp 300w, /assets/images/main-bg-800w.webp 800w, /assets/images/main-bg-1200w.webp 1200w&quot; alt=&quot;从机场转机到古道里图像&quot; class=&quot;absolute w-full object-cover rounded-2xl h-[700px]&quot; title=&quot;从机场到古多里的机场出租车服务&quot; height=&quot;700&quot; /&gt;  由于这张图片阻碍了加载时间，我在 Lighthouse 的 SEO 中获得了 55 分，我的页面的 SEO 排名受到了严重影响。 大家有什么建议吗？ https://preview.redd.it/okidbkxc0rzd1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=69699fcb43ce83b1f442666d1d741d5ecffd236f 性能删除图像并将应用设置为 SSG 后： https://preview.redd.it/m6831mvexrzd1.png?width=874&amp;format=png&amp;auto=webp&amp;s=1eca09b1176add060a8aef8eb2a71f9f749bb037 https://preview.redd.it/awog6lvexrzd1.png?width=874&amp;format=png&amp;auto=webp&amp;s=41562894a31e2350748332168eb3048f7a5f0ea5    提交人    /u/Life_Country_5622   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gmpj6h/no_matter_what_i_do_my_simple_landing_page_takes/</guid>
       <pubDate>Fri, 08 Nov 2024 18:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找有关实现可共享日历的建议？</title>
+      <title>正在寻找有关实施可共享日历的建议？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</link>
       <description><![CDATA[嗨。我想创建一个日历，任何人都可以轻松将其添加到他们的 Google/Apple/Outlook/任何内容中，并在我添加/编辑事件时更新 对于实现此目标的最佳现代标准或方法，您有什么建议吗？我研究过 webcal 协议，但我读到它不是通用兼容的，也听说过 iCalendar.org。 目标是为我所在城市的活动创建一个网站，该网站将从不同的组织/网站进行解析，因为如果您不关注特定的 insta/fb 帐户或不知道他们的网站，就很难知道城里发生了什么    提交人    /u/cutenakedguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</guid>
       <pubDate>Fri, 08 Nov 2024 18:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 207 发行说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmp5ak/release_notes_for_safari_technology_preview_207/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmp5ak/release_notes_for_safari_technology_preview_207/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:16:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
