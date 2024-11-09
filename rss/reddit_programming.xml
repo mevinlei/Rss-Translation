@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 08 Nov 2024 21:09:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 00:44:36 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 羊驼期权交易机器人</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmx0lf/chatgpt_alpaca_option_trading_bot/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmx0lf/chatgpt_alpaca_option_trading_bot/</guid>
+      <pubDate>Sat, 09 Nov 2024 00:01:52 GMT</pubDate>
+    </item>
     <item>
       <title>跟踪“所有 htmx 演示之母”</title>
       <link>https://www.reddit.com/r/programming/comments/1gmrxbs/following_up_mother_of_all_htmx_demos/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[  由    /u/uatec  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gmlxda/i_made_a_tool_to_improve_dev_experience_when/</guid>
       <pubDate>Fri, 08 Nov 2024 16:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔄 语义分块：更智能的文本划分，实现更好的 AI 检索</title>
-      <link>https://www.reddit.com/r/programming/comments/1gmlwi0/semantic_chunking_smarter_text_division_for/</link>
-      <description><![CDATA[📚 语义分块是一种在 RAG 中划分文本的高级方法。它不使用任意的单词/标记/字符计数，而是根据上下文将内容分成有意义的片段。它的工作原理如下：  内容分析 智能分割 上下文嵌入  ✨ 优于传统分块：  保留完整的想法和概念 跨部门维护背景 提高检索准确性 能够更好地处理复杂信息  这种方法可以使 AI 响应更准确、更全面，尤其是对于复杂查询。 有关更多详细信息，请阅读我撰写的完整博客，该博客附在本帖子中。    提交人    /u/Diamant-AI   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gmlwi0/semantic_chunking_smarter_text_division_for/</guid>
-      <pubDate>Fri, 08 Nov 2024 16:01:13 GMT</pubDate>
     </item>
     <item>
       <title>基于单元的架构采用指南</title>
