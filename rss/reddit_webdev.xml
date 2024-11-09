@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Nov 2024 06:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 09:10:08 GMT</lastBuildDate>
+    <item>
+      <title>有关身份验证和 API 密钥的一些问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn666j/some_questions_about_authentication_and_api_keys/</link>
+      <description><![CDATA[请耐心听我解释我的问题和思考过程。 我目前正在和朋友们一起做一个大学项目。它由一个 React Native 应用程序和一个通过 API 连接的 AI 模型组成。 现在我只希望安装了应用程序并登录的人才能访问 API。 我该怎么做？我的答案是为用户创建一个 API 密钥。 那么如何创建 API 密钥？ 我不知道 API 密钥是如何创建的以及它基于什么。我可以使用名称和密码的哈希值或其他内容作为 API 密钥吗？假设我选择了一种创建密钥的方法。 我什么时候创建它？ 显然是在身份验证之后。它必须触发创建密钥的某些事件。 它在哪里创建？ 这是我最大的疑问。我创建的应用程序会存储密钥吗？如果是，那么这是一种安全的方法吗？其他人可以访问该密钥吗？还是会存储在服务器中？如果是，那么可能是 firebase？因为我没有存储用户数据，而且它已经管理用户和密码了？所以它也会存储所有用户的 API 密钥吗？ 那么应用程序如何连接到 API？ 用户会先通过 firebase 吗？它会检查它是否是有效用户，然后调用实际的 API，然后将响应发送回应用程序，还是也会通过 firebase？ 我还没有创建 API。我听说 hugging face 适合托管模型，它使用 FastAPI 为其创建了一个 API？我对此也一无所知。 抱歉，这篇文章很拥挤，这就是我的大脑运作方式    提交人    /u/No-Landscape8210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn666j/some_questions_about_authentication_and_api_keys/</guid>
+      <pubDate>Sat, 09 Nov 2024 09:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 GraphQL 服务器中添加了“无需 WordPress 即可实现 Headless WordPress”的功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn64q2/i_added_the_ability_to_do_headless_wordpress/</link>
+      <description><![CDATA[由于 WP 内部目前的动荡，我注意到开发人员询问他们的项目是否被锁定在它上面，或者是否可以在需要时迁移。我为 WP 构建了一个 GraphQL 服务器，现在它也可以在不使用 WP 的情况下运行：https://gatographql.com/blog/introducing-headless-wordpress-without-wordpress    提交人    /u/leoleoloso   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn64q2/i_added_the_ability_to_do_headless_wordpress/</guid>
+      <pubDate>Sat, 09 Nov 2024 09:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳付费 AI 编码工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn5tqk/best_paid_ai_tool_for_coding/</link>
+      <description><![CDATA[大家好！ 寻求有关完成全栈项目的最佳付费 AI 工具的建议。  需要建议哪种工具在编码支持和学习机会之间提供最佳平衡，例如 GitHub Copilot、Cloud 3.5 SONNET、BoltAI 或 ChatGPT 的专业版？ 这里有人使用过类似的工具进行类似的项目吗？有没有关于哪些工具值得为短期项目或长期项目订阅的建议？    提交人    /u/amancarlos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn5tqk/best_paid_ai_tool_for_coding/</guid>
+      <pubDate>Sat, 09 Nov 2024 08:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机科学内的哪些研究领域可以补充网络开发/软件工程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn5aen/areas_of_study_within_computer_science_to/</link>
+      <description><![CDATA[作为一个主要从事 Web 开发的人，我开始对计算机科学的其他领域感到好奇。是否有其他人出于兴趣或作为 Web 开发的补充而研究计算机科学的其他领域？    提交人    /u/Hj808   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn5aen/areas_of_study_within_computer_science_to/</guid>
+      <pubDate>Sat, 09 Nov 2024 08:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您好，我刚刚创建了一个用于请求徽标的 API 服务，如果可以的话，我希望得到一些反馈。非常感谢 （・⊝・∞）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn58j4/hello_i_just_created_an_api_service_for/</link>
+      <description><![CDATA[        由    /u/tjktak1002  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn58j4/hello_i_just_created_an_api_service_for/</guid>
+      <pubDate>Sat, 09 Nov 2024 07:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个完全客户端模型生成器（截图编辑器）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn55fx/i_made_a_fully_client_side_mockup_generator/</link>
+      <description><![CDATA[      大家好，我已经在这个项目上工作了一年多。一路上有几个付费客户。这个项目确实帮助我成长为一名前端开发人员。如果您能给我打电话，请给我一些反馈，告诉我如何改进它，使它成为制作可在社交媒体上分享的精美照片的首选解决方案。  网站 - https://pic-yard.vercel.app  https://preview.redd.it/gjzn2wtvztzd1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=37efaaacc770a18da039d43151ebf882d2798753    提交人    /u/picyard   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn55fx/i_made_a_fully_client_side_mockup_generator/</guid>
+      <pubDate>Sat, 09 Nov 2024 07:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于图形视图的社交网络</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn4xao/graph_viewbased_social_network/</link>
+      <description><![CDATA[大家好！ 我最近决定将我的个人项目推广到公共 alpha 版本，我想邀请您尝试一下。 https://thoughtweb.net/graph/27 谢谢您，祝您有美好的一天:-)    提交人    /u/Aikaros   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn4xao/graph_viewbased_social_network/</guid>
+      <pubDate>Sat, 09 Nov 2024 07:34:59 GMT</pubDate>
+    </item>
     <item>
       <title>您如何编写 API 调用和端点逻辑？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gn35cv/how_do_you_write_your_api_call_and_endpoint_logic/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好，我正在开设一家新的网站设计和开发机构，我想学习一种无代码/少代码的网站构建器，以便更高效地设计和开发网站。到目前为止，我只使用过 Next.js 和 tailwind 和 typescript。我觉得使用网站构建器为企业创建简单的登录页面会更有效率，对于繁重的工作，我总是使用 next.js。 你会推荐哪一个？或者它们中的任何一个都可以？我尝试过 Wix、Webflow、squarespace 和 Framer，发现 Framer 最容易操作，但我不知道我是否感到困惑。 我真的很想了解一下每个工具的优缺点。  另外，我想我需要订阅才能删除几乎所有网站构建器上的“水印”，而使用 nextjs+vercel，我不需要那个，对吧。     提交人    /u/garagaramoochi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gmwg59/what_no_code_or_less_code_builder_to_choose/</guid>
       <pubDate>Fri, 08 Nov 2024 23:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于退出 flatiron school 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmuidm/question_regarding_quitting_flatiron_school/</link>
-      <description><![CDATA[我一个月前才开始使用 flatiron，他们刚刚在我开始的同时就删除了他们的帮助台程序，我也刚刚了解了代码学院（看到 Reddit 上关于 flatiron 是骗局的帖子）计划退出，想知道是否还有更好的编码训练营？    提交人    /u/Few-Improvement4733   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmuidm/question_regarding_quitting_flatiron_school/</guid>
-      <pubDate>Fri, 08 Nov 2024 22:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有开发人员投资组合的人都在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmsskn/where_is_everyone_with_a_developer_portfolio_at/</link>
-      <description><![CDATA[希望与拥有作品集的开发者建立联系！有空闲时间并希望提供反馈。    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmsskn/where_is_everyone_with_a_developer_portfolio_at/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题：发送电子邮件登录验证码，电子邮件提供商？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmss8j/question_sending_an_email_login_verification_code/</link>
-      <description><![CDATA[大家好， 主要问题：  使用 pythons smtplib 库从 gmail 电子邮件别名向用户发送验证电子邮件是否存在问题？  详细信息：  构建一个小型 Web 应用程序 用户很少登录 我选择通过电子邮件验证码登录 我正在考虑创建一个免费的 gmail，然后创建一个指向我的域的电子邮件别名。  示例：myWebApp@myweb.com  这有什么问题吗？     提交人    /u/Corvoxcx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmss8j/question_sending_an_email_login_verification_code/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:52:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个工具可以同时快速操作字符串数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmsikv/is_there_a_tool_to_manipulate_strings_data_fast/</link>
-      <description><![CDATA[嘿，开发人员，我有一个问题：例如，什么是处理大数据的适当工具 我的 txt 文件中有 1.5 亿行字符串 并且我在另一个 txt 文件中还有另外 100 万行 如果它们匹配，我想从 1.5 亿中替换 100 万  此过程将由用户多次执行，我需要以 txt 文件格式返回结果 而且数字还可以上升，意味着可以是 2 亿或更多 你怎么看？    提交人    /u/simokhounti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmsikv/is_there_a_tool_to_manipulate_strings_data_fast/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个可以根据任何描述搜索音乐的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gms1l4/i_made_a_website_which_searches_for_music_by_any/</link>
-      <description><![CDATA[https://soundmates.live/search 它使用 chatgpt，因此您可以使用任何提示。如果您喜欢它，请告诉我    提交人    /u/ZombieHero3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gms1l4/i_made_a_website_which_searches_for_music_by_any/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何打造完美/近乎完美的新闻网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmrtbs/how_to_make_perfectnearly_perfect_news_website/</link>
-      <description><![CDATA[您好， 有人问我是否可以为他创建一个新闻网站，以便他可以发布每日新闻。 因此，我知道可以使用 wordpress、已有的 php 脚本或从零开始编写脚本来完成。我还发现了一些使用 asp.net 脚本完成这项工作的网站。 因此，讨论的是，根据您的经验，完成这项工作的最佳解决方案是什么。 我们必须考虑在每种可能的情况下的利弊。 我用 wordpress 制作了一些网站。我还用 codecanyon 的预制 php 脚本制作了一些网站， 对我来说，我认为 wordpress 很好，因为它为每种可能的情况提供了大量自定义。 PHP 脚本很好。设置简单快捷，一切就绪。您只需进行主题自定义。  我还需要知道在下一个项目中我还需要思考和关注什么。 谢谢    提交人    /u/gloomyboy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmrtbs/how_to_make_perfectnearly_perfect_news_website/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:10:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用 Netlify 来托管带有联系表单的静态网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmrn93/should_i_use_netlify_to_host_a_static_website_w/</link>
-      <description><![CDATA[我正在研究一些关于为我的企业托管免费网站的不同选项，我需要的只是一个具有联系表单功能的简单静态网站。Netlify 的免费计划对我来说很突出，但在看到本子版块中提到的一些丑闻活动后，我现在有点担心与他们一起创建网站。如果我应该担心这件事，我还应该研究哪些其他替代方案？就像我说的，我需要的只是一个带有联系表单的静态网站，最好是免费的或每月不到几美元。我已经拥有一个域名了。谢谢    提交人    /u/TimeForAce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmrn93/should_i_use_netlify_to_host_a_static_website_w/</guid>
-      <pubDate>Fri, 08 Nov 2024 20:03:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
