@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 10 Nov 2024 03:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 06:13:02 GMT</lastBuildDate>
+    <item>
+      <title>MJPEG 转 ProRes</title>
+      <link>https://www.reddit.com/r/editors/comments/1gns7ru/mjpeg_to_prores/</link>
+      <description><![CDATA[大家好 - 我是专业摄影师，业余时间拍摄视频，想问一个关于用 1dx2 编码 4k 的技术问题。 我主要是好奇，除了让素材在我的 MacBook 上播放起来更方便之外，编码过程还有什么好处吗？mjpeg 是否无损，还是我只是通过将素材编码为比相机输出更高的比特率来占用驱动器上的更多空间？ TLDR；如果我的 sooc 素材的比特率与 ProRes Proxy 相同，那么通过将其编码为更高比特率的 ProRes LT、HQ 等，我有什么好处吗？ 提前谢谢大家，这不是一个很难的问题，但对于 Google 来说，这个问题太过笼统而又层次分明，无法给出直接的答案。谢谢    提交人    /u/jamesgravey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gns7ru/mjpeg_to_prores/</guid>
+      <pubDate>Sun, 10 Nov 2024 04:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>故事片和连续剧的发布时间一般是多久？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gnrdel/how_long_are_typical_post_days_for_features_and/</link>
+      <description><![CDATA[正是这个问题。现在每个人的标准似乎是什么？    提交人    /u/cate5667   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gnrdel/how_long_are_typical_post_days_for_features_and/</guid>
+      <pubDate>Sun, 10 Nov 2024 03:18:58 GMT</pubDate>
+    </item>
     <item>
       <title>有没有比程序内置功能更擅长在时间线上转录音频的 Premiere 插件？我发现在编辑长篇视频播客时，它总是会遗漏大量音频。</title>
       <link>https://www.reddit.com/r/editors/comments/1gnqlfg/is_there_a_premiere_plugin_that_is_better_at/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我不小心删除了包含我导入的视频效果预设的 Adob​​e 文件夹，然后清空了垃圾箱。我当时想在我的计算机上腾出空间。我运气不好吗？那里收集了几年的预设。     提交人    /u/orodltro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gmmy5p/accidentally_deleted_all_of_my_premiere_video/</guid>
       <pubDate>Fri, 08 Nov 2024 16:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年美国后期制作调查延长至 11 月 10 日</title>
-      <link>https://www.reddit.com/r/editors/comments/1gmls8n/2024_us_post_production_survey_extended_through/</link>
-      <description><![CDATA[今年，我们一直在努力获取最小数据集，响应率是 2017 年以来最低的。 在我们开始处理数据和发布结果之前，请确保您和您的同事已经参与其中……  https://forms.gle/cMCC9wztvqcyoRH17 www.postproductiondata.com    提交人    /u/KiaOraBro_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gmls8n/2024_us_post_production_survey_extended_through/</guid>
-      <pubDate>Fri, 08 Nov 2024 15:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro - HDR 素材导出过度曝光</title>
-      <link>https://www.reddit.com/r/editors/comments/1gmlbq4/premiere_pro_hdr_footage_exporting_over_exposed/</link>
-      <description><![CDATA[大家好， 我收到了用 HDR 拍摄的 iPhone 素材。当我将其导入 PP 时，颜色全都褪色了。按照此 YouTube 教程 ( https://www.youtube.com/watch?v=6D4_meCMS1Q ) 操作后，我将设置更改为以下内容：https://imgur.com/rmv3pvF 编码时一切看起来都很棒。然后在导出时，它曝光过度。 有什么建议吗？我尝试将我的工作色彩空间更改为 Rec 709。我还尝试将我的媒体色彩空间覆盖为 Rec. 2020。这会完全褪色我的素材。  我更习惯在 AE 中工作，所以如果这听起来很傻，请原谅。     提交人    /u/motions96   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gmlbq4/premiere_pro_hdr_footage_exporting_over_exposed/</guid>
-      <pubDate>Fri, 08 Nov 2024 15:36:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
