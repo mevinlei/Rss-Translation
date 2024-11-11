@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 15:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:13:19 GMT</lastBuildDate>
+    <item>
+      <title>在线照片标记软件 - 在一张照片中标记 5000 个人并进行搜索？</title>
+      <link>https://www.reddit.com/r/software/comments/1gow55r/photo_tagging_software_online_tag_5000_people_in/</link>
+      <description><![CDATA[我正在为学校拍摄班级照片，今年有 5,000 名毕业生。我们想找到一个软件，可以标记每个学生，然后搜索该学生并突出显示他在照片中的位置。是否有任何在线工具可以执行此操作并且可以嵌入或从外部网站链接到？    提交人    /u/ReadThinkDoMore   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gow55r/photo_tagging_software_online_tag_5000_people_in/</guid>
+      <pubDate>Mon, 11 Nov 2024 16:24:24 GMT</pubDate>
+    </item>
     <item>
       <title>刺绣软件 - pyembroidery 文件类型</title>
       <link>https://www.reddit.com/r/software/comments/1gou796/embroidery_software_pyembroidery_file_types/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨！我第一次尝试将一些文件刻录到 DVD 上，我尝试了多种 DVD 制作软件，但都没有成功。使用 Windows 11 DVD Flick 声称可以处理 .mkv 文件（文件为视频+音频+字幕），但它给我一个错误消息，说无法生成缩略图，这通常意味着文件已损坏。它们在 VLC 中运行良好，但没关系，所以我使用 VLC 将其转换为 mp4。这样做会丢失字幕，必须安装字幕文件。然后 DVD Flick 中的一切似乎都正常，直到我刻录磁盘。字幕不同步，这很烦人，但没关系。但是，其中一个文件的音频延迟了一秒左右，但其他文件都很好。这确实在验证过程中显示为错误，但错误弹出窗口的大小使得我无法阅读错误消息全文，也无法调整它们的大小。我也不知道该如何处理验证过程中出现的错误。您能做些什么吗？还是只需要再试一次？我该如何防止这种情况再次发生？ 因此我尝试了 ConvertXtoDVD，我知道您必须付费才能去除水印，但如果软件有效，我愿意付费购买。它可以很好地处理 mkv 文件，并显示预览，这非常有用。不幸的是，它只能转换文件的前十分钟。这样做时它没有显示任何错误消息，因此不确定那里发生了什么或如何修复它。 （我还尝试了 Power2Go 免费试用版，这是一款垃圾软件，它说将文件添加到 DVD 超出了免费试用的范围。） 我真的很感激熟悉上述一个或两个程序的人能够帮助我。或者推荐其他可能有用的 DVD 创作软件。     由    /u/catchant 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gocv55/cannot_get_dvd_authoring_software_to_work/</guid>
       <pubDate>Sun, 10 Nov 2024 22:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个可以用来接收短信、电话和保存手机上联系人的应用程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1gockf4/im_looking_for_an_app_i_can_use_to_receive_sms/</link>
-      <description><![CDATA[更多背景信息，我正在寻找一个可以用于接收短信、电话和保存手机联系人的应用程序。我希望我的手机和笔记本电脑可以连接到不同的互联网，同时进行同步。有点像 WhatsApp PC 和手机。 我不需要同步照片、视频或文件。我不需要那样。如果我可以在两个设备连接到两个不同的设备时使用它，那就更好了。 我将标签设置为“Windows 正在查找软件”，但我想我也需要它用于 Android。    提交人    /u/RiverHe1ghts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gockf4/im_looking_for_an_app_i_can_use_to_receive_sms/</guid>
-      <pubDate>Sun, 10 Nov 2024 22:17:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
