@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 11 Nov 2024 03:16:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 06:14:51 GMT</lastBuildDate>
     <item>
-      <title>我的学校正在向我和一群学生教授编程（目前是 HTML 和 CSS），就好像我们已经知道如何编程一样。我尝试了那些“如何学习某某语言”和其他视频，但学习它们花了几个月的时间。我需要在半个月内学会我的语言 xD。使用这个视频来学习。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gohfio/my_school_is_teaching_programming_currently_html/</link>
-      <description><![CDATA[  由    /u/MobileGamerboy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gohfio/my_school_is_teaching_programming_currently_html/</guid>
-      <pubDate>Mon, 11 Nov 2024 02:12:18 GMT</pubDate>
+      <title>数据工程师究竟是做什么的？🛠️基于 100 份财富 500 强职位列表</title>
+      <link>https://www.reddit.com/r/programming/comments/1gollfp/what_do_data_engineers_actually_do_based_on_100/</link>
+      <description><![CDATA[  由    /u/cryptoyash  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gollfp/what_do_data_engineers_actually_do_based_on_100/</guid>
+      <pubDate>Mon, 11 Nov 2024 06:08:15 GMT</pubDate>
     </item>
     <item>
       <title>Cline vsCode 扩展</title>
@@ -76,13 +76,6 @@
       <pubDate>Sun, 10 Nov 2024 18:23:46 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个人工智能来和我一起进行模拟技术面试，因为我没有人可以和我一起做这件事。</title>
-      <link>https://www.reddit.com/r/programming/comments/1go6xvy/i_built_an_ai_to_do_mock_technical_interviews/</link>
-      <description><![CDATA[  由    /u/actmademewannakms  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1go6xvy/i_built_an_ai_to_do_mock_technical_interviews/</guid>
-      <pubDate>Sun, 10 Nov 2024 18:15:15 GMT</pubDate>
-    </item>
-    <item>
       <title>利用架构决策记录停止冗余工程争论</title>
       <link>https://www.reddit.com/r/programming/comments/1go6i0z/stop_redundant_engineering_debates_with/</link>
       <description><![CDATA[  由    /u/strategizeyourcareer  提交  [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1go50j1/engineering_with_java_digest_40/</guid>
       <pubDate>Sun, 10 Nov 2024 16:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>井号</title>
+      <link>https://www.reddit.com/r/programming/comments/1go4ixc/hashnode/</link>
+      <description><![CDATA[大家好！我刚刚发表了一篇新文章，深入探讨了自定义 URL 协议以及它们如何允许您直接从浏览器启动桌面应用程序。有没有想过像 Notion、Steam 这样的应用程序，甚至像计算器这样的简单工具是如何从网络链接打开的？本文将揭开其背后的魔力，并介绍在 Windows 中设置自己的协议的实用步骤。    提交人    /u/NilayBarot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1go4ixc/hashnode/</guid>
+      <pubDate>Sun, 10 Nov 2024 16:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
