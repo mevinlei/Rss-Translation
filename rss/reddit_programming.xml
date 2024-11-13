@@ -4,7 +4,77 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 13 Nov 2024 00:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 09:11:21 GMT</lastBuildDate>
+    <item>
+      <title>告别 Scrum 黄金时代</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8uy7/sayonaratothegoldenageofscrum/</link>
+      <description><![CDATA[  由   ​​ /u/signalbound  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8uy7/sayonaratothegoldenageofscrum/</guid>
+      <pubDate>Wed, 13 Nov 2024 09:08:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>值得关注的非法学硕士软件趋势</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8fyd/nonllm_software_trends_to_be_excited_about/</link>
+      <description><![CDATA[  由    /u/Rtzon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8fyd/nonllm_software_trends_to_be_excited_about/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何优化 CSS 速度</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq8b5k/how_to_optimize_css_for_speed/</link>
+      <description><![CDATA[  由    /u/Latter-Dust8587  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq8b5k/how_to_optimize_css_for_speed/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Entity Framework Core 中臭名昭著的 N+1 查询问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</link>
+      <description><![CDATA[  由    /u/kbegiedza  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq88ju/infamous_n1_query_problem_with_entity_framework/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Excel、Python、运输大亨进行数据科学</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</link>
+      <description><![CDATA[  由    /u/DataQuality  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq7u7d/data_science_with_excel_python_transport_tycoon/</guid>
+      <pubDate>Wed, 13 Nov 2024 07:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能在现实生活中制作大白 (Baymax) 吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq7rww/can_you_make_baymax_in_irl/</link>
+      <description><![CDATA[当我问这个问题时，我并不是在谈论大白的充气身体。我发现有一个研究充气机器人的小组。 我很好奇的是让程序运行大白有多可行？就像他背后的技术人员扫描你以获取各种细节（你的荷尔蒙水平？）。或者他学习新事物的方式（比如拳头碰拳👊🏻）？ 可以编码/编程吗？    提交人    /u/No_Trouble_2770   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq7rww/can_you_make_baymax_in_irl/</guid>
+      <pubDate>Wed, 13 Nov 2024 07:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 RAG 和 FGA 在 AI 应用程序中实现安全性</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq63dt/implementing_security_in_ai_applications_using/</link>
+      <description><![CDATA[  由    /u/odd_sherlock  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq63dt/implementing_security_in_ai_applications_using/</guid>
+      <pubDate>Wed, 13 Nov 2024 05:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关启动开源物联网自动化项目的反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq605g/seeking_feedback_on_starting_an_open_source_iot/</link>
+      <description><![CDATA[我正在考虑启动一个开源项目，旨在在 JavaScript 生态系统中创建一个灵活、易于使用的 IoT 自动化平台。虽然有两个流行的自动化平台 - OpenHAB（基于 Java）和 Home Assistant（基于 Python） - 但我相信，鉴于 JavaScript 庞大的社区和生态系统，围绕 JavaScript 构建的类似工具有很大的机会。 我们的愿景是开发一个类似于 Home Assistant 的平台，但专注于自动化各种环境，例如农场、家庭、温室和花园。以下是项目范围和目标的简要概述： 技术堆栈：后端将使用 Node.js 构建，而前端将使用 React 开发。这将使我们能够在整个堆栈中利用 JavaScript 的优势并满足 JavaScript 开发人员的需求。设备集成：该平台将提供用于连接终端设备的示例和 SDK，尤其是流行且价格实惠的微控制器，如 ESP8266 和 ESP32。这些设备可以充当传感器、开关和控制器，从而扩展了项目在各种应用程序中的用例。可定制性和易用性：一个关键目标是使软件高度可定制且直观，以便用户可以轻松设置和自动执行任务，而无需进行太多配置。硬件可负担性：该软件应足够轻量，可以在 Raspberry Pi 等低成本硬件上运行，从而允许更多用户在不花费大量费用的情况下部署它。我正在寻找以下几个方面的反馈和建议： 架构：是否有特定的模式或框架可以帮助使该项目可扩展和可维护？处理设备通信的最佳实践是什么（例如 MQTT、WebSockets）？资金：维持这样的开源项目有哪些潜在的资金来源或策略？我正在考虑 Patreon、GitHub 赞助商或众筹等选项。社区意见：是否对基于 JavaScript 的自动化平台感兴趣，以实现跨不同环境的通用自动化？有任何功能想法或具体用例可以使其更具影响力吗？    提交人    /u/GooseEmotional892   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq605g/seeking_feedback_on_starting_an_open_source_iot/</guid>
+      <pubDate>Wed, 13 Nov 2024 05:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名大二学生，即将参加 AP 编程考试。这是我想主修的专业，并获得博士学位和证书。我应该做些什么准备？（抱歉视频很随意）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq32yo/im_a_sophomore_about_to_take_my_ap_exam_in/</link>
+      <description><![CDATA[  由    /u/bungh0le_surf3r  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq32yo/im_a_sophomore_about_to_take_my_ap_exam_in/</guid>
+      <pubDate>Wed, 13 Nov 2024 02:56:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>一系列极端情况导致 GitHub 2FA 锁定。不要这样做...</title>
+      <link>https://www.reddit.com/r/programming/comments/1gq1dc9/wild_set_of_circumstances_leading_to_github_2fa/</link>
+      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gq1dc9/wild_set_of_circumstances_leading_to_github_2fa/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:30:18 GMT</pubDate>
+    </item>
     <item>
       <title>我不喜欢软件工程师这个职业的 7 件事</title>
       <link>https://www.reddit.com/r/programming/comments/1gq0d1n/7_things_i_dislike_about_being_a_software_engineer/</link>
@@ -39,76 +109,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gprbx3/introducing_copilot_edits/</guid>
       <pubDate>Tue, 12 Nov 2024 18:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布 .NET 9</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</link>
-      <description><![CDATA[  由    /u/Atulin  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpqh7z/announcing_net_9/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要对 Postgres 这样做</title>
-      <link>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gppvpj/dont_do_this_with_postgres/</guid>
-      <pubDate>Tue, 12 Nov 2024 17:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试不可测试的内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</link>
-      <description><![CDATA[  由    /u/jerodsanto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpouil/testing_the_untestable/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>🎩 介绍 SITS - Snake In The Shell 🐍：您的一站式 Python 管理套件！</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</link>
-      <description><![CDATA[  由    /u/Emergency-Ad666  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpobq8/introducing_sits_snake_in_the_shell_your_onestop/</guid>
-      <pubDate>Tue, 12 Nov 2024 16:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码是资产还是负债？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</link>
-      <description><![CDATA[  由    /u/shift_devs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpnyff/is_code_an_asset_or_a_liability/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:57:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webhook 版本控制：如何对 Webhook 进行版本控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpncuf/webhook_versioning_how_to_version_webhooks/</link>
-      <description><![CDATA[  由    /u/SvixKen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpncuf/webhook_versioning_how_to_version_webhooks/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:31:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>要消除 C 代码中的内存安全错误，请尝试 TrapC fork</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpmiit/to_kill_memory_safety_bugs_in_c_code_try_the/</link>
-      <description><![CDATA[  由    /u/zuya-n  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpmiit/to_kill_memory_safety_bugs_in_c_code_try_the/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>编程的未来：副驾驶与代理（第一部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpm8qr/the_future_of_programming_copilots_vs_agents_part/</link>
-      <description><![CDATA[  由    /u/timestap  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpm8qr/the_future_of_programming_copilots_vs_agents_part/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>古老机器的灵魂：重温永恒的冯·诺依曼架构</title>
-      <link>https://www.reddit.com/r/programming/comments/1gpm3de/the_soul_of_an_old_machine_revisiting_the/</link>
-      <description><![CDATA[  由    /u/burdellgp  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gpm3de/the_soul_of_an_old_machine_revisiting_the/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握构建器模式：创建动态 AI 提示生成器 CLI</title>
-      <link>https://www.reddit.com/r/programming/comments/1gplf7o/mastering_the_builder_pattern_create_a_dynamic_ai/</link>
-      <description><![CDATA[  由    /u/Main-Humor-6933  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gplf7o/mastering_the_builder_pattern_create_a_dynamic_ai/</guid>
-      <pubDate>Tue, 12 Nov 2024 14:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
