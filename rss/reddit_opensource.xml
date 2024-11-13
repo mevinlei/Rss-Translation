@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 13 Nov 2024 12:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 15:11:36 GMT</lastBuildDate>
+    <item>
+      <title>Backup In Time 发布版本 1.5.3</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gqetku/backup_in_time_release_version_153/</link>
+      <description><![CDATA[  由    /u/buhtz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gqetku/backup_in_time_release_version_153/</guid>
+      <pubDate>Wed, 13 Nov 2024 15:01:35 GMT</pubDate>
+    </item>
     <item>
       <title>正在寻找自托管的工作状态显示板实用程序......</title>
       <link>https://www.reddit.com/r/opensource/comments/1gq6a0s/looking_for_a_selfhosted_job_status_display_board/</link>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 12 Nov 2024 14:21:05 GMT</pubDate>
     </item>
     <item>
-      <title>Buttercup：一款用于流式传输 Torrent 并带有播放跟踪功能的简单 CLI 工具 🎬</title>
+      <title>Buttercup：一款用于流式传输种子并带有播放跟踪功能的简单 CLI 工具 🎬</title>
       <link>https://www.reddit.com/r/opensource/comments/1gpkp6c/buttercup_a_simple_cli_tool_for_streaming/</link>
       <description><![CDATA[介绍 Buttercup，这是一款轻量级的 Linux CLI 应用程序，可让您通过播放跟踪流式传输种子，由 Jackett 和 Peerflix 提供支持。享受 MPV 中的直接种子流式传输、可自定义的配置和 Rofi 集成，以便于选择。查看演示并尝试一下！ Github 链接：https://github.com/Wraient/buttercup    提交人    /u/WraientDaemon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gpkp6c/buttercup_a_simple_cli_tool_for_streaming/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，开源的人们，OSS 项目是否需要营销和销售才能成功？ 或者只有技术才能避免业务团队的失败？ 就像 PeerDB 是因为出色的营销和 CEO 过去在被收购公司的经验而被收购一样，甚至他们自己也认为事情对他们来说是合适的。他们没有专门的业务团队。（我的个人观点） 问题是这条路径可以复制或重新创建吗？    提交人    /u/piyushsingariya   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gpfgk3/is_only_tech_required_for_successful_oss/</guid>
       <pubDate>Tue, 12 Nov 2024 07:34:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要使用 PFSense！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gpezfy/dont_use_pfsense/</link>
-      <description><![CDATA[我敢肯定，现在我们已经听说了 OPNSense 员工为何要分叉创建自己的 PFSense 分支，以及随后发生的戏剧性事件。但看起来 PFSense 员工从未改变过他们的态度。他们只是对如何滥用其用户群更加沉默寡言。 以下是我在 PFSense/Netgate subreddit 上创建的帖子。它只是指出 KEA DHCP 存在问题，尚未准备好投入生产，如果您决定使用它，请小心。在它引起关注后，Netgate 版主开始在帖子上对我进行嘲讽。尤其是名为“gonzopancho”的版主他在帖子上发表了 4 条恶意评论，然后在任何人回复之前立即将其锁定。在帖子发布后的 12 小时内，我被禁止进入 PFSense 和 Netgate Subreddits... 由于这次和过去的闹剧，我决定将自己和我的所有客户转移到 OPNSense。至少他们关心他们的社区。以下是现已删除的帖子的原始链接。如您所见，没有任何内容违反 subreddit 上的服务条款或规则。他们只是不喜欢我批评他们向 PFSense 设备推送通知，告诉人们迁移到 KEA，即使他们知道它已经坏了。 原始帖子： https://www.reddit.com/r/PFSENSE/comments/1gg6p2y/dont_use_kea_dhcp_its_not_ready_yet/帖子 可以看出。用户对此以及 Netgate 员工的幼稚行为感到不满。因此，我永远不会推荐任何人使用 PFSense。    提交人    /u/Bourne069   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gpezfy/dont_use_pfsense/</guid>
-      <pubDate>Tue, 12 Nov 2024 06:58:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
