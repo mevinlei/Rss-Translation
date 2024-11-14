@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 13 Nov 2024 21:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 00:46:10 GMT</lastBuildDate>
     <item>
       <title>使用 F2 重命名选项卡</title>
       <link>https://www.producthunt.com/posts/rename-tabs-with-f2</link>
@@ -104,18 +104,18 @@
       <pubDate>Mon, 11 Nov 2024 17:30:32 GMT</pubDate>
     </item>
     <item>
-      <title>ToolJet 3.0</title>
-      <link>https://www.producthunt.com/posts/tooljet-3-0</link>
+      <title>CuriosityXR</title>
+      <link>https://www.producthunt.com/posts/curiosityxr</link>
       <description><![CDATA[
-快速构建自定义应用程序，现在有 50 多个集成
+使用 100 多万个 3D 模型和混合现实中的 AI 进行学习
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/tooljet-3-0</guid>
-      <pubDate>Sun, 10 Nov 2024 17:51:01 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/curiosityxr</guid>
+      <pubDate>Sun, 10 Nov 2024 19:45:14 GMT</pubDate>
     </item>
     <item>
       <title>沃切拉</title>
@@ -174,6 +174,20 @@
       <pubDate>Sun, 27 Oct 2024 03:47:06 GMT</pubDate>
     </item>
     <item>
+      <title>分段式</title>
+      <link>https://www.producthunt.com/posts/segwise</link>
+      <description><![CDATA[
+自动捕获影响移动 ROAS 的问题
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/segwise</guid>
+      <pubDate>Mon, 21 Oct 2024 11:38:44 GMT</pubDate>
+    </item>
+    <item>
       <title>理事会</title>
       <link>https://www.producthunt.com/posts/koncile</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/fieldmobi-ai</guid>
       <pubDate>Mon, 14 Oct 2024 11:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期人工智能</title>
-      <link>https://www.producthunt.com/posts/earlyai</link>
-      <description><![CDATA[
-用于测试代码生成的 AI 代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/earlyai</guid>
-      <pubDate>Sun, 29 Sep 2024 06:39:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
