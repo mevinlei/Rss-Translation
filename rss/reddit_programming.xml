@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:19:51 GMT</lastBuildDate>
+    <item>
+      <title>一家保护儿童权利的公司正在为我提供实习机会。（我很乐意）。但广告更侧重于 UI/创建图形材料。我需要一些建议，让我可以更专注于编程。🙏</title>
+      <link>https://www.reddit.com/r/programming/comments/1grutr9/internship_is_available_for_me_at_a_firm_who/</link>
+      <description><![CDATA[因此，我冒着被人肉搜索的风险（如果我的同学读到这篇文章的话）😆 我是一名前端开发学生。因此，我们不仅学习了 ux/ui，还学习了在 mySQL + node 中创建数据库/api。因此，还有 js react 等。 我有一些想法，因为有一次我们做一个随机项目，我决定做一个网站，你可以在里面购买战争中使用的武器。（例如瑞典的 jaas gripen）。但在结账结束时，屏幕显示刷新，网站播放着刺耳的尖叫声。 你也不是用钱买的，而是用生命买的。 所以我在想，也许可以为儿童权利做一些类似的事情。一个以某种方式提高认识的网站。 还有其他想法吗？  （他们已经有自己的网站了） 我可以创建营销材料，因为那是 UI。但我至少想将它与一些代码结合起来。 也许还有一个页面以图形方式显示有关虐待儿童的数字。 或者别的什么。 但欢迎提出想法。 因为我可以在其他公司实习。但没有一个会让人觉得那么有意义。但我还是需要它至少与我的课程有点联系。（所以一些编程） —&gt; 他们写道他们愿意听取意见。所以如果我有一些编程方面的想法，他们可能会让我做。我还必须做一个课程结束项目/毕业项目。所以这对它来说也是完美的。  （添加链接，因为否则我发帖不准发帖（    提交人    /u/NationalNecessary120   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grutr9/internship_is_available_for_me_at_a_firm_who/</guid>
+      <pubDate>Fri, 15 Nov 2024 12:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Squeak 中的冻结图像中恢复</title>
+      <link>https://www.reddit.com/r/programming/comments/1grtoxy/recovering_from_frozen_images_in_squeak/</link>
+      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grtoxy/recovering_from_frozen_images_in_squeak/</guid>
+      <pubDate>Fri, 15 Nov 2024 10:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发送了一个以太网数据包</title>
+      <link>https://www.reddit.com/r/programming/comments/1grto59/i_sent_an_ethernet_packet/</link>
+      <description><![CDATA[  由    /u/FrancisStokes  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1grto59/i_sent_an_ethernet_packet/</guid>
+      <pubDate>Fri, 15 Nov 2024 10:46:41 GMT</pubDate>
+    </item>
     <item>
       <title>通过将 websocket 消息代理到 HTTP 扩展到 100 万个 websocket</title>
       <link>https://www.reddit.com/r/programming/comments/1grs5qz/scaling_to_1_million_websockets_by_proxying/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/prlaur782  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1grktgh/amazon_s3_now_supports_up_to_1_million_buckets/</guid>
       <pubDate>Fri, 15 Nov 2024 01:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPC 系统中的内存带宽和系统平衡：2024 年更新</title>
-      <link>https://www.reddit.com/r/programming/comments/1grkau3/memory_bandwidth_and_system_balance_in_hpc/</link>
-      <description><![CDATA[  由    /u/mttd  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1grkau3/memory_bandwidth_and_system_balance_in_hpc/</guid>
-      <pubDate>Fri, 15 Nov 2024 00:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们从分析主干不稳定测试中的 2020 万个 CI 作业中学到了什么 - 第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1gripce/what_we_learned_from_analyzing_202_million_ci/</link>
-      <description><![CDATA[  由    /u/Available_Wear_1558  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gripce/what_we_learned_from_analyzing_202_million_ci/</guid>
-      <pubDate>Thu, 14 Nov 2024 23:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能代码审查很差劲</title>
-      <link>https://www.reddit.com/r/programming/comments/1gri842/ai_sucks_at_code_reviews/</link>
-      <description><![CDATA[  由    /u/MikeSStacks  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gri842/ai_sucks_at_code_reviews/</guid>
-      <pubDate>Thu, 14 Nov 2024 23:17:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
