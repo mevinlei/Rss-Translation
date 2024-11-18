@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 18:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 21:09:14 GMT</lastBuildDate>
     <item>
       <title>梦盘</title>
       <link>https://www.producthunt.com/posts/dreamdisk</link>
@@ -79,7 +79,7 @@
       <title>弗利兹V2</title>
       <link>https://www.producthunt.com/posts/fliz-v2</link>
       <description><![CDATA[
-将您的视频创作提升到一个新的水平 
+将您的视频创作提升到新的水平 
 
 
 讨论
@@ -132,6 +132,20 @@
       <pubDate>Mon, 11 Nov 2024 06:34:58 GMT</pubDate>
     </item>
     <item>
+      <title>白色的</title>
+      <link>https://www.producthunt.com/posts/blanka</link>
+      <description><![CDATA[
+在 5 分钟内开始美容或化妆品系列
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/blanka</guid>
+      <pubDate>Sat, 09 Nov 2024 20:27:07 GMT</pubDate>
+    </item>
+    <item>
       <title>印度传播公司</title>
       <link>https://www.producthunt.com/posts/bharatdiffusion</link>
       <description><![CDATA[
@@ -177,7 +191,7 @@
       <title>涡轮镜头</title>
       <link>https://www.producthunt.com/posts/turbolens</link>
       <description><![CDATA[
-快速、准确的 OCR 和洞察，适用于任何图像。
+快速、准确的 OCR 和对任何图像的洞察。
 
 
 讨论
@@ -191,7 +205,7 @@
       <title>脉冲式</title>
       <link>https://www.producthunt.com/posts/pulsetic-1</link>
       <description><![CDATA[
-状态页面和网站正常运行时间检查器 - 无需专家！
+状态页面和网站正常运行时间检查器 — 无需专家！
 
 
 讨论
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/pulsetic-1</guid>
       <pubDate>Wed, 25 Sep 2024 15:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷霆计算</title>
-      <link>https://www.producthunt.com/posts/thunder-compute</link>
-      <description><![CDATA[
-用于 AI/ML 开发的网络连接 GPU
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/thunder-compute</guid>
-      <pubDate>Mon, 16 Sep 2024 05:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
