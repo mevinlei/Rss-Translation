@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Nov 2024 15:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 18:15:26 GMT</lastBuildDate>
     <item>
       <title>梦盘</title>
       <link>https://www.producthunt.com/posts/dreamdisk</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/dreamdisk</guid>
       <pubDate>Sun, 17 Nov 2024 23:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>幕后——深度</title>
+      <link>https://www.producthunt.com/posts/behind-in-depth</link>
+      <description><![CDATA[
+使用颜色分级背景为您的照片添加深度效果
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/behind-in-depth</guid>
+      <pubDate>Sun, 17 Nov 2024 20:17:32 GMT</pubDate>
     </item>
     <item>
       <title>啤酒我</title>
@@ -118,20 +132,6 @@
       <pubDate>Mon, 11 Nov 2024 06:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>白色的</title>
-      <link>https://www.producthunt.com/posts/blanka</link>
-      <description><![CDATA[
-在 5 分钟内开始美容或化妆品系列！
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/blanka</guid>
-      <pubDate>Sat, 09 Nov 2024 20:27:07 GMT</pubDate>
-    </item>
-    <item>
       <title>印度传播公司</title>
       <link>https://www.producthunt.com/posts/bharatdiffusion</link>
       <description><![CDATA[
@@ -205,7 +205,7 @@
       <title>雷霆计算</title>
       <link>https://www.producthunt.com/posts/thunder-compute</link>
       <description><![CDATA[
-面向 AI/ML 开发人员的 GPU 云平台
+用于 AI/ML 开发的网络连接 GPU
 
 
 讨论
