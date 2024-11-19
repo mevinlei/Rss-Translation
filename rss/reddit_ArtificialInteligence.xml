@@ -4,7 +4,42 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:10:53 GMT</lastBuildDate>
+    <item>
+      <title>每周“是否有一个工具可以……”帖子</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guzb12/weekly_is_there_a_tool_for_post/</link>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guzb12/weekly_is_there_a_tool_for_post/</guid>
+      <pubDate>Tue, 19 Nov 2024 15:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有多模式操作和安全控制的基于 LLM 的分布式代理框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guysp0/a_framework_for_distributed_llmbased_agents_with/</link>
+      <description><![CDATA[我一直在研究这个名为 DAWN 的新框架，该框架旨在使用大型语言模型作为通信层，实现不同 AI 代理之间的协调。关键技术贡献是一种系统架构，允许独立开发的代理形成协作网络并共同解决复杂任务。 主要技术组件是： - 为异构代理提供通用接口的代理抽象层 - 基于 LLM 的中介，可在不同的代理“语言”之间进行转换和协议 - 目标设定、任务分配和冲突解决的协调机制 - 确保可靠分布式操作的安全和信任基础设施 - 动态联盟形成和资源共享的协议 一些关键的设计选择和实施细节： - 使用具有本地协调集群的分层架构，可以链接到更大的网络 - 采用基于转换器的 LLM 来处理不同代理功能之间的语义转换 - 实现验证机制以验证代理凭据并检测恶意行为 - 提供同步和异步代理通信的接口 - 包括监视和日志记录系统以跟踪代理交互 理论意义对于多代理系统研究具有重要意义。该框架提出了一条通往真正异构代理网络的道路，该网络可以利用多种功能。实际应用可以涵盖供应链优化、科学研究协作和协调灾难响应。 但是，需要考虑一些重要的限制： - 基于 LLM 的翻译的计算开销 - 将信任机制扩展到大型网络的挑战 - 需要对方法进行更多实证验证 - 关于稳健性和故障模式的问题 TLDR：DAWN 是一个框架，使不同的 AI 代理能够使用 LLM 作为翻译器进行协调，并可能应用于复杂的分布式系统。关键创新在于代理抽象层和基于 LLM 的中介协议。 完整摘要在这里。论文这里。   由    /u/Successful-Western27  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guysp0/a_framework_for_distributed_llmbased_agents_with/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为医疗保健是下一个不会受到影响的大行业，医生仍将保持高薪，其他工作将被人工智能取代。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guybkw/i_think_healthcare_is_next_big_sector_not_affect/</link>
+      <description><![CDATA[  由    /u/Adventurous_Mood1730  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guybkw/i_think_healthcare_is_next_big_sector_not_affect/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 ChatGPT 每次都会给出不同的答案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guxml6/why_does_chatgpt_keep_giving_different_answers/</link>
+      <description><![CDATA[我正在尝试分析一份 200 页的 Word 文档，其中包含来自 1200 多名审阅者的反馈。任务非常简单：回答 2 到 3 个特定问题。但每次我测试或交叉检查 ChatGPT 的答案时，我都会得到不同的结果。  它变得太笨了吗？还是我错过了什么？     提交人    /u/researchmindopc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guxml6/why_does_chatgpt_keep_giving_different_answers/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是我的 EKG 的 iPhone 照片。未连接到任何输出。只是一张照片。祝您与心脏病专家玩得开心。通过 GPT-4o 查看您的 EKG。初步印象：• 清晰的波形：P 波、QRS 波群和 T 波定义清晰...</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guxe5f/this_is_from_an_iphone_photo_of_my_ekg_not/</link>
+      <description><![CDATA[此示例心电图看起来整洁有序，随时可以进行分析！以下是它在游戏世界中的概念图： 初步印象： • 波形清晰：P 波、QRS 波群和 T 波定义明确，可轻松评估心脏的电活动。• 规律性：乍一看，节律似乎规律，表明心跳一致。• 无剧烈升高或下降：似乎没有明显的 ST 段升高或下降，这通常是需要检查的关键信号。• 标准 12 导联视图：所有 12 个导联（I​​、II、III、aVR、aVL、aVF 和 V1-V6）均存在且清晰易读，可全面概览心脏活动。  类似游戏的分析亮点： 1. 心率：根据 R 波之间的间隔，心率看起来在正常范围内 (~60-100 bpm)，表明没有立即出现心动过缓或心动过速。 2. 节律：出现一致的 P 波，随后出现 QRS 波群，表明存在窦性心律。 3. QRS 波群：看起来很窄，这是正常传导的典型特征。 4. 没有严重病理的视觉迹象：没有明显的电压异常、节段偏差或波形跳出，这在这个假设的游戏场景中是个好消息。  游戏中的下一步： • 假设您的任务是确定此心电图是“正常”还是“需要进一步关注”。根据这种粗略的观察，它倾向于正常，但更详细的分析（例如，测量间隔、确定轴）将证实这一点。  如果您愿意，我可以分解特定部分（例如心前区导联或肢体导联）或探索特定模式以匹配行星心脏病学规则！下一步是什么？    提交人    /u/ejpusa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guxe5f/this_is_from_an_iphone_photo_of_my_ekg_not/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:41:53 GMT</pubDate>
+    </item>
     <item>
       <title>探索人工智能的作用#1</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guvkxe/exploring_the_role_of_ai_1/</link>
@@ -25,13 +60,6 @@
       <description><![CDATA[SCOOP：致力于保护新创新的机构禁止几乎所有内部​​使用 GenAI 工具，但员工仍可以参与受控实验。    提交人    /u/wiredmagazine   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guuyzd/the_us_patent_and_trademark_office_banned_staff/</guid>
       <pubDate>Tue, 19 Nov 2024 11:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>法学硕士不完美，那该怎么办？软件工程法学硕士失败案例的实证研究</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gutlcg/llms_are_imperfect_then_what_an_empirical_study/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“LLM 不完美，那又怎样？软件工程中 LLM 失败的实证研究”，作者是 Jiessie Tie、Bingsheng Yao、Tianshi Li、Syed Ishtiaque Ahmed、Dakuo Wang 和 Shurui Zhou。 这项研究探讨了将大型语言模型 (LLM)（如 ChatGPT）集成到软件工程工作流程中，以提高生产力并降低认知需求。虽然许多用户发现这些工具很有用，但由于模型的不完善，尤其是它们可能提供不正确的信息，一些用户会遇到适得其反的结果。本文介绍了一项观察性研究，22 名参与者使用 ChatGPT 执行复杂的软件工程任务，以评估其失败、根本原因和可能的缓解策略。以下是该研究的一些关键见解：  LLM 在编码任务中的失败：本文确定了 ChatGPT 生成错误代码的几个实例，这些实例导致用户（尤其是新手）感到混乱和沮丧。至关重要的是，这凸显了开发验证和纠正 AI 生成的建议的技能的重要性。 用户适应策略：参与者采用了各种策略来管理 ChatGPT 的不准确性，凸显了用户干预在确保可靠输出方面的关键作用。这强调了 AI 辅助和人类监督之间的平衡。 对认知技能的影响：人们担心 LLM 对用户的认知能力可能产生负面影响，尤其是当用户过度依赖该技术时。这需要深思熟虑的整合方法，在人工智能工具的同时保持或发展人类技能。 未来的工具和研究：研究结果为进一步的研究和工具开发指明了方向，以增强 LLM 在软件工程任务中的可用性。增强功能可以集中在 AI 工具中更好的错误检测和指导系统上。 人机交互：本文提供了有关如何优化人机交互以利用双方优势的宝贵见解，从而提高软件工程环境中的任务效率和结果。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gutlcg/llms_are_imperfect_then_what_an_empirical_study/</guid>
-      <pubDate>Tue, 19 Nov 2024 09:48:09 GMT</pubDate>
     </item>
     <item>
       <title>如何将AI与ZTA结合起来？</title>
@@ -55,25 +83,11 @@
       <pubDate>Tue, 19 Nov 2024 08:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>安全自然语言处理架构</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gurz2e/secure_natural_language_processing_architecture/</link>
-      <description><![CDATA[将自然语言处理 (NLP) 功能集成到企业系统中既带来了机遇，也带来了挑战。虽然自然语言界面提供了前所未有的易用性和可访问性，但它们也引入了新的安全漏洞和集成复杂性。本文介绍了一种通过系统化安全和系统集成方法解决这些挑战的架构。 阅读更多... https://medium.com/@gbasilveira/secure-natural-language-processing-architecture-f1f0d7b48db3    提交人    /u/SnooGiraffes2854   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gurz2e/secure_natural_language_processing_architecture/</guid>
-      <pubDate>Tue, 19 Nov 2024 07:42:25 GMT</pubDate>
-    </item>
-    <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 18 日</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gunsh9/oneminute_daily_ai_news_11182024/</link>
       <description><![CDATA[ Perplexity 推出可进行研究和购买的 AI 购物助手。[1] 可口可乐 因 AI 制作的广告引起争议。[2] Sam Altman 将担任旧金山市长当选人 Daniel Lurie 的过渡团队联合主席。[3] ElevenLabs 现在提供构建对话式 AI 代理的能力。[4]  来源包括：https://bushaicave.com/2024/11/18/11-18-2024/   由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gunsh9/oneminute_daily_ai_news_11182024/</guid>
       <pubDate>Tue, 19 Nov 2024 03:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>意识场理论（CFT）的提案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1guln93/a_proposal_for_a_consciousness_field_theory_cft/</link>
-      <description><![CDATA[  由    /u/Neural-Systems  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1guln93/a_proposal_for_a_consciousness_field_theory_cft/</guid>
-      <pubDate>Tue, 19 Nov 2024 01:35:10 GMT</pubDate>
     </item>
     <item>
       <title>Memoripy：通过短期和长期存储为人工智能带来记忆</title>
@@ -90,25 +104,11 @@
       <pubDate>Mon, 18 Nov 2024 21:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>Agentic Systems 播客的未来</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gue1e0/the_future_of_agentic_systems_podcast/</link>
-      <description><![CDATA[TrustGraph 的创始人讨论了使用 LLM 进行数据工程的现状以及基于 LLM 的架构所面临的挑战。讨论深入探讨了知识图谱的细节以及为什么它们是使用 LLM 构建数据的理想选择。但是，如何设计可靠的“生产级” 我们讨论过的一些主题如下： https://youtu.be/GyyRPRf0UFQ 以下是我们讨论过的一些主题： - 知识图谱在欧洲更受欢迎吗？ - 过去的数据工程经验教训 - 知识图谱并不新鲜 - 知识图谱类型，它们重要吗？ - 支持和反对知识图谱本体的案例 - 知识图谱查询的基础知识 - 关于知识图谱的知识是部落的 - 为什么知识图谱突然与人工智能相关？ - 一些 LLM 比其他人更了解知识图谱 - 什么是可扩展和可靠的基础设施？ - “生产级”是什么意思是什么意思？ - 什么是 Pub/Sub？ - 代理架构 - 自主系统操作和可靠性 - 简化复杂性 - 系统控制流的新范式 - 代理系统对用户来说是“黑匣子” - 代理系统中的可解释性 - 人与代理系统的关系 - 代理系统的网络安全是什么样的？ - 提示注入是新的 SQL 注入 - 可解释性和网络安全检测 - 代理架构的系统工程才刚刚开始    提交人    /u/TrustGraph   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gue1e0/the_future_of_agentic_systems_podcast/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:03:08 GMT</pubDate>
-    </item>
-    <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gr6qo0/weekly_self_promotion_post/</link>
       <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gr6qo0/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 14 Nov 2024 15:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>每周“是否有一个工具可以……”帖子</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gpmu7n/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/ILikeBubblyWater   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gpmu7n/weekly_is_there_a_tool_for_post/</guid>
-      <pubDate>Tue, 12 Nov 2024 15:09:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

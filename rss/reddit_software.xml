@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:11:38 GMT</lastBuildDate>
+    <item>
+      <title>控制 YouTube 成瘾功能的工具（开源）</title>
+      <link>https://www.reddit.com/r/software/comments/1guz6uv/tool_to_control_youtubes_addictive_features_open/</link>
+      <description><![CDATA[我创建这个 Chrome 扩展程序是因为我整天都在滚动浏览 Shorts。使用一个月后，我完全戒掉了这个习惯，所以它演变成更大的东西。 功能：  阻止 Shorts 滚动（默认启用） 从主页隐藏所有推荐视频 完全删除 Shorts（按钮、部分、搜索结果） 隐藏 Shorts 评论  它是完全可定制的 - 您可以通过扩展程序启用/禁用任何功能。 一切都是开源的，我正在积极致力于添加更多功能。如果您有任何建议，请随时在 GitHub 上打开问题！ GitHub repo：https://github.com/mazeincoding/YT-shorts-blocker  希望这可以帮助其他人解决他们的 YT 成瘾问题。    提交人    /u/No-Conference-8133   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1guz6uv/tool_to_control_youtubes_addictive_features_open/</guid>
+      <pubDate>Tue, 19 Nov 2024 15:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 netlimiter 的帮助-我如何阻止除 1 个站点之外的所有互联网连接？</title>
+      <link>https://www.reddit.com/r/software/comments/1guydit/need_help_with_netlimiter_how_do_i_block_all_the/</link>
+      <description><![CDATA[  由    /u/buabua555  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1guydit/need_help_with_netlimiter_how_do_i_block_all_the/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:27:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>编辑 MP3 乐器？</title>
+      <link>https://www.reddit.com/r/software/comments/1guwoyz/editing_mp3_instruments/</link>
+      <description><![CDATA[我前段时间做了一首歌，保存为 MP3，但今天我发现背景中有一个烦人的音调，我想把它编辑掉。  但我找不到可以让我编辑 MP3 上乐器的程序。有人知道吗？还是我必须重新做一遍？XD     提交人    /u/regandor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1guwoyz/editing_mp3_instruments/</guid>
+      <pubDate>Tue, 19 Nov 2024 13:07:13 GMT</pubDate>
+    </item>
     <item>
       <title>电子邮件客户端。跨平台</title>
       <link>https://www.reddit.com/r/software/comments/1guuyw7/email_client_crossplatform/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Voice Auth 是一款音频深度伪造检测应用程序，旨在识别被操纵的音频内容。该应用程序利用先进的机器学习模型来处理音频文件并提供有关其真实性的见解。它支持各种音频和视频格式，将它们转换为 WAV，并提取特征进行分析。该应用程序具有内置数据库并可在 Windows 上运行。 https://detectfakes.lemonsqueezy.com/buy/67e72299-f700-4f3c-a5f4-edda43f0728d    提交人    /u/desi_fubu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gtyodg/voiceauth_deepfake_audio_detector/</guid>
       <pubDate>Mon, 18 Nov 2024 06:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个好的模拟器</title>
-      <link>https://www.reddit.com/r/software/comments/1gtygng/looking_for_an_good_emulator/</link>
-      <description><![CDATA[我尝试过 bluestacks，它无法正常运行游戏，但可以很好地运行其他应用程序，而 mumu player 可以流畅运行游戏，但无法很好地运行其他应用程序，请给我推荐一个好的模拟器    提交人    /u/Some_Extent_6184   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gtygng/looking_for_an_good_emulator/</guid>
-      <pubDate>Mon, 18 Nov 2024 06:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找快速文件传输软件（Windows 7）</title>
-      <link>https://www.reddit.com/r/software/comments/1gttjib/looking_for_speedy_file_transfer_software_windows/</link>
-      <description><![CDATA[最近刚修好我的旧 Windows 7 N7020 笔记本电脑，充电端口脱落了。我上面有大约 100GB 的旧游戏编辑文件，我想将它们传输到我今天购买的新 USB 上，封面上说它能够传输 200MB/1s。具有讽刺意味的是，100GB 根本不需要很长时间。但是，现在的答案速度只有每秒 4MB。我想尽快把这些东西传输出去，因为这是一个超级有趣的爱好，但如果可能的话，我不想整晚都开着笔记本电脑。有没有一些软件可以在下载时以更快的速度完成？任何方法都可以。 我知道这台电脑非常旧，我知道这就是它这么慢的原因。我并不是在责怪它，但如果你们知道一些可靠的软件，不会在我的系统中寻找信息，我确实希望尽快完成我的事情，哈哈。    提交人    /u/DevThaGodfatha   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gttjib/looking_for_speedy_file_transfer_software_windows/</guid>
-      <pubDate>Mon, 18 Nov 2024 01:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>冰淇淋幻灯片</title>
-      <link>https://www.reddit.com/r/software/comments/1gtlpvh/icecream_slide_show/</link>
-      <description><![CDATA[想要将其移动到另一台电脑，但 Icecream Software 说必须“手动”完成。技术服务一周后没有响应。只想在一台电脑（台式机）上运行它 - Win 11 环境     提交人    /u/MidwestDuckGuy70   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gtlpvh/icecream_slide_show/</guid>
-      <pubDate>Sun, 17 Nov 2024 19:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

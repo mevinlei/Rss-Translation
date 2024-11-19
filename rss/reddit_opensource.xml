@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 19 Nov 2024 12:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 15:12:11 GMT</lastBuildDate>
+    <item>
+      <title>想找个地方学习！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</link>
+      <description><![CDATA[大家好！我是来自荷兰的一名软件开发学生，我想学习计算机编程。我刚刚进入编程领域，正在通过我的教育和 Packt 的一些书籍学习基础知识。我很乐意向经验丰富的程序员学习，我认为开源世界可能是一个很好的起点，我不需要对我的贡献有任何报酬，只是我想向能够指导我或向我展示他或她的工作/代码方式并教我行业诀窍的人学习。如果您想联系我，请给我发消息，我也想知道哪些开源项目可能正在寻找像我这样的初级开发人员。提前谢谢大家！    提交人    /u/Battletower   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1guxthi/looking_for_a_place_to_learn/</guid>
+      <pubDate>Tue, 19 Nov 2024 14:02:02 GMT</pubDate>
+    </item>
     <item>
       <title>2 个月内用户数超过 4000 名，项目现已开源，需要帮助；）</title>
       <link>https://www.reddit.com/r/opensource/comments/1gutx79/4000_users_in_2_months_project_now_open_sourced/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/Practical-Ideal6236  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gtjqpk/can_osspledge_fix_open_source_sustainability/</guid>
       <pubDate>Sun, 17 Nov 2024 18:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>vueframe 一个简单的 Vue 3 组件库，用于嵌入视频播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gtidzd/vueframe_a_simple_vue_3_component_library_for/</link>
-      <description><![CDATA[我只是想分享一个我一直在做的项目，叫做 vueframe，它提供了一种简单的方法，可以使用通用 API 轻松嵌入 YouTube 和 Vimeo 等播放器。 这也是我第一次用 VueJS 构建组件库，所以我很想听听大家对这个项目的反馈，这样我就可以改进它，让它变得更好。 如果你有兴趣，这里是 GitHub repo。 再加一颗星就更好了 :) 编辑： 我也在开发一个文档网站 安装 📦 # npm npm install /vueframe  设置⚙️ // main.ts / main.js import { createApp } 从 &#39;vue&#39; 导入 App 从 &#39;./App.vue&#39; 导入 VueFrame 从 &#39;@vueframe/vueframe&#39; createApp(App) .use(VueFrame) .mount(&#39;#app&#39;)  用法 💻 App.vue YouTube &lt;YouTube id=&quot;dQw4w9WgXcQ&quot; /&gt;  Vimeo &lt;Vimeo id=&quot;676247342&quot; /&gt;  Dailymotion 此组件目前不支持 autoplay 或 muted &lt;Dailymotion id=&quot;x8i1ffw&quot; /&gt;  Props 🎛️   Prop 类型 默认 说明    id string 必填 平台视频 ID   autoplay boolean false 自动开始播放   静音 boolean false 初始化视频静音   宽度 `字符串 数字` &quot;1024px&quot;   高度 `字符串 数字` &quot;576px&quot;   示例 🎯 使用道具 &lt;YouTube id=&quot;dQw4w9WgXcQ&quot; 自动播放静音 width=&quot;800px&quot; height=&quot;450px&quot; /&gt;  许可证 📄 MIT © vueframe    提交人    /u/Medical_Start4604   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gtidzd/vueframe_a_simple_vue_3_component_library_for/</guid>
-      <pubDate>Sun, 17 Nov 2024 17:14:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
