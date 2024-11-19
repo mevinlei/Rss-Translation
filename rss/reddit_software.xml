@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 15:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:10:29 GMT</lastBuildDate>
+    <item>
+      <title>像 Gyazo 一样工作的翻译软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gv7xqq/translator_software_that_works_like_gyazo/</link>
+      <description><![CDATA[我正在寻找一种软件，我可以通过拖动来选择一段文本（显然可能是 PDF 格式，我不想复制粘贴到谷歌翻译中）或一张无法复制粘贴的图片，这样我就可以立即进行翻译。基本上就是 gyazo 翻译器，不是为了截图。     提交人    /u/ayanakamuraa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv7xqq/translator_software_that_works_like_gyazo/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会使用像这样的人工智能文件管理器应用程序吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</link>
+      <description><![CDATA[大家好， 我一直在考虑为 macOS 创建一个文件管理应用，该应用使用 AI 以最简单、最智能的方式处理文件组织。这个想法是让用户给出简单的自然语言指令来组织、清理和管理他们的文件，而无需创建复杂的规则。我的意思是： 您只需输入一个提示，例如：  “将每个带有单词经济的文档标记为 #finance，然后将其移动到 Finance 文件夹。”  从那里，该应用处理所有事情 - 建议组织，帮助您删除旧文件或重复文件，甚至直接重新格式化或编辑文件（例如，将 PDF 转换为文本或调整图像大小）。所有操作在提交之前都可以预览，如果您改变主意，可以使用撤消功能。  它还可以处理计划的清理（例如在 X 天后自动删除临时文件夹），让您搜索文件中的内容，甚至可以与 Google Drive、Dropbox 或 OneDrive 等工具同步。您可以为快速任务制定一次性规则或设置临时工作流程，例如对过去 2 小时内处理过的文件进行分组。  目标：无需复杂的设置，只需告诉应用程序您想要什么，它就会在后端计算出来。  我考虑将这些功能定价为每月 8.99 美元。 您觉得怎么样？ 1. 您会使用这样的东西吗？ 2. 你会为此付费吗？如果不，什么让它值得？ 3. 您想要其他什么功能？  请随意发表评论，或者如果您愿意，可以给我发消息，安排一次关于您的需求或建议的快速聊天——我真的在尝试构建一些解决实际痛点的东西。  谢谢！     提交人    /u/Mattparr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv7gvw/would_you_use_an_aipowered_file_organizer_app/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>第二屏软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</link>
+      <description><![CDATA[大家好，我正在寻找一种可以在第一个屏幕上播放我的第二个屏幕的软件。 我的第二个屏幕在另一个房间，运行时，我需要从我的第一个屏幕（比如在一个小窗口中）观看它。 有人能帮帮我吗？谢谢    提交人    /u/Stock_Pitch_2966   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv6x08/second_screen_software/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 18 增加了秘密智能安全功能，可在三天后重启 iThings——“安全研究人员的逆向工程工作揭示了未记录的重启计时器，这将使攻击者的生活更加困难”</title>
+      <link>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</link>
+      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv4v2l/ios_18_added_secret_and_smart_security_feature/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>多格式图书阅读器</title>
+      <link>https://www.reddit.com/r/software/comments/1gv1py7/multiformat_book_reader/</link>
+      <description><![CDATA[我有很多电子书，至少有 4 种不同的文件扩展名。我正在寻找一款覆盖范围最广的软件，并且可能采用“瀑布阅读风格”（例如，不是从一页切换到另一页，而是让我看到书中的每一页）。    提交人    /u/Foreign_Factor4011   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv1py7/multiformat_book_reader/</guid>
+      <pubDate>Tue, 19 Nov 2024 16:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有应用程序/软件可以让游戏控制器在网站上工作，从而欺骗键盘软件，认为控制器正在按下键盘上的按键？抱歉，如果这毫无意义</title>
+      <link>https://www.reddit.com/r/software/comments/1gv0jlo/is_there_a_appsoftware_that_lets_a_game/</link>
+      <description><![CDATA[  由    /u/God-OwO  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gv0jlo/is_there_a_appsoftware_that_lets_a_game/</guid>
+      <pubDate>Tue, 19 Nov 2024 16:01:36 GMT</pubDate>
+    </item>
     <item>
       <title>控制 YouTube 成瘾功能的工具（开源）</title>
       <link>https://www.reddit.com/r/software/comments/1guz6uv/tool_to_control_youtubes_addictive_features_open/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/j_stein89  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gug79t/create_fillable_formpdf_on_mobile_with_option_to/</guid>
       <pubDate>Mon, 18 Nov 2024 21:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 PotPlayer 的图像与 Windows Media Player 相比看起来如此褪色？我没有应用任何设置。</title>
-      <link>https://www.reddit.com/r/software/comments/1guf7fz/why_does_potplayer_image_looks_so_washed_out/</link>
-      <description><![CDATA[  由    /u/Bell_Jolly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1guf7fz/why_does_potplayer_image_looks_so_washed_out/</guid>
-      <pubDate>Mon, 18 Nov 2024 20:51:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款可以大声朗读 PDF 的程序，而不是 Edge</title>
-      <link>https://www.reddit.com/r/software/comments/1gu7kaz/looking_for_something_that_reads_pdfs_aloud_that/</link>
-      <description><![CDATA[这个出乎意料地难找。而且我也不喜欢 Acrobar Reader。    提交者    /u/letsgobombtelaviv_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gu7kaz/looking_for_something_that_reads_pdfs_aloud_that/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>单击事件动作</title>
-      <link>https://www.reddit.com/r/software/comments/1gu7590/click_event_action/</link>
-      <description><![CDATA[有一款应用程序可让您选择付费获得无广告访问权限，或者点击按钮“强制”用户观看两个广告。 有人熟悉这个吗？ 这可能是该公司使用的广告网络的功能吗？ 附言：我的技术知识很少。    提交人    /u/INMPF   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gu7590/click_event_action/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪一个更好？ Hancom Office 2024 还是 O365？我应该选择 Hancom 还是 Microsoft？</title>
-      <link>https://www.reddit.com/r/software/comments/1gu4du5/which_one_is_better_hancom_office_2024_or_o365/</link>
-      <description><![CDATA[嗨，我之前用过 Polaris Office，现在想换个 Office 程序，因为出于某种原因，Polaris 无法在我的 Windows 11 桌面上运行，我正在考虑使用付费的办公程序，这里有两个我正在考虑的选项，Hancom Inc. 生产的 Hancom Office 2024（如果我们简单地说，它是微软的韩国版），以及微软的 O365。但是，我不知道该选哪一个。你们能推荐我哪一个更好吗？    提交者    /u/Ha_1133   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gu4du5/which_one_is_better_hancom_office_2024_or_o365/</guid>
-      <pubDate>Mon, 18 Nov 2024 13:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用日历发送短信</title>
-      <link>https://www.reddit.com/r/software/comments/1gu12a7/sending_sms_using_calendar/</link>
-      <description><![CDATA[我正在寻找一个可以与手机或 Windows 一起使用的简单工具，我可以使用它向我的客户发送短信提醒。理想情况下，它会在我的 Google 日历应用上添加一个选项卡（不仅在 PC 上），而且会非常便宜。 有什么建议吗？    由   提交  /u/errezerotre   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gu12a7/sending_sms_using_calendar/</guid>
-      <pubDate>Mon, 18 Nov 2024 09:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>VoiceAuth Deepfake 音频检测器</title>
-      <link>https://www.reddit.com/r/software/comments/1gtyodg/voiceauth_deepfake_audio_detector/</link>
-      <description><![CDATA[Voice Auth 是一款音频深度伪造检测应用程序，旨在识别被操纵的音频内容。该应用程序利用先进的机器学习模型来处理音频文件并提供有关其真实性的见解。它支持各种音频和视频格式，将它们转换为 WAV，并提取特征进行分析。该应用程序具有内置数据库并可在 Windows 上运行。 https://detectfakes.lemonsqueezy.com/buy/67e72299-f700-4f3c-a5f4-edda43f0728d    提交人    /u/desi_fubu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gtyodg/voiceauth_deepfake_audio_detector/</guid>
-      <pubDate>Mon, 18 Nov 2024 06:32:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

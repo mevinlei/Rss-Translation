@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 15:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:11:05 GMT</lastBuildDate>
     <item>
-      <title>您目前正在进行或维护多少个项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guzbs5/how_many_projects_are_you_currently_working_on_or/</link>
-      <description><![CDATA[查看投票    由    /u/rjdredangel 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guzbs5/how_many_projects_are_you_currently_working_on_or/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:10:02 GMT</pubDate>
+      <title>浏览器缓存了我的 .js 文件，解决了这个问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv7vql/the_browser_caching_my_js_files_just_saved_the_day/</link>
+      <description><![CDATA[自从上一周的某个时间以来，我没有备份我的 40kb .js 文件。我将更改直接提交到开发中，没有对这个项目使用任何版本控制。一切都运行良好。 我疯狂地编写代码，直到现在才开始测试。然后我进入了我通常的思维过程“好吧，我们再来一次，最好刷新缓存......”然后我意识到那是我唯一的备份。Ctrl+U -&gt; Ctrl+A -&gt; Ctrl+C 并能够避免大量返工。 我还没有测试我的疯狂代码。是时候找出答案了。哦，最后一件事，我在 1998 年左右开始了我的 lamp stack/Mozilla web 开发人员之旅，使用记事本和 Netscape Navigator。我是这个领域的新手。摇头   由    /u/multigrin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv7vql/the_browser_caching_my_js_files_just_saved_the_day/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>从头开始创建 NSFW 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guz7tp/nsfw_website_from_scratch/</link>
-      <description><![CDATA[大家好，希望你们都一切顺利。 我想创建一个 NSFW 网站。目前，我有一个基于 WordPress 和 Elementor 的网站，但尽管我付出了努力，我还是无法提高网站的速度，而且我已经被 Jetpack 暂停了使用。 我是 Web 开发新手，没有编码背景。我已经联系了 Webflow 和 Framer，但它们不允许 NSFW 内容。 如果您能推荐支持 NSFW 内容的网站构建器，我将不胜感激。或者，如果您能提供有关如何加速我当前网站的建议，那将会很有帮助。 我不确定这里是不是合适的提问地点，但我会尝试一下。我正在努力让我的网站在 Google 上编入索引，但编入索引的页面排名不佳。我的大部分流量来自 DuckDuckGo 和 Bing。    提交人    /u/AnimeRush0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guz7tp/nsfw_website_from_scratch/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:05:14 GMT</pubDate>
+      <title>构建我的第一个免费 Web 工具 - 寻找想法！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv7oiw/building_my_first_free_web_tool_looking_for_ideas/</link>
+      <description><![CDATA[      我正在深入研究我的第一个真正的 Web 开发项目，我正在将我使用的电子表格转换为免费的 Web 应用程序。该工具可帮助跟踪签证要求，特别是离开某个国家/地区等事项，以确保您符合某些规则（例如，居住或公民身份）。 到目前为止，它的功能如下：  跟踪入境和出境日期。 计算在英国境外度过的天数。 显示连续 12 个月的缺勤总数。 突出显示您是否超出了限制，例如在国外停留时间过长。  我是为了个人需要而构建这个，但我认为它也可以帮助其他人。它将完全免费（我正在使用它来学习如何构建 SaaS 工具并最终将其货币化）。 由于这是我的第一个项目，我很乐意听听您的想法：  您希望在这样的工具中拥有哪些功能？ 哪些其他类型的跟踪或计算会使它更有用？ 对于完全的初学者（实际上没有经验），我应该确保在这样的网站中添加哪些内容  非常欢迎任何反馈、功能创意或一般建议！提前致谢！😊    提交人    /u/braingetsbitter   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv7oiw/building_my_first_free_web_tool_looking_for_ideas/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:54:36 GMT</pubDate>
     </item>
     <item>
-      <title>后端/全栈开发人员可以转型到哪些职位？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guyk2q/what_positions_can_backend_fullstack_developer/</link>
-      <description><![CDATA[凭借您作为 Web 开发人员的技能，尤其是后端或全栈开发人员，您认为您可以转行到技术领域的其他领域吗？  我目前正在从事后端工作，但我担心当我找到工作时，我可能不喜欢它并失去对它的热情。您是否认为可以转行到不同的领域，例如移动开发、网络安全、云计算物联网、Devops 等？    提交人    /u/DeliciousPiece9726   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guyk2q/what_positions_can_backend_fullstack_developer/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:35:54 GMT</pubDate>
+      <title>LF 轻量级 CSS 框架 - 可打印结构友好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv7k68/lf_lightweight_css_framework_printable_structure/</link>
+      <description><![CDATA[嘿！ 我想从头开始重写我的，我们称之为作品集，但是我的目标是更多的 CV/Resume 方法，主要对轻量级感兴趣，结合网格系统，并且仍然维护框架，我觉得 bootstrap 对于我想要开发的简单页面来说太臃肿了，并且大多数其他选项有点过时或不再更新。 我当前的页面在 Materialize 下运行，但我发现一些组件的错误将不再得到解决。也在看 Skeleton，但它已经 10 年没有更新了。 感谢任何类型的建议，即使是主流选项之外的建议。 谢谢！    提交人    /u/greckzero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv7k68/lf_lightweight_css_framework_printable_structure/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:49:27 GMT</pubDate>
     </item>
     <item>
-      <title>我对 CORS 的看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guy8om/my_thoughts_on_cors/</link>
-      <description><![CDATA[      如果你从事过 Web 开发，那么你可能对 CORS 很熟悉，并且遇到过这种错误： CORS 错误 CORS 是跨域资源共享的缩写。它基本上是一种控制哪些来源可以访问资源的方法。它创建于 2006 年，出于重要的安全原因而存在。 CORS 最常见的用途是防止其他网站在另一个网站上代表您执行操作。假设您在网站 A 上登录了您的银行账户，您的凭证存储在您的 cookie 中。如果您访问恶意网站 B，其中包含调用网站 A 的 API 进行交易或更改您的 PIN 的脚本，这可能会导致盗窃。 CORS 可防止这种情况发生。 跨站点攻击（来源：Felipe Young） CORS 的工作原理如下：每当您向端点发出获取请求时，浏览器首先使用 OPTIONS HTTP 方法发送预检请求。然后，端点返回指定允许的来源和方法的 CORS 标头，从而限制 API 访问。收到响应后，浏览器会检查这些标头，如果有效，则继续发送实际的 GET 或 POST 请求。 预检请求（来源：MDN） 虽然这种机制有效地防止了恶意行为，但它也限制了网站从其他域或 API 请求资源的能力。这让我想起了大型科技公司如何声称实施隐私功能，同时却服务于其他目的。我不会深入探讨从其他网站请求资源的道德问题，我认为这与网络抓取类似。 在构建仅限客户端的 Web 应用程序时，这种限制尤其令人沮丧。就我而言，我正在构建独立 YouTube 播放器 Web 应用，我需要两个简单的功能：搜索（使用 DuckDuckGo API）和视频下载（使用 YouTube API）。两个端点都有 CORS 限制。那么我们能做什么呢？ 一种解决方案是创建一个后端服务器，将客户端的请求代理/中继到远程资源。这正是我所做的，通过创建Corsfix，一个 CORS 代理来解决这些错误。但是，还有其他流行的开源项目，例如 CORS Anywhere，它们为自托管提供了类似的解决方案。 CORS 代理将请求中继到远程资源 尽管某些 API（例如 YouTube 的视频 API）限制性更强，需要额外检查来源和用户代理标头（禁止在请求标头中修改）。传统的 CORS 代理无法绕过这些限制。对于这些情况，我在 CORS 代理实现中具有特殊的标头覆盖功能。 回顾制作我的 YouTube 播放器网络应用后，我开始思考如果跨源请求没有那么严格，网络会是什么样子，同时仍然保持针对跨站点攻击的安全性。我认为 CORS 代理是朝着更开放的网络迈出的一步，网站可以自由使用整个网络的资源。    提交人    /u/MagnussenXD   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guy8om/my_thoughts_on_cors/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:21:44 GMT</pubDate>
+      <title>提出你的想法，让我们一起创造一些东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv721u/throw_your_ideas_lets_built_something/</link>
+      <description><![CDATA[我是一名前端开发人员，在 Next.js、React 和一些 three.js 以及 node.js 方面有 3 年以上经验。  有点厌倦找一份体面的远程工作，所以同时想做一些很酷的事情并提升我的技能。如果你有一些一直想实现的想法，或者有任何需要帮助的当前项目。请告诉我，我们可以一起看看并合作。  不寻找任何特定的东西，欢迎任何想法。希望获得一些人脉和更多技能来借出一份工作。请在下方发表评论或随时通过 dm 与我联系。 谢谢 :)    提交人    /u/Emotional_Peace_4290   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv721u/throw_your_ideas_lets_built_something/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能开始学习我需要知道的一切？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guy8i4/how_do_i_get_started_in_learning_everything_i/</link>
-      <description><![CDATA[我要上课吗？我要参加训练营吗？要证书吗？我如何开始从事 Web 开发/设计/UX/UI。我对编码知之甚少（大约高中学期课程）。谷歌搜索让我找到了很多地方和选择。我想知道我是否可以擅长这个。有什么建议吗？ 附言：我当地的大学提供类似的在线课程，这些课程有帮助吗？  https://careertraining.uh.edu/training-programs/front-end-web-developer/ https://careertraining.uh.edu/training-programs/web-design-professional/    提交人    /u/bigbadapostate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guy8i4/how_do_i_get_started_in_learning_everything_i/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:21:30 GMT</pubDate>
+      <title>构建您自己的超级简单分析。愚蠢吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv6ya6/building_your_own_super_simple_analytics_dumb/</link>
+      <description><![CDATA[当有人访问我的网站时，我只想记录几件事：  特定搜索参数的值 他们是否已登录 作为主页的服务器组件，无论如何都会发生另一项服务器计算的事情  仅仅登录已经受到攻击的 postgres db 来检查他们是否已登录，这是不是很愚蠢？每次访问只记录一行？你们还在使用访问日志类型的服务吗？ 我曾将 Google Analytics 用于其他项目，但目前我并没有真正尝试为这个项目使用它。此外，如果没有一些定制，它仍然不会给我我想要的东西。还希望保持干净，并且不希望仅为了分析而出现同意提示。 谢谢！    提交人    /u/werdnaegni   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv6ya6/building_your_own_super_simple_analytics_dumb/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:23:44 GMT</pubDate>
     </item>
     <item>
-      <title>我怎样才能开始学习我需要知道的一切？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guy7m0/how_do_i_get_started_in_learning_everything_i/</link>
-      <description><![CDATA[我要上课吗？我要参加训练营吗？要证书吗？我如何开始从事 Web 开发/设计/UX/UI。我对编码知之甚少（大约高中学期课程）。谷歌搜索让我找到了很多地方和选择。我想知道我是否可以擅长这个。有什么建议吗？ 附言：我当地的大学提供类似的在线课程，这些课程有帮助吗？  https://careertraining.uh.edu/training-programs/front-end-web-developer/ https://careertraining.uh.edu/training-programs/web-design-professional/    提交人    /u/bigbadapostate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guy7m0/how_do_i_get_started_in_learning_everything_i/</guid>
-      <pubDate>Tue, 19 Nov 2024 14:20:22 GMT</pubDate>
+      <title>帮助我摆脱教程地狱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv6one/help_me_to_get_out_of_tutorial_hell/</link>
+      <description><![CDATA[我不确定我是否在 TUTORIAL HELL 中，我只能开发我观看/阅读的项目，我可以在不看教程的情况下进行开发，但是当我尝试开发自己的项目时，我的大脑一片空白。    提交人    /u/imStan2000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv6one/help_me_to_get_out_of_tutorial_hell/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:12:34 GMT</pubDate>
     </item>
     <item>
-      <title>您在日常工作中使用 GitHub Copilot 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guxqh4/do_you_use_github_copilot_in_your_daily_work/</link>
-      <description><![CDATA[我想问问大家在日常工作中是否使用过 GitHub Copilot。我从事软件开发大约 5 年了，从来没有使用过 GitHub Copilot，无论是学习还是工作。这个月，我决定尝试一下，老实说，它效果很好，比单独使用 ChatGPT 更好。 它能帮助你提高生产力、效率和代码质量吗？ 主要是，我想知道是否还有其他人和我一样没有使用过这类工具，无论是 Copilot、Cursor 还是类似的工具。为什么？    提交人    /u/Hot_Form5476   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guxqh4/do_you_use_github_copilot_in_your_daily_work/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:58:24 GMT</pubDate>
+      <title>从错误页面下载数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv61n2/downloading_data_from_an_faulty_page/</link>
+      <description><![CDATA[大家好，我正在尝试从政府网页下载一些用于研究的数据，以 Excel 文件的形式。我尝试了 50 次，但只有几次成功下载。  每当我单击下载按钮时，它都会刷新页面或给出校验和错误。在 Edge 浏览器中，我已成功下载，但在 chrome 或 mozilla 中，它直接给出校验和错误。  有关如何下载数据的任何提示？     提交人    /u/EquivalentSir8225   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv61n2/downloading_data_from_an_faulty_page/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:45:38 GMT</pubDate>
     </item>
     <item>
-      <title>帮忙，找一个网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guxn3g/help_finding_a_website/</link>
-      <description><![CDATA[您好，我尝试查找该网站几个小时了。以下是详细信息： - 它是 3D 的。 - 旧 PC 模拟器（Amiga？），外壳看起来是棕色的。 - 您可以旋转 PC 来检查它。 - PC 可以播放 Bad Apple。 - 它有环境噪音和哔哔声。 我非常感谢大家的帮助！T~T    提交人    /u/2huyomo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guxn3g/help_finding_a_website/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:53:52 GMT</pubDate>
+      <title>允许通过 SSH 会话执行一个命令是 Golang 的事情吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv5fpv/is_it_golang_thing_to_allow_one_command_via_ssh/</link>
+      <description><![CDATA[嘿，我正在尝试通过 ssh 运行多个 linux 命令，但是 golang 本机库每个会话只允许一个命令😅     提交人    /u/simokhounti   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv5fpv/is_it_golang_thing_to_allow_one_command_via_ssh/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:19:59 GMT</pubDate>
     </item>
     <item>
-      <title>寻找开源贡献者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guwk3y/looking_for_opensource_contributors/</link>
-      <description><![CDATA[我们 Librum (https://github.com/Librum-Reader/Librum) 正在开发一种适用于所有平台的现代开源电子书阅读器和图书馆解决方案。 最近帮助我们在 librumreader.com 开发网站的 Web 开发人员最近收到了工作邀请，没有时间再做出贡献了。 我们正在寻找愿意做出贡献并积累一些经验的 Web 开发人员。当然，我们的网站也是完全开源的，网址为 https://github.com/Librum-Reader/Librum-Website。 如果您有兴趣做出贡献，请随时给我发送 DM 或在 discord 上联系我（m_david） PS：我们正在使用 nextjs 和 stripe，因此在这些领域有一些经验会很棒 🙂    提交人    /u/Creapermann   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guwk3y/looking_for_opensource_contributors/</guid>
-      <pubDate>Tue, 19 Nov 2024 13:00:34 GMT</pubDate>
+      <title>保持警惕 - 使用自动换行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv50oa/be_vigilant_use_word_wrap/</link>
+      <description><![CDATA[      我会简短地说一下，有人通过 github 联系我，他们想知道我是否愿意面试这个职位？我说为什么不呢，因为它写得很好，没有泄露任何危险信号（除了他们的 figma 设计是公开的，大约有 10 个人在研究它），他们马上回复了我的电子邮件，提供了一个 bitbucket repo，它是公共的，我克隆了它，但我知道这是一种骗局，于是开始在受限视图下浏览代码，没有安装任何依赖项或尝试运行它，看看我发现了什么，幸运的是我的自动换行已经打开了，否则我会跳过它，因为它远远超出了视图！！ 恶意代码超出了正常屏幕的视野宽度 此外，我之前没有考虑太多，但我认为 tailwind 的配置文件中没有 testing-library/jest-dom    提交人    /u/UmairJibran   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv50oa/be_vigilant_use_word_wrap/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:02:40 GMT</pubDate>
     </item>
     <item>
-      <title>你们是怎么做到的？这是通过经验来学习的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guwgm1/how_u_guys_do_it_is_it_something_one_learns_with/</link>
-      <description><![CDATA[ 对于刚开始使用 npm 库的人，您推荐哪些策略或技巧来快速了解其功能并有效地解决问题？ 在这种情况下，如何掌握有效查找和解决问题的艺术？     提交人    /u/RadiantGlow07   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guwgm1/how_u_guys_do_it_is_it_something_one_learns_with/</guid>
-      <pubDate>Tue, 19 Nov 2024 12:55:17 GMT</pubDate>
+      <title>要学习新语言吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv4szy/new_language_to_learn/</link>
+      <description><![CDATA[我是一名拥有近 4 年经验的 Web 开发人员。在第 3 年，我的头衔从 Web 开发人员变为全栈开发人员，希望下个季度能从初级变为中级。虽然我对目前的公司很满意，但我一直在随意浏览新的机会并申请职位。似乎 Golang 和 Ruby on Rails 正在成为中级全栈开发人员职位更常见的要求。  你建议我学习什么？我目前的堆栈是混合的，因为我在一家代理机构工作，我有使用 React、Next、Node、SQL、GraphQL 领导项目的经验，以及使用 GCP 和 AWS 的经验。     提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv4szy/new_language_to_learn/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:54:11 GMT</pubDate>
     </item>
     <item>
-      <title>如果一切都使用 SSL，那么通过酒店或咖啡馆 WiFi 登录平台的服务器和 API 是否安全？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guwglx/is_it_safe_to_login_into_server_and_api_for/</link>
-      <description><![CDATA[我知道这不是一个直接的 Web 开发问题，但我只是想知道，如果所有网站都经过 SSL 认证并且所有内容都经过加密（例如托管或 API 网站），登录公共 Wi-Fi 是否安全。     提交人    /u/ashkanahmadi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guwglx/is_it_safe_to_login_into_server_and_api_for/</guid>
-      <pubDate>Tue, 19 Nov 2024 12:55:17 GMT</pubDate>
+      <title>GoDaddy 偷了我的域名......骚扰他们，然后把它拿回来。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv4l0l/godaddy_stole_my_domain_harassed_them_getting_it/</link>
+      <description><![CDATA[不确定是否有人遇到过这种情况，但基本上我没有收到他们的任何消息，说我的域名没有续订，我登录后发现我的所有域名都不见了，我的名字和姓氏域名已被别人占用。我查看了 WHOIS 数据，我看到的只有“被 GoDaddy 收回”，但他们还试图强迫我购买它 + 经纪费……我的名字非常不常见，更不可能有人会用它作为域名！ 遗憾的是，我不得不对客户支持人员表现得像个混蛋 Karen，向他们发送了类似问题的链接，并告诉他们我已经是十多年的客户了，我“需要”此问题已解决。 从客服人员那里收到此消息和相应的电子邮件。 “我已经与我们关注的团队核实过，我们提出了取回域名的特殊请求，这是票据 ID：######，他们提到该域名肯定会在 72 小时内存入您的 GoDaddy 账户。” 编辑：他们已经找回了！：D    提交人    /u/Minimum-Mine2646   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv4l0l/godaddy_stole_my_domain_harassed_them_getting_it/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>需要指导在服务器上托管网站、数据库和 Python 脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guvx0u/need_guidance_to_host_a_website_a_database_and/</link>
-      <description><![CDATA[我有一个包含某些记录的 excel 文件。我还有各种 python 脚本来处理 excel 并生成图表以分析数据、更新记录和其他操作。 问题是，到目前为止，我是在自己的笔记本电脑上完成的，没有其他人能理解流程。现在有更多人了，我将 excel 文件转换为 sql 数据库，并在 chatgpt 的帮助下制作了一个基于 python 的 gui，它允许在后台隐藏代码的所有功能。但现在我被要求将 gui 放在受密码保护的网站上，以便任何人都可以随时在任何设备上访问数据库并与其交互。   我不是计算机专业出身，以前从未做过，但我的猜测是，我需要一个服务器来存储我的数据库、网站代码和 Python 文件，每当用户发送请求时，这些文件就会在服务器上执行。 有人能帮我将我的需求转化为所需的确切资源吗？例如，什么样的服务器，多贵等等？这样我就可以继续了吗？我不知道该怎么做。 如果有一些 GitHub repo 可以复制和修改，那就太有帮助了  谢谢    提交人    /u/Economy-Inspector-69   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guvx0u/need_guidance_to_host_a_website_a_database_and/</guid>
-      <pubDate>Tue, 19 Nov 2024 12:24:40 GMT</pubDate>
+      <title>已更新：Scratch Position NSFW 网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv3xcw/updated_scratch_position_nsfw_website/</link>
+      <description><![CDATA[我要感谢每一位对我之前的帖子发表评论并提出有用建议的人。 我已经实施了你们所有的建议并改进了网站。还添加了一项功能，您可以在其中创建自己的自定义每日海报。看看吧 你们太棒了！ 谢谢。 编辑：如果有任何建议，请留下 网站：scratch position    提交人    /u/S_Badu-5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv3xcw/updated_scratch_position_nsfw_website/</guid>
+      <pubDate>Tue, 19 Nov 2024 18:18:32 GMT</pubDate>
     </item>
     <item>
-      <title>同意 Cookie</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guvco6/cookie_consent/</link>
-      <description><![CDATA[熟悉 datadog 的 _dd_s cookie 的人都知道，这种 cookie 似乎是一种性能 cookie，但在实施它的网站中挖掘后，我发现尽管没有同意使用性能 cookie，但这种 cookie 仍然存在，我很难将其归类为理想情况下我认为这不是严格必要的 cookie，但考虑到所有网站都以严格必要 cookie 的形式使用它。您可以通过访问 nextdoor.co.uk 来重现此情况，尽管拒绝了所有 cookie，但 _dd_s 仍然作为 cookie 存在。任何帮助或指导都将不胜感激     提交人    /u/tinny_og   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guvco6/cookie_consent/</guid>
-      <pubDate>Tue, 19 Nov 2024 11:50:51 GMT</pubDate>
+      <title>创建问题或 Jira 票证通常很无聊，尝试使用 Talez 只需单击一下即可在 github 上创建问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv2g2u/creating_issues_or_jira_tickets_is_often_boring/</link>
+      <description><![CDATA[产品经理和产品工程师通常不想因为开发新功能而浪费带宽，因此创建 jira 或 github 问题并不在首要任务，但如果我们为他们创建它，只需添加头脑风暴或模糊的功能想法、错误或任何你想构建的东西，然后单击即可连接存储库并创建自动化 github 问题  在 https://app.talez.xyz 上尝试或访问我们 www.talez.xyz    提交人    /u/tiptHoeSGTdotpy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv2g2u/creating_issues_or_jira_tickets_is_often_boring/</guid>
+      <pubDate>Tue, 19 Nov 2024 17:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>什么最适合自由职业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guv4vj/what_is_best_for_freelancing/</link>
-      <description><![CDATA[我并不是想找一份全职的 Web 开发工作，但我愿意花时间学习。我已经有编程经验了；我以前用过 Java Swing，并用它创建了一个很棒的项目。但是，我想把 Web 开发作为副业，所以我选择了自由职业，因为它是最容易进入的。 当我研究要学习的最佳语言和框架时，我发现与 Django 相比，Shopify 和 WordPress 等现有 API 在 Fiverr 等平台上的需求量很大。这是真的吗？我应该花时间学习这些而不是 Django 吗？如果您能提供任何建议，我将不胜感激。    提交人    /u/prometheus7071   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guv4vj/what_is_best_for_freelancing/</guid>
-      <pubDate>Tue, 19 Nov 2024 11:36:56 GMT</pubDate>
+      <title>全栈 Web 开发人员和软件工程师有什么区别？我是谁？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv1mdm/difference_between_full_stack_web_developer_and/</link>
+      <description><![CDATA[我目前是 IT 学士学位的三年级学生，我知道使用 nodejs 进行全栈开发，我知道 python 并且解决了 120 多个 dsa 问题并且仍在学习它，正如我之前提到的全栈，所以我还了解数据库。那么现在我是一名 Web 开发人员还是一名软件工程师？如果我现在是一名 Web 开发人员，那么我可以学习哪些技能来成为一名软件工程师？    提交人    /u/addy118   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv1mdm/difference_between_full_stack_web_developer_and/</guid>
+      <pubDate>Tue, 19 Nov 2024 16:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>当 ChatGPT 搞砸了：设计和用户体验方面的一课</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guutq0/when_chatgpt_messed_up_a_lesson_in_design_and_ux/</link>
-      <description><![CDATA[      今天，我在离线状态下打开了 ChatGPT 应用，收到的错误消息充斥着技术术语 — — 大多数用户都不知道如何解读这些术语。通知显示了调试级别的详细信息，例如错误域、代码和系统密钥，这些对于普通用户来说是不必要的，而且坦率地说，令人沮丧。 这次经历让我反思以用户为中心的设计，以及错误消息如何影响用户体验。虽然开发人员需要详细的日志进行调试，但向用户呈现此类原始信息会造成混乱并降低应用的整体可用性。 我认为像“无法登录，请确保您的设备已连接到互联网”这样的简单消息会更加用户友好。    提交人    /u/originalfaskforce   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guutq0/when_chatgpt_messed_up_a_lesson_in_design_and_ux/</guid>
-      <pubDate>Tue, 19 Nov 2024 11:15:57 GMT</pubDate>
+      <title>网页社区笔记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv1l67/webpage_community_notes/</link>
+      <description><![CDATA[您好，抱歉，这是错误的区域。我想创建一个非常基本的网页，但我想添加一个功能。我希望有一个开放的聊天框。访问者可以在聊天框中输入内容，任何人都可以看到或回复或输入自己的东西。它将只是一个永无止境的访客评论滚动。  我很难找到任何像这样的插件或代码，我可以添加到网站。  任何想法或指导都将不胜感激。  谢谢    提交人    /u/Godswill01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv1l67/webpage_community_notes/</guid>
+      <pubDate>Tue, 19 Nov 2024 16:44:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
