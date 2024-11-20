@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:15:07 GMT</lastBuildDate>
+    <item>
+      <title>针对前端开发人员和 Figma 的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvverz/question_for_frontend_devs_and_figma/</link>
+      <description><![CDATA[作为前端开发人员，我发现自己经常不得不花费大量时间在 figma 中做一些变通方法，因为我的设计师喜欢从驱动器中获取多张图像并将它们粘贴到同一个“位置”，使它们看起来和表现得像一张图像，但甚至没有对它们进行分组？ 另一个例子是到处都是框架，不尊重容器边框，或者在图像上添加渐变等。 基本上，他们使用 figma 直接处理图像，而不是其他软件，然后只需在 figma 中粘贴已经处理过的图像。 这是常见的做法吗？我需要接受这个事实，还是意味着我的设计师必须学习如何正确地将完成的设计交给我们？ 提前谢谢！    提交人    /u/Main_Problem3269   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvverz/question_for_frontend_devs_and_figma/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web Dev Portfolio - 它需要使用 HTML 和 CSS 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvvc45/web_dev_portfolio_does_it_need_to_be_in_html_css/</link>
+      <description><![CDATA[正如标题所述：您的作品集是否必须完全使用 HTML 和 CSS 制作？ 我于 4 月或 6 月从训练营毕业，作为最终项目，我们必须从第一章开始重新创建我们的作品集网站。我在网上找到了一个很棒的调色板，对每个页面的外观有一个基本的想法，然后就开始了。话虽如此，我对它很满意，但我毕业不到 5 个月，意识到市场仍然竞争激烈，也许我应该重新设计它的外观。 我之所以问这个问题，是因为 HTML 和 CSS 是相当重要的技能（至少在我看来，主要是从材料中自学的）。我想我可能很快就能用 React 和 MatUI 重新制作我的整个作品集，问 GPT 是否需要任何帮助。但我突然想到未来的雇主/客户会看到这个网站。他们会从各个方面对其进行评判（至少我作为一名有抱负的初级开发人员是这么担心的）。话虽如此……你们对此有什么看法？ 提前感谢大家的时间、建议和评论。我仍在努力学习 Reddit 并正确使用它，因此如果我犯了错误，请冷静地纠正我。    提交人    /u/Cameron8325   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvvc45/web_dev_portfolio_does_it_need_to_be_in_html_css/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:44:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>雇用某人是否值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvuf3t/is_it_worth_it_to_just_hire_someone/</link>
+      <description><![CDATA[我敢肯定这个问题每天都会被问上百次，但我却不知所措。我有一家小公司，需要为其建立一个网站。我对这些都不是很熟悉，所以我不确定我是否能处理好 Wix、Squarespace、Wordpress 等。是否值得直接雇人，还是说一个真正的傻瓜可以自己解决这个问题？如果我要雇人，我应该考虑什么样的预算？ 就背景而言，我的网站需要一些东西。一个商店（因此是人们可以购买服务的界面）、一个日历（以便人们可以安排上述服务）、一个博客部分，可能还有一个关于我的页面。我也教课，需要想办法让我的网站上有这些课程（预先录制的视频或实际的 1：1 在线） 提前感谢任何提示或建议🥺    提交人    /u/kalyahh   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvuf3t/is_it_worth_it_to_just_hire_someone/</guid>
+      <pubDate>Wed, 20 Nov 2024 17:08:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲复制替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvto76/european_replicate_alternative/</link>
+      <description><![CDATA[嘿！ 有没有欧洲复制的替代方案？我想运行模型，但只需支付推理费用    提交人    /u/Dizzy-Revolution-300   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvto76/european_replicate_alternative/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:37:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个视觉上令人愉悦的 HTML 颜色名称显示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvt91o/i_created_a_visually_pleasing_html_color_name/</link>
+      <description><![CDATA[  由    /u/Madsenmm  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvt91o/i_created_a_visually_pleasing_html_color_name/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始构建一个网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvt1ys/building_a_website_from_scratch/</link>
+      <description><![CDATA[我是一名产品所有者，我想学习开发方面的内容。我购买了一个 URL，想从头开始构建一个网站。我正在寻找开发网站所需研究内容的分步说明。我很菜，不理解其他帖子中的所有首字母缩略词。 网站要求：3-5 个选项卡。一个选项卡是关于我本人的，带有照片。第二个选项卡是日历，最好链接到我的苹果日历，这样我就可以显示可用的日子。第三个选项卡是时事通讯，然后我希望有空间随着时间的推移和需要来增加功能。 任何关于从哪里开始和初学者资源的建议都会有所帮助。此外，您建议我使用哪种语言？    提交人    /u/roseinmybud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvt1ys/building_a_website_from_scratch/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dribbble 社区！创建群聊！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvsypc/dribbble_community_creating_a_group_chat/</link>
+      <description><![CDATA[希望在 Dribbble 上找到其他设计师来帮助发展我们自己的帐户！ 给我发送 DM，我将与所有人创建一个 reddit 群聊 :)    提交人    /u/SEOwhale   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvsypc/dribbble_community_creating_a_group_chat/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>请问如何从此网站复制文本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvs8it/how_to_copy_text_from_this_site_pls/</link>
+      <description><![CDATA[我试图将文本从此站点复制到文本文档。但不知何故，当我尝试在 PC 上复制粘贴时，我得到的是“编码乱码”。而当我尝试从 android 复制粘贴时，我得到的是中文文本。 请帮忙。谢谢    提交人    /u/Goble_hook   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvs8it/how_to_copy_text_from_this_site_pls/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要知道如何使用我的新主机实现多开发环境吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvrwoe/need_to_know_how_to_implement_multidev/</link>
+      <description><![CDATA[我刚刚开始使用 Rapyd Cloud，但无法找到创建多开发环境的解决方案。我们基本上利用多开发环境来有效地管理功能分支。例如，如果我们正在对页面进行拟议的重新设计，多开发允许我们将这项工作隔离在其自己的环境中。这确保了主要开发环境保持干净，不受不完整功能的影响。 同时，我们可以继续在主要开发环境中解决小修复和增强问题，并通过常规管道将这些更改推送到 QA 和上线。功能分支完成后，我们会将其与最新版本合并，然后继续相同的流程：将其推送到开发、QA，最后上线。 我现在无法在 Rapyd cloud 上开发此工作流程，但他们专注于他们的产品搜索发布和活动，而不是帮助我。 我是从设计师转行做开发者，所以无法从技术上向他们解释如何做到这一点。有人使用过他们的托管并遇到过类似的问题吗？请帮我向他们轻松解释这一点，以便他们了解我的要求！！    提交人    /u/CandidReflection4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvrwoe/need_to_know_how_to_implement_multidev/</guid>
+      <pubDate>Wed, 20 Nov 2024 15:21:52 GMT</pubDate>
+    </item>
     <item>
       <title>有没有人注意到世界上仍在运行的最古老的网站 itcorp.com 已更改为自行车装备设计网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gvqvrm/has_anyone_else_noticed_the_oldest_still_running/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[  由    /u/specy_dev  提交  ​​[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvq3xi/css_only_text_color_generation_from_background/</guid>
       <pubDate>Wed, 20 Nov 2024 13:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>将阿里巴巴/速卖通的列表移植到他们的产品页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvph7k/porting_listings_from_alibaba_aliexpress_into/</link>
-      <description><![CDATA[        提交人    /u/attxb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvph7k/porting_listings_from_alibaba_aliexpress_into/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>将页面适合整个屏幕。（无滚动条）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvp46k/fitting_a_page_in_whole_screen_no_scrollbars/</link>
-      <description><![CDATA[我已经对 vh 和 100% body、HTML 进行了研究，并且尝试了 vh 和 %。我已经这样做了。但它仍然不起作用。 图像仍然超出范围。我已经设置了内容所在的特定容器的高度，因此图像应该遵守其高度。 这是我的代码    提交人    /u/Separate_Ad_8110   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvp46k/fitting_a_page_in_whole_screen_no_scrollbars/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>无聊吗？就做了这个。终极拖延游戏！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvoezr/bored_just_made_this_the_ultimate_procrastination/</link>
-      <description><![CDATA[  由    /u/Turbulent_Goat1988  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvoezr/bored_just_made_this_the_ultimate_procrastination/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以让网站完全透明吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvo5nz/is_there_anyway_to_make_a_website_fully/</link>
-      <description><![CDATA[      目前背景颜色设置为黑色。透明度是通过 Mac 上的 yabai 窗口管理器实现的。让它完全透明看起来会很酷 https://preview.redd.it/080​​er21lt12e1.png?width=4220&amp;format=png&amp;auto=webp&amp;s=2be50994f54db0f4ac3c66829613eb8fe02a1305    提交人    /u/Arkastorss   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvo5nz/is_there_anyway_to_make_a_website_fully/</guid>
-      <pubDate>Wed, 20 Nov 2024 12:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>初创公司希望我从 MERN 堆栈切换到 PhP 和其他语言</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvn4sf/startup_wants_me_to_switch_from_mern_stack_to_php/</link>
-      <description><![CDATA[嗨，我是一名刚入行的 MERN 堆栈开发人员，我在一家小型初创公司面试，他们希望我首先学习 PhP、MySQL、AJAX、JS、jquery、curl 的基础知识。我对 JavaScript 和 MySql 非常熟悉，仅此而已。我需要一些建议，这些技术是否仍然有需求，或者如果我离开初创公司，我是否会根据这些技术堆栈找到工作。  TLDR：对于一名 mern 开发人员来说，花时间学习 php、mysql、ajax、jquery、curl 是否值得。     提交人    /u/whyadiwhy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvn4sf/startup_wants_me_to_switch_from_mern_stack_to_php/</guid>
-      <pubDate>Wed, 20 Nov 2024 11:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有新的显示器推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvmrl2/new_monitor_recommendations/</link>
-      <description><![CDATA[我是一名 WFH 全栈 Web 开发人员，我想升级我那台可笑的第二台显示器：19 英寸和 900p 分辨率。我的主要显示器是 MSI：24、1080p 和 144Hz，它将成为我的第二台显示器。 您会推荐哪台显示器作为我的主显示器？为了提供更多背景信息：我的桌面不是特别大，我还计划在我的计算机上玩一些游戏（与 FPS 或 4K 游戏无关，我的 PC 处于中低端），我最有可能将我的第二台显示器垂直放置。 如果显示器物有所值，预算并不是真正的问题，我可以考虑购买两台显示器并将它们一个放在另一个上面。    提交人    /u/ChrisDorne   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvmrl2/new_monitor_recommendations/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用第三方服务时如何管理客户账单？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvmgik/how_to_manage_billing_for_client_when_using_3rd/</link>
-      <description><![CDATA[大家好，各位开发人员！ 我一直在为客户开发一个全栈项目，并且我正在 render 上托管它（目前）。它使用 twilio 进行短信验证。 问题 - 我如何管理客户的所有账单，截至目前，我在 render 和 twilio 上使用自己的帐户，但是假设使用量增加并且有一些额外费用，该怎么办？ 我能想到的可能解决方案：1）让我的客户在 render 和 twilio 上注册一个帐户并授予我访问权限，以便我可以设置它并让他们管理所有付款，而我只需管理其他东西。 2）我手动跟踪所有费用（使用我的帐户），并完全相信我的客户不会逃跑。 3）希望 render 和 twilio 以及其他服务之间有某种团队协作协议功能，可以将账单交给我的客户。 我相信我们这里的一些开发人员已经在专业行业工作过了，可以在这里帮助我。  感谢您的时间！    由    /u/angry_ducky1 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvmgik/how_to_manage_billing_for_client_when_using_3rd/</guid>
-      <pubDate>Wed, 20 Nov 2024 10:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在面试过程中，我被要求接受测谎仪测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvkt0g/asked_to_do_a_polygraph_as_a_part_of_my_interview/</link>
-      <description><![CDATA[正如标题所说，最近有一位招聘人员联系了我，告诉我一家服装公司需要一名 Web 开发人员加入他们的团队。他们还告诉我，面试中需要进行测谎测试。  这太疯狂了，对吧？     提交人    /u/OblivionEcstacy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvkt0g/asked_to_do_a_polygraph_as_a_part_of_my_interview/</guid>
-      <pubDate>Wed, 20 Nov 2024 08:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>AAA - 分析抗锯齿</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvkqod/aaa_analytical_antialiasing/</link>
-      <description><![CDATA[        提交人    /u/Frost-Kiwi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvkqod/aaa_analytical_antialiasing/</guid>
-      <pubDate>Wed, 20 Nov 2024 08:11:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

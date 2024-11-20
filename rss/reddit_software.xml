@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:14:41 GMT</lastBuildDate>
+    <item>
+      <title>paintribbon 静默安装</title>
+      <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序，它看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给了我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是给出了那个错误 是不是因为我在 Windows 11 上？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
+      <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>意外删除了系统程序 – 恢复出厂设置后浏览器和媒体无法使用，如何恢复系统文件？</title>
       <link>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我下载了很多每周发布的 100% 完全合法的视频，正在寻找一种比手动将它们拖到文件夹中更好的排序方法。我听说过一些关于 jellyfin 的事情，但据我所知，它会将文件的快捷方式放在我想要的文件夹中，同时将实际文件保存在单独的文件夹中。我正在寻找可以像“showS2E04.mp4 移动到 showfolder&gt;season2”这样的方法。有什么想法吗？    提交人    /u/Nobumon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</guid>
       <pubDate>Tue, 19 Nov 2024 22:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么应用程序我的朋友不会告诉我</title>
-      <link>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</link>
-      <description><![CDATA[https://preview.redd.it/ftkgdfo7hx1e1.png?width=26&amp;format=png&amp;auto=webp&amp;s=35d8b787e90e526de663825f7b93642a5b47790f 我不知道它是什么    提交人    /u/Prior_Ad156   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:41:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
