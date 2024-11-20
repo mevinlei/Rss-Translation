@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 00:48:55 GMT</lastBuildDate>
+    <item>
+      <title>Gophers：Go 的通用集合工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gvb8dc/gophers_generic_collection_utils_for_go/</link>
+      <description><![CDATA[大家好，我真的很羡慕 Scala 灵活的集合库，所以我决定将其中一些功能移植到 Go 上。 我为 Go 构建了这个开源包，您可以从中获得大量开箱即用的功能。https://github.com/charbz/gophers 我在寻求一些反馈，请帮助我让它对其他人有用，就像对我一样。 欢迎任何反馈    提交人    /u/charbz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gvb8dc/gophers_generic_collection_utils_for_go/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blinko 笔记应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gva2po/blinko_notes_app/</link>
+      <description><![CDATA[有人见过这个吗？它看起来相当强大。 https://github.com/blinko-space    提交人    /u/ElkEven7227   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gva2po/blinko_notes_app/</guid>
+      <pubDate>Tue, 19 Nov 2024 22:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 NativeLink 做出 Rust 贡献的奖金为 1 美元和 5,000 美元，请参阅附件要点。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gv9bn1/1_5k_usd_bounties_for_rust_contributions_to/</link>
+      <description><![CDATA[      我的目标是建立一个真正可持续发展的社区，让公司以外的人在我们的活力中发挥关键作用。     提交人    /u/marcus-love   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gv9bn1/1_5k_usd_bounties_for_rust_contributions_to/</guid>
+      <pubDate>Tue, 19 Nov 2024 22:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tuono - 超快的 React 全栈框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gv8hc1/tuono_superfast_react_full_stack_framework/</link>
+      <description><![CDATA[      大家好，我正在寻找建议和贡献者😄    提交人    /u/ValerioAgeno   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gv8hc1/tuono_superfast_react_full_stack_framework/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>OpenMeet - 缓解社区断网问题的开源解决方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1gv7hck/openmeet_an_open_source_mitigation_for_community/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>救命！--转录软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1gv2ddc/helptranscription_software/</link>
-      <description><![CDATA[Express Scribe 是我工作中必须使用的工具。我拒绝为一个充满故障的程序付费。有人知道使用系统范围热键的免费转录软件吗？我没有使用脚踏板。任何帮助都将不胜感激。  签名、破产和沮丧    提交人    /u/Different-Goal295   [link] [评论]]]></description>
+      <description><![CDATA[Express Scribe 是我工作中必须使用的工具。我拒绝为一个故障百出的程序付费。有人知道使用系统热键的免费转录软件吗？我没有使用脚踏板。任何帮助都将不胜感激。  签名、破产和沮丧    由   提交  /u/Different-Goal295   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gv2ddc/helptranscription_software/</guid>
       <pubDate>Tue, 19 Nov 2024 17:15:51 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Tue, 19 Nov 2024 10:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>有人有 zimatise 已删除存储库的分支吗？</title>
+      <title>有人有已删除的 zimatise 存储库的分支吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gubbwz/does_anybody_have_a_fork_of_the_deleted/</link>
       <description><![CDATA[  由    /u/Consistent-Emu-3442  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gubbwz/does_anybody_have_a_fork_of_the_deleted/</guid>
       <pubDate>Mon, 18 Nov 2024 18:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找寻求贡献者的 OSS 项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gu6u39/find_oss_projects_looking_for_contributors/</link>
-      <description><![CDATA[嗨 r/opensource！ 我正在与一个小型团队合作创建 Echo，这是一种浏览开源生态系统的新方式。我创建了一种简单的方法，让您可以找到正在积极寻求贡献的项目。这是基于标记的问题、活动和可用的贡献者指南。 工作原理如下：  单击此处的任何生态系统：https://ecosystems.gitwallet.co 单击&amp;;为项目做出贡献&amp;;以查看具有开放问题并正在寻找贡献者的项目列表 当您点击任何项目时，您将看到一个&amp;;寻找贡献者&amp;;徽章，单击后将转到其贡献者指南。  这是来自 Django 生态系统的一个示例。仍在努力为整个网站提供更好的用户体验，但希望从这个社区获得反馈！希望这对那些想为之做出贡献的人有用！    提交人    /u/Longjumping-Spend   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gu6u39/find_oss_projects_looking_for_contributors/</guid>
-      <pubDate>Mon, 18 Nov 2024 15:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notpad：使用 Svelte、Shadcn 和 Tauri 重塑普通记事本体验 ✨📝🚀</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gu51ut/notpad_reinventing_the_ordinary_notepad/</link>
-      <description><![CDATA[        由    /u/Muhammed_Rahif 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gu51ut/notpad_reinventing_the_ordinary_notepad/</guid>
-      <pubDate>Mon, 18 Nov 2024 13:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Hercules：开源端到端软件测试代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gu4kin/launching_hercules_open_source_end_to_end/</link>
-      <description><![CDATA[很高兴推出 Hercules：世界上第一个开源软件测试代理。输入您的测试，观察它们的运行并获取结果（无需代码、维护或成本）。在此处查看：https://testzeus.com/hercules     由   提交  /u/Unhappy-Economics-43   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gu4kin/launching_hercules_open_source_end_to_end/</guid>
-      <pubDate>Mon, 18 Nov 2024 13:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPAL - 一个用于细粒度权限的开源授权服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gu4ame/opal_an_open_source_authorization_service_for/</link>
-      <description><![CDATA[        提交人    /u/odd_sherlock   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gu4ame/opal_an_open_source_authorization_service_for/</guid>
-      <pubDate>Mon, 18 Nov 2024 13:08:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
