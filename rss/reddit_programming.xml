@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:10:38 GMT</lastBuildDate>
+    <item>
+      <title>i386 升级到 x86-64 的成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像灯箱的 npm 包</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</link>
+      <description><![CDATA[  由    /u/Deep_Local1568  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>领先 1 支球队 vs 领先 3 支球队 vs 领先 5 支以上球队</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvy07n/leading_1_team_vs_3_teams_vs_5_teams/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvy07n/leading_1_team_vs_3_teams_vs_5_teams/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代软件架构艺术与人工智能的结合</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvxf3n/the_art_of_modern_software_architecture_meets/</link>
+      <description><![CDATA[  由    /u/CodeSherlockAI  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvxf3n/the_art_of_modern_software_architecture_meets/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:09:07 GMT</pubDate>
+    </item>
     <item>
       <title>用于布局失效的无脊椎遍历 [pdf]</title>
       <link>https://www.reddit.com/r/programming/comments/1gvvvlq/spineless_traversal_for_layout_invalidation_pdf/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvvq27/1bit_ai_infrastructure/</guid>
       <pubDate>Wed, 20 Nov 2024 18:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lush：我最喜欢的小型编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvpsv/lush_my_favorite_small_programming_language/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvpsv/lush_my_favorite_small_programming_language/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>GNU Artanis 是一个用 Guile Scheme 编写的 Web 应用程序框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvnah/gnu_artanis_is_a_web_application_framework/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvnah/gnu_artanis_is_a_web_application_framework/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 gRPC 进行（本地）进程间通信</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvmme/using_grpc_for_local_interprocess_communication/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvmme/using_grpc_for_local_interprocess_communication/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:56:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>FireDucks：速度更快的 Pandas</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvmdl/fireducks_pandas_but_faster/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvmdl/fireducks_pandas_but_faster/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:11:02 GMT</lastBuildDate>
+    <item>
+      <title>黑暗模式还有其他方面吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvz8hr/is_there_another_facet_to_dark_patterns/</link>
+      <description><![CDATA[这个问题让我陷入思考，因为我必须在不久的将来研究一些切线。 这篇文章的目的不仅仅是引发对这个问题的讨论，也是让我收集一些可能支持或反驳基本假设的例子。我想了解其他/您的产品如何处理类似的情况，以及他们的方法可能取得多大程度的成功。 对于那些可能不熟悉该术语的人来说，简而言之，黑暗模式就是直接（不）引导用户执行他们不打算执行的操作。（来源：https://www.deceptive.design/） 但我发现这个描述在上下文方面确实有限制性，我可以看到其中一些在正确的上下文中应用时实际上是有益的。 如果它们被用来阻止用户对他人执行潜在的有害操作会怎样？ （当然，这是夸张的表述，但它可以表达观点）  举一个可能的例子 - 我知道我在批评来源做同样的事情后提出了一个受限制的上下文： 功能 XYZ 允许组管理员以某种方式配置他们的用户组，从而限制最终用户可以访问的功能范围，具体取决于他们如何操作。  我基于以下假设： :: 对于最终用户来说，最终用户可以使用更广泛的功能是理想的； :: 对于产品所有者来说，最终用户可以使用更广泛的功能也是理想的； :: 管理员希望对各自的组有更多的控制权。  暗黑模式是否可以阻止管理员过度使用此类功能？ 你对此有何看法？ 您是否研究过/知道此类示例？    提交人    /u/MixedToast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvz8hr/is_there_another_facet_to_dark_patterns/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建最佳登陆页面。需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvz888/building_the_best_landing_page_advice_needed/</link>
+      <description><![CDATA[我公司的销售额一直在下降，我需要至少让事情恢复到以前的状态。我正在考虑为谷歌广告创建一个新的登陆页面，但正确的格式应该是什么，或者我应该记住什么？作为参考，我有远程员工，但我需要下达好的命令才能得到我想要的。我们目前使用的工具如下：对于网页设计，我们使用 Elementor 网络托管来自 Tomorrow UI 图片来自 shutter stock 我们销售篮球装备 非常感谢任何建议     提交人    /u/TelevisionQuiet6348   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvz888/building_the_best_landing_page_advice_needed/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:26:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要在后端提供服务，但不知道从哪里开始。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvyq17/i_need_to_serve_things_on_a_backend_not_sure/</link>
+      <description><![CDATA[你好！ 我有一个很棒的项目，它是一个用 vanilla js 构建的假交互式终端。我现在想将此应用程序发布到我的小社区供大家玩玩，但代码中有一些秘密，我不希望用户发现。 我目前使用 godaddy 共享主机托管常规网站，但据我所知，没有优雅的解决方案让 .js 文件位于后端，因此客户端无法消化它们。我正在寻找一种付费或免费的方式来构造文件，以便只有我想要的静态内容（html、css 等）提供给客户端，而索引仅从后端加载 .js 文件。有什么关于如何做到这一点的提示吗？我太专注于构建应用程序和调试，这有点疏忽。谢谢！ :)    由    /u/exogreek 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvyq17/i_need_to_serve_things_on_a_backend_not_sure/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使多个网站看起来像是在同一个域名下运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvyar2/making_multiple_websites_look_like_theyre/</link>
+      <description><![CDATA[你好！ 如果我听起来像个傻瓜，请先道歉，我只是一个平面设计师/零售人员，对 Shopify 有很深的了解，但在 Web 开发方面绝对一无所知......所以问题是： - 我一直在一个域名下为我们业务的 12 个地点建立一个 Shopify 商店 - 每个地点都是一个独立的 LLC，有独立的投资者（这部分非常重要） - 将所有资金都放在一个 Shopify 银行账户下，然后分散到每个地点的银行账户中，这对我们的会计团队来说是一场噩梦 - 一种解决方案是将每个地点分离到自己的 Shopify 帐户中，并使用“自己的”网站，这将减轻大部分会计问题，使事情更加精简 - Web 开发问题：我可以将 12 个网站屏蔽/重定向到一个域下，并使其看起来好像都在一个主域下运行吗？它需要看起来像一个商店，每个“系列”实际上都链接到不同的网站，尽管 URL 中仍然显示我们的父/总品牌网站。虽然每个位置都是一个独立的实体，但我们试图将它们全部打造成一个品牌，并且每个位置都必须可导航，并且看起来像是在一个主品牌名称的域下运行。 我希望这有意义。任何见解都非常感谢！    提交人    /u/Dense-Imagination970   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvyar2/making_multiple_websites_look_like_theyre/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何看待这种渐进式加载在星露谷音乐会网站上的工作原理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvxo92/how_do_you_say_this_progressive_loading_works_in/</link>
+      <description><![CDATA[https://www.stardewvalleyconcert.com/    由    /u/pikoro09 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvxo92/how_do_you_say_this_progressive_loading_works_in/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>在会话期间存储用户的个人资料信息-最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</link>
+      <description><![CDATA[大家好， 我很感激一些意见。我正在使用 next.js 15 并完成了我的身份验证流程，将 jwt 存储在 httpOnly、严格、安全的 cookie 中。 但是，我想知道存储/缓存用户首选名称、其个人资料图片链接（预签名 url）等内容的最佳做法是什么。它需要快速访问但仍然是安全的。我正在考虑如何跨组件动态呈现他们的姓名和图像而不发送垃圾邮件数据库请求。这是我以前没有考虑过的事情。 现在我已将其设置为使用标头，由我的 middleware.js 设置，在组件中使用示例： import HeaderComponent from &#39;@/ui/HeaderComponent&#39;; import { getHeaders } from &#39;@/utils/get-metadata&#39;;导出默认异步函数 Header() { const headerData = await getHeaders(); 返回（&lt;&gt; &lt;HeaderComponent headerData={headerData}/&gt; &lt;/&gt; ); } 从&#39;next/headers&#39;导入{headers}；导出异步函数 getHeaders() { const headersList = await headers(); const preferredName = headersList.get(&#39;x-preferred-name&#39;) || &#39;用户&#39;; const profilePictureUrl = headersList.get(&#39;x-profile-picture-url&#39;) || &#39;/public/static/placeholder-profile-pic.png&#39;; const userId = headersList.get(&#39;x-user-id&#39;) || &#39;用户&#39;; 返回 { preferredName, profilePictureUrl, userId, }; }  但我遇到了一些随机问题，有时 userId 不在标头中，尽管中间件总是将其设置得很好。这似乎真的很挑剔和不稳定。所以我相信有更好的方法。谢谢你的帮助！    提交人    /u/mobot-mobot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvxi8t/storing_a_users_profile_info_during_session_best/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画 - 努力过渡溢出</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvw52l/animation_struggling_to_transition_the_overflow/</link>
+      <description><![CDATA[（从 r/css 转发） 大家好， 我目前正在尝试为以下收据打印过渡制作动画： 第一个实例 最后一个实例 我有一个代码笔，基本布局已准备就绪，但现在我正式陷入困境，试图弄清楚如何使收据溢出可见，并且在正确的时刻...我怀疑我正在尝试做的可能不是正确的路径。 我也在努力弄清楚如何根据要求应用正确的 box-shadow。 仅供参考，我现在使用 div 来表示收据，但稍后将将其更改为图像元素（svg）以获取整个收据。 非常感谢您对此的任何指导或建议！    提交人    /u/-Neurotica-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvw52l/animation_struggling_to_transition_the_overflow/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:17:23 GMT</pubDate>
+    </item>
     <item>
       <title>针对前端开发人员和 Figma 的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1gvverz/question_for_frontend_devs_and_figma/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我试图将文本从此站点复制到文本文档。但不知何故，当我尝试在 PC 上复制粘贴时，我得到的是“编码乱码”。而当我尝试从 android 复制粘贴时，我得到的是中文文本。 请帮忙。谢谢    提交人    /u/Goble_hook   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvs8it/how_to_copy_text_from_this_site_pls/</guid>
       <pubDate>Wed, 20 Nov 2024 15:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要知道如何使用我的新主机实现多开发环境吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvrwoe/need_to_know_how_to_implement_multidev/</link>
-      <description><![CDATA[我刚刚开始使用 Rapyd Cloud，但无法找到创建多开发环境的解决方案。我们基本上利用多开发环境来有效地管理功能分支。例如，如果我们正在对页面进行拟议的重新设计，多开发允许我们将这项工作隔离在其自己的环境中。这确保了主要开发环境保持干净，不受不完整功能的影响。 同时，我们可以继续在主要开发环境中解决小修复和增强问题，并通过常规管道将这些更改推送到 QA 和上线。功能分支完成后，我们会将其与最新版本合并，然后继续相同的流程：将其推送到开发、QA，最后上线。 我现在无法在 Rapyd cloud 上开发此工作流程，但他们专注于他们的产品搜索发布和活动，而不是帮助我。 我是从设计师转行做开发者，所以无法从技术上向他们解释如何做到这一点。有人使用过他们的托管并遇到过类似的问题吗？请帮我向他们轻松解释这一点，以便他们了解我的要求！！    提交人    /u/CandidReflection4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvrwoe/need_to_know_how_to_implement_multidev/</guid>
-      <pubDate>Wed, 20 Nov 2024 15:21:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人注意到世界上仍在运行的最古老的网站 itcorp.com 已更改为自行车装备设计网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvqvrm/has_anyone_else_noticed_the_oldest_still_running/</link>
-      <description><![CDATA[我不确定这里是不是提问的最佳地点，但我最近在查看最古老的网站，发现通常被归类为仍在运行的最古老的网站 (http://www.itcorp.com/) 已发生更改。使用回溯机器，更改似乎发生在 2024 年 7 月/8 月左右。 有人知道为什么会发生这种情况吗？我似乎无法在网上找到任何相关信息。我觉得互联网历史的一段被毁掉了。    提交人    /u/Da_Yakz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvqvrm/has_anyone_else_noticed_the_oldest_still_running/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React Hook Form、Zod 和 Shadcn 轻松构建 React Forms</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvqq53/building_react_forms_with_ease_using_react_hook/</link>
-      <description><![CDATA[        由    /u/mmaksimovic  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvqq53/building_react_forms_with_ease_using_react_hook/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络安全 IAM 工程师/顾问（初级）它会面向未来吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvqe6j/cyber_security_iam_engineer_consultant_jr_will_it/</link>
-      <description><![CDATA[你好。我是一名计算机科学毕业生，我在网络安全 IAM（身份访问管理）领域找到了一份工作。虽然我非常喜欢这份工作描述和职位，但我很好奇这是否算作成为一名开发人员（后端开发人员）的经验 我的意思是，即使这份工作并不严重依赖编码（尽管它需要一些编码来将产品实施给客户和测试等），这算不算开发经验？例如，如果两年后我能够申请中级后端开发工作，或者我只能寻找初级职位。 提前谢谢。    提交人    /u/snv1996   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvqe6j/cyber_security_iam_engineer_consultant_jr_will_it/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将单独行动，能帮我列一下清单吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvqbqe/about_to_go_solo_help_me_with_my_checklist/</link>
-      <description><![CDATA[我即将进入自由职业的世界（建立和托管 wordpress 网站），但我想和大家核实一下，我没有错过任何东西。   工作电子邮件帐户 商业网站 商业银行帐户 Bricks Builder 终身许可  ACSS Brixies（模板） Zume VPS - 4x CPU 内核（最低 5GHz）、8GB DDR5 ECC 内存、200GB NVMe 存储、30 个 WordPress 容器。 Wordfence Premium  谢谢    提交人    /u/Hockless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvqbqe/about_to_go_solo_help_me_with_my_checklist/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您目前遇到什么困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvq90b/what_are_you_currently_stuck_on/</link>
-      <description><![CDATA[嗨！目前什么事情花费了您太多时间来解决/修复？什么事情阻碍或分散了您的注意力？（除了 reddit ofc）    由   提交  /u/heraldev   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvq90b/what_are_you_currently_stuck_on/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 仅根据背景颜色生成文本颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvq3xi/css_only_text_color_generation_from_background/</link>
-      <description><![CDATA[  由    /u/specy_dev  提交  ​​[链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvq3xi/css_only_text_color_generation_from_background/</guid>
-      <pubDate>Wed, 20 Nov 2024 13:59:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

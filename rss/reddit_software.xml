@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:10:33 GMT</lastBuildDate>
+    <item>
+      <title>寻找可以输出 midi 信号到 midi 控制器的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</link>
+      <description><![CDATA[我有一个 MIDI 控制器，它通过 USB 向我的笔记本电脑输出信号。它还可以接收 MIDI 信号来控制控制器内置的 LED。现在，正如标题所示，我正在寻找一个可以通过 USB 向控制器输出 MIDI 信号的简单程序。 Ps. 我需要在 Windows 上运行它    提交人    /u/kikstraa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:37:47 GMT</pubDate>
+    </item>
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序，它看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给了我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是给出了那个错误 是不是因为我在 Windows 11 上？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <description><![CDATA[有一款名为 paintribbon 的应用，它看起来像 Windows 7 的画图程序，但可以在 Windows 7 之前的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给出了这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该程序安装成功，只是给出了那个错误 是不是因为我使用的是 Windows 11？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我应该为我的公司制定一个软件战略，就像创建一个路线图，说明如何处理我们拥有的 400 多个应用程序（合并、淘汰等）。但我没有软件背景，我的背景是程序管理。任何关于战略方法的建议都将不胜感激！！我是否能快速了解所有工具，以便能够明智地谈论它们？谢谢！！    提交人    /u/Hello_its_me5973   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvcfwb/need_help_creating_software_strategy/</guid>
       <pubDate>Wed, 20 Nov 2024 00:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动将下载的视频分类到文件夹中</title>
-      <link>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</link>
-      <description><![CDATA[我下载了很多每周发布的 100% 完全合法的视频，正在寻找一种比手动将它们拖到文件夹中更好的排序方法。我听说过一些关于 jellyfin 的事情，但据我所知，它会将文件的快捷方式放在我想要的文件夹中，同时将实际文件保存在单独的文件夹中。我正在寻找可以像“showS2E04.mp4 移动到 showfolder&gt;season2”这样的方法。有什么想法吗？    提交人    /u/Nobumon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</guid>
-      <pubDate>Tue, 19 Nov 2024 22:09:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
