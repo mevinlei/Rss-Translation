@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 21 Nov 2024 12:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:11:53 GMT</lastBuildDate>
     <item>
-      <title>科技史上谁是实际上不是坏人的坏人？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gwehmy/who_is_the_bad_guy_in_tech_history_who_isnt/</link>
-      <description><![CDATA[大家好， 我已经在 r/linux 上发布过一次，但并没有得到很好的回应。 我一直在思考某些技术人物、公司或工具如何受到恶评，但实际上可能并不值得。很多时候，开源世界中的事物被描绘成“坏人”，只是因为它们被误解、歪曲或被更大的叙事所掩盖。 例如，微软曾经是开源社区的终极恶棍。该公司的专有模式和反开源立场使其成为许多 FUD（恐惧、不确定和怀疑）的目标。但现在，他们是开源的最大支持者之一，为 Linux 做出贡献，甚至集成了 WSL（适用于 Linux 的 Windows 子系统）。回想起来，微软在 21 世纪初真的是“坏人”吗，还是他们只是一家试图保护其商业模式的公司？ 同样，Systemd 又如何呢？它经常因为过于复杂或“单片化”而遭到讨厌，但批评是否更多地针对它所代表的变化，而不是其实际功能？也许它不是坏人，而是 Linux 系统管理的必要演变？ 然后是 Java——在过去，许多 Linux 人群认为它是一种臃肿、缓慢的运行时，开发人员会避免使用它。但是现在，我们看到 Java 在云基础设施、企业应用程序甚至 Kubernetes 集群中无处不在。Java 真的是坏人吗，还是只是一个被误解的强者？ 我们不要忘记 Oracle。他们经常因其许可做法和处理 Java 的方式而受到批评，但他们可能只是想将当时非常有价值的资产货币化吗？当然，他们的名声并不好，但这一切都是应得的吗？ 那么 Apple 呢？在开源世界中，Apple 因专有而受到很多憎恨，但我们不要忘记 macOS 是基于 BSD（开源！）构建的，多年来他们为开源做出了重大贡献，例如 Swift 编程语言。 您怎么看？您认为技术历史上谁或什么被不公平地贴上了“坏人”的标签？但真的不是吗？    提交人    /u/w453y   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gwehmy/who_is_the_bad_guy_in_tech_history_who_isnt/</guid>
-      <pubDate>Thu, 21 Nov 2024 11:53:41 GMT</pubDate>
+      <title>Leantime 3.3 发布！面向非项目经理的开源项目管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gwh4w1/leantime_33_released_open_source_project/</link>
+      <description><![CDATA[       由    /u/intheleantime  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gwh4w1/leantime_33_released_open_source_project/</guid>
+      <pubDate>Thu, 21 Nov 2024 14:09:29 GMT</pubDate>
     </item>
     <item>
       <title>开源流式语音转文本 AI</title>
