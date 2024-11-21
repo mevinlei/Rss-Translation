@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 21:10:25 GMT</lastBuildDate>
+    <item>
+      <title>用于在窗口中镜像另一个显示器的程序</title>
+      <link>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</link>
+      <description><![CDATA[嗨， 我有一台 Wacom 绘图板，可用作辅助显示器，我想知道是否有一个程序可以将第二台显示器投影到我可以放在第一台显示器上的窗口上。为了说明这一点，这里有一张图片： https://preview.redd.it/8k33iu5tfb2e1.png?width=522&amp;format=png&amp;auto=webp&amp;s=b4c9aa0175fe902184530de2dcfd7f02dec7a8be 谢谢，    提交人    /u/pangredditlamang   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwpnco/program_to_mirror_in_a_window_the_other_display/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>文本清理软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gwkv5i/text_cleanup_softwares/</link>
+      <description><![CDATA[嗨！我正在寻找一款可以清理大型文本文件的文本处理软件。基本上是 Windows 版 TextSoap 或 Clean Text 的替代品    提交人    /u/awkwardpotato0813   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwkv5i/text_cleanup_softwares/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于设计老式汽车电气系统的 CAD 软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1gwib4r/cad_software_for_designing_vintage_car_electrical/</link>
+      <description><![CDATA[您好， 我想重新绘制我的老式汽车的电气图，我需要某种 CAD 软件来完成此操作（使用图层、不同颜色等）。另外，如果它易于使用，那就更好了。 您能推荐一些软件给我吗？我希望它是免费的（或者更好的是 OSS），并且与 Windows 10 兼容。 谢谢！:)    提交人    /u/menguanito   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gwib4r/cad_software_for_designing_vintage_car_electrical/</guid>
+      <pubDate>Thu, 21 Nov 2024 15:26:40 GMT</pubDate>
+    </item>
     <item>
       <title>我可以安全地将启动从其他操作系统更改为 Windows UEFI 吗？（Windows 11）</title>
       <link>https://www.reddit.com/r/software/comments/1gwh4o7/can_i_safely_change_boot_from_other_os_to_windows/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我所做的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
       <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以输出 midi 信号到 midi 控制器的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</link>
-      <description><![CDATA[我有一个 MIDI 控制器，它通过 USB 向我的笔记本电脑输出信号。它还可以接收 MIDI 信号来控制控制器内置的 LED。现在，正如标题所示，我正在寻找一个可以通过 USB 向控制器输出 MIDI 信号的简单程序。 Ps. 我需要在 Windows 上运行它    提交人    /u/kikstraa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvwn2a/looking_for_software_that_can_output_midi_signal/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>paintribbon 静默安装</title>
-      <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有没有办法告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>意外删除了系统程序 – 恢复出厂设置后浏览器和媒体无法使用，如何恢复系统文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</link>
-      <description><![CDATA[您好， 删除程序时，我意外删除了一个系统程序。我尝试运行浏览器程序，但没有成功。我对设备进行了出厂重置，删除了所有文件，但仍然没有任何变化。Microsoft Edge 和媒体功能都不起作用。我尝试从 Microsoft Store 下载它，但它告诉我它已经安装。 有没有解决方案可以恢复所有系统文件并使浏览器和媒体播放器再次工作？    提交人    /u/M_MRT0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gvqf4v/accidentally_deleted_a_system_program_browser_and/</guid>
-      <pubDate>Wed, 20 Nov 2024 14:14:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

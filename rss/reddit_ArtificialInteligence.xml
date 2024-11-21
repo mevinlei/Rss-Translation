@@ -4,34 +4,62 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 21:09:51 GMT</lastBuildDate>
+    <item>
+      <title>为什么我们将人工智能机器人称为“人工智能代理”或“代理”，而不是简单地称为“人工智能机器人”？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwpwby/why_do_we_call_ai_powered_bots_ai_agents_or/</link>
+      <description><![CDATA[与许多非技术人员交谈时，当我提到 AI 代理或代理时，他们常常会感到困惑。如果我提到 AI 机器人，他们似乎马上就明白了。 这让我开始思考，有谁知道我们不将代理称为机器人的真正原因吗？    提交人    /u/Nicarlo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwpwby/why_do_we_call_ai_powered_bots_ai_agents_or/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型语言模型细胞自动机</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwpknp/large_language_model_cellular_automata/</link>
+      <description><![CDATA[这个实验项目探索了集体人工智能的概念。当前的实现是 2d 网格中的细胞自动机，其中每个细胞充当基于其邻域做出响应的 LLM 代理。 有关更多信息，请参阅 Github 存储库： https://github.com/pinsky-three/llmca     提交人    /u/bregymr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwpknp/large_language_model_cellular_automata/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建一个能够直观地呈现 UI 元素的 AI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwp6n6/how_would_you_create_an_ai_that_can_visually/</link>
+      <description><![CDATA[该模型应该能够定位提示元素的坐标，例如：Jared Leto 第三张图片下方标题为第二个按钮 是否可以与现有的 LLM 合并/从现有的 LLM 构建 NLP 方面？ 您将如何分解不同数据的收集/注释？    提交人    /u/VirtualWinner4013   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwp6n6/how_would_you_create_an_ai_that_can_visually/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>$ILLR 重磅文章发布 #BusinessInsider “Triller 正在聘请 TikTok 前产品负责人来运营其视频应用程序，而其另一位首席执行官的聘用计划失败了” https://www.businessinsider.com/triller-hires-tiktok-former-product-head-seeks-next-chapter-2024-11</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwp3k2/illr_huge_article_out_businessinsider_triller_is/</link>
+      <description><![CDATA[  由    /u/Choice_Client_5400  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwp3k2/illr_huge_article_out_businessinsider_triller_is/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:15:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>$ILLR 欢迎来自 TikTok 和亚马逊的顶尖人才来推动其转型。在 Sean Kim 领导 Triller App 的带领下，我们正在为创作者、粉丝和品牌重新定义数字娱乐。了解更多信息：https://trillercorp.com/ir #TrillerGroup #Innovation</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwjesu/illr_welcomes_top_talent_from_tiktok_and_amazon/</link>
+      <description><![CDATA[  由    /u/Choice_Client_5400  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwjesu/illr_welcomes_top_talent_from_tiktok_and_amazon/</guid>
+      <pubDate>Thu, 21 Nov 2024 16:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>USAII 认证是骗局吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwjejk/is_usaii_certifications_a_scam/</link>
+      <description><![CDATA[我正在寻找一项认证，用于商业战略和咨询。我目前在银行工作，并且看到对认证证书的巨大需求，以便在该技术上进一步脱颖而出。  我明白这些认证很容易很快变得无关紧要；但是，我希望在短期内定位自己。 对此有什么想法？    提交人    /u/auzzman23   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwjejk/is_usaii_certifications_a_scam/</guid>
+      <pubDate>Thu, 21 Nov 2024 16:31:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能现在可以复制你的个性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwiori/ai_can_now_create_a_replica_of_your_personality/</link>
+      <description><![CDATA[根据斯坦福大学和谷歌 DeepMind 的最新研究，两小时的面试足以准确捕捉你的价值观和偏好。    提交人    /u/techreview   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwiori/ai_can_now_create_a_replica_of_your_personality/</guid>
+      <pubDate>Thu, 21 Nov 2024 16:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>每周自我推销贴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwi8vr/weekly_self_promotion_post/</link>
       <description><![CDATA[如果您有产品要推广，可以在这里进行推广，本帖之外的内容将被删除。  不得引用链接或带有 utms 的链接，请遵守我们的推广规则。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwi8vr/weekly_self_promotion_post/</guid>
       <pubDate>Thu, 21 Nov 2024 15:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找人工智能照片增强器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwh2ik/looking_for_an_aipowered_photo_enhancer/</link>
-      <description><![CDATA[嗨，Reddit！ 我正在寻找一款可靠的 AI 照片增强器，它可以改善图像质量，尤其是增强细节、锐度和活力。我已经尝试了一些知名的工具，如 Topaz 和其他基于浏览器的标准增强器，但我希望获得一些适用于以下用途的增强器的建议：  增强照片以恢复细节。 通过使颜色鲜艳和细化面部特征来改善肖像。  最好是基于浏览器或带有免费试用/演示选项的工具。我不是在寻找基本的升级，而是在寻找真正细化细节的工具。 非常感谢您对任何特定工具的建议和经验。    提交人    /u/deltasplur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwh2ik/looking_for_an_aipowered_photo_enhancer/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对高中项目的 Copilot Pro 调查</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgwbw/copilot_pro_survey_for_a_high_school_project/</link>
-      <description><![CDATA[嗨， 我是一名高中生，正在尝试对 Microsoft 的 Copilot Pro 定价策略进行一些商业分析。这是该项目所需的主要研究部分，我必须获得大量不同的回应和一般数据，以便回答研究问题。 这个子版块很大，拥有我正在寻找的受众。我很感激任何 AI 用户，无论您是 AI 爱好者还是投资者，都能协助我开发这个项目。 调查应该不到一分钟。它是完全匿名的，并使用 Google 表单（所以没有什么可害怕的 - 版主，请不要删除此帖子！）提前致谢。这是链接： https://docs.google.com/forms/d/e/1FAIpQLSdpOk5SpXq0jh5Fmet_fnaOlXAKIx_C8mItElipUc717yicjw/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;fbzx=6073149300593572432    由    /u/do0mwolf9267  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgwbw/copilot_pro_survey_for_a_high_school_project/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>抢走我旧工作的 AI 记者刚刚被解雇</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgdq0/the_ai_reporter_that_took_my_old_job_just_got/</link>
-      <description><![CDATA[夏威夷的一家当地报纸尝试使用人工智能生成的主持人来吸引读者并增加读者数量。两个月后，这些机器人被搁置了。    提交人    /u/wiredmagazine   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwgdq0/the_ai_reporter_that_took_my_old_job_just_got/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:34:09 GMT</pubDate>
     </item>
     <item>
       <title>简短采访</title>
@@ -41,32 +69,18 @@
       <pubDate>Thu, 21 Nov 2024 12:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>神经诱导与传导：小样本抽象推理的互补方法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfm34/neural_induction_vs_transduction_complementary/</link>
-      <description><![CDATA[我读了一篇论文，探讨是推断一个可以解释几个例子的潜在函数更好，还是直接使用神经网络预测新的测试输出更好。关键技术贡献是使用通过 LLM 生成的 Python 函数生成的合成训练数据比较抽象推理任务中的归纳方法与传导方法。 关键技术要点：- 使用 GPT-4 生成指定抽象函数和输入生成的 Python 代码- 训练了两个具有相同架构但不同目标的模型变体：- 归纳：学习从示例中推断底层函数- 传导：直接预测测试输出而不对函数进行建模- 在 ARC 数据集上评估抽象推理- 尽管架构相同，但模型解决了截然不同的问题 结果：- 专门用于不同类型的抽象推理任务的模型- 专注于推断一般规则的归纳模型- 针对直接输入输出映射优化的传导模型- 在不同问题类型中性能差异很大 我认为这指出了我们如何设计用于小样本学习的 ML 系统的一个重要考虑因素。即使架构相同，推断一般函数和直接预测之间的选择似乎从根本上改变了模型的学习内容。这可以为更好的系统设计提供信息，具体取决于我们是需要快速解决特定问题还是想要学习可概括的规则。 我认为后续工作应该探索： - 量化不同领域方法之间的权衡 - 找到有效结合两种方法的方法 - 理解为什么相同的架构会根据目标产生如此大的差异 TLDR：归纳方法与传导方法的比较表明，训练目标从根本上改变了神经网络的学习内容，即使架构相同。尽管训练数据相似，但模型专注于不同类型的抽象推理。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfm34/neural_induction_vs_transduction_complementary/</guid>
-      <pubDate>Thu, 21 Nov 2024 12:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube Studio 推出一项新的 AI 功能，可帮助创作者自动配音视频，以扩大影响力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfee5/youtube_studio_has_a_new_ai_feature_to_help/</link>
-      <description><![CDATA[  由    /u/Technicallysane02  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwfee5/youtube_studio_has_a_new_ai_feature_to_help/</guid>
-      <pubDate>Thu, 21 Nov 2024 12:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Make.com 中无需代码进行情感分析</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwee2c/how_to_do_sentiment_analysis_in_makecom_without/</link>
-      <description><![CDATA[刚刚发布了一个新教程：https://www.youtube.com/watch?v=Hfv8nlS2XfA 让我知道你的想法！    提交人    /u/y10p   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwee2c/how_to_do_sentiment_analysis_in_makecom_without/</guid>
-      <pubDate>Thu, 21 Nov 2024 11:47:23 GMT</pubDate>
-    </item>
-    <item>
       <title>您实际上使用 o1 API 来做什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwd5bn/what_do_you_actually_use_o1_api_for/</link>
       <description><![CDATA[我才刚刚开始使用它，它根本不起作用。  它已经预览了好几个月了，但它仍然很糟糕！？  它的数据已经有一年了 它不能提供网页抓取 它被过滤得太厉害了，我甚至不能创建名为 password 的变量 我无法传递名称，因为它认为那是个人数据 API 根本不起作用。它似乎完全是随机的，有时返回结果，有时什么都不返回，有时返回明显被截断在句子中间的一半响应。  我是 AI 新手，有人知道这是怎么回事吗？    提交人    /u/timeforknowledge   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwd5bn/what_do_you_actually_use_o1_api_for/</guid>
       <pubDate>Thu, 21 Nov 2024 10:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 作为推荐系统的变质评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcnaf/metamorphic_evaluation_of_chatgpt_as_a/</link>
+      <description><![CDATA[标题：ChatGPT 作为推荐系统的变质评估 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必把它们全部翻遍了。今天的论文题为“ChatGPT 作为推荐系统的变质评估”，作者是 Madhurima Khirbat、Yongli Ren、Pablo Castells 和 Mark Sanderson。 本文探讨了变质测试作为一种基于大型语言模型 (LLM) 的推荐系统的新型评估方法的应用，特别是使用 ChatGPT。推荐系统的传统评估方法由于其固有的黑盒和概率性质，在应用于 LLM 时往往会失效。作者提出了一个通过定义的变质关系 (MR) 来测试这些系统的框架，从而提供了一种更全面的评估方法。  以下是本文的一些主要发现：  变质测试简介：该研究通过从推荐系统和 LLM 的角度定义特定的 MR，提出了对基于 GPT 的推荐系统进行变质测试。这种测试解决了传统评估的局限性，特别是关于非确定性输出的模糊评估。 在 MovieLens 数据集上进行评估：利用 MovieLens 数据集和 GPT-3.5 进行的实验揭示了较低的相似度指标，例如 Kendall τ 和 Ranking Biased Overlap，这表明传统系统的现有评估指标可能无法完全捕捉基于 LLM 的系统的性能。 稳健性和一致性：该研究引入了一个控制基于 GPT 的输出随机性的框架，这对于产生一致的建议至关重要。结果表明，不同变形测试关系之间存在可变稳定性，这凸显了对适应性评估方法的需求。 变形关系的影响：实验表明，用户评分量表（MR1 和 MR2）的变化比提示中的语义变化（MR3 和 MR4）产生的结果更加一致。这强调了与语言变化相比，数字评分调整引起的推荐变化具有相对可预测性。 总结见解和未来工作：由于多个 MR 导致生成的推荐相似度降低，强调需要进一步研究。这项研究为未来通过变质评估对基于 LLM 的推荐系统进行增强和更广泛的测试奠定了基础。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwcnaf/metamorphic_evaluation_of_chatgpt_as_a/</guid>
+      <pubDate>Thu, 21 Nov 2024 09:47:57 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2024 年 11 月 20 日</title>
@@ -83,25 +97,11 @@
       <pubDate>Thu, 21 Nov 2024 02:28:28 GMT</pubDate>
     </item>
     <item>
-      <title>美国召集盟友讨论人工智能安全，特朗普誓言废除拜登的人工智能政策，给他们的工作蒙上阴影</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1hno/us_gathers_allies_to_talk_ai_safety_trumps_vow_to/</link>
-      <description><![CDATA[美国召集盟友讨论人工智能安全，特朗普誓言撤销拜登的人工智能政策，这给他们的工作蒙上了阴影  https://candorium.com/news/20241120170501622/us-gathers-allies-to-talk-ai-safety-trumps-vow-to-undo-bidens-ai-policy-overshadows-their-work    提交人    /u/10marketing8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1hno/us_gathers_allies_to_talk_ai_safety_trumps_vow_to/</guid>
-      <pubDate>Wed, 20 Nov 2024 23:13:47 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是今天人工智能领域的新闻</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1cv0/heres_what_is_making_news_in_the_ai_today/</link>
       <description><![CDATA[聚焦：Meta 聘请 Salesforce 的 AI 首席执行官 Clara Shih 领导新的业务 AI 集团（来源：）  OpenAI 将 ChatGPT 的高级语音模式引入网络 OpenAI 发布了 ChatGPT 教师指南，但一些教育工作者持怀疑态度 Collibra 将数据治理带入 AI 时代 当前的 AI 扩展定律显示收益递减，迫使 AI 实验室改变方向 Converge Bio 为生物技术 LLM 开设的“万物商店”带来 550 万美元种子资金 一家中国实验室发布了一种“推理”AI 模型，可与 OpenAI 的 o1 相媲美 Federato利用人工智能解决保险风险分析问题，融资 4000 万美元 融资 2.2 亿美元的人工智能初创公司 H 推出了其首款产品：用于“代理”应用程序的 Runner H Messenger 获得高清视频通话、人工智能背景等 Benchmark 向 New Lantern 投资 1900 万美元，为放射科医生提供更智能的人工智能使用方式     提交人    /u/codeharman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gw1cv0/heres_what_is_making_news_in_the_ai_today/</guid>
       <pubDate>Wed, 20 Nov 2024 23:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>学校 AI 聊天机器人的创建者被捕，并被指控诈骗投资者 1000 万美元</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvwc87/the_creator_of_an_ai_chatbot_for_schools_has_been/</link>
-      <description><![CDATA[https://www.the74million.org/article/feds-charge-once-lauded-allhere-ai-founder-in-10m-scheme-to-defraud-investors/    提交人    /u/mkerbs942   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvwc87/the_creator_of_an_ai_chatbot_for_schools_has_been/</guid>
-      <pubDate>Wed, 20 Nov 2024 18:25:41 GMT</pubDate>
     </item>
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
