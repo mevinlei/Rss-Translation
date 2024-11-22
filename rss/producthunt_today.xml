@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 15:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:15:30 GMT</lastBuildDate>
     <item>
       <title>Wingback 提供的注册链接</title>
       <link>https://www.producthunt.com/posts/signup-links-by-wingback</link>
@@ -90,20 +90,6 @@ Expedia 二手房
       <pubDate>Wed, 20 Nov 2024 22:26:51 GMT</pubDate>
     </item>
     <item>
-      <title>Trieve 向量推理</title>
-      <link>https://www.producthunt.com/posts/trieve-vector-inference</link>
-      <description><![CDATA[
-在您自己的 VPC 中部署快速、不限流量的嵌入推理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/trieve-vector-inference</guid>
-      <pubDate>Wed, 20 Nov 2024 00:20:52 GMT</pubDate>
-    </item>
-    <item>
       <title>不可缺少的</title>
       <link>https://www.producthunt.com/posts/integral</link>
       <description><![CDATA[
@@ -177,7 +163,7 @@ Expedia 二手房
       <title>惹人喜爱</title>
       <link>https://www.producthunt.com/posts/lovable</link>
       <description><![CDATA[
-世界上第一个 AI 全栈工程师
+全球首位 AI 全栈工程师
 
 
 讨论
@@ -186,6 +172,20 @@ Expedia 二手房
 ]]></description>
       <guid>https://www.producthunt.com/posts/lovable</guid>
       <pubDate>Wed, 13 Nov 2024 12:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>未分类</title>
+      <link>https://www.producthunt.com/posts/notclass-2</link>
+      <description><![CDATA[
+使用 AI 搜索 YouTube 视频并获取相关片段
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/notclass-2</guid>
+      <pubDate>Wed, 13 Nov 2024 08:55:52 GMT</pubDate>
     </item>
     <item>
       <title>数据标注平台</title>

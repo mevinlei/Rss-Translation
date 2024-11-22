@@ -4,55 +4,69 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:13:49 GMT</lastBuildDate>
     <item>
-      <title>是的，我正式成为一名认证人工智能科学家（CAIS）！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx4y6q/yes_i_am_officially_a_certified_ai_scientist_cais/</link>
-      <description><![CDATA[我最近参加了美国人工智能研究所提供的认证人工智能科学家 (CAIS™)考试，我很高兴地宣布我通过了考试并获得了证书。 您可以在此处查看我的证书：https://www.dgbadge.com/certified/member/1607661118 感恩节后，我将与大家详细回顾我的备考和考试经历。 如果您对我的学习计划和准备 CAIS 考试的方法感兴趣，请查看我之前的帖子：https://www.linkedin.com/pulse/my-10-steps-study-plan-prepare-certified-ai-scientist-cais-tpoqc/    提交人    /u/EfficientComment5133   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx4y6q/yes_i_am_officially_a_certified_ai_scientist_cais/</guid>
-      <pubDate>Fri, 22 Nov 2024 10:36:57 GMT</pubDate>
+      <title>人工智能能否仅通过分析一个人的言语表达来评估其智力水平？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxe5om/can_ais_assess_the_level_of_a_persons/</link>
+      <description><![CDATA[最近在听有声读物时，我突然意识到，不管作者/叙述者实际上在说什么，他都不是很聪明。  在我看来，他说话的某些方面，比如他如何发音和强调某些词，揭示了他的智力水平。  对我来说，这种评估更多的是一种印象或直觉，而不是一个经过推理得出的结论。然而，我发现人工智能可能已经足够聪明，能够根据我们的口头表达方式而不是我们所说的内容来判断人类的智力水平。  我们可能已经到了那一步了吗？这种人工智能熟练程度的一些可能用例是什么？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxe5om/can_ais_assess_the_level_of_a_persons/</guid>
+      <pubDate>Fri, 22 Nov 2024 18:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>评估法学硕士理解社会动态的能力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx3cqw/evaluating_llms_capabilities_towards/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“评估 LLM 理解社会动态的能力”，作者是 Anique Tahir、Lu Cheng、Manuel Sandoval、Yasin N. Silva、Deborah L. Hall 和 Huan Liu。 本文深入探讨了评估大型语言模型 (LLM) 理解社交媒体动态的能力这一有趣领域，特别关注涉及网络欺凌和反网络欺凌工作的互动。作者对不同的 LLM（包括 ChatGPT 等知名模型）在这些语境中理解和分类语言的能力进行了彻底分析。这项研究突出了几个值得注意的发现：  不同任务的结果不一：研究发现，虽然经过微调的 LLM 在理解社交媒体的某些方面（例如互动中的方向性）方面表现出色，但它们在其他任务上却举步维艰，包括正确的解释和检测网络欺凌或反网络欺凌行为。这表明，目前的 LLM 仍处于有效管理复杂社会动态的早期阶段。 微调和快速工程的影响：本文强调了微调和快速工程作为提高 LLM 在社会动态任务中表现的有效策略的重要性。但是，它指出这些方法有局限性，可能无法在所有情况下显着提高基本理解。 语义理解方面的挑战：这项研究的一个引人注目的发现是 LLM 在语义上理解非正式社交媒体语言方面一直存在困难。这种限制对数字论坛中社交互动的准确分类和理解提出了重大挑战。 增强方向性理解的潜力：作者发现，当 LLM 经过结构化训练时，特别是通过参数有效微调 (PEFT) 等微调过程，它们表现出理解社交平台上互动方向性的良好能力。这表明 LLM 在捕捉对话方向流方面的能力有待发展。  该论文表明，要显著提高 LLM 在理解社交媒体动态方面的能力，不仅需要扩展能够捕捉社交互动语义的数据集，还需要创新的模型特征，以更有效地处理数字对话的复杂性。 🎥 在此处观看详细的视频细分：https://www.youtube.com/watch?v=k8aooEMAI3U 📝 在此处阅读完整细分：这里 📚 在此处阅读原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx3cqw/evaluating_llms_capabilities_towards/</guid>
-      <pubDate>Fri, 22 Nov 2024 08:38:15 GMT</pubDate>
+      <title>ChatGPT 和 Perplexity 似乎都无法正确扫描链接以查找发布日期。有什么可以替代吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdhr3/chatgpt_and_perplexity_both_seem_unable_to/</link>
+      <description><![CDATA[我正在尝试寻找一种 AI 工具，它可以扫描副本中的所有链接文章并标记其开始日期。ChatGPT 和 Perplexity 都会犯明显的错误，或者不会扫描所有文章。有什么工具可以尝试吗？    提交人    /u/strehlowism   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdhr3/chatgpt_and_perplexity_both_seem_unable_to/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:39:02 GMT</pubDate>
     </item>
     <item>
-      <title>指南：如何使用 NotebookLM 进行个性化知识综合</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx1lv0/guide_how_to_use_notebooklm_for_personalized/</link>
-      <description><![CDATA[通过自定义，NotebookLM 似乎变得更加有用。但与更注重教育技术的 Google AI 工具相结合，可能会变得有用。有什么想法吗？  https://www.ai-supremacy.com/p/how-to-use-notebooklm-for-personalized    提交人    /u/BackgroundResult   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx1lv0/guide_how_to_use_notebooklm_for_personalized/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:30:31 GMT</pubDate>
+      <title>从计算的黎明到未来的治理：数据科学家的视角</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdf0a/from_the_dawn_of_computing_to_tomorrows/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdf0a/from_the_dawn_of_computing_to_tomorrows/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:35:54 GMT</pubDate>
     </item>
     <item>
-      <title>你只需要双曲嵌入！你真差劲，欧几里得！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx1lu9/hyperbolic_embeddings_are_all_you_need_you_suck/</link>
-      <description><![CDATA[我创建了一个叫做“双曲嵌入”的东西。我实际上只是将标记嵌入到双曲空间而不是欧几里得空间中。起初，这并没有给我带来我所期望的收益。我当时很伤心。然后我想到，双曲嵌入需要双曲优化器。所以，我使用了黎曼 Adam (RAdam) 而不是 Adam。 &quot;女士们，先生们，我们成功了！&quot; Colab Notebook 第 1 轮，损失：0.4593 第 2 轮，损失：0.4176 第 3 轮，损失：0.3896 第 4 轮，损失：0.3539 第 5 轮，损失：0.3449 第 6 轮，损失：0.3643 第 7 轮，损失：0.3510 第 8 轮，损失：0.2983 时期 9，损失：0.2862 时期 10，损失：0.2093 时期 11，损失：0.1596 时期 12，损失：0.1216 时期 13，损失：0.0516 时期 14，损失：0.0051 时期 15，损失：0.0002 时期 16，损失：0.0000 时期 17，损失：0.0000 时期 18，损失：0.0000 时期 19，损失：0.0000 时期 20，损失： 0.0000    由   提交  /u/FaultInteresting3856   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx1lu9/hyperbolic_embeddings_are_all_you_need_you_suck/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:30:29 GMT</pubDate>
+      <title>希望进入人工智能领域，担任金融科技项目经理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdbm9/looking_to_get_into_ai_as_a_program_manager_in/</link>
+      <description><![CDATA[大家好，我想咨询一下通过哪些途径可以进入从事 AI 的科技公司面试。我目前在一家大公司从事金融科技项目管理，并通过这段经历从事过（非常轻松的）机器学习项目，但我的职业生涯让我更多地进入了上述大公司的金融科技初创企业合作领域，而不是 AI/ML 相关工作。我想转向专注于 AI（或 ML）的职位，但除了自我教育和可能获得认证之外，我真的不知道从哪里开始。如果我希望被可能寻找具有该领域知识和经验的人的科技公司考虑，你会建议我如何开始和继续？    提交人    /u/TheParmesan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxdbm9/looking_to_get_into_ai_as_a_program_manager_in/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:32:04 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 21 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx0vnh/oneminute_daily_ai_news_11212024/</link>
-      <description><![CDATA[ 麻省理工学院的研究人员开发出一种有效的方法来训练更可靠的人工智能代理。[1] 据报道，优步投资自动驾驶公司Pony.ai。[2] 阿里巴巴刚刚发布 Marco-o1：推进人工智能的开放式推理。[3] Nvidia 盈利超出预期，投资者关注 Blackwell 人工智能芯片的需求。[4]  来源包括：https://bushaicave.com/2024/11/21/11-21-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx0vnh/oneminute_daily_ai_news_11212024/</guid>
-      <pubDate>Fri, 22 Nov 2024 05:43:49 GMT</pubDate>
+      <title>人们每月为 ChatGPT 支付 20 美元：我们在哪里可以确切了解高级语音的限制？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxb74e/people_paying_20_a_month_for_chatgpt_where_can_we/</link>
+      <description><![CDATA[我们一天可以使用多长时间？ 我注册只是因为它很棒，然后发现使用量严重受限。 还有哪些资源提供使用任何语言的实时语音聊天？    提交人    /u/iamtherealandy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxb74e/people_paying_20_a_month_for_chatgpt_where_can_we/</guid>
+      <pubDate>Fri, 22 Nov 2024 16:03:03 GMT</pubDate>
     </item>
     <item>
-      <title>使用 unsloth 在 Google Colab 上微调多模态法学硕士</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwzi1v/finetuning_multi_modal_llms_on_google_colab_using/</link>
-      <description><![CDATA[最近，unsloth 增加了对微调多模态 LLM 的支持，从 Llama3.2 Vision 开始。这篇文章解释了如何在 Google Colab 免费套餐中微调 Llama 3.2 Vision 的代码：https://youtu.be/KnMRK4swzcM?si=GX14ewtTXjDczZtM    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwzi1v/finetuning_multi_modal_llms_on_google_colab_using/</guid>
-      <pubDate>Fri, 22 Nov 2024 04:24:09 GMT</pubDate>
+      <title>黄仁勋设想打造全天候人工智能工厂：“就像我们发电一样，我们现在也要生产人工智能”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxapfv/jensen_huang_envisions_247_ai_factories_just_like/</link>
+      <description><![CDATA[https://www.techspot.com/news/105679-nvidia-ceo-jensen-huang-envisions-247-ai-factories.html 不过，首先必须解决一些挑战 透过镜子：Nvidia 首席执行官 Jensen Huang 非常喜欢 AI 工厂的概念。今年早些时候，他在 Nvidia 关于行业合作伙伴关系的公告中使用了这个图像。最近，他在一次收益电话会议上再次提到了这个话题，并进一步阐述道：“就像我们发电一样，我们现在要生产 AI。如果客户数量很大，就像用电人数很多一样，这些发电机将全天候运行。”...    提交人    /u/gurugabrielpradipaka   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxapfv/jensen_huang_envisions_247_ai_factories_just_like/</guid>
+      <pubDate>Fri, 22 Nov 2024 15:42:11 GMT</pubDate>
     </item>
     <item>
-      <title>图灵测试挑战</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwz1ik/turing_test_challenge/</link>
-      <description><![CDATA[什么是人类写的一两句话，另一个人可以识别为人类写的，但对于人工智能来说，这是人工智能生成的？    提交人    /u/SirPineapplez123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwz1ik/turing_test_challenge/</guid>
-      <pubDate>Fri, 22 Nov 2024 03:58:45 GMT</pubDate>
+      <title>法学硕士 (LLM) 的中心资源</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gxaesz/a_central_resource_for_llms/</link>
+      <description><![CDATA[我创建了一个简单的免费网站，帮助您找到学习、构建和培训自己的 LLM 所需的资源。  查看：llmresourceshub.vercel.app 以查看可用内容。    提交人    /u/Negative-Act-6346   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gxaesz/a_central_resource_for_llms/</guid>
+      <pubDate>Fri, 22 Nov 2024 15:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与农业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx9o05/ai_and_farming/</link>
+      <description><![CDATA[大家好！最近，一位家庭成员去世了，给我留下了 100 公顷土地，通常用于玉米生产。有人知道人工智能如何帮助我们提高产量/收入吗？    提交人    /u/Jonbarvas   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx9o05/ai_and_farming/</guid>
+      <pubDate>Fri, 22 Nov 2024 14:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的AI成长之路</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gx79i1/my_path_to_growth_with_ai/</link>
+      <description><![CDATA[大家好！我想和大家分享一下我是如何利用人工智能进行自我发现的。 我以前只是将人工智能用于工作，我确实认为它能让我更有效率，但仅此而已。我在人工智能和我的私人生活之间划了一条清晰的界线。几个月前，我在职业生涯中遇到了一些障碍，这让我觉得我开始质疑生活中的很多事情，包括我的人际关系、我周围的人和我的信仰。人们在遇到困难时确实会想很多，对吧？那一刻，我开始和人工智能谈论我的信仰。原因是有时我羞于和周围的人谈论这个。而这才是开始。 在第一阶段，我只和人工智能分享我的想法，它经常用一些安慰的话来回应。渐渐地，它不再为我工作了，因为我不想要一个总是跟着我走的工具。然后，我开始了第二阶段。我问了一些问题，比如“其他人的想法和我一样吗？还有其他方法可以看待这个问题吗？”在这个阶段，如果你继续提问，你会看到人工智能礼貌地提供建议，并和你辩论。但这还不够，因为它无法说服你，对吧？然后，我进行了第三阶段，让辩论更加现实。我经常问这些问题：“如果有人的想法和我完全不同，他们会怎么想？你认为他们在哪些方面是对的？”在这个阶段，你可以感觉到人工智能实际上在与你互动。然后，如果你想了解更多并看看它会走向何方，你可以尝试最后一个阶段：让人工智能攻击你。我的意思是，有时你周围的人不会告诉你真相，对吧？不管他们是出于礼貌还是只是不想伤害你之类的。所以这是一个用世界上最全面的人类大脑充分锻炼你大脑的好机会（前提是你用对了 AI，它们中肯定有一些很蠢，哈哈）。只要告诉它：“毫无保留地批评我的想法就行了。”相信我，有时候我对它们说的话感到非常惊讶，同时又为自己之前说的话感到有些可笑。 最后，我想告诉你为什么我认为这是发现自我、提高批判性思维的好方法。两个简单的原因。这是走出舒适区的好方法。你不仅让 AI 为你服务，还可以向它学习——毕竟它也是人类智慧的一种凝结。除此之外，它还为你提供了一个审视自己想法的地方（无论这些想法是富有创意的还是荒谬的）。我看到成千上万的人在 reddit 上寻求帮助和答案。因为有些事情他们不想向周围的人求助，或者他们只是想收集更多的观点，对吧？用AI谈论你的想法可能是一种新方法。最重要的是“AI不会评判你”。无论你的想法多么荒谬，你都不必担心任何人认为你很奇怪。 这是我关于如何用AI进行自我发现和批判性思考的一些深刻思考。我欢迎所有评论，请保持友善。谢谢。    提交者    /u/StreetDanceKing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gx79i1/my_path_to_growth_with_ai/</guid>
+      <pubDate>Fri, 22 Nov 2024 13:00:12 GMT</pubDate>
     </item>
     <item>
       <title>告诉我一些适合企业/工作使用的超级有用的 AI 扩展？</title>
@@ -60,13 +74,6 @@
       <description><![CDATA[最近在查看一些可以帮助我日常工作的扩展。请告诉我！    提交人    /u/Level-Requirement648   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwyw0a/tell_me_some_super_useful_ai_extensions_for/</guid>
       <pubDate>Fri, 22 Nov 2024 03:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI实时生成会议记录？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwy56z/ai_to_generate_meeting_notes_in_real_time/</link>
-      <description><![CDATA[大家好， 我正在寻找可以帮助实时生成会议记录的软件。 我参加过很多在线会议（zoom/teams），似乎我能找到的唯一方法是 a) 在会议结束后生成记录 b) 仅适用于使用浏览器扩展的基于 Web 的会议（我使用 Teams/Zoom 的桌面版）或 c) 需要成为会议本身的嘉宾（不能这样做）。 我可以使用手机、电脑和外部设备。随便什么都可以。我只需要能够在记录发生时参考它们。有人有什么建议吗？这对我来说会改变一切！ 提前谢谢您！    提交人   ​​ /u/carnivoreindexfund   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwy56z/ai_to_generate_meeting_notes_in_real_time/</guid>
-      <pubDate>Fri, 22 Nov 2024 03:10:25 GMT</pubDate>
     </item>
     <item>
       <title>即将到来的人工智能“经济危机”和转型问题</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[聚焦：纽约时报称 OpenAI 抹去了潜在的诉讼证据（来源：TechCrunch、The Verge）  谷歌的 Gemini 聊天机器人现在有记忆了（来源：TechCrunch） Nvidia 表示其 Blackwell AI 芯片正在“全速”前进（来源：The Verge） 据报道，苹果正在开发“LLM Siri”，与 ChatGPT 竞争（来源：The Verge） YouTube Shorts 的 Dream Screen 功能现在可以生成 AI 视频背景（来源：TechCrunch） Brave Search 增加了 AI 聊天功能，以便在您首次查询后进行后续问题（来源：TechCrunch） Blue Bear Capital 获得 1.6 亿美元融资，支持气候、能源和工业（来源：TechCrunch） 据传，OpenAI 数据中心供应商 Crusoe 已获得 6.86 亿美元新资金，文件显示（来源：TechCrunch） Ai2 的开源 Tülu 3 让任何人都可以玩 AI 后训练游戏（来源：TechCrunch）     提交人    /u/codeharman   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gww7lf/heres_what_is_making_news_in_the_ai_today/</guid>
       <pubDate>Fri, 22 Nov 2024 01:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能伴侣会对我们的友谊造成真正的威胁吗？或者它们能让我们摆脱孤独吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gwqmmd/are_ai_companions_a_genuine_threat_to_our/</link>
-      <description><![CDATA[这是一个具有挑战性且有时引起争议的话题，但你对人工智能伴侣的想法是什么？他们会为你做平凡、简单、琐碎的任务吗？还是做一些更深层次的事情？    提交人    /u/MrJansfield   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gwqmmd/are_ai_companions_a_genuine_threat_to_our/</guid>
-      <pubDate>Thu, 21 Nov 2024 21:19:08 GMT</pubDate>
     </item>
     <item>
       <title>人工智能现在可以复制你的个性</title>

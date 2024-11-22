@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 18:14:54 GMT</lastBuildDate>
     <item>
-      <title>💥 每周技术演讲 #38：过去 7 天上传的所有技术会议新演讲。本期内容包括 CPH DevFest 2024、PyData Tel Aviv 2024、KubeCon 2024、EuroRust 2024……</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx66n5/tech_talks_weekly_38_all_the_new_talks_from_tech/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx66n5/tech_talks_weekly_38_all_the_new_talks_from_tech/</guid>
-      <pubDate>Fri, 22 Nov 2024 11:59:39 GMT</pubDate>
+      <title>jet-schema：针对 typescript 的全新架构验证库</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxdort/jetschema_fresh_off_the_grill_schema_validation/</link>
+      <description><![CDATA[  由    /u/TheWebDever  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxdort/jetschema_fresh_off_the_grill_schema_validation/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>好的，我现在可以部分解释一下法学硕士国际象棋的怪异之处了</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx63oa/ok_i_can_partly_explain_the_llm_chess_weirdness/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx63oa/ok_i_can_partly_explain_the_llm_chess_weirdness/</guid>
-      <pubDate>Fri, 22 Nov 2024 11:54:19 GMT</pubDate>
+      <title>学习 Sonic Pi 来现场编写音乐代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxdmyk/learning_sonic_pi_to_live_code_music/</link>
+      <description><![CDATA[  由    /u/jp3553  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxdmyk/learning_sonic_pi_to_live_code_music/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:44:56 GMT</pubDate>
     </item>
     <item>
-      <title>为什么没人使用时间跟踪？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx52pt/why_does_nobody_use_time_tracking/</link>
-      <description><![CDATA[  由    /u/CSynus235  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx52pt/why_does_nobody_use_time_tracking/</guid>
-      <pubDate>Fri, 22 Nov 2024 10:46:05 GMT</pubDate>
+      <title>你所需要的就是 Unix 管道 - 简短的视频教程</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxdfc6/unix_pipes_are_all_you_need_a_short_video_tutorial/</link>
+      <description><![CDATA[  由    /u/mugen_code  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxdfc6/unix_pipes_are_all_you_need_a_short_video_tutorial/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>掌握 JavaScript 中的设计模式：第 8 部分 - 责任链模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx4xva/mastering_design_patterns_in_javascript_part_8/</link>
-      <description><![CDATA[  由    /u/HolidayCartoonist323  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx4xva/mastering_design_patterns_in_javascript_part_8/</guid>
-      <pubDate>Fri, 22 Nov 2024 10:36:18 GMT</pubDate>
+      <title>WebGPU 的下一步是什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd9xo/whats_next_for_webgpu/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd9xo/whats_next_for_webgpu/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>中国科学家利用量子计算机破解军用级加密——量子攻击对 RSA 和 AES 构成“现实而实质性的威胁”</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx4syn/chinese_scientists_use_quantum_computers_to_crack/</link>
-      <description><![CDATA[  由    /u/donutloop  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx4syn/chinese_scientists_use_quantum_computers_to_crack/</guid>
-      <pubDate>Fri, 22 Nov 2024 10:26:57 GMT</pubDate>
+      <title>Clojure 禁忌：Concat</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd69k/clojure_donts_concat/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd69k/clojure_donts_concat/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>推出 Sail v0.2 预览版分布式处理 - 比 Spark 快 4 倍、成本降低 94%、兼容 PySpark</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx48x4/introducing_distributed_processing_with_sail_v02/</link>
-      <description><![CDATA[  由    /u/Careful_Reality5531  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx48x4/introducing_distributed_processing_with_sail_v02/</guid>
-      <pubDate>Fri, 22 Nov 2024 09:46:26 GMT</pubDate>
+      <title>使用 PEG 的运行时可扩展 SQL 解析器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd66f/runtimeextensible_sql_parsers_using_peg/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd66f/runtimeextensible_sql_parsers_using_peg/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:25:47 GMT</pubDate>
     </item>
     <item>
-      <title>Windsurf 与 Cursor：AI IDE</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx3ug6/windsurf_vs_cursor_ai_ides/</link>
-      <description><![CDATA[嘿，如果你不想看视频，以下是我的想法。 两者在自动完成和使用 Command K/I 进行内联编辑的用户体验方面都提供了类似的功能。 对我来说，Windsurfs 级联及其代理比 Cursors 作曲家感觉更好。它似乎更好地理解了我所做事情的背景，并能够继续我的工作。我还展示了为什么我不喜欢 AI 仍然创建完整的项目，因为它要求一个反应应用程序，它试图运行 create-react-app。 Windsurf 在其免费套餐上具有无限完成，它的价格是专业套餐的一半，为 10 美元。值得注意的是，它只允许在专业版上进行 1000 步级联，而且我不清楚什么构成了一个步骤。    提交人    /u/JollyShopland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx3ug6/windsurf_vs_cursor_ai_ides/</guid>
-      <pubDate>Fri, 22 Nov 2024 09:15:52 GMT</pubDate>
+      <title>并行 Lisp 中的未来和多值（1991）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd5wr/futures_and_multiple_values_in_parallel_lisp_1991/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd5wr/futures_and_multiple_values_in_parallel_lisp_1991/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:25:28 GMT</pubDate>
     </item>
     <item>
-      <title>Discord 如何将 Websocket 流量减少 40%</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx3qu0/how_discord_reduced_websocket_traffic_by_40/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx3qu0/how_discord_reduced_websocket_traffic_by_40/</guid>
-      <pubDate>Fri, 22 Nov 2024 09:08:12 GMT</pubDate>
+      <title>Bismuth VM 中的内存管理和安全性</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd5ul/memory_management_and_safety_in_bismuth_vm/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd5ul/memory_management_and_safety_in_bismuth_vm/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>开源 Tailwind CSS 组件库 | daily.dev</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx30mc/open_source_tailwind_css_components_library/</link>
-      <description><![CDATA[  由    /u/Abhi_mech007  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx30mc/open_source_tailwind_css_components_library/</guid>
-      <pubDate>Fri, 22 Nov 2024 08:12:04 GMT</pubDate>
+      <title>F# 9 中的可空引用类型</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd5ef/nullable_reference_types_in_f_9/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd5ef/nullable_reference_types_in_f_9/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>排版引擎：程序员的视角</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx20xp/on_typesetting_engines_a_programmers_perspective/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx20xp/on_typesetting_engines_a_programmers_perspective/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:59:37 GMT</pubDate>
+      <title>可靠地对微小变化进行基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd4tc/reliably_benchmarking_small_changes/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd4tc/reliably_benchmarking_small_changes/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:24:11 GMT</pubDate>
     </item>
     <item>
-      <title>Cast – CLI 工具（用 Python 编写），用于从 CSV 文件读取数据集并进行转换</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx1yy4/cast_cli_tool_written_in_python_for_reading_data/</link>
-      <description><![CDATA[  由    /u/Harzer-Zwerg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx1yy4/cast_cli_tool_written_in_python_for_reading_data/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:55:37 GMT</pubDate>
+      <title>高级内核旁路 I/O 抽象的案例</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>向量嵌入初学者指南（附示例）</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx1ycx/a_beginners_guide_to_vector_embeddings_w_examples/</link>
-      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx1ycx/a_beginners_guide_to_vector_embeddings_w_examples/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:54:23 GMT</pubDate>
+      <title>Jainja：用 Java 编写的 JVM</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd4kv/jainja_a_jvm_written_in_java/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd4kv/jainja_a_jvm_written_in_java/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>每个开发人员都需要的 11 个 Python 样板代码片段</title>
-      <link>https://www.reddit.com/r/programming/comments/1gx1lj4/11_python_boilerplate_code_snippets_every/</link>
-      <description><![CDATA[  由   提交  /u/Only_Piccolo5736   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gx1lj4/11_python_boilerplate_code_snippets_every/</guid>
-      <pubDate>Fri, 22 Nov 2024 06:30:01 GMT</pubDate>
+      <title>宝宝的第二个垃圾收集器</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd41m/babys_second_garbage_collector/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd41m/babys_second_garbage_collector/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:23:15 GMT</pubDate>
     </item>
     <item>
-      <title>关于链接脚本你绝对不想知道的一切</title>
-      <link>https://www.reddit.com/r/programming/comments/1gwzul4/everything_you_never_wanted_to_know_about_linker/</link>
-      <description><![CDATA[  由    /u/yawara25  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gwzul4/everything_you_never_wanted_to_know_about_linker/</guid>
-      <pubDate>Fri, 22 Nov 2024 04:43:47 GMT</pubDate>
+      <title>真正可移植的 C 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd1v6/truly_portable_c_applications/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd1v6/truly_portable_c_applications/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:20:42 GMT</pubDate>
     </item>
     <item>
-      <title>Tailwind CSS v4.0 测试版</title>
-      <link>https://www.reddit.com/r/programming/comments/1gwyutz/tailwind_css_v40_beta/</link>
-      <description><![CDATA[  由    /u/valtism  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gwyutz/tailwind_css_v40_beta/</guid>
-      <pubDate>Fri, 22 Nov 2024 03:48:25 GMT</pubDate>
+      <title>C++ Mixin 系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxd0xh/a_c_mixin_system/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxd0xh/a_c_mixin_system/</guid>
+      <pubDate>Fri, 22 Nov 2024 17:19:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
