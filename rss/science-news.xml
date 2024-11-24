@@ -4,7 +4,7 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Sun, 24 Nov 2024 03:29:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 06:14:16 GMT</lastBuildDate>
     <item>
       <title>4000 年前，狩猎采集者在伯利兹建造了一个巨大的捕鱼陷阱</title>
       <link>https://www.newscientist.com/article/2457551-hunter-gatherers-built-a-massive-fish-trap-in-belize-4000-years-ago/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -62,13 +62,6 @@
       <pubDate>Thu, 21 Nov 2024 21:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>类似蠕虫的化石是蜘蛛和甲壳类动物最古老的祖先</title>
-      <link>https://www.newscientist.com/article/2457090-worm-like-fossil-is-the-oldest-ancestor-of-spiders-and-crustaceans/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[节肢动物属于一个进化分支——蜕皮动物门，该分支包含大约一半的动物物种，该类群最早的化石证据可追溯到 5.5 亿年前]]></description>
-      <guid>https://www.newscientist.com/article/2457090-worm-like-fossil-is-the-oldest-ancestor-of-spiders-and-crustaceans/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Thu, 21 Nov 2024 19:41:50 GMT</pubDate>
-    </item>
-    <item>
       <title>黑猩猩似乎通过文化变得更加技术先进</title>
       <link>https://www.newscientist.com/article/2457464-chimpanzees-seem-to-get-more-technologically-advanced-through-culture/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
       <description><![CDATA[具有更复杂工具使用行为的野生黑猩猩群体往往具有遗传联系，这为其他类人猿的累积文化提供了证据]]></description>
@@ -90,7 +83,7 @@
       <pubDate>Thu, 21 Nov 2024 17:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>无人机拍摄的冰岛雷克雅内斯火山喷发景象令人震撼</title>
+      <title>令人惊叹的无人机镜头捕捉到了冰岛雷克雅内斯火山的喷发</title>
       <link>https://www.newscientist.com/video/2457478-icelands-reykjanes-volcanic-eruption-captured-in-stunning-drone-shots/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
       <description><![CDATA[冰岛雷克雅内斯半岛再次发生火山喷发，为今年第七次]]></description>
       <guid>https://www.newscientist.com/video/2457478-icelands-reykjanes-volcanic-eruption-captured-in-stunning-drone-shots/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[研究人员利用 ChatGPT 背后的模型 GPT-4o 复制了 1000 多人的性格和行为，旨在创建焦点小组和民意调查的替代方案]]></description>
       <guid>https://www.newscientist.com/article/2457233-ai-simulations-of-1000-people-accurately-replicate-their-behaviour/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Wed, 20 Nov 2024 16:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM 首次实现两块量子芯片纠缠协作</title>
+      <link>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[IBM 在采用模块化方法构建量子计算机方面投入了巨额资金，目前它已成功将两个量子芯片连接在一起，使其作为单个设备运行，这是朝着这一目标迈出的关键一步]]></description>
+      <guid>https://www.newscientist.com/article/2456542-ibm-entangled-two-quantum-chips-to-work-together-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 20 Nov 2024 16:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
