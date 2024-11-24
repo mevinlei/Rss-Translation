@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Nov 2024 00:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 03:28:47 GMT</lastBuildDate>
+    <item>
+      <title>有趣的视差效果——您认为他们是如何做到的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gygn57/interesting_parallax_effect_how_do_you_think_they/</link>
+      <description><![CDATA[此页面具有有趣的视差效果，其中项目图像垂直滚动时与前景内容略有偏移。这可以用纯 CSS 实现吗？你认为他们是怎么做到的？ https://atelierdesign.be/our-works/    提交人    /u/braitsch   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gygn57/interesting_parallax_effect_how_do_you_think_they/</guid>
+      <pubDate>Sun, 24 Nov 2024 02:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>初级投资组合审查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gyg0vu/junior_portfolio_review/</link>
+      <description><![CDATA[大家好， 在 2022 年担任初级开发人员后，我希望重返该行业 我刚刚完成了我的作品集的新版本，任何反馈都将不胜感激 提前致谢！ https://jackmayhew.com/    提交人    /u/jak0wak0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gyg0vu/junior_portfolio_review/</guid>
+      <pubDate>Sun, 24 Nov 2024 01:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>旅行日志分享网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gyf0ni/travel_log_sharing_website/</link>
+      <description><![CDATA[最近刚买了一个域名，开始营销。Instagram 帐户：Travel___Logs https://travel-logs.com/     由    /u/BBRRE 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gyf0ni/travel_log_sharing_website/</guid>
+      <pubDate>Sun, 24 Nov 2024 01:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 Framer Motion 改版了我的网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1gyeiye/i_revamped_my_website_with_framer_motion/</link>
@@ -81,27 +102,6 @@
       <description><![CDATA[        提交人    /u/Majestic_Affect_1152   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gy9il1/an_animated_icon_gallery_for_landing_pages/</guid>
       <pubDate>Sat, 23 Nov 2024 20:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改主机站点，保留我的域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gy9a66/change_host_site_keep_my_domain_name/</link>
-      <description><![CDATA[正如标题所述，过去十年来，我的网站一直使用 Squarespace。我想改变它，但不幸的是，我对 Squarespace 的平台并不满意。我为一个学校项目创建了一个 wix 或 weebly 网站，并且非常喜欢它，因为它真的很容易实现。我不想失去我的域名，它是我的重要组成部分，但我准备使用新的网络主机重新开始。这可能吗？我该如何实现？提前谢谢！    提交人    /u/little-river-otter   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gy9a66/change_host_site_keep_my_domain_name/</guid>
-      <pubDate>Sat, 23 Nov 2024 20:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我理解 SSO？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gy92gt/help_me_understand_sso/</link>
-      <description><![CDATA[希望有人能帮忙...所以我尝试通过“使用 Google 登录”按钮登录我的三星帐户（该帐户已存在）。屏幕上显示它将向我的电话号码发送密码（这是正确的号码），但由于某种原因我没有收到该代码。（所有其他消息都发送正常，信号完整等）。  我实际上登录的是什么？（即谁在发送该代码）？三星，还是 Google？    提交人    /u/Illustrious_Pea_123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gy92gt/help_me_understand_sso/</guid>
-      <pubDate>Sat, 23 Nov 2024 20:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我将 JWT 存储在 cookie 中，是否需要使用上下文提供程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gy91xg/do_i_need_to_use_a_context_provider_if_im_storing/</link>
-      <description><![CDATA[我正在尝试为我的 react/node.js 应用程序实现 JWT，但有些部分我感到困惑。 据我了解：客户端向后端发出请求 -&gt; 后端生成令牌 -&gt; 将其发送到前端 -&gt; 前端将令牌存储在客户端（例如 cookie），这样您就不需要每次想要访问内容时都向服务器发出请求。 但是，我看到人们也使用 React 上下文提供程序来处理身份验证。 上下文提供程序的目的不是将信息（在本例中为身份验证状态）传递给子组件吗？ 或者您是否打算将 JWT 令牌本身存储在 cookie 中，并使用上下文状态来存储诸如“{userAuth: true, favoriteColor: blue}”之类的信息？但在这种情况下，如果用户重新加载页面或执行其他操作，所有这些信息不是都会丢失吗？    提交人    /u/bae-va   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gy91xg/do_i_need_to_use_a_context_provider_if_im_storing/</guid>
-      <pubDate>Sat, 23 Nov 2024 20:30:14 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一个网站来寻找可以联系的直播主</title>
