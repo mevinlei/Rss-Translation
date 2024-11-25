@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:27:18 GMT</lastBuildDate>
+    <item>
+      <title>使用 DigitalOcean 防火墙保护您的 droplet。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz9hms/protect_your_droplet_with_digitalocean_firewall/</link>
+      <description><![CDATA[  由    /u/coold007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz9hms/protect_your_droplet_with_digitalocean_firewall/</guid>
+      <pubDate>Mon, 25 Nov 2024 03:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elixir 中的宏</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz9bi8/macros_en_elixir/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz9bi8/macros_en_elixir/</guid>
+      <pubDate>Mon, 25 Nov 2024 03:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>遗留代码与软件无关，而是与人有关</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz9a3k/legacy_code_is_not_about_software_is_about_people/</link>
+      <description><![CDATA[了解遗留代码、如何预防以及如何修复它。    提交人    /u/CarterOfAra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz9a3k/legacy_code_is_not_about_software_is_about_people/</guid>
+      <pubDate>Mon, 25 Nov 2024 03:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么C++使用指针来实现多态性？</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz8v1g/por_qué_c_utiliza_punteros_para_implementar_el/</link>
+      <description><![CDATA[ 由   发送/u/emanuelpeg  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz8v1g/por_qué_c_utiliza_punteros_para_implementar_el/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示器更换——使用投影仪进行家庭办公室设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz8pyp/monitor_replacement_using_a_projector_for_a_home/</link>
+      <description><![CDATA[  由    /u/plun9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz8pyp/monitor_replacement_using_a_projector_for_a_home/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:42:56 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个一体化 JSON 工具</title>
       <link>https://www.reddit.com/r/programming/comments/1gz60na/i_created_an_allinone_json_tool/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gyt0fa/move_fast_and_abandon_things/</guid>
       <pubDate>Sun, 24 Nov 2024 15:07:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库匿名化工具发布。Greenmask v0.2.5</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyso6g/database_anonymization_tool_release_greenmask_v025/</link>
-      <description><![CDATA[  由    /u/anyweny  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyso6g/database_anonymization_tool_release_greenmask_v025/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Node.js 的 node:wasi 为 node 和 Wasmer 的 WASI 为 Deno、Node.js、Bun</title>
-      <link>https://www.reddit.com/r/programming/comments/1gysjn9/using_nodejs_nodewasi_for_node_and_wasmers_wasi/</link>
-      <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gysjn9/using_nodejs_nodewasi_for_node_and_wasmers_wasi/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>从被解雇到被聘用：软件工程师的指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyrn6n/from_laid_off_to_hired_a_software_engineers_guide/</link>
-      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyrn6n/from_laid_off_to_hired_a_software_engineers_guide/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为 macOS 应用设置 Flutter 深度链接？</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyqeg5/how_to_set_up_deep_linking_with_flutter_for_macos/</link>
-      <description><![CDATA[  由    /u/Only_Piccolo5736  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyqeg5/how_to_set_up_deep_linking_with_flutter_for_macos/</guid>
-      <pubDate>Sun, 24 Nov 2024 12:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jekyll 对于小型个人博客来说似乎有点麻烦 - 所以我又建了一个静态站点生成器 :)</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</link>
-      <description><![CDATA[  由    /u/jarvuyirttehc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:36:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

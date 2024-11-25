@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:27:46 GMT</lastBuildDate>
+    <item>
+      <title>刚刚发送了我的第一封简讯！你们都用什么来发送简讯？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gz9cxd/just_sent_my_first_newsletter_what_do_you_all_use/</link>
+      <description><![CDATA[我的时事通讯已正式发出其第一批电子邮件，现在将在每个星期日自动发出！ 每期都包含动态开发者组合，展示最受欢迎的精选以及我亲手挑选的最爱。 我使用Firebase Cloud Functions和Nodemailer构建了该系统，虽然这并非没有挑战 - 配置Firebase来处理电子邮件发送有点棘手 - 但事实证明这是一次非常有趣和有益的体验。 时事通讯还不是特别花哨（肯定计划在未来使其更“美观”），但就目前而言，它可以完成工作。 我很好奇：  您的时事通讯受众有多大？ 您使用什么工具或服务，它们如何帮助您扩展/管理您的时事通讯？  很想听听您的经历，也许可以从中吸取一些改进我的技巧！ 如果您对我的感兴趣：https://webportfolios.dev    提交人    /u/yeahimjtt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gz9cxd/just_sent_my_first_newsletter_what_do_you_all_use/</guid>
+      <pubDate>Mon, 25 Nov 2024 03:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>连接质量不佳</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gz8axf/making_your_connection_bad/</link>
+      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gz8axf/making_your_connection_bad/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:20:43 GMT</pubDate>
+    </item>
     <item>
       <title>当我拥有一个域名时，我可以托管一个网站吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      大家好， 我为教育联合会工作。我们的大多数更新都发布在我们的 Instagram 上，所以我认为将其安装在我们的联合会网站上比手动重新上传所有内容更有意义。  我发现了一些不错的小部件，它们可以显示 Instagram 的主要内容图块，但我想以某种方式单独实现故事亮点。我们为联盟的某些领域设置了不同的故事亮点 - “充实”、“早期”、“培训”等 - 内容被分组。我希望类似的按钮出现在我们的网站上，这样当按下它们时，人们可以轻松浏览图像，而无需重定向到 Instagram 本身。  我尝试了 SociableKIT 的小部件，它几乎满足了我们的需要，但它没有通过圆形按钮提取标题。  关于如何实现这一点有什么想法吗？  非常感谢！ 这是它们在 Instagram 上的显示方式：  https://preview.redd.it/gi8rscm91w2e1.png?width=2104&amp;format=png&amp;auto=webp&amp;s=363d9c19acfd83839c337258abf40c68ce1bb522    提交人    /u/Foxington_the_First   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyx1nl/instagram_content_story_highlights_on_website/</guid>
       <pubDate>Sun, 24 Nov 2024 17:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</link>
-      <description><![CDATA[      开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。此更新重点介绍了与 LLM 应用程序特别相关的漏洞和威胁，并提供了有关减轻数据中毒、对抗性攻击和偏见等风险的指导。 来源：https://remoteupskill.com    提交人    /u/Diligent_Relative_36   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</guid>
-      <pubDate>Sun, 24 Nov 2024 17:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建一个工具来帮助开发人员展示引人注目的作品集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyviww/how_i_built_a_tool_to_help_developers_showcase/</link>
-      <description><![CDATA[我创建了 https://webportfolios.dev，这个平台旨在帮助开发人员展示他们的作品集、从他人那里获得灵感以及克服构建自己的作品集时常见的挑战。 我创建这个平台是因为我知道从头开始创建一个作品集或想办法让它脱颖而出是多么令人难以承受。 一个快速成功的故事：我们的一位用户最近上传了他们的作品集，仅仅通过将他们的作品集上传到平台，他们的作品集流量就翻了一番！ 想听听为您构建作品集最困难的部分是什么吗？让我们讨论并互相帮助！    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyviww/how_i_built_a_tool_to_help_developers_showcase/</guid>
-      <pubDate>Sun, 24 Nov 2024 16:54:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

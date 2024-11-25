@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:27:10 GMT</lastBuildDate>
+    <item>
+      <title>检测特定声音效果的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1gz7728/software_for_detecting_specific_sound_effects/</link>
+      <description><![CDATA[我正在寻找一种可以不断监听一组不同的输入音效，然后可以将输入发送到另一个程序的东西，有点像基于声音的宏输入ig 任何平台都可以，因为我对此有一些想法，但是它们可以在更低端硬件上运行更好    提交人    /u/blue-samwise   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gz7728/software_for_detecting_specific_sound_effects/</guid>
+      <pubDate>Mon, 25 Nov 2024 01:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>配备 32gb ddr5 RAM 的 Hp victus 15 rtx 4050 ryzen 处理器足以运行 LLMS 和 Android Studio 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gz59nr/is_hp_victus_15_rtx_4050_ryzen_processor_with/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/alvisanovari  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gye8we/nextbeats_a_modern_opensource_lofi_experience/</guid>
       <pubDate>Sun, 24 Nov 2024 00:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以在播放视频的同时播放 2 个音轨的媒体播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1gydm0r/looking_for_a_media_player_that_plays_2_audio/</link>
-      <description><![CDATA[主要用例是预览具有双音轨（PC 音频和麦克风音频）的 NVIDIA Shadowplay 视频录制 - 我在录制时会在 Shadowplay 中使用单音轨，但这会产生无法在编辑中单独调平桌面/麦克风音频的第二个问题。 到目前为止，我已经尝试过：  WMP/Films &amp;    提交人    /u/Osasbanj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gydm0r/looking_for_a_media_player_that_plays_2_audio/</guid>
-      <pubDate>Sat, 23 Nov 2024 23:58:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
