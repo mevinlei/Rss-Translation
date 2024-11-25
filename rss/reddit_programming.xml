@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 24 Nov 2024 21:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:51:49 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个一体化 JSON 工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz60na/i_created_an_allinone_json_tool/</link>
+      <description><![CDATA[  由    /u/Lac-TranAn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz60na/i_created_an_allinone_json_tool/</guid>
+      <pubDate>Mon, 25 Nov 2024 00:27:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Git Worktrees</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz55m8/how_i_use_git_worktrees/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz55m8/how_i_use_git_worktrees/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:46:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>厌倦了提交和推送只是为了测试工作流程？试试我发布的这个新 VS Code 扩展！</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz4svn/tired_of_committing_and_pushing_just_to_test/</link>
+      <description><![CDATA[  由    /u/sanjulag  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz4svn/tired_of_committing_and_pushing_just_to_test/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:30:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 工程：文摘 #41</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz4kca/engineering_with_java_digest_41/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz4kca/engineering_with_java_digest_41/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个由 Gemini AI 提供支持的文本摘要浏览器扩展程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1gz1ohp/i_built_a_text_summarizer_browser_extension/</link>
+      <description><![CDATA[  由    /u/niyoseris  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gz1ohp/i_built_a_text_summarizer_browser_extension/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:12:24 GMT</pubDate>
+    </item>
     <item>
       <title>为计算机编写代码很难，但为人类编写代码更难</title>
       <link>https://www.reddit.com/r/programming/comments/1gz1fb8/its_hard_to_write_code_for_computers_but_its_even/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/jarvuyirttehc  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gyp1ti/jekyll_seemed_like_a_pain_for_a_minimal_personal/</guid>
       <pubDate>Sun, 24 Nov 2024 11:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个动态帖子分发算法，可以根据用户活动调整内容交付。活跃用户会先收到帖子，而不太活跃的用户则会稍后收到帖子。最终每个用户都会收到帖子，帮助小型创作者成长。完整代码如下</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</link>
-      <description><![CDATA[  由   提交  /u/No-Abroad-5213   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyomnv/i_built_a_dynamic_post_distribution_algorithm/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了 SongBar：一款极简的 macOS 菜单栏应用，可显示当前正在播放的 Spotify 曲目</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</link>
-      <description><![CDATA[  由    /u/niyoseris  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyomdv/i_built_songbar_a_minimal_macos_menu_bar_app_that/</guid>
-      <pubDate>Sun, 24 Nov 2024 11:07:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>克服不够优秀的程序员</title>
-      <link>https://www.reddit.com/r/programming/comments/1gyoeit/getting_over_not_being_a_good_enough_programmer/</link>
-      <description><![CDATA[  由    /u/the_nifty_programmer  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gyoeit/getting_over_not_being_a_good_enough_programmer/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 安全检查表：9 个必须遵循的最佳实践</title>
-      <link>https://www.reddit.com/r/programming/comments/1gynnvm/github_security_checklist_9_mustfollow_best/</link>
-      <description><![CDATA[  由    /u/hectormoodya  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gynnvm/github_security_checklist_9_mustfollow_best/</guid>
-      <pubDate>Sun, 24 Nov 2024 10:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 标准贡献者因“未定义行为问题”被开除</title>
-      <link>https://www.reddit.com/r/programming/comments/1gynl1v/c_standards_contributor_expelled_for_the/</link>
-      <description><![CDATA[  由    /u/hectormoodya  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gynl1v/c_standards_contributor_expelled_for_the/</guid>
-      <pubDate>Sun, 24 Nov 2024 09:58:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

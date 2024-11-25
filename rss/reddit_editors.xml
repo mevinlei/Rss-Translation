@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 24 Nov 2024 21:09:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:51:35 GMT</lastBuildDate>
+    <item>
+      <title>帮我设置 youtube 的颜色...</title>
+      <link>https://www.reddit.com/r/editors/comments/1gz49sn/help_me_with_color_settings_for_youtube/</link>
+      <description><![CDATA[我已经以 REC.709 导出了 vlog，但在 youtube 上对比度更高，你们遇到过这种情况吗？ 在 DaVinci Studio 中导出时，将“色彩空间标签”和“伽马标签”均设置为 rec.709。在 REC 709 空间中分级。 使用 macOS，但我不认为它以任何方式影响它，因为我正在上传到 youtube 而不是通过 quicktime 播放器观看。 系统规格：CPU M4 PRO 12C + 24GB RAM // 软件规格：DaVinci Resolve Studio 19.1 build 12 // 素材规格：h264 高 4:2:2 L5.1 这是带有差异的 imgur 链接：https://imgur.com/a/LAOaFIZ    提交人    /u/GarbageUpstairs5969   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gz49sn/help_me_with_color_settings_for_youtube/</guid>
+      <pubDate>Sun, 24 Nov 2024 23:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>成长档案帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1gz3nxn/growing_files_help/</link>
+      <description><![CDATA[在 DaVinci Resolve subreddit 上发布了此内容，但未收到任何回复，希望有人能在此处找到解决方法： 我处理来自 OBS 的碎片化 MP4/MOV 格式的不断增长的文件。我已经检查了“自动更新不断增长的文件”设置，它运行良好，但它会以非常随机的间隔更新文件，有时在 30 秒内，有时则需要 3-4 分钟。 我最近发现，您可以替换媒体池中的选定剪辑，并手动将文件更新为最新时间戳。视频会更新，但没有音频输出，尽管有时会出现波形（自动增长文件更新时会出现音频）。我只是想问问是否有人遇到过这种情况或有解决方法。    提交人    /u/School_Nervous   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gz3nxn/growing_files_help/</guid>
+      <pubDate>Sun, 24 Nov 2024 22:38:30 GMT</pubDate>
+    </item>
     <item>
       <title>搜索视频格式/编解码器/容器的完整列表。</title>
       <link>https://www.reddit.com/r/editors/comments/1gyv03g/searching_for_a_comprehensive_list_of_video/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>Pexels.com 怎么了？？？</title>
       <link>https://www.reddit.com/r/editors/comments/1gy5hpj/what_happened_to_pexelscom/</link>
-      <description><![CDATA[此页面在午夜（欧洲中部时区）之前无法使用。这是机器人还是什么？服务器完全拥挤，就像是他妈的 DDOS 攻击一样，但每天午夜之后页面都会再次稳定，您不需要 1 小时来播放单个剪辑。    由   提交  /u/Cybearian1   [link] [评论]]]></description>
+      <description><![CDATA[此页面在午夜（欧洲中部时区）之前无法使用。这是机器人还是什么？服务器完全拥挤，就像是他妈的 DDOS 攻击一样，但每天午夜过后页面都会再次稳定，您不需要 1 小时来播放单个剪辑。    由   提交  /u/Cybearian1   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gy5hpj/what_happened_to_pexelscom/</guid>
       <pubDate>Sat, 23 Nov 2024 17:55:02 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>请帮忙（音频问题）</title>
       <link>https://www.reddit.com/r/editors/comments/1gxxvy0/pls_help_audio_issue/</link>
-      <description><![CDATA[大家好！我诚挚地请求大家的帮助。我为客户制作的视频出现了音频问题。您会看到，音频分贝有一个指导原则，我已经遵循了该原则，甚至还向他们发送了图片作为证明。但是，当我的客户检查它时，他们说： 整个视频的音频级别仍然很低且不一致。请更正您的音频级别并提交您的编辑。建议的混音级别：对话：-12db 至 -6db 音乐：-16db 至 -10db 音效：-10db 至 -20db，偶尔会出现高达 -8db 的峰值 我不知道该怎么办。音频没有问题，当我用 Seinnheiser 耳机听的时候，听起来还不错。我该如何解决这个问题？有什么帮助吗？   由    /u/Akira5693  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我恳请大家帮助我。我为客户制作的视频出现了音频问题。您会看到，音频分贝有一个指导原则，我已经遵循了该原则，甚至还向他们发送了图片作为证明。但是，当我的客户检查它时，他们说： 整个视频的音频级别仍然很低且不一致。请更正您的音频级别并提交您的编辑。建议的混音级别：对话：-12db 至 -6db 音乐：-16db 至 -10db 音效：-10db 至 -20db，偶尔会出现高达 -8db 的峰值 我不知道该怎么办。音频没有问题，当我用 Seinnheiser 耳机听的时候，听起来还不错。我该如何解决这个问题？有什么帮助吗？   由    /u/Akira5693  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gxxvy0/pls_help_audio_issue/</guid>
       <pubDate>Sat, 23 Nov 2024 11:47:13 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[大家好，我是一名相对有经验的编辑，最近开始做自己的工作，我有一个项目，基本上是电子学习风格的模块，大约需要 10 分钟。人才在绿屏上拍摄，并始终使用动画 2D 图形。但是，有很多只是说话的头像，我需要剪切以删除长时间的停顿等。全身镜头只有一个摄像机角度正面，但 4K 才能实现 1080p 交付。所以我一直在按要求进行剪辑，客户抱怨剪辑太过苛刻。我对这个世界并不陌生，我正在根据视线进行剪辑，并确保身体动作匹配。正在寻找一些不错的微妙过渡选项。我已经做了一些缩放/位置过渡，并进行了一些模糊处理，效果很好，还有一些水平缓和的幻灯片 L2R。希望得到任何关于还有什么可以尝试的建议（背景是始终保持不变的块颜色）    提交人    /u/182637393melbs   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gxx72e/suggestions_on_talking_heads_bodies_transitions/</guid>
       <pubDate>Sat, 23 Nov 2024 11:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级专题编辑与普通编辑有何区别？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gxrl6b/what_separates_toptier_feature_editors_from_the/</link>
-      <description><![CDATA[一旦你有能力管理一个功能的范围，是什么让你比其他编辑者更胜一筹呢？ 超过某个点后，每个人的技术专长可能都差不多。如果组织能力才是最重要的，那么组织能力肯定会影响速度。但品味和任何东西一样转瞬即逝；我们喜欢的同一部电影如果由不同的编辑者处理，会不会同样精彩？而这些努力或技巧最终有多少会被其他利益相关者所取代？    提交者    /u/CyJackX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gxrl6b/what_separates_toptier_feature_editors_from_the/</guid>
-      <pubDate>Sat, 23 Nov 2024 04:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要外部硬盘驱动器记录</title>
-      <link>https://www.reddit.com/r/editors/comments/1gxl4c2/need_external_hard_drive_recs/</link>
-      <description><![CDATA[一位客户有大约 20TB 的存档素材需要我查阅。我不想拿走他们的硬盘（只复制），因为这些素材非常伤感。需要建议一些我可以复制到并用于分类/编辑的外部硬盘。相对便宜且相对快捷的东西。    提交人    /u/theVividAcanthaceae   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gxl4c2/need_external_hard_drive_recs/</guid>
-      <pubDate>Fri, 22 Nov 2024 23:09:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

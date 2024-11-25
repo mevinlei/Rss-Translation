@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Nov 2024 21:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:52:17 GMT</lastBuildDate>
+    <item>
+      <title>当我拥有一个域名时，我可以托管一个网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</link>
+      <description><![CDATA[嘿伙计们，如果有链接可以回答我的问题，请随意链接，我在谷歌上搜索了一下，但还没有找到我确信的答案。  基本上，我拥有一个域名，并用 html/css/js 编写了一个小网站。我想在我拥有的域名上托管这个网站（用 cloudflare 购买），但不知道要使用哪个主机，我想这会让我选择我的域名。我大约 3 年前这样做过，但忘记我做了什么。  编辑：最终选择了 Vercel。谢谢大家！页面上线了！Keviqn.com    提交人    /u/JuicyCiwa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>每个字段都有自己的表单并自动发送？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz1erq/form_where_each_field_is_its_own_form_and_sends/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>全栈和身份验证</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz056f/full_stack_authentication/</link>
-      <description><![CDATA[一般来说，当您构建全栈 Web 应用程序时 - 您是从服务器应用程序还是客户端应用程序添加身份验证？即下一个 JS 身份验证，还是在 React 中执行此操作？我很惊讶地发现您可以通过任何一种方式进行操作。 我对此真的很陌生，所以请多多包涵。我只是想在脑子里整理好这一切。    提交人    /u/danieljohnsz   [link] [评论]]]></description>
+      <description><![CDATA[通常，当您构建全栈 Web 应用程序时 - 您是从服务器应用程序还是客户端应用程序添加身份验证？即下一个 JS 身份验证，还是在 React 中执行此操作？我很惊讶地发现你可以用任何一种方式做到这一点。 我对此真的很陌生，所以请多多包涵。我只是想在脑子里整理好这一切。    提交人    /u/danieljohnsz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gz056f/full_stack_authentication/</guid>
       <pubDate>Sun, 24 Nov 2024 20:07:19 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Sun, 24 Nov 2024 19:21:21 GMT</pubDate>
     </item>
     <item>
-      <title>最适合纯粹 Web 开发的监视器？</title>
+      <title>最适合纯粹网络开发的监视器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gyyp18/best_monitor_purely_for_web_development/</link>
       <description><![CDATA[我目前在家里有一台 27 英寸的显示器，既用于游戏，也用于工作（Web 开发编程）。 在办公室，我现在有一台 34 英寸的显示器，我非常喜欢这种外形。这样可以更轻松地同时使用浏览器和代码，而无需做出任何妥协。 在我的新房子里，我有机会拥有 2 张桌子，1 张用于游戏，1 张用于工作。所以现在我可以得到 2 台显示器用于单一用途，而无需做出任何妥协。 有没有最好的 Web 开发显示器的推荐？34 英寸、38 英寸、40 英寸，给我你最喜欢的。我一直非常喜欢 38 英寸、40 英寸的超宽选项，但它们的亮度性能似乎都很差！令人沮丧。但也许我遗漏了一台监视器。    提交人    /u/AlDrag   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyyp18/best_monitor_purely_for_web_development/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 24 Nov 2024 17:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高人工智能安全性。</title>
+      <title>开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</link>
       <description><![CDATA[      开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。此更新重点介绍了与 LLM 应用程序特别相关的漏洞和威胁，并提供了有关减轻数据中毒、对抗性攻击和偏见等风险的指导。 来源：https://remoteupskill.com    提交人    /u/Diligent_Relative_36   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[我创建了 https://webportfolios.dev，这个平台旨在帮助开发人员展示他们的作品集、从他人那里获得灵感以及克服构建自己的作品集时常见的挑战。 我创建这个平台是因为我知道从头开始创建一个作品集或想办法让它脱颖而出是多么令人难以承受。 一个快速成功的故事：我们的一位用户最近上传了他们的作品集，仅仅通过将他们的作品集上传到平台，他们的作品集流量就翻了一番！ 想听听为您构建作品集最困难的部分是什么吗？让我们讨论并互相帮助！    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyviww/how_i_built_a_tool_to_help_developers_showcase/</guid>
       <pubDate>Sun, 24 Nov 2024 16:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>确实如此</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyuzlh/yes_indeed/</link>
-      <description><![CDATA[      https://preview.redd.it/18j4t7lpmv2e1.png?width=1044&amp;format=png&amp;auto=webp&amp;s=2f6e0fb816b74752f7ca4f8078bc8b400be65c89    提交人    /u/sallu9000   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyuzlh/yes_indeed/</guid>
-      <pubDate>Sun, 24 Nov 2024 16:32:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
