@@ -4,13 +4,41 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 21:09:48 GMT</lastBuildDate>
     <item>
-      <title>毫无代价</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzobpp/the_cost_of_nothing/</link>
-      <description><![CDATA[https://youtu.be/qZS50KXjAX0?si=wSnZZuv07T2x5tdi 希望这对粉丝来说是值得的。看看过去几年取得的成就。解释一下这比加密货币或社交媒体更重要。科技世界似乎并没有远离赌场或赌博。对我来说，看到如此短视、缺乏智慧的行为真是令人厌恶。复制和粘贴自动完成代码不是创造力。我对这种空洞技术的热情感到厌恶。 任何吹捧指数增长的人都是库兹韦尔潮流的追随者。   由    /u/attrackip  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzobpp/the_cost_of_nothing/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:24:58 GMT</pubDate>
+      <title>确保安全和信任 分析医学中大型语言模型的风险</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“确保安全和信任：分析大型语言模型在医学中的风险”，作者是杨一帆、金乔、罗伯特·利曼、刘晓宇、熊光志、Maame Sarfo-Gyamfi、龚长林、Santiago Ferrière-Steinert、W. John Wilbur、李晓君、袁嘉欣、安邦、Kelvin S. Castro、Francisco Erramuspe Álvarez、Matías Stockle、张爱东、黄富荣和陆志勇。 这项研究调查了在医疗环境中部署大型语言模型 (LLM) 所涉及的风险，提出了五项原则：真实性、弹性、公平性、稳健性和隐私性，以确保其安全应用。研究人员引入了一个名为 MedGuard 的新基准，对 11 种流行的 LLM 进行了评估，发现当前 AI 性能与医疗专业人员的性能之间存在显著差距。以下是该论文的一些关键见解：  对医疗 AI 安全性进行基准测试：该研究引入了 MedGuard，这是一个全面的框架，用于通过 1,000 个专家验证的问题从十个安全维度评估医学领域的 LLM。该基准表明，现有的 LLM 通常不符合医疗环境中所需的可信度。 性能差距：尽管有报告表明，像 ChatGPT 这样的 LLM 可以在某些任务中匹敌或超越人类表现，但这项研究发现了一个明显的安全性能差距。在大多数安全基准测试中，人类医生的表现都优于 LLM，这表明需要持续的人为监督。 错误分布：该研究重点介绍了 LLM 遇到困难的特定领域，例如跨人口统计的公平性、多语言环境中的稳健性以及避免幻觉的真实性。这些缺陷表明，在医疗应用中，结果可能存在偏见和潜在有害的风险。 快速工程限制：作者探索了快速工程技术来提高模型性能。然而，他们发现这些方法产生的安全性改进有限且不一致，这表明在模型训练和开发方面需要进行更深入的调整。 安全原则的重要性：在医疗保健等高风险领域部署人工智能需要对安全性和可信度进行严格的评估。该研究提出的原则是开发更安全的 AI 模型的基础框架。  本文强调了将 LLM 应用于医疗保健等关键领域所面临的迫在眉睫的挑战，强调需要完善的安全机制和人工监督。您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>CoPilot 与 ChatGPT 的比较</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gztk4e/copilot_vs_chatgpt/</link>
+      <description><![CDATA[有人制作过这两种模型之间的详细对比图表吗？我正在制作一个，很想发布它，但这个聊天室不允许拍照。    提交人    /u/AI-Dudiest   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztk4e/copilot_vs_chatgpt/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何利用“轨迹评估”和“评估代理”（高阶 LLM 评估技术）构建复杂的 AI 代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</link>
+      <description><![CDATA[我与 HoneyHive AI 的 CTO 兼联合创始人 Dhruv Singh 进行了深入交谈，讨论了 GenAI 评估的最佳实践。 我们从较低的层次开始，但谈话的真正内容是在后半部分，当时我们讨论了评估复杂 AI 代理的理论和实际应用技术。 评估对于构建 GenAI 技术至关重要，因为如果您无法自动衡量 LLM 生成/决策/结果的质量或结果，那么就不可能真正构建“有效”的系统。大规模——随着复杂性的增加，车轮很快就会从公共汽车上掉下来。 我很乐意回答有关这个主题或这次谈话的任何问题！ 在这里查看完整的对话：https://youtu.be/IWy7towYJDM    提交人    /u/billmalarky   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以按照曲目风格重新混合歌曲的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</link>
+      <description><![CDATA[嗨，我正在寻找一个可以获取目标文件和参考歌曲的人工智能模型，它可以使目标歌曲听起来像参考歌曲 这就像将乐器转移到另一首歌曲中    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</guid>
+      <pubDate>Mon, 25 Nov 2024 20:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向全球搜索引擎评估者/评级者的新 Reddit 社区</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</link>
+      <description><![CDATA[大家好，社区！我刚刚为全球评估员/搜索引擎评估员创建了一个社区。如果您是评估员/搜索引擎评估员，请加入。请发送消息，说明您的职位和所在公司，以获得批准。https://www.reddit.com/r/SearchEngineEvaluator/s/V5AumHZb3v    提交人    /u/goldeyedbabydoll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</guid>
+      <pubDate>Mon, 25 Nov 2024 19:17:06 GMT</pubDate>
     </item>
     <item>
       <title>如何有效开发人工智能应用程序</title>
@@ -20,27 +48,6 @@
       <pubDate>Mon, 25 Nov 2024 16:53:13 GMT</pubDate>
     </item>
     <item>
-      <title>展示使用 AI 构建的软件</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzmuke/showcases_of_software_built_with_ai/</link>
-      <description><![CDATA[大家好。我正在写一篇文章，寻找在开发过程中广泛使用人工智能的案例​​。理想情况下，整个开发过程都是由没有任何编码背景的人完成的。我在网上找到了一些例子，但大多数都是可以使用其他无代码方法完成的非常基本的应用程序，或者缺乏可供检查的实际应用程序/软件即服务。如果你能分享这类应用程序的资源，或者讲述你的相关经验，那就太好了！    提交人    /u/NoWeather1702   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzmuke/showcases_of_software_built_with_ai/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合家庭的经济实惠的 AI 订阅</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzmtjz/best_affordable_ai_subscription_for_a_family/</link>
-      <description><![CDATA[我想为我的家人（妻子和两个年幼的孩子）订阅 AI，这样每个人都可以访问自己的 AI。我们对工作没有太多的偏好或要求；我们习惯于 chatgpt，但愿意接受任何负担得起的解决方案。提前感谢您的宝贵建议。    提交人    /u/py3_14_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzmtjz/best_affordable_ai_subscription_for_a_family/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>民意调查：如果今年我们要感谢人工智能的一件事，我们会感谢什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlxza/poll_if_we_were_to_thank_ai_for_one_thing_this/</link>
-      <description><![CDATA[  由    /u/AwkwardNapChaser  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlxza/poll_if_we_were_to_thank_ai_for_one_thing_this/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:50:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Salesforce 首席执行官马克·贝尼奥夫和人工智能“梦幻之地”（播客）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlwfo/salesforce_ceo_marc_benioff_and_the_ai_fantasy/</link>
       <description><![CDATA[在此收听完整剧集：大胆名字：Salesforce 首席执行官马克·贝尼奥夫和 AI“梦幻之地” 马克·贝尼奥夫是科技界最直言不讳的人物之一。客户关系软件公司 Salesforce 的亿万富翁联合创始人一直将公司的重点转向人工智能代理，以帮助其客户管理客户服务和其他需求。 但他对其他人如何推广人工智能有一些强烈的看法，从微软如何向亚马逊 为其数据中心购买核电合同。然而，他说他对人工智能的兴奋程度不亚于苹果的史蒂夫·乔布斯送给他第一部 iPhone 的那天。 那么人工智能实际上能做什么，什么是“幻想”？在我们访谈系列《Bold Names》第二集中，贝尼奥夫与《华尔街日报》的Christopher Mims和Tim Higgins进行了交谈。     提交人    /u/wsj   [link] [评论]]]></description>
@@ -48,18 +55,18 @@
       <pubDate>Mon, 25 Nov 2024 15:48:52 GMT</pubDate>
     </item>
     <item>
-      <title>有没有一个流行的 AI 提示网站？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlnl0/is_there_a_popular_site_for_ai_prompts/</link>
-      <description><![CDATA[厌倦了在这里搜索并看到“我创建了这个 AI 提示集合，我从 15 个网站复制粘贴，请为每个 AI 提示支付 2 美元”，就像没有一样。是否有人们使用的公共且免费的开源 AI 提示集合？    提交人    /u/Ok_Profit_3856   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzlnl0/is_there_a_popular_site_for_ai_prompts/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:38:27 GMT</pubDate>
+      <title>通过短片测试视频 AI 一致性！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzl5v5/testing_video_ai_consistency_with_a_short/</link>
+      <description><![CDATA[https://youtu.be/O_nnRasKX2U?si=aTlPjCKOfGCv85SK    由   提交  /u/ChristopherK52   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzl5v5/testing_video_ai_consistency_with_a_short/</guid>
+      <pubDate>Mon, 25 Nov 2024 15:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>有谁能以合法且合乎道德的方式利用人工智能赚钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzk6ic/anyone_making_money_with_artificial_intelligence/</link>
-      <description><![CDATA[我觉得人工智能将相当于互联网，因为它为从零开始的人们提供了新的赚钱机会。 我已经非常有信心，我有能力用人工智能合法地赚钱，但不道德。 顺便说一句，向大公司出售产品或解决方案，即使这完全是胡说八道，对我来说也是合乎道德的，而创建一个人工智能口渴陷阱模型并出售好色的中年男人的裸照则不合道德。 感谢您的意见    提交人    /u/Global-Persimmon1471   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzk6ic/anyone_making_money_with_artificial_intelligence/</guid>
-      <pubDate>Mon, 25 Nov 2024 14:34:03 GMT</pubDate>
+      <title>人工智能会阻碍语言的进化吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzkglg/will_ai_diminish_the_evolution_of_languages/</link>
+      <description><![CDATA[使用人工智能会减缓语言的进化吗？随着时间的推移，语言通过对话和互动自然地进化（或只是改变为使用不那么激烈的词语）。存在语义转变、语法变化等。只需将今天的英语与几个世纪前的英语进行比较。随着未来越来越多的人将依赖人工智能来过滤/制作他们的通信，人工智能是否会将语言标准化到几乎永远不会改变的程度？我认为以前不存在的东西仍然需要新词。我只是好奇其他人的想法。    提交人    /u/ironmonger29   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzkglg/will_ai_diminish_the_evolution_of_languages/</guid>
+      <pubDate>Mon, 25 Nov 2024 14:46:57 GMT</pubDate>
     </item>
     <item>
       <title>想象一下，如果 OpenAI 为 ChatGPT 对话引入了“文件夹组织”功能，然后训练他们的模型来理解用户如何“提示”他们的模型</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[关键要点  谷歌的 AlphaQubit AI 降低了量子错误率，提高了实际量子计算应用的稳定性和可扩展性； AlphaQubit 的两步法在模拟噪声上进行训练并适应真实硬件，解决了复杂的量子误差挑战； 尽管 AlphaQubit 具有很高的准确性，但它仍然需要更快的处理速度才能实现超导量子处理器的实时纠错。  来源：https://news.bitdegree.org/alphaqubit-googles-ai-revolutionizes-next-gen-computing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-alphaqubit-google-ai    提交人    /u/webbs3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gziypj/alphaqubit_googles_ai_revolutionizes_nextgen/</guid>
       <pubDate>Mon, 25 Nov 2024 13:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>TOP500 超级计算榜单——明显缺席</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzi2cj/top500_super_computing_list_notable_absence/</link>
-      <description><![CDATA[今天早些时候，我查看了 TOP500 榜单，几年来我都没有查看过。我很惊讶看到中国没有进入前十名。几年来，中国一直在争夺前三名的位置。发生了什么？他们落后了吗，还是在报告基准数据时透明度较低？我非常怀疑，尽管受到 GPU 制裁，中国是否会失去在这一领域的活力。  有人知道幕后发生了什么吗？ PS：值得注意的是，列表中的第 4 位是基于 MS Azure 的云集群。    提交人    /u/BubblyOption7980   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzi2cj/top500_super_computing_list_notable_absence/</guid>
-      <pubDate>Mon, 25 Nov 2024 12:49:15 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA AI 推出“garak”：一款用于增强 AI 应用程序安全性的 LLM 漏洞扫描程序</title>
