@@ -4,13 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 21:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 00:49:07 GMT</lastBuildDate>
     <item>
-      <title>确保安全和信任 分析医学中大型语言模型的风险</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“确保安全和信任：分析大型语言模型在医学中的风险”，作者是杨一帆、金乔、罗伯特·利曼、刘晓宇、熊光志、Maame Sarfo-Gyamfi、龚长林、Santiago Ferrière-Steinert、W. John Wilbur、李晓君、袁嘉欣、安邦、Kelvin S. Castro、Francisco Erramuspe Álvarez、Matías Stockle、张爱东、黄富荣和陆志勇。 这项研究调查了在医疗环境中部署大型语言模型 (LLM) 所涉及的风险，提出了五项原则：真实性、弹性、公平性、稳健性和隐私性，以确保其安全应用。研究人员引入了一个名为 MedGuard 的新基准，对 11 种流行的 LLM 进行了评估，发现当前 AI 性能与医疗专业人员的性能之间存在显著差距。以下是该论文的一些关键见解：  对医疗 AI 安全性进行基准测试：该研究引入了 MedGuard，这是一个全面的框架，用于通过 1,000 个专家验证的问题从十个安全维度评估医学领域的 LLM。该基准表明，现有的 LLM 通常不符合医疗环境中所需的可信度。 性能差距：尽管有报告表明，像 ChatGPT 这样的 LLM 可以在某些任务中匹敌或超越人类表现，但这项研究发现了一个明显的安全性能差距。在大多数安全基准测试中，人类医生的表现都优于 LLM，这表明需要持续的人为监督。 错误分布：该研究重点介绍了 LLM 遇到困难的特定领域，例如跨人口统计的公平性、多语言环境中的稳健性以及避免幻觉的真实性。这些缺陷表明，在医疗应用中，结果可能存在偏见和潜在有害的风险。 快速工程限制：作者探索了快速工程技术来提高模型性能。然而，他们发现这些方法产生的安全性改进有限且不一致，这表明在模型训练和开发方面需要进行更深入的调整。 安全原则的重要性：在医疗保健等高风险领域部署人工智能需要对安全性和可信度进行严格的评估。该研究提出的原则是开发更安全的 AI 模型的基础框架。  本文强调了将 LLM 应用于医疗保健等关键领域所面临的迫在眉睫的挑战，强调需要完善的安全机制和人工监督。您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztltb/ensuring_safety_and_trust_analyzing_the_risks_of/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:54:57 GMT</pubDate>
+      <title>人工智能生成的音乐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzyn0v/ai_generated_music/</link>
+      <description><![CDATA[大家好！ 我是一名词曲作者，最近开始尝试使用 AI 生成音乐。我撰写所有歌词并指导整个过程，AI 根据我的指导帮助生成音乐。这是一段非常有趣的创作之旅！ 我刚刚在 YouTube 上发布了我的第一首曲目“We’re Here to Stay”。这是一首从外星人的角度创作的科幻歌曲，我很乐意听听你们的反馈。这只是一个激情项目，所以我非常好奇社区对此有何感受。 单击此处收听 感谢您的关注！   由    /u/Mysterious-End1650  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzyn0v/ai_generated_music/</guid>
+      <pubDate>Tue, 26 Nov 2024 00:27:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>当沃尔特·怀特遇见托尼·斯塔克时会发生什么？或者海绵宝宝参加水母比赛？在 Fantheon 上查找！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzxc7s/what_happens_when_walter_white_meets_tony_stark/</link>
+      <description><![CDATA[大家好， 我是 Kiese，Fantheon 的联合创始人。两年来，我和我的团队一直在开发一款应用程序，让您与 2,000 多个虚构角色建立联系。这些角色不仅仅是基本的聊天机器人，它们会根据自己的个性做出动态反应和响应，甚至会适应您。 以下是它的独特之处：  投票决定性格特征：您认为鸣人勇敢而坚韧，还是鲁莽而固执？社区根据投票决定角色的反应和响应方式。 找到您的另一个自我：每个角色页面都有一个名为“另一个自我”的工具，可帮助您发现您最喜欢哪些角色——即使在不同的粉丝群中也是如此。  角色扮演系统让您拥有完全的创作控制权。只需描述正在发生的事情，角色就会跟随你的引导。例如：  与 Walter White 聊天时突然： *你看到 Tony Stark 拿着一个装满现金的公文包出现，Walter 提出“做”一笔交易。* 与 Eren Yeager 一起出去玩，然后： *Eren 拿起麦克风，在巨人攻击中向 Levi 发起挑战。* Bikini Bottom 的一天变得疯狂，因为： *你说服海绵宝宝驾驶 Krabby Patty 汽车参加水母比赛……并以某种方式获胜。*  Fantheon 可免费试用 - 无广告，无电子邮件抓取。这是链接：Fantheon 原型 我们很乐意听取您的反馈！测试一下并填写一份快速调查问卷以帮助我们改进：https://forms.gle/kep9EgjWQZwdSAhi6 有想法或问题吗？让我们在评论中聊天吧！ 干杯， Kiese    提交人    /u/animatch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzxc7s/what_happens_when_walter_white_meets_tony_stark/</guid>
+      <pubDate>Mon, 25 Nov 2024 23:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人工智能不擅长完成这些任务：恢复1800-1900年左右丢失的媒体，寻找失踪人员的当前下落，或者破解1950年代的悬案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzwwgw/why_is_ai_bad_at_these_tasks_recovering_lost/</link>
+      <description><![CDATA[我的意思是，要求人工智能真正地将几个世纪以来一直不为人知的“丢失的媒体”带回来，然而人们已经尝试过毫无努力地找到丢失的文件或媒体，所以他们寻求人工智能的帮助，然而这本身就证明是徒劳的，为什么会这样呢？ 这同样适用于过去失踪的人，例如，有一名妇女在 1954 年被谋杀，因为她被发现在火车轨道附近，但挥之不去的问题是谁杀了她，他们背后的动机是什么？你也可以用人工智能来追踪 70 多年前失踪人员的下落吗？    提交人    /u/Old_North8419   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzwwgw/why_is_ai_bad_at_these_tasks_recovering_lost/</guid>
+      <pubDate>Mon, 25 Nov 2024 23:09:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何人工智能都可以转录这段快进的讲话</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzwv35/any_ai_transcribe_this_fast_forwarded_speaking/</link>
+      <description><![CDATA[嘿，我在下面发布了一个视频， https://youtu.be/q59A-gl3JpM?si=8Dm4bK5T0nHKnLGV 从时间戳 11:47 到 11:59。 任何 AI 应用程序都可以转录此内容吗？    提交人    /u/singletotaken   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzwv35/any_ai_transcribe_this_fast_forwarded_speaking/</guid>
+      <pubDate>Mon, 25 Nov 2024 23:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储快速采用生成式人工智能。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzvwo5/fed_on_rapid_adoption_of_generative_ai/</link>
+      <description><![CDATA[https://www.stlouisfed.org/on-the-economy/2024/sep/rapid-adoption-generative-ai?utm_source=twitter&amp;utm_medium=SM&amp;utm_content=stlouisfed&amp;utm_campaign=abfa5e2d-5569-44cb-914f-5fc5ee7916bf    由   提交  /u/betsharks0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzvwo5/fed_on_rapid_adoption_of_generative_ai/</guid>
+      <pubDate>Mon, 25 Nov 2024 22:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 LLM 模型创建了一个基于图形的国际象棋自动训练器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzvbxo/i_created_a_graph_based_chess_auto_trainer_for/</link>
+      <description><![CDATA[我创建了一个用于 LLM 模型和国际象棋的训练和评估工具。Hyperbolic Chess Trainer 是一款实验性的 AI 驱动的国际象棋比赛和训练工具。它利用受双曲几何启发的嵌入和神经网络来评估棋盘状态、做出智能移动并存储过去的游戏以改进决策。该项目根据 MIT 许可证发布，促进开放式协作和使用。 此程序比 LLM 模型运行起来占用更多的内存。它跟踪棋盘状态并将其像图表一样提供给 LLM 模型。只需几步就可以变得非常大。我不知道如何将其最小化。我构建它是为了在双曲图上训练 LLM 模型进行实验，我从中获得了我想要的数据。我不会从这里更新或维护这个，但也许有人可能想继续这个项目和特定的研究方向？ https://youtu.be/gdWTUhnf6Ng  Github 存储库     提交人    /u/FaultInteresting3856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzvbxo/i_created_a_graph_based_chess_auto_trainer_for/</guid>
+      <pubDate>Mon, 25 Nov 2024 22:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些公司正在制作《钢铁侠 2》贾维斯？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzu6kk/which_companies_are_on_their_way_to_creating_iron/</link>
+      <description><![CDATA[我所说的 Jarvis 的具体功能是它的多模式功能 - 尤其是《钢铁侠 2》中的场景，他操纵霍华德·斯塔克城市的数字孪生，并使用 Jarvis 作为助手来为对话提供背景信息，并在数字孪生上执行特定任务和操作。 我想说 Apple 和 Meta 可能是最有可能做到这一点的。Apple Vision Pro 和 Meta Quest 耳机可以真正将虚拟助手与 AR/VR 界面集成在一起。 我很想听听大家对此的看法。还有其他公司可能正在开发这样的代理吗？    提交人    /u/Longjumping_Card8515   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzu6kk/which_companies_are_on_their_way_to_creating_iron/</guid>
+      <pubDate>Mon, 25 Nov 2024 21:17:38 GMT</pubDate>
     </item>
     <item>
       <title>CoPilot 与 ChatGPT 的比较</title>
@@ -18,34 +60,6 @@
       <description><![CDATA[有人制作过这两种模型之间的详细对比图表吗？我正在制作一个，很想发布它，但这个聊天室不允许拍照。    提交人    /u/AI-Dudiest   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gztk4e/copilot_vs_chatgpt/</guid>
       <pubDate>Mon, 25 Nov 2024 20:53:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何利用“轨迹评估”和“评估代理”（高阶 LLM 评估技术）构建复杂的 AI 代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</link>
-      <description><![CDATA[我与 HoneyHive AI 的 CTO 兼联合创始人 Dhruv Singh 进行了深入交谈，讨论了 GenAI 评估的最佳实践。 我们从较低的层次开始，但谈话的真正内容是在后半部分，当时我们讨论了评估复杂 AI 代理的理论和实际应用技术。 评估对于构建 GenAI 技术至关重要，因为如果您无法自动衡量 LLM 生成/决策/结果的质量或结果，那么就不可能真正构建“有效”的系统。大规模——随着复杂性的增加，车轮很快就会从公共汽车上掉下来。 我很乐意回答有关这个主题或这次谈话的任何问题！ 在这里查看完整的对话：https://youtu.be/IWy7towYJDM    提交人    /u/billmalarky   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzt54t/how_to_build_sophisticated_ai_agents_w_trajectory/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以按照曲目风格重新混合歌曲的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</link>
-      <description><![CDATA[嗨，我正在寻找一个可以获取目标文件和参考歌曲的人工智能模型，它可以使目标歌曲听起来像参考歌曲 这就像将乐器转移到另一首歌曲中    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzslws/ai_that_can_remix_a_song_in_the_style_of_a_track/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向全球搜索引擎评估者/评级者的新 Reddit 社区</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</link>
-      <description><![CDATA[大家好，社区！我刚刚为全球评估员/搜索引擎评估员创建了一个社区。如果您是评估员/搜索引擎评估员，请加入。请发送消息，说明您的职位和所在公司，以获得批准。https://www.reddit.com/r/SearchEngineEvaluator/s/V5AumHZb3v    提交人    /u/goldeyedbabydoll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzr5xz/new_reddit_community_for_search_engine_evaluators/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何有效开发人工智能应用程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gznhq6/how_to_develop_aipowered_apps_effectively/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gznhq6/how_to_develop_aipowered_apps_effectively/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:53:13 GMT</pubDate>
     </item>
     <item>
       <title>Salesforce 首席执行官马克·贝尼奥夫和人工智能“梦幻之地”（播客）</title>
@@ -76,25 +90,11 @@
       <pubDate>Mon, 25 Nov 2024 14:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>AlphaQubit：谷歌的人工智能彻底改变了下一代计算</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gziypj/alphaqubit_googles_ai_revolutionizes_nextgen/</link>
-      <description><![CDATA[关键要点  谷歌的 AlphaQubit AI 降低了量子错误率，提高了实际量子计算应用的稳定性和可扩展性； AlphaQubit 的两步法在模拟噪声上进行训练并适应真实硬件，解决了复杂的量子误差挑战； 尽管 AlphaQubit 具有很高的准确性，但它仍然需要更快的处理速度才能实现超导量子处理器的实时纠错。  来源：https://news.bitdegree.org/alphaqubit-googles-ai-revolutionizes-next-gen-computing?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=r-alphaqubit-google-ai    提交人    /u/webbs3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gziypj/alphaqubit_googles_ai_revolutionizes_nextgen/</guid>
-      <pubDate>Mon, 25 Nov 2024 13:36:16 GMT</pubDate>
-    </item>
-    <item>
       <title>NVIDIA AI 推出“garak”：一款用于增强 AI 应用程序安全性的 LLM 漏洞扫描程序</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gze0rl/nvidia_ai_introduces_garak_the_llm_vulnerability/</link>
       <description><![CDATA[https://blog.aitoolhouse.com/nvidia-ai-introduces-garak-the-llm-vulnerability-scanner-for-enhanced-security-in-ai-applications/    提交人    /u/rathwiper   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gze0rl/nvidia_ai_introduces_garak_the_llm_vulnerability/</guid>
       <pubDate>Mon, 25 Nov 2024 08:10:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在更少的 CPU 和 GPU 内存中运行 LLM 的技术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gzagcv/techniques_to_run_llms_in_less_cpu_and_gpu_memory/</link>
-      <description><![CDATA[这篇文章解释了量化、内存和设备映射、SafeTensors 和 GGUF 等文件格式、注意力切片等技术，这些技术可用于在有限的内存中有效加载 LLM，并可用于本地推理：https://www.youtube.com/watch?v=HIKLV6rJK44&amp;t=2s    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gzagcv/techniques_to_run_llms_in_less_cpu_and_gpu_memory/</guid>
-      <pubDate>Mon, 25 Nov 2024 04:18:06 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
