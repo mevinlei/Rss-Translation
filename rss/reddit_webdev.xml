@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 18:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 21:10:45 GMT</lastBuildDate>
+    <item>
+      <title>创意挣扎：需要帮助设计我的初创公司电子商务网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</link>
+      <description><![CDATA[我正在创业，可以处理后端，用 React 构建前端，并完美对齐屏幕上的所有 div。但说到创意，我很挣扎。如果我自己选择颜色组合或图像，很可能是一场灾难。 我需要有关如何处理这个问题的建议。我需要建立一个电子商务网站和应用程序，但在这个早期阶段，我无法负担 1,000 美元以上的专业设计费用。我的预算大约是 300 美元，但这可能只能让我获得基本质量的工作。 我有什么选择？我怎样才能在不花光积蓄的情况下创建一个不错的设计？    提交人    /u/HurryFormal7067   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</guid>
+      <pubDate>Tue, 26 Nov 2024 20:34:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>他们用什么来做这个？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</link>
+      <description><![CDATA[      SkinSort 有此功能，您可以查看销售该产品的所有地点和价格。他们用什么在他们的网站/应用上获取这些信息？     由    /u/chocolateisglorious 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Neon + PostgREST 构建类似 Supabase 的开发人员体验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0k59n/using_neon_postgrest_to_build_a_supabaselike/</link>
+      <description><![CDATA[        由    /u/ZuploAdrian 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0k59n/using_neon_postgrest_to_build_a_supabaselike/</guid>
+      <pubDate>Tue, 26 Nov 2024 19:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>PrestaShop 使用 openssl_pkey_new 生成私钥时出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0jedf/prestashop_problem_generating_private_keys_using/</link>
+      <description><![CDATA[      我遇到了一个问题，困扰了我几个小时。 错误代码：无法使用 openssl_pkey_new 生成私钥。检查您的 OpenSSL 配置，尤其是 openssl.cafile 的路径。 我浏览了几个论坛，观看了几个视频，但仍然不明白问题出在哪里。几次我将 OpenSSL 功能添加到补丁配置中，结果发现它仍然处于活动状态，计算机上也安装了相同的 OpenSSL。好吧，我真的不知道我还能做什么。 https://preview.redd.it/nfix27xnka3e1.png?width=495&amp;format=png&amp;auto=webp&amp;s=c4f7ca70c7edd2f37e0e79a544abbce06510464e https://preview.redd.it/9undr2gnka3e1.png?width=249&amp;format=png&amp;auto=webp&amp;s=269dcbf2385995ed7878543b078f7c0106845a78 https://preview.redd.it/bo7e98omka3e1.png?width=342&amp;format=png&amp;auto=webp&amp;s=9521ae478df00d5adfaa897837a0aa9994f5223e https://preview.redd.it/yerl5bhlka3e1.png?width=507&amp;format=png&amp;auto=webp&amp;s=2b77ed3060b6537e3c96269511e1eca29b718e2f https://preview.redd.it/rtucl6dkka3e1.png?width=981&amp;format=png&amp;auto=webp&amp;s=46cc1d28ba2b330b1c949c58c94b462c6d7becc7    提交人    /u/Kudlattyy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0jedf/prestashop_problem_generating_private_keys_using/</guid>
+      <pubDate>Tue, 26 Nov 2024 18:47:41 GMT</pubDate>
+    </item>
     <item>
       <title>当网站出现在 Google 上时这叫什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0iebi/what_is_this_called_as_a_site_shows_up_on_google/</link>
@@ -20,16 +48,9 @@
       <pubDate>Tue, 26 Nov 2024 17:45:24 GMT</pubDate>
     </item>
     <item>
-      <title>托管一个网站的流程是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0hj7b/whats_the_process_of_hosting_a_website/</link>
-      <description><![CDATA[我刚刚获得了第一份 Web 开发工作，但我不熟悉托管流程、SSL 证书、域名以及所有这些技术性的东西。有谁能帮我吗？另外，我需要与客户见面讨论费用。我应该告诉他们什么？    提交人    /u/marx0323   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0hj7b/whats_the_process_of_hosting_a_website/</guid>
-      <pubDate>Tue, 26 Nov 2024 17:34:18 GMT</pubDate>
-    </item>
-    <item>
       <title>如何消除 Laravel Routes 的大小写敏感性？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0hisk/how_to_remove_laravel_routes_case_sensitivity/</link>
-      <description><![CDATA[大家好，我有一个使用 Herd 在本地运行的 laravel 应用程序，并在 DigitalOcean 上进行生产部署。到目前为止，它运行良好。但我遇到的一个问题是，路由不区分大小写，因此 `&lt;host&gt;/hello` 可以工作，但 `&lt;host&gt;/hellO` 不行。我得到 404。 我该如何修复此行为？我希望所有路由都小写。 我尝试创建一个中间件并将其应用于路由级别、组级别和全局，方法是将其添加到应用于 `$middleware-&gt;api(append: [NormalizeRouteCasing::class]` 的中间件列表中，但这些都不起作用。我在中间件中添加了调试语句，就好像执行从未到达中间件一样。当我从路由中删除大写字母时，它确实到达了它，我看到了调试语句。因此，即使在中间件层之前，大写的路由也会被拒绝 感谢您的帮助。谢谢。    提交人    /u/bottled_coin   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有一个使用 Herd 在本地运行的 laravel 应用程序，并在 DigitalOcean 上进行生产部署。到目前为止，它运行良好。但我遇到的一个问题是，路由不区分大小写，因此 `&lt;host&gt;/hello` 可以工作，但 `&lt;host&gt;/hellO` 不行。我得到 404。 我该如何修复此行为？我希望所有路由都小写。 我尝试创建一个中间件并将其应用于路由级别、组级别和全局，方法是将其添加到应用于 `$middleware-&gt;api(append: [NormalizeRouteCasing::class]` 的中间件列表中，但这些都不起作用。我在中间件中添加了调试语句，好像执行从未到达中间件。当我从路由中删除大写字母时，它确实到达了它，并且我看到了调试语句。因此，即使在中间件层之前，大写的路由也会被拒绝 感谢您的帮助。谢谢。 更新： 我只想提供更新并说我能做的唯一真正有效的事情（但很丑陋）是这样的： 在 public/index.php 文件中，就在 (require_once __DIR__.&#39;/../bootstrap/app.php&#39;)-&gt;handleRequest(Request::capture()); 被调用我正在这样做： $requestUri = $_SERVER[&#39;REQUEST_URI&#39;]; $parsedUrl = parse_url($requestUri); $path = isset($parsedUrl[&#39;path&#39;]) ? strtolower($parsedUrl[&#39;path&#39;]) : &#39;&#39;; $query = isset($parsedUrl[&#39;query&#39;]) ? &#39;?&#39;.$parsedUrl[&#39;query&#39;] : &#39;&#39;; $lowercaseUri = $path.$query; $_SERVER[&#39;REQUEST_URI&#39;] = $lowercaseUri; 但是，如果有更好的方法，或者这种方法有任何缺点，请告知。 谢谢！    提交人    /u/bottled_coin   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0hisk/how_to_remove_laravel_routes_case_sensitivity/</guid>
       <pubDate>Tue, 26 Nov 2024 17:33:51 GMT</pubDate>
     </item>
@@ -85,30 +106,9 @@
     <item>
       <title>无法使用 GoDaddy DNS 在 Netlify 上运行 HTTPS – 卡住了，需要帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0c5c6/cant_get_https_working_on_netlify_with_godaddy/</link>
-      <description><![CDATA[大家好， 当我的域名在 GoDaddy 上注册时，我很难为托管在 Netlify 上的网站设置 HTTPS。我一直在来回切换名称服务器、调整 DNS 设置并重试验证，但就是无法让 Netlify 为 HTTPS 配置 SSL/TLS 证书。 情况如下： 域：已在 GoDaddy 注册。 托管：Netlify（从 GitHub 中提取）。 名称服务器：当前使用 GoDaddy 的默认服务器（ns55.domaincontrol.com 和 ns56.domaincontrol.com），因为它们在 DNS 区域中似乎不可删除或更改。 GoDaddy 中的 DNS 记录： A 记录：指向 Netlify 的 IP（75.2.60.5 和 99.83.229.76）。 www 的 CNAME：指向 sitename.netlify.app。 Netlify 设置： 添加了自定义域（sitename.com 作为主要域，www.sitename.com 重定向到该域）。 问题是，当我尝试启用 HTTPS 时，Netlify 一直给我“DNS 验证失败”错误。我试过：  切换到 Netlify 的名称服务器（但 GoDaddy 不允许我删除 DNS 区域内的 NS 记录）。 坚持使用 GoDaddy 的默认名称服务器，并确保按照 Netlify 的建议配置 A 和 CNAME 记录。 等待传播（24 小时以上）后重试 DNS 验证。  无论我尝试什么，我都停留在同一个位置。这很令人沮丧，因为我似乎也无法删除或覆盖 GoDaddy 中的那些默认 NS 记录。  有人处理过这个问题吗？或者有人有修复建议吗？我应该完全切换到 Netlify 的 DNS 并在那里管理所有内容，还是有解决 GoDaddy 中 NS 记录的变通方法？任何帮助都将不胜感激！谢谢！    提交人    /u/ElVerdaderoGatoFiero   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 当我的域名在 GoDaddy 上注册时，我很难为托管在 Netlify 上的网站设置 HTTPS。我一直在来回切换名称服务器、调整 DNS 设置并重试验证，但就是无法让 Netlify 为 HTTPS 配置 SSL/TLS 证书。 情况如下： 域：已在 GoDaddy 注册。 托管：Netlify（从 GitHub 中提取）。 名称服务器：当前使用 GoDaddy 的默认服务器（ns55.domaincontrol.com 和 ns56.domaincontrol.com），因为它们在 DNS 区域中似乎不可删除或更改。 GoDaddy 中的 DNS 记录： A 记录：指向 Netlify 的 IP（75.2.60.5 和 99.83.229.76）。 www 的 CNAME：指向 sitename.netlify.app。 Netlify 设置： 添加了自定义域（sitename.com 作为主要域，www.sitename.com 重定向到该域）。 问题是，当我尝试启用 HTTPS 时，Netlify 一直给我“DNS 验证失败”错误。我试过：  切换到 Netlify 的名称服务器（但 GoDaddy 不允许我删除 DNS 区域内的 NS 记录）。 坚持使用 GoDaddy 的默认名称服务器，并确保按照 Netlify 的建议配置 A 和 CNAME 记录。 等待传播（24 小时以上）后重试 DNS 验证。  无论我尝试什么，我都停留在同一个位置。这很令人沮丧，因为我似乎也无法删除或覆盖 GoDaddy 中的那些默认 NS 记录。  有人之前处理过这个问题吗？或者有关于如何修复它的建议吗？我应该完全切换到 Netlify 的 DNS 并在那里管理所有内容，还是有解决 GoDaddy 中 NS 记录的变通方法？任何帮助都将不胜感激！谢谢！    提交人    /u/ElVerdaderoGatoFiero   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0c5c6/cant_get_https_working_on_netlify_with_godaddy/</guid>
       <pubDate>Tue, 26 Nov 2024 13:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户界面和旅程测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0b0ir/user_interface_journey_testing/</link>
-      <description><![CDATA[我们为客户建立了一个网站，可以拍卖、竞标和购买车辆。我想对它进行正式测试，以告诉我们界面问题或错误在哪里。有人可以推荐任何东西或任何人吗？    提交人    /u/Live-Acadia-9099   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0b0ir/user_interface_journey_testing/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>这有什么问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0am0x/whats_the_problem_with_this/</link>
-      <description><![CDATA[      在任何浏览器中，我使用来查看嵌入 YouTube 视频的网页，都无法播放，因为 YouTube 阻止了访问。我该如何解决这个问题？我已使用该 src 代码来嵌入 YouTube 视频。请帮助解决这个问题。 Edge 上出现错误 Opera 上出现错误 Google Chrome 上出现错误    提交人    /u/Ha_1133   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0am0x/whats_the_problem_with_this/</guid>
-      <pubDate>Tue, 26 Nov 2024 12:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>已修复带有可滚动背景图像的蒙版图像背景颜色？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h09gmx/fixed_maskedimage_backgroundcolor_with_scrollable/</link>
-      <description><![CDATA[您好， 我正在构建一个具有特定背景样式的网站。 我有一个沙盒，所以您明白我在做什么。 该网站在 png 文件中有这些花，我正尝试通过蒙版为其添加某种背景颜色。 结果看起来像，在滚动时，花朵的颜色从屏幕底部的粉红色变为到达顶部时的黄色（这些是临时颜色，不用担心） 我尝试了各种东西，但我的花朵一直保持白色，或者颜色占据了整个页面，而不是视口。 这可行吗？或者我应该改用一些 svg？或者其他任何方式？ 提前谢谢您    提交人    /u/Jaeger767   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h09gmx/fixed_maskedimage_backgroundcolor_with_scrollable/</guid>
-      <pubDate>Tue, 26 Nov 2024 11:14:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
