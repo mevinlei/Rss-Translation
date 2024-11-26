@@ -4,13 +4,69 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 18:15:11 GMT</lastBuildDate>
     <item>
-      <title>我们已经开发了一款产品，请查看登陆页面</title>
-      <link>https://www.reddit.com/r/software/comments/1h075h2/we_have_developed_a_product_please_review_the/</link>
-      <description><![CDATA[www.eventotix.com 寻求评论    由   提交  /u/Hamzarehmanonly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h075h2/we_have_developed_a_product_please_review_the/</guid>
-      <pubDate>Tue, 26 Nov 2024 08:26:24 GMT</pubDate>
+      <title>自动绘图工具，将图像投射到 MS-Paint 中？</title>
+      <link>https://www.reddit.com/r/software/comments/1h0hwf7/automated_drawing_tool_that_projects_an_image/</link>
+      <description><![CDATA[我想知道是否有一个工具，AI 或非 AI，可以让你自动“绘制”/投影一个已经存在的图像，比如一张狗的图片到空白的 MS-Paint 背景上？（但以一种简单/通用的方式，比如狗只是一个轮廓，细节质量很低，填充了颜色等等） 例如，它在空白的 MS-Paint 背景上用光标自行绘制狗的图片。  它不会捕获光标，而是尝试自行绘制，就像您看到光标四处移动一样，自行绘制图片。  谢谢    提交人    /u/Refluxo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0hwf7/automated_drawing_tool_that_projects_an_image/</guid>
+      <pubDate>Tue, 26 Nov 2024 17:48:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一个新的 YT 视频下载器。</title>
+      <link>https://www.reddit.com/r/software/comments/1h0geqm/need_a_new_yt_video_downloader/</link>
+      <description><![CDATA[前段时间，我常用的下载器（GenYoutube）无法以任何合适的质量下载视频，因此我创建了一篇类似的帖子，得到了一些建议，最终选择了 Loader.To。不幸的是，一周前，Loader 出现故障，我无法正常下载视频。它最终自行修复，但无论他们现在以何种格式下载视频，我的电视都无法再读取上述视频。所以我回到这里寻找新的下载器。 归根结底，我不需要任何复杂/额外的东西，只需要一些可以让我输入 YouTube 链接、选择质量并点击“下载”的东西。 我个人更喜欢一个可以在浏览器中打开和使用的下载器，但如果选项非常少，我会选择一个需要安装在我的设备上的下载器。 以下是目前无法使用/停止工作的加载器列表： - GenYoutube（只能以 360p 下载） - X2Download（充满广告/弹出窗口）[似乎不再起作用] - Loader.To（视频格式我的电视无法读取） - Cobalt.Tools（电视无法播放视频，您只能下载 30 分钟以内的视频） - JDownloader2（必须安装它，不是特别用户友好且繁琐） 提前谢谢大家，希望我能尽快找到一个，因为我的“待下载”列表又变得很满了。    提交人    /u/Cry-Skull-7   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0geqm/need_a_new_yt_video_downloader/</guid>
+      <pubDate>Tue, 26 Nov 2024 16:48:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找与 HP Linkreader 类似的软件</title>
+      <link>https://www.reddit.com/r/software/comments/1h0gc0a/looking_for_software_similar_to_hp_linkreader/</link>
+      <description><![CDATA[您好， 我正在寻找类似于 HP Linkreader 的软件 - 我大约 6 年前使用过它，需要做一些类似的事情。 HP 似乎已经停止了该程序。 它添加了一个隐形二维码，可以通过其配套应用程序解码。我在包装上使用它来添加一种扫描产品的方式，以直接转到产品信息文件；类似于二维码或条形码，它扫描产品并重定向到 URL。 如果有帮助的话，我还有 HP Linkreader 的用户手册    提交人    /u/the95th   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0gc0a/looking_for_software_similar_to_hp_linkreader/</guid>
+      <pubDate>Tue, 26 Nov 2024 16:45:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可以阅读带有注释和标签系统的 PDF/EPUB 的软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1h0flcf/is_there_a_software_for_reading_pdfepub_with/</link>
+      <description><![CDATA[所以，我在笔记本电脑上阅读，我有不少厚厚的教科书和小说（4000 多页）。我想知道是否有一个应用程序可以突出显示任何页面的一部分（例如，某一章中的定义），我可以添加注释或添加标签，如“定义”，这样我就可以对标签进行排序并查看所有内容。  到目前为止，我还没有运气。我尝试过 Zotero，但由于我的教科书和小说页数巨大，它非常滞后。Calibre 也不适合我。  我的操作系统是 Windows 11，如果该程序需要付费，我愿意每月支付约 5-10 美元，只要它能正常工作。我真的很喜欢 Zotero 的标记系统，不幸的是它对长文档的表现有点烦人。 P.S 如果软件存在的话，可以逐章阅读就更好了，也就是说，如果一章总共有 50 页，你就可以轻松地滚动浏览它们，所以当你读到结尾时，你可以按一个按钮进入下一章。    提交人    /u/Jax1Trick   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0flcf/is_there_a_software_for_reading_pdfepub_with/</guid>
+      <pubDate>Tue, 26 Nov 2024 16:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有“沙盒”环境的宏录制器</title>
+      <link>https://www.reddit.com/r/software/comments/1h0fi6p/a_macro_recorder_with_a_sandboxed_environment/</link>
+      <description><![CDATA[我使用 Jitbit 宏记录器已有十多年，我对它提供的功能非常满意，尤其是允许我搜索屏幕上的整个图像并在找到后启动操作的功能。使用它，我为重复游戏创建了非常复杂的宏，但也为工作创建了一些宏。 我使用的唯一缺点是当 Jitbit 处于活动状态时，我根本无法使用 PC；它完全控制鼠标光标和/或键盘。使用 Pulover 的宏创建器的体验相同。我还没有尝试过 Autohotkey（与其他两个相比，它的学习曲线要​​陡峭得多），但我认为它在运行时也需要完全控制系统。 那么，有没有一个宏记录器（我不在乎它是免费的还是付费的，但我不喜欢订阅）具有某种沙盒，并且只会在沙盒中执行操作，而我仍然可以随心所欲地使用 PC？或者可以打开特定的游戏，并且只在该游戏内执行操作？ 很多很多个月前，大概 20 年前，我发现了一个宏程序，它可以做这样的事情：从程序内部打开一个游戏，所有操作都会在游戏内进行。但是，就我而言，我记不起它叫什么了。 我应该指出，我了解编程的最基本知识，例如简单的 if -&gt; then -&gt; else 命令，但我不懂某种编程语言，也没有时间和动力专门为此学习一门语言。所以，如果这个问题可以用 Python 轻松解决，那对我来说就行不通了。 编辑：我考虑过创建一个 Windows VM 并在其中运行我已经知道的一个宏录制器，但我无法在 VM 中玩复杂的游戏，而且如果有更简单的解决方案，我觉得将计算机资源花在整个不同的操作系统上是浪费的。    提交人    /u/pcsteps   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0fi6p/a_macro_recorder_with_a_sandboxed_environment/</guid>
+      <pubDate>Tue, 26 Nov 2024 16:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的小米耳机的麦克风降噪效果很差（实际上它们似乎会放大噪音）。有没有一款应用可以改善 Android 系统范围内的麦克风降噪效果，以便所有应用（包括视频/音频通话）都能更好地抑制噪音？</title>
+      <link>https://www.reddit.com/r/software/comments/1h0bu3v/my_xiaomi_earbuds_have_terrible_microphone_noise/</link>
+      <description><![CDATA[  由    /u/allexj  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0bu3v/my_xiaomi_earbuds_have_terrible_microphone_noise/</guid>
+      <pubDate>Tue, 26 Nov 2024 13:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于缺少文件，无法安装 Sandboxie Plus</title>
+      <link>https://www.reddit.com/r/software/comments/1h0b5cl/cant_install_sandboxie_plus_due_to_missing_file/</link>
+      <description><![CDATA[我已经安装并重新安装了 Sandboxie Plus，并收到以下消息： https://preview.redd.it/mzytkgous83e1.png?width=404&amp;format=png&amp;auto=webp&amp;s=199891882d5cd6f0c68850cba3ee4862171e3693 https://preview.redd.it/3frjqquct83e1.png?width=411&amp;format=png&amp;auto=webp&amp;s=2b53e38e92a19e6413b8d9a4e9bfdb570bb54f09 我已从 https://github.com/sandboxie-plus/Sandboxie/releases/download/v1.15.2/Sandboxie-Plus-x64-v1.15.2.exe 我试过 &#39;x86&#39; 版本，但由于不兼容，无法安装。有什么解决办法吗？不确定从某个随机网站下载 &#39;.dll&#39; 文件是否可行，如果这是解决办法，那么应该把它放在哪里？    提交人    /u/Samta752   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0b5cl/cant_install_sandboxie_plus_due_to_missing_file/</guid>
+      <pubDate>Tue, 26 Nov 2024 12:53:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我将第三方游戏手柄控制器连接到蓝牙时，出现了问题……</title>
+      <link>https://www.reddit.com/r/software/comments/1h0alo0/im_having_an_issue_with_a_third_party_gamepad/</link>
+      <description><![CDATA[显然，以下用户也遇到过我的问题，但他没有找到解决方案 假 ps3 控制器无法通过蓝牙连接，提示驱动程序错误 - Microsoft 社区 有线连接时，我的控制器注册为 xbox 360，可以即插即用。但通过蓝牙连接时，却不行... 有趣的是，它可以完美地与我的手机配合使用。是桌面导致了这个问题\ 所以基本上是找到一个安装后不会出现此错误的软件驱动程序。 摘要：在设备中管理器，蓝牙 HID 设备出现代码 10 错误消息.. 控制器连接到计算机并突然关闭，之前的“已连接”文本现在变成驱动程序错误.. Win 10 和 11 有同样的问题    提交人    /u/aliathar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0alo0/im_having_an_issue_with_a_third_party_gamepad/</guid>
+      <pubDate>Tue, 26 Nov 2024 12:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 WhatsApp 转换为带有语音消息参考的 pdf 的软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1h0a25x/software_that_convert_whatsapp_to_pdf_with_voice/</link>
+      <description><![CDATA[大家好！我真的希望能在这里得到帮助。我正在寻找一种可以将 WhatsApp 聊天转换为 pdf 的软件。诀窍是我还需要能够在 pdf 中看到音频消息，理想情况下我可以单击它，它会在任何音频程序中打开以收听。我试过 iMazing 软件，它几乎完美，我也可以将语音消息保存为单独的附件，但我需要能够在聊天中单击 pdf 中的语音消息。目前，它只显示了一个麦克风图标和持续时间。 我需要它来进行法律诉讼，因此参考语音备忘录非常重要，否则您可以显示任何具有相同持续时间的语音备忘录。如果这有意义的话。    提交人    /u/Keniaishere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h0a25x/software_that_convert_whatsapp_to_pdf_with_voice/</guid>
+      <pubDate>Tue, 26 Nov 2024 11:51:58 GMT</pubDate>
     </item>
     <item>
       <title>救命！免费交互式 PDF 注释器</title>
@@ -41,13 +97,6 @@
       <pubDate>Tue, 26 Nov 2024 02:49:54 GMT</pubDate>
     </item>
     <item>
-      <title>寻找垃圾箱路线软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</link>
-      <description><![CDATA[我正在尝试寻找一种软件，通过识别哪些任务最接近以最大限度地减少旅行时间，帮助优化我的垃圾箱公司的路线。但是，当某些任务（例如卸货、取货或交换）由于紧急或特定截止日期而必须优先处理时，我还需要灵活性来手动覆盖路线。这是我可以借助 AI 或已经创建的软件来完成的事情吗？ 关键细节：  任务类型： 投放：将空垃圾箱运送到客户现场。 取货：收集满的垃圾箱并将其运送到六个当地垃圾填埋场之一。 交换：在客户所在地将满的垃圾箱换成空的垃圾箱。  垃圾箱尺寸：我们管理 15、20 和 30 码的垃圾箱。如果某项任务需要卡车目前没有的特定尺寸，则必须先在我们的院子里将其换出。 垃圾填埋场注意事项：必须根据距离和运营效率将装满的垃圾箱运送到附近的六个垃圾填埋场之一。 车队详情： 我们运营两辆卡车，因此必须以最有效的方式在它们之间分配任务。  灵活性和覆盖：软件应根据距离和工作量自动创建优化路线，但允许我调整时间表以在必要时优先处理某些任务。     提交人    /u/ArabBak   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzzmw2/looking_for_routing_software_for_dumpsters/</guid>
-      <pubDate>Tue, 26 Nov 2024 01:14:35 GMT</pubDate>
-    </item>
-    <item>
       <title>是否有任何好的软件可以准确捕捉现场讲话并将其转换为文本/字幕？</title>
       <link>https://www.reddit.com/r/software/comments/1gzz7dp/is_there_any_good_software_that_captures/</link>
       <description><![CDATA[我正在寻找这样的东西，不会有背景噪音，但是说话者在说英语时可能会有一些口音，我在想，随着人工智能的所有进步，是否存在这样的软件？  有人可以说话，它会识别声音并将其转换为文本，并且实际上在录制时也会自动嵌入到视频本身中。    提交人    /u/ZxZ239   [link] [评论]]]></description>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/Smooth-Loquat-4954  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gzwhe9/what_makes_a_good_changelog/</guid>
       <pubDate>Mon, 25 Nov 2024 22:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何重新映射 Drevo Owl 无线鼠标侧键？</title>
-      <link>https://www.reddit.com/r/software/comments/1gzsill/how_to_remap_drevo_owl_wireless_mouse_side_buttons/</link>
-      <description><![CDATA[大家好， 我已经使用 Drevo Owl 无线鼠标大约 3-4 年了，并且已经使用两个快捷键映射了侧面按钮：ALT+TAB 和 CTRL+Z。 问题是现在我想重新映射这些按钮，但我不再拥有原始软件，因为它在我的旧笔记本电脑上。不幸的是，Drevo 的官方网站上没有任何可用内容。 我也尝试使用 X-Mouse Button Control，但它无法检测到侧面按钮。 有人知道我如何重新映射按钮或找到原始软件吗？任何帮助都将不胜感激！    提交人    /u/Habeeb_2005   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzsill/how_to_remap_drevo_owl_wireless_mouse_side_buttons/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:11:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个志愿者组织的考勤系统</title>
-      <link>https://www.reddit.com/r/software/comments/1gzrpe6/need_a_system_for_attendance_for_a_volunteer_org/</link>
-      <description><![CDATA[志愿者组织每周举办培训和其他“研讨会”类型的会议。 寻找可以邀请选定用户注册并在他们计划参加由管理员加载的各种培训晚会和其他额外研讨会时进行标记的东西。 然后需要能够查看计划参加每个活动的人员列表并为每个人存储某种出勤统计信息。 需要适合移动设备，并且最好不要太忙/复杂/充满我们不需要的功能。 有人知道类似的东西吗？当前使用 ClickUp 的日历功能，但它没有我们需要的任何其他功能。  所需功能： 每个活动的类别（例如培训、研讨会、评论） 用户在查看/参加之前注册 用户出席情况统计 适合移动设备 为每个活动制作一个参加者的注册表     提交人    /u/OkCommunication2407   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzrpe6/need_a_system_for_attendance_for_a_volunteer_org/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:39:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD 创作软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gzr22g/dvd_authoring_software/</link>
-      <description><![CDATA[大家好，多年来我一直在寻找兼容 Mac 的 DVD 制作软件，以便制作嵌套菜单。我正在尝试制作一个非常基本的交互式 DVD“点击”游戏/项目，但似乎我晚了 15 年。我尝试过的所有东西都被削弱到完全无法使用的地步。Wondershare....Burn....DvdCreatorPro....CisdemVideoBurner...... 都是垃圾。 曾经有一款 100% 完美的 Adob​​e 应用程序，但现在实际上不可能获得它。我花了无数的时间在论坛、客户服务热线...等等上搜索。 想知道是否有人有线索，因为我已经有几年没有认真寻找了。 谢谢！    提交人    /u/BeerDrinker9000   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzr22g/dvd_authoring_software/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些帮助来寻找软件</title>
-      <link>https://www.reddit.com/r/software/comments/1gzm6mr/need_a_little_help_finding_software/</link>
-      <description><![CDATA[我有两个内置硬盘和两个外置硬盘。我正在寻找一个可以运行的程序，它将我的所有 jpeg、视频、excel 和 word 文档放入一个文件夹中。 我已经找了好几个星期了，但什么也没找到。 你们有什么想法吗？    提交人    /u/puledrotauren   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzm6mr/need_a_little_help_finding_software/</guid>
-      <pubDate>Mon, 25 Nov 2024 16:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 应用程序用于在命名实体中输入多个条目，然后添加或获取这些条目的平均值</title>
-      <link>https://www.reddit.com/r/software/comments/1gzm0me/android_app_for_entering_multiple_entries_within/</link>
-      <description><![CDATA[请大家为我推荐一些适用于以下场景的 Android 应用，例如，我的工作是获取生产 8 批钢铁后消耗的石灰总量。因此，每次生产后，我都会向命名实体“石灰”输入一个值，所有生产结束后，我会计算所有条目的总和（或平均值），从而获取总石灰量（或每炉平均石灰量）。不仅适用于石灰，还适用于其他实体。    提交人    /u/07agniv_debsikdar70   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzm0me/android_app_for_entering_multiple_entries_within/</guid>
-      <pubDate>Mon, 25 Nov 2024 15:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么分组软件工具可以为 350 多名参赛者制作分组，并显示可视化的超级分组？（最好无需下载，不需要机器人）</title>
-      <link>https://www.reddit.com/r/software/comments/1gzk33q/whats_a_bracket_software_tool_that_can_make_a/</link>
-      <description><![CDATA[需要显示参赛者的姓名，显示图像是个加分项，但不是必需的。可能有更好的方法来举办比赛，但我认为这是我想要做的方式，但如果您对更好的方法有任何建议，请告诉我 :)    提交人    /u/Sudden-Software-8931   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzk33q/whats_a_bracket_software_tool_that_can_make_a/</guid>
-      <pubDate>Mon, 25 Nov 2024 14:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索 xrvoice.dll 文件 / 我正在寻找 xrvoice.dll 文件</title>
-      <link>https://www.reddit.com/r/software/comments/1gzhd5g/busco_un_aarchivo_xrvoicedll_i_am_looking_for_a/</link>
-      <description><![CDATA[你可以给我发送吗？/如果你有，可以发给我吗？    提交人    /u/xgag09   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gzhd5g/busco_un_aarchivo_xrvoicedll_i_am_looking_for_a/</guid>
-      <pubDate>Mon, 25 Nov 2024 12:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
