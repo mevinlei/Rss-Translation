@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 06:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 09:11:17 GMT</lastBuildDate>
+    <item>
+      <title>法学硕士学位是否真的不能达到人们的期望呢？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0zyom/will_llms_not_live_up_to_the_hype/</link>
+      <description><![CDATA[Sam Altman 最近在 X 上发布了“没有墙”。虽然 GPT-4 和 Claude 等模型已经显示出快速的进步，但一些人认为我们已接近 LLM 改进的极限。 据《The Information》报道，公司正在将重点从扩展模型转移到实际用例，例如 ChatGPT 与 macOS 集成或 Claude 的计算机使用 API。 加里·马库斯 (Gary Marcus) 等批评人士认为，LLM 的收益正在递减，成本上升，改进不再那么显著，有可能导致人工智能行业的金融泡沫。 我写了一篇关于这个的短文：没有墙。或者有吗？ 你怎么看？    提交人    /u/AdityaSaroj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0zyom/will_llms_not_live_up_to_the_hype/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>无意义更好，在 LLM 提示中散列引起偏见的单词可以提高逻辑推理的性能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0zu8n/meaningless_is_better_hashing_biasinducing_words/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“无意义更好：在 LLM 提示中散列引起偏见的单词可提高逻辑推理和统计学习的性能”，作者是 Milena Chadimová、Eduard Jurášek 和 Tomáš Kliegr。 这项研究引入了一种称为“散列”的创新方法，该方法涉及用无意义的标识符替换大型语言模型 (LLM) 提示中可能引起偏见的单词。该技术旨在减少认知偏见并改善不同模型（例如 ChatGPT、Llama 等）的逻辑推理和统计学习。以下是论文中的一些关键要点：  减少偏见：论文的研究结果表明，通过屏蔽引起偏见的词语，模型可以明显减少认知偏见。对“Linda”问题的实验表明，散列显著降低了谬误率，这表明这种方法可以抑制偏见的敏感性。 增强模型性能：统计测试表明 LLM 性能有所提高，散列技术对逻辑推理任务和频繁项集提取都有好处。然而，这种效果被证明是依赖于模型和任务的。 对幻觉的影响不一致：有趣的是，虽然该技术改善了偏见的减少，但它对幻觉率（模型产生不准确或虚构的信息）的影响在不同的模型中并不一致。这凸显了偏见缓解和模型生成能力之间的复杂相互作用。 跨输入格式的多功能性：哈希的有效性在文本和表格格式中都很明显，这增强了该技术对各种输入结构的潜在多功能性。 对未来 AI 应用的影响：通过最大限度地减少对外部预训练知识的依赖，这项研究主张一种促进方法，以在决策和数据分析中以更合乎逻辑、更公正的角色部署 LLM。  这些见解与关于改善 AI 模型的认知健全性和减轻隐性偏见的持续讨论相一致，为进一步探索 LLM 去偏策略铺平了道路。 您可以在此处查看完整细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0zu8n/meaningless_is_better_hashing_biasinducing_words/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frizerly AI 评论：适用于 Shopify 和 Wordpress SEO 博客自动化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0z90i/frizerly_ai_review_for_shopify_wordpress_seo_blog/</link>
+      <description><![CDATA[作为一家小企业主，我一直都知道博客对于 SEO 的重要性，但让我们面对现实吧——撰写一致、优化的内容很难。就在那时，我遇到了 Frizerly，它彻底改变了我处理内容营销的方式。 以下是它的突出之处： 1️⃣ 轻松的 SEO 博客：Frizerly 连接到我的网站，了解我的业务，​​并每周自动发布经过 SEO 优化的博客。我甚至不必考虑它！ 2️⃣ 跨平台自动发布：它不仅发布到我的网站，还在 Medium 和社交媒体上分享我的博客。无需额外努力，即可让更多人关注我的内容！ 3️⃣ 客户重新参与：Frizerly 甚至通过电子邮件将博客发送给我现有的客户，这帮助我轻而易举地获得了重复订单。 4️⃣ Google 友好：人工智能创建高质量、符合 Google 要求的内容，因此我相信它可以帮助我提高排名，而不会面临受到处罚的风险。 在短短几个月内，我开始注意到流量增加、参与度提高以及排名稳步上升。如果您想节省时间并有机地发展业务，Frizerly 可能是您今年做出的最佳决定。 还有人试过吗？我很想听听您的经验！    提交人    /u/emilyxhug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0z90i/frizerly_ai_review_for_shopify_wordpress_seo_blog/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助训练逆向工程游戏脚本代码模型，以便我们可以使用自定义内容扩展游戏</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xgn6/need_help_training_a_model_for_reverse_engineered/</link>
+      <description><![CDATA[我是 AI 制作的新手，也是一名新手程序员。我正在开发一个项目，使用 GSC 为 Black Ops 2 (BO2) 中的脚本编写构建一个 AI 驱动的助手。GSC 与 C++ 最相似，但具有大量 AI 不熟悉的独特内容。这是一个特殊的用例，因为 BO2 GSC 脚本没有记录，只能通过对游戏进行逆向工程才能访问。我将游戏中使用的每个 GSC 脚本转储并反编译为文本文件。我还有其他有用的信息，例如 DVAR 列表及其每个脚本的描述。还有一些来自社区的提示表、规则和功能列表。如果最好的话，我可以上传所有内容作为文本。我还考虑过抓取专门用于为这款游戏开发 GSC 的整个 discord 频道，但这可能是一项比其他任务更大的任务，所以最终需要升级。有了所有这些信息，我想让 AI 为我编写 GSC 脚本，用于自定义内容，例如游戏模式。至少能够修复我的脚本和其他脚本。我从未从任何聊天模型（例如最新的 GPT）获得过良好的响应。在不花大钱的情况下实现这一目标的最佳方法是什么？我愿意花 100 到 150 美元进行训练。我希望运行大型脚本输出和一般聊天所需的代币成本保持相当低廉。    提交人    /u/Munnopoly___   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xgn6/need_help_training_a_model_for_reverse_engineered/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:52:54 GMT</pubDate>
+    </item>
     <item>
       <title>目前最好的 AI 视频生成器？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xeab/best_ai_video_generator_currently/</link>
@@ -34,13 +62,6 @@
       <pubDate>Wed, 27 Nov 2024 02:03:28 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能能比我们更好地定义幸福吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0rkd2/can_an_ai_define_happiness_better_than_we_can/</link>
-      <description><![CDATA[如果我们创建一个以最大化人类幸福感为任务的人工智能，它首先需要定义幸福的真正含义。它会依赖可测量的数据（多巴胺水平、调查）还是更深层次的东西，比如目的或意义？    提交人    /u/AwkwardNapChaser   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0rkd2/can_an_ai_define_happiness_better_than_we_can/</guid>
-      <pubDate>Wed, 27 Nov 2024 00:36:35 GMT</pubDate>
-    </item>
-    <item>
       <title>这项调查（针对 14 个国家的 3,000 名研究人员）发现，69% 的参与者认为人工智能将在 3 年内减少对人类数据分析师的需求。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0qwgj/this_survey_of_3000_researchers_in_14_countries/</link>
       <description><![CDATA[完整研究。您对此有何看法？坦率地说，我不同意人类数据分析师在 3 年内几乎被完全取代。首先，3 年太快了（真正功能齐全的人工智能仍然处于起步阶段，尽管它令人印象深刻），其次，如果说得通的话，人类感知对于找出“询问”数据的正确问题绝对是必要的。人工智能无法找出最引人注目的角度来调查或呈现。数据分析和数据收集之间也有很大的区别。    提交人    /u/MaxGoodwinning   [链接] [评论]]]></description>
@@ -53,13 +74,6 @@
       <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0ppl0/today_in_ai_anthropic_launches_universal_ai/</guid>
       <pubDate>Tue, 26 Nov 2024 23:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要有关 AI 文本生成聊天机器人项目的建议/专业知识！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0pdtd/wanting_adviceexpertise_on_ai_text_generation/</link>
-      <description><![CDATA[我不知道我是否使用了正确的标签，所以如果我没有，请告诉我，以便我可以修复标签。 但是，我是一名主播和工程专业的学生，​​希望利用人工智能聊天机器人与我的直播聊天进行互动。这是一个个人项目，我想尝试尽可能多地自己做，这样我就可以 1) 使用我的 Python 技能和 2) 更多地了解人工智能并更好地发展我的机器学习技能。 有人推荐哪种模型适合这样的功能吗？我正在寻找一种轻量级和小型的东西，足以进行实验和测试。我最初的想法是使用 LLama-2-7B-Chat。但我在微调阶段遇到了困难。  由于有大量的数据集，我想对其进行微调，但我似乎无法使用 Visual Studio Code 作为我的 IDE 在 python 中制作一个可以运行的微调脚本。 任何指南、教程、任何建议都会很感激，因为我花时间来学习更多并更好地发展我在这个领域的理解。    提交人    /u/Agun117   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0pdtd/wanting_adviceexpertise_on_ai_text_generation/</guid>
-      <pubDate>Tue, 26 Nov 2024 22:55:15 GMT</pubDate>
     </item>
     <item>
       <title>最热门的新编程语言是英语</title>
@@ -76,13 +90,6 @@
       <pubDate>Tue, 26 Nov 2024 17:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>以下是人工智能领域的新闻动态。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0g4l8/heres_whats_making_news_in_ai/</link>
-      <description><![CDATA[聚焦：OpenAI 的 Sora 似乎已经泄露（来源：TechCrunch）  Perplexity 考虑进军硬件领域（来源：TechCrunch） Anthropic 推出工具将 AI 系统直接连接到数据集（来源：The Verge） IMAX 采用 AI 扩大原创内容覆盖范围（来源：TechCrunch） Nvidia 声称新的 AI 音频生成器可以发出前所未闻的声音（来源：The Verge） 苹果再次在其“年度 iPhone 应用程序”决赛中冷落 AI（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0g4l8/heres_whats_making_news_in_ai/</guid>
-      <pubDate>Tue, 26 Nov 2024 16:36:48 GMT</pubDate>
-    </item>
-    <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
       <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[TL;DR： 我写了一篇简短而直观的博客文章，解释了大型语言模型 (LLM) 的实际工作原理，从革命性的变压器架构和自我注意机制到它们如何处理语言和理解上下文。 了解为什么 LLM 有时会产生幻觉，它们如何处理海量文本数据，以及是什么让它们的输出如此动态。如果您已准备好深入研究现代 AI 的核心，那么这篇文章正适合您 :)  完整解释的链接：https://open.substack.com/pub/diamantai/p/inside-large-language-models-how?r=336pe4&amp;utm_campaign=post&amp;utm_medium=web （我收到了一些很好的反馈，所以希望您能从中受益并喜欢它）    提交人    /u/Diamant-AI   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0bu0c/understand_how_llms_work_a_quick_and_intuitive/</guid>
       <pubDate>Tue, 26 Nov 2024 13:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的 AI 技术堆栈是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h094q9/what_is_your_ai_tech_stack/</link>
-      <description><![CDATA[所以我开始思考...... 还有其他人拥有 AI 技术堆栈吗？有 3 种工具我一定会使用，无论是在我的商业还是个人生活中，它们都能让事情变得简单一些。  第一个当然是 ChatGPT。它非常适合写简单的东西、集思广益或清理我自己的单词混乱。最常见的用途是润色我写过的电子邮件或文本片段。事实上，我有点羞愧地用它写过一两次生日贺卡......但我们不讨论这个。  我经常使用的第二个工具是 Canva。我需要为我创办的企业创建一个徽标。我想要一个严肃、简单和清晰的东西，我能够在大约 20 分钟内完成。  最后，我使用 Perplexity 进行头脑风暴、研究和一般想法。我很震惊，它竟然被忽视了——在我通过 LinkedIn 高级帐户获得免费试用之前，我从未接触过它，现在我每天都在使用它。也许值得在网上看看他们是否免费向其他人提供它。  你们用什么？如果能找到一些可以添加到我的堆栈中的隐藏宝石就太好了。    提交人    /u/reclaim_ai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h094q9/what_is_your_ai_tech_stack/</guid>
-      <pubDate>Tue, 26 Nov 2024 10:52:28 GMT</pubDate>
     </item>
     <item>
       <title>每周自我推销贴</title>
