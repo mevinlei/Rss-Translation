@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 15:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 18:14:15 GMT</lastBuildDate>
+    <item>
+      <title>我需要一个用于未知连接器的通用驱动程序</title>
+      <link>https://www.reddit.com/r/software/comments/1h1zxep/i_need_a_generic_driver_for_a_unknown_conector/</link>
+      <description><![CDATA[我有一个很长一段时间的连接器，它是一个 vga 到 usb 转换器，但现在我没有盒子，或者没有出现他的名字的东西，只是在小工具中出现了类似“foinnex”的东西，现在，我的屏幕开始断开和连接，甚至没有断开连接它只是关闭了几秒钟，有人知道这种类型的东西的通用驱动程序吗？     提交人    /u/Hot-Light1671   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1zxep/i_need_a_generic_driver_for_a_unknown_conector/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:38:11 GMT</pubDate>
+    </item>
     <item>
       <title>无损剪切合并片段</title>
       <link>https://www.reddit.com/r/software/comments/1h1xlmh/lossless_cut_merging_segments/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>在不强制使用 Google Lens 的情况下，是否仍然可以使用 Google 反向图像搜索？</title>
       <link>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</link>
-      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经消失了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
+      <description><![CDATA[（已解决，我目前找到了 2 个解决方法： 1：此浏览器扩展程序（您需要在扩展程序选项中重新选择 Google Image而不是 Google Lens）：https://github.com/dessant/search-by-image 2：将以下代码复制到书签/收藏夹项目的链接字段中（称为bookmarklet）：  javascript: (() =&gt; {window.open(`https://www.google.com/searchbyimage?&amp;client=Chrome&amp;image_url=`+location.href, &quot;_self&quot;);})(); 然后当您在图像 URL 上时，只需点击上面的项目是你之前创建的，它会带你进入传统/经典的 Google 图片搜索） ----------------------------------------------- 下面的 OP： 所以，在过去，你曾经能够通过图片进行反向搜索，并在 Google 上检查所有可用的从大到小的图片，然后在某个时候，谷歌强迫你只通过 Google Lens 搜索（但你仍然可以点击 Google Lens 结果中的链接进入旧的反向图片搜索），但几天前，这个选项被完全删除了。 因此，目前我不再有任何办法用 Google 反向图片搜索来找到最大的图片，Google Lens 在这一点上已经完全没用了（网上已经有很多关于这一点的抱怨，但在过去至少我们还有一个选择，但那个选项现在已经没有了） 现在我正在使用Tineye 和 Yandex 作为替代方案，Google 确实需要修复此问题并停止破坏功能完好的产品    提交人    /u/NeverFated   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</guid>
       <pubDate>Thu, 28 Nov 2024 07:40:47 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>KPI/客户盈利能力软件</title>
       <link>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</link>
-      <description><![CDATA[有点牵强，但想知道是否有某种免费（或便宜）的软件，人们可以使用它转储/上传客户交易并生成 KPI？目前我正在使用 excel，我将所有原始交易数据和公式以各种成本输入到客户盈利能力中，这目前相当困难。长期来看，我想要一些更精简的东西，我可以使用它，它具有某种形式的 api 访问权限，我可以每 5-10 分钟将数据流式传输到其中，这样就可以拥有一个“实时”跟踪器。    提交人    /u/Mukzington   [链接] [评论]]]></description>
+      <description><![CDATA[有点牵强，但想知道是否有某种免费（或便宜）的软件，人们可以使用它转储/上传客户交易并生成 KPI？目前我正在使用 excel，我将所有原始交易数据和公式以各种成本输入到客户盈利能力中，这目前相当困难。长期来看，我希望使用一些更精简的东西，它具有某种形式的 api 访问权限，我可以每 5-10 分钟将数据流式传输到其中，这样就可以拥有一个“实时”跟踪器。    提交人    /u/Mukzington   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</guid>
       <pubDate>Wed, 27 Nov 2024 20:27:49 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[以下是我想要为课程创建的时间表：https://i.imgur.com/VwUbRCX.png 维基百科有时会有这种时间表：参见例如 https://en.wikipedia.org/wiki/Timeline_of_Indian_history 我不知道这种时间表是如何创建的。我试过一款软件（我运行的是 Windows 11），但你甚至无法将文本设为斜体。Paint 会非常耗时，而且会无缘无故地使文本变得模糊。理想情况下，您可以输入事件（单个日期）和时间跨度（开始日期和结束日期）的 csv，然后它会吐出一张图片。    提交人    /u/ctygv   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h167wd/is_there_a_free_historical_timeline_image_creator/</guid>
       <pubDate>Wed, 27 Nov 2024 14:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找拥有可用于不同社交媒体平台的廉价机器人并愿意批量购买的人。</title>
-      <link>https://www.reddit.com/r/software/comments/1h154qv/looking_for_someone_that_has_cheap_bots_for_use/</link>
-      <description><![CDATA[  由    /u/maruaann  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h154qv/looking_for_someone_that_has_cheap_bots_for_use/</guid>
-      <pubDate>Wed, 27 Nov 2024 14:08:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
