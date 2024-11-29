@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Nov 2024 09:12:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:20:46 GMT</lastBuildDate>
     <item>
       <title>审美的</title>
       <link>https://www.producthunt.com/posts/aesthetic</link>
@@ -76,18 +76,32 @@ Slack 上的即时图表
       <pubDate>Thu, 28 Nov 2024 05:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>帽</title>
-      <link>https://www.producthunt.com/posts/cap-4</link>
+      <title>困惑购物</title>
+      <link>https://www.producthunt.com/posts/perplexity-shopping</link>
       <description><![CDATA[
-精美的屏幕录像，由您拥有。100% 开源。
+从搜索到购买的最快方式
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/cap-4</guid>
-      <pubDate>Wed, 27 Nov 2024 18:43:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/perplexity-shopping</guid>
+      <pubDate>Thu, 28 Nov 2024 03:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs GenFM</title>
+      <link>https://www.producthunt.com/posts/elevenlabs-genfm</link>
+      <description><![CDATA[
+您的内容将成为对话
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/elevenlabs-genfm</guid>
+      <pubDate>Wed, 27 Nov 2024 19:45:43 GMT</pubDate>
     </item>
     <item>
       <title>代理授权</title>
@@ -160,18 +174,18 @@ Slack 上的即时图表
       <pubDate>Wed, 20 Nov 2024 16:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>分析球</title>
-      <link>https://www.producthunt.com/posts/analyzesphere</link>
+      <title>MindPal 的 Canvas</title>
+      <link>https://www.producthunt.com/posts/canvas-by-mindpal</link>
       <description><![CDATA[
-一键式 AI 竞争分析 Chrome 扩展程序
+运行 AI 代理和多代理系统的无限画布
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/analyzesphere</guid>
-      <pubDate>Tue, 19 Nov 2024 09:47:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/canvas-by-mindpal</guid>
+      <pubDate>Thu, 14 Nov 2024 14:15:34 GMT</pubDate>
     </item>
     <item>
       <title>凯斯特拉</title>
@@ -200,20 +214,6 @@ Slack 上的即时图表
 ]]></description>
       <guid>https://www.producthunt.com/posts/crono-7</guid>
       <pubDate>Mon, 11 Nov 2024 17:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Spark 到创业公司</title>
-      <link>https://www.producthunt.com/posts/from-spark-to-startup</link>
-      <description><![CDATA[
-您可以在周末启动的创业想法
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/from-spark-to-startup</guid>
-      <pubDate>Wed, 25 Sep 2024 20:21:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
