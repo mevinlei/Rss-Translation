@@ -4,13 +4,27 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 00:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:27:33 GMT</lastBuildDate>
     <item>
-      <title>远程访问软件</title>
-      <link>https://www.reddit.com/r/software/comments/1h28429/remote_access_software/</link>
-      <description><![CDATA[大家好，你们知道有什么简单的免费远程文件系统控制/共享应用程序吗（AnyDesk、TeamViewer、RustDesk 除外）？（我有两台电脑，在不同的房间，我想从 Y 电脑控制 X 电脑的文件系统。我不想使用内置的 Windows 功能共享驱动器，我想要用于此目的的软件）。 现在我正在使用 AnyDesk 的远程文件系统控制工具，但用户界面/用户体验非常非常不舒服，传输/共享/控制不舒服，拖放功能不太好用。 AnyDesk 的屏幕截图： https://preview.redd.it/nx2mov955q3e1.jpg?width=1807&amp;format=pjpg&amp;auto=webp&amp;s=136def5ea630e0a90b8af282bf22f6a0d47e178d 谢谢。    提交人    /u/antikfilosov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h28429/remote_access_software/</guid>
-      <pubDate>Thu, 28 Nov 2024 23:06:34 GMT</pubDate>
+      <title>尝试从 SSD 复制窗口</title>
+      <link>https://www.reddit.com/r/software/comments/1h2c7sn/trying_to_duplicate_windows_from_ssd/</link>
+      <description><![CDATA[我最近开始使用 WINtoUSB 从 500G SSD 在 Mac 上使用 Windows。我最近买了一个 1T SSD，现在我不知道如何复制 Windows（我可以再次通过 WINtoUSB 安装它），以及我下载并安装在那里的所有内容。我发现的每个视频都谈到将硬盘复制到 SSD，但我认为这对我没有帮助，因为我已经从 SSD 启动 Windows。关于如何将一个 SSD 复制到另一个 SSD，有什么想法吗？也许有办法将每个已安装的项目移动到新安装的 Windows（包括秘密文件）？ 希望我的解释足够清楚，谢谢    提交人    /u/Fred_Madison22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h2c7sn/trying_to_duplicate_windows_from_ssd/</guid>
+      <pubDate>Fri, 29 Nov 2024 03:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么工具可以让我搜索文本文件？寻找我写的东西</title>
+      <link>https://www.reddit.com/r/software/comments/1h2afv8/what_is_a_tool_that_will_let_me_search_inside/</link>
+      <description><![CDATA[我正在寻找一个文本文档。我不记得我给它起了什么标题，但我记得文本中的关键短语。我最近换了电脑，搬了好几个国家，所以我记不清了。 我知道有 Everything 和 GrepWin 或 Agent Ransack...这些能用吗？    提交人    /u/Paradoxbuilder   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h2afv8/what_is_a_tool_that_will_let_me_search_inside/</guid>
+      <pubDate>Fri, 29 Nov 2024 01:17:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程文件系统访问/控制软件</title>
+      <link>https://www.reddit.com/r/software/comments/1h2aavn/remote_file_system_accesscontrol_software/</link>
+      <description><![CDATA[嗨。大家好，您知道任何简单的免费远程文件系统控制/共享应用程序吗（AnyDesk、TeamViewer、RustDesk 除外）？（我有 2 台电脑，在不同的房间，我想从 Y 电脑控制 X 电脑的文件系统。我不想要使用内置 Windows 功能共享驱动器，我想要用于此的软件）。 我想要远程文件系统访问/控制/共享应用程序，类似于此 UI（我不想要像 anydesk 和其他类似应用程序提供的桌面控制功能）： https://preview.redd.it/vokq2xbmqq3e1.png?width=787&amp;format=png&amp;auto=webp&amp;s=ac2897d478aff0a7dcb565b26d03973368a26853    提交人    /u/antikfilosov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h2aavn/remote_file_system_accesscontrol_software/</guid>
+      <pubDate>Fri, 29 Nov 2024 01:09:35 GMT</pubDate>
     </item>
     <item>
       <title>可以制作教程用的 gif 动图的截图软件</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[所以基本上我想从这个网站下载电影 https://ww2.m4uhd.tv/watch-movie-drifters-2011-253855.html 我使用 youtube-dl、m3u8 下载器或任何视频扩展，但它们无法检测到任何视频文件。嵌入在 hydrax/abbys.to 上的视频似乎无法获取视频链接 虽然该网站有一个备份服务器，视频下载器可以检测到视频文件，但遗憾的是这里并非所有电影都有在线/可用的备份服务器 有趣的事实 互联网论坛上的某人告诉我一种下载它的好方法。他建议我使用 UC 浏览器内置的视频播放器。一开始我并不相信，但 UC 浏览器可以毫无问题地下载嵌入式视频，而其他视频下载器则不能  一切都很顺利，很简单，直到有人在互联网上告诉我 UC 浏览器是中国间谍软件，出售你的数据等等。这让我有点害怕，所以我仍然在寻找替代方案    提交人    /u/AmmarRY   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1j5fm/can_someone_tell_me_a_good_video_downloader_for/</guid>
       <pubDate>Thu, 28 Nov 2024 00:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有噪音压缩应用程序可用于在通话中使用更多麦克风？</title>
-      <link>https://www.reddit.com/r/software/comments/1h1h0jr/is_there_a_noise_compression_app_i_can_use_for/</link>
-      <description><![CDATA[所以我使用通用的 USB PNP 麦克风。还不错。能很好地捕捉到我的声音，但也会捕捉到很多背景噪音。我的风扇，即使关闭了，也只是没有任何声音（如果你明白我的意思）。 如果我正在录音，我可以将它运行到软件中，但我想知道是否有应用程序可以实时取消噪音，用于通话等。 我知道像 Discord 这样的应用程序有 Krisp，但我目前使用的应用程序没有该功能。    提交人    /u/RiverHe1ghts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h1h0jr/is_there_a_noise_compression_app_i_can_use_for/</guid>
-      <pubDate>Wed, 27 Nov 2024 22:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找付费热点软件</title>
-      <link>https://www.reddit.com/r/software/comments/1h1fjt9/looking_for_software_for_paid_hotspot/</link>
-      <description><![CDATA[所以我的大学有互联网，但有些网站和应用程序被屏蔽了，我让一些人使用我的 iPhone 热点来使用它们。有没有软件可以让我跟踪每个人的使用情况，并为每个人设置不同的密码？谢谢    提交人    /u/Thedoodooltalah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h1fjt9/looking_for_software_for_paid_hotspot/</guid>
-      <pubDate>Wed, 27 Nov 2024 21:32:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

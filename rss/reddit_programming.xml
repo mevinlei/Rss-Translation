@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 29 Nov 2024 00:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:27:37 GMT</lastBuildDate>
+    <item>
+      <title>LocalStorage、IndexedDB、Cookies、OPFS、WASM-SQLite</title>
+      <link>https://www.reddit.com/r/programming/comments/1h2c2q3/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h2c2q3/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</guid>
+      <pubDate>Fri, 29 Nov 2024 02:52:57 GMT</pubDate>
+    </item>
     <item>
       <title>共识</title>
       <link>https://www.reddit.com/r/programming/comments/1h26c96/consensus/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/delvin0  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h1t971/neutralinojs_v55_released/</guid>
       <pubDate>Thu, 28 Nov 2024 10:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>列存储数据库太棒了！</title>
-      <link>https://www.reddit.com/r/programming/comments/1h1t0xz/column_store_databases_are_awesome/</link>
-      <description><![CDATA[  由    /u/Dilocan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h1t0xz/column_store_databases_are_awesome/</guid>
-      <pubDate>Thu, 28 Nov 2024 10:23:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
