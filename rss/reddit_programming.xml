@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 29 Nov 2024 12:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 15:12:00 GMT</lastBuildDate>
+    <item>
+      <title>PlayStation 图像和视觉效果的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1h2nutt/how_playstation_graphics_visual_artefacts_work/</link>
+      <description><![CDATA[  由    /u/rom1v  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h2nutt/how_playstation_graphics_visual_artefacts_work/</guid>
+      <pubDate>Fri, 29 Nov 2024 15:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对《分布式系统模式》这本书有何看法？</title>
+      <link>https://www.reddit.com/r/programming/comments/1h2lmov/what_are_your_thoughts_about_the_patterns_of/</link>
+      <description><![CDATA[  由    /u/duckf3  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1h2lmov/what_are_your_thoughts_about_the_patterns_of/</guid>
+      <pubDate>Fri, 29 Nov 2024 13:20:05 GMT</pubDate>
+    </item>
     <item>
       <title>揭开 fork 系统调用的神秘面纱</title>
       <link>https://www.reddit.com/r/programming/comments/1h2k701/disillusioning_the_magic_of_the_fork_system_call/</link>
@@ -55,14 +69,14 @@
       <pubDate>Fri, 29 Nov 2024 08:26:33 GMT</pubDate>
     </item>
     <item>
-      <title>《程序员修炼之道：通向精通的旅程》20 周年纪念版</title>
+      <title>程序员修炼之道：通向精通的旅程，20 周年纪念版</title>
       <link>https://www.reddit.com/r/programming/comments/1h2gwuq/pragmatic_programmer_the_your_journey_to_mastery/</link>
       <description><![CDATA[  由    /u/oxfordteacherAdam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h2gwuq/pragmatic_programmer_the_your_journey_to_mastery/</guid>
       <pubDate>Fri, 29 Nov 2024 08:00:43 GMT</pubDate>
     </item>
     <item>
-      <title>Polaroid Maker - 使用 bolt.new 构建的一款创建宝丽来滤镜的小工具</title>
+      <title>Polaroid Maker - 使用 bolt.new 构建的一款制作宝丽来滤镜的小工具</title>
       <link>https://www.reddit.com/r/programming/comments/1h2g4yb/polaroid_maker_a_tiny_tool_to_create_polaroid/</link>
       <description><![CDATA[  由    /u/n0lanzero  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h2g4yb/polaroid_maker_a_tiny_tool_to_create_polaroid/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/intelw1zard  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1h2e35m/how_much_memory_do_you_need_in_2024_to_run_1/</guid>
       <pubDate>Fri, 29 Nov 2024 04:55:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>LocalStorage、IndexedDB、Cookies、OPFS、WASM-SQLite</title>
-      <link>https://www.reddit.com/r/programming/comments/1h2c2q3/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h2c2q3/localstorage_vs_indexeddb_vs_cookies_vs_opfs_vs/</guid>
-      <pubDate>Fri, 29 Nov 2024 02:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>共识</title>
-      <link>https://www.reddit.com/r/programming/comments/1h26c96/consensus/</link>
-      <description><![CDATA[  由    /u/teivah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1h26c96/consensus/</guid>
-      <pubDate>Thu, 28 Nov 2024 21:35:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
