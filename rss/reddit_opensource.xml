@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 30 Nov 2024 03:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 06:14:51 GMT</lastBuildDate>
+    <item>
+      <title>寻找便携软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h35dpc/looking_for_portable_software/</link>
+      <description><![CDATA[我浏览了 portableapps 域。我对可以放入闪存驱动器并使其在大多数计算机上运行而无需互联网连接的应用程序非常感兴趣。  如果有人有任何想法，请告诉我。我对任何事情都持开放态度，但我主要关注生产力和软件开发。    提交人    /u/a_newer_throwaway   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h35dpc/looking_for_portable_software/</guid>
+      <pubDate>Sat, 30 Nov 2024 05:18:27 GMT</pubDate>
+    </item>
     <item>
       <title>TextCraft 1.0.6 更新：在 Word 评论中直接与你的 AI 对话</title>
       <link>https://www.reddit.com/r/opensource/comments/1h33a5h/textcraft_106_update_talk_to_your_ai_directly_in/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由    /u/We-had-a-hedge  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h1sz75/33_days_left_to_fund_framasoft_and_its_services/</guid>
       <pubDate>Thu, 28 Nov 2024 10:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nuxt Blog Kit — 使用 Nuxt3 和 TailwindCSS 构建的组件库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h1pqop/nuxt_blog_kit_a_component_library_built_with/</link>
-      <description><![CDATA[我们刚刚发布了一个开源 Nuxt Blog Kit，它使使用 Nuxt 3 和 TailwindCSS 构建和展示博客变得比以往更轻松、更有趣！ 您可以根据需要自定义组件，还可以按标签、作者姓名等显示博客。 尝试一下，让我们知道您的想法！我们很乐意听到您的反馈或您想做的任何贡献。    提交人    /u/dg02512021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h1pqop/nuxt_blog_kit_a_component_library_built_with/</guid>
-      <pubDate>Thu, 28 Nov 2024 06:26:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
