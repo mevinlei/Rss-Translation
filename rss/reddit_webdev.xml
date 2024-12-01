@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 30 Nov 2024 21:09:54 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 01 Dec 2024 01:00:26 GMT</lastBuildDate>
+    <item>
+      <title>我使用新的 CSS Popover 和 Anchor Positioning 功能以及主题和过渡制作了一个自定义的 popover 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</link>
+      <description><![CDATA[      欢迎给我建设性的批评。我一直在自学 JS，这是我一直在慢慢努力的一件有趣的事情！    提交人    /u/thingmabobby   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发布了我的第一个 NextJS NPM 包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</link>
+      <description><![CDATA[对某些人来说，这可能不是什么大事，但我感觉很有成就感。我刚刚发布了我的第一个 NPM 包，它适用于 Next JS，允许您从命令行生成页面或 API 路由。它目前支持 TailwindCSS、Typescript 和 Javascript。  欢迎随时查看并尝试：https://www.npmjs.com/package/next-genkit/v/1.1.9 谢谢     提交人    /u/serial9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</guid>
+      <pubDate>Sat, 30 Nov 2024 23:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在文档中做了哪些工作来改善用户体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/</link>
+      <description><![CDATA[C    由   提交  /u/SpOOkWins   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3p0ue/what_do_you_do_in_your_documentation_to_improve/</guid>
+      <pubDate>Sat, 30 Nov 2024 23:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bonsai-CLI 演示 + 组件开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/</link>
+      <description><![CDATA[      https://preview.redd.it/rl2rruk3944e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c5a0c4102c4120ad0175716bdfbb40dd395bcbc8 Bonsai-CLI 将简化机构或个人开发者的 Web 开发。我认为它确实能将我的网站或网络应用程序的开发速度提高 10-100 倍。 演示 + 直播：https://www.youtube.com/watch?v=hM1V1IjR96E&amp;ab_channel=JackalopeLabs Bonsai-CLI 允许您使用预先构建和设计的 Tailwind/Alpine 组件在几秒钟内生成一个漂亮的网络应用程序。所有副本、图像、布局、组件、模板、样式都可以由 AI 在几秒钟内配置。 它目前专为 Roots WP 堆栈构建，将来可以支持更多堆栈。 一旦您拥有一个 Roots.io 网站，您就可以运行两个命令来创建一个新的登录页面 -  wp acorn bonsai:init wp acorn bonsai:generate bonsai 目前，登录页面相当基础。我将向其中添加所有自定义组件。一旦 Bonsai-CLI 完成，它将能够在几秒钟内构建完整的 Web 应用程序。这就是目标。 Bonsai-CLI：https://github.com/jackalopelabs/bonsai-cli    由    /u/eyeiskind 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3o8uz/bonsaicli_demo_component_development/</guid>
+      <pubDate>Sat, 30 Nov 2024 22:33:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要网站主机/域名专业知识的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/</link>
+      <description><![CDATA[您好，我有一个潜在客户，他需要一个网站，但他们不想在网站托管和域名上花费太多。他们从事景观设计业务，所以我知道这不仅仅是主页。 我希望这里有人知道一个好的主机/域名组合，用于一个简单的网站。他们不卖任何东西，只是告诉他们做什么并联系他们。谢谢    提交人    /u/Itachi03   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3mvo8/in_need_of_help_of_expertise_of_hostdomain_for/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:29:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>廉价的网络空间（数据存储）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/</link>
+      <description><![CDATA[大家好，我正在寻找便宜的网络空间，仅用于存储旧备份文件中的数据。 哪个是最便宜和最好的托管商？ 需要大约 250-500gb :_) br    提交人    /u/cozysleet   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:17:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据区号创建了一个简单时钟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/</link>
+      <description><![CDATA[      https://preview.redd.it/fm5bb7ywu34e1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=774f9fc74dbb234b2eacf0ead0f7378cf3f8bd56    提交人    /u/benlikescode   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:17:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑摆脱方形空间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/</link>
+      <description><![CDATA[嗨！我已经通过 Square Space 运营我的个人网站大约 7 年了。它运行良好，但价格变得相当昂贵，当我想要对事物进行低级控制时，我没有它。  哪里有允许您创建自己的网站的托管服务 它们比 Square Space 便宜吗？ 不确定我是否想自己从头开始构建所有内容（可能是 javascript、html）还是想使用 wordpress。你们觉得怎么样？wordpress 好吗？  我是一个长期的开发人员，但不是 webdev，所以我想要一些关于这方面的指导。谢谢。    提交人    /u/AutomaticLake4627   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/</guid>
+      <pubDate>Sat, 30 Nov 2024 21:13:08 GMT</pubDate>
+    </item>
     <item>
       <title>⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱：h0p3⦘ - 大小约为 65MB 的 html 文件，我 8 年来每天都在处理这个文件</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3me5g/ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱_h0p3_65mb_html_file_ive_been_workin_on/</link>
@@ -48,67 +104,11 @@
       <pubDate>Sat, 30 Nov 2024 20:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个工具来创建源代码差异的 GIF，以便在社交媒体上分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</link>
-      <description><![CDATA[        提交人    /u/cmgriffing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何在 90 天内不花一分钱就从 0 流量发展到 10,000+ 次访问和 50+ 个付费客户</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kv3q/how_we_went_from_0_traffic_to_10000_visits_and_50/</link>
-      <description><![CDATA[当我们开始构建 StartupBolt 时，我们知道我们没有足够的资金或庞大的团队。我们确实清楚我们想要解决的问题，并决心高效地解决它。以下就是我们如何将零流量变成 10,000 多名访问者，并获得 50 多名付费客户 — 所有这些都在短短 90 天内完成，而且没有花一分钱。 步骤 1：构建前验证 我们没有直接进入开发阶段，而是验证了我们的想法。 我们在 Reddit、X（以前的 Twitter）和 LinkedIn 上搜寻那些在 SaaS 发布方面遇到困难的企业家。我们直接询问了他们的痛点和挑战。反馈非常明确：他们需要支付、身份验证、SEO 和可扩展基础设施方面的帮助。 通过这次验证，我们有一个明确的问题需要解决。只有那时，我们才开始构建 StartupBolt。 步骤 2：构建以激光为中心的 MVP 我们在仅用 40 天的时间内构建了我们的 MVP，并坚持以下基本原则：  身份验证准备就绪 Stripe 和 LemonSqueezy 的无缝支付集成 SEO 就绪模板，可实现最大可见性 轻量级组件，可轻松定制  通过专注于解决关键问题，我们确保我们的 MVP 从第一天起就很有价值。 步骤 3：传播消息 我们并没有坐等用户找到我们。以下是我们为自然吸引 10,000 多名访客所采取的措施：  SEO 推广：使用 Ahrefs，我们找到了具有相关高质量反向链接的网站，并通过个性化宣传与他们取得联系。这为我们带来了一些关键的反向链接，包括一个拥有 90+ DR 的反向链接，使我们的 SEO 性能飙升。 使用 Rewardful 进行联盟营销：我们使用 Rewardful 创建了联盟链接，它起到了双重作用，还可以为我们的网站生成更多反向链接。 日常忙碌：我们每天花3-4 小时给博主发消息、写帖子和参与社区活动。 Reddit 和 X：在 Reddit 上，我们分享了有关 SaaS 挑战和 StartupBolt 解决方案的深入帖子，回复了每一条评论以建立信任和激发参与。在 X 上，我们持续与用户互动并分享宝贵的建议。  步骤 4：明智地发布 我们没有仅仅依靠一个平台来发布。虽然 Product Hunt 为我们带来了曝光度和关键反向链接，但我们最大的收获还是来自以下平台：  Frazier Uneed Microlaunch  我们在三个平台上都赢得了今日产品称号，带来了大量流量和可信度。 第 5 步：倾听和迭代 真正的奇迹发生在发布之后。我们积极与客户交谈，了解他们喜欢什么、不喜欢什么以及需要什么。他们的反馈对我们有所帮助：  消除不必要的功能 添加更灵活的解决方案 增强用户体验  这些变化将临时用户变成了忠实的付费客户。 结果  在短短 90 天内，我们的网站就获得了 10,000 多次访问 50 多个付费客户 在多个平台上被评为每日产品  下一步是什么？ 我们还尝试了 Meta 和 X 广告，但这是另一篇文章的故事。这段历程证明，只要有明确的计划、持续的努力和对用户的关注，您无需花费大笔资金即可获得有意义的结果。 StartupBolt 不是建立在运气之上的，而是建立在清晰、坚持和用户至上的基础上的。如果您已准备好启动 SaaS，而无需深陷基础设施工作，StartupBolt 可以为您提供帮助。 您的想法值得闪耀 - 让我们来处理其余的事情。    提交人    /u/nifal_adam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kv3q/how_we_went_from_0_traffic_to_10000_visits_and_50/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ID解析：这是方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</link>
-      <description><![CDATA[大家好， 我正在构建一个专业的应用程序来解析 ID，由于我是独自一人，我决定选择一个简单的堆栈：带有 tRPC API 的 Next.js。对于 OCR，OCR Google Cloud Vision 到目前为止为我提供了很好的结果。 现在我被困在（大部分时间都在拖延）UI 上，无法引导用户使用智能手机相机捕获 ID。 我的想法是在桌面版本上生成一个二维码，将用户重定向到 React PWA。PWA 提供了一个覆盖层来为 ID 构建可读的体面分辨率，然后再将其发送到 Google Cloud Vision 并得到误报。 这似乎是一个常见的用例 - 是否有库或工具来处理这种引导式捕获？任何建议或指示都将不胜感激！ 谢谢！   由    /u/Lsd_is_OverRated  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在人们用什么来制作简单的单页网站呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</link>
-      <description><![CDATA[我已经离开前端很多年了，现在需要做一个简单的网站（没有后端），我只想用一些模板或者最简单的东西来做一个好看的网站。模板还能用吗？你推荐哪些网站的模板？我以前用过 Bulma 或 Bootstrap。    提交人    /u/RikiMaro18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模重构 TypeScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</link>
-      <description><![CDATA[  由    /u/haasilein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个技术比较工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</link>
-      <description><![CDATA[        提交人    /u/rahim-mando   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需提示，即可随时安排任何事！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>从本地主机到公共端点 - 使用 zrok 快速分享您的工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3j6yo/from_localhost_to_public_endpoint_quickly_share/</link>
-      <description><![CDATA[  由    /u/PatoJAD  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3j6yo/from_localhost_to_public_endpoint_quickly_share/</guid>
-      <pubDate>Sat, 30 Nov 2024 18:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为自己建立了一些东西，当然是我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3iz8s/just_builded_something_for_myself_of_course_is_my/</link>
-      <description><![CDATA[请告诉我您的想法，以及我可以改进、更改或添加哪些内容😉    由    /u/gianoart  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3iz8s/just_builded_something_for_myself_of_course_is_my/</guid>
-      <pubDate>Sat, 30 Nov 2024 18:31:23 GMT</pubDate>
+      <title>单击此处取消</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</link>
+      <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</guid>
+      <pubDate>Sat, 30 Nov 2024 19:50:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
