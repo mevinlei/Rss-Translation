@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:19:20 GMT</lastBuildDate>
+    <item>
+      <title>如何在 VS2022 上创建 Web 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h41vya/how_do_i_create_a_web_app_on_vs2022/</link>
+      <description><![CDATA[背景：我对此完全是初学者，所以如果我说了完全错误和愚蠢的话，请多多包涵。 我有一项任务，我必须创建一个连接到数据库的 Web 应用程序，我们可以使用 VS2022 Core Web API 更新、创建和删除该数据库，但我对此没有任何经验，也没有人教过我们最基本的知识。我确实知道基本的 JavaScript，但这就是我的知识范围。 我做了什么：我尝试过研究、观看视频，甚至直接使用 AI 来教我，但经过几天的不断尝试，我还是没有找到解决方案。我找到的视频通常使用“ASP.NET Core Web App”，但我不知道这是否真的是我需要的，因为我们被告知要使用 Core Web API。 问题：为了获得更多背景信息，我们的老师是那些可怕但又恐怖的老师之一，这就是我来这里的原因。我们被告知要创建一个连接到数据库的 Web 应用程序，可以使用 ASP.NET Core Web API 创建、更新和删除数据，并且没有人教我们最基本的东西。我一直在搜索和尝试，但似乎找不到任何东西，因为 VS 2022 中没有什么是我熟悉的，而且我对 VSC 也不熟悉。     提交人    /u/Hi_ImJustARandomGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h41vya/how_do_i_create_a_web_app_on_vs2022/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>每月入门/Web 开发职业主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[由于有关该主题的问题越来越多，我们决定每月专门针对该主题发布一个帖子，以减少有关该主题的重复帖子数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子 FAQ 中得到解决，或者可能已经在以前的每月职业主题中被问到过。 专门针对这些类型问题的子版块包括 r/cscareerquestions（用于一般和开放式职业问题）和 r/learnprogramming（用于早期学习问题）。 为做好行业准备而需要学习的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架 (React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要一个包含您构建的 4-5 个个人项目的作品集，以及一份申请工作的简历/履历。 在申请工作之前，计划 6-12 个月的自学和项目制作作为您的作品集。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h41srz/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何建造旋转木马的任何提示/想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/</link>
+      <description><![CDATA[我正在尝试为我的项目构建一个类似于此的旋转木马： https://www.pinterest.com/pin/234257618107500859/ 我该如何构建它，有人可以对构建它有任何见解吗，无论是自己构建还是使用任何现有软件包？ 我真的很喜欢这个概念，并希望构建一个    提交人    /u/Beasta07   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h40ilz/any_tipsidea_on_how_to_built_a_spinning_carousel/</guid>
+      <pubDate>Sun, 01 Dec 2024 10:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我迄今为止最大的项目！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h40iig/my_biggest_project_so_far/</link>
+      <description><![CDATA[      https://preview.redd.it/ya6e0nf9s74e1.jpg?width=1200&amp;format=pjpg&amp;auto=webp&amp;s=9ca22544a3bc3174c8cac15536​​db2f748c2cbd14 我很感谢你对这个项目的反馈，我即将完成 JS 课程，这是我迄今为止构建的最大的项目远！  技术堆栈：HTML，CSS，Vanilla JS    由   提交  /u/KareemAhmed37   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h40iig/my_biggest_project_so_far/</guid>
+      <pubDate>Sun, 01 Dec 2024 10:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何确保你离开后一切仍能继续进行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/</link>
+      <description><![CDATA[嘿！ 几天前我和我爸爸谈过；他问我，我死后，我托管的所有东西会怎样。 这个问题一点也不蠢，我还年轻，但任何事情都可能发生，无论是意外还是疾病。我托管了几个网站、几个公司的一个大应用程序，还有一些其他东西，加起来就是一个相当大的集合。我有一个 VPS，所有的代码都在我的私人 GitHub 帐户上。 如果你们发生了什么事情，你们如何确保一切都能顺利进行？就我而言，我是一个独立开发者，没有其他人来照顾所有这些——你有一份私人文档，上面有关于如何访问东西的说明吗？你会和别人分享你的 GitHub 凭证吗？你会考虑这样的事情吗？    提交人    /u/Sziszhaq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h40dzx/how_to_make_sure_everything_keeps_going_once/</guid>
+      <pubDate>Sun, 01 Dec 2024 10:21:06 GMT</pubDate>
+    </item>
     <item>
       <title>Redux State 对象问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3z9wj/redux_state_object_issue/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/OriginalPlayerHater   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/</guid>
       <pubDate>Sun, 01 Dec 2024 04:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否会考虑使用 iframe 而不是 div 来更轻松地组织良好的实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</link>
-      <description><![CDATA[我试图在某种“主页”上制作一个按钮，通过这个按钮，您可以进入另一个页面，并实现很酷的过渡效果 - 比如从屏幕右侧滑动的页面，这并不重要。我计划使用动画来实现这一点（需要学习如何做到这一点......这是另一个话题），其中页面将是一个 div 或一个将移动到视图中的 iframe。在这种情况下，您会建议使用 div 还是 iframe？感觉使用 iframe 是正确的，因为页面在某种程度上是一个独立的东西，但同时，它仍然是同一个网站（如果我使用 iframe，我只需加载本地 HTML 文件）。 我对 Web 开发还很陌生，所以如果我对这个问题采取了一种完全低效的方法，我希望您告诉我 😅 提前感谢您的帮助！非常感谢。    由   提交  /u/Awkward-Video-9382   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</guid>
-      <pubDate>Sun, 01 Dec 2024 03:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款针对慢性疼痛患者应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</link>
-      <description><![CDATA[      大家好， 过去几个月，在一位物理治疗师朋友的帮助下，我一直在开发一款名为 Pain Coach 的应用程序。 我们开始将其开发为一种可以在自己的实践中使用的工具，一种让他们更深入地了解导致患者病情发作的原因，并让患者了解哪些因素可能会对他们的疼痛产生负面影响的方法。 但是，我们想看看人们是否会对这种作为公开可用的应用程序而不是企业对企业的应用程序感兴趣，因此我们制作了一个小型演示和等候名单页面。我仍然是一名本科计算机科学专业的学生，​​并且刚进入该领域，因此任何想法、建议或批评都将不胜感激，因为我相信有些事情可以改进！    提交人    /u/zephdev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</guid>
-      <pubDate>Sun, 01 Dec 2024 03:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于网站迁移的快速 301 重定向工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</link>
-      <description><![CDATA[      嗨，Web Dev 社区。我敢打赌，很多人都准备在新年后推出网站，所以我想分享一个工具，它可以从批量 301 重定向中省去手动流程：https://www.wislr.com/ WISLR 团队希望我们的 301 重定向工具能够帮助您从发布清单中删除映射 URL 的耗时任务。    提交人    /u/wislr   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</guid>
-      <pubDate>Sun, 01 Dec 2024 02:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用新的 CSS Popover 和 Anchor Positioning 功能以及主题和过渡制作了一个自定义的 popover 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</link>
-      <description><![CDATA[      欢迎给我建设性的批评。我一直在自学 JS，这是我一直在慢慢努力的一件有趣的事情！    提交人    /u/thingmabobby   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:28:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布了我的第一个 NextJS NPM 包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</link>
-      <description><![CDATA[对某些人来说，这可能不是什么大事，但我感觉很有成就感。我刚刚发布了我的第一个 NPM 包，它适用于 Next JS，允许您从命令行生成页面或 API 路由。它目前支持 TailwindCSS、Typescript 和 Javascript。  欢迎随时查看并尝试：https://www.npmjs.com/package/next-genkit/v/1.1.9 谢谢     提交人    /u/serial9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</guid>
-      <pubDate>Sat, 30 Nov 2024 23:15:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
