@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 03 Dec 2024 21:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:52:44 GMT</lastBuildDate>
+    <item>
+      <title>有人使用新的 Datastar 实时 Web 应用工具吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/</link>
+      <description><![CDATA[我一直在评估 Datastar 是否适合我们的应用程序，但我对全局数据存储有一些担忧，特别是如果它包含大量数据。  https://data-star.dev/ 据我了解，Datastar 使用服务器发送事件 (SSE) 有效地向浏览器发送单个信号。 但是，当浏览器将数据提交回服务器时，似乎整个数据存储都被传输了。    提交人    /u/SoCalSurferDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/</guid>
+      <pubDate>Wed, 04 Dec 2024 00:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>cPanel 中的标准 SSL 是否转换为 AutoSSL？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/</link>
+      <description><![CDATA[我决定使用 godaddy 进行网站托管（浏览完此子版块后，我已对此感到后悔），但我获得了标准 SSL，我的网站无法工作（我获得的连接不是私人消息）。我通过 chatgpt 进行了验证，它说我需要 AutoSSL。我最近从 GoDaddy 购买了标准 SSL 证书，我打电话给服务台，他们告诉我切换到AutoSSL，因为它会自动处理 SSL 的安装和续订，而我不想手动管理 SSL 证书...  这是我到目前为止所做的事情：  从 GoDaddy 购买了标准 SSL。 通过 cPanel 手动安装证书。 我看到我的证书在 cPanel 中是自签名的。  我想要做什么： 让我的网站正常运行。 我希望AutoSSL接管并自动安装和续订我的 SSL 证书。我已经检查了我的 cPanel，但在 SSL/TLS 管理器 或 SSL/TLS 状态 部分的任何地方都没有看到 AutoSSL 选项。我也没有在 cPanel 中看到启用 AutoSSL的选项。 问题：  我是否遗漏了什么？AutoSSL 是否应默认可用，还是需要由 GoDaddy 启用？ 如何让 AutoSSL 为我的域名工作？我需要手动启用它吗，还是 GoDaddy 会处理？ AutoSSL 是否仅在特定托管计划中可用？我使用的是基本托管计划，因此我想知道 AutoSSL 是否适用于我的计划。  如果有人遇到过与 GoDaddy 和 cPanel 相关的类似问题，我将非常感激有关如何启动和运行 AutoSSL 的任何建议。 非常感谢您的帮助。    提交人    /u/computer21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/</guid>
+      <pubDate>Wed, 04 Dec 2024 00:35:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有真正免费的 Manychat 替代品来回复 IG 评论？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h62u30/any_really_free_alternative_to_manychat_to_reply/</link>
+      <description><![CDATA[我只想自动回复 Instagram 评论。Manychat 还不错，但我没有盈利，所以不想每月支付 15 美元。    提交人    /u/yiyotopo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h62u30/any_really_free_alternative_to_manychat_to_reply/</guid>
+      <pubDate>Wed, 04 Dec 2024 00:25:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要摆脱 chrome，对 Web 开发人员有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/</link>
+      <description><![CDATA[我对 chrome 感到厌烦，但我一直在日常和开发中使用它。最好的替代品？chrome 真的是最好的选择吗？我经常使用开发工具，有什么建议吗？    提交人    /u/Destroyer_The_Great   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/</guid>
+      <pubDate>Tue, 03 Dec 2024 23:01:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的 API 登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5ydhz/roast_my_api_landing_page/</link>
+      <description><![CDATA[  由    /u/MkStorm9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5ydhz/roast_my_api_landing_page/</guid>
+      <pubDate>Tue, 03 Dec 2024 21:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用随机选择器自动更改某个 rbg 值？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5ybcy/how_to_automatically_change_a_certain_rbg_value/</link>
+      <description><![CDATA[希望标题能解释一切 基本上，我在 Stylus 中编写了一些 CSS，以便将任何橙色更改为紫色。 橙色元素的 div 选择器以 .pa- 开头，但是在刷新页面时，连字符后的任何内容都会随机化，从而破坏我输入的任何代码 因此，它最初可能是 .pa-w，但在刷新或导航到其他任何地方时，它将变为 .pa-gq 我该如何实现，以便每当找到 rgb(x, x, x) 作为属性值时，它都会转换为我指定的线索？我必须使用属性吗？    提交人    /u/Threat_of_Rain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5ybcy/how_to_automatically_change_a_certain_rbg_value/</guid>
+      <pubDate>Tue, 03 Dec 2024 21:12:07 GMT</pubDate>
+    </item>
     <item>
       <title>需要浏览器扩展来保存我在不小心点击刷新时丢失的 CSS 编辑</title>
       <link>https://www.reddit.com/r/webdev/comments/1h5y78t/need_browser_extension_to_save_the_css_edits_i/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[大家好， 最近我感觉很糟糕。我在一家大型办公公司担任软件工程师。工作并不那么令人兴奋。我确实精疲力竭，开始讨厌坐在显示器前支付房租。 所以我一直在努力通过下班后做一些触觉活动来控制这种感觉，比如编织和修理房子周围的东西。一天晚上，我突然想到，如果我决定放弃我的开发人员职业，我可以再获得一项“后备”技能。 我正在寻找建议，关于我目前可以处理什么情况，以及我可以发展什么技能，也许有一天会成为我的全职工作。例如 - 我是男性，住在东欧，二十五六岁。  限制是：  这必须是我只要在家学习/练习就能擅长的事情； 最好不要盯着屏幕； 薪水相当高； 5-10 年后不会冗余； 不需要立即投入大量资金；  到目前为止，我已经考虑过簇绒定制地毯、银饰、木工杂工（架子、砧板等）、浴室瓷砖、美甲师、按摩师和芳香疗法。 如果您有任何建议或想法，我将非常感激！寻找新技能和机会！    提交人    /u/gogo1520180   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h5tvwv/burnout_career_transition/</guid>
       <pubDate>Tue, 03 Dec 2024 18:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>白色背景图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5toz5/abstract_background_images/</link>
-      <description><![CDATA[这更像是一个关于登陆页面的一般问题。你如何称呼网站上的背景图片以使其更具流行感 - 比如这里主图片后面的黄色斑点 Home Page 06 | Divi Layouts Extended 是否有可以下载类似图片的网站？ 或者创建它们的最佳方法是什么？    提交人    /u/trainermade   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5toz5/abstract_background_images/</guid>
-      <pubDate>Tue, 03 Dec 2024 18:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体查询和响应？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5t99d/media_queries_and_responsiveness/</link>
-      <description><![CDATA[嘿，开发人员，老实说，我发现媒体查询有点麻烦。我花了几个小时来修复网站，使其能够在多种分辨率、移动设备和平板电脑上显示。我觉得整个过程既乏味又缓慢。 我完全是自学成才，所以有时我会怀疑自己是否以最有效的方式做到了这一点。我使用的媒体查询是否正确？我经常在网站的每个部分后放置媒体查询，对吗？ 请就如何改进网站响应速度、减少此过程所花费的时间并提高效率提供一些建议？如果您能提供任何帮助，我将不胜感激。    提交人    /u/PrincipleLazy3383   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5t99d/media_queries_and_responsiveness/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果没有企业账户这还能用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5t8uy/will_this_work_without_an_enterprise_account/</link>
-      <description><![CDATA[        提交人    /u/OriginalPlayerHater   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5t8uy/will_this_work_without_an_enterprise_account/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:45:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>新研究：人工智能面临开源测试维护挑战</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5sqsl/new_research_ai_struggles_with_opensource_test/</link>
-      <description><![CDATA[        提交人    /u/BruceW   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5sqsl/new_research_ai_struggles_with_opensource_test/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使自定义 CSS 的所有内容正确重新着色。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5sdwf/cant_get_everything_recolored_correctly_for/</link>
-      <description><![CDATA[      我正在尝试通过创建适用于 nord 主题中所有网站的通用自定义 css 来学习 css。我采用了 solarized-everything 项目并尝试为所有网站添加通用的 nord 主题。  在某些网站，例如 reddit，回复图片中的这部分似乎没有重新着色。  reddit 中其他没有重新着色的东西是帖子的 markdown 编辑器框。热门主页、突出显示时的浏览选项卡等。其他相对融合，但后续的回复线程行和隐藏回复区域看起来非常刺眼。 我该如何解决这个问题？ 持久的黑色，我无法摆脱。   由    /u/ZoWakaki  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5sdwf/cant_get_everything_recolored_correctly_for/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能解释一下滚动条如何确定它们附着在哪个元素上吗？我的滚动条不知出于什么原因附着在主体上，我真的不明白……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5s8ps/can_anyone_explain_how_scrollbars_determine_which/</link>
-      <description><![CDATA[我在我的 Web 开发项目中遇到了最严重的问题。滚动条 想象一下实现一个简单的聊天系统，而你对 Websockets 和广播一无所知，然而最糟糕的障碍是让滚动条在 React 应用中向下移动。当我设置 h-[some value] 时，我可以让它向下移动，但是否则它不会向下移动... 所以我加入了一些 overflow 魔法。不，滚动条一英寸都不动。我对我认为管理滚动条的元素执行了所有影响滚动条的巫术（看着你顺风）。它一英寸都没动。然后我改变了药水，似乎 useEffect 不起作用，所以我的真相说者 (chat gpt) 推荐了 useLayoutEffect，但它仍然不起作用。然后我开始寻找滚动条附加到的元素。 结果发现它附加到了 body 元素。我能够通过将 overflow-hidden 逐一添加到父组件来确认这一点，并且它只在 body 元素上起作用！！ 现在我意识到，我对滚动条一无所知。我似乎找不到资源来真正了解它与我当前的上下文有什么关系。我在这个问题上花了好几个小时，但似乎没能弄明白。 编辑：没有添加代码，因为我不知道这里是否允许 编辑：进一步的背景：在聊天应用中，滚动条应该位于底部，因为您想查看最新消息而不是最旧的消息。    提交人    /u/Necessary_Hope8316   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5s8ps/can_anyone_explain_how_scrollbars_determine_which/</guid>
-      <pubDate>Tue, 03 Dec 2024 17:03:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
