@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Dec 2024 03:29:21 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 06 Dec 2024 06:16:03 GMT</lastBuildDate>
+    <item>
+      <title>将 React Router v7 与 Fastify 结合使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7u6uf/using_react_router_v7_with_fastify/</link>
+      <description><![CDATA[        提交人    /u/Weary-Database-8713   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7u6uf/using_react_router_v7_with_fastify/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他人说要使用 <details> 标签。我照做了，但我不明白自己在做什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7s9w0/someone_else_said_to_use_details_tag_i_did_but_i/</link>
+      <description><![CDATA[https://codepen.io/Who-Knows-the-looper/pen/azovrgw?editors=1100    由   提交  /u/whateverwhoknowswhat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7s9w0/someone_else_said_to_use_details_tag_i_did_but_i/</guid>
+      <pubDate>Fri, 06 Dec 2024 03:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>我到底该如何为 Facebook 登录添加更多范围/权限？我点击了所有地方，但就是无法添加更多范围（更多信息见评论）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7r5wz/how_on_earth_do_i_add_more_scopes_permissions_to/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>目前 Web 开发中的“Meta”是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/</link>
-      <description><![CDATA[基本上，我失业了。我因为工作环境太恶劣而辞职。我曾是一名 QA 工程师，但 Web 开发一直是我的激情所在和强项。在攻读学士学位期间，我总是在 Web 开发课程中名列前茅，而且这些课程是我最喜欢的课程。 现在，我正在考虑在失业期间向小型企业发送冷电子邮件，并为他们创建一个网站，这样我就有一些钱可以维持生活，但我已经离开 Web 开发圈几年了，我不知道最佳的 Web 开发工具是什么了，尤其是随着人工智能的兴起。 我最适合 PHP、HTML、CSS 和 JS。我应该磨练哪些其他语言来提高我的网站质量？或者 No-Code 是如今的出路？ 对于那些开始了类似冒险的人，你会建议雇佣分包商还是自己做这项工作？ 我非常感谢你的建议。几个月来我一直在考虑创业，我无法想象它会在其他领域。Web Dev 确实是我唯一感到特别擅长的事情（至少在我的年龄）。    提交人    /u/LordesTruth   [link] [评论]]]></description>
+      <description><![CDATA[基本上，我失业了。我因为工作环境太恶劣而辞职。我曾是一名 QA 工程师，但 Web 开发一直是我的激情所在和强项。在攻读学士学位期间，我总是在 Web 开发课程中名列前茅，这是我最喜欢的课程。 现在，我正在考虑在失业期间向小型企业发送冷电子邮件，并为他们创建一个网站，这样我就有一些钱可以维持生活，但我已经离开 Web 开发圈几年了，我不知道最佳的 Web 开发工具是什么了，尤其是随着人工智能的兴起。 我最适合 PHP、HTML、CSS 和 JS。我应该磨练哪些其他语言来提高我的网站质量？或者 No-Code 是如今的出路？ 对于那些开始了类似冒险的人，你会建议雇佣分包商还是自己做这项工作？ 我非常感谢你的建议。几个月来我一直在考虑创业，我无法想象它会在其他领域。Web Dev 确实是我唯一感到特别擅长的事情（至少在我的年龄）。    提交人    /u/LordesTruth   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/</guid>
       <pubDate>Fri, 06 Dec 2024 01:07:17 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>[求助] Typescript、浏览器和 node.js 很烦人</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7i4vs/asking_for_assistance_typescript_browsers_and/</link>
-      <description><![CDATA[嗨。我对 webdev 还比较陌生，我正在做一个小网站。现在，问题是：我使用 bootstrap 是因为它很漂亮，但我不太注重风格，所以最终我需要使用它的 javascript 内容在模式显示之前填充一些文本。我有一个解决方法，但我非常想解决这个问题，以防将来真的需要用到它。我已经将一些文件上传到 pastebin 以供参考：https://pastebin.com/QFQj8Zhx tsc 目前的主要抱怨是： node_modules/@types/bootstrap/js/dist/dropdown.d.ts:1:25 - error TS2792: Cannot find module &#39;@popperjs/core&#39;. Did you mean to set the &#39;moduleResolution&#39; option to &#39;nodenext&#39;, or to add aliases to the &#39;paths&#39; option? 1 import * as Popper from &quot;@popperjs/core&quot;;  按照建议执行会导致浏览器（是的，我检查了 Firefox 和 Chrome）抱怨： Uncaught TypeError: Failed to resolve module specifier &quot;bootstrap&quot;.相对引用必须以“/”、“./”或“../”开头。 将导入更改为相对路径会使 tsc 抱怨找不到文件的声明。 所以，基本上，我被困住了。在谷歌上搜索和询问 copilot 和 phind 一个小时都没有带来任何有效的结果。我很感激任何建设性的帮助（不，“只是不要使用 typescript”是没有建设性的）。提前感谢各位好心人！    提交人    /u/EinsPerson   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我对 webdev 还比较陌生，我正在做一个小网站。现在，问题是：我使用 bootstrap 是因为它很漂亮，但我不太注重风格，所以最终我需要使用它的 javascript 内容在模式显示之前填充一些文本。我有一个解决方法，但我非常想解决这个问题，以防将来真的需要用到它。我已经将一些文件上传到 pastebin 以供参考：https://pastebin.com/QFQj8Zhx tsc 目前的主要抱怨是： node_modules/@types/bootstrap/js/dist/dropdown.d.ts:1:25 - error TS2792: Cannot find module &#39;@popperjs/core&#39;. Did you mean to set the &#39;moduleResolution&#39; option to &#39;nodenext&#39;, or to add aliases to the &#39;paths&#39; option? 1 import * as Popper from &quot;@popperjs/core&quot;;  按照建议执行会导致浏览器（是的，我检查了 Firefox 和 Chrome）抱怨： Uncaught TypeError: Failed to resolve module specifier &quot;bootstrap&quot;.相对引用必须以“/”、“./”或“../”开头。 将导入更改为相对路径会使 tsc 抱怨找不到文件的声明。 所以，基本上，我被困住了。在谷歌上搜索和询问 copilot 和 phind 一个小时都没有带来任何有效的结果。我很感激任何建设性的帮助（不，“只是不要使用 typescript”是没有建设性的）。提前谢谢各位好心人！    提交人    /u/EinsPerson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7i4vs/asking_for_assistance_typescript_browsers_and/</guid>
       <pubDate>Thu, 05 Dec 2024 19:55:16 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>最适合 Access 数据库和经典 ASP 的网络主机？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7h6pf/best_web_host_for_an_access_database_and_classic/</link>
-      <description><![CDATA[大家好， 25 年前，我创建了一个网站，使用 Access 数据库和经典 ASP 至今仍在使用（梦幻足球）。不幸的是，我没有时间升级它。我当前的网络主机（Newtek，前身为 CrystalTech）在支持方面表现不佳。这令人遗憾。 有没有可以支持这些遗留技术的新网络主机的推荐？ 谢谢！ Axl    提交人    /u/AxlRush11   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 25 年前，我创建了一个网站，使用 Access 数据库和经典 ASP 至今仍在使用（梦幻足球）。不幸的是，我没有时间升级它。我当前的网络主机（Newtek，前身为 CrystalTech）在支持方面一落千丈。这真是令人遗憾。 有没有可以支持这些遗留技术的新网络主机的推荐？ 谢谢！ Axl    提交人    /u/AxlRush11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7h6pf/best_web_host_for_an_access_database_and_classic/</guid>
       <pubDate>Thu, 05 Dec 2024 19:15:12 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>MariaDB？我正要从 MS SQL 切换，印象中我应该使用 MySql，但我所有用于开发的典型工具都只有 MariaDB 选项</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7gsg4/mariadb_im_tasked_with_switching_away_from_ms_sql/</link>
-      <description><![CDATA[一旦项目投入生产，它将运行在我们自己的服务器上（稍后它将“在云中”），因此我可以安装我想要的任何 DBMS，但对于概念验证/开发服务器，我没有那么奢侈。 我了解 Maria 是 MySql 的一个分支，但我不知道是否应该关注其中的差异。 想法 / 建议？    提交人    /u/WeirdWebDev   [链接] [评论]]]></description>
+      <description><![CDATA[一旦项目投入生产，它将运行在我们自己的服务器上（稍后它将“在云中”），因此我可以安装我想要的任何 DBMS，但对于概念验证/开发服务器，我没有那么奢侈。 我知道 Maria 是 MySql 的一个分支，但我不知道是否应该关注其中的差异。 想法 / 建议？    提交人    /u/WeirdWebDev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7gsg4/mariadb_im_tasked_with_switching_away_from_ms_sql/</guid>
       <pubDate>Thu, 05 Dec 2024 18:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以帮助解决朋友的独特请求的网站或应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h7furi/looking_for_a_web_or_app_that_can_help_solve/</link>
-      <description><![CDATA[他希望在自己的网站上预加载数百个鼓励性音频片段，然后让用户选择他们需要鼓励的内容，然后系统会将自定义的音频片段与他上传的相应音频合并发送给他们。 有没有什么可以做到这一点的？    提交人    /u/borbafett1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h7furi/looking_for_a_web_or_app_that_can_help_solve/</guid>
-      <pubDate>Thu, 05 Dec 2024 18:20:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next Js React 网站现在无法正常工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h7eocq/next_js_react_website_not_working_now/</link>
-      <description><![CDATA[嗨，我正在构建这个作品集网站，并一直在尝试部署它。Git hub pages 无法工作（我不知道为什么），所以我尝试了 Vercel，但它也没有用，然后在我使用 gh 命令之后突然开始工作（我试图让它部署在 git hub pages 上） 本地主机 3000 现在显示“404 not found” 这是 vercel 链接，如您所见，我不知道为什么它看起来不像预期的那样，似乎没有 CSS（我正在使用 Tailwind CSS） https://portfolio-website-f8xios470-sarthak-jhas-projects-25666387.vercel.app/?vercelToolbarCode=UOlpi2CPDxmkiyb 这是我的 git hub repo 链接：https://github.com/sgsjha/Portfolio-Website 请帮忙    提交人    /u/SaxyBoiiiii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h7eocq/next_js_react_website_not_working_now/</guid>
-      <pubDate>Thu, 05 Dec 2024 17:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
