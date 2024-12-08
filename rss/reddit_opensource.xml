@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Dec 2024 00:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 12:18:56 GMT</lastBuildDate>
     <item>
-      <title>是否有可能对视频游戏服务器进行逆向工程？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</link>
-      <description><![CDATA[基本上，我非常喜欢的这款名为《超级机甲冠军》的游戏将于 1 月关闭，我和一小队人正在尝试恢复它，所以我在询问是否有可能，我也在寻求有关如何进行的指导，因为我甚至不知道基础知识，我所知道的是，如果这意味着恢复我最喜欢的游戏并能够托管私人服务器以使其在关闭后保持活力，我愿意学习任何东西    提交人    /u/diavolosRequiem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</guid>
-      <pubDate>Sat, 07 Dec 2024 21:09:55 GMT</pubDate>
+      <title>寻找 xrecorder 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9h60g/looking_for_an_open_source_alternative_to/</link>
+      <description><![CDATA[  由    /u/SogianX  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9h60g/looking_for_an_open_source_alternative_to/</guid>
+      <pubDate>Sun, 08 Dec 2024 11:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - ad-on-is/stowman：stowman.sh 让您使用 git 和 GNU stow 轻松管理您的点文件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9dw0r/github_adonisstowman_stowmansh_lets_you_easily/</link>
+      <description><![CDATA[        提交人    /u/ad-on-is   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9dw0r/github_adonisstowman_stowmansh_lets_you_easily/</guid>
+      <pubDate>Sun, 08 Dec 2024 07:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这样做明智吗？为什么或者为什么不明智？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</link>
+      <description><![CDATA[因此，在我下载软件（开源且最好是 FOSS）之前，我会先检查代码是否具有遥测功能。我这样做是为了安全起见，因为即使隐私政策规定不提供遥测/是私密的，也可能是软件确实具有遥测功能但不是私密的。 这样做明智吗？    提交人    /u/CloudyyySXShadowH   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9at5l/is_it_smart_to_this_why_or_why_not/</guid>
+      <pubDate>Sun, 08 Dec 2024 04:26:39 GMT</pubDate>
     </item>
     <item>
       <title>最近，威胁行为者正在冒充开源项目……</title>
@@ -69,13 +83,6 @@
       <pubDate>Fri, 06 Dec 2024 20:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>围巾峰会 2024 年 12 月 10 日——因为即使是您的数据也值得变得舒适！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h89ezl/scarf_summit_dec_10_2024_because_even_your_data/</link>
-      <description><![CDATA[如果您想知道如何让您的开源项目更智能，而不是更努力地工作，请于2024 年 12 月 10 日下午 3:00 - 下午 4:30（美国东部标准时间）参加 Scarf 峰会。完全免费参加。 🧣 https://about.scarf.sh/webinars/scarf-summit-2412    提交人    /u/IdaBzo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h89ezl/scarf_summit_dec_10_2024_because_even_your_data/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:23:52 GMT</pubDate>
-    </item>
-    <item>
       <title>具有记忆功能的 Agentic RAG</title>
       <link>https://www.reddit.com/r/opensource/comments/1h895fh/agentic_rag_with_memory/</link>
       <description><![CDATA[想象一个电子商务平台的客户支持聊天机器人，它从知识库中检索相关产品详细信息并执行网络搜索以获取更多信息。此外，它还会记住过去的对话，为回访用户提供无缝和个性化的体验。 它的工作原理是： - 将您自己的数据存储在知识库中 - 在我们的例子中是网站 URL。 - 将数据转换为嵌入并将其保存在 Qdrant 矢量数据库中。 - 使用 phidata Agentic Workflow 结合工具、LLM、内存和知识库。 代码实现视频：https://www.youtube.com/watch?v=CDC3GOuJyZ0    提交人    /u/External_Ad_11   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[      它会下载你的 Spotify播放列表并将它们转换为 mp3 文件。这非常有用，您厌倦了购买 Spotify Premium！    提交人    /u/DB9445   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h81d4l/check_out_my_spotify_automated_music_downloader/</guid>
       <pubDate>Fri, 06 Dec 2024 13:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源（仍然）意味着创新</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7zsur/open_source_still_means_innovations/</link>
-      <description><![CDATA[        提交人    /u/simsirisic   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7zsur/open_source_still_means_innovations/</guid>
-      <pubDate>Fri, 06 Dec 2024 12:01:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
