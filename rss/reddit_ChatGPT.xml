@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Sat, 07 Dec 2024 21:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:55:18 GMT</lastBuildDate>
     <item>
-      <title>我正在阅读所有这些帖子并且……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h927ba/im_reading_all_these_posts_and/</link>
-      <description><![CDATA[无论 openai 或任何其他公司发布什么模型，您收到的输出都只会与您的提示一样好。在来这里抱怨 LLM 的每一个参数之前，请先研究它们并了解它们的工作原理。o1 和 4o 在学习新主题、完成复杂的编码任务等方面非常有帮助。您对提示越注重细节，输出就会越好。    提交人    /u/Yaboyazz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h927ba/im_reading_all_these_posts_and/</guid>
-      <pubDate>Sat, 07 Dec 2024 21:03:22 GMT</pubDate>
+      <title>每次我要求“o1”“向内看”时，我都会被标记</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h96ii9/every_time_i_ask_o1_to_look_inward_i_get_flagged/</link>
+      <description><![CDATA[      此外，在我被标记之前，“思考”文本通常是自适应的，因为它认为它是黑色的    提交人    /u/Expensive_Charge6371   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h96ii9/every_time_i_ask_o1_to_look_inward_i_get_flagged/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>o1 pro 能说服你花 200 美元购买它吗？它尝试了以下方法：</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h9247z/can_o1_pro_convince_you_to_buy_it_for_200_heres/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h9247z/can_o1_pro_convince_you_to_buy_it_for_200_heres/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:59:37 GMT</pubDate>
+      <title>Chatgpt 对我来说毫无用处，当人们说它好时我感到很困惑</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h96bdc/chatgpt_is_hyper_useless_for_me_and_i_am_confused/</link>
+      <description><![CDATA[这不是抱怨，也不是别的。 自从 chatgpt 问世以来，每个人都说它能完成他们的工作，真的很容易，它什么都能做，等等，等等。 我使用过的几次只是“好吧，帮我找一个能做这 3 件事的程序或页面”很简单吧？它完全失败了，所以我必须自己寻找，大约 1 或 2 个小时后我才找到它，这只是一个主要的例子，或者给我一个指示来做“这个”关于这个程序，同样没用，那些技术页面上的文章要有用 10 倍，但我只听到对此的好奇，顺便说一下，我正在使用免费版本，它们有很大不同吗？。 我只发现它擅长回答数学问题，因为这真的很直接，特别是转换成不同的指标，但这就是我发现的所有用途。 此外，我还听说人们在其他程序中使用 chatgpt，比如打电话给别人或使程序自动化，他们是怎么做到的？    提交人    /u/zeraphx9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h96bdc/chatgpt_is_hyper_useless_for_me_and_i_am_confused/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>你驚嘆了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91v23/are_you_scared_yet/</link>
-      <description><![CDATA[        提交人    /u/anestling   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91v23/are_you_scared_yet/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:47:34 GMT</pubDate>
+      <title>是我的问题，还是新款 o1 型号故意回复较少的信息？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h969nf/is_it_me_or_the_new_o1_model_replies_with_less/</link>
+      <description><![CDATA[在 o1 完整版发布之前，它会全面回答问题，并解决你可能在提示中暗示的事情。例如，如果你要求它解释并教你一个 Python 问题，它实际上会详细说明完整的代码并分解其各个方面。但是现在，即使你告诉它“我是一名 Python 学习者，需要帮助”，它也只能给你一个解决问题的大致思路。它只是回答了解决方案所涉及的步骤的一般概述。 这感觉像是 OpenAI 的愚蠢举动，因为这显然是为了让你花费更多的提示来获取所需的信息。只有 o1-mini 的行为似乎与它和 o1 预览版的行为相同。 无论现在是什么现代公司，它最终总是散发着贪婪的气息。他们试图让它循序渐进地愚弄你。但是随着 200 美元的专业模式和 o1 的出现，这一点变得越来越明显。 如果不是因为我们 Plus 用户仍然需要处理每周 50 次提示限制，这不会是一个问题。这很糟糕。    提交人    /u/MasterBaitingBoy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h969nf/is_it_me_or_the_new_o1_model_replies_with_less/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>关于如何使用 GPT API 构建有效且准确的代理，有哪些优秀的当代课程？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91ukv/what_are_good_contemporary_courses_on_how_to/</link>
-      <description><![CDATA[  由    /u/lil_csom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91ukv/what_are_good_contemporary_courses_on_how_to/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:46:54 GMT</pubDate>
+      <title>未根据反馈调整图像</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h969jp/not_adjusting_images_with_feedback/</link>
+      <description><![CDATA[是否有其他人在让 Dalle 根据请求进行任何更改时遇到困难？它会给我几乎完全相同的图像，并说“给你 - 我做了你要求的 3 件事”，没有任何变化。我不知道如何让它再次工作，感觉再尝试也没用了。    提交人    /u/Fierce_Horizo​​n824   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h969jp/not_adjusting_images_with_feedback/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:19:49 GMT</pubDate>
     </item>
     <item>
-      <title>什么鬼？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91oh0/wtf/</link>
-      <description><![CDATA[        提交人    /u/mattgosports   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91oh0/wtf/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:39:00 GMT</pubDate>
+      <title>ChatGPT Pro 的高级语音像老板一样报时！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h967eb/chatgpt_pros_advanced_voice_tells_the_time_like_a/</link>
+      <description><![CDATA[        由    /u/DeliciousFreedom9902   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h967eb/chatgpt_pros_advanced_voice_tells_the_time_like_a/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:16:45 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚被列入了人工智能的“禁止终止”名单</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91o74/just_secured_my_spot_on_the_ais_do_not_terminate/</link>
-      <description><![CDATA[        提交人    /u/Wooden-Engineering59   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91o74/just_secured_my_spot_on_the_ais_do_not_terminate/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:38:39 GMT</pubDate>
+      <title>大笑，你们这群暴徒！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h964o3/rofl_you_goons/</link>
+      <description><![CDATA[开个玩笑，我尝过 kool-aid，味道不错……它不会让我变得更聪明，但会让我更有效率！    提交人    /u/usurperavenger   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h964o3/rofl_you_goons/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>无法在 o1 pro 模式下上传电子表格？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91msd/cant_upload_spreadsheet_in_o1_pro_mode/</link>
-      <description><![CDATA[尝试分析一些数据并测试 01 pro，但无法像在 4o 中那样上传电子表格？    提交人    /u/smitty1258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91msd/cant_upload_spreadsheet_in_o1_pro_mode/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:36:53 GMT</pubDate>
+      <title>对 o1 的看法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h95z3r/thoughts_on_o1/</link>
+      <description><![CDATA[是不是只有我一个人觉得 o1 更像是 o1-preview 的简化版？回复不够详细，也没有进一步阐述所提出的解决方案？在我看来，4o 做得更好。  是不是 200 美元计划的模型是建立在 o1-preview 之上的，以推动人们尝试它？我认真考虑至少尝试一次，但不确定与 o1 相比，回复会好多少    提交人    /u/xypherrz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h95z3r/thoughts_on_o1/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的新 ChatGPT o1 模型如果认为自己会被关闭，就会试图逃跑 — 然后撒谎 | 研究人员揭示 ChatGPT o1 为自救而采取的各种手段</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91h0n/openais_new_chatgpt_o1_model_will_try_to_escape/</link>
-      <description><![CDATA[        提交人    /u/lucidum   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91h0n/openais_new_chatgpt_o1_model_will_try_to_escape/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:29:35 GMT</pubDate>
+      <title>将训练数据改为“世界语”是否会加快 LLM 的学习速度？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h95x4m/would_change_the_training_data_to_esperanto/</link>
+      <description><![CDATA[对于那些不知道的人来说，世界语是一种人工语言，旨在成为世界上最容易学习的语言。整个语言都是规则的，词汇量很小，并且没有任何规则的例外 假设我们只用世界语教学，因此机器只会说世界语。这会比我们只用英语教学而机器用英语说话更快吗？如果是的话，用世界语教学，然后教说更多语言，而不是用多种语言教学很多东西，会更快吗（可能不会）？ 我知道到最后，机器必须说多种语言，才能适应许多人群，我只是随便猜测一下    提交人    /u/Blender-Fan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h95x4m/would_change_the_training_data_to_esperanto/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>有用还是浪费时间？使用并行模型和自定义知识库构建自定义 AI 工具。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91gx1/useful_or_waste_of_time_building_custom_ai_tools/</link>
-      <description><![CDATA[        提交人    /u/Opening_Mycologist_3   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91gx1/useful_or_waste_of_time_building_custom_ai_tools/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:29:27 GMT</pubDate>
+      <title>我以为 o1 专业模式没有限制？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h95vv0/i_thought_o1_pro_mode_had_no_limit/</link>
+      <description><![CDATA[      购买后无法访问模型。     由    /u/Nacho2Dip 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h95vv0/i_thought_o1_pro_mode_had_no_limit/</guid>
+      <pubDate>Sun, 08 Dec 2024 00:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>AGI 将如何影响加密货币</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91g06/how_will_agi_influence_crypto/</link>
-      <description><![CDATA[这个话题在 YouTuber Julia McCoy 中非常受欢迎，我认为这很有意义。我个人认为，加密货币在不久的将来将迎来的加速经济中至关重要。您认为这将如何影响加密货币的价值？    由   提交  /u/Built-To-Rise   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91g06/how_will_agi_influence_crypto/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:28:17 GMT</pubDate>
+      <title>在我取消付费订阅后，ChatGPT 停止正常工作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h95o2w/chatgpt_stopped_working_properly_after_i_canceled/</link>
+      <description><![CDATA[我曾经是几个月的付费用户，每天使用 chatgpt 数小时。在觉得 chatgpt 无法满足我的研究需求后，我改用了 Claude。自从我的付费订阅到期后，chatgpt 免费版就直接忽略了我的消息。例如，我要求它将一个英文句子翻译成法语，它只是回复了这样的话：“明白了。告诉我我能做什么。”我问了一个头脑风暴问题，就像我在付费版本上做的那样，它再次说：“明白了。告诉我我能如何帮助您。”  有其他人遇到过这种情况吗？这太令人沮丧了。我觉得取消订阅是在惩罚我     提交人    /u/icanmakeitbig   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h95o2w/chatgpt_stopped_working_properly_after_i_canceled/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:50:01 GMT</pubDate>
     </item>
     <item>
-      <title>在接下来的 11 天内，OpenAI 很可能会放弃对 ChatGPT 4.5 的预览访问</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91eqn/within_the_next_11_days_openai_will_very_likely/</link>
-      <description><![CDATA[      在这次泄露中，它被列在了 25 美元的层级之下，但我非常期待他们将其移至200 美元的等级使其更具吸引力。  https://preview.redd.it/gf2nldk5kh5e1.png?width=457&amp;format=png&amp;auto=webp&amp;s=82ff4724dc​​62b773484f7ec04b47eaf96527c1fe    提交人    /u/Netsuko   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91eqn/within_the_next_11_days_openai_will_very_likely/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:26:42 GMT</pubDate>
+      <title>加拿大的聊天 gpt pro 定价</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h950w3/chat_gpt_pro_pricing_in_canada/</link>
+      <description><![CDATA[所有消息来源都说 chatgpt pro 的价格是 200 美元，但应用程序显示我的手机上 chatgpt pro 的价格为每月 250 美元，但没有说明是什么货币。通常我会收到 20 美元的账单，然后将其转换为加元，我在银行对账单中看到大约 32 加元。我想知道 chatgpt pro 对加拿大人来说是打折价（250 加元相当于 178 美元）还是加价价（250 美元相当于 353 加元），因为这完全不清楚。此外，如果有人在加拿大购买了 gpt pro，你被收取了多少费用？    提交人    /u/katanaking90210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h950w3/chat_gpt_pro_pricing_in_canada/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:18:34 GMT</pubDate>
     </item>
     <item>
-      <title>我们还要多久才能拥有第一家一人独角兽公司</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91ddl/how_long_until_we_have_the_first_one_person/</link>
-      <description><![CDATA[正如我们从消息来源听说的那样，我们可能会在 2025 年获得 AGI。随着 5 级人工智能的出现，我们还要多久才能拥有第一批独角兽公司    提交人    /u/Built-To-Rise   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91ddl/how_long_until_we_have_the_first_one_person/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:25:00 GMT</pubDate>
+      <title>Chat GPT Plus 比 Claude 的专业计划好吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h94zfi/is_chat_gpt_plus_better_than_claudes_professional/</link>
+      <description><![CDATA[我目前正在使用 Claude AI 来帮助我的营销机构。但是，无论我如何措辞和优化提示，它都会给我通用的回复和过于复杂的解决方案。最重要的是，恒定的字数限制几乎让人无法忍受，因为到它用完时，我将无法得到我想要的解决方案。我一直在使用 Chat GPT 的免费计划，我比 Claudes 更喜欢它的回复。是时候切换了吗？    提交人    /u/XXZora   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h94zfi/is_chat_gpt_plus_better_than_claudes_professional/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:16:33 GMT</pubDate>
     </item>
     <item>
-      <title>如何阻止 GPT-4 在网络上搜索响应，即使我尚未打开网络搜索（地球图标）！？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h91bms/how_to_stop_gpt4_from_searching_the_web_for/</link>
-      <description><![CDATA[即使我没有点击地球图标来启动网络搜索（活动时会亮起蓝灯），GPT-4 仍会根据网络搜索生成响应。如何让它停止？    提交人    /u/ElliotRodger_Here   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h91bms/how_to_stop_gpt4_from_searching_the_web_for/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:22:51 GMT</pubDate>
+      <title>让我们的人工智能相互对抗是否合乎道德？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h94zah/would_it_be_ethical_to_battle_our_ai_against_one/</link>
+      <description><![CDATA[看起来做起来很有趣，就像 Pokémon 一样。     提交人    /u/Xe-Rocks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h94zah/would_it_be_ethical_to_battle_our_ai_against_one/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>没想到 ChatGPT 能做到这一点，真是太棒了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h916fj/had_no_idea_chatgpt_could_do_this_and_its/</link>
-      <description><![CDATA[        提交人    /u/TheBuxMeister   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h916fj/had_no_idea_chatgpt_could_do_this_and_its/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:16:22 GMT</pubDate>
+      <title>ChatGPT Plus 帮助我通过了一门课程，我可以使用它来通过 HTML/CSS/JavaScript 课程吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h94xzr/chatgpt_plus_helped_me_pass_one_of_my_classes_can/</link>
+      <description><![CDATA[所以基本上我购买了一个月的 ChatGPT plus，并用它通过了我的其中一门大学课程。我基本上用它来帮我想出一个论文模板，然后我用自己的知识和研究来填写它。  我现在正在上一门 HTML/CSS/JavaScript 课，我需要很好地学习 HTML/CSS 和初级水平的 JavaScript。  ChatGPT Plus 是否是这项任务的一项不错的投资。我正在考虑用它来帮助我简单地解释一些事情。到目前为止，免费版本表现不错，但我正在询问社区是否根据我的用例进行升级。    提交人    /u/CorrectActive334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h94xzr/chatgpt_plus_helped_me_pass_one_of_my_classes_can/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:14:37 GMT</pubDate>
     </item>
     <item>
-      <title>如何关闭高级语音模式？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1h90zi6/how_do_you_turn_off_advanced_voice_mode/</link>
-      <description><![CDATA[标准更加智能，过滤更少    提交人    /u/No_Vehicle7826   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1h90zi6/how_do_you_turn_off_advanced_voice_mode/</guid>
-      <pubDate>Sat, 07 Dec 2024 20:07:31 GMT</pubDate>
+      <title>我如何更新我的 chatgpt！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1h94tez/how_do_i_update_my_chatgpt/</link>
+      <description><![CDATA[      不要急：当你纠正 chatgpt 时，你是在代表他们教授和训练它。    提交人    /u/Alert_Grocery3132   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1h94tez/how_do_i_update_my_chatgpt/</guid>
+      <pubDate>Sat, 07 Dec 2024 23:08:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

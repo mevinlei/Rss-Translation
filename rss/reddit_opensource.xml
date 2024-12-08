@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 21:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:56:34 GMT</lastBuildDate>
+    <item>
+      <title>是否有可能对视频游戏服务器进行逆向工程？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</link>
+      <description><![CDATA[基本上，我非常喜欢的这款名为《超级机甲冠军》的游戏将于 1 月关闭，我和一小队人正在尝试恢复它，所以我在询问是否有可能，我也在寻求有关如何进行的指导，因为我甚至不知道基础知识，我所知道的是，如果这意味着恢复我最喜欢的游戏并能够托管私人服务器以使其在关闭后保持活力，我愿意学习任何东西    提交人    /u/diavolosRequiem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</guid>
+      <pubDate>Sat, 07 Dec 2024 21:09:55 GMT</pubDate>
+    </item>
     <item>
       <title>最近，威胁行为者正在冒充开源项目……</title>
       <link>https://www.reddit.com/r/opensource/comments/1h91zg0/threat_actors_are_impersonating_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[        提交人    /u/simsirisic   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7zsur/open_source_still_means_innovations/</guid>
       <pubDate>Fri, 06 Dec 2024 12:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的所有 GitHub 开源工作的任务板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7xedh/task_board_for_all_my_github_open_source_work/</link>
-      <description><![CDATA[  由    /u/baruchiro  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7xedh/task_board_for_all_my_github_open_source_work/</guid>
-      <pubDate>Fri, 06 Dec 2024 09:10:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
