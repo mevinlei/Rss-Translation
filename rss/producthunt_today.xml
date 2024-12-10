@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:21:15 GMT</lastBuildDate>
     <item>
       <title>床单包裹 2024</title>
       <link>https://www.producthunt.com/posts/sheets-wrapped-2024</link>
@@ -18,6 +18,20 @@ Spotify Wrapped for Google Sheets
 ]]></description>
       <guid>https://www.producthunt.com/posts/sheets-wrapped-2024</guid>
       <pubDate>Tue, 10 Dec 2024 03:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joi 规划师</title>
+      <link>https://www.producthunt.com/posts/joi-planner</link>
+      <description><![CDATA[
+日历 + 待办事项列表 + 习惯追踪器，集所有功能于一身
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/joi-planner</guid>
+      <pubDate>Mon, 09 Dec 2024 22:15:17 GMT</pubDate>
     </item>
     <item>
       <title>谷歌柳树</title>
@@ -46,20 +60,6 @@ Spotify Wrapped for Google Sheets
 ]]></description>
       <guid>https://www.producthunt.com/posts/sora-4</guid>
       <pubDate>Mon, 09 Dec 2024 19:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾姐</title>
-      <link>https://www.producthunt.com/posts/sora-ai</link>
-      <description><![CDATA[
-OpenAI 推出旗舰 AI 模型，可根据文本制作视频
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sora-ai</guid>
-      <pubDate>Mon, 09 Dec 2024 18:51:21 GMT</pubDate>
     </item>
     <item>
       <title>Git 动物</title>
@@ -118,6 +118,20 @@ OpenAI 推出旗舰 AI 模型，可根据文本制作视频
       <pubDate>Mon, 09 Dec 2024 05:16:56 GMT</pubDate>
     </item>
     <item>
+      <title>节奏脉冲</title>
+      <link>https://www.producthunt.com/posts/tempo-pulse</link>
+      <description><![CDATA[
+AI 驱动的音乐触觉体验
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tempo-pulse</guid>
+      <pubDate>Mon, 09 Dec 2024 04:11:55 GMT</pubDate>
+    </item>
+    <item>
       <title>开放漏斗</title>
       <link>https://www.producthunt.com/posts/openfunnel-1</link>
       <description><![CDATA[
@@ -130,20 +144,6 @@ OpenAI 推出旗舰 AI 模型，可根据文本制作视频
 ]]></description>
       <guid>https://www.producthunt.com/posts/openfunnel-1</guid>
       <pubDate>Sat, 07 Dec 2024 03:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>后期护理</title>
-      <link>https://www.producthunt.com/posts/aftercare</link>
-      <description><![CDATA[
-基于人工智能的调查，提供深入的用户反馈
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/aftercare</guid>
-      <pubDate>Thu, 05 Dec 2024 18:11:45 GMT</pubDate>
     </item>
     <item>
       <title>斑马猫 2.0</title>

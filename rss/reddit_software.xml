@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:20:46 GMT</lastBuildDate>
+    <item>
+      <title>三星 Multicontrol/Apple Universal Control 类似开源软件 (Windows-Android)</title>
+      <link>https://www.reddit.com/r/software/comments/1haywcp/samsung_multicontrolapple_universal_control_alike/</link>
+      <description><![CDATA[Samsung Multicontrol 和 Apple 的 Universal Control 均能帮助您使用笔记本电脑上的光标和键盘，并将其用作手机上的输入方式，同时还能进行拖放文件共享 是否有开源软件（或至少一个不受任何特定生态系统束缚的应用程序）可以帮助实现相同的结果？ 请不要分享可帮助您在 PC 上查看 Android 屏幕的应用程序，或可将您的手机变成光标的应用程序 祝您有美好的一天！    提交人    /u/srvvy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1haywcp/samsung_multicontrolapple_universal_control_alike/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1hay45c/instagram_downloader/</link>
+      <description><![CDATA[是否有任何方法可以通过分享个人资料网址来批量下载 insta reels ？    提交人    /u/Sonulob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hay45c/instagram_downloader/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以同步所有网站的 myanimelist 之类的东西</title>
       <link>https://www.reddit.com/r/software/comments/1hawz02/is_there_such_thing_as_myanimelist_sync_for_all/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>视频质量降低</title>
       <link>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</link>
-      <description><![CDATA[是否有网站、软件或其他简单的方法可以彻底破坏视频的图像和音频质量？比如可笑的大幅降级？提前致谢    提交人    /u/FoxPlayz_121   [link] [comments]]]></description>
+      <description><![CDATA[是否有网站、软件或其他简单方法可以彻底破坏视频的图像和音频质量？比如可笑的大幅降级？提前致谢    提交人    /u/FoxPlayz_121   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</guid>
       <pubDate>Mon, 09 Dec 2024 22:18:00 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>寻求具有印地语支持和 OCR 的免费数字文档管理解决方案。</title>
       <link>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</link>
-      <description><![CDATA[背景：我是拉贾斯坦邦政府的一名官员，经常处理错综复杂的法律和监管文件，例如： \- 政府规章制度 \- 官方命令和通告 \- 法定指南 \- 立法行为 主要挑战： \- 频繁修订 \- 定期更新和修订章节和小节 \- 需要整合的新命令/通告 \- 文档格式问题 \- 大多数文档都是印地语，可作为扫描的 PDF 或 jpeg 图像使用 \- 文档工作期间需要进行大量交叉引用 \- 当前的痛点 \- 搜索和检索耗时 \- 手动管理效率低下 \- 缺乏精简的组织 数字解决方案的要求： \- 与 MacBook 兼容 \- 支持多语言（印地语）文档，使用 OCR 进行文档内搜索 \- 强大的全文搜索和标记功能 \- 能够处理多种文件格式（jpeg、PDF 等） \- 免费或经济实惠  具体问题： \- 是否有免费工具或平台可以帮助我全面应对这些挑战？ \- 在为工作选择文档管理系统时，我应该优先考虑哪些功能？  如果那些管理复杂文档工作流程的人能提供任何建议或推荐，我将不胜感激！    提交人    /u/Yathasambhav   [链接] [评论]]]></description>
+      <description><![CDATA[背景：我是拉贾斯坦邦政府的一名官员，经常处理错综复杂的法律和监管文件，例如： \- 政府规章制度 \- 官方命令和通告 \- 法定指南 \- 立法行为 主要挑战： \- 频繁修订 \- 定期更新和修订章节和小节 \- 需要整合的新命令/通告 \- 文档格式问题 \- 大多数文档都是印地语，可作为扫描的 PDF 或 jpeg 图像使用 \- 文档工作期间需要进行大量交叉引用 \- 当前的痛点 \- 搜索和检索耗时 \- 手动管理效率低下 \- 缺乏精简的组织 数字解决方案的要求： \- 与 MacBook 兼容 \- 支持多语言（印地语）文档，可使用 OCR 进行文档内搜索 \- 强大的全文搜索和标记功能 \- 能够处理多种文件格式（jpeg、PDF 等） \- 免费或经济实惠  具体问题： \- 是否有免费工具或平台可以帮助我全面应对这些挑战？ \- 在为工作选择文档管理系统时，我应该优先考虑哪些功能？  如果能得到那些管理复杂文档工作流程的人的任何建议或推荐，我将不胜感激！    提交人    /u/Yathasambhav   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</guid>
       <pubDate>Mon, 09 Dec 2024 18:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>CLIwrap - Spotify 为您的终端打包</title>
-      <link>https://www.reddit.com/r/software/comments/1haenag/cliwrap_spotify_wrapped_for_your_terminal/</link>
-      <description><![CDATA[嗨，Linux/MacOS 用户！（或者我应该说是开发人员？） 我们开发了一个类似 Spotify Wrapped 的应用程序，它将重现您终端上最常用的命令。我们现在使用的是 0.9.2 版本，希望大家能对它提出反馈！ https://cli.musti.codes https://github.com/islemci/cliwrap     提交人    /u/NoAct2994   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1haenag/cliwrap_spotify_wrapped_for_your_terminal/</guid>
-      <pubDate>Mon, 09 Dec 2024 17:10:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>yt5s 现在允许下载 YouTube 视频 - 还有其他选择吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1hacuom/yt5s_does_now_allow_to_download_youtube_videos/</link>
-      <description><![CDATA[截至 12/1/24，YT5s 已正式停止支持从 YouTube 平台下载视频。 还有其他网站免费提供相同的服务吗？ 如果不是基于浏览器的应用程序，您会推荐哪个其他免费应用程序？ 谢谢    提交人    /u/Select_Rip_8230   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hacuom/yt5s_does_now_allow_to_download_youtube_videos/</guid>
-      <pubDate>Mon, 09 Dec 2024 15:55:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
