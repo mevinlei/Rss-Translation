@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Dec 2024 21:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:53:07 GMT</lastBuildDate>
+    <item>
+      <title>显示每位首席执行官的网站</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</link>
+      <description><![CDATA[谁想要建立一个网站，列出每个 CEO 的名字，并附上他们的照片，可能还链接到他们的专业网站，如 LinkedIn 😀  如果是这样，请联系我，我们可以在 github 上启动一个 repo 并开始工作。    提交人    /u/link30224   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:31:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>观点：微软商店流行的 FOSS 软件收费策略弊大于利</title>
+      <link>https://www.reddit.com/r/opensource/comments/1halxit/opinion_a_popular_strategy_of_charging_for_foss/</link>
+      <description><![CDATA[当我还是 Windows 用户时，我需要使用 SCP 发送一些文件。我查找了支持它的开源软件，一些网站（或者是 LLM？）推荐了 WinSCP。没有进一步阅读，我打开了 Microsoft Store，看到该应用程序的价格标签相当高（MS Store 无论如何都不支持从我的国家/地区购买）。所以我搜索了“WinSCP 的开源替代品”。  等等，这个网站说它是开源的？ 哦，它可以从他们的官方网站免费下载？ 那为什么要标价呢？ 那天晚上，我发现了开源产品之间的一个共同策略：制作一个付费的商店版本，以便那些愿意信任微软而不是某个随机网站来管理他们的银行帐户信息的人可以支持他们的产品。 这似乎是个好主意，出于好意。但是现在有些人（例如以前的“iPad 孩子”）只使用 MS 商店下载东西：向导对他们来说太难了。有些计算机只能从此商店安装应用程序（Windows 的“S”版本，其中向导被禁用以增加安全性。您会将某些东西安装到儿童或老年人的 PC 上）。  这样的人，在看到价格后，因为“开源”（“多么奇怪的词……”）而被推荐使用“LibreOffice”，不会费心去弄清楚官方网站上是否有此套件的免费版本（我已经在 Reddit 评论中看到这种混乱）。他们会继续前进，在搜索栏中输入“Office 套件”，按“免费”排序…… “好吧，列表中的第一个是什么……“EasyOffice”？当然，这不是一个偷懒的 LibreOffice 分支，其中一些功能是付费的。“WPS Office”？当然，这不是一个专有的中文办公套件，其底层使用 .docx，会将我的所有数据发送给 CCP。“Apache OpenOffice”？当然，它是一种现代的、最新的解决方案”。 归根结底，这样的策略对 FLOSS 产品用户群的伤害大于它对额外资金的帮助。    提交人    /u/Qwert-4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1halxit/opinion_a_popular_strategy_of_charging_for_foss/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>将手绘平面图转换为专业平面图</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hakvmv/converting_hand_drawn_floor_plan_to_professional/</link>
+      <description><![CDATA[所以，希望得到一些想法。我正在尝试看看是否有办法转换手绘楼层地图，有点像：https://www.reddit.com/r/floorplan/comments/1aepd6n/are_there_any_tools_that_can_magically_turn_my/ 变成更像这样的东西：https://cubicasa-wordpress-uploads.s3.amazonaws.com/uploads/2019/07/simple-stylish-1024x991.png 稳定的扩散模型往往会产生过多的幻觉，从而无法生成与原始绘制布局有一定相似之处的东西。 因此，我尝试采用程序化方法，一旦我有一个半像样的计算机生成的手绘图像的模仿，我就可以使用代理进行迭代以添加标签并进行改进。 我试过：  将图像传递给 LLM，并附带指示以返回 pycairo 或 shapely 的绘图说明。 （失败了，甚至 GPT4o 在说明中也失败得很惨。几乎就像它能理解图像但没有空间理解（希望任何人都能理解这一点）） 尝试使用 ezdxf 进行 CAD 绘图，因为我认为问题可能出在 LLM 生成 pycairo 指令上。 （也失败了，甚至比 pycairo 指令更糟糕） 现在使用 VTrace 将其转换为 SVG 作为矢量化表示，它可以更轻松地检测线条、多边形等。将其输入（通过翻译函数）pycairo 以获取一组需要遵循的指令来绘制它。接下来将说明传递给 LLM 来回编辑，直到获得好的产品。但是，我仍然不确定 LLM 是否真的能够理解或提供有用的反馈来编辑绘图说明（它甚至可以吗？）  所以联系一下，有人遇到过类似的事情吗？有任何开源模型尝试模拟我正在做的事情吗？对这个过程有什么想法吗？或者任何可以提供帮助的模型等。 谢谢    提交人    /u/EconBro95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hakvmv/converting_hand_drawn_floor_plan_to_professional/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:26:02 GMT</pubDate>
+    </item>
     <item>
       <title>为我推荐一款适用于金融科技初创公司的 OS 钱包管理（后端）系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1hajx75/recommend_me_an_os_wallet_managementbackend/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>与您的电子邮件配合使用的消息应用程序。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</link>
-      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。 https://github.com/ThriveEngineer/messages    由   提交  /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</guid>
       <pubDate>Sun, 08 Dec 2024 17:05:01 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/_dubadub_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9jai4/developing_a_filesync_library/</guid>
       <pubDate>Sun, 08 Dec 2024 13:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>fitting-toolkit v1.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h9iydo/fittingtoolkit_v10_released/</link>
-      <description><![CDATA[我很自豪地宣布，python 包 fitting-toolkit 现已发布到 pip，并且在头两天内已经安装了 200 多次。 拟合工具包提供了曲线拟合和置信区间计算的解决方案，但是比 kafe2 等包更易于使用并产生更清晰的图形。 安装 安装包的最简单方法是通过 pip： pip install fitting-toolkit  但是您也可以从 github 页面下载所有版本，或者自己构建最新的开发版本： https://github.com/davidkowalk/fitting_toolkit 贡献 我已经基本构建了这个包我自己，但说这都是我的工作则言过其实。除了另一位直接贡献者之外，这个项目很大程度上基于我同事的工作，如果没有我的教授和顾问的建议，这个项目是不可能实现的。为了提供更多功能，我正在寻求帮助。该项目托管在 GitHub 上，每个版本的开发都在专用分支上完成。 路线图 在我继续开发 1.0 版、修复错误和扩充文档的同时，我也在开发 1.1 版。此版本旨在扩大项目范围并添加科学工作所需的关键功能。现在计划提供以下功能： - 替代拟合程序（最大似然/贝叶斯） - 多维输入变量 - 支持通过引导和最大似然轻松进行概率拟合    提交人    /u/PixelRayn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h9iydo/fittingtoolkit_v10_released/</guid>
-      <pubDate>Sun, 08 Dec 2024 13:34:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何邀请人们加入我的开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h9ijpb/how_to_invite_people_on_my_open_source_projects/</link>
-      <description><![CDATA[我正在从事各种软件项目，想让其他人加入我的项目。如何邀请他们？    提交人    /u/Maleficent_Mess6445   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h9ijpb/how_to_invite_people_on_my_open_source_projects/</guid>
-      <pubDate>Sun, 08 Dec 2024 13:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML5动画软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h9hroj/html_5_animation_software/</link>
-      <description><![CDATA[嗨，有人知道任何不错的开源 HTML 5 动画软件吗？我有一个客户正在寻找除 Google Web Designer 之外的其他东西，因此我认为开源空间中应该有可用的东西。谢谢！    提交人    /u/napleswebguy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h9hroj/html_5_animation_software/</guid>
-      <pubDate>Sun, 08 Dec 2024 12:24:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

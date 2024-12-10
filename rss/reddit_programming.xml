@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Dec 2024 21:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:52:50 GMT</lastBuildDate>
+    <item>
+      <title>什么是高阶组件 (HOC)？综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1hanm9u/what_are_higherorder_components_hocs_a/</link>
+      <description><![CDATA[  由    /u/landonwjohnson  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hanm9u/what_are_higherorder_components_hocs_a/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>🎉 Socket-Flow 更新：新功能和压缩支持！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hamwdm/socketflow_updates_new_features_and_compression/</link>
+      <description><![CDATA[  由    /u/felipemeriga  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hamwdm/socketflow_updates_new_features_and_compression/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于协同编辑的谎言（一）：离线编辑算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1haknnc/lies_i_was_told_about_collaborative_editing_part/</link>
+      <description><![CDATA[  由    /u/hausdorff_spaces  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1haknnc/lies_i_was_told_about_collaborative_editing_part/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>NanoCode - 一个简约、开源、轻量级的代码编辑器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hakkak/nanocode_a_minimalistic_opensource_and/</link>
+      <description><![CDATA[  由    /u/AzEStudios  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hakkak/nanocode_a_minimalistic_opensource_and/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:12:55 GMT</pubDate>
+    </item>
     <item>
       <title>具有记忆功能的 Agentic RAG</title>
       <link>https://www.reddit.com/r/programming/comments/1hak2cq/agentic_rag_with_memory/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hak25t/memorysafe_png_decoders_now_vastly_outperform_c/</guid>
       <pubDate>Mon, 09 Dec 2024 20:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI：索拉</title>
-      <link>https://www.reddit.com/r/programming/comments/1haifva/openai_sora/</link>
-      <description><![CDATA[  由    /u/tchanu06  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1haifva/openai_sora/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:44:56 GMT</pubDate>
     </item>
     <item>
       <title>司机被派往非洲</title>
@@ -41,7 +62,7 @@
       <pubDate>Mon, 09 Dec 2024 19:07:12 GMT</pubDate>
     </item>
     <item>
-      <title>逆向工程的 Pentium FDIV 漏洞</title>
+      <title>逆向工程：奔腾 FDIV 漏洞</title>
       <link>https://www.reddit.com/r/programming/comments/1hahj8b/the_pentium_fdiv_bug_reverseengineered/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hahj8b/the_pentium_fdiv_bug_reverseengineered/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hahggv/data_structures_as_jigs_for_programmers_go_edition/</guid>
       <pubDate>Mon, 09 Dec 2024 19:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust Futures 并不一定会变得懒惰</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahg80/rust_futures_are_not_guaranteed_to_be_lazy/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahg80/rust_futures_are_not_guaranteed_to_be_lazy/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Justin Schuh 和 Matthew Green 的 Dual_EC_DRBG（音频和文字记录）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahftq/dual_ec_drbg_with_justin_schuh_and_matthew_green/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahftq/dual_ec_drbg_with_justin_schuh_and_matthew_green/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>每秒解析数百万个 URL</title>
-      <link>https://www.reddit.com/r/programming/comments/1hahfdf/parsing_millions_of_urls_per_second/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hahfdf/parsing_millions_of_urls_per_second/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:02:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
