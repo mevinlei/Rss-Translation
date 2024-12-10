@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 10 Dec 2024 00:53:07 GMT</lastBuildDate>
-    <item>
-      <title>显示每位首席执行官的网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</link>
-      <description><![CDATA[谁想要建立一个网站，列出每个 CEO 的名字，并附上他们的照片，可能还链接到他们的专业网站，如 LinkedIn 😀  如果是这样，请联系我，我们可以在 github 上启动一个 repo 并开始工作。    提交人    /u/link30224   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hanr5e/website_that_shows_every_ceo/</guid>
-      <pubDate>Mon, 09 Dec 2024 23:31:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Dec 2024 03:32:11 GMT</lastBuildDate>
     <item>
       <title>观点：微软商店流行的 FOSS 软件收费策略弊大于利</title>
       <link>https://www.reddit.com/r/opensource/comments/1halxit/opinion_a_popular_strategy_of_charging_for_foss/</link>
@@ -99,7 +92,7 @@
     <item>
       <title>与您的电子邮件配合使用的消息应用程序。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</link>
-      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。 https://github.com/ThriveEngineer/messages    由   提交  /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[嗨，今天我发布了一款可与您的电子邮件配合使用的消息应用程序，它是开源的。它也有 Nothing 样式，但您也可以选择正常样式。https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9ncck/a_messaging_app_that_works_with_your_email/</guid>
       <pubDate>Sun, 08 Dec 2024 17:05:01 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[  由    /u/_dubadub_  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h9jai4/developing_a_filesync_library/</guid>
       <pubDate>Sun, 08 Dec 2024 13:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>fitting-toolkit v1.0 发布</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h9iydo/fittingtoolkit_v10_released/</link>
+      <description><![CDATA[我很自豪地宣布，python 包 fitting-toolkit 现已发布到 pip，并且在头两天内已经安装了 200 多次。 拟合工具包提供了曲线拟合和置信区间计算的解决方案，但是比 kafe2 等包更易于使用并产生更清晰的图形。 安装 安装包的最简单方法是通过 pip： pip install fitting-toolkit  但是您也可以从 github 页面下载所有版本，或者自己构建最新的开发版本： https://github.com/davidkowalk/fitting_toolkit 贡献 我已经基本构建了这个包我自己，但说这都是我的工作则言过其实。除了另一位直接贡献者之外，这个项目很大程度上基于我同事的工作，如果没有我的教授和顾问的建议，这个项目是不可能实现的。为了提供更多功能，我正在寻求帮助。该项目托管在 GitHub 上，每个版本的开发都在专用分支上完成。 路线图 在我继续开发 1.0 版、修复错误和扩充文档的同时，我也在开发 1.1 版。此版本旨在扩大项目范围并添加科学工作所需的关键功能。现在计划提供以下功能： - 替代拟合程序（最大似然/贝叶斯） - 多维输入变量 - 支持通过引导和最大似然轻松进行概率拟合    提交人    /u/PixelRayn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h9iydo/fittingtoolkit_v10_released/</guid>
+      <pubDate>Sun, 08 Dec 2024 13:34:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
