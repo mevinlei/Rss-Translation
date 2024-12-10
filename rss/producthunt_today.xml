@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Dec 2024 15:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:16:12 GMT</lastBuildDate>
     <item>
       <title>床单包裹 2024</title>
       <link>https://www.producthunt.com/posts/sheets-wrapped-2024</link>
@@ -18,6 +18,20 @@ Spotify Wrapped for Google Sheets
 ]]></description>
       <guid>https://www.producthunt.com/posts/sheets-wrapped-2024</guid>
       <pubDate>Tue, 10 Dec 2024 03:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>水星个人</title>
+      <link>https://www.producthunt.com/posts/mercury-personal</link>
+      <description><![CDATA[
+Mercury 上功能强大的个人和联合账户。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/mercury-personal</guid>
+      <pubDate>Mon, 09 Dec 2024 23:44:23 GMT</pubDate>
     </item>
     <item>
       <title>Joi 规划师</title>
@@ -62,6 +76,20 @@ Spotify Wrapped for Google Sheets
       <pubDate>Mon, 09 Dec 2024 19:43:38 GMT</pubDate>
     </item>
     <item>
+      <title>Git 动物</title>
+      <link>https://www.producthunt.com/posts/gitanimals</link>
+      <description><![CDATA[
+根据您的 GitHub 活动培育您自己的宠物
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/gitanimals</guid>
+      <pubDate>Mon, 09 Dec 2024 11:32:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Bolt.new Chrome 扩展程序</title>
       <link>https://www.producthunt.com/posts/bolt-new-chrome-extension</link>
       <description><![CDATA[
@@ -104,20 +132,6 @@ Spotify Wrapped for Google Sheets
       <pubDate>Mon, 09 Dec 2024 05:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>格三</title>
-      <link>https://www.producthunt.com/posts/gr-iii-d</link>
-      <description><![CDATA[
-设计您自己的数字笔记本/日记本页面和封面
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/gr-iii-d</guid>
-      <pubDate>Mon, 09 Dec 2024 05:16:56 GMT</pubDate>
-    </item>
-    <item>
       <title>节奏脉冲</title>
       <link>https://www.producthunt.com/posts/tempo-pulse</link>
       <description><![CDATA[
@@ -130,6 +144,20 @@ AI 驱动的音乐触觉体验
 ]]></description>
       <guid>https://www.producthunt.com/posts/tempo-pulse</guid>
       <pubDate>Mon, 09 Dec 2024 04:11:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放漏斗</title>
+      <link>https://www.producthunt.com/posts/openfunnel-1</link>
+      <description><![CDATA[
+面向 AI-First GTM 团队的个性化代理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/openfunnel-1</guid>
+      <pubDate>Sat, 07 Dec 2024 03:06:37 GMT</pubDate>
     </item>
     <item>
       <title>后期护理</title>
@@ -172,34 +200,6 @@ AI 驱动的音乐触觉体验
 ]]></description>
       <guid>https://www.producthunt.com/posts/adjust-page-brightness</guid>
       <pubDate>Thu, 05 Dec 2024 11:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷门托</title>
-      <link>https://www.producthunt.com/posts/remento</link>
-      <description><![CDATA[
-为亲人撰写传记的人工智能
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/remento</guid>
-      <pubDate>Sat, 30 Nov 2024 04:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clarity.AI</title>
-      <link>https://www.producthunt.com/posts/clarity-ai</link>
-      <description><![CDATA[
-将日程聊天截图转换为日历事件和任务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/clarity-ai</guid>
-      <pubDate>Wed, 27 Nov 2024 21:34:25 GMT</pubDate>
     </item>
     <item>
       <title>导师人工智能</title>

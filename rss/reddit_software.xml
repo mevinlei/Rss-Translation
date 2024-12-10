@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 10 Dec 2024 12:20:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:15:41 GMT</lastBuildDate>
+    <item>
+      <title>寻找免费的 Microsoft Access 替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1hb5qlt/looking_for_a_free_microsoft_access_alternitive/</link>
+      <description><![CDATA[嘿，我是一名学生，我有一些涉及 Microsoft Access 的家庭作业即将完成，但当然我目前没有在计算机上安装它，所以我想知道是否有人知道任何可以读取 Microsoft Access 中创建的数据库的免费替代品，因为我已经完成了我正在学习的大部分家庭作业，只是我在家里没有应用程序来完成它    提交人    /u/Luna2268   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hb5qlt/looking_for_a_free_microsoft_access_alternitive/</guid>
+      <pubDate>Tue, 10 Dec 2024 16:31:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择指南软件 - 供客户查看选项、做出选择和文件批准</title>
+      <link>https://www.reddit.com/r/software/comments/1hb5qki/selection_guide_software_for_clients_to_review/</link>
+      <description><![CDATA[我们正在寻找一款交互式在线选择指南软件。我们的行业是室内设计，我们希望找到一款可以向客户展示选项（产品图片和相关名称）的软件，客户可以查看、评论和批准。审批流程以某种方式记录下来，通过审批电子邮件或软件审计日志。该软件不必专门用于“室内设计”，我们只需要简单且具有这些功能的软件。谢谢    提交人    /u/solo1solo2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hb5qki/selection_guide_software_for_clients_to_review/</guid>
+      <pubDate>Tue, 10 Dec 2024 16:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>元数据编辑软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1hb3z4t/metadata_editing_software/</link>
+      <description><![CDATA[大家好，我正在尝试为我的媒体服务器寻找一个可以处理电影、音乐、有声读物、epub、电视节目等的优秀元数据编辑器。要么烘焙元数据，要么创建我的服务器可以读取的 NFO 文件。任何帮助都非常感谢。我知道 calibre 可以处理书籍，mp3tag 可以处理音乐，但我还没有找到一个可以处理所有事情的好编辑器。如果您知道任何编辑器，请告诉我！    提交人    /u/Mxwhite484   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hb3z4t/metadata_editing_software/</guid>
+      <pubDate>Tue, 10 Dec 2024 15:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winautomation 还存在吗？如果没有，还有其他选择吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1hb3i4l/does_winautomation_still_exist_if_not_are_there/</link>
+      <description><![CDATA[我从 winautomation.com 下载了它，但看起来微软已经收购了他们，我不知道在哪里可以买到这个软件。我正在寻找一个可以在下班后在 Windows 中为我运行程序的 RPA。谢谢。    提交人    /u/Sad-Maize-5211   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hb3i4l/does_winautomation_still_exist_if_not_are_there/</guid>
+      <pubDate>Tue, 10 Dec 2024 14:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么软件可以设计用于打印的 3d 模型（免费的更好）</title>
+      <link>https://www.reddit.com/r/software/comments/1hb1u8b/is_there_any_software_to_design_3d_models_for/</link>
+      <description><![CDATA[你好，我今年 17 岁，我想为 arduino 项目的基础制作基本的 3D 模型，我正在寻找这样的软件，它可以帮助我创建可以使用学校的 3D 打印机打印的 3D 模型，请帮助这个家伙。 谢谢。    提交人    /u/averagesoyabeameater   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hb1u8b/is_there_any_software_to_design_3d_models_for/</guid>
+      <pubDate>Tue, 10 Dec 2024 13:33:48 GMT</pubDate>
+    </item>
     <item>
       <title>三星 Multicontrol/Apple Universal Control 类似开源软件 (Windows-Android)</title>
       <link>https://www.reddit.com/r/software/comments/1haywcp/samsung_multicontrolapple_universal_control_alike/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好，昨天我卸载了 Norton，并决定放弃该程序，因为从 Reddit 用户那里听说我可以继续使用这款新联想 Yoga Slim 7x 附带的 Windows Defender 进行防病毒保护。 由于我仍然想要 VPN，所以我想试试 Surfshark；但是现在，它无法连接到任何位置，甚至无法连接到静态 IP。该程序下载正常，我可以打开 Surfshark 应用程序，但为什么我无法连接到 VPN？有什么想法吗？（VPN 是否因 Windows Defender 而过时？我对 VPN 感兴趣，因为我经常使用公共 WiFi 工作。） 请注意，我是新手！如果您能提供任何帮助，我将不胜感激。谢谢！原始帖子在这里：新手在这里：联想 Yoga Slim 7x 的诺顿订阅？：r/software    提交人    /u/yk4787   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hanvvv/surfshark_vpn_on_lenovo_yoga_slim_7x/</guid>
       <pubDate>Mon, 09 Dec 2024 23:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频质量降低</title>
-      <link>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</link>
-      <description><![CDATA[是否有网站、软件或其他简单方法可以彻底破坏视频的图像和音频质量？比如可笑的大幅降级？提前致谢    提交人    /u/FoxPlayz_121   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</guid>
-      <pubDate>Mon, 09 Dec 2024 22:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的屏幕录像机？</title>
-      <link>https://www.reddit.com/r/software/comments/1halqvf/simple_screen_recorder/</link>
-      <description><![CDATA[我想要一些简单的东西，不要提及OBS。 我想录制一个网页游戏，我用过的所有屏幕录像机都因为某种原因质量不高。    提交人    /u/WindAppleHcx   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1halqvf/simple_screen_recorder/</guid>
-      <pubDate>Mon, 09 Dec 2024 22:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在业余时间编写了 ReadHero，这是 iOS 上唯一一款你需要的图书应用程序。你喜欢它吗？:)</title>
-      <link>https://www.reddit.com/r/software/comments/1hakhh6/in_my_spare_time_i_programmed_readhero_the_only/</link>
-      <description><![CDATA[https://apps.apple.com/de/app/readhero-remember-books/id6450433398 我和我的兄弟很高兴推出我们的应用程序 ReadHero - 一个我们用零预算但却倾注了无数心血 ❤️ 打造的激情项目。我们希望让追踪书籍变得有趣、有用且鼓舞人心，无论他们读了多少（或少！）！ 📚 什么是 ReadHero？ 使用 ReadHero，您可以：  追踪书籍：使用易于使用的书签标记您的进度，并将所有阅读统计数据保存在一个地方。  自定义小部件：直接从主屏幕快速查看您的阅读目标、当前阅读和进度。  做笔记：使用我们的编辑器做笔记，甚至使用 AI 文本识别将您的实体读书笔记转换为数字笔记。不再丢失那些宝贵的亮点！   🌟 我们为什么构建它 我们只是两个热爱阅读的兄弟，并希望做出读者也会喜欢的东西。我们免费使用 ReadHero，因为我们相信构建任何人都可以访问的工具，没有任何附加条件。 🚀 尝试一下并留下评论！ 如果您能试用 ReadHero 并给我们留下评论，我们将不胜感激。您的反馈可以帮助我们做得更好。 📈 谢谢，祝您阅读愉快！ 📖    提交人    /u/No_Part_1410   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hakhh6/in_my_spare_time_i_programmed_readhero_the_only/</guid>
-      <pubDate>Mon, 09 Dec 2024 21:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找媒体播放器（Windows11）</title>
-      <link>https://www.reddit.com/r/software/comments/1hajnza/looking_for_a_media_player_windows11/</link>
-      <description><![CDATA[嗨，使用 KMPlayer 一段时间后，我需要更好的东西（因为每次都会弹出更新信息，这太烦人了）。我尝试过 VLC，但 UI 很垃圾，似乎无法自动将界面缩回全屏。我也使用过 Mirillis Splash Pro，在我看来，它拥有最好的 UI，但它已经过时，缺少一些关键功能（如字幕字体大小调整或更详细的（当前令人困惑）字幕同步）。 我也尝试过 PotPlayer（由 KMPlayer 的同一创建者制作），但 UI 变化太大，我无法习惯它。    由   提交 /u/Fit-Investment-7384   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hajnza/looking_for_a_media_player_windows11/</guid>
-      <pubDate>Mon, 09 Dec 2024 20:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求具有印地语支持和 OCR 的免费数字文档管理解决方案。</title>
-      <link>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</link>
-      <description><![CDATA[背景：我是拉贾斯坦邦政府的一名官员，经常处理错综复杂的法律和监管文件，例如： \- 政府规章制度 \- 官方命令和通告 \- 法定指南 \- 立法行为 主要挑战： \- 频繁修订 \- 定期更新和修订章节和小节 \- 需要整合的新命令/通告 \- 文档格式问题 \- 大多数文档都是印地语，可作为扫描的 PDF 或 jpeg 图像使用 \- 文档工作期间需要进行大量交叉引用 \- 当前的痛点 \- 搜索和检索耗时 \- 手动管理效率低下 \- 缺乏精简的组织 数字解决方案的要求： \- 与 MacBook 兼容 \- 支持多语言（印地语）文档，可使用 OCR 进行文档内搜索 \- 强大的全文搜索和标记功能 \- 能够处理多种文件格式（jpeg、PDF 等） \- 免费或经济实惠  具体问题： \- 是否有免费工具或平台可以帮助我全面应对这些挑战？ \- 在为工作选择文档管理系统时，我应该优先考虑哪些功能？  如果能得到那些管理复杂文档工作流程的人的任何建议或推荐，我将不胜感激！    提交人    /u/Yathasambhav   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
