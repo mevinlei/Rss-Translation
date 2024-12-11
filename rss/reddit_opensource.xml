@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 21:11:09 GMT</lastBuildDate>
+    <item>
+      <title>我发布了我的消息应用程序的 Windows 版本。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hc002l/i_released_the_windows_version_of_my_messaging_app/</link>
+      <description><![CDATA[嗨，我今天发布了我的消息应用程序的 Windows 版本。我很乐意获得反馈并改进该应用程序。 您可以在此处获取它：https://github.com/ThriveEngineer/messages    提交人    /u/kresstein   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hc002l/i_released_the_windows_version_of_my_messaging_app/</guid>
+      <pubDate>Wed, 11 Dec 2024 18:16:24 GMT</pubDate>
+    </item>
     <item>
       <title>修改属性（日期、时间）的程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hbxy3w/program_to_modify_attributes_date_time/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 本次社区活动由 Schrödinger Hat 主办，这是一个传播开源热爱的非营利组织。如果您对开源充满热情，或者您有项目或经验可以分享，您可能会喜欢第四届开源日！  📅 日期：2025 年 3 月 21 日 🌍 地点：意大利佛罗伦萨 Nana Bianca 🎟 费用：免费 – 感谢捐赠和赞助商。 为什么要参加？  与开源维护者、开发人员（初级到高级）、工程师和爱好者交流。 向演讲者学习并与社区建立联系。 在热情、包容的环境中享受对话。  征文已开放！ 我们正在寻找热衷于分享有关任何开源知识的演讲者：工具、项目、工作流程、挑战等等。无论您是经验丰富的演讲者还是舞台新手，我们都很乐意听到您的声音！ 👉 提交您的演讲：https://sessionize.com/open-source-day-2025/ 👉 了解有关该活动的更多信息：osday.dev 谢谢，如果您有任何问题，我们很乐意回答！    提交人    /u/schrodinger_hat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hb3ruo/open_source_day_2025_italy_call_for_papers_open/</guid>
       <pubDate>Tue, 10 Dec 2024 15:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准和符合性推定</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hb0xhl/standards_and_the_presumption_of_conformity/</link>
-      <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hb0xhl/standards_and_the_presumption_of_conformity/</guid>
-      <pubDate>Tue, 10 Dec 2024 12:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
