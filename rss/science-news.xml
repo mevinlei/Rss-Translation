@@ -4,7 +4,7 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Thu, 12 Dec 2024 09:12:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 12:21:53 GMT</lastBuildDate>
     <item>
       <title>预测 2025 年全球气温将降至 1.5°C 以下</title>
       <link>https://www.newscientist.com/article/2460379-global-forecast-for-2025-sees-temperatures-falling-back-below-1-5c/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -32,6 +32,13 @@
       <description><![CDATA[就在之前的记录被创下几个月后，一家名为 Quantinuum 的初创公司宣布，它已经纠缠了数量最多的逻辑量子比特——这将是能够纠正自身错误的量子计算机的关键]]></description>
       <guid>https://www.newscientist.com/article/2459987-another-record-has-been-set-for-the-most-entangled-logical-qubits/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Wed, 11 Dec 2024 20:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年气候混乱加剧，气温首次达到 1.5°C</title>
+      <link>https://www.newscientist.com/article/mg26435210-100-climate-chaos-accelerated-in-2024-as-we-hit-1-5c-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[2024 年又是创纪录的高温和极端天气之年，包括全球各地毁灭性的洪水、风暴和野火]]></description>
+      <guid>https://www.newscientist.com/article/mg26435210-100-climate-chaos-accelerated-in-2024-as-we-hit-1-5c-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 11 Dec 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
       <title>地球上的水可能由一团巨大的蒸汽云输送</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[顶尖考古学家分享了人类进化理解方面的最新重大进展，以及他们对未来五年可能出现的激动人心的发现的期望]]></description>
       <guid>https://www.newscientist.com/article/2459645-game-changing-archaeology-from-the-past-5-years-and-whats-to-come/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 10 Dec 2024 14:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的新款 Willow 量子计算机真的有这么大意义吗？</title>
-      <link>https://www.newscientist.com/article/2459318-is-googles-new-willow-quantum-computer-really-such-a-big-deal/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[谷歌推出了一款名为 Willow 的新型量子计算机，它在基准测试问题上表现出色，但目前尚不清楚这些机器是否能发挥实际作用]]></description>
-      <guid>https://www.newscientist.com/article/2459318-is-googles-new-willow-quantum-computer-really-such-a-big-deal/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Mon, 09 Dec 2024 16:00:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
