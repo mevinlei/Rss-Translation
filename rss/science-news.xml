@@ -4,11 +4,32 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Wed, 11 Dec 2024 21:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 00:51:54 GMT</lastBuildDate>
+    <item>
+      <title>预测 2025 年全球气温将降至 1.5°C 以下</title>
+      <link>https://www.newscientist.com/article/2460379-global-forecast-for-2025-sees-temperatures-falling-back-below-1-5c/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[预计 2025 年拉尼娜现象将导致全球平均地表温度略有下降，但这并不意味着整个地球已经停止变暖]]></description>
+      <guid>https://www.newscientist.com/article/2460379-global-forecast-for-2025-sees-temperatures-falling-back-below-1-5c/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Thu, 12 Dec 2024 00:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球年轻人中肠癌发病率呈上升趋势</title>
+      <link>https://www.newscientist.com/article/2459984-bowel-cancer-is-rising-in-younger-people-around-the-world/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[过去几十年来，世界各地越来越多的 50 岁以下人群被诊断出患有肠癌]]></description>
+      <guid>https://www.newscientist.com/article/2459984-bowel-cancer-is-rising-in-younger-people-around-the-world/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 11 Dec 2024 23:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>帕克太阳探测器很快将比以往更深入太阳</title>
+      <link>https://www.newscientist.com/article/2460412-parker-solar-probe-will-soon-go-deeper-into-the-sun-than-ever-before/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[12 月 24 日，帕克太阳探测器将成为迄今为止距离恒星最近的人造物体，并对太阳进行前所未有的测量]]></description>
+      <guid>https://www.newscientist.com/article/2460412-parker-solar-probe-will-soon-go-deeper-into-the-sun-than-ever-before/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Wed, 11 Dec 2024 21:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>最纠缠逻辑量子比特的又一项记录被创下</title>
       <link>https://www.newscientist.com/article/2459987-another-record-has-been-set-for-the-most-entangled-logical-qubits/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[就在之前的记录被创下几个月后，一家名为 Quantinuum 的初创公司宣布，他们已经实现了最大数量的逻辑量子比特纠缠——这将是能够纠正自身错误的量子计算机的关键]]></description>
+      <description><![CDATA[就在之前的记录被创下几个月后，一家名为 Quantinuum 的初创公司宣布，它已经纠缠了数量最多的逻辑量子比特——这将是能够纠正自身错误的量子计算机的关键]]></description>
       <guid>https://www.newscientist.com/article/2459987-another-record-has-been-set-for-the-most-entangled-logical-qubits/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Wed, 11 Dec 2024 20:55:11 GMT</pubDate>
     </item>
@@ -69,13 +90,6 @@
       <pubDate>Tue, 10 Dec 2024 21:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>超冷原子以惊人的精度测量重力</title>
-      <link>https://www.newscientist.com/article/2459418-ultracold-atoms-measure-gravity-with-surprising-precision/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[原子冷却到接近绝对零度，使研究人员能够测量比标准量子极限通常允许的精度高 20% 的重力]]></description>
-      <guid>https://www.newscientist.com/article/2459418-ultracold-atoms-measure-gravity-with-surprising-precision/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Tue, 10 Dec 2024 16:44:13 GMT</pubDate>
-    </item>
-    <item>
       <title>极端高温可能会迅速削弱海洋吸收二氧化碳的能力</title>
       <link>https://www.newscientist.com/article/2459408-extreme-heat-may-rapidly-sap-the-oceans-ability-to-absorb-co2/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
       <description><![CDATA[海洋碳汇（每年从大气中吸收约四分之一的碳排放）在 2023 年的强度远低于预期]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[谷歌推出了一款名为 Willow 的新型量子计算机，它在基准测试问题上表现出色，但目前尚不清楚这些机器是否能发挥实际作用]]></description>
       <guid>https://www.newscientist.com/article/2459318-is-googles-new-willow-quantum-computer-really-such-a-big-deal/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Mon, 09 Dec 2024 16:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>螺旋蝇：这种食肉寄生虫为何会卷土重来？</title>
-      <link>https://www.newscientist.com/article/2459206-screwworm-why-is-this-flesh-eating-parasite-making-a-comeback/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[中美洲螺旋蝇寄生虫的死灰复燃可能对畜牧业造成毁灭性影响，并对人类和野生动物构成威胁]]></description>
-      <guid>https://www.newscientist.com/article/2459206-screwworm-why-is-this-flesh-eating-parasite-making-a-comeback/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Fri, 06 Dec 2024 18:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是疾病 X？我们需要担心它吗？</title>
-      <link>https://www.newscientist.com/article/2413011-what-is-disease-x-and-do-we-need-to-worry-about-it/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[“疾病 X” 一词指的是一种新的感染，或一种已经变异而变得更加危险的现有病原体，有可能引发全球大流行]]></description>
-      <guid>https://www.newscientist.com/article/2413011-what-is-disease-x-and-do-we-need-to-worry-about-it/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Thu, 04 Apr 2024 16:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
