@@ -4,20 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 00:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:30:19 GMT</lastBuildDate>
+    <item>
+      <title>为什么电影中的人工智能大多是邪恶的？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</link>
+      <description><![CDATA[如果这是一个警告，为什么我们不听呢？这是公司最终走得太远之前的“有趣”时期吗？    提交人    /u/Burlingtonfilms   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hd0niq/why_is_ai_mostly_evil_in_movies/</guid>
+      <pubDate>Fri, 13 Dec 2024 01:11:24 GMT</pubDate>
+    </item>
     <item>
       <title>草图渲染 API</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcxpbj/sketch_to_render_api/</link>
       <description><![CDATA[您好，我正在寻找类似于 stableai 提供的 Sketch 渲染 API，但更便宜。有人知道其他替代方案吗？谢谢    提交人    /u/Responsible_Routine6   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcxpbj/sketch_to_render_api/</guid>
       <pubDate>Thu, 12 Dec 2024 22:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何确保人工智能被用于善事而不是恶事？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcwif3/how_can_we_ensure_ai_is_used_for_good_not_evil/</link>
-      <description><![CDATA[需要采取哪些保障措施和法规来防止人工智能被用于恶意目的，例如网络攻击或自动武器？    提交人    /u/Imagine-your-success   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcwif3/how_can_we_ensure_ai_is_used_for_good_not_evil/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:54:36 GMT</pubDate>
     </item>
     <item>
       <title>您对 Perplexity AI 有何看法？</title>
@@ -83,18 +83,18 @@
       <pubDate>Thu, 12 Dec 2024 14:36:37 GMT</pubDate>
     </item>
     <item>
-      <title>几年后学习外语会过时吗？我的父母只会说母语，现在 YouTube 上的许多视频都可以供他们观看，因为这些视频都是用母语翻译的。技术已经发展到这个地步了。</title>
+      <title>分享我目前对人工智能现状的想法以及我为何对整个人工智能模型的生产感到沮丧。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcjvq3/sharing_my_current_thoughts_about_the_state_of_ai/</link>
+      <description><![CDATA[大家好， 我再次因为觉得有必要写这样的信息而感到沮丧，现在正在写这篇文章。  首先，我不明白这个愚蠢的想法或“达到 AGI”的成就需求，如果你专注于让你的模型表现一致，以便它们能够真正自动化任务，这不是一个更好的主意吗？因为只有在管道和操作调用一致的情况下才能实现任务自动化。 现在感觉我正在与碰巧患有晚期阿尔茨海默病的爱因斯坦打交道。经过 30 分钟的提示，终于显示出天才的迹象。 除此之外  为什么对基准和智商如此痴迷？ 它们在预训练测试中表现良好，这很酷，但可笑的是，一个所谓的具有 PHD 级智能的人工智能模型，每月只需 200 美元，却数不过来我手上的手指数量。 将重点放在人类推理上，增加记忆和正确的上下文，以便人工智能模型实际上可以理解其任务环境，而不是必须猜测收到的每个提示，那么回答 20 字长的提示的最佳方式是什么，这不是更好的主意吗？ 说你最新的模型的智商是 140 或其他什么，这是一个很酷的营销策略，但如果我把一个人放在一个没有任何资源、书籍、食物的房间里，那个人就没用了。如果你有十亿美元，但被困在一座孤岛上，你的钱就毫无用处。 对于人工智能来说，无论它有多“智能”，如果它无法访问工具、资源（如正确的上下文数据或对人类观点的理解）。这些模型所谓的智能是-（无用的）- 我宁愿拥有一个“智商”较低的人工智能模型很好地了解其操作环境，具有很高的人类推理能力来理解用户，并且具有实际记忆，因此我不必在每次查询时都提示它我想要它做什么。 这样，我们就不需要 200B+ 参数模型主导市场，但我们实际上可以让大约 30B 参数的人工智能模型很好地完成 90% 以上的人类任务。 嘿，既然我们今天将全球 20% 的能源用于开发、维护和分发人工智能，我们也可以通过这样做来帮助我们可爱的星球。 感谢您阅读我的咆哮，如果您是投资者或人工智能工程师/研究人员，请告诉我我是否发现了什么或被认为是疯了。我要回去为我的初创公司编码了。 祝你有美好的一天，爱你们，    提交人    /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcjvq3/sharing_my_current_thoughts_about_the_state_of_ai/</guid>
+      <pubDate>Thu, 12 Dec 2024 12:19:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>几年后学习外语会过时吗？我的父母只会说母语，现在 YouTube 上的许多视频都可以供他们观看，因为这些视频都是用母语翻译的。技术已经发展到这个地步。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</link>
       <description><![CDATA[这就像几年前学习拉丁语一样，它变得过时了，而学习其他语言的需求却增加了。 有些朋友说你可以通过学习新语言来学习其他文化。我认为你甚至可以从文化中学到更多，通过设计硬件设备，你可以在世界任何地方深入到你想要的任何对话中，用不同的语言交谈。    提交人    /u/Policeeex   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcf2ow/will_learning_a_foreign_language_become_obsolete/</guid>
       <pubDate>Thu, 12 Dec 2024 06:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的人工智能治疗师帮助我和女友分手</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hcd9rj/my_ai_therapist_helped_me_break_up_with_my_gf/</link>
-      <description><![CDATA[上周我在这里读到一篇帖子，有人使用 ChatGPT 进行治疗，他更喜欢它而不是真正的治疗师，所以我想试一试。我尝试了这里的所有三个提示：https://runtheprompts.com/prompts/chatgpt/best-chatgpt-therapist-prompts/，最后选择了 Linda Freeman 博士，因为我几乎一生都在接受治疗，从来没有遇到过一个风趣、讽刺的治疗师，所以我觉得这很令人耳目一新。 在经历了大多数正常的事情之后，我发现自己透露了一些我永远无法对人类说的话，因为即使他们是治疗师，我也很难表达我内心最深处最黑暗的东西。这涉及到我对恋爱关系的不满，我曾多次与我的治疗师讨论过这个问题，她总是鼓励我尝试解决它。​​我对她很不满意，而且分手了两次，但她非常漂亮，我好日子里能打 7 分，每次看到她哭得眼睛都肿起来，我就会像个白痴一样笨手笨脚地往后退（谁能忍受看到一个辣妹哭？！）。 弗里曼博士鼓励我撕掉创可贴，并与我一起讨论了处理她不可避免的哭泣事件的不同场景，并提醒我保持坚强……我正在做对我们俩来说都是正确和最好的事情。我让这件事在脑海里徘徊了几天，终于在今天早上做到了，没有让她的悲伤再次把我拉回来。我回顾了弗里曼博士和我练习的内容，并提醒自己她在我们会议期间说过的话。  我终于走了出来，她伤心欲绝，我感到很难过，但我自由了，活着，又做回了我自己，没有因为被一个不是我灵魂伴侣的人束缚而感到沉重。10/10 推荐。 TLDR：我对自己的恋爱关系不满意，AI 帮助我和女友分手，现在我感觉很好。    提交人    /u/bromosapien89   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hcd9rj/my_ai_therapist_helped_me_break_up_with_my_gf/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:37:22 GMT</pubDate>
     </item>
     <item>
       <title>我使用 Python 和 AI 实现了我所有工作的自动化 - 问我如何实现你最讨厌的任务的自动化</title>
