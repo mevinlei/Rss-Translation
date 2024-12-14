@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 14 Dec 2024 00:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 03:25:03 GMT</lastBuildDate>
+    <item>
+      <title>使用 LLM 自动注释论文</title>
+      <link>https://www.reddit.com/r/programming/comments/1hdte4x/automatically_annotate_papers_using_llms/</link>
+      <description><![CDATA[  由    /u/davidmezzetti  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hdte4x/automatically_annotate_papers_using_llms/</guid>
+      <pubDate>Sat, 14 Dec 2024 02:57:00 GMT</pubDate>
+    </item>
     <item>
       <title>编程中创造力的重要性</title>
       <link>https://www.reddit.com/r/programming/comments/1hdqac1/the_importance_of_creativity_in_programming/</link>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 13 Dec 2024 20:18:08 GMT</pubDate>
     </item>
     <item>
-      <title>你永远不想知道的关于 Go 接口的事情</title>
+      <title>关于 Go 接口你从来不想知道的事情</title>
       <link>https://www.reddit.com/r/programming/comments/1hdl91h/things_you_never_wanted_to_know_about_go/</link>
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hdl91h/things_you_never_wanted_to_know_about_go/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hdl5yn/elixirerlang_hot_swapping_code_2016/</guid>
       <pubDate>Fri, 13 Dec 2024 20:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 数据包的秘密生活</title>
-      <link>https://www.reddit.com/r/programming/comments/1hdl5nb/the_secret_life_of_dns_packets/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hdl5nb/the_secret_life_of_dns_packets/</guid>
-      <pubDate>Fri, 13 Dec 2024 20:13:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

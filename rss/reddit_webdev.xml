@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Dec 2024 00:50:34 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 14 Dec 2024 03:25:28 GMT</lastBuildDate>
+    <item>
+      <title>澳大利亚/Lord_Howe 是最奇怪的时区</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdtqfa/australialord_howe_is_the_weirdest_timezone/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdtqfa/australialord_howe_is_the_weirdest_timezone/</guid>
+      <pubDate>Sat, 14 Dec 2024 03:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>检查您的姓名廉价自动续订</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/</link>
+      <description><![CDATA[      我购买了 namecheap 域名以及 3 个月的电子邮件服务免费试用，但我不知道这意味着我还要为他们的相关社交专业服务付费。  电子邮件服务过期后，3-4 个月后我意识到我仍在为一项我未使用的服务付费。在网站上查找收费情况后，由于我最初不确定我的帐户是否被黑客入侵，我最终发现我被收取了相关社交专业服务的费用。 我尝试联系 namecheap 并提交了有关情况的工单，看看我是否可以获得未使用服务的退款，但没有回复。因此我决定通过我的信用卡公司退款，认为这样应该没问题，但是最近我收到了 namecheap 的这个邮件。 TLDR：我需要偿还退款，否则他们会将我的退款提高 2 倍 我是不是应该忍受并支付这笔钱，即使我没有使用该服务并且不知道自动续订已经开启？ 一直是 namecheap 的粉丝，但我不喜欢他们处理这个问题的方式，因为没有得到支持的回应 &amp;直接告诉我要还钱。 这是我第一次开始试用时的收据，应该更加勤奋，但我不知道 Relate Social Pro 是什么意思，也不知道它会自动续订。 https://preview.redd.it/nhvpeb9m5q6e1.png?width=1944&amp;format=png&amp;auto=webp&amp;s=47ebba6c3fe0f0985ef8db2ccb5f92885ff25220    由   提交  /u/Brilliant-Active-737   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdt27j/check_your_namecheap_autorenewals/</guid>
+      <pubDate>Sat, 14 Dec 2024 02:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个扩展程序，可以帮助我跟踪我的健康习惯</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/</link>
+      <description><![CDATA[      大家好，各位开发者！我今年刚开始学习编码，想成为一名开发人员，并使用 React + TailwindCSS 制作了一个扩展。 它被称为 Reboost，它有 2 个功能，用户可以跟踪和记录他们的饮水量或设置自定义提醒。 想着其他人也可能会觉得它有用！它是完全免费的，不需要注册或账户。🤗 扩展的快速预览    提交人    /u/HikkiSummers   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hds8hy/made_an_extension_that_will_help_me_keep_track_of/</guid>
+      <pubDate>Sat, 14 Dec 2024 01:53:15 GMT</pubDate>
+    </item>
     <item>
       <title>SSG 的本地离线 CMS（最好是 11ty）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hdqy7v/local_offline_cms_for_ssg_11ty_preferably/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>原生 Bluesky 搜索不如此工具好</title>
       <link>https://www.reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/</link>
-      <description><![CDATA[Bluesky 上的原生搜索会向您显示几个排序选项，包括“热门”和“最新”。这两个选项实际上都不会向您显示参与度最高的最新帖子。 最新帖子总是一堆参与度为零的随机帖子，而热门帖子显示的是几天前的陈旧帖子。 TrendSpotter.blue 实际上会显示过去几个小时（最多 24 小时）内包含您的关键字的每篇帖子。 在对同一关键字进行正面测试时，它绝对胜过 Bluesky 上的原生搜索。    提交人    /u/eastburnn   [链接] [评论]]]></description>
+      <description><![CDATA[Bluesky 上的原生搜索会向您显示几个排序选项，包括“热门”和“最新”。这两个选项实际上都不会向您显示参与度最高的最新帖子。 最新帖子总是一堆参与度为零的随机帖子，而热门帖子则显示几天前的陈旧帖子。 TrendSpotter.blue 实际上会显示过去几个小时（最多 24 小时）内包含您的关键字的每篇帖子。 在对同一关键字进行正面测试时，它绝对胜过 Bluesky 上的原生搜索。    提交人    /u/eastburnn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdpb61/native_bluesky_search_isnt_as_good_as_this_tool/</guid>
       <pubDate>Fri, 13 Dec 2024 23:24:56 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>开源我的 SaaS 产品！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hdohdx/open_sourced_my_saas_product/</link>
-      <description><![CDATA[对于任何想知道它是什么的人来说，它是一个用 nextjs 和 express 与 postgresDB 构建的书签管理器 Web 应用程序。 我将其作为学习新东西的附带项目进行构建，现在我刚刚完成它，并希望使这个产品更好并成为竞争对手之一。 最后，如果有人有兴趣，请成为第一个贡献和发展这个项目的人。谢谢！ 链接：Github    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
+      <description><![CDATA[对于任何想知道它是什么的人来说，它是一个用 nextjs 和带有 postgresDB 的 express 构建的书签管理器 Web 应用程序。 我将其作为学习新东西的附带项目进行构建，现在我刚刚完成它，并希望使这个产品更好并成为竞争对手之一。 最后，如果有人有兴趣，请成为第一个贡献并发展这个项目的人。谢谢！ 链接：Github    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdohdx/open_sourced_my_saas_product/</guid>
       <pubDate>Fri, 13 Dec 2024 22:45:26 GMT</pubDate>
     </item>
@@ -67,13 +88,6 @@
       <description><![CDATA[我正在通过 PageSpeed Insights 运行我的网站，我似乎无法弄清楚为什么我在移动设备上获得的分数是 65，但在桌面上我通常会获得 90 分或 100 分。我的网站加载速度非常快，即使在移动设备上也加载速度非常快。对于移动设备，FCP 大约为 3-4 秒，我无法弄清楚为什么，因为在桌面上它大约是 0.4 秒。对可能导致这种情况的任何建议？ 不确定我是否可以在此处发布链接，我不是在宣传或其他什么，只是想让其他人能够运行 pagespeed insights 测试来查看我看到的内容：https://redsurgeapparel.com/    提交人    /u/gr8hoops21   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdno8x/pagespeed_insights_mobile_vs_desktop_discrepancy/</guid>
       <pubDate>Fri, 13 Dec 2024 22:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找简单易用的项目管理工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdniup/looking_for_stupid_simple_project_management_tool/</link>
-      <description><![CDATA[我的团队正在寻找一种新的项目管理工具来替代 Jira。作为一个觉得 Jira 笨重且过于复杂而无法满足我们需求的人，我想提出一种超级简单的替代方案。基本上只是一个共享的待办事项列表，但增加了一些项目管理功能，如分配人员、附加注释/文件、基本指向/优先级、分组/分类/标记，仅此而已。 到目前为止，我在考虑 Trello 或 Todoist for teams。还有其他想法吗？    提交人    /u/DasBeasto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdniup/looking_for_stupid_simple_project_management_tool/</guid>
-      <pubDate>Fri, 13 Dec 2024 22:00:57 GMT</pubDate>
     </item>
     <item>
       <title>[Showoff Saturday] 使用纯 HTML 和 TailwindCSS 重建我的个人网站</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[因此有大量服务允许执行任意 Python/Node.js 脚本。 但是，我正在努力寻找以 docker-first 构建的东西，即我希望能够发送 Dockerfile、运行代码并获取结果。 有没有现有服务的建议可以满足这一需求？    提交人    /u/punkpeye   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hdlnjr/saas_for_building_and_running_temporary_docker/</guid>
       <pubDate>Fri, 13 Dec 2024 20:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用此 Web 开发工具改造您的 GitHub README！🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdl8pw/transform_your_github_readme_with_this_web_dev/</link>
-      <description><![CDATA[      嗨 Redditors！👋 我创建了一个 GitHub Readme 生成器，帮助您轻松创建精美的 README 文件。它对初学者友好，具有可自定义的模板，可以以独特的风格展示您的项目。 寻找反馈、功能请求，甚至合作者！请告诉我您的想法，或者如果您觉得它有用，请随时为该仓库加注星标。 😊 https://preview.redd.it/yx4zs2x7co6e1.png?width=1900&amp;format=png&amp;auto=webp&amp;s=d23ed6ff0784b1b11c1065e9f7d7a58335c3614f    提交人    /u/i2r3   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdl8pw/transform_your_github_readme_with_this_web_dev/</guid>
-      <pubDate>Fri, 13 Dec 2024 20:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要工作建议吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hdl38h/need_job_advice_please/</link>
-      <description><![CDATA[长话短说，我目前是一名初级开发人员，在一家小公司工作了 1 年，帮助开发销售 CRM 软件，同时还为现有客户提供 1-2 级技术支持。我对 html、css、JS、SQL 的基础知识非常了解。但我们所做的几乎所有事情都在外部系统框架中。 我目前正在从我的经理那里学到很多东西，但老板和我必须达成一致。他在薪水问题上骗了我，认为我无处可去，因为我对这个行业还很陌生。 我只看到现在找工作有多难，我想知道我是否需要忍受，或者我是否能够找到其他工作。 我现在只赚 4 万美元，达到这个水平就好了。我根本就不知道该去哪里找。 感谢您的阅读，如有任何建议，我们将不胜感激     提交人    /u/Trimoswivel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hdl38h/need_job_advice_please/</guid>
-      <pubDate>Fri, 13 Dec 2024 20:10:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
