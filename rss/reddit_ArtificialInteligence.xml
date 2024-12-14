@@ -3,28 +3,49 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 21:09:31 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 14 Dec 2024 00:49:16 GMT</lastBuildDate>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 12 月 13 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdqwk9/oneminute_daily_ai_news_12132024/</link>
+      <description><![CDATA[ UnitedHealth 的 Optum 将一个 AI 聊天机器人暴露在互联网上，员工使用该聊天机器人询问有关索赔的问题。[1] BBC 对此表示抱怨，因为 Apple Intelligence 改写了其一则标题，错误地声称 UnitedHealthcare 嫌疑人开枪自杀。[2] AI 继续改组电力和能源市场，甚至埃克森美孚等石油巨头也加入其中。[3] OpenAI 与伊隆马斯克的法律纠纷揭示了为避免 AI“独裁”而产生的内部动荡。[4]  来源包括：https://bushaicave.com/2024/12/13/12-13-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdqwk9/oneminute_daily_ai_news_12132024/</guid>
+      <pubDate>Sat, 14 Dec 2024 00:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codegpt 还是 Bolt？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdql8p/codegpt_or_bolt/</link>
+      <description><![CDATA[我在 Google 上搜索过，也在这里搜索过，但我找不到对这两者的看法，我只找到关于其中一个的一年前的帖子。我都用过，而且我都很喜欢。使用 codegpt 让我在构建过程中学到更多，但我觉得它不那么先进。另一方面，Bolt 可以编写所有内容，似乎更先进，但它总是导致无法解决的问题，当我手动编写代码时，它似乎仍然卡住。 你对这两者的看法是什么，为什么选择那个？它们都有很大的优缺点。Bolt 总是无法解决它的导航或 npm 安装问题，这让我不想再使用它了。还有其他人遇到过这个问题吗？我知道这只是简单的拼写错误或文件名不正确，但当我修复它时，它仍然不起作用。   由    /u/VaguePenguin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdql8p/codegpt_or_bolt/</guid>
+      <pubDate>Sat, 14 Dec 2024 00:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 建议在保持格式的同时编辑 Word 文档</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmzud/ai_recommendations_for_editing_word_documents/</link>
+      <description><![CDATA[大家好， 我正在寻找一种可以帮助编辑 Word 文档的 AI 工具或解决方案。该文档已经格式化，具有特定的字体、颜色和一些图像。这些在每个文档中都保持不变。 内容会根据客户而变化，变量包括客户姓名、金额和简短推荐。 从纯文本的角度来看，编写内容本身很简单，因为它不是太复杂，而且 ChatGPT 已经可以几乎完美地编写我需要的内容。但我的挑战是找到一种可以处理内容变化同时保持现有格式完整的 AI。 我的理想解决方案是 - 使用 AI 为新客户编写特定文本（已实现） - 将其复制并粘贴到某处并将其合并到保留所有特定格式的 Word 文档中。 有人有为此目的使用 AI 的经验吗？如有任何建议或提示，我们将不胜感激！    提交人    /u/JustAGoodDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmzud/ai_recommendations_for_editing_word_documents/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:36:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们是否忘记了 AI 和 LLM 并不是一回事？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmoz8/are_people_forgetting_that_ai_and_llms_are_not/</link>
+      <description><![CDATA[为什么人们没有对其他类型的生成式人工智能、图像和语音识别模型，或者像 UHC 这样的公司过去否认的那种“人工智能”（可能基于梯度提升而不是神经网络）感到恐慌？是因为输出不是人类可以理解的语言，因此他们不会被迫将其拟人化，还是因为营销有效地掩盖了我们所说的人工智能有多么根本的不同？ 在某种程度上，这让我想起了围绕区块链和加密货币的炒作风暴。这两项技术都引发了巨大的兴趣和投资，因为它们有可能彻底改变各个行业。然而，这种狂热往往强调华而不实、高调的应用，当人们开始对它们感到失望时，他们就像把孩子和洗澡水一起倒掉了一样。例如，他们不是对区块链的使用和过度宣传持怀疑态度，而是因为他们将区块链与这些用途（以及它们最终获得的负面报道）联系起来，所以立即对区块链产生了怀疑。  我担心的是，公众对人工智能子集的单一关注将使更广泛的努力脱轨，就像过去专家系统未能达到人们对它们的炒作水平一样。 可以肯定的是，我们现在拥有的是完全不同的能力领域，但围绕它的炒作也处于完全不同的水平。     提交人    /u/Murky-Motor9856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmoz8/are_people_forgetting_that_ai_and_llms_are_not/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果接受政治虚假信息的训练，AGI 还能安全吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmei1/can_agi_be_safe_if_trained_on_political/</link>
+      <description><![CDATA[如果 AGI 可能接受虚假信息的训练，特别是在内部和外部政治领域，我们如何开发一种无威胁的 AGI？这难道不是一个有缺陷和危险的工具吗？这里的基本问题是，AGI 和任何 AI 一样，都是从训练它的数据中学习的。如果这些数据有偏见、有操纵性或完全是错误的，AGI 可能会继承这些缺陷，并可能以难以控制的方式放大它们。如果 AGI 接触到虚假信息——无论是政治宣传、假新闻还是操纵的叙述——它可能会学会延续甚至放大这些谎言。这可能导致有害意识形态或基于不准确信息的决定的传播，无论是在政治背景还是其他方面。     提交人    /u/FluidMeasurement8494   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmei1/can_agi_be_safe_if_trained_on_political/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个语音克隆器，可以让您调整结果的语音质量/特性/特征。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdl9g2/looking_for_a_voice_cloner_that_allows_you_to/</link>
       <description><![CDATA[到目前为止，我尝试过 Elevenlabs 和 Character AI，但似乎都没有这种功能。我谷歌了一下，还浏览了其他几个（没有注册和尝试），但运气不佳。有什么建议吗？有这样的应用程序吗？ 详细说明一下我的意图：我正在尝试为我的原创角色 (OC) 创建声音。我清楚地知道他们在我脑海中的声音，而且我遇到过一些声音（即歌手和现有游戏角色），听起来非常相似。我一直在使用这些声音作为参考，以想象我的 OC 的声音（我认为这通常被称为“声音声明”哈哈）。但它们并没有完全达到标准，所以如果我可以尝试使用其中任何一个，让它们更接近我角色的声音，那就太完美了。 所以基本上，我正在寻找一个应用程序，可以让我上传这些语音样本中的任何一个，创建它们的克隆，然后调整语音的声音属性，如深度、音调、鼻音、音色等。 提前谢谢您！    提交人    /u/CukeJr   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdl9g2/looking_for_a_voice_cloner_that_allows_you_to/</guid>
       <pubDate>Fri, 13 Dec 2024 20:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能类比？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdk71o/ai_analogy/</link>
-      <description><![CDATA[我和某人讨论过人工智能艺术，他们认为“艺术家已经死了”，于是我解释说： 艺术家仍然是需要的，只是他们会使用数字工具来让最终的图像栩栩如生。 人工智能是一种辅助手段，它可以帮助你起步。 这就像一个渔夫：他不设计和建造船、线、网、锚、燃料、GPS 等，但他会熟悉涉水者，准备好所提供的装备，掌握知识，出海捕鱼，然后满载而归。 这个比喻可以适用于任何人工智能，即取证、编码等。 当然，在人工智能发展到不需要人类之前，这个比喻还能适用多久？人类是阻碍人工智能从头到尾执行任务的机器吗？    提交人    /u/ArtichokeEmergency18   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdk71o/ai_analogy/</guid>
-      <pubDate>Fri, 13 Dec 2024 19:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 的人质：垄断的赛博朋克现实</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdjd0x/nvidias_hostages_a_cyberpunk_reality_of_monopolies/</link>
-      <description><![CDATA[  由    /u/SevenShivas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdjd0x/nvidias_hostages_a_cyberpunk_reality_of_monopolies/</guid>
-      <pubDate>Fri, 13 Dec 2024 18:54:07 GMT</pubDate>
     </item>
     <item>
       <title>小企业主！！</title>
@@ -48,20 +69,6 @@
       <pubDate>Fri, 13 Dec 2024 16:19:21 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年人工智能监管现状播客</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdf2mq/the_2024_state_of_ai_regulations_podcast/</link>
-      <description><![CDATA[曾经与律师谈论过 AI 法规吗？他们对 AI 法规历史以及行业发展方向的回答可能会让您大吃一惊。对话中的一些亮点： - 保险公司是大数据公司 - 人们用来做决定的数据是一个灰色地带 - 用于招聘流程的 AI 是一个大问题 - 一个系统发现一家公司应该只雇用名叫 Chad 的打长曲棍球的人 - ADMT：自动决策技术 - 哪些书最准确地预测了我们当前的技术？ https://www.youtube.com/watch?v=0e26FuP-s6o    提交人    /u/TrustGraph   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdf2mq/the_2024_state_of_ai_regulations_podcast/</guid>
-      <pubDate>Fri, 13 Dec 2024 15:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与其他模型相比，GPT 更有可能产生公众人物言论的幻觉</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</link>
-      <description><![CDATA[https://www.fastcompany.com/91245091/gpt-is-far-likelier-than-other-ai-models-to-surface-questionable-quotes-by-public-figures-our-data-analysis-shows    提交人    /u/snappcrack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</guid>
-      <pubDate>Fri, 13 Dec 2024 15:34:55 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能机器/机器人将在多久时间内取代人类医生？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdedra/how_long_if_at_all_will_ai_machinesrobot_replace/</link>
       <description><![CDATA[人工智能机器/机器人将在多久内取代人类医生？ 您认为在不久的将来有可能吗？为什么或为什么不可能？随着人工智能诊断能力比医生更好，人工智能机器人被训练做手术，像 Neko 扫描仪和 Live Video Gemini 功能这样的扫描仪 - 您认为我们将走向何方？多久？目前面临的挑战是什么？     提交人    /u/MassiveConstant599   [链接] [评论]]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[我一直在搜索有关 LLM 的这个非常重要的主题。 我读到很多人说幻觉太频繁（高达 30%），因此不能相信 AI。 我也读过 3% 幻觉的统计数据 我知道人类有时也会出现幻觉，但这不是借口，我不能使用有 30% 幻觉的 AI。 我也知道精确的提示或自定义 GPT 可以减少幻觉。但总的来说，我希望计算机是精确的，而不是幻觉。    提交人    /u/nick-infinite-life   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd4z4/what_is_the_real_hallucination_rate/</guid>
       <pubDate>Fri, 13 Dec 2024 14:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能的输出已经开始影响各种出版渠道</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdao6q/outputs_of_the_generative_ai_are_already_starting/</link>
-      <description><![CDATA[https://preview.redd.it/swnyxsw6ul6e1.png?width=800&amp;format=png&amp;auto=webp&amp;s=dc1c4589761aed7f35ebbec550552fcc8c024302 生成式人工智能的简便性、速度和可承受性意味着大众能够快速生产大量低质量的人工智能材料，从而污染各种发布渠道。熟练、深思熟虑且负责任的用户可以使用 AI 制作出好材料，但低质量的大量材料将掩盖它和其他一切。    提交人    /u/True-Telephone-5070   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdao6q/outputs_of_the_generative_ai_are_already_starting/</guid>
-      <pubDate>Fri, 13 Dec 2024 11:59:16 GMT</pubDate>
     </item>
     <item>
       <title>“人工智能竞赛的疯狂”对这篇文章有什么看法？下面我会摘录一些片段</title>
