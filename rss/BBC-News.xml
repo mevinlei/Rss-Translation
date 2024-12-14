@@ -4,13 +4,27 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 14 Dec 2024 18:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 21:09:58 GMT</lastBuildDate>
     <item>
-      <title>时尚连锁店 Mango 创始人因事故去世，享年 71 岁</title>
+      <title>铁路桥相撞致公交车车顶被掀翻</title>
+      <link>https://www.bbc.com/news/articles/clyk3pyp7yno</link>
+      <description><![CDATA[第一巴士撞上了格拉斯哥市中心库克街的铁路桥。]]></description>
+      <guid>https://www.bbc.com/news/articles/clyk3pyp7yno</guid>
+      <pubDate>Sat, 14 Dec 2024 21:01:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰要求国际足联就克里米亚地图道歉</title>
+      <link>https://www.bbc.com/news/articles/cq5l49j6xw4o</link>
+      <description><![CDATA[该国对国际足联演示会上展示的一张似乎将克里米亚排除在外的地图提出了批评。]]></description>
+      <guid>https://www.bbc.com/news/articles/cq5l49j6xw4o</guid>
+      <pubDate>Sat, 14 Dec 2024 21:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>时尚连锁店 Mango 创始人在洞穴事故中丧生</title>
       <link>https://www.bbc.com/news/articles/c3wed2egp4vo</link>
-      <description><![CDATA[该公司首席执行官表示，其创始人伊萨克·安迪奇 (Isak Andic) 于周六在一场事故中丧生。]]></description>
+      <description><![CDATA[这位 71 岁老人在巴塞罗那附近洞穴事故后，因其在时尚领域的领导力而被人们铭记。]]></description>
       <guid>https://www.bbc.com/news/articles/c3wed2egp4vo</guid>
-      <pubDate>Sat, 14 Dec 2024 17:51:36 GMT</pubDate>
+      <pubDate>Sat, 14 Dec 2024 19:14:52 GMT</pubDate>
     </item>
     <item>
       <title>追查嫌疑人杀人犯 Luigi Mangione 的强大家族根源</title>
@@ -22,9 +36,16 @@
     <item>
       <title>危机重重的格鲁吉亚任命前曼城球员为主席</title>
       <link>https://www.bbc.com/news/articles/c5ygejxej28o</link>
-      <description><![CDATA[经过 17 天的亲欧盟抗议活动后，前曼城足球运动员被任命为主席。]]></description>
+      <description><![CDATA[经过 17 天的亲欧盟抗议活动后，一位 53 岁的前足球运动员被任命为总统。]]></description>
       <guid>https://www.bbc.com/news/articles/c5ygejxej28o</guid>
       <pubDate>Sat, 14 Dec 2024 17:18:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>头骨和尸袋：寻找叙利亚失踪人员</title>
+      <link>https://www.bbc.com/news/articles/cr4rz5169q9o</link>
+      <description><![CDATA[BBC 的露西·威廉森发现家庭成员正在挖掘尸体，拼命寻找失踪的亲人。]]></description>
+      <guid>https://www.bbc.com/news/articles/cr4rz5169q9o</guid>
+      <pubDate>Sat, 14 Dec 2024 17:01:56 GMT</pubDate>
     </item>
     <item>
       <title>Jay-Z 请求法院驳回强奸诉讼，理由是诉讼内容前后矛盾</title>
@@ -62,25 +83,11 @@
       <pubDate>Sat, 14 Dec 2024 11:47:39 GMT</pubDate>
     </item>
     <item>
-      <title>由于供应有限，一些酒吧的吉尼斯啤酒开始售罄</title>
-      <link>https://www.bbc.com/news/articles/c0ewqx53q8do</link>
-      <description><![CDATA[由于酒庄所有者帝亚吉欧 (Diageo) 为避免节日恐慌性抢购，数家酒吧表示，他们的黑啤酒已经售罄。]]></description>
-      <guid>https://www.bbc.com/news/articles/c0ewqx53q8do</guid>
-      <pubDate>Sat, 14 Dec 2024 10:23:17 GMT</pubDate>
-    </item>
-    <item>
       <title>菲妮·科顿宣布与丈夫杰西·伍德分手</title>
       <link>https://www.bbc.com/news/articles/c2dx5r3g6yzo</link>
       <description><![CDATA[两人已经结婚 10 年了，有两个孩子，她说孩子仍将是“他们的首要任务”。]]></description>
       <guid>https://www.bbc.com/news/articles/c2dx5r3g6yzo</guid>
       <pubDate>Sat, 14 Dec 2024 08:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我感觉自己就像一具会呼吸的尸体”：叙利亚酷刑监狱获释者的故事</title>
-      <link>https://www.bbc.com/news/articles/cy4784vn4jdo</link>
-      <description><![CDATA[BBC 采访了从赛德纳亚监狱获释的囚犯，该监狱被称为“人类屠宰场”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy4784vn4jdo</guid>
-      <pubDate>Sat, 14 Dec 2024 06:00:45 GMT</pubDate>
     </item>
     <item>
       <title>英国“没有足够的建筑商”来建造工党的 150 万套住房</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[梅根·巴顿·汉森希望更多的人知道，性交过程中取下避孕套可以被视为强奸。]]></description>
       <guid>https://www.bbc.com/news/articles/c6279gpde6zo</guid>
       <pubDate>Sat, 14 Dec 2024 01:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>网红品牌因欺凌指控遭遇强烈反对</title>
-      <link>https://www.bbc.com/news/articles/cy4pkypde42o</link>
-      <description><![CDATA[粉丝们对时尚公司 Djerf Avenue 的身材羞辱指控和恶劣的工作环境感到非常愤怒。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy4pkypde42o</guid>
-      <pubDate>Sat, 14 Dec 2024 00:11:12 GMT</pubDate>
     </item>
     <item>
       <title>阿萨德和他的家人未来将会面临什么？</title>
