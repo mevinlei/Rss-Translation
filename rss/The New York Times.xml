@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 05:51:43 GMT</lastBuildDate>
-    <item>
-      <title>韩国总统面临新一轮弹劾投票</title>
-      <link>https://www.nytimes.com/2024/12/13/world/asia/south-korea-president-yoon-impeach.html</link>
-      <description><![CDATA[一周前，在总统尹锡烈短暂尝试宣布戒严后，他领导的执政党阻止了反对派的首次尝试。]]></description>
-      <guid>https://www.nytimes.com/2024/12/13/world/asia/south-korea-president-yoon-impeach.html</guid>
-      <pubDate>Sat, 14 Dec 2024 05:51:43 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Dec 2024 08:02:11 GMT</lastBuildDate>
     <item>
       <title>麦康奈尔为脊髓灰质炎疫苗辩护，这显然是对罗伯特·肯尼迪的警告。</title>
       <link>https://www.nytimes.com/2024/12/13/us/politics/mcconnell-polio-vaccine-rfk-jr.html</link>
@@ -95,6 +88,13 @@
       <description><![CDATA[唐纳德·J·特朗普选择出任下一任联邦调查局局长，这既夸大了他在该政府对 2012 年袭击事件的刑事调查中的重要性，也误导性地歪曲了调查的进行和结果。]]></description>
       <guid>https://www.nytimes.com/2024/12/13/us/politics/kash-patel-benghazi-investigation-doj.html</guid>
       <pubDate>Fri, 13 Dec 2024 20:12:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国在德克萨斯州安装边境浮标前数月就考虑了</title>
+      <link>https://www.nytimes.com/2024/12/13/us/us-border-floating-barriers-trump.html</link>
+      <description><![CDATA[边境官员曾考虑在 2022 年从德克萨斯州到加利福尼亚州使用浮动屏障。这一举措可能为当选总统唐纳德·J·特朗普 (Donald J. Trump) 的部署铺平道路。]]></description>
+      <guid>https://www.nytimes.com/2024/12/13/us/us-border-floating-barriers-trump.html</guid>
+      <pubDate>Fri, 13 Dec 2024 18:42:13 GMT</pubDate>
     </item>
     <item>
       <title>伊朗人就叙利亚问题与领导人对峙</title>
