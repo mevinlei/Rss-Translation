@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Dec 2024 06:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 09:00:52 GMT</lastBuildDate>
+    <item>
+      <title>弹劾后，韩国没有民选领导人</title>
+      <link>https://www.nytimes.com/2024/12/15/world/asia/south-korea-impeachment.html</link>
+      <description><![CDATA[总统尹锡烈被暂停权力后，一位经验丰富但未经选举的总理将领导一个面临国内外严峻挑战的国家。]]></description>
+      <guid>https://www.nytimes.com/2024/12/15/world/asia/south-korea-impeachment.html</guid>
+      <pubDate>Sun, 15 Dec 2024 09:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>这本难以阅读的俄罗斯小说推动了习近平与美国的斗争</title>
       <link>https://www.nytimes.com/2024/12/15/opinion/china-brics-xi-jinping-trump.html</link>
       <description><![CDATA[这位中国领导人正在深入研究革命语言和一本激进的俄罗斯小说，准备与唐纳德·特朗普展开斗争。]]></description>
       <guid>https://www.nytimes.com/2024/12/15/opinion/china-brics-xi-jinping-trump.html</guid>
-      <pubDate>Sun, 15 Dec 2024 06:00:05 GMT</pubDate>
+      <pubDate>Sun, 15 Dec 2024 07:28:01 GMT</pubDate>
     </item>
     <item>
       <title>特朗普任命理查德·格雷内尔担任“特殊任务”</title>
@@ -83,13 +90,6 @@
       <pubDate>Sat, 14 Dec 2024 21:43:58 GMT</pubDate>
     </item>
     <item>
-      <title>默多克之争解析，得益于“继任”</title>
-      <link>https://www.nytimes.com/2024/12/14/opinion/rupert-murdoch-succession-lachlan-james-fox.html</link>
-      <description><![CDATA[“我爱我的每一个孩子，”这位家长说。“但这些公司需要一位指定的领导者。”]]></description>
-      <guid>https://www.nytimes.com/2024/12/14/opinion/rupert-murdoch-succession-lachlan-james-fox.html</guid>
-      <pubDate>Sat, 14 Dec 2024 21:33:34 GMT</pubDate>
-    </item>
-    <item>
       <title>韩国总统弹劾案解析</title>
       <link>https://www.nytimes.com/2024/12/14/world/asia/south-korea-impeachment-yoon-explained.html</link>
       <description><![CDATA[国会第二次试图迫使总统尹锡烈下台。但他和他的国家的麻烦还远未结束。]]></description>
@@ -99,14 +99,14 @@
     <item>
       <title>《小鬼当家》明星麦考利·卡尔金以怀旧放映和问答形式取悦粉丝</title>
       <link>https://www.nytimes.com/2024/12/14/movies/macaulay-culkin-home-alone-chicago-screening.html</link>
-      <description><![CDATA[在以郊区为拍摄地的芝加哥，该电影在放映会上由这位明星亲自出场。欣喜若狂的影迷们表达了他们对这部电影的热爱。]]></description>
+      <description><![CDATA[在以郊区为拍摄地的芝加哥，该电影在放映会上由这位明星亲自出演。欣喜若狂的影迷们表达了他们对这部电影的热爱。]]></description>
       <guid>https://www.nytimes.com/2024/12/14/movies/macaulay-culkin-home-alone-chicago-screening.html</guid>
       <pubDate>Sat, 14 Dec 2024 14:30:48 GMT</pubDate>
     </item>
     <item>
       <title>巴西的一部意外大片点燃奥斯卡希望，以及一场清算</title>
       <link>https://www.nytimes.com/2024/12/14/world/americas/a-surprise-blockbuster-in-brazil-stokes-oscar-hopes-and-a-reckoning.html</link>
-      <description><![CDATA[几十年前，她的母亲错失了奥斯卡奖，而巴西的费尔南达·托雷斯可能凭借在一部引发深刻反省的电影中扮演的角色赢得小金人。]]></description>
+      <description><![CDATA[几十年前，她的母亲错失了奥斯卡奖，而巴西的费尔南达·托雷斯 (Fernanda Torres) 凭借在一部引发深刻反省的电影中扮演的角色，或许有机会获得小金人。]]></description>
       <guid>https://www.nytimes.com/2024/12/14/world/americas/a-surprise-blockbuster-in-brazil-stokes-oscar-hopes-and-a-reckoning.html</guid>
       <pubDate>Sat, 14 Dec 2024 10:02:07 GMT</pubDate>
     </item>

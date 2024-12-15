@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Dec 2024 03:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 09:11:18 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到 r/softwareshare :)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</link>
+      <description><![CDATA[在这里，您可以分享任何对社区有益的软件、工具、产品等。     提交人    /u/Tall-Strike-6226   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1heo9ng/welcome_to_rsoftwareshare/</guid>
+      <pubDate>Sun, 15 Dec 2024 08:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么好的人工智能可以很好地模仿青蛙科米特的声音？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</link>
+      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我想要更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    由   提交  /u/ZooterTheWooter   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</guid>
+      <pubDate>Sun, 15 Dec 2024 03:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>开源软件的安全和隐私问题。</title>
       <link>https://www.reddit.com/r/opensource/comments/1heip81/security_and_privacy_question_for_open_source/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由   提交  /u/95165198516549849874   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hdzpgb/why_does_labor_not_have_an_existing_relationship/</guid>
       <pubDate>Sat, 14 Dec 2024 09:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Vim 增强扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hdz4ou/introducing_the_vim_enhanced_extension/</link>
-      <description><![CDATA[我创建此扩展主要是为了拥有一个可移植的 vscode vim 配置，并能够轻松启用/禁用与 vim 相关的所有内容。 令我惊讶的是，我注意到人们实际上正在使用它并发现它很有用，这让我很高兴。 该扩展在 VSCode 中创建了更原生的 vim 体验，它受到 Neovim 发行版的启发，主要功能包括： - 使用 vim 动作进行工作区和文件导航 - 更好的 LSP 键盘映射 - 更好的编辑器命令 如果这对您可能有用，请尝试一下，我很乐意听到您的反馈，或者如果它缺少您正在寻找的某些功能，也请告诉我。 Visual Studio Marketplace GitHub    由   提交  /u/enterthevxid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hdz4ou/introducing_the_vim_enhanced_extension/</guid>
-      <pubDate>Sat, 14 Dec 2024 09:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源做出贡献的喜悦感怎么样了？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hdwo6l/what_happened_to_the_joy_of_contributing_to/</link>
-      <description><![CDATA[我是一名长期的 OSS 维护者和贡献者（证明 https://github.com/buger） 最近，我推出了 helpwanted.dev — — 非盈利平台，旨在将开发人员与需要帮助的活跃小型开源项目联系起来。这个想法很简单：快速反馈循环、有意义的贡献以及在产生影响的同时学习的机会。 当我在 Reddit Learning to code subreddit 上分享它时，我收到的第一条评论令人沮丧：“如果没有职业奖励，为什么要费心去做小型开源项目？”这让我停下来思考。 我们忘记了有趣的部分吗？解决问题、学习新东西或仅仅因为我们能帮助别人的乐趣？在 GitHub 的早期，它不是关于“这对我有什么好处”。这是关于探索、成长和成为全球社区的一部分。 开源不仅是获得职业利益的途径；它还是重新发现构建乐趣的绝佳方式。当您为项目做出贡献时，您不仅仅是在帮助他人——您还在学习、改进和保持好奇心。有时，这就足够了。 对我来说，它总是回归到乐趣。我总是同时处理多个副业项目——不是为了名声或认可——而是因为有趣。它帮助我成长，让我想起了为什么我爱上了这个职业。并不是所有的东西都需要货币化！ 如果您是一名开发人员——无论您是刚刚起步还是已经进入职业生涯——请考虑这一点：有什么比帮助实现一个真正的想法、为开源项目做出贡献或学习新东西更好的呢？不是为了奖金或头衔，而只是出于做这件事的纯粹乐趣。   由    /u/leonidbugaev  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hdwo6l/what_happened_to_the_joy_of_contributing_to/</guid>
-      <pubDate>Sat, 14 Dec 2024 06:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
