@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 18:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 21:11:19 GMT</lastBuildDate>
+    <item>
+      <title>尝试找出从 React/Node 到 NextJS 的正确迁移策略</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</link>
+      <description><![CDATA[大家好， 我主要是一名后端开发人员，但我使用 React 前端（托管在 S3/Cloudfront 中）和一个提供 JSON 数据的 Node 服务器（在单个 EC2 实例上）创建了一个网站，该服务器从 RDS DB 获取数据。  该网站有很多动态创建的页面（想想 goodreads 这样的网站，提供有关图书的页面），虽然我可以接受大多数内容在页面加载后异步获取，但我想使用元标记提供页面，以便搜索引擎和社交媒体可以创建更好的预览并更好地索引内容。 出于这个原因，我想转到 NextJS。然而，我对 NextJS 的想法还很陌生，我很难理解它取代了什么。我发现的每篇文章都涉及用 NextJS 替换 React 应用程序，但在我看来，它实际上取代了 Node 应用程序，只是让你将 React 应用程序移到服务器应用程序中。 这样对吗，还是我完全错了？ 从这种理解来看，我的设置似乎应该从： React 应用程序： - book-page.jsx - book-client.jsx（从 Node App 获取数据） Node 应用程序： - book-api.js - book-db-client.js（从 SQL 获取数据） SQL DB (RDS) - Book 表  到： NextJS 应用程序（托管在 EC2 上或使用 AWS Amplify？）： - pages 文件夹（有 react 应用程序）： - book-page.jsx - book-client.jsx（可能不再需要这个？） - pages/api - book-api.js - book-db-client.js（从RDS) SQL DB (RDS) - 图书表  这听起来像是我正在尝试做的正确策略吗？我仍在学习 NextJS，因此 pages 和 api 文件夹中的信息有点......松散。 编辑以添加：我询问而不是简单地“谷歌搜索”的原因是因为我已经尝试过，并且文章和教程的数量很高，这是由于开发人员开始使用的不同设置数量以及他们使用的 NextJS 策略（SSR、SSG、IVR）以及他们的网站实际提供什么样的内容。由于所有这些细微差别，找出适合我自己网站的正确策略有点痛苦。    提交人    /u/ubccompscistudent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>javascript 修改器用于查看隐藏的网站选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/</link>
+      <description><![CDATA[嗨，抱歉，我的描述不够专业 - 我根本不懂 IT 或 Web 开发。我正在寻找一辆新车，正在从汽车制造商网站下载 PDF 优惠信息。今天我发现下载按钮消失了。我查看了 Web 源代码，发现 Java 脚本中有一部分“toolbar_pdfDownload_isVisible&amp;quot;:false&quot;。我想如果我能&gt;SOMEHOW&lt; 将该值更改为&quot;true&quot;，按钮将再次可见。我向 GPT 寻求帮助 - 它建议使用 Tampermonkey 扩展，并给了我一个简短的脚本示例。不幸的是，它没有起作用...网站是：https://www.audi.pl/pl/wyszukiwarka-samochodow-nowych/details/:/idUE9MMDEyMjAyMDIzMTExNjg0=，查看源代码并按 ctrl+f 进行“下载”后，可以在最底部找到脚本。 是否可以重新显示下载按钮？ 谢谢！    提交人    /u/villovsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[请求] 我是新手，制作了我的第一个网站。想添加动画，从这个网站获得灵感。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/</link>
+      <description><![CDATA[我如何制作一个完全像这样的动画？只使用我的公司名称，这是网站。 Studio-Onto 我说的是打开网站时弹出的动画，没有别的。谢谢    提交人    /u/ig_harsh20p   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建和部署后 C 盘已满</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/</link>
+      <description><![CDATA[大家好，我是 Web 开发新手，目前在一家公司实习，开发 Web 应用。我已经在本地计算机上设置了 Web 应用的开发版本，用于开发目的。我使用的 IDE 是 IntelliJ，Web 应用部署在本地 Liferay 服务器上，使用 Apache Tomcat 并连接到 MySQL 服务器。我目前面临的问题是，最近我已将所有模块的存储库克隆到项目中并部署了服务器，但是我尝试构建并将其中一个模块部署到服务器，构建和部署操作成功，但是当我发现我的 C 盘从至少 10 GB 的可用空间变为只有 50MB 的可用空间时，我不得不从 C 盘中删除一些不必要的应用和数据以释放一些空间。如果有经验的人可以帮助我找出我的 C 盘突然变满的原因，我将不胜感激，因为我不想每次尝试将模块部署到服务器时都经常发生这种情况。提前谢谢大家！！！    提交人    /u/Demonking6444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/</guid>
+      <pubDate>Mon, 16 Dec 2024 18:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>更好的谷歌地图 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfozas/better_google_maps_api/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是一名自学成才的高级 Web 开发人员，从未接受过任何正规教育。过去，我参加了一些 Pluralsight 课程，以帮助在某些领域获得更正规的教育。我主要使用 .Net、SQL 和 JavaScript。我一直在学习 Vue 并将其融入到我的工作中。您会推荐哪些网站、学校或任何其他教育资源来帮助某人完善或进一步了解他们的知识？    提交人    /u/kinggoosey   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/</guid>
       <pubDate>Mon, 16 Dec 2024 14:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何推销软件项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/</link>
-      <description><![CDATA[我曾担任 C# 软件开发人员，出于业余爱好，我使用多种语言编程了大约 9 年，包括 js、html、css、php 以及所需的所有其他 Web 内容等等。 我做过很多项目，最近被解雇了，我想自己创业。我制作了 2 个 API 和一个 wordpress 插件，其中一个 API 用于 PayPal 付款处理和安全下载等，另一个是带有审核工具的 AI API。wordpress 插件类似于 automod 插件，用户可以通过电子邮件域白名单/黑名单和用户名黑名单使用通配符、smtp 设置等来限制登录。 我试图让插件尽可能有用，但我的项目从未成功或得到应有的关注，因为我相信我不知道如何真正营销东西。 这是我在几乎所有项目中都遇到的问题。我制作很酷且有用的东西，但从未使用过，因为没人关心或知道。 我甚至尝试过经营一家 etsy 商店，出售不错的产品，甚至支付了 etsy 广告费用，大约 250-300 欧元，但仍然没有人购买我的东西。我要么忽略了某些东西，要么做错了。（我尝试了 seo 等一切，但都失败了） 除了有时使用 reddit 和 discord 之外，我并没有真正使用社交媒体。所以我想知道我做错了什么？我想成为一名成功的开发人员：c    提交人    /u/HackTheDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/</guid>
-      <pubDate>Mon, 16 Dec 2024 13:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webpack 与 Vite：哪个捆绑器适合您？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfi7ld/webpack_vs_vite_which_bundler_is_right_for_you/</link>
-      <description><![CDATA[        提交人    /u/ArunITTech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfi7ld/webpack_vs_vite_which_bundler_is_right_for_you/</guid>
-      <pubDate>Mon, 16 Dec 2024 12:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Angular 比 React 更难学？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</link>
-      <description><![CDATA[我认为与 React JSX Soup 相比，组件具有 ts 文件、css 文件和 html 文件更容易理解，更类似于 HTML + CSS + JS 课程。我不是说 Angular 更好，只是我没有看到更难的学习曲线。     提交人    /u/OkTop7895   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</guid>
-      <pubDate>Mon, 16 Dec 2024 12:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 4 个网站，每个网站都会收到少量电子邮件。处理多个小型网站的电子邮件最便宜的方案是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</link>
-      <description><![CDATA[我正在寻找一个具有 API 的邮件提供商，它允许我创建一个小型 Web 电子邮件客户端来在同一位置处理所有邮件。这样做的原因是我想通过发件人的电子邮件自动从我的数据库中提取交易数据或其他数据，实现一些人工智能响应等。  我正在查看 zoho，它非常便宜，但他们似乎要求每个“用户”大约 5 美元，我是一个用户，但我想创建 [support@mysite.com](mailto:support@mysite.com) 和 [welcome@mysite.com](mailto:welcome@mysite.com) 等，因此我愿意为 8 个独立用户付费。  Zeptomail 看起来很糟糕，但它只适用于“交易电子邮件”，则您无权接收电子邮件。不过超级便宜。 Gmail 每封电子邮件每月 6 美元 如果您想要多个域名，Mailgun 每月 35 美元    提交人    /u/codeboii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:48:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
