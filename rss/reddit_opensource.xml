@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Dec 2024 21:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 00:52:22 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 风格指南</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</link>
+      <description><![CDATA[https://mkosir.github.io/typescript-style-guide/    由   提交  /u/marko424_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:13:29 GMT</pubDate>
+    </item>
     <item>
       <title>是否有用于OCR文本差异映射的库？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hftnsq/is_there_a_library_for_ocr_text_difference_mapping/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      Dislqi    提交人    /u/AdditionalWeb107   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hey9dv/archgw_intelligent_gateway_for_ai_agents_built_on/</guid>
       <pubDate>Sun, 15 Dec 2024 18:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建轻量级开源版 LingQ/BunPro/WaniKani 用于学习日语</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hewgqb/building_lightweight_opensource_version_of/</link>
-      <description><![CDATA[嗨，我刚刚根据 MIT 许可开源了我的日语学习网站 - hanabira.org。 它仍处于早期 Alpha 阶段，但已有几个子系统到位。 正如我所提到的，我想创建更成熟的语言学习平台的免费替代方案。我打算在未来将其扩展到韩语。 Github： https://github.com/tristcoil/hanabira.org 实时生产页面（Alpha）： hanabira.org 仍需要 2 年的开发时间 :)   由    /u/tcoil_443  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hewgqb/building_lightweight_opensource_version_of/</guid>
-      <pubDate>Sun, 15 Dec 2024 16:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
