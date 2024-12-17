@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Dec 2024 03:29:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:16:08 GMT</lastBuildDate>
     <item>
       <title>重新构想技术面试：经验比考试技巧更重要</title>
       <link>https://www.reddit.com/r/webdev/comments/1hg1gl9/reimagining_technical_interviews_valuing/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>用于存储标签的 SQL 数据库设计</title>
       <link>https://www.reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/</link>
-      <description><![CDATA[这里完全是新手开发人员。我的应用程序允许与特定组织关联的管理员创建自定义标签并标记组织资源（PDF、图像等），这些资源稍后可以进行过滤。我正在使用 PosgreSQL。我最初的想法是有一个标签表，其中包含组织 ID、管理员 ID（创建标签的人）、标签 ID 和标签名称。然后将标签 ID 关联到特定的组织资源。但是每个资源都可以有多个标签，所以不确定这里的解决方案是什么。我更熟悉 NoSQL，其中一种方法是将资源对象的标签存储为标签对象数组 有没有更好的方法？我有一个 RAG，它应该能够按名称查询数据库中的特定标签，这可能会使事情复杂化    提交人    /u/InfinityZeroFive   [链接] [评论]]]></description>
+      <description><![CDATA[这里完全是新手开发人员。我的应用程序允许与特定组织关联的管理员创建自定义标签并标记组织资源（PDF、图像等），这些资源稍后可以进行过滤。我正在使用 PosgreSQL。我最初的想法是有一个标签表，其中包含组织 ID、管理员 ID（创建标签的人）、标签 ID 和标签名称。然后将标签 ID 关联到特定的组织资源。但是每个资源都可以有多个标签，所以不确定这里的解决方案是什么。我更熟悉 NoSQL，其中一种方法是将资源对象的标签存储为标签对象数组 有没有更好的方法？我有一个 RAG，它应该能够按名称查询数据库中的特定标签，这可能会使事情复杂化 编辑：感谢大家的精彩建议！    提交人    /u/InfinityZeroFive   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hg14v4/sql_database_design_for_storing_tags/</guid>
       <pubDate>Tue, 17 Dec 2024 03:02:12 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>编码对你来说有趣吗？还是它只是一份工作？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</link>
-      <description><![CDATA[你真的喜欢编码吗？    由    /u/EspressoOverdose 提交   [链接] [评论]]]></description>
+      <description><![CDATA[你真的喜欢编码吗？    提交人    /u/EspressoOverdose   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</guid>
       <pubDate>Mon, 16 Dec 2024 21:39:28 GMT</pubDate>
     </item>
