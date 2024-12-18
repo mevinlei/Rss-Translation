@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 00:49:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 03:22:39 GMT</lastBuildDate>
     <item>
       <title>2024 年 LinkedIn 回顾</title>
       <link>https://www.producthunt.com/posts/2024-linkedin-rewind-2</link>
@@ -34,18 +34,18 @@
       <pubDate>Tue, 17 Dec 2024 01:44:55 GMT</pubDate>
     </item>
     <item>
-      <title>Wondercraft 的播客 GPT</title>
-      <link>https://www.producthunt.com/posts/podcast-gpt-by-wondercraft</link>
+      <title>谷歌搅拌机</title>
+      <link>https://www.producthunt.com/posts/google-whisk</link>
       <description><![CDATA[
-直接在 chatGPT 上创建播客
+使用图像作为提示而不是文本提示来生成图像
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/podcast-gpt-by-wondercraft</guid>
-      <pubDate>Mon, 16 Dec 2024 21:22:20 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/google-whisk</guid>
+      <pubDate>Mon, 16 Dec 2024 22:00:05 GMT</pubDate>
     </item>
     <item>
       <title>库克：时钟</title>
@@ -62,18 +62,46 @@
       <pubDate>Mon, 16 Dec 2024 20:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌图片3</title>
-      <link>https://www.producthunt.com/posts/google-imagen-3</link>
+      <title>谷歌我看到2</title>
+      <link>https://www.producthunt.com/posts/google-veo-2</link>
       <description><![CDATA[
-Google 迄今为止质量最高的文本转图片模型
+Google 最先进的视频生成模型
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/google-imagen-3</guid>
-      <pubDate>Mon, 16 Dec 2024 18:05:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/google-veo-2</guid>
+      <pubDate>Mon, 16 Dec 2024 19:17:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>胡扯</title>
+      <link>https://www.producthunt.com/posts/waffle-7</link>
+      <description><![CDATA[
+每天与好友一起闲聊
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/waffle-7</guid>
+      <pubDate>Mon, 16 Dec 2024 16:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>玛雅</title>
+      <link>https://www.producthunt.com/posts/maia-4</link>
+      <description><![CDATA[
+简单易用的母乳喂养追踪器和妈妈护理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/maia-4</guid>
+      <pubDate>Mon, 16 Dec 2024 14:57:42 GMT</pubDate>
     </item>
     <item>
       <title>无线电法学硕士</title>
@@ -88,20 +116,6 @@ Google 迄今为止质量最高的文本转图片模型
 ]]></description>
       <guid>https://www.producthunt.com/posts/radio-llm</guid>
       <pubDate>Mon, 16 Dec 2024 11:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>BoldVoice 口音神谕</title>
-      <link>https://www.producthunt.com/posts/boldvoice-accent-oracle-2</link>
-      <description><![CDATA[
-说话，我们会猜你的口音。你能骗过神谕吗？
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/boldvoice-accent-oracle-2</guid>
-      <pubDate>Fri, 13 Dec 2024 00:03:52 GMT</pubDate>
     </item>
     <item>
       <title>crtd v2.0</title>
@@ -132,32 +146,18 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Sat, 07 Dec 2024 04:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>MagicMail：AI电子邮件生成器</title>
-      <link>https://www.producthunt.com/posts/magicmail-ai-email-generator</link>
+      <title>询问 Dovetail</title>
+      <link>https://www.producthunt.com/posts/ask-dovetail</link>
       <description><![CDATA[
-文本提示，以完全样式化并准备发送 HTML 电子邮件
+将您的客户见解带入 Slack 和 Microsoft Teams
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/magicmail-ai-email-generator</guid>
-      <pubDate>Tue, 03 Dec 2024 09:54:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opencord AI 移动版</title>
-      <link>https://www.producthunt.com/posts/opencord-ai-mobile</link>
-      <description><![CDATA[
-一周内获得 100 多名客户，将 1000 多条评论转化为销售
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/opencord-ai-mobile</guid>
-      <pubDate>Mon, 25 Nov 2024 12:52:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ask-dovetail</guid>
+      <pubDate>Tue, 26 Nov 2024 00:20:04 GMT</pubDate>
     </item>
     <item>
       <title>NewOaks 人工智能电话代理</title>
@@ -174,20 +174,6 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Mon, 25 Nov 2024 03:12:35 GMT</pubDate>
     </item>
     <item>
-      <title>诺拉</title>
-      <link>https://www.producthunt.com/posts/nora-3</link>
-      <description><![CDATA[
-24/7 心理健康伴侣，无需透露您的身份
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/nora-3</guid>
-      <pubDate>Wed, 20 Nov 2024 22:07:36 GMT</pubDate>
-    </item>
-    <item>
       <title>艾姆福克斯</title>
       <link>https://www.producthunt.com/posts/aimfox</link>
       <description><![CDATA[
@@ -202,7 +188,21 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Wed, 20 Nov 2024 17:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>财务艺术</title>
+      <title>Findr：记住一切</title>
+      <link>https://www.producthunt.com/posts/findr-remember-everything</link>
+      <description><![CDATA[
+使用您的（AI）第二大脑解锁无限的数字记忆
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/findr-remember-everything</guid>
+      <pubDate>Tue, 29 Oct 2024 19:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>金融的艺术</title>
       <link>https://www.producthunt.com/posts/arta-finance</link>
       <description><![CDATA[
 一个现代财富平台，帮助您增长和保护您的财富
