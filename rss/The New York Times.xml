@@ -1,21 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 15:06:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 17:51:20 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯将军遇害案嫌疑人在莫斯科郊外被捕</title>
+      <link>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</link>
+      <description><![CDATA[俄罗斯检察官办公室称，这名嫌疑人是一名 29 岁的乌兹别克斯坦公民，他承认按照乌克兰特工的指令安放了炸弹。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</guid>
+      <pubDate>Wed, 18 Dec 2024 17:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院将审理 TikTok 对可能禁止该应用的法律的挑战</title>
+      <link>https://www.nytimes.com/2024/12/18/us/politics/supreme-court-tiktok-ban.html</link>
+      <description><![CDATA[该公司及其中国母公司援引《第一修正案》敦促法官在 1 月 19 日的截止日期之前介入，以出售或关闭公司。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/us/politics/supreme-court-tiktok-ban.html</guid>
+      <pubDate>Wed, 18 Dec 2024 17:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯将军之死传递出信息，但并未改变乌克兰战争</title>
+      <link>https://www.nytimes.com/2024/12/18/world/europe/russia-kirillov-ukraine-general.html</link>
+      <description><![CDATA[乌克兰军队在战场上节节败退。分析人士和西方官员表示，莫斯科一名高级将领被暗杀不会增强他们的作战能力。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/europe/russia-kirillov-ukraine-general.html</guid>
+      <pubDate>Wed, 18 Dec 2024 17:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>法国大规模强奸案焦点人物多米尼克·佩利科特 (Dominique Pelicot) 是谁？</title>
       <link>https://www.nytimes.com/2024/12/18/world/europe/france-dominique-pelicot-rape-trial.html</link>
-      <description><![CDATA[三个多月以来，法官和律师一直试图查明这名男子的真实本性，他声称自己邀请了数十名陌生人与他一起强奸了被吸毒的妻子。]]></description>
+      <description><![CDATA[三个多月以来，法官和律师一直试图了解多米尼克·佩利科特的真实本性，他声称他邀请了数十名陌生人与他一起强奸了被吸毒的妻子。]]></description>
       <guid>https://www.nytimes.com/2024/12/18/world/europe/france-dominique-pelicot-rape-trial.html</guid>
-      <pubDate>Wed, 18 Dec 2024 15:03:23 GMT</pubDate>
+      <pubDate>Wed, 18 Dec 2024 17:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>购买、捐赠、重复。91 岁的 Leonard Lauder 还有很多事情要做</title>
+      <link>https://www.nytimes.com/2024/12/18/arts/design/leonard-lauder-philanthropy-metropolitan-museum-whitney.html</link>
+      <description><![CDATA[毕加索的画作。贾斯珀·约翰斯的啤酒罐。欧文·佩恩的照片。这位化妆品继承人创造了如今博物馆梦寐以求的引人注目的捐赠典范。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/arts/design/leonard-lauder-philanthropy-metropolitan-museum-whitney.html</guid>
+      <pubDate>Wed, 18 Dec 2024 16:32:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚北部库尔德人与土耳其支持部队之间的停火协议延长</title>
+      <link>https://www.nytimes.com/2024/12/18/world/middleeast/cease-fire-extended-kurdish-forces-turkey-syria.html</link>
+      <description><![CDATA[一名美国官员宣布了在曼比季停火的举措，库尔德人和土耳其支持的武装分子在曼比季发生冲突，美国和其他外国官员正试图促成持久停火。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/middleeast/cease-fire-extended-kurdish-forces-turkey-syria.html</guid>
+      <pubDate>Wed, 18 Dec 2024 15:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>微型棺材：麻疹正在夺走刚果数千名儿童的生命</title>
+      <link>https://www.nytimes.com/2024/12/18/health/measles-congo-vaccines.html</link>
+      <description><![CDATA[由于家庭无法获得疫苗，许多儿童未接种疫苗并面临感染病毒的危险。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/health/measles-congo-vaccines.html</guid>
+      <pubDate>Wed, 18 Dec 2024 15:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国厨房面临不确定的组合：橄榄油和关税</title>
+      <link>https://www.nytimes.com/2024/12/18/dining/olive-oil-tariffs.html</link>
+      <description><![CDATA[特朗普尚未表示是否会对进口食品采取行动，但这对石油生产国和消费者的影响已引发争议。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/dining/olive-oil-tariffs.html</guid>
+      <pubDate>Wed, 18 Dec 2024 14:55:30 GMT</pubDate>
     </item>
     <item>
       <title>泽连斯基将与欧盟领导人会面讨论乌克兰未来</title>
       <link>https://www.nytimes.com/2024/12/18/world/europe/zelensky-eu-ukraine.html</link>
-      <description><![CDATA[在唐纳德·J·特朗普准备在美国就职之际，总统弗拉基米尔·泽连斯基将出席北约秘书长举办的晚宴，共同规划与俄罗斯战争的未来道路。]]></description>
+      <description><![CDATA[在唐纳德·J·特朗普准备在美国就职之际，总统弗拉基米尔·泽连斯基将出席北约秘书长举办的晚宴，规划与俄罗斯战争的未来道路。]]></description>
       <guid>https://www.nytimes.com/2024/12/18/world/europe/zelensky-eu-ukraine.html</guid>
       <pubDate>Wed, 18 Dec 2024 14:48:32 GMT</pubDate>
     </item>
@@ -25,41 +74,6 @@
       <description><![CDATA[塔利班为与美国的战争提供资金，从贩卖鸦片、海洛因和冰毒的新兴城镇赚取了数百万美元。该组织在胜利后摧毁了这些贸易，留下的只是一片鬼城。]]></description>
       <guid>https://www.nytimes.com/2024/12/18/world/asia/afghanistan-opium-heroin-taliban.html</guid>
       <pubDate>Wed, 18 Dec 2024 14:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>微型棺材：麻疹正在夺走刚果数千名儿童的生命</title>
-      <link>https://www.nytimes.com/2024/12/18/health/measles-congo-vaccines.html</link>
-      <description><![CDATA[由于家庭无法获得疫苗，许多儿童未接种疫苗并面临感染病毒的危险。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/health/measles-congo-vaccines.html</guid>
-      <pubDate>Wed, 18 Dec 2024 14:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>中情局局长抵达加沙进行会谈，加沙停火希望升温</title>
-      <link>https://www.nytimes.com/2024/12/17/world/middleeast/gaza-israel-hamas-cease-fire.html</link>
-      <description><![CDATA[受多重因素推动，和平谈判步伐加快，其中包括黎巴嫩和叙利亚战争严重削弱了哈马斯的盟友，以及唐纳德·J·特朗普在选举中的胜利。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/world/middleeast/gaza-israel-hamas-cease-fire.html</guid>
-      <pubDate>Wed, 18 Dec 2024 13:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>叙利亚阿萨德政权倒台后首班国内航班抵达阿勒颇</title>
-      <link>https://www.nytimes.com/2024/12/18/world/europe/syria-flight-damascus-aleppo-rebels.html</link>
-      <description><![CDATA[叙利亚过渡政府试图证明其管理这个饱受战争摧残的国家的能力，周三，一架从大马士革起飞的叙利亚航空客机降落在阿勒颇。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/world/europe/syria-flight-damascus-aleppo-rebels.html</guid>
-      <pubDate>Wed, 18 Dec 2024 11:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储预计将降息，首席执行官枪击恐怖分子嫌疑人</title>
-      <link>https://www.nytimes.com/2024/12/18/podcasts/fed-mangione-beef-tallow.html</link>
-      <description><![CDATA[此外，还有一种强劲的新护肤趋势。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/podcasts/fed-mangione-beef-tallow.html</guid>
-      <pubDate>Wed, 18 Dec 2024 11:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储公布 2024 年最终利率决策之际值得关注的事情</title>
-      <link>https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html</link>
-      <description><![CDATA[人们普遍预计美联储官员将降息，但投资者将关注下一步行动的暗示。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html</guid>
-      <pubDate>Wed, 18 Dec 2024 10:05:00 GMT</pubDate>
     </item>
     <item>
       <title>经济终于稳定下来。特朗普上台后，经济形势会有所改变吗？</title>
@@ -83,25 +97,11 @@
       <pubDate>Wed, 18 Dec 2024 10:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯将军遇害案嫌疑人在莫斯科郊外被捕</title>
-      <link>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</link>
-      <description><![CDATA[俄罗斯检察官办公室称，这名嫌疑人是一名 29 岁的乌兹别克斯坦公民，他承认按照乌克兰特工的指令安放了炸弹。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</guid>
-      <pubDate>Wed, 18 Dec 2024 10:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>本田和日产正在就深化合作和可能的合并进行谈判</title>
-      <link>https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html</link>
-      <description><![CDATA[日本第二大和第三大汽车制造商之间的合并谈判凸显了世界汽车行业的激烈动荡。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html</guid>
-      <pubDate>Wed, 18 Dec 2024 06:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>疲惫不堪的拜登准备下台</title>
-      <link>https://www.nytimes.com/2024/12/17/us/politics/biden-final-days-in-office.html</link>
-      <description><![CDATA[拜登总统仍对大选心存芥蒂，正在努力实现自己的最终目标，但在多次警告特朗普对美国民主构成威胁后，他却没有参与有关特朗普的全国性讨论。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/politics/biden-final-days-in-office.html</guid>
-      <pubDate>Tue, 17 Dec 2024 22:02:45 GMT</pubDate>
+      <title>美国没有专门负责纳粹掠夺指控的小组。这种情况会改变吗？</title>
+      <link>https://www.nytimes.com/2024/12/18/arts/design/united-states-nazi-art-restitution-panel.html</link>
+      <description><![CDATA[欧洲一些国家设有赔偿委员会，负责裁决大屠杀中丢失的艺术品的赔偿事宜。有些人认为美国也应该设立赔偿委员会。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/arts/design/united-states-nazi-art-restitution-panel.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:02:43 GMT</pubDate>
     </item>
     <item>
       <title>特朗普起诉《得梅因纪事报》，加大对媒体的威胁</title>
