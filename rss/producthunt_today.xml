@@ -4,7 +4,21 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Dec 2024 21:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 00:49:49 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 LinkedIn 回顾</title>
+      <link>https://www.producthunt.com/posts/2024-linkedin-rewind-2</link>
+      <description><![CDATA[
+您的 LinkedIn 年度回顾帖子生成器。
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/2024-linkedin-rewind-2</guid>
+      <pubDate>Tue, 17 Dec 2024 05:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>独白</title>
       <link>https://www.producthunt.com/posts/monologue-2</link>
@@ -34,18 +48,18 @@
       <pubDate>Mon, 16 Dec 2024 21:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌我看到2</title>
-      <link>https://www.producthunt.com/posts/google-veo-2</link>
+      <title>库克：时钟</title>
+      <link>https://www.producthunt.com/posts/cook-clock</link>
       <description><![CDATA[
-Google 最先进的视频生成模型
+您一直想要的烹饪助手
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/google-veo-2</guid>
-      <pubDate>Mon, 16 Dec 2024 19:17:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/cook-clock</guid>
+      <pubDate>Mon, 16 Dec 2024 20:09:58 GMT</pubDate>
     </item>
     <item>
       <title>谷歌图片3</title>
@@ -62,32 +76,18 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Mon, 16 Dec 2024 18:05:48 GMT</pubDate>
     </item>
     <item>
-      <title>胡扯</title>
-      <link>https://www.producthunt.com/posts/waffle-7</link>
+      <title>无线电法学硕士</title>
+      <link>https://www.producthunt.com/posts/radio-llm</link>
       <description><![CDATA[
-每天与好友一起闲聊
+使用 Meshtastic 的离网、防灾 LLM 平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/waffle-7</guid>
-      <pubDate>Mon, 16 Dec 2024 16:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>玛雅</title>
-      <link>https://www.producthunt.com/posts/maia-4</link>
-      <description><![CDATA[
-简单易用的母乳喂养追踪器和妈妈护理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/maia-4</guid>
-      <pubDate>Mon, 16 Dec 2024 14:57:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/radio-llm</guid>
+      <pubDate>Mon, 16 Dec 2024 11:54:55 GMT</pubDate>
     </item>
     <item>
       <title>BoldVoice 口音神谕</title>
@@ -146,6 +146,20 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Tue, 03 Dec 2024 09:54:41 GMT</pubDate>
     </item>
     <item>
+      <title>Opencord AI 移动版</title>
+      <link>https://www.producthunt.com/posts/opencord-ai-mobile</link>
+      <description><![CDATA[
+一周内获得 100 多名客户，将 1000 多条评论转化为销售
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/opencord-ai-mobile</guid>
+      <pubDate>Mon, 25 Nov 2024 12:52:57 GMT</pubDate>
+    </item>
+    <item>
       <title>NewOaks 人工智能电话代理</title>
       <link>https://www.producthunt.com/posts/newoaks-ai-phone-agent</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@ Google 迄今为止质量最高的文本转图片模型
 ]]></description>
       <guid>https://www.producthunt.com/posts/aimfox</guid>
       <pubDate>Wed, 20 Nov 2024 17:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Findr：记住一切</title>
-      <link>https://www.producthunt.com/posts/findr-remember-everything</link>
-      <description><![CDATA[
-使用您的（AI）第二大脑解锁无限的数字记忆
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/findr-remember-everything</guid>
-      <pubDate>Tue, 29 Oct 2024 19:30:13 GMT</pubDate>
     </item>
     <item>
       <title>财务艺术</title>
