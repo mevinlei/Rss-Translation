@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 08:43:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 12:13:42 GMT</lastBuildDate>
     <item>
-      <title>7-Eleven 继承人斥资 500 亿美元保住家族企业</title>
-      <link>https://www.nytimes.com/2024/12/18/business/7-eleven-japan-corporate-culture.html</link>
-      <description><![CDATA[争夺连锁店控制权的斗争表明，家族所有者所推崇的传统商业模式与以股东为中心的经营方式发生了冲突。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/business/7-eleven-japan-corporate-culture.html</guid>
-      <pubDate>Wed, 18 Dec 2024 08:43:46 GMT</pubDate>
+      <title>特朗普提名赫歇尔·沃克担任驻巴哈马大使</title>
+      <link>https://www.nytimes.com/2024/12/17/us/politics/herschel-walker-bahamas-trump.html</link>
+      <description><![CDATA[在竞选佐治亚州参议院席位失败两年后，当选总统任命了这位前足球明星担任这一职务。]]></description>
+      <guid>https://www.nytimes.com/2024/12/17/us/politics/herschel-walker-bahamas-trump.html</guid>
+      <pubDate>Wed, 18 Dec 2024 11:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚阿萨德政权倒台后首班国内航班抵达阿勒颇</title>
+      <link>https://www.nytimes.com/2024/12/18/world/europe/syria-flight-damascus-aleppo-rebels.html</link>
+      <description><![CDATA[叙利亚过渡政府试图证明其管理这个饱受战争摧残的国家的能力，周三，一架从大马士革起飞的叙利亚航空客机降落在阿勒颇。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/europe/syria-flight-damascus-aleppo-rebels.html</guid>
+      <pubDate>Wed, 18 Dec 2024 11:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储预计将降息，首席执行官枪击恐怖分子嫌疑人</title>
+      <link>https://www.nytimes.com/2024/12/18/podcasts/fed-mangione-beef-tallow.html</link>
+      <description><![CDATA[此外，还有一种强劲的新护肤趋势。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/podcasts/fed-mangione-beef-tallow.html</guid>
+      <pubDate>Wed, 18 Dec 2024 11:12:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储公布 2024 年最终利率决策之际值得关注的事情</title>
+      <link>https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html</link>
+      <description><![CDATA[人们普遍预计美联储官员将降息，但投资者将关注下一步行动的暗示。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/business/fed-meeting-interest-rates.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:04:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济终于稳定下来。这种情况即将改变吗？</title>
+      <link>https://www.nytimes.com/2024/12/18/business/economy/trump-us-economy.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普关于关税、移民、税收和放松管制的提议可能会产生深远而矛盾的影响，给预测增添不确定性。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/business/economy/trump-us-economy.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿萨德士兵希望获得特赦。首先，他们必须接受调查。</title>
+      <link>https://www.nytimes.com/2024/12/18/world/middleeast/syria-assad-soldier-amnesty.html</link>
+      <description><![CDATA[叙利亚新统治者表示，他们将放过巴沙尔·阿萨德的士兵，并追捕那些监督其政权暴行的人。数百人排队等待了解哪些承诺适用于他们。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/middleeast/syria-assad-soldier-amnesty.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普世界在如何让美国更健康的问题上出现分歧</title>
+      <link>https://www.nytimes.com/2024/12/18/health/ozempic-food-rfk-elon-musk.html</link>
+      <description><![CDATA[小罗伯特·F·肯尼迪和埃隆·马斯克的言论引发了关于改变生活方式还是药物是治疗肥胖症的更好方法的争论。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/health/ozempic-food-rfk-elon-musk.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯将军遇害案嫌疑人在莫斯科郊外被捕</title>
+      <link>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</link>
+      <description><![CDATA[俄罗斯检察官办公室称，这名嫌疑人是一名 29 岁的乌兹别克斯坦公民，他承认按照乌克兰特工的指令安放了炸弹。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>曾经繁荣的毒品小镇在塔利班统治下走向衰败</title>
+      <link>https://www.nytimes.com/2024/12/18/world/asia/afghanistan-opium-heroin-taliban.html</link>
+      <description><![CDATA[塔利班为与美国的战争提供资金，从贩卖鸦片、海洛因和冰毒的新兴城镇赚取了数百万美元。该组织在胜利后摧毁了这些贸易，留下的只是一片鬼城。]]></description>
+      <guid>https://www.nytimes.com/2024/12/18/world/asia/afghanistan-opium-heroin-taliban.html</guid>
+      <pubDate>Wed, 18 Dec 2024 10:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为何对加沙停火的乐观情绪日益高涨</title>
+      <link>https://www.nytimes.com/2024/12/17/world/middleeast/gaza-israel-hamas-cease-fire.html</link>
+      <description><![CDATA[受多重因素推动，和平谈判步伐加快，其中包括黎巴嫩和叙利亚战争严重削弱了哈马斯的盟友，以及唐纳德·J·特朗普在选举中的胜利。]]></description>
+      <guid>https://www.nytimes.com/2024/12/17/world/middleeast/gaza-israel-hamas-cease-fire.html</guid>
+      <pubDate>Wed, 18 Dec 2024 09:59:48 GMT</pubDate>
     </item>
     <item>
       <title>视频记录了俄罗斯将军伊戈尔·基里洛夫被炸身亡的爆炸场景</title>
@@ -18,13 +81,6 @@
       <description><![CDATA[一段记录高级将领伊戈尔·基里洛夫被刺杀的视频片段提供了一些有关爆炸装置威力和放置位置的线索。]]></description>
       <guid>https://www.nytimes.com/2024/12/17/world/europe/russian-general-assassination-igor-kirillov-video.html</guid>
       <pubDate>Wed, 18 Dec 2024 07:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯将军遇害案嫌疑人在莫斯科郊外被捕</title>
-      <link>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</link>
-      <description><![CDATA[俄罗斯检察官发言人说，嫌疑人是一名 29 岁的乌兹别克斯坦公民，他承认在莫斯科放置了炸死中将伊戈尔·基里洛夫的炸弹。]]></description>
-      <guid>https://www.nytimes.com/2024/12/18/world/europe/russia-general-killing-suspect-uzbekistan.html</guid>
-      <pubDate>Wed, 18 Dec 2024 07:10:06 GMT</pubDate>
     </item>
     <item>
       <title>众议院共和党人呼吁对利兹·切尼在 1 月 6 日委员会中的角色进行调查</title>
@@ -46,62 +102,6 @@
       <description><![CDATA[日本第二大和第三大汽车制造商之间的合并谈判凸显了世界汽车行业的激烈动荡。]]></description>
       <guid>https://www.nytimes.com/2024/12/17/business/honda-nissan-talks-merger.html</guid>
       <pubDate>Wed, 18 Dec 2024 06:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普提名赫歇尔·沃克担任驻巴哈马大使</title>
-      <link>https://www.nytimes.com/2024/12/17/us/politics/herschel-walker-bahamas-trump.html</link>
-      <description><![CDATA[在竞选佐治亚州参议院席位失败两年后，当选总统任命了这位前足球明星担任这一职务。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/politics/herschel-walker-bahamas-trump.html</guid>
-      <pubDate>Wed, 18 Dec 2024 04:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会领导人公布与灾难援助相关的短期支出法案</title>
-      <link>https://www.nytimes.com/2024/12/17/world/europe/congress-short-term-spending-bill.html</link>
-      <description><![CDATA[该举措最初只是避免政府停摆几个月的一项简单的权宜之计，后来却吸引了超过1000亿美元的紧急救灾和农业援助，以及一系列不相关的政策措施。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/world/europe/congress-short-term-spending-bill.html</guid>
-      <pubDate>Wed, 18 Dec 2024 02:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Luigi Mangione 被指控谋杀 UnitedHealthcare 首席执行官</title>
-      <link>https://www.nytimes.com/2024/12/17/nyregion/mangione-first-degree-murder-terrorism.html</link>
-      <description><![CDATA[大陪审团正式起诉路易吉·曼吉奥内 (Luigi Mangione) 涉嫌杀害联合健康集团 (UnitedHealthcare) 首席执行官布莱恩·汤普森 (Brian Thompson)。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/nyregion/mangione-first-degree-murder-terrorism.html</guid>
-      <pubDate>Wed, 18 Dec 2024 02:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>威斯康星州校园枪击案：麦迪逊居民悲痛万分，等待了解更多详情</title>
-      <link>https://www.nytimes.com/2024/12/17/us/wisconsin-school-shooting-madison-residents.html</link>
-      <description><![CDATA[威斯康星州官员周二没有透露有关枪击事件的最新信息，该事件造成一名学生和一名教师死亡，另有六人受伤。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/wisconsin-school-shooting-madison-residents.html</guid>
-      <pubDate>Wed, 18 Dec 2024 01:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府已没有足够的时间向乌克兰提供分配的援助</title>
-      <link>https://www.nytimes.com/2024/12/17/us/politics/ukraine-aid-biden-trump.html</link>
-      <description><![CDATA[高级官员讨论了美国宣布向乌克兰提供更多支持的计划，并谈到了援俄朝鲜军队的伤亡情况。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/politics/ukraine-aid-biden-trump.html</guid>
-      <pubDate>Wed, 18 Dec 2024 00:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>谢罗德·布朗 (Sherrod Brown) 在参议院签字。目前。</title>
-      <link>https://www.nytimes.com/2024/12/17/us/sherrod-brown-senate-career.html</link>
-      <description><![CDATA[俄亥俄州资深民主党参议员告诉同事，尽管他遭遇失败，但他还没有放弃政治生涯。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/sherrod-brown-senate-career.html</guid>
-      <pubDate>Tue, 17 Dec 2024 23:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>疫情爆发以来，校园周边枪支暴力事件增多</title>
-      <link>https://www.nytimes.com/2024/12/17/us/gun-violence-school-shootings-pandemic.html</link>
-      <description><![CDATA[但大规模枪击事件仍然罕见。全国近 13 万所学校中，每年只有一小部分学校报告枪击事件。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/gun-violence-school-shootings-pandemic.html</guid>
-      <pubDate>Tue, 17 Dec 2024 22:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>疲惫不堪的拜登准备下台</title>
-      <link>https://www.nytimes.com/2024/12/17/us/politics/biden-final-days-in-office.html</link>
-      <description><![CDATA[拜登总统仍对大选心存芥蒂，正在努力实现自己的最终目标，但在多次警告特朗普对美国民主构成威胁后，他却没有参与有关特朗普的全国性讨论。]]></description>
-      <guid>https://www.nytimes.com/2024/12/17/us/politics/biden-final-days-in-office.html</guid>
-      <pubDate>Tue, 17 Dec 2024 22:02:45 GMT</pubDate>
     </item>
     <item>
       <title>特朗普起诉《得梅因纪事报》，加大对媒体的威胁</title>
