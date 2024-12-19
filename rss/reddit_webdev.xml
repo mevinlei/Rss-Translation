@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 00:50:52 GMT</lastBuildDate>
     <item>
-      <title>技术文档的 SSG</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh7bky/ssg_for_tech_docs/</link>
-      <description><![CDATA[建议任何类似于 MkDocs (+ mkdocs-material) 的 SSG。我使用它大约一个月，但有一些我无法克服的危险信号：  许多有用的功能仅在内部分发中提供（需要付费或需要成为赞助商） 导航很慢 已经在 UI 中投入了如此多的 css，也许从头开始编写它更容易     提交人    /u/kitsen_battousai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh7bky/ssg_for_tech_docs/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:54:21 GMT</pubDate>
+      <title>选择数据库提供商和架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhg955/choosing_a_database_provider_and_architecture/</link>
+      <description><![CDATA[我对 SQL 和 NoSQL 都有基本的了解，但之前从未在生产中使用过数据库。同样，我从来没有自己设计过数据库架构，所以你可以想象，我非常困惑 :) 任何帮助都值得感激。 该项目是一个平台，允许医生远程监控患者的心理健康。它具有临时访客注册等功能（应在 X 天后从数据库中清除）、日志、聊天消息和视频通话、RAG、患者特定表格、医疗预设/模板、教育课程、基于日历的事件以及用于上述基于日历的事件的拖放编辑器功能。 我知道它有很多功能，但我可以将其视为一种学习体验，并尝试尽可能多地完成这些功能 目前正在考虑使用 Redis 或 NoSQL 等主要 SQL 数据库来存储聊天消息和 AI。不过，我对数据库提供商和 ORM 非常不熟悉，所以不确定要选择哪一个（热衷于 PostgreSQL）。还想知道这里的最佳实践是什么 TIA    提交人    /u/InfinityZeroFive   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhg955/choosing_a_database_provider_and_architecture/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:29:27 GMT</pubDate>
     </item>
     <item>
-      <title>学习 React 的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh78ot/best_way_to_learn_react/</link>
-      <description><![CDATA[嗨，我正在尝试学习 react、html 和 CSS，以便能够制作自己的专业外观的 Web 应用程序。具体来说，要学习 react，最好的去处是什么？我看过像 scrimba.com 这样的资源，它看起来不错，但价格是一年 180 英镑，我想知道是否有更便宜或更好的学习 react 的替代方案。    提交人    /u/ruari636   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh78ot/best_way_to_learn_react/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:50:46 GMT</pubDate>
+      <title>客户要求“弹出”折扣信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhg8pq/client_asked_for_pop_ups_for_discounts/</link>
+      <description><![CDATA[标题。坚持要弹出一个窗口为新客户提供折扣。我告诉他这听起来不是一个好主意，因为它们很烦人。我说也许可以在英雄部分某处放置一个浮动的 CTA 按钮或一个显眼的固定 CTA，而不是实际的弹出窗口。有什么想法吗？我应该为他做吗？    提交人    /u/astralbooze   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhg8pq/client_asked_for_pop_ups_for_discounts/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:28:51 GMT</pubDate>
     </item>
     <item>
-      <title>如何在网站上编写游戏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh6l10/how_do_i_program_a_game_in_a_website/</link>
-      <description><![CDATA[我明年将毕业于 IT 专业，我的一个项目是每个小组都要制作一个网站来向全校展示，当然这很简单，我学了一点 HTML、CSS 和 JavaScript，但是我从其他演示中了解到，人们不关心任何技术，你会告诉他们“哦，是的，我用我的眼泪和鲜血编写了这个程序”，他们不会理解写在他们面前的文字，他们不关心任何没有功能的东西（意味着他们可以与之交互）所以我在考虑制作一个非常非常简单的游戏，或者三个，他们可以一起玩，例如那个有两个条形物相互发送球的东西？虽然很简单，但那会吸引他们的注意力，我想我需要使用其他语言，我准备花几天时间学习，只是需要知道我应该从哪里开始。任何提示都将不胜感激！  Tldr：学校项目，明年，我该如何开始学习它？    提交人    /u/explorerkiil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh6l10/how_do_i_program_a_game_in_a_website/</guid>
-      <pubDate>Wed, 18 Dec 2024 17:22:13 GMT</pubDate>
+      <title>CSR/SPA 是否太过分了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhg0i9/is_csrspa_going_too_far/</link>
+      <description><![CDATA[大家好！ 我目前从事 Web 开发工作，而我看到行业中推广的唯一范例是使用 API 调用来构建网站和服务。 每个人都告诉我“这是方法”和“新的革命性技术”，但真的是这样吗？就我个人而言，我有很多事情与整个 JS 和 CSR 革命背道而驰。 我经历过硬件稳定的计算机加载页面缓慢或无缘无故地消耗大量资源。十年前，当所有内容都已从服务器渲染（SSR）时，互联网感觉更顺畅、更快。如今，大多数计算机在打开 10 多个标签页后就会停止正常运行。 您可能认为，凭借如今的硬件，让服务器完成所有工作会比以前更便宜、更高效，但我们更愿意将所有压力都放在客户端的设备上，而牺牲用户体验？ 我还想补充一点，与原生编写的应用程序相比，许多基于 ElectronJS 的应用程序消耗了大量资源，但那是另一回事。 我真的不想显得不专业，但这些想法我不能在工作中说出，因为他们会认为我不进步，没有跟上最新标准。您如何看待当今对 API 和 SPA 的痴迷？    提交人    /u/BandAdmirable9120   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhg0i9/is_csrspa_going_too_far/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:18:02 GMT</pubDate>
     </item>
     <item>
-      <title>关于付费订阅的用户体验问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh5zbt/ux_question_regarding_a_paid_subscription/</link>
-      <description><![CDATA[因此，我正在创建一个提供付费订阅的网站，可以按月或按年付费。他们可以使用免费版本而无需执行任何操作，但付费订阅可以提供更多存储空间。我正在使用 Stripe SDK 来设置订阅。 目前，我没有在下一个结算期取消的选项，因为如果他们在发送取消请求和下一个结算期开始之间最终超出存储限制怎么办。所以我只要求他们立即取消（获得未使用时间的退款），并且有一些文字说“建议您返回并删除部分内容到其所在的位置...或者您必须选择“立即删除我的所有内容”（并且有一个复选框）如果他们目前超出了存储限制。  现在我的问题是，每当他们开始新的订阅时，我是否应该让他们等待一段时间（例如 48 小时）才能提出取消请求？这样，他们就不会在一天内发送条纹和大量请求。     提交人    /u/TheWebDever   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh5zbt/ux_question_regarding_a_paid_subscription/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:56:42 GMT</pubDate>
+      <title>获取 Instagram 关注者数量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhfw56/get_instagram_follower_count/</link>
+      <description><![CDATA[如何获取给定用户名的 Instagram 关注者数量。我尝试了一些 npm 包，但没有一个返回正确的结果    提交人    /u/Sea-Coconut-3833   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhfw56/get_instagram_follower_count/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>为什么网站会在没有人要求的情况下不断更改其用户界面和功能的一些细枝末节？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh5ucc/why_do_websites_constantly_change_minor_things/</link>
-      <description><![CDATA[我成长的过程中经常注意到这一点，也看到了 YouTube 这些年来的变化。YouTube 曾经拥有社交媒体功能，例如个人资料、添加好友和评论他人的个人资料。然后，在 2010 年代，个人资料慢慢地变得越来越像我们今天所拥有的。我不记得人们是否讨厌这些变化。但 YouTube 近年来做的一些事情让人们很生气，比如删除不喜欢计数。 我想你可以原谅 YouTube，人们更直言不讳的原因部分是因为对 YouTube 对待其创作者的方式不满（非货币化、偏见等）。而不仅仅是他们所做的随机改变。 但这不仅仅是 YouTube，Twitch 最近对 UI 进行了一个小的更改，改变了流媒体个人资料和流媒体名称在流媒体期间的位置。这没什么大不了的，但人们会问“他们为什么要改变它？” 当然，像 X/Twitter 这样的网站所做的改变会让人恼火。我记得字体随机改变的时候。我不知道它现在是否还在，或者它是否恢复了。 我的问题是为什么会这样？这是一种保持新鲜和更新的策略/幻觉吗？还是因为做决定的人真的相信他们更好？    提交人    /u/MorphyVA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh5ucc/why_do_websites_constantly_change_minor_things/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:50:37 GMT</pubDate>
+      <title>社区网站中的 Web 应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhfv5y/webapp_in_a_community_site/</link>
+      <description><![CDATA[我正在寻找一个社区网站（如 Circle 或 Mighty Networks），我也可以在那里托管 webapps。有人能建议一下吗？    提交人    /u/cambridgecitizen   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhfv5y/webapp_in_a_community_site/</guid>
+      <pubDate>Thu, 19 Dec 2024 00:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>在客户建立网站之前，您是否向他们提供线框图/设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh5ka9/do_you_give_your_clients_a_wireframedesign_before/</link>
-      <description><![CDATA[嘿，开发人员！我已经从事自己的 Web 开发/设计自由职业大约 5 年了，我从来没有给过客户一个线框或设计来批准。我主要做小型企业网站，价格从 1.5 万美元（WordPress 网站）到 8 千美元（自定义网站）不等，每年做大约 20 个网站。位于加拿大。 我和他们坐下来讨论他们的需求，然后开始构建网站 - 只有在网站全部完成后才向他们展示网站草稿，然后在那时进行调整。我通常只给他们 1-2 次修改，所以我们会坐下来讨论他们喜欢和不喜欢的一切，我会根据他们的反馈进行调整。 到目前为止一切都很好，让我能够快速且经济地完成项目。我只是想知道这是否很常见，或者您是否在构建任何东西之前向客户提供设计概念？ 我知道这可能是最佳做法，但如果只有 50 个客户中的 1 个不喜欢最终设计 - 我认为在我的场景中尝试将其添加到我的产品中是不值得的。 我考虑过聘请一名设计师专门做这件事，但他要价 2k-4k 美元进行设计，这会让我失去很多我所做的工作。    提交人    /u/freshestgasoline   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh5ka9/do_you_give_your_clients_a_wireframedesign_before/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:38:22 GMT</pubDate>
+      <title>寻求有关如何创建营销网站 (Example.com) 和 Web 应用网站 (App.Example.com) 的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhet3m/seeking_help_on_how_to_create_a_marketing_website/</link>
+      <description><![CDATA[我正在构建一个 Web 应用程序，并且我很清楚最好在 example.com 上建立一个营销/销售网站，然后在 app.example.com 上建立 Web 应用程序。 我计划在 WordPress（可能是 Elementor）上构建营销/销售网站，然后在 MERN 堆栈上构建 WebApp（我已经参与了这个过程）。 我很好奇用户身份验证如何工作，而且似乎没有好的博客或指南（如果您知道一些，请对其进行评论）。我很乐意听取一些关于如何实现这一目标的意见、反馈和见解。 主要问题：  哪些是用于创建用户登录和付款的最佳 WP 插件，它们还将创建可用于 WebApp 的登录用户名和密码。 我需要将什么集成到 WebApp 中才能创建登录页面？ 在 Web 应用程序中，我假设我需要一个用于账单等的帐户管理页面。是否有任何 SaaS 或集成可以用来简化此操作？例如，当您在 app.grammarly.com 中单击我的帐户时，您将被带到网站 account.grammarly.com。是否有我可以使用帐户管理公司/软件，即使这意味着第三个网站哈哈？或者是否有可以集成到我的 WP 站点的插件？  我想要的流程（我愿意接受建议）：  用户转到营销站点上的销售页面 他们选择他们想要的计划 他们被带到结帐处，在那里他们创建帐户并进行购买。 购买后，他们被重定向到可以登录的 Web 应用程序。  如能得到任何帮助或指导，我们将不胜感激    提交人    /u/Aintellectual_Prof   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhet3m/seeking_help_on_how_to_create_a_marketing_website/</guid>
+      <pubDate>Wed, 18 Dec 2024 23:20:46 GMT</pubDate>
     </item>
     <item>
-      <title>CLI 创建 Javascript Commerce Backends（例如 shopify）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh537q/cli_to_create_javascript_commerce_backends_like/</link>
-      <description><![CDATA[       由    /u/hendrixstring  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh537q/cli_to_create_javascript_commerce_backends_like/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:17:24 GMT</pubDate>
+      <title>英国的在线论坛可能会在明年年初消失</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hher18/online_forums_in_the_uk_may_disappear_early_next/</link>
+      <description><![CDATA[Casual UK 讨厌我，所以我将其移到这里，因为需要让更多人知道它。 我经营一个小型老式网络论坛，已经经营了大约 16 年。虽然它们不像以前那么受欢迎，但仍有很多 - 大型论坛如 Mumsnet 和 Pistonheads，小型论坛如 beex.co.uk 和许多其他论坛。 长话短说，新的 OFCOM 立法基本上将在 3 月份取缔它们（除非你有大量现金可花），人们才刚刚意识到这一点。 更多信息请见：https://www.lfgss.com/conversations/401475/ 这是 OFCOM 页面：https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/    提交人    /u/Grimdotdot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hher18/online_forums_in_the_uk_may_disappear_early_next/</guid>
+      <pubDate>Wed, 18 Dec 2024 23:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>您将 Turso 用于哪些类型的项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh4yhf/what_types_of_projects_do_you_use_turso_for/</link>
-      <description><![CDATA[嗨，开发人员， 我正在探索 Turso，并且对您使用它进行过的项目类型或用例感到好奇。无论它是否运行良好，我都希望听到您的经验和见解！    由   提交  /u/stosssik   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh4yhf/what_types_of_projects_do_you_use_turso_for/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:11:36 GMT</pubDate>
+      <title>SFCC 全栈开发人员希望在 Salesforce 生态系统之外找到新工作……该怎么做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hheoos/sfcc_fullstack_developer_looking_to_get_a_new_job/</link>
+      <description><![CDATA[大家好，我已经在 Salesforce Commerce Cloud 领域担任 Web 开发人员大约 4 年了，最初是前端开发人员，后来是全栈开发人员，但出于多种原因，我正在寻找新工作。如果可能的话，我想离开 Salesforce 领域，因为我相信这会让我在可以从事的工作类型上更加灵活，并且可能为我开始自由职业提供机会。但是，我不知道应该学什么，更不知道如何向潜在雇主展示我所知道的知识。我已经非常熟悉 HTML、CSS 和 JS，但我觉得除此之外的很多知识都与 SFCC 非常相关。到目前为止，我读到的是，我应该学习一个前端框架，例如 React，然后学习后端的 Node 和 SQL？然后我会用这些来构建项目来向潜在雇主展示吗？我只是有点害怕学习所有这些新技术，并且我的整个简历仍然与 Salesforce 相关。有什么想法吗？    提交人    /u/fucklucksucks   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hheoos/sfcc_fullstack_developer_looking_to_get_a_new_job/</guid>
+      <pubDate>Wed, 18 Dec 2024 23:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAUTH：通用、基于标准的身份验证提供商</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh4x75/openauth_universal_standardsbased_auth_provider/</link>
-      <description><![CDATA[        提交人    /u/MissionToAfrica   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh4x75/openauth_universal_standardsbased_auth_provider/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:09:58 GMT</pubDate>
+      <title>Safari 技术预览版 210 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhe2jz/release_notes_for_safari_technology_preview_210/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhe2jz/release_notes_for_safari_technology_preview_210/</guid>
+      <pubDate>Wed, 18 Dec 2024 22:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>当包装打开时，如何使只有一个 flexbox 子项与横轴末端对齐。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh4f5j/how_to_make_just_one_flexbox_child_to_align_at/</link>
-      <description><![CDATA[      网页 在此我使用了 flexbox，其中跨越整个页面的主容器是 #start 跨越整个页面。里面有三个容器：较长的框（宽度为 100%）、较短的框（宽度为 40%）和绿色框。绿色框是 #start .controls 。目前使用我的代码，绿色框的实际位置在红色框的位置。但我希望它位于绿色框的位置，而其余的黑色框应留在它的位置。这是我的代码： #start { display: flex; flex-wrap: wrap; justify-content: space-between; align-content: center; } #start .controls { width: 40%; }     提交人    /u/Valoruz   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh4f5j/how_to_make_just_one_flexbox_child_to_align_at/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:47:37 GMT</pubDate>
+      <title>飞行前请求很麻烦</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhcyeq/preflight_request_is_a_pain_in_the_ass/</link>
+      <description><![CDATA[你们都是怎么绕过预检请求的？我从来没能绕过它们；每当我遇到它们时，我总是使用 websockets 来绕过它们。但现在我无处可逃。我认为在这种情况下使用 websockets 并不理想。所以我有一个非常简单的注册课程的请求。 const res = await Axios.post( &quot;http://localhost:4403/lec/last-checked&quot;, { date, coursecode, groupid, studentId }, );  控制器函数 export const registerCourse = async (req: Request, res: Response) =&gt; { console.log(req); // 做一些事情 };  Cors 配置 const allowedOrigins = [&quot;http://localhost:5173&quot;, &quot;https://record-attendance.vercel.app&quot;]; const corsOptions = { origin: function (origin: string | undefined, callback: CorsCallback) { if (!origin || allowedOrigins.indexOf(origin) !== -1) { callback(null, true); } else { callback(new Error(&quot;Not allowed by CORS&quot;), false); } }, methods: [&quot;GET&quot;, &quot;POST&quot;, &quot;PATCH&quot;, &quot;PUT&quot;, &quot;DELETE&quot;], allowedHeaders: [&quot;Content-Type&quot;, &quot;Authorization&quot;], optionsSuccessStatus: 200, }; app.use(cors(corsOptions));  编辑：它之前还可以用，但是突然就变成了预检请求。    提交人    /u/Zelda_06   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhcyeq/preflight_request_is_a_pain_in_the_ass/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:57:32 GMT</pubDate>
     </item>
     <item>
-      <title>Storecraft CLI 可以生成 javascript 商务后端（适用于任何数据库、存储和计算）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh4bwv/storecraft_cli_can_generate_a_javascript_commerce/</link>
-      <description><![CDATA[      这是一个演示 https://preview.redd.it/piky3ucunm7e1.png?width=2544&amp;format=png&amp;auto=webp&amp;s=39e7d3ea3ccd96beb480c8f228066561cebd312f    提交人    /u/hendrixstring   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh4bwv/storecraft_cli_can_generate_a_javascript_commerce/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:43:36 GMT</pubDate>
+      <title>带有 Nuxt 和 Pocketbase 的演示应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhctef/demo_app_wnuxt_and_pocketbase/</link>
+      <description><![CDATA[大家好，我使用 nuxt 和 pocketbase 创建了一个演示应用程序。它具有身份验证、验证、文件和实时功能。希望这对使用此堆栈的任何人都有用。  Pocketbase 在这里更多地用作无头 cms。 后端：https://github.com/Macawls/notes-app-demo-backend 前端：https://github.com/Macawls/notes-app-demo-frontend    提交人    /u/jmacawls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhctef/demo_app_wnuxt_and_pocketbase/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:51:27 GMT</pubDate>
     </item>
     <item>
-      <title>为什么使用样式化的组件会破坏菜单锚点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh3ys3/why_does_using_a_styled_component_break_the_menu/</link>
-      <description><![CDATA[您好，我是 Material UI (MUI) 和 Styled Components 的新手，我无法弄清楚为什么会发生以下情况。 问题 我的导航栏中有这个非常基本的菜单，基本上是从 MUI 文档中复制而来的： &lt;div style={{ display: &quot;inline&quot;, textAlign: &quot;right&quot;, float: &quot;right&quot;, padding: &quot;3px 0 0 0&quot; }} &gt; &lt;Button style={{ padding: 0, color: &quot;white&quot; }} id=&quot;basic-button&quot; aria-controls={open ? &#39;basic-menu&#39; : undefined} aria-haspopup=&quot;true&quot; aria-expanded={open ? &#39;true&#39; : undefined} onClick={handleClick} &gt; 欢迎 {props.firstName} {props.lastName} &lt;ArrowDropDownIcon style={{ paddingBottom: &quot;1px&quot; }} /&gt; &lt;/Button&gt; &lt;Menu id=&quot;basic-menu&quot; anchorEl={anchorEl} open={open} onClose={handleClose} MenuListProps={{&#39;aria-labelledby&#39;: &#39;basic-button&#39;}} &gt; &lt;MenuItem onClick={handleClose}&gt;用户资料&lt;/MenuItem&gt; &lt;MenuItem onClick={handleClose}&gt;注销&lt;/MenuItem&gt; &lt;/Menu&gt; &lt;/div&gt;  这与您所期望的完全一样。单击按钮将打开菜单，并且菜单将锚定在按钮的底部。 但是通过将其更改为带样式的 div，如下所示：  const StyledContainer = styled(&#39;div&#39;)({ display: &quot;inline&quot;, textAlign: &quot;right&quot;, float: &quot;right&quot;, padding: &quot;3px 0 0 0&quot; }); &lt;StyledContainer&gt; &lt;Button style={{ padding: 0, color: &quot;white&quot; }} id=&quot;basic-button&quot; aria-controls={open ? &#39;basic-menu&#39; : undefined} aria-haspopup=&quot;true&quot; aria-expanded={open ? &#39;true&#39; : undefined} onClick={handleClick} &gt; 欢迎 {props.firstName} {props.lastName} &lt;ArrowDropDownIcon style={{ paddingBottom: &quot;1px&quot; }} /&gt; &lt;/Button&gt; &lt;Menu id=&quot;basic-menu&quot; anchorEl={anchorEl} open={open} onClose={handleClose} MenuListProps={{&#39;aria-labelledby&#39;: &#39;basic-button&#39;}} &gt; &lt;MenuItem onClick={handleClose}&gt;用户资料&lt;/MenuItem&gt; &lt;MenuItem onClick={handleClose}&gt;注销&lt;/MenuItem&gt; &lt;/Menu&gt; &lt;/StyledContainer&gt;  此更改现在会导致单击按钮时菜单在屏幕最左侧打开（按钮位于屏幕最右侧）。我尝试查看 MUI 文档，并在 Stack Overflow 中搜索为什么会发生这种情况，但我无法弄清楚。提前感谢您的帮助。    提交人    /u/somewut_anonymous   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh3ys3/why_does_using_a_styled_component_break_the_menu/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:27:02 GMT</pubDate>
+      <title>请注意 - Namecheap 不再便宜</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhcbco/be_aware_namecheap_is_not_longer_cheap/</link>
+      <description><![CDATA[        提交人    /u/zaphod4th   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhcbco/be_aware_namecheap_is_not_longer_cheap/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:29:30 GMT</pubDate>
     </item>
     <item>
-      <title>需要你的意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh3kk6/need_your_opinion/</link>
-      <description><![CDATA[我被委托为一位音乐家创建一个单页网站来展示他们的音乐。作为一名开发人员，我更关注构建和编码，而不是复杂的设计。过去，我考虑使用 WordPress 主题，根据音乐家的需求进行自定义。然而，最近对 WordPress 稳定性和维护的担忧让我重新考虑了这种方法。 我正在寻找提供更易于管理的后端和类似 CMS 功能的替代平台的建议。理想情况下，我正在寻找一种解决方案，既能简化上传和管理音乐文件的过程，又能保持用户友好的界面。    提交人    /u/Guilty-Caramel157   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh3kk6/need_your_opinion/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:08:11 GMT</pubDate>
+      <title>用于从图像中剪切出脸部的 API 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhc1fe/api_for_cutting_out_faces_from_images/</link>
+      <description><![CDATA[嗨！想知道是否有人知道一个 API（付费也可以）用于拍摄照片并返回透明 PNG 上的人脸，裁剪到头部？ 一位客户要求一个具有这种非常特殊功能的图像生成器网站，可能被几千人或更多人使用。我在一个名为 CutoutPro 的网站上找到了“Face Cutout”API，它似乎完全符合我的要求，但是根据我在 reddit 上发现的关于缺乏支持、密码泄露和计费问题的评论，该网站似乎有点可疑。 有人知道可靠的替代方案吗？    提交人    /u/CapitalQ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhc1fe/api_for_cutting_out_faces_from_images/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助显示文本行（重新发布因为我没有添加文本）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/</link>
-      <description><![CDATA[      https://preview.redd.it/0157ggt9em7e1.png?width=887&amp;format=png&amp;auto=webp&amp;s=59e01ab94bcd4cf2d6d119fa21fa7b563b139b37 我之前的帖子没有包含文本（我在创建新帖子时从“文本”选项卡切换到“图像”选项卡，而没有检查是否重新添加文本）所以我正在创建一个新的帖子来修复它！  对您造成的所有不便深表歉意！ 我目前正在制作一个打字测试网站。 要输入的单词被格式化为框中的一串单词。我希望当用户完成输入一行时，该行会向上移动，为下一行留出空间。 我目前正在使用 -webkit-line-clamp 和 overflow: hidden 来强制仅显示 3 行文本，但我不知道如何检测用户何时完成输入一行。 我在想，每当用户使用“空格键”提交一个单词时，我都会检查下一个单词是否适合当前行；如果没有，请执行逻辑。 但我不知道从哪里开始从技术上解决这个问题。 任何帮助表示感谢！ 再次向大家表示歉意，感谢您的阅读！    提交人    /u/PotHeadCGV   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh370e/need_help_with_displaying_rows_of_text_repost/</guid>
-      <pubDate>Wed, 18 Dec 2024 14:50:33 GMT</pubDate>
+      <title>你使用什么文本编辑器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhby4w/what_text_editor_do_you_use/</link>
+      <description><![CDATA[如果您最喜欢的文本编辑器不在这里，那是因为 Reddit 限制我最多只能提供 6 个选项。如果您选择“其他”，请在评论中提及您选择的文本编辑器！ 查看投票    由   提交  /u/sYfPxiq2sDlIltLc5ux1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhby4w/what_text_editor_do_you_use/</guid>
+      <pubDate>Wed, 18 Dec 2024 21:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>如果我是新人，工作多少小时，工资是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/</link>
-      <description><![CDATA[如果我是自由职业者，从事网页开发，并且是一名应届毕业生，我们能得到多少报酬，需要工作多少小时？    提交人    /u/Autumn_Red_29   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hh2xbx/how_much_hours_for_how_much_payment_if_im_a/</guid>
-      <pubDate>Wed, 18 Dec 2024 14:37:26 GMT</pubDate>
+      <title>现在技术面试流程怎么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hhbcek/how_tech_interview_process_going_on_nowadays/</link>
+      <description><![CDATA[你好，我有一个奇怪的问题，我 3 年前参加了最后一次技术面试，我被安排回家了:))) 之后我签约了那家公司，所以到了那一天，我正在寻找新的机会，安排了几次面试，那么从你的个人经验来看，这 3 年里发生了什么变化，现在的技术面试通常是怎么样的？只有 leetcode 💩 还是面试官还会问一些现实生活中的问题？在每种情况下都需要现场编码吗？所以发生了什么事 🤓🤓    提交人    /u/AccordingLeague9797   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hhbcek/how_tech_interview_process_going_on_nowadays/</guid>
+      <pubDate>Wed, 18 Dec 2024 20:47:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
