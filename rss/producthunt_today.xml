@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Dec 2024 09:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 12:19:09 GMT</lastBuildDate>
     <item>
       <title>量子算法即服务（Q3AS）</title>
       <link>https://www.producthunt.com/posts/quantum-algorithm-as-a-service-q3as-2</link>
@@ -174,20 +174,6 @@ OpenAI 最先进的模型，o1 API 提供给第三方开发者
       <pubDate>Wed, 18 Dec 2024 05:06:35 GMT</pubDate>
     </item>
     <item>
-      <title>LangWatch优化工作室</title>
-      <link>https://www.producthunt.com/posts/langwatch-optimization-studio</link>
-      <description><![CDATA[
-使用 DSPy 评估和优化您的 LLM 性能
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/langwatch-optimization-studio</guid>
-      <pubDate>Tue, 17 Dec 2024 09:21:50 GMT</pubDate>
-    </item>
-    <item>
       <title>股票行情栏</title>
       <link>https://www.producthunt.com/posts/tickerbar</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@ macOS 的股票市场和加密货币价格
 ]]></description>
       <guid>https://www.producthunt.com/posts/tickerbar</guid>
       <pubDate>Fri, 13 Dec 2024 15:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>堆栈列表</title>
+      <link>https://www.producthunt.com/posts/stacklist-2</link>
+      <description><![CDATA[
+保存和分享您最喜爱的东西的最简单方法
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/stacklist-2</guid>
+      <pubDate>Tue, 10 Dec 2024 18:07:39 GMT</pubDate>
     </item>
     <item>
       <title>易派贝塔</title>
