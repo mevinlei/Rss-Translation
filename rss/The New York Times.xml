@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 03:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:05:08 GMT</lastBuildDate>
+    <item>
+      <title>对于叙利亚经济而言，解除制裁是前进之路</title>
+      <link>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</link>
+      <description><![CDATA[多年的冲突毁掉了能源行业，重创了货币，阻碍了经济增长。专家表示，西方必须放松金融管制，以提振经济。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</guid>
+      <pubDate>Sat, 21 Dec 2024 05:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦面临恐怖主义复苏</title>
+      <link>https://www.nytimes.com/2024/12/21/world/asia/pakistan-terrorism.html</link>
+      <description><![CDATA[政治不稳定、公众支持度下降和经济制约因素正在侵蚀该国在 2014 年可怕的校园袭击事件后在打击激进主义方面所取得的昂贵成果。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/world/asia/pakistan-terrorism.html</guid>
+      <pubDate>Sat, 21 Dec 2024 05:01:06 GMT</pubDate>
+    </item>
     <item>
       <title>司机撞入德国圣诞市场，造成至少 2 人死亡，数十人受伤</title>
       <link>https://www.nytimes.com/2024/12/20/world/europe/germany-christmas-market-crash.html</link>
       <description><![CDATA[视频显示，一辆汽车在马格德堡市冲撞人群。司机是一名 50 岁的沙特阿拉伯公民，是一名医生，现已被捕。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/world/europe/germany-christmas-market-crash.html</guid>
-      <pubDate>Sat, 21 Dec 2024 01:55:20 GMT</pubDate>
+      <pubDate>Sat, 21 Dec 2024 01:55:21 GMT</pubDate>
     </item>
     <item>
       <title>为什么这么多加拿大人反对贾斯汀·特鲁多？</title>
@@ -24,14 +38,7 @@
       <link>https://www.nytimes.com/2024/12/20/us/politics/biden-withdraw-student-debt-proposals.html</link>
       <description><![CDATA[撤销这些规定的决定似乎表明，在特朗普政府的领导下，这些规定不会有任何进展。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/us/politics/biden-withdraw-student-debt-proposals.html</guid>
-      <pubDate>Sat, 21 Dec 2024 01:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党支出鹰派在债务上限问题上与特朗普唱反调，预示着更多冲突</title>
-      <link>https://www.nytimes.com/2024/12/20/us/politics/gop-spending-hawks-trump-debt.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普以对党内成员的严格控制而闻名，但他提出的暂停债务上限要求却罕见地遭到拒绝，这反映出一种可能困扰其政策议程的脱节。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/us/politics/gop-spending-hawks-trump-debt.html</guid>
-      <pubDate>Sat, 21 Dec 2024 01:02:05 GMT</pubDate>
+      <pubDate>Sat, 21 Dec 2024 01:51:24 GMT</pubDate>
     </item>
     <item>
       <title>在最后关头，参议院民主党在司法确认方面略胜特朗普</title>
@@ -43,16 +50,23 @@
     <item>
       <title>拜登政府考虑对特朗普​​的驱逐行动设置障碍</title>
       <link>https://www.nytimes.com/2024/12/20/us/politics/biden-trump-deportation-protection.html</link>
-      <description><![CDATA[特朗普政府可能会为数十万名合法身份将在特朗普政府执政初期到期的移民提供保护。]]></description>
+      <description><![CDATA[特朗普政府可能会延长对数十万合法身份将在特朗普政府执政初期到期的移民的保护。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/us/politics/biden-trump-deportation-protection.html</guid>
       <pubDate>Sat, 21 Dec 2024 00:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普希望在拜登任期内实现政府停摆，而不是在他任期内</title>
+      <link>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</link>
+      <description><![CDATA[即使这位候任总统撕毁了一项原本可以让政府继续运转的两党协议，他仍急于逃避可能出现的政府关门后果的责任。]]></description>
+      <guid>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</guid>
+      <pubDate>Sat, 21 Dec 2024 00:14:28 GMT</pubDate>
     </item>
     <item>
       <title>为何 Luigi Mangione 面临与一起谋杀案相关的两起谋杀案</title>
       <link>https://www.nytimes.com/2024/12/20/nyregion/luigi-mangione-charges-what-to-know.html</link>
       <description><![CDATA[在对曼吉奥内枪杀布莱恩·汤普森一案中的行为做出不同定性后，联邦和州检察官将遵循一套微妙的法律程序。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/nyregion/luigi-mangione-charges-what-to-know.html</guid>
-      <pubDate>Fri, 20 Dec 2024 23:43:29 GMT</pubDate>
+      <pubDate>Fri, 20 Dec 2024 23:43:30 GMT</pubDate>
     </item>
     <item>
       <title>路易吉·曼吉奥内将于周一就纽约州指控接受传讯</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[支持加拿大总理贾斯汀·特鲁多领导的自由党的政党领导人誓言要推翻政府，称特鲁多辜负了加拿大。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/world/canada/trudeau-liberal-party-jagmeet-singh.html</guid>
       <pubDate>Fri, 20 Dec 2024 20:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在支出和债务协议上违抗特朗普的共和党人</title>
-      <link>https://www.nytimes.com/2024/12/20/us/politics/republican-defectors-trump.html</link>
-      <description><![CDATA[反叛者大多是最保守的立法者，他们热衷于削减开支和债务。他们来自深红色选区，在那里初选挑战的危险性较小。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/us/politics/republican-defectors-trump.html</guid>
-      <pubDate>Fri, 20 Dec 2024 20:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>《镍币男孩》导演拉梅尔·罗斯 (RaMell Ross) 谈如何重塑观看行为</title>
-      <link>https://www.nytimes.com/2024/12/20/movies/ramell-ross-nickel-boys.html</link>
-      <description><![CDATA[在《镍币男孩》中，拉梅尔·罗斯使用他所谓的“感知视角”来传达人物对世界的看法。评论家称其效果令人惊叹。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/movies/ramell-ross-nickel-boys.html</guid>
-      <pubDate>Fri, 20 Dec 2024 10:01:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
