@@ -1,22 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 06:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 08:14:11 GMT</lastBuildDate>
     <item>
-      <title>对于叙利亚经济而言，解除制裁是前进之路</title>
-      <link>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</link>
-      <description><![CDATA[多年的冲突毁掉了能源行业，重创了货币，阻碍了经济增长。专家表示，西方必须放松金融管制，以提振经济。]]></description>
-      <guid>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</guid>
-      <pubDate>Sat, 21 Dec 2024 05:01:06 GMT</pubDate>
+      <title>特朗普希望在拜登任期内实现政府停摆，而不是在他任期内</title>
+      <link>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</link>
+      <description><![CDATA[即使这位候任总统撕毁了一项原本可以让政府继续运转的两党协议，他仍急于逃避可能出现的政府关门后果的责任。]]></description>
+      <guid>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</guid>
+      <pubDate>Sat, 21 Dec 2024 07:23:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会批准延长支出，结束停摆危机</title>
+      <link>https://www.nytimes.com/2024/12/20/us/politics/congress-shutdown-budget-deadline.html</link>
+      <description><![CDATA[在资金失效的午夜最后期限过后不久，参议院通过了这项措施并将其送至拜登总统的办公桌上。]]></description>
+      <guid>https://www.nytimes.com/2024/12/20/us/politics/congress-shutdown-budget-deadline.html</guid>
+      <pubDate>Sat, 21 Dec 2024 07:00:38 GMT</pubDate>
     </item>
     <item>
       <title>巴基斯坦面临恐怖主义复苏</title>
       <link>https://www.nytimes.com/2024/12/21/world/asia/pakistan-terrorism.html</link>
       <description><![CDATA[政治不稳定、公众支持度下降和经济制约因素正在侵蚀该国在 2014 年可怕的校园袭击事件后在打击激进主义方面所取得的昂贵成果。]]></description>
       <guid>https://www.nytimes.com/2024/12/21/world/asia/pakistan-terrorism.html</guid>
+      <pubDate>Sat, 21 Dec 2024 06:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于叙利亚经济而言，解除制裁是前进之路</title>
+      <link>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</link>
+      <description><![CDATA[多年的冲突毁掉了能源行业，重创了货币，阻碍了经济增长。专家表示，西方必须放松金融管制，以提振经济。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/business/economy/syria-economy-sanctions.html</guid>
       <pubDate>Sat, 21 Dec 2024 05:01:06 GMT</pubDate>
     </item>
     <item>
@@ -50,16 +64,9 @@
     <item>
       <title>拜登政府考虑对特朗普​​的驱逐行动设置障碍</title>
       <link>https://www.nytimes.com/2024/12/20/us/politics/biden-trump-deportation-protection.html</link>
-      <description><![CDATA[特朗普政府可能会延长对数十万合法身份将在特朗普政府执政初期到期的移民的保护。]]></description>
+      <description><![CDATA[特朗普政府可能会为数十万名合法身份将在特朗普政府执政初期到期的移民提供保护。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/us/politics/biden-trump-deportation-protection.html</guid>
       <pubDate>Sat, 21 Dec 2024 00:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普希望在拜登任期内实现政府停摆，而不是在他任期内</title>
-      <link>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</link>
-      <description><![CDATA[即使这位候任总统撕毁了一项原本可以让政府继续运转的两党协议，他仍急于逃避可能出现的政府关门后果的责任。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/us/politics/trump-blame-shutdown.html</guid>
-      <pubDate>Sat, 21 Dec 2024 00:14:28 GMT</pubDate>
     </item>
     <item>
       <title>为何 Luigi Mangione 面临与一起谋杀案相关的两起谋杀案</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[国会制定了一些在政府更替期间保留的职位。但唐纳德·特朗普已宣布他打算更换至少三个职位。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/us/politics/trump-replace-officials.html</guid>
       <pubDate>Fri, 20 Dec 2024 22:48:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA 批准减肥药用于治疗睡眠呼吸暂停</title>
-      <link>https://www.nytimes.com/2024/12/20/well/zepbound-sleep-apnea.html</link>
-      <description><![CDATA[Zepbound 是第一个获得批准专门用于治疗这种常见疾病的处方药。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/well/zepbound-sleep-apnea.html</guid>
-      <pubDate>Fri, 20 Dec 2024 21:53:17 GMT</pubDate>
     </item>
     <item>
       <title>俄罗斯在叙利亚的突然挫败让普京头疼</title>
