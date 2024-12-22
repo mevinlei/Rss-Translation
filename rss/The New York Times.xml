@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 00:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 03:13:50 GMT</lastBuildDate>
     <item>
       <title>棒球界著名的“盗垒之王”瑞奇·亨德森去世，享年 65 岁</title>
       <link>https://www.nytimes.com/2024/12/21/sports/rickey-henderson-dead.html</link>
       <description><![CDATA[他被广泛认为是棒球史上最伟大的首发击球手，他不仅是棒球比赛中最令人兴奋的球员之一，也是最古怪的球员之一。]]></description>
       <guid>https://www.nytimes.com/2024/12/21/sports/rickey-henderson-dead.html</guid>
-      <pubDate>Sun, 22 Dec 2024 00:12:12 GMT</pubDate>
+      <pubDate>Sun, 22 Dec 2024 02:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普任命《学徒》制片人为英国特使</title>
+      <link>https://www.nytimes.com/2024/12/21/us/politics/mark-burnett-special-envoy.html</link>
+      <description><![CDATA[马克·伯内特与当选总统唐纳德·J·特朗普进行了长期而成功的合作，使特朗普先生家喻户晓。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/us/politics/mark-burnett-special-envoy.html</guid>
+      <pubDate>Sun, 22 Dec 2024 01:03:36 GMT</pubDate>
     </item>
     <item>
       <title>圣诞市场三分钟狂潮震撼德国</title>
       <link>https://www.nytimes.com/2024/12/21/world/europe/germany-christmas-market-attack.html</link>
       <description><![CDATA[此次袭击发生在德国东部城市马格德堡，至少造成 5 人死亡，其中包括一名 9 岁儿童。当局仍在调查袭击动机。]]></description>
       <guid>https://www.nytimes.com/2024/12/21/world/europe/germany-christmas-market-attack.html</guid>
-      <pubDate>Sat, 21 Dec 2024 23:40:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>也门导弹落在特拉维夫</title>
-      <link>https://www.nytimes.com/2024/12/20/world/middleeast/israel-tel-aviv-missile-yemen.html</link>
-      <description><![CDATA[以色列军方称，防空部队未能拦截击中该市一个操场的射弹，造成数人轻伤。]]></description>
-      <guid>https://www.nytimes.com/2024/12/20/world/middleeast/israel-tel-aviv-missile-yemen.html</guid>
-      <pubDate>Sat, 21 Dec 2024 23:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党称，克拉伦斯·托马斯大法官并未披露亿万富翁赞助人的额外旅行</title>
-      <link>https://www.nytimes.com/2024/12/21/us/politics/clarence-thomas-trips-disclosure-investigation.html</link>
-      <description><![CDATA[这一披露包含在参议院司法委员会民主党工作人员的一份报告中，他们对最高法院的道德规范进行了为期 20 个月的调查。]]></description>
-      <guid>https://www.nytimes.com/2024/12/21/us/politics/clarence-thomas-trips-disclosure-investigation.html</guid>
-      <pubDate>Sat, 21 Dec 2024 23:30:39 GMT</pubDate>
+      <pubDate>Sun, 22 Dec 2024 00:57:20 GMT</pubDate>
     </item>
     <item>
       <title>参议院恢复支出法案中取消的癌症研究和华盛顿特区体育场措施</title>
@@ -39,13 +32,6 @@
       <description><![CDATA[关于儿童癌症研究和足球场选址的两项法案未被列入主要支出计划，但于周六早上作为单独立法获得通过。]]></description>
       <guid>https://www.nytimes.com/2024/12/21/us/politics/spending-pediatric-cancer-stadium.html</guid>
       <pubDate>Sat, 21 Dec 2024 23:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>无证工人从事危险工作养活美国人民</title>
-      <link>https://www.nytimes.com/2024/12/21/us/immigration-undocumented-workers-jobs.html</link>
-      <description><![CDATA[无证工人帮助满足了美国人对熟食的需求，但其中一些人却在人事代理机构工作，面临着危险的工作条件。]]></description>
-      <guid>https://www.nytimes.com/2024/12/21/us/immigration-undocumented-workers-jobs.html</guid>
-      <pubDate>Sat, 21 Dec 2024 22:04:06 GMT</pubDate>
     </item>
     <item>
       <title>纽约警察局高级警官因涉嫌虐待而辞职</title>
@@ -71,7 +57,7 @@
     <item>
       <title>德国加强圣诞市场安保。但袭击仍时有发生。</title>
       <link>https://www.nytimes.com/2024/12/21/world/europe/germany-christmas-market-security.html</link>
-      <description><![CDATA[最近这起针对德国人喜爱的传统而发生的致命袭击，凸显了节日安全面临的挑战。]]></description>
+      <description><![CDATA[此次对德国人喜爱的传统节日的致命袭击凸显了节日安全的挑战。]]></description>
       <guid>https://www.nytimes.com/2024/12/21/world/europe/germany-christmas-market-security.html</guid>
       <pubDate>Sat, 21 Dec 2024 19:13:10 GMT</pubDate>
     </item>
@@ -81,6 +67,13 @@
       <description><![CDATA[当选总统唐纳德·J·特朗普以对党内成员的严格控制而闻名，但他提出的暂停债务上限要求却罕见地遭到拒绝，这反映出一种可能困扰其政策议程的脱节。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/us/politics/gop-spending-hawks-trump-debt.html</guid>
       <pubDate>Sat, 21 Dec 2024 14:11:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>宗教已衰落。今年的圣诞节似乎不同寻常。</title>
+      <link>https://www.nytimes.com/2024/12/21/opinion/religion-christmas-revival.html</link>
+      <description><![CDATA[为什么 2020 年代后期的宗教趋势可能与 2010 年代的趋势不同。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/opinion/religion-christmas-revival.html</guid>
+      <pubDate>Sat, 21 Dec 2024 12:00:15 GMT</pubDate>
     </item>
     <item>
       <title>“采访”：乔纳森·鲁米</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[在叙利亚，妇女们开始重建这个破碎的国家。]]></description>
       <guid>https://www.nytimes.com/2024/12/20/magazine/syria-civil-war-women.html</guid>
       <pubDate>Sat, 21 Dec 2024 01:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>学校表演向我们展现了日本教育的哪些方面</title>
+      <link>https://www.nytimes.com/2024/11/18/opinion/japan-education-childhood.html</link>
+      <description><![CDATA[了解日本教育体系在团队合作、纪律和个人成长之间的微妙平衡。]]></description>
+      <guid>https://www.nytimes.com/2024/11/18/opinion/japan-education-childhood.html</guid>
+      <pubDate>Tue, 19 Nov 2024 21:57:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
