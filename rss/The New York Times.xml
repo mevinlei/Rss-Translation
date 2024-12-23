@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Dec 2024 12:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 15:05:50 GMT</lastBuildDate>
+    <item>
+      <title>Mangione 在纽约州法院首次出庭时拒不不认罪</title>
+      <link>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</link>
+      <description><![CDATA[曼哈顿地方检察官办公室指控涉嫌杀害联合健康保险公司首席执行官的 Luigi Mangione 犯有一级谋杀罪，即与恐怖主义有关的罪行。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</guid>
+      <pubDate>Mon, 23 Dec 2024 15:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗马尼亚取消公投 俄罗斯成功宣传</title>
+      <link>https://www.nytimes.com/2024/12/23/world/europe/romania-election-russia.html</link>
+      <description><![CDATA[许多西方人对罗马尼亚总统选举第一轮投票被取消表示欢迎，该选举的获胜者是一位亲莫斯科的候选人，但就连他的批评者也表示，此举引发了人们对罗马尼亚民主的担忧。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/world/europe/romania-election-russia.html</guid>
+      <pubDate>Mon, 23 Dec 2024 14:23:30 GMT</pubDate>
+    </item>
     <item>
       <title>阿拉伯高级外交官访问叙利亚与新领导层建立联系</title>
       <link>https://www.nytimes.com/2024/12/23/world/middleeast/syria-arab-relations.html</link>
@@ -13,11 +27,11 @@
       <pubDate>Mon, 23 Dec 2024 11:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>众议院道德委员会预计将发布有关马特·盖茨行为的报告</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-house-ethics-report.html</link>
-      <description><![CDATA[前众议员马特·盖茨 (Matt Gaetz) 自 2021 年以来一直因性行为不端和非法吸毒等指控而受到调查。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-house-ethics-report.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:03:18 GMT</pubDate>
+      <title>一个电话就能促成第 28 条修正案吗？</title>
+      <link>https://www.nytimes.com/2024/12/23/podcasts/the-daily/era-biden.html</link>
+      <description><![CDATA[拜登总统如何仅凭一枚戒指就能改变妇女权利并挽救他的政治遗产。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/podcasts/the-daily/era-biden.html</guid>
+      <pubDate>Mon, 23 Dec 2024 11:00:07 GMT</pubDate>
     </item>
     <item>
       <title>驻乌克兰朝鲜军队为何伤亡惨重？</title>
@@ -41,18 +55,11 @@
       <pubDate>Mon, 23 Dec 2024 10:01:47 GMT</pubDate>
     </item>
     <item>
-      <title>刚果首都爆发麻疹，威胁全球抗击病毒的努力</title>
-      <link>https://www.nytimes.com/2024/12/23/health/mpox-spread-congo-kinshasa.html</link>
-      <description><![CDATA[在拥挤的金沙萨，两种 mpox 病毒株正在一个依赖性交易的社区中蔓延。运往该国的数十万剂疫苗尚未使用。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/health/mpox-spread-congo-kinshasa.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登死囚减刑完整名单</title>
+      <title>完整名单：拜登减刑的​​ 37 名死囚和剩余的 3 名死囚</title>
       <link>https://www.nytimes.com/2024/12/23/us/politics/biden-death-row-commutation-list.html</link>
       <description><![CDATA[以下是获得减刑的人员以及仍待在死囚牢房的三名囚犯的完整名单。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/biden-death-row-commutation-list.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:10 GMT</pubDate>
+      <pubDate>Mon, 23 Dec 2024 10:01:11 GMT</pubDate>
     </item>
     <item>
       <title>特朗普计划恢复联邦死刑，拜登减刑 37 人</title>
@@ -66,7 +73,7 @@
       <link>https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html</link>
       <description><![CDATA[老式芯片对于各种各样的电器和其他机械（包括武器）都至关重要。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:07 GMT</pubDate>
+      <pubDate>Mon, 23 Dec 2024 10:01:08 GMT</pubDate>
     </item>
     <item>
       <title>小罗伯特·肯尼迪希望禁止电视上的药品广告。这并非易事。</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[犯罪团伙正在填补以色列在加沙南部部分地区留下的权力真空，劫持巴勒斯坦居民急需的援助。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/world/middleeast/gaza-looting.html</guid>
       <pubDate>Mon, 23 Dec 2024 06:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我被它摧毁了”：四名男子讲述爱尔兰天主教学校虐待事件</title>
-      <link>https://www.nytimes.com/2024/12/23/world/europe/ireland-catholic-priest-abuse.html</link>
-      <description><![CDATA[沉默了几十年后，数十名老年男子开始讲述他们在宗教学校遭受的性虐待。我们采访了其中四名男子。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/world/europe/ireland-catholic-priest-abuse.html</guid>
-      <pubDate>Mon, 23 Dec 2024 05:01:10 GMT</pubDate>
     </item>
     <item>
       <title>特朗普提名卡莉斯塔·金里奇出任驻瑞士大使</title>
