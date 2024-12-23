@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 23 Dec 2024 15:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 18:02:53 GMT</lastBuildDate>
     <item>
-      <title>Mangione 在纽约州法院首次出庭时拒不不认罪</title>
+      <title>阿拉伯高级外交官访问叙利亚，旨在与新领导层建立联系</title>
+      <link>https://www.nytimes.com/2024/12/23/world/middleeast/syria-leaders-meeting-arab-diplomats.html</link>
+      <description><![CDATA[在阿拉伯世界寻求让叙利亚重返阿拉伯世界的背景下，约旦和卡塔尔的部长是首批与推翻叙利亚政权的叛军联盟领导人会晤的阿拉伯高级外交官之一。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/world/middleeast/syria-leaders-meeting-arab-diplomats.html</guid>
+      <pubDate>Mon, 23 Dec 2024 18:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚果首都爆发麻疹，威胁全球抗击病毒的努力</title>
+      <link>https://www.nytimes.com/2024/12/23/health/mpox-spread-congo-kinshasa.html</link>
+      <description><![CDATA[我们的记者去了刚果，那里的牛痘疫情已经蔓延到人口稠密的首都，感染了卖淫为生的儿童和他们的母亲。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/health/mpox-spread-congo-kinshasa.html</guid>
+      <pubDate>Mon, 23 Dec 2024 17:29:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Luigi Mangione 对纽约联合健康保险公司 CEO 谋杀案指控表示不认罪</title>
       <link>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</link>
-      <description><![CDATA[曼哈顿地方检察官办公室指控涉嫌杀害联合健康保险公司首席执行官的 Luigi Mangione 犯有一级谋杀罪，即与恐怖主义有关的罪行。]]></description>
+      <description><![CDATA[曼哈顿地区检察官办公室指控 Luigi Mangione 犯有一级谋杀罪，他被控谋杀联合健康保险公司的首席执行官。他的律师辩称，他的案件已被政治化。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</guid>
-      <pubDate>Mon, 23 Dec 2024 15:05:50 GMT</pubDate>
+      <pubDate>Mon, 23 Dec 2024 16:49:10 GMT</pubDate>
     </item>
     <item>
-      <title>罗马尼亚取消公投 俄罗斯成功宣传</title>
-      <link>https://www.nytimes.com/2024/12/23/world/europe/romania-election-russia.html</link>
-      <description><![CDATA[许多西方人对罗马尼亚总统选举第一轮投票被取消表示欢迎，该选举的获胜者是一位亲莫斯科的候选人，但就连他的批评者也表示，此举引发了人们对罗马尼亚民主的担忧。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/world/europe/romania-election-russia.html</guid>
-      <pubDate>Mon, 23 Dec 2024 14:23:30 GMT</pubDate>
+      <title>支持特朗普的团体对不经常投票者的冒险押注似乎已获得回报</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/trump-turning-point-arizona-2024-election.html</link>
+      <description><![CDATA[转折点行动将大部分注意力放在了不太可靠的选民身上。亚利桑那州的最新数据显示，共和党在选民中占有相当大的优势，这表明该策略取得了成功。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-turning-point-arizona-2024-election.html</guid>
+      <pubDate>Mon, 23 Dec 2024 16:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>阿拉伯高级外交官访问叙利亚与新领导层建立联系</title>
-      <link>https://www.nytimes.com/2024/12/23/world/middleeast/syria-arab-relations.html</link>
-      <description><![CDATA[约旦和卡塔尔的部长是首批与两周前推翻叙利亚政权的叛军联盟领导人会面的阿拉伯高级外交官之一。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/world/middleeast/syria-arab-relations.html</guid>
-      <pubDate>Mon, 23 Dec 2024 11:10:57 GMT</pubDate>
+      <title>无法离开的儿子</title>
+      <link>https://www.nytimes.com/2024/12/23/nyregion/new-yorker-hotel-barreto-son.html</link>
+      <description><![CDATA[保罗·巴雷托的父亲米奇在曼哈顿的纽约客酒店住了五年，每人每月仅支付 200.57 美元。保罗迫切地想要逃离。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/nyregion/new-yorker-hotel-barreto-son.html</guid>
+      <pubDate>Mon, 23 Dec 2024 13:09:01 GMT</pubDate>
     </item>
     <item>
       <title>一个电话就能促成第 28 条修正案吗？</title>
@@ -41,25 +55,11 @@
       <pubDate>Mon, 23 Dec 2024 10:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>俄亥俄州海地人面临另一大担忧：特朗普誓言驱逐出境</title>
-      <link>https://www.nytimes.com/2024/12/23/us/haitian-immigrants-trump-springfield.html</link>
-      <description><![CDATA[许多海地移民在斯普林菲尔德附近的亚马逊仓库工作，包装数千份节日礼物。但在唐纳德·特朗普赢得大选后，一些人对他们的未来感到担忧。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/haitian-immigrants-trump-springfield.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:02:15 GMT</pubDate>
-    </item>
-    <item>
       <title>美国官员称派兵援助俄罗斯是朝鲜的主意</title>
       <link>https://www.nytimes.com/2024/12/23/us/politics/russia-ukraine-north-korea.html</link>
       <description><![CDATA[西方官员称，朝鲜军队目前已大举介入俄罗斯与乌克兰的战争，部分军队已有人员伤亡。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/russia-ukraine-north-korea.html</guid>
       <pubDate>Mon, 23 Dec 2024 10:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>完整名单：拜登减刑的​​ 37 名死囚和剩余的 3 名死囚</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/biden-death-row-commutation-list.html</link>
-      <description><![CDATA[以下是获得减刑的人员以及仍待在死囚牢房的三名囚犯的完整名单。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/biden-death-row-commutation-list.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:11 GMT</pubDate>
     </item>
     <item>
       <title>特朗普计划恢复联邦死刑，拜登减刑 37 人</title>
@@ -69,25 +69,18 @@
       <pubDate>Mon, 23 Dec 2024 10:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国瞄准中国关键芯片生产</title>
-      <link>https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html</link>
-      <description><![CDATA[老式芯片对于各种各样的电器和其他机械（包括武器）都至关重要。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/business/economy/us-china-semiconductor-legacy-chips.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>小罗伯特·肯尼迪希望禁止电视上的药品广告。这并非易事。</title>
+      <title>小罗伯特·F·肯尼迪希望禁止电视上的药品广告。这并非易事。</title>
       <link>https://www.nytimes.com/2024/12/23/health/rfk-jr-tv-drug-ads-ban.html</link>
       <description><![CDATA[多年来，限制药品广告的尝试多次失败，通常是因为违反了《第一修正案》。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/health/rfk-jr-tv-drug-ads-ban.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:00:29 GMT</pubDate>
+      <pubDate>Mon, 23 Dec 2024 10:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>纽约移民收容所内八个月：恐惧、喜悦和希望</title>
-      <link>https://www.nytimes.com/2024/12/23/nyregion/nyc-migrant-shelters.html</link>
-      <description><![CDATA[一位记者兼摄影师通过居住者的视角记录了纽约市移民收容系统的生活。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/nyregion/nyc-migrant-shelters.html</guid>
-      <pubDate>Mon, 23 Dec 2024 08:00:52 GMT</pubDate>
+      <title>纽约市灭鼠的秘密武器：狗狗凯蒂</title>
+      <link>https://www.nytimes.com/2024/12/23/nyregion/katie-dog-rat-hunter.html</link>
+      <description><![CDATA[她在布鲁克林的公园和街道上漫游寻找猎物。这并不难找到。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/nyregion/katie-dog-rat-hunter.html</guid>
+      <pubDate>Mon, 23 Dec 2024 08:00:41 GMT</pubDate>
     </item>
     <item>
       <title>有组织的抢劫使加沙陷入更深的混乱</title>
@@ -97,18 +90,25 @@
       <pubDate>Mon, 23 Dec 2024 06:03:41 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普提名卡莉斯塔·金里奇出任驻瑞士大使</title>
-      <link>https://www.nytimes.com/2024/12/22/us/politics/trump-callista-gingrich-ambassador-switzerland.html</link>
-      <description><![CDATA[在宣布包括驻丹麦大使在内的多位特使的选择时，这位当选总统再次提出了美国收购格陵兰岛的想法。]]></description>
-      <guid>https://www.nytimes.com/2024/12/22/us/politics/trump-callista-gingrich-ambassador-switzerland.html</guid>
-      <pubDate>Mon, 23 Dec 2024 03:08:11 GMT</pubDate>
+      <title>“我被它摧毁了”：四名男子讲述爱尔兰天主教学校虐待事件</title>
+      <link>https://www.nytimes.com/2024/12/23/world/europe/ireland-catholic-priest-abuse.html</link>
+      <description><![CDATA[沉默了几十年后，数十名老年男子开始讲述他们在宗教学校遭受的性虐待。我们采访了其中四名男子。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/world/europe/ireland-catholic-priest-abuse.html</guid>
+      <pubDate>Mon, 23 Dec 2024 05:01:10 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普提名五角大楼高级官员</title>
-      <link>https://www.nytimes.com/2024/12/22/us/trump-pentagon-defense-nominees.html</link>
-      <description><![CDATA[其中包括一位支持特朗普竞选的亿万富翁投资者、一位冻结对乌克兰援助的前官员和一位优步前高管。]]></description>
-      <guid>https://www.nytimes.com/2024/12/22/us/trump-pentagon-defense-nominees.html</guid>
-      <pubDate>Mon, 23 Dec 2024 02:27:29 GMT</pubDate>
+      <title>当 André 3000 接受《纽约时报》采访（并为其表演）时</title>
+      <link>https://www.nytimes.com/2024/12/21/arts/music/andre-3000-popcast-interview-performance.html</link>
+      <description><![CDATA[这位由说唱歌手转型为笛子演奏家的人在 Popcast 上进行了一次广泛的对话后，在《纽约时报》办公室中间即兴表演。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/arts/music/andre-3000-popcast-interview-performance.html</guid>
+      <pubDate>Sat, 21 Dec 2024 10:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约男子花 200 美元入住纽约客酒店五年</title>
+      <link>https://www.nytimes.com/2024/03/24/nyregion/mickey-barreto-housing-fraud.html</link>
+      <description><![CDATA[米奇·巴雷托的五年监禁仅花费他 200.57 美元。现在他可能会因此失去自由。]]></description>
+      <guid>https://www.nytimes.com/2024/03/24/nyregion/mickey-barreto-housing-fraud.html</guid>
+      <pubDate>Wed, 06 Nov 2024 21:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
