@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Dec 2024 00:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 03:11:17 GMT</lastBuildDate>
     <item>
-      <title>9/11 医疗保健资金被从年底支出法案中删除</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/sept-11-health-care-spending-bill.html</link>
-      <description><![CDATA[由于当选总统唐纳德·特朗普和埃隆·马斯克反对两党预算协议，一项旨在确保长期提供资金解决恐怖袭击造成的卫生需求的计划被搁置。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/sept-11-health-care-spending-bill.html</guid>
-      <pubDate>Tue, 24 Dec 2024 00:38:56 GMT</pubDate>
+      <title>国家安全委员会放弃对美国钢铁公司收购案做出决定</title>
+      <link>https://www.nytimes.com/2024/12/23/business/us-steel-nippon-biden-cfius.html</link>
+      <description><![CDATA[美国外国投资委员会将与日本新日铁合并案的决定提交给了拜登总统，预计拜登将阻止这笔交易。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/business/us-steel-nippon-biden-cfius.html</guid>
+      <pubDate>Tue, 24 Dec 2024 03:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普想控制格陵兰和巴拿马运河：这次不是开玩笑</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</link>
+      <description><![CDATA[最近几天，这位当选总统呼吁美国控制巴拿马运河和格陵兰岛，表明他的“美国优先”理念具有扩张主义的维度。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</guid>
+      <pubDate>Tue, 24 Dec 2024 03:08:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>凯·格兰杰的老年生活启示引起国会对老龄问题的新一轮审查</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/kay-granger-congress-age.html</link>
+      <description><![CDATA[德克萨斯州共和党众议员凯·格兰杰（Kay Granger）自夏季以来基本上没有出现在国会山，并住进了养老院。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/kay-granger-congress-age.html</guid>
+      <pubDate>Tue, 24 Dec 2024 02:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普强硬拉美政策的制定者被任命为特使</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/trump-latin-america-envoy.html</link>
+      <description><![CDATA[毛里西奥·克拉韦尔-卡罗内长期以来一直支持严厉制裁，他于 2022 年被迫辞去美洲开发银行的职务。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-latin-america-envoy.html</guid>
+      <pubDate>Tue, 24 Dec 2024 02:05:34 GMT</pubDate>
     </item>
     <item>
       <title>纽约地铁火灾嫌疑人被指控谋杀一名女性</title>
@@ -20,32 +41,11 @@
       <pubDate>Tue, 24 Dec 2024 00:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>凯·格兰杰的老年生活启示引起国会对老龄问题的新一轮审查</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/kay-granger-congress-age.html</link>
-      <description><![CDATA[德克萨斯州共和党众议员凯·格兰杰（Kay Granger）自夏季以来基本上没有出现在国会山，并住进了养老院。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/kay-granger-congress-age.html</guid>
-      <pubDate>Tue, 24 Dec 2024 00:15:59 GMT</pubDate>
-    </item>
-    <item>
       <title>马特·盖茨在佛罗里达州的前选区获得支持</title>
       <link>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</link>
       <description><![CDATA[上个月卸任前，盖茨所代表的狭长地带选区的共和党人表示，盖茨在国会工作表现出色，并批评该报告带有党派色彩。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</guid>
       <pubDate>Mon, 23 Dec 2024 23:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普想控制格陵兰和巴拿马运河：这次不是开玩笑</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</link>
-      <description><![CDATA[最近几天，这位当选总统呼吁美国控制巴拿马运河和格陵兰岛，表明他的“美国优先”理念具有扩张主义的维度。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</guid>
-      <pubDate>Mon, 23 Dec 2024 23:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普强硬拉美政策的制定者被任命为特使</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/trump-latin-america-envoy.html</link>
-      <description><![CDATA[毛里西奥·克拉韦尔-卡罗内长期以来一直支持严厉制裁，他于 2022 年被迫辞去美洲开发银行的职务。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-latin-america-envoy.html</guid>
-      <pubDate>Mon, 23 Dec 2024 23:05:50 GMT</pubDate>
     </item>
     <item>
       <title>马特·盖茨道德报告的要点</title>
@@ -55,18 +55,18 @@
       <pubDate>Mon, 23 Dec 2024 21:23:24 GMT</pubDate>
     </item>
     <item>
-      <title>Luigi Mangione 对纽约联合健康保险公司 CEO 谋杀案指控表示不认罪</title>
-      <link>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</link>
-      <description><![CDATA[曼哈顿地区检察官办公室指控 Luigi Mangione 犯有一级谋杀罪，他被控谋杀联合健康保险公司的首席执行官。他的律师辩称，他的案件已被政治化。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/nyregion/luigi-mangione-arraignment.html</guid>
-      <pubDate>Mon, 23 Dec 2024 20:24:12 GMT</pubDate>
-    </item>
-    <item>
       <title>拜登选择不放过三名死囚</title>
       <link>https://www.nytimes.com/2024/12/23/us/death-row-biden-commutation.html</link>
       <description><![CDATA[拜登总统减轻了 37 名联邦死囚的刑期，但拒绝挽救三名被判犯有“仇恨引发的大规模谋杀”或“恐怖主义”罪的男子的生命。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/death-row-biden-commutation.html</guid>
       <pubDate>Mon, 23 Dec 2024 19:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>众议院道德委员会报告指控盖茨“经常”嫖娼和吸毒</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/gaetz-house-ethics-report.html</link>
+      <description><![CDATA[报告发布前的几周，这位佛罗里达州共和党人辞去了众议院议员职务，并不再担任唐纳德·J·特朗普的司法部长提名人。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/gaetz-house-ethics-report.html</guid>
+      <pubDate>Mon, 23 Dec 2024 18:33:35 GMT</pubDate>
     </item>
     <item>
       <title>研究发现疫苗并不是导致自闭症增多的原因。那么到底是什么原因呢？</title>
