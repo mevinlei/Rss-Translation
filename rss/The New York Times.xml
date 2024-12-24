@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Dec 2024 03:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:00:07 GMT</lastBuildDate>
+    <item>
+      <title>他继承了上议院的一个席位。英国政府表示，他将在 2025 年失去该席位。</title>
+      <link>https://www.nytimes.com/2024/12/24/world/europe/uk-parliament-hereditary-peers-lords.html</link>
+      <description><![CDATA[英国政府已承诺在 2025 年取消议会中的世袭贵族。对于克伦威尔勋爵和其他 87 人来说，这是一次令人怀念的离开。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/world/europe/uk-parliament-hereditary-peers-lords.html</guid>
+      <pubDate>Tue, 24 Dec 2024 05:36:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>恐惧笼罩孟加拉国印度教徒，辨别事实与谎言</title>
+      <link>https://www.nytimes.com/2024/12/24/world/asia/bangladesh-hindus.html</link>
+      <description><![CDATA[关于破坏和暴民暴力行为的报道是真实的，但来自印度的更为夸张的指控使情况更加扑朔迷离。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/world/asia/bangladesh-hindus.html</guid>
+      <pubDate>Tue, 24 Dec 2024 05:01:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些学生推翻了政府。现在他们正在重建民主。</title>
+      <link>https://www.nytimes.com/2024/12/24/world/asia/bangladesh-students.html</link>
+      <description><![CDATA[这对孟加拉国来说是一项艰巨的任务。但一群不同寻常的年轻人和经验丰富的技术官僚决心充分利用这个机会。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/world/asia/bangladesh-students.html</guid>
+      <pubDate>Tue, 24 Dec 2024 05:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京的白俄罗斯盟友是否正在向西方做出谨慎的暗示？</title>
+      <link>https://www.nytimes.com/2024/12/24/world/europe/belarus-lukashenko-putin-west-sanctions.html</link>
+      <description><![CDATA[白俄罗斯总统亚历山大·卢卡申科不断逮捕政治对手，但分析人士怀疑，一系列不同寻常的赦免是否是为了减轻制裁。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/world/europe/belarus-lukashenko-putin-west-sanctions.html</guid>
+      <pubDate>Tue, 24 Dec 2024 05:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>马特·盖茨在佛罗里达州的前选区获得支持</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</link>
+      <description><![CDATA[上个月卸任前，盖茨所代表的狭长地带选区的共和党人表示，盖茨在国会工作表现出色，并批评该报告带有党派色彩。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</guid>
+      <pubDate>Tue, 24 Dec 2024 03:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>马特·盖茨道德报告的要点</title>
+      <link>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</link>
+      <description><![CDATA[一份长达 37 页的报告详细介绍了对盖茨涉嫌一系列非法行为的指控进行长达一年的调查结果。盖茨一再否认自己有任何不当行为。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</guid>
+      <pubDate>Tue, 24 Dec 2024 03:47:18 GMT</pubDate>
+    </item>
     <item>
       <title>国家安全委员会放弃对美国钢铁公司收购案做出决定</title>
       <link>https://www.nytimes.com/2024/12/23/business/us-steel-nippon-biden-cfius.html</link>
@@ -41,25 +83,11 @@
       <pubDate>Tue, 24 Dec 2024 00:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>马特·盖茨在佛罗里达州的前选区获得支持</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</link>
-      <description><![CDATA[上个月卸任前，盖茨所代表的狭长地带选区的共和党人表示，盖茨在国会工作表现出色，并批评该报告带有党派色彩。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/florida-matt-gaetz-panhandle-district.html</guid>
-      <pubDate>Mon, 23 Dec 2024 23:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>马特·盖茨道德报告的要点</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</link>
-      <description><![CDATA[一份长达 37 页的报告详细介绍了对盖茨涉嫌一系列非法行为的指控进行长达一年的调查结果。盖茨一再否认自己有任何不当行为。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/matt-gaetz-ethics-report-takeaways.html</guid>
-      <pubDate>Mon, 23 Dec 2024 21:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登选择不放过三名死囚</title>
-      <link>https://www.nytimes.com/2024/12/23/us/death-row-biden-commutation.html</link>
-      <description><![CDATA[拜登总统减轻了 37 名联邦死囚的刑期，但拒绝挽救三名被判犯有“仇恨引发的大规模谋杀”或“恐怖主义”罪的男子的生命。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/death-row-biden-commutation.html</guid>
-      <pubDate>Mon, 23 Dec 2024 19:06:36 GMT</pubDate>
+      <title>斯洛伐克领导人访问普京 打破欧盟孤立政策</title>
+      <link>https://www.nytimes.com/2024/12/23/world/europe/slovak-leader-visits-putin.html</link>
+      <description><![CDATA[据报道，俄罗斯总理罗伯特·菲科周日突然访问莫斯科，讨论天然气和乌克兰问题，此举对欧洲团结一致反对俄罗斯入侵乌克兰造成了沉重打击。]]></description>
+      <guid>https://www.nytimes.com/2024/12/23/world/europe/slovak-leader-visits-putin.html</guid>
+      <pubDate>Mon, 23 Dec 2024 21:10:38 GMT</pubDate>
     </item>
     <item>
       <title>众议院道德委员会报告指控盖茨“经常”嫖娼和吸毒</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[转折点行动将大部分注意力放在了不太可靠的选民身上。亚利桑那州的最新数据显示，共和党在选民中占有相当大的优势，这表明该策略取得了成功。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-turning-point-arizona-2024-election.html</guid>
       <pubDate>Mon, 23 Dec 2024 16:11:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法离开的儿子</title>
-      <link>https://www.nytimes.com/2024/12/23/nyregion/new-yorker-hotel-barreto-son.html</link>
-      <description><![CDATA[保罗·巴雷托的父亲米奇在曼哈顿的纽约客酒店住了五年，每人每月仅支付 200.57 美元。保罗迫切地想要逃离。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/nyregion/new-yorker-hotel-barreto-son.html</guid>
-      <pubDate>Mon, 23 Dec 2024 13:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个电话就能促成第 28 条修正案吗？</title>
-      <link>https://www.nytimes.com/2024/12/23/podcasts/the-daily/era-biden.html</link>
-      <description><![CDATA[拜登总统如何仅凭一枚戒指就能改变妇女权利并挽救他的政治遗产。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/podcasts/the-daily/era-biden.html</guid>
-      <pubDate>Mon, 23 Dec 2024 11:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普计划恢复联邦死刑，拜登减刑 37 人</title>
-      <link>https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html</link>
-      <description><![CDATA[那些受到总统周一行动影响的人仍将被判处终身监禁，不得假释。三名男子仍将被关押在联邦死囚牢房。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/us/politics/biden-commutes-37-death-sentences.html</guid>
-      <pubDate>Mon, 23 Dec 2024 10:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约男子花 200 美元入住纽约客酒店五年</title>
-      <link>https://www.nytimes.com/2024/03/24/nyregion/mickey-barreto-housing-fraud.html</link>
-      <description><![CDATA[米奇·巴雷托的五年监禁仅花费他 200.57 美元。现在他可能会因此失去自由。]]></description>
-      <guid>https://www.nytimes.com/2024/03/24/nyregion/mickey-barreto-housing-fraud.html</guid>
-      <pubDate>Wed, 06 Nov 2024 21:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Dec 2024 00:46:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 06:15:33 GMT</lastBuildDate>
+    <item>
+      <title>分配器简单解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1hl3wsi/allocators_explained_simply/</link>
+      <description><![CDATA[  由    /u/nicbarkeragain  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hl3wsi/allocators_explained_simply/</guid>
+      <pubDate>Tue, 24 Dec 2024 02:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单易用的 Solana 支付处理器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hl2riw/a_simple_to_use_solana_payment_processor/</link>
+      <description><![CDATA[  由    /u/Major-Ad-4196  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hl2riw/a_simple_to_use_solana_payment_processor/</guid>
+      <pubDate>Tue, 24 Dec 2024 01:36:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>MIPS 模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/1hl21va/mips_emulator/</link>
+      <description><![CDATA[  由    /u/Danii_222222  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hl21va/mips_emulator/</guid>
+      <pubDate>Tue, 24 Dec 2024 00:57:56 GMT</pubDate>
+    </item>
     <item>
       <title>用于捕获和检查 HTTP(S) 和 WS(S) 流量的代理 CLI，带有 TUI 和 WebUI。</title>
       <link>https://www.reddit.com/r/programming/comments/1hl1qrr/a_proxy_cli_for_capturing_and_inspecting_https/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[  由    /u/jacobs-tech-tavern  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hksqyi/a_tech_interview_that_doesnt_suck/</guid>
       <pubDate>Mon, 23 Dec 2024 17:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>从年轻开发者的角度看 Atlassian 的历史</title>
-      <link>https://www.reddit.com/r/programming/comments/1hkrpaj/the_history_of_atlassian_from_the_perspective_of/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hkrpaj/the_history_of_atlassian_from_the_perspective_of/</guid>
-      <pubDate>Mon, 23 Dec 2024 16:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitQL 0.33.0 现在支持窗口函数、按顺序排列的空值排序策略等</title>
-      <link>https://www.reddit.com/r/programming/comments/1hkrizl/gitql_0330_now_supports_window_functions_nulls/</link>
-      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hkrizl/gitql_0330_now_supports_window_functions_nulls/</guid>
-      <pubDate>Mon, 23 Dec 2024 16:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>命令模式作为一种 API 架构风格</title>
-      <link>https://www.reddit.com/r/programming/comments/1hkqb9v/command_pattern_as_an_api_architecture_style/</link>
-      <description><![CDATA[  由    /u/ymz-ncnk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hkqb9v/command_pattern_as_an_api_architecture_style/</guid>
-      <pubDate>Mon, 23 Dec 2024 15:38:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
