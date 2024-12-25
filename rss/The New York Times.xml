@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Dec 2024 06:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 09:01:26 GMT</lastBuildDate>
+    <item>
+      <title>一架载有 67 人的客机在哈萨克斯坦坠毁</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</link>
+      <description><![CDATA[俄罗斯国家航空管理局称，飞机试图紧急降落时在阿克套市附近坠毁。哈萨克斯坦当局称，至少有 25 人幸存。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</guid>
+      <pubDate>Wed, 25 Dec 2024 09:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣诞节图片：灯光和色彩标志着这个季节</title>
+      <link>https://www.nytimes.com/2024/12/25/world/middleeast/christmas-photos-world-2024.html</link>
+      <description><![CDATA[世界各地的人们都想方设法地表达节日气氛。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/middleeast/christmas-photos-world-2024.html</guid>
+      <pubDate>Wed, 25 Dec 2024 06:03:11 GMT</pubDate>
+    </item>
     <item>
       <title>黎巴嫩泰尔的圣诞节充满创伤和悲伤</title>
       <link>https://www.nytimes.com/2024/12/25/world/middleeast/lebanon-christmas-war.html</link>
@@ -17,7 +31,7 @@
       <link>https://www.nytimes.com/2024/12/25/world/europe/vladimir-kara-murza-interview-critic-putin.html</link>
       <description><![CDATA[弗拉基米尔·卡拉-穆尔扎是俄罗斯总统弗拉基米尔·普京的强烈批评者，他不想参与囚犯交换。但他表示，需要进行更多囚犯交换。]]></description>
       <guid>https://www.nytimes.com/2024/12/25/world/europe/vladimir-kara-murza-interview-critic-putin.html</guid>
-      <pubDate>Wed, 25 Dec 2024 05:01:06 GMT</pubDate>
+      <pubDate>Wed, 25 Dec 2024 05:01:07 GMT</pubDate>
     </item>
     <item>
       <title>特朗普连任定义美国政治新时代</title>
@@ -83,25 +97,11 @@
       <pubDate>Tue, 24 Dec 2024 23:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>法官推翻阿肯色州法律中威胁图书馆员的部分内容</title>
-      <link>https://www.nytimes.com/2024/12/24/us/arkansas-book-ban-law.html</link>
-      <description><![CDATA[共和党于 2023 年通过了这项法律，与其他试图限制某些书籍供应的保守州和县一起。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/arkansas-book-ban-law.html</guid>
-      <pubDate>Tue, 24 Dec 2024 21:09:12 GMT</pubDate>
-    </item>
-    <item>
       <title>历史表明，“大政府”的重大变革难以实现</title>
       <link>https://www.nytimes.com/2024/12/24/us/trump-america-government-republicans.html</link>
       <description><![CDATA[过去缩减联邦官僚机构的努力，包括出售闲置政府大楼等基本措施，都未能奏效。共和党准备再次尝试。]]></description>
       <guid>https://www.nytimes.com/2024/12/24/us/trump-america-government-republicans.html</guid>
       <pubDate>Tue, 24 Dec 2024 19:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>《小鬼当家》中的 Marv 有了一张新名片：橘子和雕塑</title>
-      <link>https://www.nytimes.com/2024/12/24/arts/daniel-stern-home-alone-tiktok.html</link>
-      <description><![CDATA[丹尼尔·斯特恩通过记录家庭农场的日常生活，在社交媒体上吸引了大批粉丝。“这是一种多么疯狂的生活方式啊，”他说，“成为人们生活中的一小部分。”]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/arts/daniel-stern-home-alone-tiktok.html</guid>
-      <pubDate>Tue, 24 Dec 2024 10:02:33 GMT</pubDate>
     </item>
     <item>
       <title>幻觉人工智能如何帮助科学实现重大突破</title>
