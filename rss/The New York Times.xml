@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Dec 2024 00:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 02:59:36 GMT</lastBuildDate>
+    <item>
+      <title>美国航空因技术问题于圣诞前夕短暂停飞美国航班</title>
+      <link>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</link>
+      <description><![CDATA[在一年中最繁忙的旅行日之一，用于发布航班的系统出现问题，恶劣天气导致航班延误的情况更加严重。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</guid>
+      <pubDate>Wed, 25 Dec 2024 02:59:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>汹涌的海浪冲击着加州海岸和它心爱的码头</title>
+      <link>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</link>
+      <description><![CDATA[越来越凶猛和不稳定的海浪引发了人们对该州码头未来的担忧，这些码头几代人以来一直是海岸线的关键。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</guid>
+      <pubDate>Wed, 25 Dec 2024 01:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国面包店的黄金时代已经到来。原因如下。</title>
+      <link>https://www.nytimes.com/2024/12/24/dining/american-bakeries-golden-age.html</link>
+      <description><![CDATA[经济、口味和后疫情时代的餐饮业格局等因素的综合作用，让美国精酿碳水化合物现在成为了一个大好时机。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/dining/american-bakeries-golden-age.html</guid>
+      <pubDate>Wed, 25 Dec 2024 01:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国最好的面包店</title>
+      <link>https://www.nytimes.com/article/best-bakeries-america.html</link>
+      <description><![CDATA[在美国面包店的黄金时代，从缅因州沿海地区到洛杉矶市中心，精致的糕点和美味的面包随处可见。]]></description>
+      <guid>https://www.nytimes.com/article/best-bakeries-america.html</guid>
+      <pubDate>Wed, 25 Dec 2024 01:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>无人机热潮如何席卷新泽西州及其他地区</title>
+      <link>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</link>
+      <description><![CDATA[第一次目击发生在新泽西州的一个军事基地，随后这一现象蔓延到了邻近各州。政府保证大多数“无人机”根本不是无人机，但这并没有打消人们的好奇心。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</guid>
+      <pubDate>Wed, 25 Dec 2024 01:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>海地医院发生武装袭击 至少 3 人死亡</title>
+      <link>https://www.nytimes.com/2024/12/24/world/americas/haiti-hospital-shooting.html</link>
+      <description><![CDATA[太子港一所医院重新开放前发生的枪击事件造成两名记者和一名警察死亡，至少七人受伤。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/world/americas/haiti-hospital-shooting.html</guid>
+      <pubDate>Wed, 25 Dec 2024 00:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有黄金般天赋的唱片制作人理查德·佩里去世，享年 82 岁</title>
+      <link>https://www.nytimes.com/2024/12/24/arts/music/richard-perry-dead.html</link>
+      <description><![CDATA[他因与芭芭拉史翠珊、卡莉西蒙、Pointer Sisters 等众多歌手合作而闻名，是业内最可靠的热门歌手之一。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/arts/music/richard-perry-dead.html</guid>
+      <pubDate>Tue, 24 Dec 2024 23:58:01 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普和马斯克想削减数十亿美元的预算。这不会容易。</title>
       <link>https://www.nytimes.com/2024/12/24/business/trump-musk-ramaswamy-doge-government-spending.html</link>
@@ -13,11 +62,11 @@
       <pubDate>Tue, 24 Dec 2024 23:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>官员警告称，由于海浪危险，请避开加州海滩</title>
-      <link>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</link>
-      <description><![CDATA[异常强大的海浪已导致一名男子死亡，并摧毁了加利福尼亚州圣克鲁斯市一座历史悠久的码头的一部分。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</guid>
-      <pubDate>Tue, 24 Dec 2024 21:19:36 GMT</pubDate>
+      <title>法官推翻阿肯色州法律中威胁图书馆员的部分内容</title>
+      <link>https://www.nytimes.com/2024/12/24/us/arkansas-book-ban-law.html</link>
+      <description><![CDATA[共和党于 2023 年通过了这项法律，与其他试图限制某些书籍供应的保守州和县一起。]]></description>
+      <guid>https://www.nytimes.com/2024/12/24/us/arkansas-book-ban-law.html</guid>
+      <pubDate>Tue, 24 Dec 2024 21:09:12 GMT</pubDate>
     </item>
     <item>
       <title>如何追踪圣诞老人：北美防空司令部的雷达正在协助调查</title>
@@ -25,13 +74,6 @@
       <description><![CDATA[孩子们和童心未泯的人们可以看到圣诞老人在世界上的哪个地方以及送出了多少礼物。]]></description>
       <guid>https://www.nytimes.com/2024/12/24/us/how-to-track-santa-norad.html</guid>
       <pubDate>Tue, 24 Dec 2024 20:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国面包店的黄金时代已经到来。原因如下。</title>
-      <link>https://www.nytimes.com/2024/12/24/dining/american-bakeries-golden-age.html</link>
-      <description><![CDATA[经济、口味和后疫情时代的餐饮业格局等因素的综合作用，让美国精酿碳水化合物现在成为了一个大好时机。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/dining/american-bakeries-golden-age.html</guid>
-      <pubDate>Tue, 24 Dec 2024 19:11:33 GMT</pubDate>
     </item>
     <item>
       <title>美国发动的阿富汗民兵组织比塔利班更糟糕</title>
@@ -55,41 +97,6 @@
       <pubDate>Tue, 24 Dec 2024 18:54:40 GMT</pubDate>
     </item>
     <item>
-      <title>亲巴勒斯坦活动人士被密歇根州学生政府开除</title>
-      <link>https://www.nytimes.com/2024/12/24/us/michigan-palestinian-activists-students.html</link>
-      <description><![CDATA[密歇根大学学生会主席和副主席因要求撤资并停止资助校园活动而被弹劾。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/michigan-palestinian-activists-students.html</guid>
-      <pubDate>Tue, 24 Dec 2024 18:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机热潮如何席卷新泽西州及其他地区</title>
-      <link>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</link>
-      <description><![CDATA[第一次目击发生在新泽西州的一个军事基地，随后这一现象蔓延到了邻近各州。政府保证大多数“无人机”根本不是无人机，但这并没有打消人们的好奇心。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</guid>
-      <pubDate>Tue, 24 Dec 2024 17:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国航空因技术问题于圣诞前夕短暂停飞美国航班</title>
-      <link>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</link>
-      <description><![CDATA[圣诞节前夕，航班停飞了大约一小时，这是一年中最繁忙的旅行日之一，之后航空公司恢复了系统。但预计航班将严重延误。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</guid>
-      <pubDate>Tue, 24 Dec 2024 17:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国最好的面包店</title>
-      <link>https://www.nytimes.com/article/best-bakeries-america.html</link>
-      <description><![CDATA[在美国面包店的黄金时代，从缅因州沿海地区到洛杉矶市中心，精致的糕点和美味的面包随处可见。]]></description>
-      <guid>https://www.nytimes.com/article/best-bakeries-america.html</guid>
-      <pubDate>Tue, 24 Dec 2024 15:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克正在建造自己的德克萨斯小镇。已有数百人居住在那里。</title>
-      <link>https://www.nytimes.com/2024/12/24/us/starbase-texas-city-elon-musk-spacex.html</link>
-      <description><![CDATA[SpaceX 员工已提交正式申请，要求创建星际基地城。该城的首任市长将是该公司的一名安全经理。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/starbase-texas-city-elon-musk-spacex.html</guid>
-      <pubDate>Tue, 24 Dec 2024 10:03:06 GMT</pubDate>
-    </item>
-    <item>
       <title>《小鬼当家》中的 Marv 有了一张新名片：橘子和雕塑</title>
       <link>https://www.nytimes.com/2024/12/24/arts/daniel-stern-home-alone-tiktok.html</link>
       <description><![CDATA[丹尼尔·斯特恩通过记录家庭农场的日常生活，在社交媒体上吸引了大批粉丝。“这是一种多么疯狂的生活方式啊，”他说，“成为人们生活中的一小部分。”]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[最近几天，这位当选总统呼吁美国控制巴拿马运河和格陵兰岛，表明他的“美国优先”理念具有扩张主义的维度。]]></description>
       <guid>https://www.nytimes.com/2024/12/23/us/politics/trump-greenland-panama-canal.html</guid>
       <pubDate>Tue, 24 Dec 2024 03:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>幻觉人工智能如何帮助科学实现重大突破</title>
-      <link>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</link>
-      <description><![CDATA[幻觉是流行人工智能程序的一大祸害，但对于渴望突破人类知识边界的冒险科学家来说，这却是一种福音。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</guid>
-      <pubDate>Mon, 23 Dec 2024 14:56:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
