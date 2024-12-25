@@ -1,37 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Dec 2024 15:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 18:14:06 GMT</lastBuildDate>
     <item>
-      <title>《完全未知》评论：提莫西·查拉梅 (Timothée Chalamet) 激情出击</title>
-      <link>https://www.nytimes.com/2024/12/25/movies/-a-complete-unknown-review.html</link>
-      <description><![CDATA[该演员扮演年轻的鲍勃·迪伦，他在 1965 年的纽波特民谣音乐节上争取民谣粉丝的支持，但后来却背叛了他们。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/movies/-a-complete-unknown-review.html</guid>
-      <pubDate>Wed, 25 Dec 2024 14:54:47 GMT</pubDate>
+      <title>阿塞拜疆航空客机在哈萨克斯坦坠毁，造成数十人死亡</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</link>
+      <description><![CDATA[俄罗斯国家航空管理局称，阿塞拜疆航空的飞机试图紧急降落。哈萨克斯坦当局称，机上至少有 29 人幸存。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</guid>
+      <pubDate>Wed, 25 Dec 2024 17:57:31 GMT</pubDate>
     </item>
     <item>
-      <title>教皇方济各圣诞节呼吁乌克兰和加沙实现和平</title>
-      <link>https://www.nytimes.com/2024/12/25/world/europe/pope-francis-christmas-jubilee-peace.html</link>
-      <description><![CDATA[教皇方济各的圣诞节致辞呼吁和解、和平和关爱他人。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/europe/pope-francis-christmas-jubilee-peace.html</guid>
-      <pubDate>Wed, 25 Dec 2024 14:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯对乌克兰能源基础设施发动攻击</title>
-      <link>https://www.nytimes.com/2024/12/25/world/europe/russia-ukraine-strikes-energy-system.html</link>
-      <description><![CDATA[莫斯科再次袭击乌克兰的能源基础设施，这是其试图削弱乌克兰的行动的一部分。“在战壕里，没有假期，”一名男子说。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/europe/russia-ukraine-strikes-energy-system.html</guid>
-      <pubDate>Wed, 25 Dec 2024 14:47:23 GMT</pubDate>
+      <title>叙利亚新领导人试图在国防部领导下团结叛军派系</title>
+      <link>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</link>
+      <description><![CDATA[推翻巴沙尔·阿萨德的战士们的目标是改变他们的革命运动并控制整个国家。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</guid>
+      <pubDate>Wed, 25 Dec 2024 17:56:58 GMT</pubDate>
     </item>
     <item>
       <title>特朗普连任定义美国政治新时代</title>
       <link>https://www.nytimes.com/2024/12/25/upshot/trump-era-republicans-democrats.html</link>
       <description><![CDATA[2012 年奥巴马与罗姆尼之争是美国政坛最后一场熟悉的竞争，此后唐纳德·特朗普的保守民粹主义成为美国政坛的主旋律。]]></description>
       <guid>https://www.nytimes.com/2024/12/25/upshot/trump-era-republicans-democrats.html</guid>
-      <pubDate>Wed, 25 Dec 2024 13:57:53 GMT</pubDate>
+      <pubDate>Wed, 25 Dec 2024 15:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>教皇方济各圣诞节呼吁乌克兰和加沙实现和平</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/pope-francis-christmas-jubilee-peace.html</link>
+      <description><![CDATA[教皇方济各的圣诞节致辞呼吁和解、和平和关爱他人。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/pope-francis-christmas-jubilee-peace.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:44:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能热潮让电工涌向华盛顿中部</title>
+      <link>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</link>
+      <description><![CDATA[随着来自全国各地的电工将科技行业的新型巨型数据中心接入其充足的电力供应，这个农村地区正在发生迅速的变化。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果发现叙利亚化学武器，美国军队可以安全销毁它们</title>
+      <link>https://www.nytimes.com/2024/12/25/us/syria-chemical-weapons.html</link>
+      <description><![CDATA[十年前，在一次神经毒剂袭击造成数百人死亡后，马里兰州一处基地的一支民事小组处理了叙利亚毒素。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/us/syria-chemical-weapons.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯对乌克兰能源基础设施发动攻击</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/russia-ukraine-strikes-energy-system.html</link>
+      <description><![CDATA[莫斯科再次袭击乌克兰的能源基础设施，这是其试图削弱乌克兰的行动的一部分。“在战壕里，没有假期，”一名男子说。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/russia-ukraine-strikes-energy-system.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>查尔斯国王在圣诞演讲中谈到英国骚乱和自己的癌症</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/uk-king-charles-christmas.html</link>
+      <description><![CDATA[英国君主在一所前医院的小教堂里，而不是在宫殿里发表他一年一度的节日致辞。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/uk-king-charles-christmas.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普计划废除气候政策，令绿色能源投资者感到不安</title>
+      <link>https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html</link>
+      <description><![CDATA[预计当选总统唐纳德·J·特朗普将取消许多吸引私营部门向可再生能源和电动汽车领域投入数十亿美元资金的规定和补贴。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/business/energy-environment/trump-clean-energy-finance.html</guid>
+      <pubDate>Wed, 25 Dec 2024 15:07:17 GMT</pubDate>
     </item>
     <item>
       <title>圣诞节图片：灯光和色彩标志着这个季节</title>
@@ -41,25 +76,11 @@
       <pubDate>Wed, 25 Dec 2024 13:42:28 GMT</pubDate>
     </item>
     <item>
-      <title>阿塞拜疆航空客机在哈萨克斯坦坠毁</title>
-      <link>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</link>
-      <description><![CDATA[俄罗斯国家航空管理局称，阿塞拜疆航空的飞机试图紧急降落。哈萨克斯坦当局称，机上至少有 29 人幸存。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</guid>
-      <pubDate>Wed, 25 Dec 2024 13:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>叙利亚新领导人试图将各叛军派系统一在一个政府之下</title>
-      <link>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</link>
-      <description><![CDATA[推翻巴沙尔·阿萨德的战士们的目标是改变他们的革命运动并控制整个国家。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</guid>
-      <pubDate>Wed, 25 Dec 2024 13:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国群岛飓风暴露移民怨恨</title>
-      <link>https://www.nytimes.com/2024/12/25/world/africa/mayotte-cyclone-chido-immigrants.html</link>
-      <description><![CDATA[在奇多气旋留下的废墟中，来自非洲东海岸马约特岛的人们呼吁驱逐定居在此的邻近岛屿的非法移民。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/africa/mayotte-cyclone-chido-immigrants.html</guid>
-      <pubDate>Wed, 25 Dec 2024 10:20:30 GMT</pubDate>
+      <title>94 岁时，她度过了人生最好的一年（并让她的朋友也度过了最好的一年）</title>
+      <link>https://www.nytimes.com/2024/12/25/nyregion/betty-gordon-new-york-stoned-crow.html</link>
+      <description><![CDATA[贝蒂·戈登很高兴能与一位著名的前情人重逢。但她在 2024 年最喜欢的部分是帮助一位陷入困境的朋友。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/nyregion/betty-gordon-new-york-stoned-crow.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:01:28 GMT</pubDate>
     </item>
     <item>
       <title>后阿萨德时代大马士革的战士到警察</title>
@@ -76,13 +97,6 @@
       <pubDate>Wed, 25 Dec 2024 10:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>鲍勃·迪伦传记片《完全未知》中的人物</title>
-      <link>https://www.nytimes.com/2024/12/25/movies/complete-unknown-bob-dylan-character-guide.html</link>
-      <description><![CDATA[这部传记片由蒂莫西·柴勒梅饰演鲍勃·迪伦，片中充斥着来自民间音乐界及其他领域的人物。以下是其中一些。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/movies/complete-unknown-bob-dylan-character-guide.html</guid>
-      <pubDate>Wed, 25 Dec 2024 10:00:49 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年给我们带来惊喜、安抚和尖叫的动物名人</title>
       <link>https://www.nytimes.com/2024/12/25/science/animals-flaco-pnut.html</link>
       <description><![CDATA[侏儒河马 Moo Deng、逃跑的雕鸮 Flaco、可能怀孕的黄貂鱼 Charlotte —— 它们让我们从混乱的人类世界中分心，但同时也是人类世界的清晰反映。]]></description>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 25 Dec 2024 10:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能热潮让电工涌向华盛顿中部</title>
-      <link>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</link>
-      <description><![CDATA[随着来自全国各地的电工将科技行业的新型巨型数据中心接入其充足的电力供应，这个农村地区正在发生迅速的变化。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</guid>
-      <pubDate>Wed, 25 Dec 2024 10:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>黎巴嫩泰尔的圣诞节充满创伤和悲伤</title>
-      <link>https://www.nytimes.com/2024/12/25/world/middleeast/lebanon-christmas-war.html</link>
-      <description><![CDATA[沿海城市泰尔的古老基督教社区今年没有什么值得庆祝的事情，许多人仍在哀悼死难者，并且仍对数月来以色列的轰炸感到不安。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/middleeast/lebanon-christmas-war.html</guid>
-      <pubDate>Wed, 25 Dec 2024 05:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>采访获释并流放的批评者弗拉基米尔·卡拉-穆尔扎 普京</title>
-      <link>https://www.nytimes.com/2024/12/25/world/europe/vladimir-kara-murza-interview-critic-putin.html</link>
-      <description><![CDATA[弗拉基米尔·卡拉-穆尔扎是俄罗斯总统弗拉基米尔·普京的强烈批评者，他不想参与囚犯交换。但他表示，需要进行更多囚犯交换。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/europe/vladimir-kara-murza-interview-critic-putin.html</guid>
-      <pubDate>Wed, 25 Dec 2024 05:01:07 GMT</pubDate>
+      <title>她在伍德斯托克裸体跳舞。她和塞尔皮科约会。93 岁了，她还没完。</title>
+      <link>https://www.nytimes.com/2024/07/19/nyregion/nyc-betty-gordon-stoned-crow.html</link>
+      <description><![CDATA[贝蒂·戈登来到纽约是为了成为一名演员（并享受其中的乐趣）。但她最大的才能可能是帮助别人。]]></description>
+      <guid>https://www.nytimes.com/2024/07/19/nyregion/nyc-betty-gordon-stoned-crow.html</guid>
+      <pubDate>Fri, 19 Jul 2024 21:58:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
