@@ -1,23 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Dec 2024 09:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 11:57:07 GMT</lastBuildDate>
     <item>
-      <title>一架载有 67 人的客机在哈萨克斯坦坠毁</title>
-      <link>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</link>
-      <description><![CDATA[俄罗斯国家航空管理局称，飞机试图紧急降落时在阿克套市附近坠毁。哈萨克斯坦当局称，至少有 25 人幸存。]]></description>
-      <guid>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</guid>
-      <pubDate>Wed, 25 Dec 2024 09:01:26 GMT</pubDate>
+      <title>叙利亚新领导人试图将各叛军派系统一在一个政府之下</title>
+      <link>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</link>
+      <description><![CDATA[推翻巴沙尔·阿萨德的战士们的目标是改变他们的革命运动并控制整个国家。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/middleeast/syria-rebels-government-assad.html</guid>
+      <pubDate>Wed, 25 Dec 2024 11:57:07 GMT</pubDate>
     </item>
     <item>
       <title>圣诞节图片：灯光和色彩标志着这个季节</title>
       <link>https://www.nytimes.com/2024/12/25/world/middleeast/christmas-photos-world-2024.html</link>
       <description><![CDATA[世界各地的人们都想方设法地表达节日气氛。]]></description>
       <guid>https://www.nytimes.com/2024/12/25/world/middleeast/christmas-photos-world-2024.html</guid>
-      <pubDate>Wed, 25 Dec 2024 06:03:11 GMT</pubDate>
+      <pubDate>Wed, 25 Dec 2024 11:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿塞拜疆航空客机在哈萨克斯坦坠毁</title>
+      <link>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</link>
+      <description><![CDATA[俄罗斯国家航空管理局称，阿塞拜疆航空的飞机试图紧急降落。哈萨克斯坦当局称，机上至少有 29 人幸存。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/europe/kazakhstan-plane-crash.html</guid>
+      <pubDate>Wed, 25 Dec 2024 11:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国群岛飓风暴露移民怨恨</title>
+      <link>https://www.nytimes.com/2024/12/25/world/africa/mayotte-cyclone-chido-immigrants.html</link>
+      <description><![CDATA[在奇多气旋留下的废墟中，来自非洲东海岸马约特岛的人们呼吁驱逐定居在此的邻近岛屿的非法移民。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/world/africa/mayotte-cyclone-chido-immigrants.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>《完全未知》评论：提莫西·查拉梅 (Timothée Chalamet) 激情出击</title>
+      <link>https://www.nytimes.com/2024/12/25/movies/-a-complete-unknown-review.html</link>
+      <description><![CDATA[该演员扮演年轻的鲍勃·迪伦，他在 1965 年的纽波特民谣音乐节上争取民谣粉丝的支持，但后来却背叛了他们。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/movies/-a-complete-unknown-review.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>后阿萨德时代大马士革的战士到警察</title>
+      <link>https://www.nytimes.com/video/world/middleeast/100000009885344/syria-rebels-police-damascus.html</link>
+      <description><![CDATA[随着推翻叙利亚长期独裁者巴沙尔·阿萨德的反对派从叛乱分子转变为管理者，维护首都街道的秩序已成为当务之急。]]></description>
+      <guid>https://www.nytimes.com/video/world/middleeast/100000009885344/syria-rebels-police-damascus.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>协助还是抵制：地方官员就特朗普的大规模驱逐威胁展开辩论</title>
+      <link>https://www.nytimes.com/2024/12/25/us/trump-deportations-migrants-san-diego.html</link>
+      <description><![CDATA[社区对与移民局官员的合作程度存在分歧。在圣地亚哥，警长发誓要违抗一项保护移民的新政策。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/us/trump-deportations-migrants-san-diego.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix 的圣诞节：NFL 比赛和碧昂丝中场秀</title>
+      <link>https://www.nytimes.com/2024/12/25/arts/television/nfl-games-beyonce-netflix-christmas.html</link>
+      <description><![CDATA[作为进军直播节目领域的举措之一，该流媒体服务将在圣诞节举办两​​场 NFL 比赛和一场大型音乐表演。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/arts/television/nfl-games-beyonce-netflix-christmas.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>《完全未知》的完整人物指南</title>
+      <link>https://www.nytimes.com/2024/12/25/movies/complete-unknown-bob-dylan-character-guide.html</link>
+      <description><![CDATA[这部传记片由蒂莫西·柴勒梅饰演鲍勃·迪伦，片中充斥着来自民间音乐界及其他领域的人物。以下是其中一些。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/movies/complete-unknown-bob-dylan-character-guide.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>亨德尔的《弥赛亚》是一首充满希望的赞歌，诞生于一段充满争议的友谊</title>
+      <link>https://www.nytimes.com/2024/12/25/opinion/handel-messiah-holiday-hope.html</link>
+      <description><![CDATA[政治对手之间充满争议的友谊如何导致了一首充满希望的经典圣诞颂歌的创作。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/opinion/handel-messiah-holiday-hope.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年给我们带来惊喜、安抚和尖叫的动物名人</title>
+      <link>https://www.nytimes.com/2024/12/25/science/animals-flaco-pnut.html</link>
+      <description><![CDATA[侏儒河马 Moo Deng、逃跑的雕鸮 Flaco、可能怀孕的黄貂鱼 Charlotte —— 它们让我们从混乱的人类世界中分心，但同时也是人类世界的清晰反映。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/science/animals-flaco-pnut.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能热潮让电工涌向华盛顿中部</title>
+      <link>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</link>
+      <description><![CDATA[随着来自全国各地的电工将科技行业的新型巨型数据中心接入其充足的电力供应，这个农村地区正在发生迅速的变化。]]></description>
+      <guid>https://www.nytimes.com/2024/12/25/technology/ai-data-centers-electricians.html</guid>
+      <pubDate>Wed, 25 Dec 2024 10:00:36 GMT</pubDate>
     </item>
     <item>
       <title>黎巴嫩泰尔的圣诞节充满创伤和悲伤</title>
@@ -39,76 +109,6 @@
       <description><![CDATA[2012 年奥巴马与罗姆尼之争是美国政坛最后一场熟悉的竞争，此后唐纳德·特朗普的保守民粹主义成为美国政坛的主旋律。]]></description>
       <guid>https://www.nytimes.com/2024/12/25/upshot/trump-era-republicans-democrats.html</guid>
       <pubDate>Wed, 25 Dec 2024 05:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿州一处保护区内有 20 只大型猫科动物死于禽流感</title>
-      <link>https://www.nytimes.com/2024/12/24/us/big-cat-bird-flu-deaths-washington.html</link>
-      <description><![CDATA[过去几周内，华盛顿州谢尔顿市的收容所里超过一半的猫死于该病毒。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/big-cat-bird-flu-deaths-washington.html</guid>
-      <pubDate>Wed, 25 Dec 2024 04:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国航空因技术问题于圣诞前夕短暂停飞美国航班</title>
-      <link>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</link>
-      <description><![CDATA[在一年中最繁忙的旅行日之一，用于发布航班的系统出现问题，恶劣天气导致航班延误的情况更加严重。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/business/american-air-flights-grounded.html</guid>
-      <pubDate>Wed, 25 Dec 2024 04:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>汹涌的海浪冲击着加州海岸和它心爱的码头</title>
-      <link>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</link>
-      <description><![CDATA[越来越凶猛和不稳定的海浪引发了人们对该州码头未来的担忧，这些码头几代人以来一直是海岸线的关键。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/california-beach-surf-pier-warning.html</guid>
-      <pubDate>Wed, 25 Dec 2024 01:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国最好的面包店</title>
-      <link>https://www.nytimes.com/article/best-bakeries-america.html</link>
-      <description><![CDATA[在美国面包店的黄金时代，从缅因州沿海地区到洛杉矶市中心，精致的糕点和美味的面包随处可见。]]></description>
-      <guid>https://www.nytimes.com/article/best-bakeries-america.html</guid>
-      <pubDate>Wed, 25 Dec 2024 01:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>无人机热潮如何席卷新泽西州及其他地区</title>
-      <link>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</link>
-      <description><![CDATA[第一次目击发生在新泽西州的一个军事基地，随后这一现象蔓延到了邻近各州。政府保证大多数“无人机”根本不是无人机，但这并没有打消人们的好奇心。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/nyregion/new-jersey-new-york-drones.html</guid>
-      <pubDate>Wed, 25 Dec 2024 01:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>海地医院发生武装袭击 至少 3 人死亡</title>
-      <link>https://www.nytimes.com/2024/12/24/world/americas/haiti-hospital-shooting.html</link>
-      <description><![CDATA[太子港一所医院重新开放前发生的枪击事件造成两名记者和一名警察死亡，至少七人受伤。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/world/americas/haiti-hospital-shooting.html</guid>
-      <pubDate>Wed, 25 Dec 2024 00:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有黄金般天赋的唱片制作人理查德·佩里去世，享年 82 岁</title>
-      <link>https://www.nytimes.com/2024/12/24/arts/music/richard-perry-dead.html</link>
-      <description><![CDATA[他因与芭芭拉史翠珊、卡莉西蒙、Pointer Sisters 等众多歌手合作而闻名，是业内最可靠的热门歌手之一。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/arts/music/richard-perry-dead.html</guid>
-      <pubDate>Tue, 24 Dec 2024 23:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普和马斯克想削减数十亿美元的预算。这不会容易。</title>
-      <link>https://www.nytimes.com/2024/12/24/business/trump-musk-ramaswamy-doge-government-spending.html</link>
-      <description><![CDATA[与社会安全网计划成本和利息支出的上升相比，削减政府开支和消除浪费的努力显得微不足道。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/business/trump-musk-ramaswamy-doge-government-spending.html</guid>
-      <pubDate>Tue, 24 Dec 2024 23:15:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>历史表明，“大政府”的重大变革难以实现</title>
-      <link>https://www.nytimes.com/2024/12/24/us/trump-america-government-republicans.html</link>
-      <description><![CDATA[过去缩减联邦官僚机构的努力，包括出售闲置政府大楼等基本措施，都未能奏效。共和党准备再次尝试。]]></description>
-      <guid>https://www.nytimes.com/2024/12/24/us/trump-america-government-republicans.html</guid>
-      <pubDate>Tue, 24 Dec 2024 19:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>幻觉人工智能如何帮助科学实现重大突破</title>
-      <link>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</link>
-      <description><![CDATA[幻觉是流行人工智能程序的一大祸害，但对于渴望突破人类知识边界的冒险科学家来说，这却是一种福音。]]></description>
-      <guid>https://www.nytimes.com/2024/12/23/science/ai-hallucinations-science.html</guid>
-      <pubDate>Mon, 23 Dec 2024 14:56:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
