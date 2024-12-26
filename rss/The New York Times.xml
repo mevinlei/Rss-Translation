@@ -1,44 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Dec 2024 18:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 21:05:40 GMT</lastBuildDate>
     <item>
-      <title>空难调查人员认为俄罗斯防空系统可能是空难原因</title>
+      <title>特朗普圣诞致辞后，总统圣诞致辞回顾</title>
+      <link>https://www.nytimes.com/2024/12/26/us/politics/president-christmas-messages-trump.html</link>
+      <description><![CDATA[历届美国总统都曾利用节日致辞激励全国人民团结一心，共克时艰。当选总统唐纳德·特朗普有自己的想法。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/us/politics/president-christmas-messages-trump.html</guid>
+      <pubDate>Thu, 26 Dec 2024 20:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登及其助手讨好破坏美国目标的盟友</title>
+      <link>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</link>
+      <description><![CDATA[当韩国、以色列等伙伴采取违背美国利益和原则的行动时，拜登政府措手不及。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</guid>
+      <pubDate>Thu, 26 Dec 2024 20:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列袭击也门胡塞武装目标，袭击机场和港口</title>
+      <link>https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html</link>
+      <description><![CDATA[据一家隶属于胡塞武装的电视台报道，此次袭击造成至少 2 人死亡，11 人受伤。此次袭击发生在伊朗支持的民兵组织发动一周袭击之后。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html</guid>
+      <pubDate>Thu, 26 Dec 2024 20:46:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普希望美国控制巴拿马运河。以下是三件需要了解的事情。</title>
+      <link>https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html</link>
+      <description><![CDATA[参议院于 1978 年批准的条约确立了永久中立，但一些共和党人对这一决定感到遗憾。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html</guid>
+      <pubDate>Thu, 26 Dec 2024 20:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿塞拜疆航空坠机调查人员认为俄罗斯防御可能是事故原因</title>
       <link>https://www.nytimes.com/2024/12/26/world/asia/investigators-plane-crash-kazakhstan.html</link>
       <description><![CDATA[俄罗斯航空当局称，阿塞拜疆航空公司的飞机撞上了一群鸟。但一些专家对这一说法表示怀疑，他们指出，镜头显示机身有明显的洞。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/asia/investigators-plane-crash-kazakhstan.html</guid>
-      <pubDate>Thu, 26 Dec 2024 18:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列轰炸也门胡塞武装分子发射导弹后目标</title>
-      <link>https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html</link>
-      <description><![CDATA[据一家隶属于胡塞武装的电视台报道，此次袭击造成至少 2 人死亡，11 人受伤。此前一周，伊朗支持的民兵组织对以色列发动了袭击。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html</guid>
-      <pubDate>Thu, 26 Dec 2024 18:00:07 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 19:55:53 GMT</pubDate>
     </item>
     <item>
       <title>霍楚尔签署法律，对温室气体排放企业进行处罚</title>
       <link>https://www.nytimes.com/2024/12/26/nyregion/hochul-climate-change-superfund-law.html</link>
       <description><![CDATA[该措施将寻求筹集资金，用于支付极端天气事件造成的部分损失，由于化石燃料的燃烧，极端天气事件变得越来越频繁。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/nyregion/hochul-climate-change-superfund-law.html</guid>
-      <pubDate>Thu, 26 Dec 2024 17:49:22 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 19:13:16 GMT</pubDate>
     </item>
     <item>
-      <title>叙利亚政府军追捕阿萨德高级官员</title>
+      <title>叙利亚叛军政府追捕阿萨德高级官员，引发致命冲突</title>
       <link>https://www.nytimes.com/2024/12/26/world/middleeast/syria-rebel-forces-hunt-assad-loyalists.html</link>
       <description><![CDATA[叙利亚新政府正在寻找一位摆脱阿萨德独裁政权的高级官员和忠于被罢免总统的军事力量。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/middleeast/syria-rebel-forces-hunt-assad-loyalists.html</guid>
-      <pubDate>Thu, 26 Dec 2024 17:45:15 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 18:42:18 GMT</pubDate>
     </item>
     <item>
       <title>通往爱沙尼亚的海底电缆被切断后，芬兰扣押了一艘船</title>
       <link>https://www.nytimes.com/2024/12/26/world/europe/finland-estonia-cables-russia.html</link>
       <description><![CDATA[该国总理表示，这次事件是一系列海底基础设施破坏事件中的最新一次，凸显了所谓的俄罗斯影子舰队的危险性。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/europe/finland-estonia-cables-russia.html</guid>
-      <pubDate>Thu, 26 Dec 2024 17:38:20 GMT</pubDate>
+      <pubDate>Thu, 26 Dec 2024 18:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥贩毒集团如何在弱势人群和动物身上测试芬太尼</title>
+      <link>https://www.nytimes.com/2024/12/26/world/americas/mexican-cartels-test-fentanyl.html</link>
+      <description><![CDATA[全球对芬太尼的严厉打击促使贩毒集团创新生产方法，并在人、兔子和鸡身上测试其危险配方。]]></description>
+      <guid>https://www.nytimes.com/2024/12/26/world/americas/mexican-cartels-test-fentanyl.html</guid>
+      <pubDate>Thu, 26 Dec 2024 18:10:34 GMT</pubDate>
     </item>
     <item>
       <title>好莱坞影业困境给加州经济带来冲击</title>
@@ -46,13 +74,6 @@
       <description><![CDATA[去年大规模罢工之后，电影制作未能反弹，来自其他地方的竞争也愈发激烈。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/business/economy/hollywood-southern-california-economy.html</guid>
       <pubDate>Thu, 26 Dec 2024 17:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登及其助手讨好破坏美国目标的盟友</title>
-      <link>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</link>
-      <description><![CDATA[当韩国、以色列等伙伴采取违背美国利益和原则的行动时，拜登政府措手不及。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</guid>
-      <pubDate>Thu, 26 Dec 2024 17:05:04 GMT</pubDate>
     </item>
     <item>
       <title>投资者是否应该担心特朗普上台后市场动荡？</title>
@@ -74,27 +95,6 @@
       <description><![CDATA[10 月 7 日的袭击令以色列感到意外，并且担心再次发生袭击，因此削弱了旨在保护非战斗人员的安全措施，导致军官在每次空袭中最多可危及 20 人。随后发生了 21 世纪最致命的轰炸之一。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/middleeast/israel-hamas-gaza-bombing.html</guid>
       <pubDate>Thu, 26 Dec 2024 10:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何重塑美国的经济地理</title>
-      <link>https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html</link>
-      <description><![CDATA[新研究预测，随着这项技术的广泛应用，美国中西部、大西洋中部和南部一些曾经陷入困境的中型城市可能会受益。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/technology/ai-economy-workers.html</guid>
-      <pubDate>Thu, 26 Dec 2024 10:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国是否已经准备好迎接一位女总统？</title>
-      <link>https://www.nytimes.com/2024/12/26/us/politics/will-the-us-ever-be-ready-for-a-female-president.html</link>
-      <description><![CDATA[民主党人希望结束选举可行性辩论。副总统卡马拉·哈里斯败选后，一场让两代女性候选人感到沮丧和挫败的争论仍在继续。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/politics/will-the-us-ever-be-ready-for-a-female-president.html</guid>
-      <pubDate>Thu, 26 Dec 2024 10:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥贩毒集团如何在弱势人群和动物身上测试芬太尼</title>
-      <link>https://www.nytimes.com/2024/12/26/world/americas/mexican-cartels-test-fentanyl.html</link>
-      <description><![CDATA[全球对芬太尼的严厉打击促使贩毒集团创新生产方法，并在人、兔子和鸡身上测试其危险配方。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/world/americas/mexican-cartels-test-fentanyl.html</guid>
-      <pubDate>Thu, 26 Dec 2024 10:00:48 GMT</pubDate>
     </item>
     <item>
       <title>评论：《鱿鱼游戏》第二季遭遇红灯</title>
