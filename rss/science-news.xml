@@ -4,7 +4,21 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Thu, 26 Dec 2024 09:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 12:19:58 GMT</lastBuildDate>
+    <item>
+      <title>数学家发现并修正了 60 年前证明中的一个错误</title>
+      <link>https://www.newscientist.com/article/2461891-mathematicians-found-and-fixed-an-error-in-a-60-year-old-proof/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[作为一项使数学可机读的项目的一部分，数学家们发现了一个重要证明中的错误。幸运的是，已经修复了，但这一事件凸显了数学文献中可能还存在其他错误]]></description>
+      <guid>https://www.newscientist.com/article/2461891-mathematicians-found-and-fixed-an-error-in-a-60-year-old-proof/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Thu, 26 Dec 2024 12:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的无错误量子计算机方法是否已经过时了？</title>
+      <link>https://www.newscientist.com/article/2461315-is-googles-approach-to-error-free-quantum-computers-already-outdated/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[谷歌最近在纠错量子计算机方面取得突破，其基础编码正面临激烈的竞争]]></description>
+      <guid>https://www.newscientist.com/article/2461315-is-googles-approach-to-error-free-quantum-computers-already-outdated/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Thu, 26 Dec 2024 10:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>美国肥胖率为何几十年来首次下降</title>
       <link>https://www.newscientist.com/article/2462004-why-us-obesity-rates-fell-for-the-first-time-in-decades/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[几何朗兰兹猜想给数学家们提出了深刻的问题，今年发表的长达 1000 页的证明让他们既高兴又困惑]]></description>
       <guid>https://www.newscientist.com/article/2459118-mathematicians-spent-2024-unravelling-proof-almost-no-one-understands/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Mon, 23 Dec 2024 10:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 o3 模型在 AI 推理测试中表现出色——但它仍然不是 AGI</title>
-      <link>https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[OpenAI 的最新 AI 模型实现了“令人印象深刻的性能飞跃”，但它仍未展现出专家所定义的人类水平的智能]]></description>
-      <guid>https://www.newscientist.com/article/2462000-openais-o3-model-aced-a-test-of-ai-reasoning-but-its-still-not-agi/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Fri, 20 Dec 2024 23:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>太阳能地球工程研究是否正处于发展阶段？</title>
-      <link>https://www.newscientist.com/article/2461498-is-solar-geoengineering-research-having-its-moment/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[越来越多的研究致力于将太阳光反射出地球以冷却气候，但关于其影响的问题仍远多于答案]]></description>
-      <guid>https://www.newscientist.com/article/2461498-is-solar-geoengineering-research-having-its-moment/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Fri, 20 Dec 2024 17:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
