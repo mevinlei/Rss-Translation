@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Dec 2024 21:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 03:16:21 GMT</lastBuildDate>
+    <item>
+      <title>索尼克 1 1991 可汗学院编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmevqm/sonic_1_1991_khan_academy_coding/</link>
+      <description><![CDATA[  由    /u/Big-Disaster8487  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmevqm/sonic_1_1991_khan_academy_coding/</guid>
+      <pubDate>Thu, 26 Dec 2024 02:32:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>间隙挑战赛还剩 7 天，奖池增加了！</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmer8z/7_days_left_for_the_interstice_challenge_the/</link>
+      <description><![CDATA[  由    /u/Dramatic-Yam-6965  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmer8z/7_days_left_for_the_interstice_challenge_the/</guid>
+      <pubDate>Thu, 26 Dec 2024 02:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>F*：一种通用的面向证明的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmeqec/f_a_generalpurpose_prooforiented_programming/</link>
+      <description><![CDATA[  由    /u/dewmal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmeqec/f_a_generalpurpose_prooforiented_programming/</guid>
+      <pubDate>Thu, 26 Dec 2024 02:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU 着色器中的 CRT 模拟，看起来比 BFI（黑框插入）更好 - Blur Busters</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmb7ds/crt_simulation_in_a_gpu_shader_looks_better_than/</link>
+      <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmb7ds/crt_simulation_in_a_gpu_shader_looks_better_than/</guid>
+      <pubDate>Wed, 25 Dec 2024 23:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hello World 到底有多复杂？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hmav07/how_complex_is_hello_world_really/</link>
+      <description><![CDATA[创建简单的东西出奇地困难。让我们从标准库、现代安全功能、调试信息和错误处理机制中去除复杂性，以了解 elf。毕竟是圣诞节……    提交人    /u/awesomealchemy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hmav07/how_complex_is_hello_world_really/</guid>
+      <pubDate>Wed, 25 Dec 2024 22:46:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>试验受桌面角色扮演游戏启发的视频游戏软件架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1hm9d0p/experimenting_with_software_architectures_for/</link>
+      <description><![CDATA[  由    /u/self  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hm9d0p/experimenting_with_software_architectures_for/</guid>
+      <pubDate>Wed, 25 Dec 2024 21:23:44 GMT</pubDate>
+    </item>
     <item>
       <title>Go-Prequel：谷歌 Prequel 负载均衡器的 POC</title>
       <link>https://www.reddit.com/r/programming/comments/1hm78ao/goprequel_poc_for_googles_prequel_load_balancer/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[  由    /u/guest271314  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hlupe1/compiling_javascript_to_wasm_with_static_hermes/</guid>
       <pubDate>Wed, 25 Dec 2024 05:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 Cursor 和 WindSurf 的代码索引逻辑</title>
-      <link>https://www.reddit.com/r/programming/comments/1hltrs0/understanding_cursor_and_windsurfs_code_indexing/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hltrs0/understanding_cursor_and_windsurfs_code_indexing/</guid>
-      <pubDate>Wed, 25 Dec 2024 04:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再进行端到端测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlszly/end_to_end_testing_no_more/</link>
-      <description><![CDATA[  由    /u/bertie-wooster-17  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlszly/end_to_end_testing_no_more/</guid>
-      <pubDate>Wed, 25 Dec 2024 03:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解选择性测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlosfx/understanding_selective_testing/</link>
-      <description><![CDATA[  由    /u/lihaoyi  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlosfx/understanding_selective_testing/</guid>
-      <pubDate>Tue, 24 Dec 2024 23:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 初创公司是否应该提供本地服务？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hljyoj/should_saas_startups_offer_onprem/</guid>
-      <pubDate>Tue, 24 Dec 2024 18:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入研究开发中的部署策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlhf63/a_closer_look_at_deployment_strategies_in/</link>
-      <description><![CDATA[  由    /u/professionalthing111  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlhf63/a_closer_look_at_deployment_strategies_in/</guid>
-      <pubDate>Tue, 24 Dec 2024 16:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 C 编译为安全 Rust，形式化</title>
-      <link>https://www.reddit.com/r/programming/comments/1hlgawd/compiling_c_to_safe_rust_formalized/</link>
-      <description><![CDATA[  由    /u/Active-Fuel-49  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hlgawd/compiling_c_to_safe_rust_formalized/</guid>
-      <pubDate>Tue, 24 Dec 2024 15:53:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
