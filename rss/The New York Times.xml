@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:10:02 GMT</lastBuildDate>
     <item>
-      <title>韩国代理总统韩德洙面临弹劾投票</title>
+      <title>危机加深 韩国议员弹劾代理总统</title>
       <link>https://www.nytimes.com/2024/12/26/world/asia/south-korea-impeach-president-han.html</link>
-      <description><![CDATA[在总统等待弹劾审判之际，该国临时领导人也可能被罢免。随着危机加深，货币大幅贬值。]]></description>
+      <description><![CDATA[此次投票是继尹永哲总统的失败戒严措施引发动乱之后两周内第二次重大弹劾。该国货币已大幅贬值。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/asia/south-korea-impeach-president-han.html</guid>
-      <pubDate>Fri, 27 Dec 2024 05:55:59 GMT</pubDate>
+      <pubDate>Fri, 27 Dec 2024 08:56:22 GMT</pubDate>
     </item>
     <item>
       <title>在碧昂斯的帮助下，NFL 圣诞比赛在 Netflix 上打破流媒体记录</title>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 27 Dec 2024 04:46:19 GMT</pubDate>
     </item>
     <item>
-      <title>胡塞武装是谁？为什么美国和以色列要攻击他们？</title>
+      <title>胡塞武装是谁？美国和以色列为什么要攻击他们？</title>
       <link>https://www.nytimes.com/article/houthi-yemen-red-sea-attacks.html</link>
       <description><![CDATA[伊朗支持的民兵组织对红海的商船和以色列发动了袭击。]]></description>
       <guid>https://www.nytimes.com/article/houthi-yemen-red-sea-attacks.html</guid>
