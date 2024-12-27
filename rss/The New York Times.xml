@@ -1,44 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 09:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 12:10:26 GMT</lastBuildDate>
     <item>
       <title>危机加深 韩国议员弹劾代理总统</title>
       <link>https://www.nytimes.com/2024/12/26/world/asia/south-korea-impeach-president-han.html</link>
-      <description><![CDATA[此次投票是继尹永哲总统的失败戒严措施引发动乱之后两周内第二次重大弹劾。该国货币已大幅贬值。]]></description>
+      <description><![CDATA[此次投票是两周内第二次重大弹劾，此前尹永哲总统的戒严令引发了动乱。该国货币已大幅贬值。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/asia/south-korea-impeach-president-han.html</guid>
-      <pubDate>Fri, 27 Dec 2024 08:56:22 GMT</pubDate>
+      <pubDate>Fri, 27 Dec 2024 11:31:12 GMT</pubDate>
     </item>
     <item>
-      <title>在碧昂斯的帮助下，NFL 圣诞比赛在 Netflix 上打破流媒体记录</title>
-      <link>https://www.nytimes.com/2024/12/26/us/netflix-christmas-nfl-ratings-beyonce.html</link>
-      <description><![CDATA[Netflix 表示，这两场比赛在美国平均吸引了超过 2400 万观众。碧昂斯表演时，观众人数达到顶峰。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/netflix-christmas-nfl-ratings-beyonce.html</guid>
-      <pubDate>Fri, 27 Dec 2024 04:46:19 GMT</pubDate>
+      <title>韩国领导力危机解析</title>
+      <link>https://www.nytimes.com/2024/12/14/world/asia/south-korea-impeachment-yoon-explained.html</link>
+      <description><![CDATA[在罢免总统尹锡烈后，反对派议员还投票弹劾临时领导人。以下是动乱的经过。]]></description>
+      <guid>https://www.nytimes.com/2024/12/14/world/asia/south-korea-impeachment-yoon-explained.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>胡塞武装是谁？美国和以色列为什么要攻击他们？</title>
-      <link>https://www.nytimes.com/article/houthi-yemen-red-sea-attacks.html</link>
-      <description><![CDATA[伊朗支持的民兵组织对红海的商船和以色列发动了袭击。]]></description>
-      <guid>https://www.nytimes.com/article/houthi-yemen-red-sea-attacks.html</guid>
-      <pubDate>Fri, 27 Dec 2024 03:06:11 GMT</pubDate>
+      <title>领导日本汽车制造商超过 40 年的铃木修去世，享年 94 岁</title>
+      <link>https://www.nytimes.com/2024/12/27/business/osamu-suzuki-dies-94.html</link>
+      <description><![CDATA[他将铃木汽车公司从一家小公司打造成了全球巨头，并于 20 世纪 80 年代进入印度市场，这是他早期的成功之一。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/business/osamu-suzuki-dies-94.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>白头鹰终于成为美国的国鸟了</title>
-      <link>https://www.nytimes.com/2024/12/26/us/bald-eagle-national-bird.html</link>
-      <description><![CDATA[这只有着棕色和白色羽毛的鸟一直以来都是美国雄伟和翱翔的象征，但直到本周才有法律将其正式确立。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/bald-eagle-national-bird.html</guid>
-      <pubDate>Fri, 27 Dec 2024 02:25:51 GMT</pubDate>
+      <title>特朗普准备就职之际，乌克兰减缓对俄罗斯的导弹攻击</title>
+      <link>https://www.nytimes.com/2024/12/27/world/europe/ukraine-russia-missiles-trump.html</link>
+      <description><![CDATA[美国和英国提供的远程导弹被用来袭击俄罗斯境内，尽管有人担心使用这些导弹会导致冲突升级。基辅的导弹库存即将耗尽。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/europe/ukraine-russia-missiles-trump.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:01:44 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普希望美国控制巴拿马运河。以下是三件需要了解的事情。</title>
-      <link>https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html</link>
-      <description><![CDATA[参议院于 1978 年批准的条约确立了永久中立，但一些共和党人对这一决定感到遗憾。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/politics/trump-panama-canal.html</guid>
-      <pubDate>Fri, 27 Dec 2024 00:58:12 GMT</pubDate>
+      <title>奥巴马向古巴开放十年后，绝望取代希望</title>
+      <link>https://www.nytimes.com/2024/12/27/us/obama-us-thaw-cuba-crisis.html</link>
+      <description><![CDATA[美国和古巴恢复外交关系已有十年，很多人认为这将改变古巴这个岛国，但古巴目前却遭遇了菲德尔·卡斯特罗掌权以来最严重的危机。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/us/obama-us-thaw-cuba-crisis.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程医疗技术教会我成为一名更好的医生</title>
+      <link>https://www.nytimes.com/2024/12/27/opinion/telehealth-medicine-technology-doctors.html</link>
+      <description><![CDATA[我曾经强烈怀疑远程医疗能否提供良好的医疗服务。但我错了。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/opinion/telehealth-medicine-technology-doctors.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M 共同风险事件发生后，EPA 仍大力推广含有 PFAS 的化肥</title>
+      <link>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</link>
+      <description><![CDATA[该机构于 2003 年从 3M 公司获得的研究显示，作为肥料原料的污水污泥含有有毒的“永久性化学物质”。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些非洲领导人对特朗普持乐观态度</title>
+      <link>https://www.nytimes.com/2024/12/27/world/africa/trump-africa.html</link>
+      <description><![CDATA[唐纳德·特朗普在其第一任期内诋毁非洲国家，但非洲领导人希望他的回归能带来更多的投资，减少维护民主和人权的压力。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/africa/trump-africa.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街正从高风险贷款中赚取不义之财。这会造成什么问题？</title>
+      <link>https://www.nytimes.com/2024/12/27/business/wall-st-private-credit-money.html</link>
+      <description><![CDATA[从杰米·戴蒙到国际货币基金组织，每个人都在对私人信贷的黑暗世界发出警告。但资金仍在源源不断地涌入。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/business/wall-st-private-credit-money.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚阿拉维派少数派受到阿萨德家族青睐，但对未来忧心忡忡</title>
+      <link>https://www.nytimes.com/2024/12/27/world/middleeast/syria-alawites-assad.html</link>
+      <description><![CDATA[在要求正义和问责的呼声和网上威胁的浪潮中，一个曾经占据主导地位的团体在叙利亚独裁者被推翻后感到深深的焦虑。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/middleeast/syria-alawites-assad.html</guid>
+      <pubDate>Fri, 27 Dec 2024 10:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>为期八天的太空任务变成了六个月。宇航员的体格各不相同。</title>
+      <link>https://www.nytimes.com/2024/12/27/opinion/nasa-stranded-space.html</link>
+      <description><![CDATA[宇航员的构成物质和你我都不同。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/opinion/nasa-stranded-space.html</guid>
+      <pubDate>Fri, 27 Dec 2024 06:00:05 GMT</pubDate>
     </item>
     <item>
       <title>以色列袭击也门胡塞武装目标，袭击机场和港口</title>
@@ -46,27 +88,6 @@
       <description><![CDATA[据也门国家通讯社报道，此次袭击造成至少 4 人死亡，21 人受伤。此次袭击是在伊朗支持的民兵组织发动一周袭击之后发生的。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/middleeast/israel-yemen-bombs-houthis.html</guid>
       <pubDate>Thu, 26 Dec 2024 23:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局宇航员如何在距地球 250 英里的地方庆祝圣诞节</title>
-      <link>https://www.nytimes.com/2024/12/26/science/iss-astronauts-holiday-celebration.html</link>
-      <description><![CDATA[国际空间站上的宇航员（包括两名原定于几个月前返回的宇航员）举行了一场零重力饼干装饰比赛，并用储物袋制作了一只驯鹿。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/science/iss-astronauts-holiday-celebration.html</guid>
-      <pubDate>Thu, 26 Dec 2024 23:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体和金融巨头的惯犯理查德·帕森斯去世，享年 76 岁</title>
-      <link>https://www.nytimes.com/2024/12/26/business/media/richard-parsons-dead.html</link>
-      <description><![CDATA[帕森斯的冗长简历记录了他在时代华纳、花旗集团和洛杉矶快船队遇到过的企业紧急情况。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/business/media/richard-parsons-dead.html</guid>
-      <pubDate>Thu, 26 Dec 2024 23:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>多萝西·莫克斯利 (Dorthy Moxley) 为女儿的谋杀案寻求正义，于 92 岁去世</title>
-      <link>https://www.nytimes.com/2024/12/26/us/dorthy-moxley-dead.html</link>
-      <description><![CDATA[在玛莎·莫克斯利惨死后的几十年里，莫克斯利夫人仍然是这个引起全世界关注的过山车案件中引人注目的人物。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/dorthy-moxley-dead.html</guid>
-      <pubDate>Thu, 26 Dec 2024 22:31:16 GMT</pubDate>
     </item>
     <item>
       <title>通往爱沙尼亚的海底电缆被切断后，芬兰扣押了一艘船</title>
@@ -83,32 +104,11 @@
       <pubDate>Thu, 26 Dec 2024 20:57:47 GMT</pubDate>
     </item>
     <item>
-      <title>拜登及其助手讨好破坏美国目标的盟友</title>
-      <link>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</link>
-      <description><![CDATA[当韩国、以色列等伙伴采取违背美国利益和原则的行动时，拜登政府措手不及。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/us/politics/biden-allies-foreign-policy.html</guid>
-      <pubDate>Thu, 26 Dec 2024 20:51:16 GMT</pubDate>
-    </item>
-    <item>
       <title>阿塞拜疆航空坠机调查人员认为俄罗斯防御可能是事故原因</title>
       <link>https://www.nytimes.com/2024/12/26/world/asia/investigators-plane-crash-kazakhstan.html</link>
       <description><![CDATA[俄罗斯航空当局称，阿塞拜疆航空公司的飞机撞上了一群鸟。但一些专家对这一说法表示怀疑，他们指出，镜头显示机身有明显的洞。]]></description>
       <guid>https://www.nytimes.com/2024/12/26/world/asia/investigators-plane-crash-kazakhstan.html</guid>
       <pubDate>Thu, 26 Dec 2024 19:55:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>叙利亚叛军政府追捕阿萨德高级官员，引发致命冲突</title>
-      <link>https://www.nytimes.com/2024/12/26/world/middleeast/syria-rebel-forces-hunt-assad-loyalists.html</link>
-      <description><![CDATA[叙利亚新政府正在寻找一位摆脱阿萨德独裁政权的高级官员和忠于被罢免总统的军事力量。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/world/middleeast/syria-rebel-forces-hunt-assad-loyalists.html</guid>
-      <pubDate>Thu, 26 Dec 2024 18:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>好莱坞影业困境给加州经济带来冲击</title>
-      <link>https://www.nytimes.com/2024/12/26/business/economy/hollywood-southern-california-economy.html</link>
-      <description><![CDATA[去年大规模罢工之后，电影制作未能反弹，来自其他地方的竞争也愈发激烈。]]></description>
-      <guid>https://www.nytimes.com/2024/12/26/business/economy/hollywood-southern-california-economy.html</guid>
-      <pubDate>Thu, 26 Dec 2024 17:17:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
