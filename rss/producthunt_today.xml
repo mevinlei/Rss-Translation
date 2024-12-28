@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Dec 2024 03:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 06:13:12 GMT</lastBuildDate>
     <item>
       <title>网格 3D 人工智能</title>
       <link>https://www.producthunt.com/posts/trellis-3d-ai</link>
@@ -37,7 +37,7 @@
       <title>Notion 的演示模式</title>
       <link>https://www.producthunt.com/posts/presentation-mode-for-notion</link>
       <description><![CDATA[
-将 Notion 页面转换为流畅滑动的演示文稿
+将 Notion 页面变成流畅滑动的演示文稿
 
 
 讨论
@@ -51,7 +51,7 @@
       <title>幽灵</title>
       <link>https://www.producthunt.com/posts/ghostty</link>
       <description><![CDATA[
-一款快速、功能丰富且平台原生的终端仿真器
+一款快速、功能丰富且平台原生的终端模拟器
 
 
 讨论
@@ -102,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/quillflow</guid>
       <pubDate>Wed, 25 Dec 2024 21:36:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>#GitHubWrapped</title>
+      <link>https://www.producthunt.com/posts/githubwrapped-2</link>
+      <description><![CDATA[
+您的代码年限
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/githubwrapped-2</guid>
+      <pubDate>Wed, 25 Dec 2024 17:55:41 GMT</pubDate>
     </item>
     <item>
       <title>Magnify - 您的奖励伴侣</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/lambda-4</guid>
       <pubDate>Mon, 09 Dec 2024 07:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>流行短片</title>
-      <link>https://www.producthunt.com/posts/popshort-al</link>
-      <description><![CDATA[
-只需几分钟即可将您的灵感转化为引人入胜的短片
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/popshort-al</guid>
-      <pubDate>Thu, 21 Nov 2024 04:22:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
