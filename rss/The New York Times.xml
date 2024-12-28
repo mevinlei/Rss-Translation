@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 21:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 00:28:20 GMT</lastBuildDate>
+    <item>
+      <title>加拿大部长在海湖庄园会见特朗普助手，讨论边境和关税问题</title>
+      <link>https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普威胁说，除非加拿大阻止移民和芬太尼流入美国，否则他将对加拿大出口产品征收关税。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html</guid>
+      <pubDate>Sat, 28 Dec 2024 00:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>移民和新冠疫情限制措施解除导致无家可归者激增</title>
+      <link>https://www.nytimes.com/2024/12/27/us/homelessness-hit-record-level-in-2024.html</link>
+      <description><![CDATA[美国无家可归者数量超过77万，较去年同期增长18%以上。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/us/homelessness-hit-record-level-in-2024.html</guid>
+      <pubDate>Sat, 28 Dec 2024 00:11:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈萨克斯坦空难幸存者描述阿塞拜疆航空航班上的混乱</title>
+      <link>https://www.nytimes.com/2024/12/27/world/europe/azerbaijan-airlines-crash-kazakhstan-survivors.html</link>
+      <description><![CDATA[空乘人员和一名乘客描述了阿塞拜疆航空公司一架客机在哈萨克斯坦坠毁前夕的情景，该事故造成数十人死亡。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/europe/azerbaijan-airlines-crash-kazakhstan-survivors.html</guid>
+      <pubDate>Sat, 28 Dec 2024 00:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>曾主持 NFL 和 NCAA 比赛的 Greg Gumbel 去世，享年 78 岁</title>
+      <link>https://www.nytimes.com/2024/12/27/business/media/greg-gumbel-dead.html</link>
+      <description><![CDATA[这位体育解说员在哥伦比亚广播公司 (CBS) 担任 NFL 和 NCAA 比赛解说员的数十年间，将现场直播的刺激与精准的播报技巧融为一体。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/business/media/greg-gumbel-dead.html</guid>
+      <pubDate>Sat, 28 Dec 2024 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普敦促最高法院暂停 TikTok 禁令</title>
+      <link>https://www.nytimes.com/2024/12/27/us/politics/tiktok-ban-supreme-court-trump.html</link>
+      <description><![CDATA[这位当选总统没有对该应用程序根据法律第一修正案提出的挑战发表任何立场，该法律规定 1 月 19 日是出售或关闭这个流行平台的最后期限。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/us/politics/tiktok-ban-supreme-court-trump.html</guid>
+      <pubDate>Fri, 27 Dec 2024 23:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频详细展示狱警对囚犯实施致命殴打的“令人震惊”细节</title>
+      <link>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</link>
+      <description><![CDATA[本月，纽约一所监狱发生一起野蛮袭击事件，罗伯特·布鲁克斯 (Robert Brooks) 遭致死亡，整个过程被数名狱警随身携带的摄像机拍下。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</guid>
+      <pubDate>Fri, 27 Dec 2024 23:21:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>耶伦向国会发出债务上限警告</title>
+      <link>https://www.nytimes.com/2024/12/27/business/economy/yellen-debt-limit-warning-congress.html</link>
+      <description><![CDATA[财政部长敦促国会通过提高债务限额来保护美国的信誉。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/business/economy/yellen-debt-limit-warning-congress.html</guid>
+      <pubDate>Fri, 27 Dec 2024 22:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列军队强制病人和工作人员离开加沙北部医院</title>
+      <link>https://www.nytimes.com/2024/12/27/world/middleeast/israel-gaza-hospital-raid.html</link>
+      <description><![CDATA[以色列对加沙北部哈马斯武装分子发动了长达数月的攻势，卡迈勒阿德万医院 (Kamal Adwan) 便是其中的受害者。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/world/middleeast/israel-gaza-hospital-raid.html</guid>
+      <pubDate>Fri, 27 Dec 2024 22:41:40 GMT</pubDate>
+    </item>
     <item>
       <title>包括埃隆·马斯克在内的特朗普支持者与极右翼在移民工人和 H-1B 签证问题上发生冲突</title>
       <link>https://www.nytimes.com/2024/12/27/technology/trump-musk-immigration-h1b-visa.html</link>
@@ -20,46 +76,11 @@
       <pubDate>Fri, 27 Dec 2024 20:37:51 GMT</pubDate>
     </item>
     <item>
-      <title>意大利记者在伊朗报道时被拘留</title>
-      <link>https://www.nytimes.com/2024/12/27/world/middleeast/cecilia-sala-italian-journalist-arrested-iran.html</link>
-      <description><![CDATA[29 岁的塞西莉亚·萨拉于 12 月 19 日被捕，但她被拘留的消息直到周五才公开。萨拉女士是一名知名记者，其被捕原因尚未公开。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/world/middleeast/cecilia-sala-italian-journalist-arrested-iran.html</guid>
-      <pubDate>Fri, 27 Dec 2024 20:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频详细展示狱警对囚犯实施致命殴打的“令人震惊”细节</title>
-      <link>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</link>
-      <description><![CDATA[本月，纽约一所监狱发生一起野蛮袭击事件，罗伯特·布鲁克斯 (Robert Brooks) 遭致死亡，整个过程被数名狱警随身携带的摄像机拍下。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/nyregion/marcy-correctional-inmate-death-video-ny-prison.html</guid>
-      <pubDate>Fri, 27 Dec 2024 20:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大部长将在海湖庄园会见特朗普助手，讨论边境和关税问题</title>
-      <link>https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普威胁说，除非加拿大阻止移民和芬太尼流入美国，否则他将对加拿大出口产品征收关税。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/world/canada/canada-ministers-trump-border-tariffs.html</guid>
-      <pubDate>Fri, 27 Dec 2024 20:13:41 GMT</pubDate>
-    </item>
-    <item>
       <title>当选总统经常评论他周围的人</title>
       <link>https://www.nytimes.com/2024/12/27/style/donald-trump-compliments-looks-men.html</link>
       <description><![CDATA[“这些人都是标本。”]]></description>
       <guid>https://www.nytimes.com/2024/12/27/style/donald-trump-compliments-looks-men.html</guid>
       <pubDate>Fri, 27 Dec 2024 18:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列军队强制病人和工作人员离开加沙北部医院</title>
-      <link>https://www.nytimes.com/2024/12/27/world/middleeast/israel-gaza-hospital-raid.html</link>
-      <description><![CDATA[以色列对加沙北部哈马斯武装分子发动了长达数月的攻势，卡迈勒阿德万医院 (Kamal Adwan) 便是其中的受害者。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/world/middleeast/israel-gaza-hospital-raid.html</guid>
-      <pubDate>Fri, 27 Dec 2024 18:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>移民和新冠疫情限制措施解除导致美国无家可归者人数激增</title>
-      <link>https://www.nytimes.com/2024/12/27/us/homelessness-hit-record-level-in-2024.html</link>
-      <description><![CDATA[无家可归者的数量超过77万人，比去年增加了18%以上。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/us/homelessness-hit-record-level-in-2024.html</guid>
-      <pubDate>Fri, 27 Dec 2024 17:36:49 GMT</pubDate>
     </item>
     <item>
       <title>一个月后，以色列和真主党之间达成脆弱停火协议</title>
@@ -69,39 +90,18 @@
       <pubDate>Fri, 27 Dec 2024 17:14:06 GMT</pubDate>
     </item>
     <item>
-      <title>3M 共担风险后，美国环保署仍大力推广含 PFAS 的化肥</title>
-      <link>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</link>
-      <description><![CDATA[该机构于 2003 年从 3M 公司获得的研究显示，作为肥料原料的污水污泥含有有毒的“永久性化学物质”。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/climate/epa-pfas-fertilizer-3m-forever-chemicals.html</guid>
-      <pubDate>Fri, 27 Dec 2024 17:09:32 GMT</pubDate>
-    </item>
-    <item>
       <title>美国希望在叙利亚避免重演阿富汗战争</title>
       <link>https://www.nytimes.com/2024/12/27/us/politics/biden-syria-afghanistan-taliban.html</link>
-      <description><![CDATA[美国官员在试图说服目前掌控叙利亚的叛军采取包容、温和的政策进行治理时态度十分谨慎。]]></description>
+      <description><![CDATA[美国官员在试图说服叙利亚现任控制者采取包容、温和的治理方式时态度谨慎。]]></description>
       <guid>https://www.nytimes.com/2024/12/27/us/politics/biden-syria-afghanistan-taliban.html</guid>
       <pubDate>Fri, 27 Dec 2024 16:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普上台后，NPR 和 PBS 电视台面临资金争夺战</title>
-      <link>https://www.nytimes.com/2024/12/27/business/media/npr-pbs-funding-trump-musk.html</link>
-      <description><![CDATA[几十年来，国会共和党人一直试图削减公共媒体的资金。在埃隆·马斯克的帮助下，他们最终能兑现自己的威胁吗？]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/business/media/npr-pbs-funding-trump-musk.html</guid>
-      <pubDate>Fri, 27 Dec 2024 15:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街正从高风险贷款中赚取不义之财。这会造成什么问题？</title>
-      <link>https://www.nytimes.com/2024/12/27/business/wall-st-private-credit-money.html</link>
-      <description><![CDATA[从杰米·戴蒙到国际货币基金组织，每个人都在对私人信贷的黑暗世界发出警告。但资金仍在源源不断地涌入。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/business/wall-st-private-credit-money.html</guid>
-      <pubDate>Fri, 27 Dec 2024 15:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>音乐年</title>
-      <link>https://www.nytimes.com/2024/12/27/podcasts/the-daily/2024-biggest-music-stories.html</link>
-      <description><![CDATA[我们的流行音乐评论家谈论 2024 年的重大新闻。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/podcasts/the-daily/2024-biggest-music-stories.html</guid>
-      <pubDate>Fri, 27 Dec 2024 11:00:06 GMT</pubDate>
+      <title>坎迪斯·米勒在丈夫去世后陷入债务困境</title>
+      <link>https://www.nytimes.com/2024/12/27/nyregion/candice-miller-mama-and-tata-widow-debt.html</link>
+      <description><![CDATA[坎迪斯·米勒在 Instagram 上向全世界展示了她奢华的派对和假期。她的丈夫布兰登·米勒去世时，负债 3360 万美元，银行存款只有 8,000 美元。]]></description>
+      <guid>https://www.nytimes.com/2024/12/27/nyregion/candice-miller-mama-and-tata-widow-debt.html</guid>
+      <pubDate>Fri, 27 Dec 2024 12:39:21 GMT</pubDate>
     </item>
     <item>
       <title>Instagram 上完美的汉普顿生活如何以悲剧收场</title>
