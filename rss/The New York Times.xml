@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 11:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 15:08:29 GMT</lastBuildDate>
+    <item>
+      <title>即将离任的空军部长将留下太空武器作为遗产</title>
+      <link>https://www.nytimes.com/2024/12/29/us/politics/frank-kendall-air-force.html</link>
+      <description><![CDATA[弗兰克·肯德尔 (Frank Kendall) 在一个苹果农场长大，后来晋升到美国军队的高层，他一直宣扬需要为下一场大战做好更好的准备。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/us/politics/frank-kendall-air-force.html</guid>
+      <pubDate>Sun, 29 Dec 2024 14:38:46 GMT</pubDate>
+    </item>
     <item>
       <title>关于韩国​​几十年来最严重空难你需要知道些什么</title>
       <link>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</link>
       <description><![CDATA[一架载有 181 名乘客的飞机在降落时坠毁，机上大部分人员遇难。官员们正在调查起落架可能出现的故障和鸟击事件。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</guid>
-      <pubDate>Sun, 29 Dec 2024 11:52:32 GMT</pubDate>
+      <pubDate>Sun, 29 Dec 2024 13:19:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在机场的到达大厅，人们焦急地等待消息。</title>
+      <link>https://www.nytimes.com/live/2024/12/28/world/south-korea-plane-crash/at-the-airports-arrivals-hall-an-agonizing-wait-for-news</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nytimes.com/live/2024/12/28/world/south-korea-plane-crash/at-the-airports-arrivals-hall-an-agonizing-wait-for-news</guid>
+      <pubDate>Sun, 29 Dec 2024 12:55:43 GMT</pubDate>
     </item>
     <item>
       <title>波音 737-800，即 737 Max 的前身，被广泛使用。</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[全球有近 200 家航空公司使用 737-800 型飞机，约占全球飞机队的 15%。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/world/asia/boeing-737-800.html</guid>
       <pubDate>Sun, 29 Dec 2024 08:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将离任的空军部长将留下太空武器作为遗产</title>
-      <link>https://www.nytimes.com/2024/12/29/us/politics/frank-kendall-air-force.html</link>
-      <description><![CDATA[弗兰克·肯德尔 (Frank Kendall) 在一个苹果农场长大，后来晋升到美国军队的高层，他一直宣扬需要为下一场大战做好更好的准备。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/us/politics/frank-kendall-air-force.html</guid>
-      <pubDate>Sun, 29 Dec 2024 08:00:41 GMT</pubDate>
     </item>
     <item>
       <title>真主党瓦解的背后：以色列情报部门数十年的功绩</title>
@@ -41,18 +48,11 @@
       <pubDate>Sun, 29 Dec 2024 08:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>韩国代理总统上周五才上任</title>
-      <link>https://www.nytimes.com/2024/12/28/world/asia/south-korea-president-political-crisis.html</link>
-      <description><![CDATA[两周内两名领导人遭到弹劾，该国陷入深重政治危机。]]></description>
-      <guid>https://www.nytimes.com/2024/12/28/world/asia/south-korea-president-political-crisis.html</guid>
-      <pubDate>Sun, 29 Dec 2024 04:59:30 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普就移民签证问题发表看法，但未给出明确解释</title>
       <link>https://www.nytimes.com/2024/12/28/business/trump-immigration-h1b-visa.html</link>
       <description><![CDATA[他在接受采访时表示，他“多次”使用过技术工人签证。但他主要使用的签证是管家等非技术工人的签证。]]></description>
       <guid>https://www.nytimes.com/2024/12/28/business/trump-immigration-h1b-visa.html</guid>
-      <pubDate>Sun, 29 Dec 2024 02:40:52 GMT</pubDate>
+      <pubDate>Sun, 29 Dec 2024 02:40:53 GMT</pubDate>
     </item>
     <item>
       <title>唐纳德·特朗普是如何从呼吁禁止 TikTok 到放弃的</title>
