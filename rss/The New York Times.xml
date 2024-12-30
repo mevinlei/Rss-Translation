@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 18:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 20:54:02 GMT</lastBuildDate>
+    <item>
+      <title>特朗普对卡罗尔性侵案 500 万美元赔偿的上诉失败</title>
+      <link>https://www.nytimes.com/2024/12/30/nyregion/trump-carroll-appeal-denied.html</link>
+      <description><![CDATA[这位当选总统已请求法院推翻此案中对他的诽谤判决，该案围绕 E. Jean Carroll 对更衣室性侵犯的描述。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/nyregion/trump-carroll-appeal-denied.html</guid>
+      <pubDate>Mon, 30 Dec 2024 20:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国称中国黑客入侵财政部 造成“重大”损失</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/china-hack-treasury.html</link>
+      <description><![CDATA[该部门向立法者通报了这一事件，并称该事件与中国一名受政府支持的演员有关。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/china-hack-treasury.html</guid>
+      <pubDate>Mon, 30 Dec 2024 20:51:21 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普支持迈克·约翰逊继续担任众议院议长</title>
       <link>https://www.nytimes.com/2024/12/30/us/politics/trump-johnson-house-speaker.html</link>
-      <description><![CDATA[当选总统是否会支持议长连任的问题一直困扰着共和党人，特别是在最近年底支出法案引发紧张局势之后。]]></description>
+      <description><![CDATA[当选总统是否会支持议长连任的问题一直萦绕在共和党人心头，尤其是在最近的紧张局势之后。但这一支持并不意味着约翰逊就能连任。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/us/politics/trump-johnson-house-speaker.html</guid>
-      <pubDate>Mon, 30 Dec 2024 17:50:46 GMT</pubDate>
+      <pubDate>Mon, 30 Dec 2024 20:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>利用 Instagram 培养儿童网红的男性</title>
-      <link>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</link>
-      <description><![CDATA[摄影师和其他男性会为年轻女孩建立网上粉丝群，但其中一些人是恋童癖者，他们与父母合作对女孩进行性侵犯。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</guid>
-      <pubDate>Mon, 30 Dec 2024 17:39:31 GMT</pubDate>
+      <title>伊隆·马斯克如何几乎直接进入特朗普的家门口</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html</link>
+      <description><![CDATA[自选举日以来的大部分时间里，这位亿万富翁一直住在海湖庄园一间每晚 2,000 美元的别墅里，这让他可以轻松地与当选总统接触。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/elon-musk-trump-mar-a-lago.html</guid>
+      <pubDate>Mon, 30 Dec 2024 20:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>艾米·卡特年纪轻轻就进入公众视野，但此后逐渐淡出人们的视线</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/amy-carter-jimmy.html</link>
+      <description><![CDATA[吉米·卡特的女儿在白宫度过了一段非凡且有据可查的童年。自那以后，她大部分时间都过着非常私密的生活。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/amy-carter-jimmy.html</guid>
+      <pubDate>Mon, 30 Dec 2024 20:08:30 GMT</pubDate>
     </item>
     <item>
       <title>阴霾笼罩欧洲能源市场</title>
@@ -25,13 +46,6 @@
       <description><![CDATA[一段时间内阳光和风力较弱的天气模式，即所谓的“暗色风” (Dunkelflaute)，会导致电价上涨并引发政治紧张局势。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/business/energy-environment/europe-energy-solar-wind.html</guid>
       <pubDate>Mon, 30 Dec 2024 17:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年优秀科技奖</title>
-      <link>https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html</link>
-      <description><![CDATA[在人工智能持续进步、“创始人模式”戏剧性和特朗普大选胜利的一年里，一些科技项目因其对人类的明显益处而脱颖而出。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html</guid>
-      <pubDate>Mon, 30 Dec 2024 17:00:02 GMT</pubDate>
     </item>
     <item>
       <title>24 岁，努力摆脱精神分裂症</title>
@@ -57,16 +71,9 @@
     <item>
       <title>韩国飞机坠毁事件中跑道附近混凝土墙的作用受到质疑</title>
       <link>https://www.nytimes.com/2024/12/30/business/plane-crash-korea-wall-investigation.html</link>
-      <description><![CDATA[航空安全分析师表示，他们预计，负责调查这起造成 179 人死亡的坠机事件的官员将调查天线结构的位置和构成。]]></description>
+      <description><![CDATA[航空安全分析师表示，他们预计，负责调查这起造成 179 人死亡的坠机事件的官员将对天线结构的位置和组成进行调查。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/business/plane-crash-korea-wall-investigation.html</guid>
       <pubDate>Mon, 30 Dec 2024 15:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉米·卡特的葬礼将于 1 月 9 日在华盛顿举行</title>
-      <link>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-funeral.html</link>
-      <description><![CDATA[国葬将结束为期一周的纪念活动，纪念美国第 39 任总统吉米·卡特，他于周日去世，享年 100 岁。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-funeral.html</guid>
-      <pubDate>Mon, 30 Dec 2024 14:54:42 GMT</pubDate>
     </item>
     <item>
       <title>2025 年助你饮食更健康的 10 条建议</title>
@@ -83,14 +90,14 @@
       <pubDate>Mon, 30 Dec 2024 13:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>在历任总统中，吉米·卡特是个异类</title>
-      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-successors.html</link>
-      <description><![CDATA[吉米·卡特与白宫继任者（包括共和党和民主党同僚）的关系总体上很紧张，因为他直言不讳。但对他来说，这从来都不重要。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-successors.html</guid>
-      <pubDate>Mon, 30 Dec 2024 12:39:43 GMT</pubDate>
+      <title>当吉米·卡特把电视变成讲台时</title>
+      <link>https://www.nytimes.com/2024/12/29/arts/television/jimmy-carter-malaise-speech-crisis-confidence.html</link>
+      <description><![CDATA[其他总统因其在银幕上的表现而更出名，但 1979 年，他在白宫发表了最令人惊叹的电视演讲之一。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/arts/television/jimmy-carter-malaise-speech-crisis-confidence.html</guid>
+      <pubDate>Mon, 30 Dec 2024 00:20:36 GMT</pubDate>
     </item>
     <item>
-      <title>台积电如何在沙漠中建立芯片工厂，为台北小城播下种子</title>
+      <title>台积电如何在沙漠中打造台北这座小城</title>
       <link>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</link>
       <description><![CDATA[全球科技巨头台湾半导体制造公司将数千名亚洲工人带到凤凰城郊区，在拜登政府资助的一家工厂工作。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[这并不需要彻底改变你的饮食习惯。]]></description>
       <guid>https://www.nytimes.com/2024/12/11/well/eat/ultraprocessed-food-challenge-signup.html</guid>
       <pubDate>Mon, 23 Dec 2024 17:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个由妈妈管理、由男人跟踪的女性影响力者市场</title>
-      <link>https://www.nytimes.com/2024/02/22/us/instagram-child-influencers.html</link>
-      <description><![CDATA[为了让未成年女儿成为社交媒体明星，母亲们在 Instagram 上发布她们的照片。这些账号吸引了对儿童有性吸引力的男性，他们有时会付费查看更多照片。]]></description>
-      <guid>https://www.nytimes.com/2024/02/22/us/instagram-child-influencers.html</guid>
-      <pubDate>Sun, 25 Feb 2024 14:18:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
