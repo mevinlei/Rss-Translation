@@ -1,44 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 15:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 18:04:03 GMT</lastBuildDate>
+    <item>
+      <title>特朗普支持迈克·约翰逊继续担任众议院议长</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/trump-johnson-house-speaker.html</link>
+      <description><![CDATA[当选总统是否会支持议长连任的问题一直困扰着共和党人，特别是在最近年底支出法案引发紧张局势之后。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/trump-johnson-house-speaker.html</guid>
+      <pubDate>Mon, 30 Dec 2024 17:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Instagram 培养儿童网红的男性</title>
+      <link>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</link>
+      <description><![CDATA[摄影师和其他男性会为年轻女孩建立网上粉丝群，但其中一些人是恋童癖者，他们与父母合作对女孩进行性侵犯。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</guid>
+      <pubDate>Mon, 30 Dec 2024 17:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>阴霾笼罩欧洲能源市场</title>
+      <link>https://www.nytimes.com/2024/12/30/business/energy-environment/europe-energy-solar-wind.html</link>
+      <description><![CDATA[一段时间内阳光和风力较弱的天气模式，即所谓的“暗色风” (Dunkelflaute)，会导致电价上涨并引发政治紧张局势。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/business/energy-environment/europe-energy-solar-wind.html</guid>
+      <pubDate>Mon, 30 Dec 2024 17:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年优秀科技奖</title>
+      <link>https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html</link>
+      <description><![CDATA[在人工智能持续进步、“创始人模式”戏剧性和特朗普大选胜利的一年里，一些科技项目因其对人类的明显益处而脱颖而出。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/technology/good-tech-awards.html</guid>
+      <pubDate>Mon, 30 Dec 2024 17:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>24 岁，努力摆脱精神分裂症</title>
+      <link>https://www.nytimes.com/2024/12/30/health/schizophrenia-early-intervention-treatment.html</link>
+      <description><![CDATA[早期干预旨在控制精神病，防止其毁掉年轻人的生命。对于凯文·洛佩兹来说，一切都岌岌可危。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/health/schizophrenia-early-intervention-treatment.html</guid>
+      <pubDate>Mon, 30 Dec 2024 16:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚叛军头目暗示可能举行的选举时间表</title>
+      <link>https://www.nytimes.com/2024/12/30/world/middleeast/syria-rebel-leader-elections.html</link>
+      <description><![CDATA[领导反政府武装推翻巴沙尔·阿萨德政权的艾哈迈德·沙雷并未明确说明选举进程将会如何。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/world/middleeast/syria-rebel-leader-elections.html</guid>
+      <pubDate>Mon, 30 Dec 2024 16:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉米·卡特为前总统树立了新榜样</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-post-presidency.html</link>
+      <description><![CDATA[吉米·卡特重新定义了总统离开白宫后可以做的事情，并通过他在海外的工作，特别是在公共卫生领域的工作留下了持久的印记。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-post-presidency.html</guid>
+      <pubDate>Mon, 30 Dec 2024 15:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>韩国飞机坠毁事件中跑道附近混凝土墙的作用受到质疑</title>
       <link>https://www.nytimes.com/2024/12/30/business/plane-crash-korea-wall-investigation.html</link>
-      <description><![CDATA[航空安全分析师表示，他们预计，负责调查这起造成 179 人死亡的坠机事件的官员将调查天线结构的位置和组成。]]></description>
+      <description><![CDATA[航空安全分析师表示，他们预计，负责调查这起造成 179 人死亡的坠机事件的官员将调查天线结构的位置和构成。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/business/plane-crash-korea-wall-investigation.html</guid>
-      <pubDate>Mon, 30 Dec 2024 15:06:48 GMT</pubDate>
+      <pubDate>Mon, 30 Dec 2024 15:18:35 GMT</pubDate>
     </item>
     <item>
-      <title>韩国飞机坠毁后波音股价下跌</title>
-      <link>https://www.nytimes.com/2024/12/30/business/boeing-stock-south-korea-plane-crash.html</link>
-      <description><![CDATA[周日，济州航空一架航班迫降时，这架被广泛使用的波音 737-800 型飞机卷入其中，导致机上 179 人丧生。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/business/boeing-stock-south-korea-plane-crash.html</guid>
-      <pubDate>Mon, 30 Dec 2024 14:35:55 GMT</pubDate>
+      <title>吉米·卡特的葬礼将于 1 月 9 日在华盛顿举行</title>
+      <link>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-funeral.html</link>
+      <description><![CDATA[国葬将结束为期一周的纪念活动，纪念美国第 39 任总统吉米·卡特，他于周日去世，享年 100 岁。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/politics/jimmy-carter-funeral.html</guid>
+      <pubDate>Mon, 30 Dec 2024 14:54:42 GMT</pubDate>
     </item>
     <item>
-      <title>今年谋杀案数量持续下降，但对犯罪的恐惧依然存在</title>
-      <link>https://www.nytimes.com/2024/12/30/us/murders-decline-crime-concerns.html</link>
-      <description><![CDATA[犯罪是总统竞选期间的热门话题。但在疫情期间谋杀案激增后，谋杀案一直在稳步下降，包括芝加哥和旧金山等大城市。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/us/murders-decline-crime-concerns.html</guid>
-      <pubDate>Mon, 30 Dec 2024 14:07:11 GMT</pubDate>
+      <title>2025 年助你饮食更健康的 10 条建议</title>
+      <link>https://www.nytimes.com/2024/12/30/well/eat/nutrition-food-tips-2025.html</link>
+      <description><![CDATA[在过去的一年里，我们回顾了种子油、超加工食品、布鲁斯·斯普林斯汀的饮食等等。以下是我们了解到的内容。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/well/eat/nutrition-food-tips-2025.html</guid>
+      <pubDate>Mon, 30 Dec 2024 14:38:21 GMT</pubDate>
     </item>
     <item>
       <title>韩国空难疑云重重 关键四分钟</title>
       <link>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-cause.html</link>
       <description><![CDATA[从飞行员报告鸟击到飞机坠毁之间的时间间隔可能是解开这起多年来全球最严重的航空灾难之一的关键。]]></description>
       <guid>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-cause.html</guid>
-      <pubDate>Mon, 30 Dec 2024 13:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>D&D 规则变更涉及种族和身份分歧玩家</title>
-      <link>https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html</link>
-      <description><![CDATA[这款角色扮演游戏用“物种”取代了“种族”，并将一些角色特征与生物身份区分开来。一些长期玩家对此感到不满（伊隆·马斯克也是如此）。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html</guid>
-      <pubDate>Mon, 30 Dec 2024 12:52:32 GMT</pubDate>
+      <pubDate>Mon, 30 Dec 2024 13:38:53 GMT</pubDate>
     </item>
     <item>
       <title>在历任总统中，吉米·卡特是个异类</title>
@@ -48,60 +90,18 @@
       <pubDate>Mon, 30 Dec 2024 12:39:43 GMT</pubDate>
     </item>
     <item>
-      <title>韩国空难遇难者家属焦急等待遗体</title>
-      <link>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-victims.html</link>
-      <description><![CDATA[官员们表示，遗体的运输准备可能需要长达 10 天的时间，这种不确定性加剧了挤在机场大厅里的死者亲属的震惊和悲痛。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-victims.html</guid>
-      <pubDate>Mon, 30 Dec 2024 11:54:42 GMT</pubDate>
+      <title>台积电如何在沙漠中建立芯片工厂，为台北小城播下种子</title>
+      <link>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</link>
+      <description><![CDATA[全球科技巨头台湾半导体制造公司将数千名亚洲工人带到凤凰城郊区，在拜登政府资助的一家工厂工作。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</guid>
+      <pubDate>Sun, 29 Dec 2024 10:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>吉米·卡特逝世，享年 100 岁，韩国空难疑云重重</title>
-      <link>https://www.nytimes.com/2024/12/30/podcasts/carter-dies-south-korea-plane-crash.html</link>
-      <description><![CDATA[另外，咖啡价格为何飙升。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/podcasts/carter-dies-south-korea-plane-crash.html</guid>
-      <pubDate>Mon, 30 Dec 2024 11:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级民意调查专家如何评价 2024 年的民意调查</title>
-      <link>https://www.nytimes.com/2024/12/30/us/elections/2024-polls-grades.html</link>
-      <description><![CDATA[尽管今年的民调结果相当准确，但选举前的民调结果再次低估了唐纳德·特朗普的支持率。这是否意味着这是一次成功的民调周期？]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/us/elections/2024-polls-grades.html</guid>
-      <pubDate>Mon, 30 Dec 2024 10:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体公司面临全球言论自由之争</title>
-      <link>https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html</link>
-      <description><![CDATA[当选总统唐纳德·特朗普挑选的联邦通信委员会和联邦贸易委员会委员誓言要取消网络审查。这与力推更严格审查的欧洲监管机构相冲突。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html</guid>
-      <pubDate>Mon, 30 Dec 2024 10:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 Instagram 培养儿童网红的男性</title>
-      <link>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</link>
-      <description><![CDATA[摄影师和其他男性会为年轻女孩建立网上粉丝群，但其中一些人是恋童癖者，他们与父母合作对女孩进行性侵犯。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</guid>
-      <pubDate>Mon, 30 Dec 2024 10:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>黎巴嫩经济因以色列与真主党战争而陷入困境</title>
-      <link>https://www.nytimes.com/2024/12/30/world/middleeast/lebanon-economy-hezbollah-israel-war.html</link>
-      <description><![CDATA[以色列和真主党之间的冲突可能会暂时停止，但损失却是巨大的。“我们从这场战争中一无所有，”一名男子说。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/world/middleeast/lebanon-economy-hezbollah-israel-war.html</guid>
-      <pubDate>Mon, 30 Dec 2024 10:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉米·卡特在全球卫生领域默默无闻却意义非凡的工作</title>
-      <link>https://www.nytimes.com/2024/12/30/health/jimmy-carter-global-health.html</link>
-      <description><![CDATA[在他担任前总统的几十年里，他和他的妻子罗莎琳·卡特帮助世界各地的穷人获得了拯救生命的治疗和卫生设施。]]></description>
-      <guid>https://www.nytimes.com/2024/12/30/health/jimmy-carter-global-health.html</guid>
-      <pubDate>Mon, 30 Dec 2024 10:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>危机中缔造和平的总统吉米·卡特逝世，享年 100 岁</title>
-      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</link>
-      <description><![CDATA[他从乔治亚州的农场崛起，最终入主白宫，监督了具有历史意义的戴维营和平协议，但他的一届总统任期却因国内外的麻烦而受阻。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</guid>
-      <pubDate>Mon, 30 Dec 2024 06:36:57 GMT</pubDate>
+      <title>报名参加 Well 的 5 天超加工食品挑战</title>
+      <link>https://www.nytimes.com/2024/12/11/well/eat/ultraprocessed-food-challenge-signup.html</link>
+      <description><![CDATA[这并不需要彻底改变你的饮食习惯。]]></description>
+      <guid>https://www.nytimes.com/2024/12/11/well/eat/ultraprocessed-food-challenge-signup.html</guid>
+      <pubDate>Mon, 23 Dec 2024 17:47:54 GMT</pubDate>
     </item>
     <item>
       <title>一个由妈妈管理、由男人跟踪的女性影响力者市场</title>
