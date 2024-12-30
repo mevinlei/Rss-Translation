@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 05:47:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 08:51:01 GMT</lastBuildDate>
+    <item>
+      <title>阿塞拜疆指责俄罗斯造成飞机坠毁并谴责克里姆林宫</title>
+      <link>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</link>
+      <description><![CDATA[阿塞拜疆领导人批评了俄罗斯对一架客机坠毁事件的反应，阿塞拜疆官员称，这架客机很可能是遭到俄罗斯防空系统的打击。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</guid>
+      <pubDate>Mon, 30 Dec 2024 08:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于韩国​​几十年来最严重空难你需要知道些什么</title>
+      <link>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</link>
+      <description><![CDATA[一架载有 181 名乘客的飞机在降落时坠毁，机上大部分人员遇难。官员们正在调查起落架可能出现的故障和鸟击事件。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</guid>
+      <pubDate>Mon, 30 Dec 2024 08:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>危机中缔造和平的总统吉米·卡特逝世，享年 100 岁</title>
+      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</link>
+      <description><![CDATA[他从乔治亚州的农场崛起，最终入主白宫，监督了具有历史意义的戴维营和平协议，但他的一届总统任期却因国内外的麻烦而受阻。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</guid>
+      <pubDate>Mon, 30 Dec 2024 06:36:57 GMT</pubDate>
+    </item>
     <item>
       <title>济州航空客机坠毁 179 人遇难 韩国民众愤怒与痛苦</title>
       <link>https://www.nytimes.com/2024/12/29/world/asia/south-korea-plane-crash-jeju.html</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[周六，强烈风暴在德克萨斯州和密西西比州引发龙卷风，周日卡罗来纳州迎来暴雨。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/weather/tornado-texas-mississippi-storms-south.html</guid>
       <pubDate>Mon, 30 Dec 2024 01:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>危机中缔造和平的总统吉米·卡特逝世，享年 100 岁</title>
-      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</link>
-      <description><![CDATA[他从乔治亚州的农场崛起，最终入主白宫，监督了具有历史意义的戴维营和平协议，但他的一届总统任期却因国内外的麻烦而受阻。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-dead.html</guid>
-      <pubDate>Mon, 30 Dec 2024 00:24:43 GMT</pubDate>
     </item>
     <item>
       <title>美国需要更多像吉米·卡特这样的人</title>
@@ -46,13 +60,6 @@
       <description><![CDATA[一些立法者希望终止这项旨在让儿童接触野外运动的项目，但批评人士表示，如果鸟类没有以其他方式死亡，那么该项目将使它们成为容易被攻击的目标。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/nyregion/new-york-pheasant-stocking-bill.html</guid>
       <pubDate>Sun, 29 Dec 2024 22:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于韩国​​几十年来最严重空难你需要知道些什么</title>
-      <link>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</link>
-      <description><![CDATA[一架载有 181 名乘客的飞机在降落时坠毁，机上大部分人员遇难。官员们正在调查起落架可能出现的故障和鸟击事件。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</guid>
-      <pubDate>Sun, 29 Dec 2024 22:17:58 GMT</pubDate>
     </item>
     <item>
       <title>韩国飞机失事视频提供线索，但无法立即解答</title>
@@ -78,16 +85,9 @@
     <item>
       <title>以色列努力阻止也门胡塞武装的袭击，一度被忽视</title>
       <link>https://www.nytimes.com/2024/12/29/world/middleeast/israel-houthis-yemen.html</link>
-      <description><![CDATA[尽管与边境敌人的战斗似乎正在逐渐平息，但以色列仍面临着 1,000 英里外的也门胡塞民兵愈演愈烈的袭击。]]></description>
+      <description><![CDATA[尽管与边境敌人的战斗似乎正在逐渐结束，但以色列仍面临着 1,000 英里外的也门胡塞民兵愈演愈烈的袭击。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/world/middleeast/israel-houthis-yemen.html</guid>
       <pubDate>Sun, 29 Dec 2024 16:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿塞拜疆指责俄罗斯造成飞机坠毁并谴责克里姆林宫</title>
-      <link>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</link>
-      <description><![CDATA[阿塞拜疆领导人批评了俄罗斯对一架客机坠毁事件的反应，阿塞拜疆官员称，这架客机很可能是遭到俄罗斯防空系统的打击。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</guid>
-      <pubDate>Sun, 29 Dec 2024 14:59:56 GMT</pubDate>
     </item>
     <item>
       <title>台积电如何在沙漠中建立芯片工厂，为台北小城播下种子</title>
