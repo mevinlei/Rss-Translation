@@ -1,23 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Dec 2024 08:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 12:16:34 GMT</lastBuildDate>
     <item>
-      <title>阿塞拜疆指责俄罗斯造成飞机坠毁并谴责克里姆林宫</title>
-      <link>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</link>
-      <description><![CDATA[阿塞拜疆领导人批评了俄罗斯对一架客机坠毁事件的反应，阿塞拜疆官员称，这架客机很可能是遭到俄罗斯防空系统的打击。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/europe/azerbaijan-blames-russia-plane-crash.html</guid>
-      <pubDate>Mon, 30 Dec 2024 08:51:01 GMT</pubDate>
+      <title>韩国飞机坠毁后波音股价下跌</title>
+      <link>https://www.nytimes.com/2024/12/30/business/boeing-stock-south-korea-plane-crash.html</link>
+      <description><![CDATA[周日，济州航空一架航班迫降时，这架被广泛使用的波音 737-800 型飞机卷入其中，导致机上 179 人丧生。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/business/boeing-stock-south-korea-plane-crash.html</guid>
+      <pubDate>Mon, 30 Dec 2024 12:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>关于韩国​​几十年来最严重空难你需要知道些什么</title>
-      <link>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</link>
-      <description><![CDATA[一架载有 181 名乘客的飞机在降落时坠毁，机上大部分人员遇难。官员们正在调查起落架可能出现的故障和鸟击事件。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/asia/what-to-know-south-korea-plane-crash.html</guid>
-      <pubDate>Mon, 30 Dec 2024 08:05:09 GMT</pubDate>
+      <title>寒冷夺走加沙更多婴儿生命，加剧战争造成的平民伤亡</title>
+      <link>https://www.nytimes.com/2024/12/30/world/middleeast/gaza-baby-deaths-cold.html</link>
+      <description><![CDATA[加沙卫生部称，上周至少有五名婴儿死于寒冷。流离失所的家庭只有帐篷和防水布来抵御恶劣天气。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/world/middleeast/gaza-baby-deaths-cold.html</guid>
+      <pubDate>Mon, 30 Dec 2024 12:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>D&D 规则变更涉及种族和身份分歧玩家</title>
+      <link>https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html</link>
+      <description><![CDATA[这款角色扮演游戏用“物种”取代了“种族”，并将一些角色特征与生物身份区分开来。一些长期玩家对此感到不满（伊隆·马斯克也是如此）。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/arts/dungeons-and-dragons-rule-changes-race-species.html</guid>
+      <pubDate>Mon, 30 Dec 2024 12:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国空难遇难者家属焦急等待遗体</title>
+      <link>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-victims.html</link>
+      <description><![CDATA[官员们表示，遗体的运输准备可能需要长达 10 天的时间，这种不确定性加剧了挤在机场大厅里的死者亲属的震惊和悲痛。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/world/asia/south-korea-plane-crash-victims.html</guid>
+      <pubDate>Mon, 30 Dec 2024 11:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉米·卡特逝世，享年 100 岁，韩国空难疑云重重</title>
+      <link>https://www.nytimes.com/2024/12/30/podcasts/carter-dies-south-korea-plane-crash.html</link>
+      <description><![CDATA[另外，咖啡价格为何飙升。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/podcasts/carter-dies-south-korea-plane-crash.html</guid>
+      <pubDate>Mon, 30 Dec 2024 11:14:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>顶级民意调查专家如何评价 2024 年的民意调查</title>
+      <link>https://www.nytimes.com/2024/12/30/us/elections/2024-polls-grades.html</link>
+      <description><![CDATA[尽管今年的民调结果相当准确，但选举前的民调结果再次低估了唐纳德·特朗普的支持率。这是否意味着这是一次成功的民调周期？]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/elections/2024-polls-grades.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>社交媒体公司面临全球言论自由之争</title>
+      <link>https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html</link>
+      <description><![CDATA[当选总统唐纳德·特朗普挑选的联邦通信委员会和联邦贸易委员会委员誓言要取消网络审查。这与力推更严格审查的欧洲监管机构相冲突。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/technology/trump-administration-speech-policy.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:01:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年谋杀案数量持续下降，但对犯罪的恐惧依然存在</title>
+      <link>https://www.nytimes.com/2024/12/30/us/murders-decline-crime-concerns.html</link>
+      <description><![CDATA[犯罪是总统竞选期间的热门话题。但在疫情期间谋杀案激增后，谋杀案一直在稳步下降，包括芝加哥和旧金山等大城市。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/murders-decline-crime-concerns.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:01:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用 Instagram 培养儿童网红的男性</title>
+      <link>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</link>
+      <description><![CDATA[摄影师和其他男性会为年轻女孩建立网上粉丝群，但其中一些人是恋童癖者，他们与父母合作对女孩进行性侵犯。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/us/child-influencers-photographers-abuse.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩经济因以色列与真主党战争而陷入困境</title>
+      <link>https://www.nytimes.com/2024/12/30/world/middleeast/lebanon-economy-hezbollah-israel-war.html</link>
+      <description><![CDATA[以色列和真主党之间的冲突可能会暂时停止，但损失却是巨大的。“我们从这场战争中一无所有，”一名男子说。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/world/middleeast/lebanon-economy-hezbollah-israel-war.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉米·卡特在全球卫生领域默默无闻却意义非凡的工作</title>
+      <link>https://www.nytimes.com/2024/12/30/health/jimmy-carter-global-health.html</link>
+      <description><![CDATA[在他担任前总统的几十年里，他和他的妻子罗莎琳·卡特帮助世界各地的穷人获得了拯救生命的治疗和卫生设施。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/health/jimmy-carter-global-health.html</guid>
+      <pubDate>Mon, 30 Dec 2024 10:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>神韵需要宣传。《大纪元时报》撰写了17,000篇文章。</title>
+      <link>https://www.nytimes.com/2024/12/30/nyregion/shen-yun-epoch-times-falun-gong.html</link>
+      <description><![CDATA[一位因宣扬右翼阴谋论而出名的出版商，也成为了这个舞蹈团体及其背后宗教运动的剑与盾。]]></description>
+      <guid>https://www.nytimes.com/2024/12/30/nyregion/shen-yun-epoch-times-falun-gong.html</guid>
+      <pubDate>Mon, 30 Dec 2024 08:00:14 GMT</pubDate>
     </item>
     <item>
       <title>危机中缔造和平的总统吉米·卡特逝世，享年 100 岁</title>
@@ -27,39 +97,11 @@
       <pubDate>Mon, 30 Dec 2024 06:36:57 GMT</pubDate>
     </item>
     <item>
-      <title>济州航空客机坠毁 179 人遇难 韩国民众愤怒与痛苦</title>
-      <link>https://www.nytimes.com/2024/12/29/world/asia/south-korea-plane-crash-jeju.html</link>
-      <description><![CDATA[一架载有 181 名乘客的济州航空客机从曼谷起飞冲出跑道并起火。两名机组人员获救，这是该国几十年来最严重的空难。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/asia/south-korea-plane-crash-jeju.html</guid>
-      <pubDate>Mon, 30 Dec 2024 05:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>风暴席卷南部 4 人死亡</title>
-      <link>https://www.nytimes.com/2024/12/29/weather/tornado-texas-mississippi-storms-south.html</link>
-      <description><![CDATA[周六，强烈风暴在德克萨斯州和密西西比州引发龙卷风，周日卡罗来纳州迎来暴雨。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/weather/tornado-texas-mississippi-storms-south.html</guid>
-      <pubDate>Mon, 30 Dec 2024 01:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国需要更多像吉米·卡特这样的人</title>
-      <link>https://www.nytimes.com/2024/12/29/opinion/editorials/jimmy-carter-death-editorial.html</link>
-      <description><![CDATA[他是一位模范前总统，任职期间取得了巨大成就。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/opinion/editorials/jimmy-carter-death-editorial.html</guid>
-      <pubDate>Sun, 29 Dec 2024 23:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉米·卡特值得我们感谢和尊重，而不是嘲笑</title>
-      <link>https://www.nytimes.com/2024/12/29/opinion/jimmy-carter-death-respect.html</link>
-      <description><![CDATA[我们这些媒体和闲聊阶层嘲笑这位可能比近来任何一位总统在更长时间内改善了更多人民生活的人。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/opinion/jimmy-carter-death-respect.html</guid>
-      <pubDate>Sun, 29 Dec 2024 23:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约养这些野鸡是为了射杀。这是狩猎还是残忍？</title>
-      <link>https://www.nytimes.com/2024/12/29/nyregion/new-york-pheasant-stocking-bill.html</link>
-      <description><![CDATA[一些立法者希望终止这项旨在让儿童接触野外运动的项目，但批评人士表示，如果鸟类没有以其他方式死亡，那么该项目将使它们成为容易被攻击的目标。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/nyregion/new-york-pheasant-stocking-bill.html</guid>
-      <pubDate>Sun, 29 Dec 2024 22:29:58 GMT</pubDate>
+      <title>在历任总统中，吉米·卡特是个异类</title>
+      <link>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-successors.html</link>
+      <description><![CDATA[吉米·卡特与白宫继任者（包括共和党和民主党同僚）的关系总体上很紧张，因为他直言不讳。但对他来说，这从来都不重要。]]></description>
+      <guid>https://www.nytimes.com/2024/12/29/us/politics/jimmy-carter-successors.html</guid>
+      <pubDate>Mon, 30 Dec 2024 00:20:21 GMT</pubDate>
     </item>
     <item>
       <title>韩国飞机失事视频提供线索，但无法立即解答</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[坠机原因可能要几个月后才能确定，调查人员预计将重点关注一系列问题。]]></description>
       <guid>https://www.nytimes.com/2024/12/29/world/asia/plane-crash-video-south-korea.html</guid>
       <pubDate>Sun, 29 Dec 2024 21:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cablevision 和 HBO 创始人查尔斯·多兰去世，享年 98 岁</title>
-      <link>https://www.nytimes.com/2024/12/29/business/charles-dolan-dead.html</link>
-      <description><![CDATA[他的商业选择多种多样：他创立了 HBO，购买了麦迪逊广场花园和纽约尼克斯队，并接管了长岛的一家报纸。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/business/charles-dolan-dead.html</guid>
-      <pubDate>Sun, 29 Dec 2024 19:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>反西方浪潮席卷格鲁吉亚，米哈伊尔·卡韦拉什维利宣誓就任总统</title>
-      <link>https://www.nytimes.com/2024/12/29/world/europe/georgia-president-mikheil-kavelashvili.html</link>
-      <description><![CDATA[尽管米哈伊尔·卡韦拉什维利只是个有名无实的领导人，但在该国逐渐脱离西方、向俄罗斯和中国靠拢的过程中，他仍扮演着象征性的角色。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/europe/georgia-president-mikheil-kavelashvili.html</guid>
-      <pubDate>Sun, 29 Dec 2024 17:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列努力阻止也门胡塞武装的袭击，一度被忽视</title>
-      <link>https://www.nytimes.com/2024/12/29/world/middleeast/israel-houthis-yemen.html</link>
-      <description><![CDATA[尽管与边境敌人的战斗似乎正在逐渐结束，但以色列仍面临着 1,000 英里外的也门胡塞民兵愈演愈烈的袭击。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/world/middleeast/israel-houthis-yemen.html</guid>
-      <pubDate>Sun, 29 Dec 2024 16:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>台积电如何在沙漠中建立芯片工厂，为台北小城播下种子</title>
-      <link>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</link>
-      <description><![CDATA[全球科技巨头台湾半导体制造公司将数千名亚洲工人带到凤凰城郊区，在拜登政府资助的一家工厂工作。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/business/tsmc-phoenix-taiwan.html</guid>
-      <pubDate>Sun, 29 Dec 2024 10:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>离开加沙的孩子们</title>
-      <link>https://www.nytimes.com/2024/12/27/world/middleeast/gaza-children-evacuated.html</link>
-      <description><![CDATA[16 名年轻人从加沙撤离，接受严重伤势的治疗。几个月后，他们在一个陌生的国家开始新生活。]]></description>
-      <guid>https://www.nytimes.com/2024/12/27/world/middleeast/gaza-children-evacuated.html</guid>
-      <pubDate>Sun, 29 Dec 2024 09:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>神韵如何利用宗教狂热赚取2.66亿美元</title>
-      <link>https://www.nytimes.com/2024/12/29/nyregion/shen-yun-money-falun-gong.html</link>
-      <description><![CDATA[该舞蹈团积累了巨额财富，其中很大一部分是通过让“法轮功”信徒免费工作来支付账单。]]></description>
-      <guid>https://www.nytimes.com/2024/12/29/nyregion/shen-yun-money-falun-gong.html</guid>
-      <pubDate>Sun, 29 Dec 2024 08:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
