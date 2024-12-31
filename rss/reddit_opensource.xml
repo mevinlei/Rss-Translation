@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 31 Dec 2024 00:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 06:14:39 GMT</lastBuildDate>
+    <item>
+      <title>任何提供类似功能的开源应用程序，如 goodnotes</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hq7184/any_opensource_app_providing_similar_features/</link>
+      <description><![CDATA[虽然我订阅了 goodnotes，但问题是，不同的操作系统无法同步。因此，如果有任何开源笔记应用程序具有与 goodnotes 类似的功能，例如 - 注释 pdf，能够使用 Apple Pencil 记笔记或注释 pdf 等，应该可以在 windows、mac、ipad、iphone 中使用。如果有任何建议，请分享     提交人    /u/Valor_superman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hq7184/any_opensource_app_providing_similar_features/</guid>
+      <pubDate>Tue, 31 Dec 2024 04:44:40 GMT</pubDate>
+    </item>
     <item>
       <title>Graphite：用于矢量图形和程序设计的专业 2D 内容创建包</title>
       <link>https://www.reddit.com/r/opensource/comments/1hpz02d/graphite_professional_2d_content_creation_package/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[查看 GoShort，这是一款使用 Go、Svelte 和 TailwindCSS 构建的闪电般快速、自托管的 URL 缩短器。它简单、强大且完全可定制。  演示：https://x.yup.gr Repo：https://github.com/kek-Sec/GoShort  主要特点： - 🚀 速度超快（感谢 Go） - 🎨 完全可定制（Svelte + TailwindCSS） - 🏠 自托管 - 您的数据，您的服务器 - ✏️ 自定义 URL - ⏳ 设置链接过期  使用随附的 Docker 设置，入门非常简单。欢迎随时提供反馈和贡献。查看并告诉我您的想法！    提交人    /u/Mparigas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hpj6iw/goshort_fast_and_customizable_url_shortener/</guid>
       <pubDate>Mon, 30 Dec 2024 08:58:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在开发一款名为 LightUp 的免费开源浏览器扩展程序，以使学习变得更容易——希望得到您的反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hpeqqv/ive_been_working_on_a_free_and_open_source/</link>
-      <description><![CDATA[大家好， 我是 LightUp 的开发者，我开发的这款浏览器扩展程序可以帮助人们在浏览网页内容时保持专注。这个想法很简单：你突出显示任何文本，LightUp 会立即为你提供解释、摘要、翻译或分析——所有这些都无需切换标签。 以下是有关它的更多信息：  定价：免费和开源。 状态：早期阶段（测试版）。 功能：自动解释复杂的想法，压缩长文本，翻译或分析内容，并具有上下文感知功能，可以理解与页面上的较大内容相关的文本——所有这些都在同一页面内完成。  它的灵感来自于那些我试图理解某些东西而陷入困境并且不想因为跳转到 Google 而打断我的流程的时刻。如果您想尝试一下，这里是直接链接：LightUp Extension。 我很想知道您的想法——无论是您会使用的东西，还是我如何改进它。 如果您有任何疑问，请随时提问！ 感谢阅读😊    提交人    /u/bronz32   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hpeqqv/ive_been_working_on_a_free_and_open_source/</guid>
-      <pubDate>Mon, 30 Dec 2024 04:14:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
