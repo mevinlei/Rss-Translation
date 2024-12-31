@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 30 Dec 2024 21:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 00:46:44 GMT</lastBuildDate>
+    <item>
+      <title>如何让固定宽度的 CSS 网格项占据父元素的整个宽度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hq251b/how_to_make_fixedwidth_css_grid_items_occupy_the/</link>
+      <description><![CDATA[我希望具有固定宽度的网格项能够跨越其父容器的整个宽度，并在它们之间留出相等的间距。如何使用 CSS Grid 或 Flexbox 实现类似的布局？ 这是 Stackoverflow 上问题的链接：https://stackoverflow.com/questions/79316852/how-to-make-fixed-width-css-grid-items-occupy-the-full-width-of-the-parent-eleme#comment139868164_79316852 我不确定它为什么被关闭，因为我没有更好的方法来解释这个问题。    由    /u/netsplatter  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hq251b/how_to_make_fixedwidth_css_grid_items_occupy_the/</guid>
+      <pubDate>Tue, 31 Dec 2024 00:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管 Web 服务器的 SSL 证书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hq0qht/ssl_certificate_for_self_hosted_web_server/</link>
+      <description><![CDATA[大家好， 我正在设置一个带有 LEMP 和 Wordpress 的裸机服务器。我将为网站使用 LetsEncrypt/Cloudflare 免费证书，但找不到有关何时安装它的最佳实践的任何信息。由于“Wordpress”和“SSL”这两个词，我得到的文章回答了完全不同的事情。我应该先安装 LEMP 和 Wordpress，然后再安装 SSL，还是应该先安装 LEMP，然后安装 SSL 证书，然后再安装 Wordpress？    提交人    /u/Xpuc01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hq0qht/ssl_certificate_for_self_hosted_web_server/</guid>
+      <pubDate>Mon, 30 Dec 2024 23:28:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助：如果客户忽略了我的发票，我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpzvqg/help_what_should_i_do_with_a_client_thats/</link>
+      <description><![CDATA[我兼职做简单的网站，这个客户还没有支付他的主机续费。几个月过去了，在反复提醒之后，我想对网站做点什么让他联系我。该网站是用 WordPress 构建的。我本来想故意以某种方式减慢它的速度，或者让它显示一些错误消息，让他付钱给我。他是一家汽车经销商，完全依靠网站进行销售。我想他这个月生意不好，付不起账单，但他没有要求延期。只是没有回音。我试着打电话，但他没有接。我想委婉一点，不想彻底毁了他的生意。 想法？建议？ 编辑：阅读您的建议后，我向他发送了以下电子邮件。  “你好 X 我希望你和家人一切都好。” 不确定发生了什么，因为我没有通过电子邮件或 WhatsApp 收到你的回复。 你还在经营这家公司吗？需要网站正常运行吗？ 我现在将继续运行它 4 周，但之后我将不得不暂时将其离线，直到我收到你的回复。现在运行它需要花钱，而且它占用了我大部分的服务器空间。 如果你遇到困难并需要更多时间，请告诉我。我可以给你延期，但我确实需要知道你打算做什么。 我期待着你的回复，并希望你有一个美好的 2025 年。 问候，“ 让我们看看这是否能唤醒他。最糟糕的情况是，我会损失几百美元。我只是想巧妙地做事，因为我们住在一个每个人都认识彼此的小区域。    提交人    /u/ProjectManagerAMA   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpzvqg/help_what_should_i_do_with_a_client_thats/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能回答我一个问题吗？我有一个小型 Wordpress 网站，我想知道是否有人试图破解它。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpza0e/can_someone_answer_a_question_for_me_i_have_a/</link>
+      <description><![CDATA[今天第一次查看了我的统计数据，很高兴看到本月有超过 25000 名“访客”。  但是，进一步深入研究后发现，“首页”是 WP-login.php 页面，它占了 23,500 次访问！平均停留时间不到 30 秒。  这是否表明某种机器人试图攻击该网站？     提交人    /u/Cali_kink_and_rope   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpza0e/can_someone_answer_a_question_for_me_i_have_a/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>由 Github/Cloudfare/etc 托管的密码保护静态网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpyzsu/password_protecting_static_website_hosted_by/</link>
+      <description><![CDATA[大家好， 我有一个网站，我想用密码保护它，这样如果用户进入该页面，他们必须先输入正确的密码，然后才能看到受密码保护的网页。 我知道这方面有很多资源，但问题是我将我的网站托管在 GitHub Pages 上。如果有更好的免费替代方案，如 Cloudfare 或 Firebase，更适合这个项目，我愿意改用它们。 我确实认识到使用 .htaccess 和 apache 会容易得多，但我使用 apache 的问题是我必须让我的其中一台电脑 24/7 全天候运行以保持网页正常运行，这会增加我的电费和碳足迹。所以如果可能的话，我更愿意使用静态网页托管服务之一！ 有人有关于这个主题的信息吗？谢谢！    由   提交  /u/Jbyer4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpyzsu/password_protecting_static_website_hosted_by/</guid>
+      <pubDate>Mon, 30 Dec 2024 22:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何看待我的学习技术堆栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpyk13/what_do_you_think_about_my_learning_tech_stack/</link>
+      <description><![CDATA[      我的技术堆栈 我是一名从游戏开发转行到传统软件开发的开发人员，经过多次研究，我尽力找到了构建 SaaS 应用作为我的第一个项目所需的工具。这是一个好的起点吗？还是我选择的堆栈还有待改进？    提交人    /u/darealfodo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpyk13/what_do_you_think_about_my_learning_tech_stack/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:52:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正试图将一个网站从 godaddy 转移到一个正常的网站上，但我似乎无法弄清楚它到底能给我带来什么，以及在注册之前我可以做什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpy0pt/i_am_attempting_to_transfer_a_website_from/</link>
+      <description><![CDATA[我试图将我父母在 godaddy 上的网站转移到一个可以让我随心所欲地自定义的服务，而不是使用人工智能，但我无法弄清楚（我对这一切都很陌生）什么会起作用？我需要转移它，我需要上传自定义图像，理想情况下还需要更多，但这是最低限度，但我无法通过谷歌搜索找到具体可以让我做什么以及如何做，例如，我无法找到它是否允许我上传图像，是否允许我在没有更高订阅的情况下更改我的网站，或者我是否可以转移，什么是适合所有这些的良好网站托管，或者有哪些工具可以找到合适的托管。我确实知道如何编码/如果需要的话可以学习更多编码    提交人    /u/IRS_redditagent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpy0pt/i_am_attempting_to_transfer_a_website_from/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮我实现这个动画吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpxpw7/can_someone_please_help_me_achieve_this_animation/</link>
+      <description><![CDATA[我想实现这个容器/盒子的打开和关闭动画 -https://imgur.com/a/VOybt4J，我不知道这个动画是使用 GSAP 还是 FramerMotion 或其他东西实现的。 *当前问题{当前使用 ReactJS 和 tailwind css}：我无法让它从右上角缩放，事实上它是一个突然的过渡。 任何帮助都将不胜感激！    提交人    /u/Y_122   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpxpw7/can_someone_please_help_me_achieve_this_animation/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:15:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的方法是从 SFTP 服务器获取 zip 文件，从每个文件中提取单个文件，然后提供给我的浏览器扩展程序，以便上传到网站上的拖放容器中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpxn4k/best_way_to_get_zip_files_off_sftp_server_extract/</link>
+      <description><![CDATA[我正在创建一个浏览器扩展，我需要完成一系列复杂的操作。我不太清楚如何以最好的方式完成这项工作。我希望你们能帮我集思广益，找到最合乎逻辑的方法来实现这一点。顺便说一句，我使用我的服务器作为中间人来执行某些无法在用户的浏览器/我的浏览器扩展/JavaScript 中发生的操作。如果我错了，请告诉我。这是我需要发生的步骤。  用户点击我的浏览器扩展在网页上插入的按钮。 向我的服务器发送请求，在那里执行 PHP 脚本以连接到 SFTP 服务器。 SFTP 服务器包含一个装满 zip 文件的文件夹。我想从每个 zip 中提取一个文件，比如说从每个 zip 文件夹中提取扩展名为 .abc 的文件。到目前为止，我觉得我可以做到这一点。这就是事情变得棘手的地方。 现在我需要将这些 .abc 文件作为服务器响应发送回扩展。我知道我不能一次发送多个文件；一个请求只能有一个响应。我无法从浏览器发送多个请求，因为我不知道在连接和检查之前我需要多少个文件或哪些文件。我是否将它们压缩在一起并将它们发送到浏览器？我可以用 JavaScript 解压 zip 存档吗？我见过几个库，但我不确定那会有多慢。可能有 50 个文件。 浏览器收到文件后，它们将被放置在网页上的拖放文件上传 div 容器中。  让我知道你的想法。我认为您无法仅使用 JavaScript 连接到 SFTP 服务器，而 PHP 可能是连接 SFTP 服务器、检查文件和提取 .abc 文件最有效的方法。只是不确定如何从那里继续。    提交人    /u/Produkt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpxn4k/best_way_to_get_zip_files_off_sftp_server_extract/</guid>
+      <pubDate>Mon, 30 Dec 2024 21:12:41 GMT</pubDate>
+    </item>
     <item>
       <title>寻求对我的投资组合的反馈！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hpxetc/looking_for_feedback_on_my_portfolio/</link>
@@ -20,13 +83,6 @@
       <pubDate>Mon, 30 Dec 2024 21:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>开发人员！我用我的副业赚到了第一桶金：一个能帮你学英语的 Chrome 扩展程序！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hpwua5/devs_i_made_my_first_dollar_with_my_sideproject_a/</link>
-      <description><![CDATA[我兴奋不已，想分享一下我的业余项目之旅中一个小而重要的里程碑。我终于用自己开发的 Chrome 扩展程序赚到了第一桶金——“Daily Byte English”，这是一个帮助人们在浏览时学习英语词汇的工具！ 这是一个不起眼的开始，但看到我的代码可以帮助人们并产生一点点收入，这真是令人难以置信地激动！我想鼓励其他开发人员从事业余项目，因为你可能会对它带给你的收获感到惊讶！ 感谢您的阅读，任何反馈都将不胜感激！    提交人    /u/saleham5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hpwua5/devs_i_made_my_first_dollar_with_my_sideproject_a/</guid>
-      <pubDate>Mon, 30 Dec 2024 20:37:46 GMT</pubDate>
-    </item>
-    <item>
       <title>你的应用应该是一个网站（你的游戏也可能如此）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hpw2pk/your_app_should_have_been_a_website_and_probably/</link>
       <description><![CDATA[       由    /u/BeardScript  提交  [链接] [评论] ]]></description>
@@ -36,7 +92,7 @@
     <item>
       <title>需要帮助连接后端和前端</title>
       <link>https://www.reddit.com/r/webdev/comments/1hpvnpv/need_help_with_linking_backend_and_frontend/</link>
-      <description><![CDATA[大家好 我是一名一年级工程专业学生，我们有一个小组项目，我被分配了链接部分 我们的后端是 python，前端是 html（css 和 js），我想知道我应该如何链接它们。我做了一些研究，了解了 flask，但我找不到合适的资源来学习它 任何形式的帮助都值得赞赏  谢谢    提交人    /u/Bichhu16   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我是一名一年级工程专业学生，我们有一个小组项目，我被分配了链接部分 我们的后端是 python，前端是 html（css 和 js），我想知道应该如何链接它们。我做了一些研究，了解了 flask，但我找不到合适的资源来学习它 任何形式的帮助都值得赞赏  谢谢    提交人    /u/Bichhu16   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hpvnpv/need_help_with_linking_backend_and_frontend/</guid>
       <pubDate>Mon, 30 Dec 2024 19:46:43 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[即使用户没有登录，保留 php sessid 一个月左右以验证用户的可靠性如何    提交人    /u/Altugsalt   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hpvfzn/php_sessions/</guid>
       <pubDate>Mon, 30 Dec 2024 19:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 yt-dlp 创建了一个简单的 GUI 网站，您可以轻松地在本地托管。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hpu7jn/i_created_a_simple_gui_website_for_ytdlp_that_you/</link>
-      <description><![CDATA[我想分享一个我一直在进行的小项目：一个使用 yt-dlp 下载媒体的简单、自托管 GUI。如果您不喜欢命令行工具，而更喜欢干净、响应迅速的界面来从 YouTube 等平台下载视频或音频，那么这可能正是您所需要的。 主要功能：  由轻量级 Express.js 服务器提供支持，以处理通过 yt-dlp 进行的下载。 使用纯 HTML、CSS 和 JavaScript 构建的简单前端，使其易于使用和自定义。  我知道可能有很多类似的工具，但我找不到完全符合我要求的工具，所以我构建了这个。如果您发现任何错误或有任何建议，请告诉我，我会尽力解决！ 您可以从 GitHub 查看并下载。 如果觉得有用，请随意给它一个 ⭐！    提交人    /u/Nearby_Acanthaceae_7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hpu7jn/i_created_a_simple_gui_website_for_ytdlp_that_you/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过 URL 使其他用户无法访问用户会话以及存储 API 密钥的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hptycw/how_to_make_user_sessions_unaccessible_by_other/</link>
-      <description><![CDATA[我正在使用 FastAPI 和 docker 构建我的第一个 Web 应用程序，我面临的一个问题是，即使我有一个包含所有密钥的 .env 文件，但拥有一个包含我所有数据的文件感觉不太对劲。 我存储的是：Redis URL（后端）Google OAuth（前端）OpenAI 密钥（后端） 此外，如何使用 uuid 用户特定创建新的 URL（禁止通过 URL 进行未经授权的访问）？ 此外，当我的网站上线时，我该如何监控可疑活动？我只是想确保我做的一切都正确。    提交人    /u/Gheeas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hptycw/how_to_make_user_sessions_unaccessible_by_other/</guid>
-      <pubDate>Mon, 30 Dec 2024 18:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是如何构建的？InVideo/Canva 带有动态图形样式动画的 <canvas> 元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hpscw2/how_is_this_built_invideocanva_canvas_elements/</link>
-      <description><![CDATA[InVideo/CapCut 和 Canva 如何在画布元素中制作这些高质量的动态图形风格内容？ 我很好奇，因为他们能够做下面这些通常类似于 After Effects 的事情，但是在浏览器中。同样，对于文本项，他们可以动态更改文本和字体大小以使其保持在框的范围内 - 这在 Lottie 等产品中传统上很难做到。  场景转换 文本项 有什么想法吗？    由    /u/mynameisnotjason123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hpscw2/how_is_this_built_invideocanva_canvas_elements/</guid>
-      <pubDate>Mon, 30 Dec 2024 17:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于发布了一些东西，虽然不多——希望你会喜欢它！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hprysh/ive_finally_released_something_its_not_much/</link>
-      <description><![CDATA[      https://i.redd.it/sjzkc367q0ae1.gif 我做了一个东西！ 有些人可能会说它糟糕，我会说它不多，但这是诚实的工作。今年不是最好的，浪费了很多周末。很少旅行和冒险。对于 2025 年，我想制定一个大计划，而一个大计划需要更大的画布。 我制作了一个日历，您可以使用公共假期进行自定义，导出为 SVG/PNG 以放入 FigJam 或任何其他绘图板，在上面添加您的计划，然后真正将它们变为现实。  此时此刻，我也想发布一些东西，任何东西。所以就在这里。我希望你会觉得它有用 链接：https://planamassiveyear.com    由   提交  /u/mrkaluzny   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hprysh/ive_finally_released_something_its_not_much/</guid>
-      <pubDate>Mon, 30 Dec 2024 17:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最沮丧且最浪费时间的构建/类型错误是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hprno1/whats_your_most_frustrating_buildtype_error_that/</link>
-      <description><![CDATA[开发人员 - 您不断遇到哪些类型/构建错误而浪费了您的时间？ 分享您最痛苦的例子。 对于那些应该很简单但却花费数小时的错误，可以获得加分。    提交人    /u/namanyayg   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hprno1/whats_your_most_frustrating_buildtype_error_that/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:56:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Cloudflare 购买/拥有域名有哪些缺点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hprciy/what_are_the_disadvantages_of_purchasingowning_a/</link>
-      <description><![CDATA[据我所知，它很棒，价格也不错，但我只是想在承诺之前谨慎一点。 将它与 porkbun 等进行比较。    提交人    /u/ThaisaGuilford   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hprciy/what_are_the_disadvantages_of_purchasingowning_a/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个个性化的 Instagram 机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hpr2xu/i_need_a_personalized_instagram_bot/</link>
-      <description><![CDATA[大家好。 正如标题所说，我需要一个能够构建 Instagram 机器人的人，该机器人可以分析我关注的人的 Instagram 故事，如果故事内容符合某些条件（例如：包含一只猫/包含一块手表）则发送 dm，要使用此功能必须使用 AI 图像识别。  有人有能力吗？我不需要漂亮的用户界面或任何东西，只需要可以运行的 .exe。这样我运行它，它就会开始工作。    提交人    /u/Peetekh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hpr2xu/i_need_a_personalized_instagram_bot/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GSAP 和 SVG 路径的动画按钮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hpqji0/animated_button_using_gsap_and_svg_path/</link>
-      <description><![CDATA[Hello redditors! 我正在尝试在我的项目中实现一个按钮，并且我一直想在悬停时为其设置动画，因此我尝试使用 svg 来实现动画的最终结果。 问题是，我有点不知道该怎么做。 鼠标进入和鼠标离开时的动画工作正常，但我不知道如何让我的 svg 遮罩下面的按钮，使其对里面的内容做出响应。svg 仍然在那里，我试图给 btnMain css 类 -webkit-mask 并将 svg 传递到那里，但仍然无济于事。 我已经放了一个 codePen 来更好地解释我遇到的问题。是否可以根据下面的按钮使 svg 具有响应性？  剪辑路径示例 我应该补充一点，我是前端世界的新手，我可能忽略了一些愚蠢的东西。  提前感谢大家！    提交人    /u/Ezhrhah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hpqji0/animated_button_using_gsap_and_svg_path/</guid>
-      <pubDate>Mon, 30 Dec 2024 16:08:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
