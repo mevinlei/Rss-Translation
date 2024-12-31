@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 31 Dec 2024 09:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 12:18:27 GMT</lastBuildDate>
+    <item>
+      <title>以 455 x 256 分辨率导出 H.264 时出现问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hqby34/problem_exporting_h264_in_455_x_256_resolution/</link>
+      <description><![CDATA[大家好，我在尝试导出分辨率为 455 x 256 的 MP4 文件时遇到了问题。通过 Media Encoder 导出时，它会自动将输出更改为 454 x 256。当我尝试使用 Handbrake 时也是同样的情况。有什么建议吗？谢谢！    提交人    /u/ProfileTime5368   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hqby34/problem_exporting_h264_in_455_x_256_resolution/</guid>
+      <pubDate>Tue, 31 Dec 2024 10:21:16 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere 中的编辑注释</title>
       <link>https://www.reddit.com/r/editors/comments/1hq5a9k/notes_for_editor_in_premiere/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[TL:DR - 寻找适用于 Premiere Pro Mac 的小型外部慢速/穿梭。 大家好。我从事剪辑工作多年。从线性套件开始，习惯了 Sony 9000 上的慢速/穿梭轮。这也让我学会了用按键而不是鼠标进行剪辑（以前我在 Avid 上操作非常快！）。多年来，我使用过一些蹩脚的 USB 外围设备。我最喜欢的是 Griffin 的一个小东西，它有三个功能：左/右、按下和左/右按下。它非常适合 FCP 5。我只想能够摇动和滚动帧，按下播放/暂停，也许还可以使用修改器来做诸如修剪和滚动时间轴之类的事情。我有一台 Logitech Craft，是我几年前在工作中买的，它简直太烂了。这么好的产品，却毫无可用性。无论如何，有人知道有哪款 Mac 外设符合要求吗？我不认为我需要像 Streamdeck 这样的外部热键，因为我的键盘短裤已经放得很短了。谢谢！    提交人    /u/BitcoinBanker   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hp8qkr/kit_advice_jogshuttle_usb/</guid>
       <pubDate>Sun, 29 Dec 2024 23:14:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>工会问题……关于获得“天数”以满足行业经验名册的要求。</title>
-      <link>https://www.reddit.com/r/editors/comments/1hp4v97/union_questionabout_getting_days_in_to_meet/</link>
-      <description><![CDATA[助理剪辑师的要求是 100 天。我还没有看到任何关于“一天”的定义的信息。我正在制作一部非工会专题片。有些天我工作了 2 小时，因为我在等待镜头，而其他天我工作了 15 小时。就工作经验要求而言，从技术上讲，这两者都等于一天吗？或者 100 天是否以某种方式转换为一定数量的小时数？提前感谢您的帮助！    提交人    /u/Cobbler-8700   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hp4v97/union_questionabout_getting_days_in_to_meet/</guid>
-      <pubDate>Sun, 29 Dec 2024 20:22:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
