@@ -4,27 +4,41 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 01 Jan 2025 06:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 09:12:51 GMT</lastBuildDate>
+    <item>
+      <title>元旦期间有风雨及 150 多个洪水警报</title>
+      <link>https://www.bbc.com/news/articles/cvgm5rkrp25o</link>
+      <description><![CDATA[由于几乎全国都发布了至少一次天气预警，预计此次停电将造成大面积破坏。]]></description>
+      <guid>https://www.bbc.com/news/articles/cvgm5rkrp25o</guid>
+      <pubDate>Wed, 01 Jan 2025 09:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>英格兰公交乘客票价上限上涨 1 英镑</title>
+      <link>https://www.bbc.com/news/articles/cpw2en50rjvo</link>
+      <description><![CDATA[一家主要的游说团体表示，这将导致许多公交乘客在 2025 年“开局不利”。]]></description>
+      <guid>https://www.bbc.com/news/articles/cpw2en50rjvo</guid>
+      <pubDate>Wed, 01 Jan 2025 09:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>饱受战争蹂躏的加沙儿童与家人团聚的艰辛历程</title>
+      <link>https://www.bbc.com/news/articles/cwyxewylpz9o</link>
+      <description><![CDATA[据估计，有 17,000 名儿童无人陪伴或与通常照顾他们的家人失散。]]></description>
+      <guid>https://www.bbc.com/news/articles/cwyxewylpz9o</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>济州航空首个黑匣子数据已提取 - 交通部</title>
+      <link>https://www.bbc.com/news/articles/cn9g40v898do</link>
+      <description><![CDATA[调查人员希望这些数据能够提供有关导致悲剧发生的关键时刻的见解。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn9g40v898do</guid>
+      <pubDate>Wed, 01 Jan 2025 05:58:57 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰停止向欧盟输送俄罗斯天然气</title>
       <link>https://www.bbc.com/news/articles/c4glyjx9m71o</link>
       <description><![CDATA[俄罗斯仍然能够通过黑海向匈牙利、土耳其和塞尔维亚输送天然气。]]></description>
       <guid>https://www.bbc.com/news/articles/c4glyjx9m71o</guid>
       <pubDate>Wed, 01 Jan 2025 05:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>元旦当天发布风雨警告</title>
-      <link>https://www.bbc.com/news/articles/cvgm5rkrp25o</link>
-      <description><![CDATA[由于几乎全国所有地区都受到至少一次气象局天气预警的覆盖，预计此次天气中断将造成大面积破坏。]]></description>
-      <guid>https://www.bbc.com/news/articles/cvgm5rkrp25o</guid>
-      <pubDate>Wed, 01 Jan 2025 03:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年值得关注的七大天文事件</title>
-      <link>https://www.bbc.com/weather/articles/cy470ye4wn8o</link>
-      <description><![CDATA[这是一个崭新的一年，如果您是一位观星者，那么如果天气允许的话，将会有一些美妙的天文事件让您兴奋不已。]]></description>
-      <guid>https://www.bbc.com/weather/articles/cy470ye4wn8o</guid>
-      <pubDate>Wed, 01 Jan 2025 02:25:29 GMT</pubDate>
     </item>
     <item>
       <title>罗斯·坎普重返《东区人》 40 周年纪念版</title>
@@ -41,20 +55,6 @@
       <pubDate>Wed, 01 Jan 2025 01:51:06 GMT</pubDate>
     </item>
     <item>
-      <title>邮局丑闻：议员呼吁对拖延付款处以经济处罚</title>
-      <link>https://www.bbc.com/news/articles/c20ey5g88eno</link>
-      <description><![CDATA[商业和贸易特别委员会表示，这些计划设计得非常糟糕，申请过程就像是第二次审判。]]></description>
-      <guid>https://www.bbc.com/news/articles/c20ey5g88eno</guid>
-      <pubDate>Wed, 01 Jan 2025 01:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰公交乘客票价上限上涨 1 英镑</title>
-      <link>https://www.bbc.com/news/articles/cpw2en50rjvo</link>
-      <description><![CDATA[一家主要的游说团体表示，这将导致许多公交乘客在 2025 年“开局不利”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cpw2en50rjvo</guid>
-      <pubDate>Wed, 01 Jan 2025 01:25:03 GMT</pubDate>
-    </item>
-    <item>
       <title>能源价格上涨，警告未来将有更多痛苦</title>
       <link>https://www.bbc.com/news/articles/cx2612npy61o</link>
       <description><![CDATA[新年伊始，国内天然气和电力价格将按照英国天然气和电力市场办公室 (Ofgem) 的价格上限上涨 1%。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 01 Jan 2025 00:53:45 GMT</pubDate>
     </item>
     <item>
-      <title>“我们无时无刻不在考虑死亡”：威廉达福谈新吸血鬼电影</title>
+      <title>“我们无时无刻不在考虑死亡”：威廉达福谈新吸血鬼电影《诺斯费拉图》</title>
       <link>https://www.bbc.com/news/articles/cn0898wq2eko</link>
       <description><![CDATA[威廉达福 (Willem Dafoe) 谈到了《德古拉》的吸引力：“让亡灵拜访活人很有趣。”]]></description>
       <guid>https://www.bbc.com/news/articles/cn0898wq2eko</guid>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 01 Jan 2025 00:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>模糊的战线：2024 年的战争如何让对手走到一起，但也制造了新的敌人</title>
+      <title>2024 年的战争让对手走到了一起，但也制造了新的敌人</title>
       <link>https://www.bbc.com/news/articles/cm2ewemgjw1o</link>
       <description><![CDATA[2024 年的冲突对 2025 年意味着什么......]]></description>
       <guid>https://www.bbc.com/news/articles/cm2ewemgjw1o</guid>
@@ -104,11 +104,11 @@
       <pubDate>Wed, 01 Jan 2025 00:07:53 GMT</pubDate>
     </item>
     <item>
-      <title>缅怀尊尼获加——电台摇滚海盗</title>
-      <link>https://www.bbc.com/news/articles/c728nxnx03eo</link>
-      <description><![CDATA[他是 60 年代广播界的叛逆者之一。50 多年后，历经风风雨雨，他仍然以 BBC 的“70 年代之声”的身份播音。]]></description>
-      <guid>https://www.bbc.com/news/articles/c728nxnx03eo</guid>
-      <pubDate>Tue, 31 Dec 2024 16:14:42 GMT</pubDate>
+      <title>图片：世界各地的 2025 年新年庆祝活动</title>
+      <link>https://www.bbc.com/news/articles/cg4lq14rdd9o</link>
+      <description><![CDATA[随着节日的到来，以下是全球各地发生的一些活动的快照。]]></description>
+      <guid>https://www.bbc.com/news/articles/cg4lq14rdd9o</guid>
+      <pubDate>Tue, 31 Dec 2024 16:35:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

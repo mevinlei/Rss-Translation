@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 05:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 08:37:12 GMT</lastBuildDate>
     <item>
-      <title>俄罗斯暂停通过乌克兰向欧洲输送天然气</title>
+      <title>乌克兰迫使俄罗斯停止向欧洲输送天然气</title>
       <link>https://www.nytimes.com/2025/01/01/world/europe/russia-ukraine-natural-gas-europe.html</link>
-      <description><![CDATA[俄罗斯能源巨头俄罗斯天然气工业股份公司于周三早上宣布了这一决定。乌克兰拒绝续签允许俄罗斯天然气通过其领土输送的协议。]]></description>
+      <description><![CDATA[由于基辅拒绝续签允许俄罗斯天然气通过其领土运输的协议，一条跨国管道于周三被关闭。]]></description>
       <guid>https://www.nytimes.com/2025/01/01/world/europe/russia-ukraine-natural-gas-europe.html</guid>
-      <pubDate>Wed, 01 Jan 2025 05:52:42 GMT</pubDate>
+      <pubDate>Wed, 01 Jan 2025 08:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年跨年夜：世界各地跨年庆祝活动照片</title>
+      <link>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</link>
+      <description><![CDATA[看看世界各地的人们是如何庆祝的。]]></description>
+      <guid>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</guid>
+      <pubDate>Wed, 01 Jan 2025 07:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴拿马运河面临大问题，但问题不在于中国或特朗普</title>
+      <link>https://www.nytimes.com/2025/01/01/opinion/panama-canal-trump-china-drought.html</link>
+      <description><![CDATA[气候变化导致干旱，使巴拿马运河的运营更加困难，通行成本更高。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/opinion/panama-canal-trump-china-drought.html</guid>
+      <pubDate>Wed, 01 Jan 2025 06:00:04 GMT</pubDate>
     </item>
     <item>
       <title>时代广场狂欢者在雷雨后迎接潮湿的新年</title>
@@ -22,7 +36,7 @@
     <item>
       <title>墨西哥市长的冒险历程：从无证移民到贩毒集团目标</title>
       <link>https://www.nytimes.com/2025/01/01/world/americas/mexico-mayor-cartels-deportations.html</link>
-      <description><![CDATA[克里斯平·阿古斯丁·门多萨曾是加利福尼亚州的非法居民，现在在墨西哥经营着一座小镇。他曾遭遇过一次暗杀。但他说：“我必须学会如何生存。”]]></description>
+      <description><![CDATA[克里斯平·阿古斯丁·门多萨曾是加州的非法居民，现在在墨西哥经营着一座小镇。他曾遭遇过一次暗杀。但他说：“我必须学会如何生存下去。”]]></description>
       <guid>https://www.nytimes.com/2025/01/01/world/americas/mexico-mayor-cartels-deportations.html</guid>
       <pubDate>Wed, 01 Jan 2025 05:01:06 GMT</pubDate>
     </item>
@@ -32,13 +46,6 @@
       <description><![CDATA[在海湖庄园新年夜派对上，这位当选总统发表了广泛讲话，还预测迈克·约翰逊将获得足够的选票，再次当选众议院议长。]]></description>
       <guid>https://www.nytimes.com/2024/12/31/us/politics/trump-carter-funeral.html</guid>
       <pubDate>Wed, 01 Jan 2025 04:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年跨年夜：世界各地跨年庆祝活动照片</title>
-      <link>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</link>
-      <description><![CDATA[看看世界各地的人们是如何庆祝的。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</guid>
-      <pubDate>Wed, 01 Jan 2025 04:24:25 GMT</pubDate>
     </item>
     <item>
       <title>曼哈顿地铁推搡事件男子被捕</title>
@@ -62,7 +69,7 @@
       <pubDate>Wed, 01 Jan 2025 02:40:05 GMT</pubDate>
     </item>
     <item>
-      <title>普京称尽管俄罗斯面临越来越大的挑战，但“一切都会好起来”</title>
+      <title>尽管俄罗斯面临越来越大的挑战，普京仍表示“一切都会好起来”</title>
       <link>https://www.nytimes.com/2024/12/31/world/europe/putin-russia-ukraine-speech.html</link>
       <description><![CDATA[在其执政25周年之际，俄罗斯总统弗拉基米尔·V·普京发表了乐观而含糊的新年致辞，没有提及乌克兰的人员伤亡或国内通胀上升的问题。]]></description>
       <guid>https://www.nytimes.com/2024/12/31/world/europe/putin-russia-ukraine-speech.html</guid>
@@ -81,13 +88,6 @@
       <description><![CDATA[全球变暖使得这两个地方对全球航运和贸易变得更加重要。]]></description>
       <guid>https://www.nytimes.com/2024/12/31/climate/trump-greenland-panama-canal-climate-change.html</guid>
       <pubDate>Tue, 31 Dec 2024 22:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普对保障美国人安全的系统的攻击是危险的</title>
-      <link>https://www.nytimes.com/2024/12/31/opinion/trump-assault-government-americans.html</link>
-      <description><![CDATA[废除现代国家机构几乎总会为建立在对统治者的忠诚和联系基础上的其他政治秩序扫清道路。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/opinion/trump-assault-government-americans.html</guid>
-      <pubDate>Tue, 31 Dec 2024 20:54:58 GMT</pubDate>
     </item>
     <item>
       <title>德国总理肖尔茨在新年讲话中抨击马斯克</title>
