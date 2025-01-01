@@ -4,13 +4,27 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 01 Jan 2025 12:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 15:11:14 GMT</lastBuildDate>
     <item>
-      <title>元旦期间有风雨及 150 多个洪水警报</title>
+      <title>“现场太恐怖了”——目击者讲述新奥尔良大屠杀</title>
+      <link>https://www.bbc.com/news/articles/crl378x8nnjo</link>
+      <description><![CDATA[一名身处袭击地点附近的男子告诉 BBC，他在街上“走过死尸和伤者尸体”。]]></description>
+      <guid>https://www.bbc.com/news/articles/crl378x8nnjo</guid>
+      <pubDate>Wed, 01 Jan 2025 14:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国部分地区遭受风雨侵袭，房屋被淹，天气预警</title>
       <link>https://www.bbc.com/news/articles/cvgm5rkrp25o</link>
-      <description><![CDATA[由于几乎全国都发布了至少一次天气预警，预计此次停电将造成大面积破坏。]]></description>
+      <description><![CDATA[洪水导致人们被困家中，大曼彻斯特地区发生重大事故。]]></description>
       <guid>https://www.bbc.com/news/articles/cvgm5rkrp25o</guid>
-      <pubDate>Wed, 01 Jan 2025 12:12:35 GMT</pubDate>
+      <pubDate>Wed, 01 Jan 2025 14:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>乘小船穿越英吉利海峡的移民人数增至 36,816 人</title>
+      <link>https://www.bbc.com/news/articles/c5y45dmg2pjo</link>
+      <description><![CDATA[2024 年是英吉利海峡死亡人数最多的一年，已知有 77 人在试图穿越时溺水身亡。]]></description>
+      <guid>https://www.bbc.com/news/articles/c5y45dmg2pjo</guid>
+      <pubDate>Wed, 01 Jan 2025 12:42:59 GMT</pubDate>
     </item>
     <item>
       <title>“我原本想成为一名舞者——现在我成了 WWE 明星”</title>
@@ -18,6 +32,13 @@
       <description><![CDATA[艾斯拉·道恩 (Isla Dawn) 从兰格赛德学院 (Langside College) 毕业后，成为世界最大摔跤公司的双打冠军。]]></description>
       <guid>https://www.bbc.com/news/articles/c24n8vdzv2ro</guid>
       <pubDate>Wed, 01 Jan 2025 11:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>莱弗利和巴尔多尼因骚扰指控提起新诉讼</title>
+      <link>https://www.bbc.com/news/articles/cx2w3zkxneeo</link>
+      <description><![CDATA[两位演员共同主演了去年夏天上映的《It Ends With Us》。]]></description>
+      <guid>https://www.bbc.com/news/articles/cx2w3zkxneeo</guid>
+      <pubDate>Wed, 01 Jan 2025 10:51:54 GMT</pubDate>
     </item>
     <item>
       <title>加文和史黛西的明星露丝·琼斯扮演 Nessa 阅读航运预报，庆祝百年诞辰</title>
@@ -41,25 +62,11 @@
       <pubDate>Wed, 01 Jan 2025 09:16:40 GMT</pubDate>
     </item>
     <item>
-      <title>乘小船穿越英吉利海峡的移民人数增至 36,816 人</title>
-      <link>https://www.bbc.com/news/articles/c5y45dmg2pjo</link>
-      <description><![CDATA[2024 年是英吉利海峡死亡人数最多的一年，已知有 77 人在试图穿越时溺水身亡。]]></description>
-      <guid>https://www.bbc.com/news/articles/c5y45dmg2pjo</guid>
-      <pubDate>Wed, 01 Jan 2025 09:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰公交乘客票价上限上涨 1 英镑</title>
-      <link>https://www.bbc.com/news/articles/cpw2en50rjvo</link>
-      <description><![CDATA[一家主要的游说团体表示，这将导致许多公交乘客在 2025 年“开局不利”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cpw2en50rjvo</guid>
-      <pubDate>Wed, 01 Jan 2025 09:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>饱受战争蹂躏的加沙儿童与家人团聚的艰辛历程</title>
-      <link>https://www.bbc.com/news/articles/cwyxewylpz9o</link>
-      <description><![CDATA[据估计，有 17,000 名儿童无人陪伴或与通常照顾他们的家人失散。]]></description>
-      <guid>https://www.bbc.com/news/articles/cwyxewylpz9o</guid>
-      <pubDate>Wed, 01 Jan 2025 06:00:38 GMT</pubDate>
+      <title>22 岁心脏病发作后的愤怒、泪水和喜悦</title>
+      <link>https://www.bbc.com/news/articles/c3wedqexpyvo</link>
+      <description><![CDATA[费思·哈里森表示，袭击发生 12 个月后，她想庆祝自己的“第二次生命”。]]></description>
+      <guid>https://www.bbc.com/news/articles/c3wedqexpyvo</guid>
+      <pubDate>Wed, 01 Jan 2025 08:22:34 GMT</pubDate>
     </item>
     <item>
       <title>为什么要在私立学校学费中加征增值税？</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[新年伊始，国内天然气和电力价格将按照英国天然气和电力市场办公室 (Ofgem) 的价格上限上涨 1%。]]></description>
       <guid>https://www.bbc.com/news/articles/cx2612npy61o</guid>
       <pubDate>Wed, 01 Jan 2025 00:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我们无时无刻不在考虑死亡”：威廉达福谈新吸血鬼电影《诺斯费拉图》</title>
-      <link>https://www.bbc.com/news/articles/cn0898wq2eko</link>
-      <description><![CDATA[威廉达福 (Willem Dafoe) 谈到了《德古拉》的吸引力：“让亡灵拜访活人很有趣。”]]></description>
-      <guid>https://www.bbc.com/news/articles/cn0898wq2eko</guid>
-      <pubDate>Wed, 01 Jan 2025 00:46:51 GMT</pubDate>
     </item>
     <item>
       <title>30 年前，《明日世界》预测了 2025 年——它是如何实现的？</title>
