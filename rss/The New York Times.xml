@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 03:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 05:52:42 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯暂停通过乌克兰向欧洲输送天然气</title>
+      <link>https://www.nytimes.com/2025/01/01/world/europe/russia-ukraine-natural-gas-europe.html</link>
+      <description><![CDATA[俄罗斯能源巨头俄罗斯天然气工业股份公司于周三早上宣布了这一决定。乌克兰拒绝续签允许俄罗斯天然气通过其领土输送的协议。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/world/europe/russia-ukraine-natural-gas-europe.html</guid>
+      <pubDate>Wed, 01 Jan 2025 05:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>时代广场狂欢者在雷雨后迎接潮湿的新年</title>
+      <link>https://www.nytimes.com/2025/01/01/nyregion/new-years-eve-rain-nyc.html</link>
+      <description><![CDATA[人们穿着雨披排队观看纽约跨年夜降球仪式。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/nyregion/new-years-eve-rain-nyc.html</guid>
+      <pubDate>Wed, 01 Jan 2025 05:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥市长的冒险历程：从无证移民到贩毒集团目标</title>
+      <link>https://www.nytimes.com/2025/01/01/world/americas/mexico-mayor-cartels-deportations.html</link>
+      <description><![CDATA[克里斯平·阿古斯丁·门多萨曾是加利福尼亚州的非法居民，现在在墨西哥经营着一座小镇。他曾遭遇过一次暗杀。但他说：“我必须学会如何生存。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/world/americas/mexico-mayor-cartels-deportations.html</guid>
+      <pubDate>Wed, 01 Jan 2025 05:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普称计划参加卡特的葬礼</title>
+      <link>https://www.nytimes.com/2024/12/31/us/politics/trump-carter-funeral.html</link>
+      <description><![CDATA[在海湖庄园新年夜派对上，这位当选总统发表了广泛讲话，还预测迈克·约翰逊将获得足够的选票，再次当选众议院议长。]]></description>
+      <guid>https://www.nytimes.com/2024/12/31/us/politics/trump-carter-funeral.html</guid>
+      <pubDate>Wed, 01 Jan 2025 04:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年跨年夜：世界各地跨年庆祝活动照片</title>
+      <link>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</link>
+      <description><![CDATA[看看世界各地的人们是如何庆祝的。]]></description>
+      <guid>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</guid>
+      <pubDate>Wed, 01 Jan 2025 04:24:25 GMT</pubDate>
+    </item>
     <item>
       <title>曼哈顿地铁推搡事件男子被捕</title>
       <link>https://www.nytimes.com/2024/12/31/nyregion/nyc-subway-tracks-man-shoved.html</link>
@@ -27,13 +62,6 @@
       <pubDate>Wed, 01 Jan 2025 02:40:05 GMT</pubDate>
     </item>
     <item>
-      <title>2025 年跨年夜：世界各地跨年庆祝活动照片</title>
-      <link>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</link>
-      <description><![CDATA[看看世界各地的人们是如何庆祝的。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/world/new-years-eve-photos.html</guid>
-      <pubDate>Wed, 01 Jan 2025 02:17:16 GMT</pubDate>
-    </item>
-    <item>
       <title>普京称尽管俄罗斯面临越来越大的挑战，但“一切都会好起来”</title>
       <link>https://www.nytimes.com/2024/12/31/world/europe/putin-russia-ukraine-speech.html</link>
       <description><![CDATA[在其执政25周年之际，俄罗斯总统弗拉基米尔·V·普京发表了乐观而含糊的新年致辞，没有提及乌克兰的人员伤亡或国内通胀上升的问题。]]></description>
@@ -48,25 +76,11 @@
       <pubDate>Tue, 31 Dec 2024 23:06:25 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯军队正在东部进攻乌克兰阵地</title>
-      <link>https://www.nytimes.com/2024/12/31/briefing/ukraine-russia-new-years-eve.html</link>
-      <description><![CDATA[此外，华尔街预计未来还会有更多上涨。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/briefing/ukraine-russia-new-years-eve.html</guid>
-      <pubDate>Tue, 31 Dec 2024 22:17:24 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普想要格陵兰和巴拿马运河。这是为了气候。</title>
       <link>https://www.nytimes.com/2024/12/31/climate/trump-greenland-panama-canal-climate-change.html</link>
       <description><![CDATA[全球变暖使得这两个地方对全球航运和贸易变得更加重要。]]></description>
       <guid>https://www.nytimes.com/2024/12/31/climate/trump-greenland-panama-canal-climate-change.html</guid>
       <pubDate>Tue, 31 Dec 2024 22:10:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯军队驾驶电动滑板车和全地形车，向乌克兰东部阵地发起进攻</title>
-      <link>https://www.nytimes.com/2024/12/31/world/europe/ukraine-russia-attacks-eastern-front.html</link>
-      <description><![CDATA[士兵和军事分析人士表示，俄罗斯加强攻击加剧了人们对乌克兰如何管理其军队的长期担忧，并推翻了有关莫斯科进攻将会放缓的假设。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/world/europe/ukraine-russia-attacks-eastern-front.html</guid>
-      <pubDate>Tue, 31 Dec 2024 22:06:38 GMT</pubDate>
     </item>
     <item>
       <title>特朗普对保障美国人安全的系统的攻击是危险的</title>
@@ -83,25 +97,11 @@
       <pubDate>Tue, 31 Dec 2024 18:44:45 GMT</pubDate>
     </item>
     <item>
-      <title>Applebee’s 餐厅一张餐桌要 850 美元？欢迎在新年前夜来到时代广场。</title>
-      <link>https://www.nytimes.com/2024/12/31/nyregion/restaurants-new-years-eve-times-square.html</link>
-      <description><![CDATA[随着狂欢者涌入曼哈顿中城，一些连锁餐厅提供休息场所，尽管价格昂贵。福利包括使用卫生间和无限量面包棒。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/nyregion/restaurants-new-years-eve-times-square.html</guid>
-      <pubDate>Tue, 31 Dec 2024 16:07:45 GMT</pubDate>
-    </item>
-    <item>
       <title>直到飞机坠毁，他才知道父亲在韩国航班上</title>
       <link>https://www.nytimes.com/2024/12/31/world/asia/south-korea-plane-crash-victims.html</link>
       <description><![CDATA[吴在镇 64 岁的父亲没有告诉吴先生他要坐飞机，因为他不想让儿子担心。他们一直盼望着他当上祖父。]]></description>
       <guid>https://www.nytimes.com/2024/12/31/world/asia/south-korea-plane-crash-victims.html</guid>
       <pubDate>Tue, 31 Dec 2024 13:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>一只美洲狮袭击了我的侄子。有什么办法可以阻止它呢？</title>
-      <link>https://www.nytimes.com/2024/12/31/magazine/mountain-lion-attack.html</link>
-      <description><![CDATA[随着加利福尼亚州危险遭遇的不断增加，当地居民和野生动物专家正在试图找出人类与大型猫科动物如何共存。]]></description>
-      <guid>https://www.nytimes.com/2024/12/31/magazine/mountain-lion-attack.html</guid>
-      <pubDate>Tue, 31 Dec 2024 10:01:28 GMT</pubDate>
     </item>
     <item>
       <title>美国疾病控制与预防中心称，诺如病毒疫情在全国范围内激增</title>
