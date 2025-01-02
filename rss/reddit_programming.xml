@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 02 Jan 2025 12:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 15:10:52 GMT</lastBuildDate>
+    <item>
+      <title>编写软件教程的规则</title>
+      <link>https://www.reddit.com/r/programming/comments/1hrux0b/rules_for_writing_software_tutorials/</link>
+      <description><![CDATA[  由    /u/mtlynch  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hrux0b/rules_for_writing_software_tutorials/</guid>
+      <pubDate>Thu, 02 Jan 2025 14:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 2025 年 Web 开发的预测。请告诉我你的想法</title>
+      <link>https://www.reddit.com/r/programming/comments/1hrt4cz/my_web_development_predictions_for_2025_let_me/</link>
+      <description><![CDATA[  由    /u/Frequent-Football984  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hrt4cz/my_web_development_predictions_for_2025_let_me/</guid>
+      <pubDate>Thu, 02 Jan 2025 12:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解 overlayfs 中的 whiteout 文件和复制方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1hrshn6/understanding_whiteout_files_and_copy_up_approach/</link>
+      <description><![CDATA[  由    /u/coold007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hrshn6/understanding_whiteout_files_and_copy_up_approach/</guid>
+      <pubDate>Thu, 02 Jan 2025 12:21:15 GMT</pubDate>
+    </item>
     <item>
       <title>Github Copilot 现已随 VS Code 免费提供</title>
       <link>https://www.reddit.com/r/programming/comments/1hrrsns/github_copilot_is_now_free_with_vs_code/</link>
@@ -83,32 +104,11 @@
       <pubDate>Wed, 01 Jan 2025 21:53:59 GMT</pubDate>
     </item>
     <item>
-      <title>以下是我为我的 Web 应用程序创建强大、可扩展的应用内教程的方法和原因</title>
+      <title>以下是我为我的 Web 应用程序创建强大、可扩展的应用内教程的方法（以及原因）</title>
       <link>https://www.reddit.com/r/programming/comments/1hrdlel/heres_how_and_why_i_created_robust_scalable_inapp/</link>
       <description><![CDATA[  由    /u/No-Definition-2886  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hrdlel/heres_how_and_why_i_created_robust_scalable_inapp/</guid>
       <pubDate>Wed, 01 Jan 2025 21:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我仅使用 webhook 为 Slack 和 Bitbucket 创建了拉取请求通知机器人</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</link>
-      <description><![CDATA[  由    /u/RealDaikon7106  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrby9i/i_created_pull_requests_notifications_bot_for/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Android 智能手机作为 DOS 的“串行调制解调器”——并且“无需 root 权限”。此“解决方案使用运行 NetBSD 的极简安装的 QEMU VM 工作，它充当往返于 DOS PC 的流量的调制解调器和路由器。”QEMU、termux-usb 和 usbredirect 在 Termux 下运行。</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</link>
-      <description><![CDATA[  由    /u/throwaway16830261  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrbsso/use_an_android_smartphone_as_a_serial_modem_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建开源项目：生活故事、家人和朋友的合作 - AI-Curated</title>
-      <link>https://www.reddit.com/r/programming/comments/1hrbahl/building_an_opensource_project_life_stories/</link>
-      <description><![CDATA[我们正在使用 Next.js、Contentful 和 AI 构建一个开源平台，帮助家人和朋友通过协作内容保存他们所爱之人的生活故事，然后在 AI 的帮助下将其整理成引人入胜的电影和故事。 提问，了解更多信息，请加入我们！ 开源 #AI #y    提交人    /u/dQxTrades   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hrbahl/building_an_opensource_project_life_stories/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:10:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
