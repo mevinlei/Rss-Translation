@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jan 2025 07:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 11:51:53 GMT</lastBuildDate>
+    <item>
+      <title>意大利那不勒斯：深受暴力和失业困扰的热门旅游胜地</title>
+      <link>https://www.nytimes.com/2025/01/02/world/europe/naples-italy-tourism-violence-unemployment.html</link>
+      <description><![CDATA[在社交媒体时代，这座意大利南部城市已成为游客、模特和演员们的时尚聚集地。然而，它对许多年轻人来说依然残酷无情。]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/world/europe/naples-italy-tourism-violence-unemployment.html</guid>
+      <pubDate>Thu, 02 Jan 2025 11:51:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国对数十家美国公司实施贸易管制</title>
+      <link>https://www.nytimes.com/2025/01/02/business/china-us-companies-entity-list.html</link>
+      <description><![CDATA[此举是北京和华盛顿之间围绕国家安全至关重要产品争论的最新升级。]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/business/china-us-companies-entity-list.html</guid>
+      <pubDate>Thu, 02 Jan 2025 11:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>新奥尔良新年袭击事件使庆祝活动变成恐怖袭击</title>
+      <link>https://www.nytimes.com/2025/01/01/us/new-orleans-truck-attack-nye-bourbon-street.html</link>
+      <description><![CDATA[此次袭击造成 15 人死亡，约三十多人受伤，其袭击模式令人痛心，袭击者将车辆变成武器。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/us/new-orleans-truck-attack-nye-bourbon-street.html</guid>
+      <pubDate>Thu, 02 Jan 2025 11:19:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>新奥尔良袭击“受 ISIS 启发”以及拉斯维加斯 Cyber​​truck 爆炸事件</title>
+      <link>https://www.nytimes.com/2025/01/02/podcasts/new-orleans-attack-isis-cybertruck-explosion-las-vegas.html</link>
+      <description><![CDATA[另外，还要进行大麻呼吸测试吗？]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/podcasts/new-orleans-attack-isis-cybertruck-explosion-las-vegas.html</guid>
+      <pubDate>Thu, 02 Jan 2025 11:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国因乌克兰战争对俄罗斯实施制裁的争论愈演愈烈</title>
+      <link>https://www.nytimes.com/2025/01/02/business/economy/russia-sanctions-ukraine.html</link>
+      <description><![CDATA[这位当选总统表示，他将谨慎使用制裁，同时誓言结束乌克兰战争，这再次引发人们对制裁有效性的质疑。]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/business/economy/russia-sanctions-ukraine.html</guid>
+      <pubDate>Thu, 02 Jan 2025 10:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列对近东救济工程处的威胁笼罩加沙</title>
+      <link>https://www.nytimes.com/2025/01/02/world/americas/israel-unrwa-gaza-threat.html</link>
+      <description><![CDATA[联合国近东巴勒斯坦难民救济和工程处一直是向加沙提供援助的主要机构。现在，以色列正采取行动禁止该机构，原因是有人指控它包庇哈马斯武装分子。]]></description>
+      <guid>https://www.nytimes.com/2025/01/02/world/americas/israel-unrwa-gaza-threat.html</guid>
+      <pubDate>Thu, 02 Jan 2025 10:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何观看 2025 年第一场象限仪座流星雨，今晚达到高峰</title>
       <link>https://www.nytimes.com/2025/01/02/science/space/meteor-shower-quadrantids.html</link>
@@ -13,11 +55,11 @@
       <pubDate>Thu, 02 Jan 2025 05:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>莫桑比克歌曲和说唱歌手激发青年起义</title>
-      <link>https://www.nytimes.com/2025/01/02/world/africa/mozambique-protest-song-azagaia.html</link>
-      <description><![CDATA[说唱明星阿扎盖亚 (Azagaia) 演唱的《Povo no Poder》或《权力的人》已成为有争议的选举抗议活动的非正式主题曲。]]></description>
-      <guid>https://www.nytimes.com/2025/01/02/world/africa/mozambique-protest-song-azagaia.html</guid>
-      <pubDate>Thu, 02 Jan 2025 05:01:04 GMT</pubDate>
+      <title>新奥尔良袭击案嫌疑人身份已确定：我们所知道的情况</title>
+      <link>https://www.nytimes.com/2025/01/01/us/suspect-new-orleans-texan-isis-flag.html</link>
+      <description><![CDATA[这名被确定为新奥尔良新年恐怖袭击嫌疑人的男子曾在美国军队服役，并在德勤工作，并且越来越虔诚。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/us/suspect-new-orleans-texan-isis-flag.html</guid>
+      <pubDate>Thu, 02 Jan 2025 04:27:14 GMT</pubDate>
     </item>
     <item>
       <title>调查人员寻找新奥尔良袭击与拉斯维加斯爆炸之间的联系</title>
@@ -34,13 +76,6 @@
       <pubDate>Thu, 02 Jan 2025 03:15:34 GMT</pubDate>
     </item>
     <item>
-      <title>新年期间新奥尔良袭击事件中的遇难者是谁？</title>
-      <link>https://www.nytimes.com/2025/01/01/us/new-orleans-attack-victims.html</link>
-      <description><![CDATA[这是我们了解到的有关一名男子驾驶皮卡车冲向波旁街人群而造成 15 名死亡人员中部分人员的情况。]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/us/new-orleans-attack-victims.html</guid>
-      <pubDate>Thu, 02 Jan 2025 03:05:41 GMT</pubDate>
-    </item>
-    <item>
       <title>拉斯维加斯特朗普酒店外 Cyber​​truck 爆炸，造成 1 人死亡，多人受伤</title>
       <link>https://www.nytimes.com/2025/01/01/us/car-fire-trump-hotel-las-vegas.html</link>
       <description><![CDATA[当局称，至少有七人受伤。他们表示，他们认为这是“一起孤立事件”，但不排除与新奥尔良袭击事件有关。]]></description>
@@ -55,46 +90,18 @@
       <pubDate>Thu, 02 Jan 2025 02:27:02 GMT</pubDate>
     </item>
     <item>
-      <title>新奥尔良新年袭击事件使庆祝活动变成恐怖袭击</title>
-      <link>https://www.nytimes.com/2025/01/01/us/new-orleans-truck-attack-nye-bourbon-street.html</link>
-      <description><![CDATA[此次袭击造成 15 人死亡，约三十多人受伤，其袭击模式令人痛心，袭击者将车辆变成武器。]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/us/new-orleans-truck-attack-nye-bourbon-street.html</guid>
-      <pubDate>Thu, 02 Jan 2025 02:24:50 GMT</pubDate>
+      <title>官员试图确定新奥尔良嫌疑人是否与恐怖组织有联系</title>
+      <link>https://www.nytimes.com/2025/01/01/us/politics/new-orleans-attack-terrorism.html</link>
+      <description><![CDATA[美国官员警告称，加沙和黎巴嫩的冲突可能蔓延至美国，最有可能的形式是小规模激进团体自行采取行动或出现孤狼式恐怖分子。]]></description>
+      <guid>https://www.nytimes.com/2025/01/01/us/politics/new-orleans-attack-terrorism.html</guid>
+      <pubDate>Thu, 02 Jan 2025 00:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>巴勒斯坦当局暂时禁止半岛电视台</title>
-      <link>https://www.nytimes.com/2025/01/01/world/middleeast/palestinian-authority-al-jazeera.html</link>
-      <description><![CDATA[该当局的官方新闻媒体指责这家卡塔尔支持的广播公司“煽动叛乱”和“干涉巴勒斯坦内政”，但并未提供违法的具体例子。]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/world/middleeast/palestinian-authority-al-jazeera.html</guid>
-      <pubDate>Thu, 02 Jan 2025 02:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰为何阻止俄罗斯向欧洲输送天然气？</title>
-      <link>https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-gas-europe-explained.html</link>
-      <description><![CDATA[为什么没有早点切断俄罗斯的天然气？]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/world/europe/ukraine-russia-gas-europe-explained.html</guid>
-      <pubDate>Wed, 01 Jan 2025 21:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>叛军轻松推翻叙利亚军队。他们现在面临的挑战是重建。</title>
-      <link>https://www.nytimes.com/2025/01/01/world/middleeast/syria-rebel-groups-army.html</link>
-      <description><![CDATA[​叛军的胜利之路上随处可见叙利亚军队溃败的证据。这也反映出重建国家的任务十分艰巨。]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/world/middleeast/syria-rebel-groups-army.html</guid>
-      <pubDate>Wed, 01 Jan 2025 20:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>反对饮酒的证据越来越多。联邦建议会改变吗？</title>
-      <link>https://www.nytimes.com/2025/01/01/health/alcohol-dietary-guidelines.html</link>
-      <description><![CDATA[其他国家的官员警告称，无论多少量饮酒都会危害健康。美国人仍然被告知适量饮酒是安全的。这是怎么回事呢？]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/health/alcohol-dietary-guidelines.html</guid>
-      <pubDate>Wed, 01 Jan 2025 20:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Katz’s Deli 的法律纠纷是如何从 2011 年 Zagat 指南开始的</title>
-      <link>https://www.nytimes.com/2025/01/01/nyregion/katz-deli-nyc.html</link>
-      <description><![CDATA[在司法部对这家位于下东区的机构进行“最受欢迎”餐厅名单审查很久之后，该机构仍同意进行翻修，以适应残疾人士的需求。]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/nyregion/katz-deli-nyc.html</guid>
-      <pubDate>Wed, 01 Jan 2025 18:46:45 GMT</pubDate>
+      <title>自杀式无人机如何改变乌克兰与俄罗斯战争的前线</title>
+      <link>https://www.nytimes.com/2024/12/31/magazine/drones-weapons-ukraine-war.html</link>
+      <description><![CDATA[在寡不敌众和绝望的情况下，该国开始用炸药攻击廉价的消费级无人机——给 21 世纪的战争带来了一种残酷的新型暴力形式​​。]]></description>
+      <guid>https://www.nytimes.com/2024/12/31/magazine/drones-weapons-ukraine-war.html</guid>
+      <pubDate>Wed, 01 Jan 2025 23:14:15 GMT</pubDate>
     </item>
     <item>
       <title>2025 年，大型火箭、大型望远镜和太空大变革即将到来</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[以下是未来一年太空和天文学领域值得期待的一些重要事件。]]></description>
       <guid>https://www.nytimes.com/2025/01/01/science/space-astronomy-nasa.html</guid>
       <pubDate>Wed, 01 Jan 2025 16:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗马特莱维喷泉将游客硬币捐赠用于慈善事业</title>
-      <link>https://www.nytimes.com/2025/01/01/world/europe/rome-coins-trevi-fountain-caritas.html</link>
-      <description><![CDATA[谁能花掉扔进这座罗马地标建筑的价值数百万欧元的零钱？]]></description>
-      <guid>https://www.nytimes.com/2025/01/01/world/europe/rome-coins-trevi-fountain-caritas.html</guid>
-      <pubDate>Wed, 01 Jan 2025 10:00:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
