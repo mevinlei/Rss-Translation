@@ -4,27 +4,34 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 02 Jan 2025 21:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:45:42 GMT</lastBuildDate>
     <item>
-      <title>AI图像矢量</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs3sxu/ai_image_vector/</link>
-      <description><![CDATA[是否有 AI 应用程序可以上传插图 (png) 并创建相同的矢量化？  我有一张路牌照片，我想要那个插图矢量图    提交人    /u/Alarming-Force-901   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs3sxu/ai_image_vector/</guid>
-      <pubDate>Thu, 02 Jan 2025 20:39:07 GMT</pubDate>
+      <title>如果没有更多工作机会，会发生什么情况？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs7uif/what_happens_when_there_are_no_more_jobs/</link>
+      <description><![CDATA[新加入。这里有人知道人工智能/自动化的发展吗？没有工作 = 没有收入 = 没有支出 = 没有公司。那么，会发生什么，速度有多快？    提交人    /u/Hopeful_Ad153   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs7uif/what_happens_when_there_are_no_more_jobs/</guid>
+      <pubDate>Thu, 02 Jan 2025 23:28:17 GMT</pubDate>
     </item>
     <item>
-      <title>寻求人工智能驱动的银行法规合规解决方案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs2x7w/seeking_aidriven_compliance_solutions_for_banking/</link>
-      <description><![CDATA[大家好， 我是一家银行的合规官，我希望整合人工智能解决方案，以确保我们的内部政策和程序符合我们央行的法规和指导方针。具体来说，我想将相关的通告和指导说明上传到人工智能系统中，该系统可以发现我们现有文档中潜在的违规行为（直接和间接）。 如果有人有使用人工智能系统地分析复杂监管框架或识别合规差距的经验，我将非常感激您分享的任何见解或建议。我还对处理大量文本和为内部利益相关者生成简明、可操作报告的任何最佳实践感兴趣。 提前感谢您的帮助！    提交人    /u/king554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs2x7w/seeking_aidriven_compliance_solutions_for_banking/</guid>
-      <pubDate>Thu, 02 Jan 2025 20:03:16 GMT</pubDate>
+      <title>您的公司是否使用人工智能聊天机器人等？您喜欢它吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs7tdj/is_your_company_using_ai_chatbot_etc_and_do_you/</link>
+      <description><![CDATA[现在似乎每个人都有自己的花哨机器人，但我想知道是否有人真的喜欢在工作的地方使用它？这似乎只是一个炫耀的营销工具......有人在工作中使用它并能发表意见吗？    提交人    /u/Capital_Suspect6093   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs7tdj/is_your_company_using_ai_chatbot_etc_and_do_you/</guid>
+      <pubDate>Thu, 02 Jan 2025 23:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>这样的人工智能应用程序存在吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs13j2/does_an_ai_app_like_this_exist/</link>
-      <description><![CDATA[我需要一个准确的人工智能应用程序，我可以在其中输入一个人或“嫌疑人”的书面描述，并让它生成多张图片，并展示此人可能的样子。这个存在吗？    提交人    /u/myworstyearyet   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs13j2/does_an_ai_app_like_this_exist/</guid>
-      <pubDate>Thu, 02 Jan 2025 18:49:43 GMT</pubDate>
+      <title>需要帮助如何微调 ChatGPT 或任何 LLM</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs6g49/help_needing_how_i_can_finetune_chatgpt_or_any/</link>
+      <description><![CDATA[嗨，团队， 如果这不是一个有效的帖子或询问次数过多，请原谅我（请直接联系我）:) 我有 DevOps 背景。由于人工智能正在所有领域兴起，我想亲自测试一些东西。 因此，我构建了一个使用 ChatGPT（带有 API 密钥）的非常小的应用程序，根据输入生成结果，然后将结果返回给 UI。 对于我的特定用例，我该如何微调 ChatGPT（这可能吗？）。怎么做才能做到这一点，以便我的应用程序能够很好地了解其领域。 现在我的做法是使用提示 - 我有一个系统提示，我告诉 chatgpt 用户输入的性质和该工具整体功能的上下文。这可能有点高效，但为了使其更富有专业知识，我可以做些什么呢？ 我对这个领域很陌生，请对我宽容一点：) 谢谢！    提交人    /u/Solid_Strength5950   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs6g49/help_needing_how_i_can_finetune_chatgpt_or_any/</guid>
+      <pubDate>Thu, 02 Jan 2025 22:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员称，人类与人工智能之间的互动需要一个新的研究领域</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hs4y7f/the_interaction_between_humans_and_artificial/</link>
+      <description><![CDATA[为了更好地理解和分析人类与人工智能之间的反馈回路，东北大学的一组研究人员提出了一个新的研究领域，他们称之为“人类人工智能共同进化”。  完整故事：https://news.northeastern.edu/2024/12/16/human-ai-coevolution/    提交人    /u/NGNResearch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hs4y7f/the_interaction_between_humans_and_artificial/</guid>
+      <pubDate>Thu, 02 Jan 2025 21:26:31 GMT</pubDate>
     </item>
     <item>
       <title>能够感知情境、时间和位置的人工智能助手？</title>
@@ -41,14 +48,7 @@
       <pubDate>Thu, 02 Jan 2025 17:52:45 GMT</pubDate>
     </item>
     <item>
-      <title>Gling AI 评论：为创作者解锁无缝视频编辑！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hrzb0h/gling_ai_review_unlocking_seamless_video_editing/</link>
-      <description><![CDATA[在这篇详细的评论中发现 Gling AI 的强大功能！了解 Gling 如何通过其创新功能、用户友好界面和实惠价格简化视频编辑。  无论您是内容创建者还是希望简化工作流程的 YouTuber，Gling AI 都能提供令人难以置信的工具，将您的视频提升到一个新的水平。观看演示，看看这款 AI 编辑器是否适合您！ https://youtu.be/LvMT3BdgOQ4    提交人    /u/Chisom1998_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hrzb0h/gling_ai_review_unlocking_seamless_video_editing/</guid>
-      <pubDate>Thu, 02 Jan 2025 17:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托人工智能</title>
+      <title>人工智能摩托车</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hryjso/moto_ai/</link>
       <description><![CDATA[我最近听说了 Moto AI，据我所知，这是摩托罗拉的一项功能。但我真的不知道它到底是什么，也不知道它是如何工作的。它是不是像某种用于改善手机性能、相机或其他功能的高级人工智能？如果有人使用过这些功能或对它们有更多了解，你能分享一些技巧或解释一下它有什么酷炫之处吗？我只是想知道我是否错过了一些很棒的东西。    提交人    /u/Sadikshk2511   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hryjso/moto_ai/</guid>
