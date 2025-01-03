@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 Jan 2025 06:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 09:11:57 GMT</lastBuildDate>
     <item>
-      <title>开源蜂蜜替代品 第二部分</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hsfvz5/opensource_honey_alternative_part_2/</link>
-      <description><![CDATA[原始帖子链接：https://www.reddit.com/ 重要安全通知：如我在上一篇帖子中的编辑所述 我已暂时暂停扩展的后端服务，因此它目前无法按预期工作。这是因为我了解到，当用户使用该服务时，我意外地获得了用户浏览历史记录的访问权限。这不会保存在我的任何数据库中，而是每个请求以及当前网站都由渲染记录，我托管后端，这使我无意中看到用户活动。我向受影响的任何用户深表歉意。我的下一次更新将是修复此问题。非常感谢您的耐心。我将努力尽快推出一个公共的安全版本并运行。 与此同时，我已经更新了扩展的其他区域，我将在这里重点介绍。如果您愿意，您可以在本地测试该扩展。 链接到 chrome 商店页面：Chrome 网上应用店 链接到项目代码库：Github 显着的变化： - 增加了优惠券到期日期和季节性优惠券 - 更新了 ui 以更好地处理大量优惠券 - 增加了 Firefox 支持 - 将数据库移至 NoSQL 感谢所有对这个项目感兴趣并就如何推进它向我提供建议/推荐的人。   由    /u/zeemouu  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hsfvz5/opensource_honey_alternative_part_2/</guid>
-      <pubDate>Fri, 03 Jan 2025 06:13:04 GMT</pubDate>
+      <title>录制时跳过太多帧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsic15/to_many_frames_are_skipped_while_recording/</link>
+      <description><![CDATA[我在带有 coral usb 的专用服务器上使用 docker compose 提供服务。使用 25 个摄像头时，它运行良好，但无法以全帧速率录制。最初，我尝试使用 MergerFS 将录制内容保存在 2 个合并驱动器上。考虑到这可能是问题所在，我选择了单个驱动器进行测试。 CPU 负载约为 25%，IOWAIT 为 0.3%。似乎没有任何帮助...您能帮我找出问题所在吗？ 配置： compose.yaml 版本：“3.9”服务： 护卫舰： 容器名称： 护卫舰 特权： true # 这可能不是所有设置所必需的 重新启动：除非停止 图像： ghcr.io/blakeblackshear/frigate：stable shm_size： 768mb # 根据上述计算更新您的相机 设备： - /dev/bus/usb：/dev/bus/usb # 通过 USB Coral，需要针对其他版本进行修改 - /dev/dri/renderD128：/dev/dri/renderD128 # 对于英特尔 hwaccel，需要针对您的硬件进行更新 卷： - /etc/localtime：/etc/localtime：ro - /mnt/storage/frigate/config：/config - /mnt/storage/frigate/storage：/media/frigate - 类型：tmpfs 目标：/tmp/cache tmpfs： 大小：1600000000 端口： - 8971：8971 - 8554：8554 # RTSP 提要 - 8555：8555/tcp # WebRTC over tcp - 8555：8555/udp # WebRTC over udp networks：{}  config.yaml mqtt： enabled：false tls： enabled：false detectors： coral： type：edgetpu device：usb ffmpeg： global_args：-hide_banner -loglevel warning -threads 10 hwaccel_args： preset-vaapi detect： enabled：true # &lt;---- 禁用检测，直到您有一个正常工作的摄像头 feed width：704 height：576 record： enabled：true retain： days：30 mode：motion events： retain： default：60 mode：active_objectsobjects： track： - person - car - motorcycle - bus - car filters： person： min_area: 5000 max_area: 100000 cameras: cam-1: # &lt;------ 命名摄像机 enabled: true ffmpeg: 输入： - 路径：rtsp://XX:XX@XX.XX.XX.XX:554/cam/realmonitor?channel=1&amp;subtype=1 # &lt;----- 您想要用于检测角色的流： - 检测 - 路径：rtsp://XX:XX@XX.XX.XX.XX:554/cam/realmonitor?channel=1&amp;subtype=0 # &lt;----- 您想要用于检测角色的流： - 记录运动： 掩码： - 0.685,0.04,0.684,0,1,0,1,0.041 - 0.476,0.041,0.669,0.031,0.666,0,0.475,0 ........................ ........................ ........................ ........................ ........................ 版本：0.14 camera_groups：{}     由   提交  /u/eiacub   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsic15/to_many_frames_are_skipped_while_recording/</guid>
+      <pubDate>Fri, 03 Jan 2025 09:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在木星空投宣布之后，我想对其进行检查。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsi4sz/after_jupiter_airdrop_was_announced_i_wanted_to/</link>
+      <description><![CDATA[现在我想分享它，以防有人也想使用它或者只是想对它点赞 你好 r/opensource！ 我的产品是开源的，大量检查地址/种子短语以获得空投的可能性，如果你支持它会非常高兴 我的程序的源代码可以在https://github.com/jupiter-volume-checker/Jupiter-Volume-Checker找到。    提交人    /u/Jar_of_Jam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsi4sz/after_jupiter_airdrop_was_announced_i_wanted_to/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:48:20 GMT</pubDate>
     </item>
     <item>
       <title>启动了开源新闻或基于 RSS 源的服务？感觉怎么样？</title>
@@ -92,7 +99,7 @@
     <item>
       <title>意大利手机扑克应用程序无需真钱，只是为了好玩？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hrrmly/italian_mobile_poker_app_without_real_money_and/</link>
-      <description><![CDATA[我一直在寻找不是骗局、没有广告、没有真钱和真正赌博的扑克应用程序 到目前为止，我发现的最好的是 PokerTH，但它是正常的世界扑克，我想要一个像 PokerTH 这样的东西，但它使用意大利扑克变体，有人知道替代方案吗？    提交人    /u/Sissiogamer1Reddit   [link] [评论]]]></description>
+      <description><![CDATA[我一直在寻找不是骗局、没有广告、没有真钱和真正赌博的扑克应用程序 到目前为止，我发现的最好的是 PokerTH，但它是正常的世界性扑克，我想要一个像 PokerTH 这样的东西，但它使用意大利扑克变体，有人知道替代方案吗？    提交人    /u/Sissiogamer1Reddit   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrrmly/italian_mobile_poker_app_without_real_money_and/</guid>
       <pubDate>Thu, 02 Jan 2025 11:24:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      大家好！作为一个新年假期项目，我开发了一个 MacOS 工具，它可以在后台不断测量打字速度和准确度并将其显示在状态栏上。 我总是想知道我的真实打字速度是否与我在 typeracer 等打字测试中的表现相似。我寻找类似的工具，但找不到任何东西。 所以，我通过实际创建这个应用程序给了自己一份新年礼物。 如果你可以尝试一下并让我知道你的想法，那就太好了。 注意：请确保您按照 README 文件中概述的方式授予它权限。    提交人    /u/AvikalpGupta   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrixg7/i_built_a_tool_that_constants_measures_my_typing/</guid>
       <pubDate>Thu, 02 Jan 2025 02:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾我在开源领域的 2024 年</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hri3ee/review_of_my_2024_in_opensource/</link>
-      <description><![CDATA[        提交人    /u/vladkens   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hri3ee/review_of_my_2024_in_opensource/</guid>
-      <pubDate>Thu, 02 Jan 2025 01:25:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
