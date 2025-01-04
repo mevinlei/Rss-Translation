@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 04 Jan 2025 03:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 09:10:15 GMT</lastBuildDate>
+    <item>
+      <title>图像上的压缩伪影——如何判断它是文件的问题，还是我的 PDF 阅读器的问题？</title>
+      <link>https://www.reddit.com/r/software/comments/1ht7pc6/compression_artefacts_on_image_how_to_tell_if_its/</link>
+      <description><![CDATA[我有几个相册的 PDF 文件。我注意到，其中不少文件的前几页分辨率很好，但随后图像开始出现压缩伪影。 以下是示例： https://i.imgur.com/CFG9U35.png 在上面的屏幕截图中，您可以看到左侧页面的清晰度很好，而右侧页面则充满了伪影。这是书的第 5 页左右，在此之前的所有页面都很好 - 在此之后，所有页面的分辨率都很差。 这是 PDF 文件本身的问题，还是我用来读取文件的软件的问题？这些页面需要很长时间才能呈现，而且我假设它们是很大的 PDF（大约 7 到 9 MB）。  我使用的是 Mac OS，我尝试了默认的“预览”查看器，以及在 Chrome 浏览器和 Foxit PDF 阅读器上打开 PDF。均未成功。 有什么想法吗？    提交人    /u/cbars100   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ht7pc6/compression_artefacts_on_image_how_to_tell_if_its/</guid>
+      <pubDate>Sat, 04 Jan 2025 05:46:06 GMT</pubDate>
+    </item>
     <item>
       <title>创建“犯罪委员会”的计划</title>
       <link>https://www.reddit.com/r/software/comments/1hszdqo/program_to_create_crime_boards/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[  由    /u/EEEEEEEEEEEEEEEE_Man  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hsckai/what_are_some_features_in_software_that_are/</guid>
       <pubDate>Fri, 03 Jan 2025 03:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法按收藏下载已收藏的 TikToks？</title>
-      <link>https://www.reddit.com/r/software/comments/1hsabja/is_there_any_way_to_download_bookmarked_tiktoks/</link>
-      <description><![CDATA[嗨，我刚刚发现这个 subreddit，我想尝试在这里发帖 _^ 正如标题所说，我知道这款应用在短短两周多一点的时间里在我的国家被禁了，我想保存所有我收藏的有用的 TikToks，理想情况下不需要重新排序，因为我已经收藏了很多😅  提前谢谢您！！！！    提交人    /u/Lexa_Con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hsabja/is_there_any_way_to_download_bookmarked_tiktoks/</guid>
-      <pubDate>Fri, 03 Jan 2025 01:18:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
