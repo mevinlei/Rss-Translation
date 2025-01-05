@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 Jan 2025 00:52:30 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 05 Jan 2025 03:21:04 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Bing 地图 API 密钥</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htvdiz/looking_for_a_bing_maps_api_key/</link>
+      <description><![CDATA[大家好，我们正在开展一个项目，由于 Bing Maps 具有准确的地址数据，因此需要它。遗憾的是，Bing Maps 不接受新客户，而 Azure Maps 不能完全满足我们的需求。 如果有人拥有有效的 Bing Maps API 密钥或知道如何获取密钥，我们愿意为此付费。如果您能提供帮助，请给我发消息。 谢谢！ 已编辑：我们正在进行反向地理编码，并且已经有了现有的纬度和经度坐标。    提交人    /u/Netfelix21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htvdiz/looking_for_a_bing_maps_api_key/</guid>
+      <pubDate>Sun, 05 Jan 2025 02:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>你有命名元素和各种元素的原理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htvchr/do_you_have_principal_to_name_elements_and_various/</link>
+      <description><![CDATA[现在我对命名元素和各种元素感到困惑，我希望您的主体能够命名任何元素和各种元素    提交人    /u/SpecialAd5933   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htvchr/do_you_have_principal_to_name_elements_and_various/</guid>
+      <pubDate>Sun, 05 Jan 2025 02:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htu6sa/encryption_question/</link>
+      <description><![CDATA[您好， 我对 Web 开发还比较陌生，我有一个问题。 如果我发送包含密码等敏感数据的 POST 请求，如果我使用 HTTPS 连接，是否需要手动加密数据？据我所知，HTTPS 建立在 HTTP 和 TLS 之上，它们会在数据离开网络之前自动加密，并在服务器收到数据后解密。 是我理解错了，还是为了良好的安全性，这是可以接受的？ 感谢任何帮助。干杯    提交人    /u/Meefy777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htu6sa/encryption_question/</guid>
+      <pubDate>Sun, 05 Jan 2025 01:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>玩康威生命游戏的序列器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1httkxh/a_sequencer_that_plays_conways_game_of_life/</link>
+      <description><![CDATA[我使用 Tone.Js 制作了一个序列器，每次循环都会遍历康威生命游戏。让我知道你的想法！ 看看吧！    提交人    /u/newaroundhereig   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1httkxh/a_sequencer_that_plays_conways_game_of_life/</guid>
+      <pubDate>Sun, 05 Jan 2025 01:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 AI 预算应用程序，因为我不擅长理财</title>
+      <link>https://www.reddit.com/r/webdev/comments/1httfxr/i_made_an_ai_budget_app_because_i_suck_at/</link>
+      <description><![CDATA[      https://preview.redd.it/5emtcj3xo2be1.jpg?width=5259&amp;format=pjpg&amp;auto=webp&amp;s=ebffcd497a9eba25b308134d0bd6a062519bf684    提交人    /u/Lopsided_Pay7222   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1httfxr/i_made_an_ai_budget_app_because_i_suck_at/</guid>
+      <pubDate>Sun, 05 Jan 2025 00:55:39 GMT</pubDate>
+    </item>
     <item>
       <title>是否有一个工具可以将所有点击以树或图的形式查看</title>
       <link>https://www.reddit.com/r/webdev/comments/1htsoj0/is_there_a_tool_to_see_all_clicks_as_tree_or_graph/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[        提交人    /u/kova98k   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hto3n9/im_building_fun_interactive_dopamine_driven/</guid>
       <pubDate>Sat, 04 Jan 2025 20:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在公开开发过程中的每日开发更新、挑战、胜利和失败</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htnvnm/daily_dev_updates_challenges_wins_and_losses_as_i/</link>
-      <description><![CDATA[        提交人    /u/kova98k   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htnvnm/daily_dev_updates_challenges_wins_and_losses_as_i/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在是 2025 年了，网站仍然会在用户开始输入后将其踢出搜索栏。Web 开发人员可以阻止这种情况发生在他们的网站上吗？是浏览器的错吗？这是一个无法解决的问题吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htnrjn/its_2025_and_websites_are_still_kicking_users_out/</link>
-      <description><![CDATA[大家好， 我不是一名 Web 开发人员，我只是真的很好奇为什么这种情况仍然会发生。我觉得每个人都遇到过这个问题，每个人都抱怨过这个问题，但它从未得到解决。即使是像 YouTube 这样的大型网站也存在这个问题。根据我的经验，发生这种情况是因为搜索栏在整个页面加载完成之前变得可交互。 我不记得互联网上有哪一次没有发生过这种情况，但我可能错了。这是网站开发方式的问题，还是浏览器加载网站方式的错误，或者是基础层面上发生的事情，无论是精明的 Web 开发人员还是全新的浏览器都无法应对？ 我遇到过这样的网站，这种情况会在整个页面似乎已加载数秒后发生。我发誓我也遇到过这种情况不会发生的网站，但也许我错了。 所以这是怎么回事？我觉得如果有人能解决这个问题，他们会像那个决定将自行车把手绑在蔬菜削皮器上的人一样受到欢迎。    提交人    /u/Intelligent-Bit7258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htnrjn/its_2025_and_websites_are_still_kicking_users_out/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的 Js 游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htnl7s/fun_js_games/</link>
-      <description><![CDATA[        提交人    /u/Ancient-Border-2421   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htnl7s/fun_js_games/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求对我的响应式图像库 Pixx 的反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htnetp/seeking_feedback_on_my_responsive_image_library/</link>
-      <description><![CDATA[大家好， 我构建了一个响应式图像库 Pixx，它像滚雪球一样发展成为比我最初计划的更大的东西。如果您正在使用响应式图像，这可能会对您有用： https://www.npmjs.com/package/pixx 我希望就以下几件事获得一些诚实的反馈：  清晰度：理解和使用 Pixx 有多容易？ 问题：您在使用该库时遇到过任何问题或错误吗？ 可用性：什么可以使其更易于使用？它是否过于复杂？  Pixx 看起来有点复杂的原因之一是它为响应式图像生成静态 HTML。这是必要的，因为响应式图像提示需要在初始页面加载时可用，在任何 JavaScript 运行之前。 欢迎任何反馈！提前感谢您的时间。    提交人    /u/postmaster150   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htnetp/seeking_feedback_on_my_responsive_image_library/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款阅读注释应用程序，它可以让我快速记录阅读笔记并与其他知识建立联系</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htn97v/just_a_little_reading_annotating_app_im_working/</link>
-      <description><![CDATA[        提交人    /u/Passenger_Available   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htn97v/just_a_little_reading_annotating_app_im_working/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:15:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
