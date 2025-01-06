@@ -1,79 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 18:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 21:07:25 GMT</lastBuildDate>
+    <item>
+      <title>特朗普寻求停止在纽约对他的刑事判决</title>
+      <link>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</link>
+      <description><![CDATA[曼哈顿的一名法官已经表示，他将免除唐纳德·J·特朗普的牢狱之灾，但这位当选总统正试图避免刑事诉讼带来的象征性打击。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</guid>
+      <pubDate>Mon, 06 Jan 2025 21:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以观看《野兽派》</title>
+      <link>https://www.nytimes.com/2025/01/06/movies/the-brutalist-where-how-to-watch.html</link>
+      <description><![CDATA[有兴趣观看这部关于一位虚构匈牙利建筑师的三个半小时的史诗吗？如果你不住在纽约或洛杉矶，那祝你好运。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/movies/the-brutalist-where-how-to-watch.html</guid>
+      <pubDate>Mon, 06 Jan 2025 21:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>冬季风暴给大西洋中部地区带来大雪和停电</title>
+      <link>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</link>
+      <description><![CDATA[周一，美国中西部部分地区遭遇大雪袭击，危险的降雪、雨夹雪和冻雨袭击了大西洋中部地区。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>教皇任命修女领导梵蒂冈部门</title>
+      <link>https://www.nytimes.com/2025/01/06/world/europe/pope-sister-simona-brambilla-vatican-woman.html</link>
+      <description><![CDATA[西蒙娜·布兰比拉修女被任命为梵蒂冈监督宗教秩序的办公室的负责人，但她可能并不是唯一一个身居高位的人。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/europe/pope-sister-simona-brambilla-vatican-woman.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:53:28 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯声称夺取乌克兰东部重镇库拉霍夫</title>
       <link>https://www.nytimes.com/2025/01/06/world/europe/kurakhove-russia-ukraine-war.html</link>
       <description><![CDATA[俄罗斯称，乌克兰已基本撤出顿巴斯地区一座饱受摧残但具有战略意义的城镇库拉霍夫。基辅军队正在俄罗斯南部发动新一轮攻势。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/world/europe/kurakhove-russia-ukraine-war.html</guid>
-      <pubDate>Mon, 06 Jan 2025 18:02:48 GMT</pubDate>
+      <pubDate>Mon, 06 Jan 2025 20:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>贾斯汀·特鲁多的兴衰时间线</title>
+      <link>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-timeline-canada.html</link>
+      <description><![CDATA[这位加拿大总理周一宣布将辞职，他已经在政坛活跃了二十五年。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-timeline-canada.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大选民如何反对贾斯汀·特鲁多</title>
+      <link>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</link>
+      <description><![CDATA[十年前，加拿大总理因其毫不掩饰的进步政治主张而享誉全球。但在国内，选民们早就对他产生了反感。]]></description>
+      <guid>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:16:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>教皇任命移民问题盟友罗伯特·麦克埃罗伊为华盛顿枢机主教</title>
+      <link>https://www.nytimes.com/2025/01/06/us/pope-archbishop-washington-robert-mcelroy.html</link>
+      <description><![CDATA[在唐纳德·J·特朗普的任期开始前两周，罗伯特·W·麦克埃罗伊的任命表明了教皇的优先事项。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/us/pope-archbishop-washington-robert-mcelroy.html</guid>
+      <pubDate>Mon, 06 Jan 2025 17:51:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在非洲，危险潜入家庭和田野</title>
+      <link>https://www.nytimes.com/2025/01/06/health/africa-snakebite-treatment-access.html</link>
+      <description><![CDATA[全球每年有数百万人被毒蛇咬伤，至少造成12万人死亡，其中大部分是非洲农村地区的穷人，难以获得治疗。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/health/africa-snakebite-treatment-access.html</guid>
+      <pubDate>Mon, 06 Jan 2025 17:28:11 GMT</pubDate>
     </item>
     <item>
       <title>金球奖得主的幕后肖像</title>
       <link>https://www.nytimes.com/2025/01/06/movies/golden-globes-winner-portraits.html</link>
       <description><![CDATA[黛米·摩尔、阿德里安·布洛迪、佐伊·索尔达娜以及《将军》和《小驯鹿》的明星们享受着各自的辉煌时刻。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/movies/golden-globes-winner-portraits.html</guid>
-      <pubDate>Mon, 06 Jan 2025 17:25:34 GMT</pubDate>
+      <pubDate>Mon, 06 Jan 2025 17:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国钢铁公司和新日铁公司起诉拜登阻碍合并</title>
-      <link>https://www.nytimes.com/2025/01/06/business/us-steel-nippon-lawsuit.html</link>
-      <description><![CDATA[两家公司在诉讼中辩称，交易审查过程受到了政治影响。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/business/us-steel-nippon-lawsuit.html</guid>
-      <pubDate>Mon, 06 Jan 2025 17:20:23 GMT</pubDate>
+      <title>特朗普将如何运用如此大的权力？</title>
+      <link>https://www.nytimes.com/2025/01/06/opinion/trump-johnson-house-squid.html</link>
+      <description><![CDATA[我们对当选总统有何期待？]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/opinion/trump-johnson-house-squid.html</guid>
+      <pubDate>Mon, 06 Jan 2025 17:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普寻求停止在纽约对他的刑事判决</title>
-      <link>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</link>
-      <description><![CDATA[曼哈顿的一名法官已经表示，他将免除唐纳德·J·特朗普的牢狱之灾，但这位当选总统正试图避免刑事诉讼带来的象征性打击。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</guid>
-      <pubDate>Mon, 06 Jan 2025 16:56:01 GMT</pubDate>
+      <title>1 月 6 日是谁的？</title>
+      <link>https://www.nytimes.com/2025/01/06/opinion/who-owns-jan-6.html</link>
+      <description><![CDATA[特朗普试图改写历史，但历史未必会遵从。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/opinion/who-owns-jan-6.html</guid>
+      <pubDate>Mon, 06 Jan 2025 10:01:19 GMT</pubDate>
     </item>
     <item>
-      <title>冬季风暴给大西洋中部地区带来大雪和停电</title>
-      <link>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</link>
-      <description><![CDATA[周一，美国中西部部分地区遭遇大雪，随后，危险的雪、雨夹雪和冻雨混合天气逐渐侵袭大西洋中部地区。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</guid>
-      <pubDate>Mon, 06 Jan 2025 16:39:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>金球奖明星回避政治</title>
-      <link>https://www.nytimes.com/2025/01/06/business/media/golden-globes-politics.html</link>
-      <description><![CDATA[周日的演出是唐纳德·特朗普连任以来好莱坞的第一次大张旗鼓。这一次，几乎没有人对此发表意见。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/business/media/golden-globes-politics.html</guid>
-      <pubDate>Mon, 06 Jan 2025 16:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>西岸定居者希望特朗普支持吞并梦想</title>
-      <link>https://www.nytimes.com/2025/01/06/world/middleeast/west-bank-settlers-trump.html</link>
-      <description><![CDATA[定居者领导人表示，他们有信心巴勒斯坦建国是不可能的，但他们的预期因唐纳德·特朗普第一任期的经历而有所降低。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/middleeast/west-bank-settlers-trump.html</guid>
-      <pubDate>Mon, 06 Jan 2025 15:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯面临一项尴尬的选举任务：确认她输掉的选票</title>
-      <link>https://www.nytimes.com/2025/01/06/us/politics/kamala-harris-electoral-vote-certification.html</link>
-      <description><![CDATA[副总统将于周一主持国会，清点选举人团的选票，最终确定她将输给唐纳德·J·特朗普。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/us/politics/kamala-harris-electoral-vote-certification.html</guid>
-      <pubDate>Mon, 06 Jan 2025 14:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登警告美国人不要忘记 1 月 6 日的袭击</title>
-      <link>https://www.nytimes.com/2025/01/06/us/politics/biden-trump-warnings-jan-6.html</link>
-      <description><![CDATA[拜登总统在《华盛顿邮报》的一篇文章中指责当选总统唐纳德·J·特朗普及其支持者试图抹去那一天的历史。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/us/politics/biden-trump-warnings-jan-6.html</guid>
-      <pubDate>Mon, 06 Jan 2025 12:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>骗子如何骗取纽约市的拥堵收费</title>
-      <link>https://www.nytimes.com/2025/01/05/nyregion/nyc-congestion-pricing-ghost-cars-scams.html</link>
-      <description><![CDATA[遮挡车牌或以其他方式逃避缴纳过路费的司机已经给该市的公共交通系统造成了数百万美元的损失。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/nyregion/nyc-congestion-pricing-ghost-cars-scams.html</guid>
-      <pubDate>Mon, 06 Jan 2025 10:55:56 GMT</pubDate>
+      <title>书评：詹姆斯·查普尔 (James Chappel) 的《黄金岁月》</title>
+      <link>https://www.nytimes.com/2025/01/06/books/review/golden-years-james-chappel.html</link>
+      <description><![CDATA[一本新书追溯了国家对待老年人的方式的变化——有好的，也有坏的。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/books/review/golden-years-james-chappel.html</guid>
+      <pubDate>Mon, 06 Jan 2025 10:01:16 GMT</pubDate>
     </item>
     <item>
       <title>我们的狗有什么事要告诉我们吗？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[数百名在国会大厦袭击事件中被指控犯有非暴力罪行的暴徒的案件已经结案。以下是他们现在的生活。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/us/politics/trump-capitol-attack-jan-6.html</guid>
       <pubDate>Mon, 06 Jan 2025 08:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售祖母绿：塔利班寻求地下资源振兴经济</title>
-      <link>https://www.nytimes.com/2025/01/06/world/asia/taliban-afghanistan-mining.html</link>
-      <description><![CDATA[在失去数十亿美元的国际援助后，塔利班政府十分依赖阿富汗丰富的宝石和矿产资源。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/asia/taliban-afghanistan-mining.html</guid>
-      <pubDate>Mon, 06 Jan 2025 05:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列在叙利亚遭到违反停火指控的情况下发动袭击</title>
-      <link>https://www.nytimes.com/2025/01/05/world/middleeast/israel-raids-syria.html</link>
-      <description><![CDATA[阿萨德政权倒台四周后，以色列继续在叙利亚领土上发动军事行动。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/world/middleeast/israel-raids-syria.html</guid>
-      <pubDate>Sun, 05 Jan 2025 22:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大选民如何反对贾斯汀·特鲁多</title>
-      <link>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</link>
-      <description><![CDATA[十年前，加拿大总理因其毫不掩饰的进步政治主张而享誉全球。但在国内，选民们早就对他产生了反感。]]></description>
-      <guid>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</guid>
-      <pubDate>Mon, 30 Dec 2024 17:08:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

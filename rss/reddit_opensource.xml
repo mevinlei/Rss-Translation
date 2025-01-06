@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 21:10:35 GMT</lastBuildDate>
+    <item>
+      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
+      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
+    </item>
     <item>
       <title>GPLv3 数学益智游戏（OC）</title>
       <link>https://www.reddit.com/r/opensource/comments/1huzx6k/gplv3_math_puzzle_game_oc/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我有许多应用程序可以创建 Microsoft Excel 内容。是否有允许我打开和保存它们的 FOSS 应用程序。我尝试了 LibreOffice Viewer，但它不起作用（它进入循环） - excel 运行良好    提交人    /u/chribonn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hu5pqz/android_app_that_lets_me_open_microsoft_docs/</guid>
       <pubDate>Sun, 05 Jan 2025 12:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想作为一名学生做出贡献，请指导我</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</link>
-      <description><![CDATA[嘿，我是一名刚刚开始第二学期的学生。我正在攻读人工智能-机器学习学士学位。我在第一年学习了 Web 开发，并希望学习开源和最佳实践以做出贡献。我对以下方面有相当的了解：Javascript、CSS、HTML 语义、tailwind 和 react。这个学期我也要学习后端。    提交人    /u/asylumkhk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hu4bqj/i_want_to_contribute_as_a_student_please_guide_me/</guid>
-      <pubDate>Sun, 05 Jan 2025 10:44:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
