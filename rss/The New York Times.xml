@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 02:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 05:30:44 GMT</lastBuildDate>
     <item>
-      <title>亚马逊 Prime 将发布梅拉尼娅·特朗普纪录片</title>
-      <link>https://www.nytimes.com/2025/01/05/business/media/amazon-melania-trump-documentary.html</link>
-      <description><![CDATA[该公司称这部电影是一部“幕后”回顾她生活的影片，于 12 月开拍，计划于今年在影院和流媒体上映。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/business/media/amazon-melania-trump-documentary.html</guid>
-      <pubDate>Mon, 06 Jan 2025 02:01:47 GMT</pubDate>
+      <title>强风暴袭击美国部分地区，带来雨夹雪、降雪和冻雨</title>
+      <link>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</link>
+      <description><![CDATA[堪萨斯州东北部所有高速公路于周日晚关闭，导致部分地区交通陷入瘫痪。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</guid>
+      <pubDate>Mon, 06 Jan 2025 05:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年金球奖令人难忘的造型：爱莉安娜·格兰德、艾玛·斯通和黛米·摩尔</title>
+      <link>https://www.nytimes.com/2025/01/06/style/golden-globes-fashion-red-carpet.html</link>
+      <description><![CDATA[不管出于好或坏的原因，这些服装都是最令人难忘的。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/style/golden-globes-fashion-red-carpet.html</guid>
+      <pubDate>Mon, 06 Jan 2025 05:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>金球奖得主：完整名单</title>
+      <link>https://www.nytimes.com/2025/01/05/movies/golden-globes-winners-2025.html</link>
+      <description><![CDATA[2025年金球奖获奖电影、电视节目、演员和制作团队。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/movies/golden-globes-winners-2025.html</guid>
+      <pubDate>Mon, 06 Jan 2025 05:18:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>出售祖母绿：塔利班寻求地下资源振兴经济</title>
+      <link>https://www.nytimes.com/2025/01/06/world/asia/taliban-afghanistan-mining.html</link>
+      <description><![CDATA[在失去数十亿美元的国际援助后，塔利班政府十分依赖阿富汗丰富的宝石和矿产资源。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/asia/taliban-afghanistan-mining.html</guid>
+      <pubDate>Mon, 06 Jan 2025 05:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>早在济州空难发生之前，韩国就已成为安全典范</title>
+      <link>https://www.nytimes.com/2025/01/06/business/jejuair-crash-south-korea-safety.html</link>
+      <description><![CDATA[在摆脱了上世纪末的弱势地位后，韩国必须了解12月29日灾难的原因，并从中汲取什么教训。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/business/jejuair-crash-south-korea-safety.html</guid>
+      <pubDate>Mon, 06 Jan 2025 05:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼基·格拉泽的金球奖独白有尖锐的笑点和令人印象深刻</title>
+      <link>https://www.nytimes.com/2025/01/05/movies/nikki-glaser-golden-globes-monologue.html</link>
+      <description><![CDATA[这位主持人在俱乐部里多次试演，不断完善笑话和表演流程。在电视直播中，她引入了一些新内容。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/movies/nikki-glaser-golden-globes-monologue.html</guid>
+      <pubDate>Mon, 06 Jan 2025 02:03:28 GMT</pubDate>
     </item>
     <item>
       <title>新奥尔良袭击者两次造访该市并前往埃及和加拿大</title>
@@ -18,13 +53,6 @@
       <description><![CDATA[在元旦当天爆发暴力事件并造成 14 人死亡之前，沙姆苏德丁·贾巴尔曾两次访问新奥尔良，并前往埃及和加拿大。]]></description>
       <guid>https://www.nytimes.com/2025/01/05/us/new-orleans-attack-travel.html</guid>
       <pubDate>Mon, 06 Jan 2025 01:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>强风暴袭击美国部分地区，带来雨夹雪、降雪和冻雨</title>
-      <link>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</link>
-      <description><![CDATA[堪萨斯州东北部所有高速公路于周日晚关闭，导致部分地区交通陷入停滞。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</guid>
-      <pubDate>Mon, 06 Jan 2025 00:56:30 GMT</pubDate>
     </item>
     <item>
       <title>特朗普上任后将面临法律问题，纽约刑期已定</title>
@@ -55,20 +83,6 @@
       <pubDate>Sun, 05 Jan 2025 21:00:59 GMT</pubDate>
     </item>
     <item>
-      <title>1 月 6 日所见所闻仍让我心有余悸</title>
-      <link>https://www.nytimes.com/2025/01/05/opinion/jan-6-pardons.html</link>
-      <description><![CDATA[唐纳德·特朗普承诺赦免 1 月 6 日的暴乱者。但我们不能让他改写历史。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/opinion/jan-6-pardons.html</guid>
-      <pubDate>Sun, 05 Jan 2025 20:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克逆转批评英国反移民民粹主义者法拉奇</title>
-      <link>https://www.nytimes.com/2025/01/05/world/europe/musk-farage-starmer-uk.html</link>
-      <description><![CDATA[唐纳德·特朗普的亿万富翁支持者埃隆·马斯克一直在为奈杰尔·法拉奇做宣传。但周日，马斯克表示法拉奇“不具备竞选所需的条件”。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/world/europe/musk-farage-starmer-uk.html</guid>
-      <pubDate>Sun, 05 Jan 2025 19:26:23 GMT</pubDate>
-    </item>
-    <item>
       <title>“爱的一天”：特朗普如何颠覆 1 月 6 日的暴力历史</title>
       <link>https://www.nytimes.com/2025/01/05/us/politics/january-6-capitol-riot-trump.html</link>
       <description><![CDATA[这位当选总统和他的盟友花了四年时间重塑国会大厦袭击事件——传播阴谋论，编织殉难故事，以最终获得政治利益。]]></description>
@@ -76,18 +90,11 @@
       <pubDate>Sun, 05 Jan 2025 18:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰再次袭击俄罗斯库尔斯克地区</title>
-      <link>https://www.nytimes.com/2025/01/05/world/europe/ukraine-attack-kursk-russia.html</link>
-      <description><![CDATA[乌克兰军队的进攻针对的是俄罗斯地区，去年夏天他们在那里发动了突然入侵。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/world/europe/ukraine-attack-kursk-russia.html</guid>
-      <pubDate>Sun, 05 Jan 2025 18:39:33 GMT</pubDate>
-    </item>
-    <item>
       <title>随着波旁街生活重回正轨，当地人开始质疑这座城市的优先事项</title>
       <link>https://www.nytimes.com/2025/01/05/us/bourbon-street-attack-safety-tourism.html</link>
       <description><![CDATA[波旁街是新奥尔良旅游业的命脉。但在发生造成 14 人死亡的袭击事件以及近期其他暴力事件后，一些在那里工作和生活的人希望有所改变。]]></description>
       <guid>https://www.nytimes.com/2025/01/05/us/bourbon-street-attack-safety-tourism.html</guid>
-      <pubDate>Sun, 05 Jan 2025 18:33:15 GMT</pubDate>
+      <pubDate>Sun, 05 Jan 2025 18:33:16 GMT</pubDate>
     </item>
     <item>
       <title>Bad Bunny 谈论他迄今为止“最具波多黎各风情”的专辑《Debí Tirar Más Fotos》</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[在一次独家视频采访中，这位征服世界的拉丁巨星讨论了为什么他的新专辑充满了来自祖国的传统声音和节奏。]]></description>
       <guid>https://www.nytimes.com/2025/01/05/arts/music/bad-bunny-album-debi-tirar-mas-fotos.html</guid>
       <pubDate>Sun, 05 Jan 2025 18:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>约翰·博尔顿：对唐纳德·特朗普来说，唯一的忠诚就是效忠</title>
-      <link>https://www.nytimes.com/2025/01/05/opinion/trump-loyalty-cabinet-presidents.html</link>
-      <description><![CDATA[如果周围都是谄媚者和寻租者，那么无论是国王、总统，还是他们的国家，都不会得到很好的照顾。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/opinion/trump-loyalty-cabinet-presidents.html</guid>
-      <pubDate>Sun, 05 Jan 2025 06:00:06 GMT</pubDate>
     </item>
     <item>
       <title>吉米·卡特葬礼：查看完整活动日程</title>

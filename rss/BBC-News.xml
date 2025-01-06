@@ -4,20 +4,34 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 06 Jan 2025 03:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 06:17:31 GMT</lastBuildDate>
+    <item>
+      <title>黛米·摩尔 (Demi Moore) 夺得金球奖后领跑奥斯卡奖角逐</title>
+      <link>https://www.bbc.com/news/articles/cew25kgdn5do</link>
+      <description><![CDATA[其他获奖者包括基南·卡尔金和黛米·摩尔，他们都被视为奥斯卡奖的领跑者。]]></description>
+      <guid>https://www.bbc.com/news/articles/cew25kgdn5do</guid>
+      <pubDate>Mon, 06 Jan 2025 05:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>金球奖：红毯图片</title>
+      <link>https://www.bbc.com/news/articles/c8j92rp8yedo</link>
+      <description><![CDATA[出席周日洛杉矶活动的其他明星还包括妮可·基德曼和安吉丽娜·朱莉。]]></description>
+      <guid>https://www.bbc.com/news/articles/c8j92rp8yedo</guid>
+      <pubDate>Mon, 06 Jan 2025 04:40:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯列出停火后可​​能释放的 34 名人质</title>
+      <link>https://www.bbc.com/news/articles/c0kv0y1vd6mo</link>
+      <description><![CDATA[该名单是在以色列上周末对加沙地带进行新一轮空袭造成数十人死亡之际公布的。]]></description>
+      <guid>https://www.bbc.com/news/articles/c0kv0y1vd6mo</guid>
+      <pubDate>Mon, 06 Jan 2025 04:18:57 GMT</pubDate>
+    </item>
     <item>
       <title>克里斯·梅森：2025 年英国议员回归，马斯克对英国政坛影响巨大</title>
       <link>https://www.bbc.com/news/articles/c2kxe344wp7o</link>
       <description><![CDATA[在这位科技亿万富翁的干预下，威斯敏斯特的又一年迎来了爆炸性的开始。]]></description>
       <guid>https://www.bbc.com/news/articles/c2kxe344wp7o</guid>
       <pubDate>Mon, 06 Jan 2025 03:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>黛米·摩尔重返金球奖</title>
-      <link>https://www.bbc.com/news/articles/cew25kgdn5do</link>
-      <description><![CDATA[该颁奖典礼被视为奥斯卡颁奖典礼的重要前奏，目前正在洛杉矶举行。]]></description>
-      <guid>https://www.bbc.com/news/articles/cew25kgdn5do</guid>
-      <pubDate>Mon, 06 Jan 2025 03:08:43 GMT</pubDate>
     </item>
     <item>
       <title>英国《鲁保罗变装皇后秀》明星薇薇安去世，年仅 32 岁</title>
@@ -69,20 +83,6 @@
       <pubDate>Sun, 05 Jan 2025 22:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>黄色预警延长至周一 降雪导致交通中断</title>
-      <link>https://www.bbc.com/news/articles/ckg9xr11m2jo</link>
-      <description><![CDATA[英格兰南部和威尔士南部发布了降雨警告，随着气温转暖导致积雪融化，还发布了洪水警告。]]></description>
-      <guid>https://www.bbc.com/news/articles/ckg9xr11m2jo</guid>
-      <pubDate>Sun, 05 Jan 2025 21:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新奥尔良袭击者戴着 Meta 智能眼镜——我们还知道什么？</title>
-      <link>https://www.bbc.com/news/articles/c205ek63433o</link>
-      <description><![CDATA[调查人员还在调查袭击者 2023 年连续前往埃及和加拿大的情况。]]></description>
-      <guid>https://www.bbc.com/news/articles/c205ek63433o</guid>
-      <pubDate>Sun, 05 Jan 2025 20:08:01 GMT</pubDate>
-    </item>
-    <item>
       <title>如何在雪天和结冰天气驾驶</title>
       <link>https://www.bbc.co.uk/news/uk-16946762</link>
       <description><![CDATA[关于车内应携带哪些物品以及如何在雪天和结冰天气驾驶的提示。]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>预算紧张时如何保暖</title>
       <link>https://www.bbc.com/news/articles/cd6084l4zx6o</link>
-      <description><![CDATA[英国遭遇寒流侵袭之际，能源价格也出现上涨，以下是一些保暖小贴士。]]></description>
+      <description><![CDATA[正当英国的能源价格上涨之际，一场寒流袭来，这里有一些小贴士可以帮助你保暖。]]></description>
       <guid>https://www.bbc.com/news/articles/cd6084l4zx6o</guid>
       <pubDate>Fri, 03 Jan 2025 15:27:32 GMT</pubDate>
     </item>
