@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 00:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 02:01:47 GMT</lastBuildDate>
     <item>
-      <title>2025 年金球奖红毯照片：看看黛米·摩尔、安娜·萨瓦伊等人的造型</title>
-      <link>https://www.nytimes.com/2025/01/05/style/golden-globes-red-carpet-2025-photos.html</link>
-      <description><![CDATA[众多明星已经开始抵达第 82 届金球奖颁奖典礼，这是一个颁奖季的开​​幕式，旨在庆祝电影和电视界最伟大的明星。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/style/golden-globes-red-carpet-2025-photos.html</guid>
-      <pubDate>Mon, 06 Jan 2025 00:46:09 GMT</pubDate>
+      <title>亚马逊 Prime 将发布梅拉尼娅·特朗普纪录片</title>
+      <link>https://www.nytimes.com/2025/01/05/business/media/amazon-melania-trump-documentary.html</link>
+      <description><![CDATA[该公司称这部电影是一部“幕后”回顾她生活的影片，于 12 月开拍，计划于今年在影院和流媒体上映。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/business/media/amazon-melania-trump-documentary.html</guid>
+      <pubDate>Mon, 06 Jan 2025 02:01:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>新奥尔良袭击者两次造访该市并前往埃及和加拿大</title>
+      <link>https://www.nytimes.com/2025/01/05/us/new-orleans-attack-travel.html</link>
+      <description><![CDATA[在元旦当天爆发暴力事件并造成 14 人死亡之前，沙姆苏德丁·贾巴尔曾两次访问新奥尔良，并前往埃及和加拿大。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/us/new-orleans-attack-travel.html</guid>
+      <pubDate>Mon, 06 Jan 2025 01:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>强风暴袭击美国部分地区，带来雨夹雪、降雪和冻雨</title>
+      <link>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</link>
+      <description><![CDATA[堪萨斯州东北部所有高速公路于周日晚关闭，导致部分地区交通陷入停滞。]]></description>
+      <guid>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</guid>
+      <pubDate>Mon, 06 Jan 2025 00:56:30 GMT</pubDate>
     </item>
     <item>
       <title>特朗普上任后将面临法律问题，纽约刑期已定</title>
@@ -25,20 +39,6 @@
       <description><![CDATA[民主党全国委员会主席的竞争集中在热门候选人肯·马丁和本·威克勒身上，但党内围绕这两位候选人的内斗看起来并不像是对 2024 年失败的全面清算。]]></description>
       <guid>https://www.nytimes.com/2025/01/05/us/politics/dnc-race-ben-wikler-ken-martin.html</guid>
       <pubDate>Sun, 05 Jan 2025 23:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>强风暴袭击美国部分地区，带来雨夹雪、降雪和冻雨</title>
-      <link>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</link>
-      <description><![CDATA[堪萨斯州东北部所有高速公路于周日晚关闭，导致部分地区交通陷入停滞。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/weather/winter-storm-forecast-snow-ice.html</guid>
-      <pubDate>Sun, 05 Jan 2025 23:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>新奥尔良袭击者两次造访该市并前往埃及和加拿大</title>
-      <link>https://www.nytimes.com/2025/01/05/us/new-orleans-attack-travel.html</link>
-      <description><![CDATA[在元旦当天爆发暴力事件并造成 14 人死亡之前，沙姆苏德丁·贾巴尔曾两次访问新奥尔良，并前往埃及和加拿大。]]></description>
-      <guid>https://www.nytimes.com/2025/01/05/us/new-orleans-attack-travel.html</guid>
-      <pubDate>Sun, 05 Jan 2025 23:25:09 GMT</pubDate>
     </item>
     <item>
       <title>以色列在叙利亚遭到违反停火指控的情况下发动袭击</title>
