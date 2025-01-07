@@ -1,30 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 12:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 15:57:07 GMT</lastBuildDate>
+    <item>
+      <title>对于许多回国的俄罗斯退伍军人来说，漫长的康复之路正在等待</title>
+      <link>https://www.nytimes.com/2025/01/07/world/europe/russia-ukraine-war-veterans.html</link>
+      <description><![CDATA[很多士兵归来时已经截肢，许多人患有创伤后应激障碍。他们回国后要面对耻辱和艰苦的康复过程。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/europe/russia-ukraine-war-veterans.html</guid>
+      <pubDate>Tue, 07 Jan 2025 15:54:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>7.1级地震袭击中国西藏自治区尼泊尔边境</title>
+      <link>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</link>
+      <description><![CDATA[中国官方媒体称，西藏宗教圣地附近发生的里氏 7.1 级地震已造成至少 126 人死亡。邻国尼泊尔也有震感。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</guid>
+      <pubDate>Tue, 07 Jan 2025 15:48:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克抓住的英国“美容团伙”丑闻意味着什么？</title>
+      <link>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</link>
+      <description><![CDATA[这位亿万富翁科技大亨一直在其社交媒体平台上发布有关英国十年前发生的儿童性虐待丑闻的信息。以下是您需要了解的内容。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</guid>
+      <pubDate>Tue, 07 Jan 2025 15:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚主要机场迎来阿萨德政权垮台以来的首批国际航班</title>
+      <link>https://www.nytimes.com/2025/01/07/world/middleeast/syria-airport-damascus-international-flights.html</link>
+      <description><![CDATA[该国新领导人正在努力恢复正常状态。但叙利亚仍处于阿萨德政权时期实施的一系列国际制裁之下。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/middleeast/syria-airport-damascus-international-flights.html</guid>
+      <pubDate>Tue, 07 Jan 2025 14:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登将在加利福尼亚州指定查克瓦拉和萨蒂特拉国家纪念碑</title>
+      <link>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</link>
+      <description><![CDATA[通过这两座新纪念碑，拜登保护的联邦土地和水域比任何一位总统都多，约 6.74 亿英亩。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</guid>
+      <pubDate>Tue, 07 Jan 2025 14:11:03 GMT</pubDate>
+    </item>
     <item>
       <title>教育工作者为学校门口的 ICE 特工做好准备</title>
       <link>https://www.nytimes.com/2025/01/07/us/immigration-deportations-ice-schools.html</link>
       <description><![CDATA[全国各地的教育工作者都对候任总统唐纳德·J·特朗普驱逐移民的承诺以及此举对学生可能造成的影响表示普遍担忧。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/immigration-deportations-ice-schools.html</guid>
-      <pubDate>Tue, 07 Jan 2025 12:06:04 GMT</pubDate>
+      <pubDate>Tue, 07 Jan 2025 14:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>下一届国会</title>
-      <link>https://www.nytimes.com/2025/01/07/briefing/republican-congress-trump-mike-johnson.html</link>
-      <description><![CDATA[我们探讨了可能决定新国会的分歧——并有可能破坏唐纳德·特朗普的议程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/briefing/republican-congress-trump-mike-johnson.html</guid>
-      <pubDate>Tue, 07 Jan 2025 11:35:38 GMT</pubDate>
+      <title>卡特从未去过华盛顿。双方都有这种感觉。</title>
+      <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</link>
+      <description><![CDATA[1976 年入主白宫时，吉米·卡特是华盛顿真正的局外人。无论好坏，他仍然为此感到自豪。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</guid>
+      <pubDate>Tue, 07 Jan 2025 13:04:05 GMT</pubDate>
     </item>
     <item>
-      <title>7.1级地震袭击中国西藏自治区尼泊尔边境</title>
-      <link>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</link>
-      <description><![CDATA[中国官方媒体称，西藏最神圣的城市之一附近发生的 7.1 级地震已造成至少 95 人死亡。邻国尼泊尔也有震感。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</guid>
-      <pubDate>Tue, 07 Jan 2025 11:24:44 GMT</pubDate>
+      <title>在黎巴嫩一个受人喜爱的市场，“破坏令人痛心”</title>
+      <link>https://www.nytimes.com/2025/01/07/world/middleeast/israel-hezbollah-lebanon-war.html</link>
+      <description><![CDATA[以色列空袭重创了黎巴嫩南部城市纳巴提耶的历史悠久的露天市场。居民和商店老板才刚刚开始接受这次破坏。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/middleeast/israel-hezbollah-lebanon-war.html</guid>
+      <pubDate>Tue, 07 Jan 2025 13:03:39 GMT</pubDate>
     </item>
     <item>
       <title>贾斯汀·特鲁多将辞职，美国报告首例禽流感死亡病例</title>
@@ -41,18 +76,11 @@
       <pubDate>Tue, 07 Jan 2025 11:12:53 GMT</pubDate>
     </item>
     <item>
-      <title>卡特将于周二开始在国会大厦举行国葬仪式</title>
+      <title>吉米·卡特将于周二在国会大厦举行国葬仪式</title>
       <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</link>
       <description><![CDATA[美国前总统吉米·卡特曾禁止演奏《向总统致敬》，今年他将在美国首都举行为期三天的隆重仪式来纪念他。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</guid>
       <pubDate>Tue, 07 Jan 2025 10:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登将在加利福尼亚州指定查克瓦拉和萨蒂特拉国家纪念碑</title>
-      <link>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</link>
-      <description><![CDATA[通过这两座新纪念碑，拜登保护的联邦土地和水域比任何一位总统都多，约 6.74 亿英亩。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</guid>
-      <pubDate>Tue, 07 Jan 2025 10:01:56 GMT</pubDate>
     </item>
     <item>
       <title>拜登政府将禁止在信用报告中记录医疗债务</title>
@@ -66,35 +94,14 @@
       <link>https://www.nytimes.com/2025/01/07/world/canada/justin-trudeau-liberal-party-canada.html</link>
       <description><![CDATA[通过暂停议会并承诺辞职，总理为自由党争取到了时间。但现在加拿大将面临唐纳德·J·特朗普的跛脚鸭式领导。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/world/canada/justin-trudeau-liberal-party-canada.html</guid>
-      <pubDate>Tue, 07 Jan 2025 10:01:50 GMT</pubDate>
+      <pubDate>Tue, 07 Jan 2025 10:01:51 GMT</pubDate>
     </item>
     <item>
-      <title>卡特从未去过华盛顿。双方都有这种感觉。</title>
-      <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</link>
-      <description><![CDATA[1976 年入主白宫时，吉米·卡特是华盛顿真正的局外人。无论好坏，他仍然为此感到自豪。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</guid>
-      <pubDate>Tue, 07 Jan 2025 10:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在黎巴嫩一个受人喜爱的市场，“破坏令人痛心”</title>
-      <link>https://www.nytimes.com/2025/01/07/world/middleeast/israel-hezbollah-lebanon-war.html</link>
-      <description><![CDATA[以色列空袭重创了黎巴嫩南部城市纳巴提耶的历史悠久的露天市场。居民和商店老板才刚刚开始接受这次破坏。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/world/middleeast/israel-hezbollah-lebanon-war.html</guid>
-      <pubDate>Tue, 07 Jan 2025 10:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国特使称以色列将从黎巴嫩南部撤军</title>
-      <link>https://www.nytimes.com/2025/01/06/world/middleeast/israel-lebanon-ceasefire-hezbollah-withdraw.html</link>
-      <description><![CDATA[随着以色列和真主党之间脆弱的停火协议条款的履行期限临近，一名美国外交官周一表示，最近已取得“重大进展”。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/middleeast/israel-lebanon-ceasefire-hezbollah-withdraw.html</guid>
-      <pubDate>Mon, 06 Jan 2025 23:52:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国放宽对叙利亚人道主义援助的部分限制</title>
-      <link>https://www.nytimes.com/2025/01/06/us/politics/syria-us-sanctions-aid.html</link>
-      <description><![CDATA[此项授权是在上个月叛军推翻叙利亚政府之后颁布的，目的是让人道主义组织能够更自由地开展活动，而不会违反美国的制裁。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/us/politics/syria-us-sanctions-aid.html</guid>
-      <pubDate>Mon, 06 Jan 2025 23:06:17 GMT</pubDate>
+      <title>UFC 总裁 Dana White 加入 Meta 董事会</title>
+      <link>https://www.nytimes.com/2025/01/06/technology/dana-white-meta-board-ufc.html</link>
+      <description><![CDATA[怀特是当选总统唐纳德·J·特朗普的亲密盟友，他的加入进一步加强了这家社交媒体巨头与新政府的联系。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/technology/dana-white-meta-board-ufc.html</guid>
+      <pubDate>Tue, 07 Jan 2025 00:16:28 GMT</pubDate>
     </item>
     <item>
       <title>谁能接替贾斯汀·特鲁多担任加拿大总理？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[无论谁接替特鲁多成为加拿大自由党领袖，都将成为总理。不久之后，他们将面临大选，以及保住职位的艰巨挑战。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-replacement.html</guid>
       <pubDate>Mon, 06 Jan 2025 21:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>贾斯汀·特鲁多的崛起与衰落</title>
-      <link>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-timeline-canada.html</link>
-      <description><![CDATA[这位加拿大总理周一宣布将辞职，他已经在政坛活跃了二十五年。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-timeline-canada.html</guid>
-      <pubDate>Mon, 06 Jan 2025 20:19:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
