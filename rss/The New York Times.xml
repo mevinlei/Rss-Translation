@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 15:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 18:07:45 GMT</lastBuildDate>
+    <item>
+      <title>坎农法官阻止发布杰克·史密斯关于特朗普文件调查的报告</title>
+      <link>https://www.nytimes.com/2025/01/07/us/politics/trump-documents-case-jack-smith-report.html</link>
+      <description><![CDATA[由特朗普任命的法官艾琳·坎农 (Aileen M. Cannon) 今年夏天彻底驳回了文件案。周二，她暂时禁止特别检察官杰克·史密斯 (Jack Smith) 向公众公布调查结果。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/us/politics/trump-documents-case-jack-smith-report.html</guid>
+      <pubDate>Tue, 07 Jan 2025 17:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克抓住的英国“美容团伙”丑闻意味着什么？</title>
+      <link>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</link>
+      <description><![CDATA[这位亿万富翁科技大亨一直在其社交媒体平台上发布有关英国十年前发生的儿童性虐待丑闻的信息。以下是您需要了解的内容。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</guid>
+      <pubDate>Tue, 07 Jan 2025 16:59:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国称苏丹 RSF 犯下种族灭绝罪并对其领导人实施制裁</title>
+      <link>https://www.nytimes.com/2025/01/07/world/africa/sudan-rsf-genocide-us-sanctions.html</link>
+      <description><![CDATA[国务卿表示，一支在残酷内战中与苏丹军队作战的武装力量犯下了相当于种族灭绝的屠杀和强奸罪行。美国对其领导人和金融网络进行了制裁。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/africa/sudan-rsf-genocide-us-sanctions.html</guid>
+      <pubDate>Tue, 07 Jan 2025 16:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普请求上诉法院冻结对他的纽约刑事判决</title>
+      <link>https://www.nytimes.com/2025/01/07/nyregion/trump-criminal-sentencing-appeal.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普正试图在就职前抹去自己的犯罪记录。他将成为首位入主白宫的重罪犯。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/nyregion/trump-criminal-sentencing-appeal.html</guid>
+      <pubDate>Tue, 07 Jan 2025 16:51:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>药剂师开具堕胎药是反堕胎斗争的最新举措</title>
+      <link>https://www.nytimes.com/2025/01/07/health/abortion-pills-pharmacist-prescribe.html</link>
+      <description><![CDATA[华盛顿州的项目是第一个，但其他州预计将尝试允许药剂师开出堕胎药，以对抗日益严厉的限制堕胎手段。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/health/abortion-pills-pharmacist-prescribe.html</guid>
+      <pubDate>Tue, 07 Jan 2025 16:18:29 GMT</pubDate>
+    </item>
     <item>
       <title>对于许多回国的俄罗斯退伍军人来说，漫长的康复之路正在等待</title>
       <link>https://www.nytimes.com/2025/01/07/world/europe/russia-ukraine-war-veterans.html</link>
@@ -13,18 +48,11 @@
       <pubDate>Tue, 07 Jan 2025 15:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>7.1级地震袭击中国西藏自治区尼泊尔边境</title>
-      <link>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</link>
-      <description><![CDATA[中国官方媒体称，西藏宗教圣地附近发生的里氏 7.1 级地震已造成至少 126 人死亡。邻国尼泊尔也有震感。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/asia/china-tibet-nepal-quake.html</guid>
-      <pubDate>Tue, 07 Jan 2025 15:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克抓住的英国“美容团伙”丑闻意味着什么？</title>
-      <link>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</link>
-      <description><![CDATA[这位亿万富翁科技大亨一直在其社交媒体平台上发布有关英国十年前发生的儿童性虐待丑闻的信息。以下是您需要了解的内容。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/world/europe/uk-grooming-gangs-elon-musk.html</guid>
-      <pubDate>Tue, 07 Jan 2025 15:39:25 GMT</pubDate>
+      <title>我们列出的 52 个必去之地显示了 20 年来旅游业的变化</title>
+      <link>https://www.nytimes.com/video/travel/100000009890973/our-52-places-to-go-lists-show-how-travel-has-changed-over-20-years.html</link>
+      <description><![CDATA[2005 年，《纽约时报》首次发布“52 个必去之地”榜单，当时全球旅行者还没有智能手机、Instagram 和谷歌地图。今年是该榜单问世 20 周年，我们的记者 Tariro Mzezewa 深入分析了过去 20 年旅游业的变化。]]></description>
+      <guid>https://www.nytimes.com/video/travel/100000009890973/our-52-places-to-go-lists-show-how-travel-has-changed-over-20-years.html</guid>
+      <pubDate>Tue, 07 Jan 2025 15:25:47 GMT</pubDate>
     </item>
     <item>
       <title>叙利亚主要机场迎来阿萨德政权垮台以来的首批国际航班</title>
@@ -34,21 +62,21 @@
       <pubDate>Tue, 07 Jan 2025 14:37:38 GMT</pubDate>
     </item>
     <item>
-      <title>拜登将在加利福尼亚州指定查克瓦拉和萨蒂特拉国家纪念碑</title>
-      <link>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</link>
-      <description><![CDATA[通过这两座新纪念碑，拜登保护的联邦土地和水域比任何一位总统都多，约 6.74 亿英亩。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/climate/biden-national-monuments-california.html</guid>
-      <pubDate>Tue, 07 Jan 2025 14:11:03 GMT</pubDate>
+      <title>伊隆马斯克和他的扩音器X震撼英国政坛</title>
+      <link>https://www.nytimes.com/2025/01/06/world/europe/uk-elon-musk-far-right.html</link>
+      <description><![CDATA[这位亿万富翁在社交媒体上拥有 2.11 亿粉丝，他似乎有意利用自己的全球平台来扰乱英国政坛。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/europe/uk-elon-musk-far-right.html</guid>
+      <pubDate>Tue, 07 Jan 2025 14:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>教育工作者为学校门口的 ICE 特工做好准备</title>
-      <link>https://www.nytimes.com/2025/01/07/us/immigration-deportations-ice-schools.html</link>
-      <description><![CDATA[全国各地的教育工作者都对候任总统唐纳德·J·特朗普驱逐移民的承诺以及此举对学生可能造成的影响表示普遍担忧。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/immigration-deportations-ice-schools.html</guid>
-      <pubDate>Tue, 07 Jan 2025 14:10:49 GMT</pubDate>
+      <title>一名逃避欺诈指控的商人如何在海外开创事业</title>
+      <link>https://www.nytimes.com/2025/01/07/business/samuele-landi-offshore-seastead.html</link>
+      <description><![CDATA[为了逃避欺诈指控，萨缪尔·兰迪（Samuele Landi）规避了引渡条约、涉足加密货币、获取外交证件，并充分利用了离岸世界提供的一切便利。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/business/samuele-landi-offshore-seastead.html</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>卡特从未去过华盛顿。双方都有这种感觉。</title>
+      <title>吉米·卡特如何成为华盛顿骄傲的局外人</title>
       <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</link>
       <description><![CDATA[1976 年入主白宫时，吉米·卡特是华盛顿真正的局外人。无论好坏，他仍然为此感到自豪。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington.html</guid>
@@ -62,32 +90,11 @@
       <pubDate>Tue, 07 Jan 2025 13:03:39 GMT</pubDate>
     </item>
     <item>
-      <title>贾斯汀·特鲁多将辞职，美国报告首例禽流感死亡病例</title>
-      <link>https://www.nytimes.com/2025/01/07/podcasts/canadian-prime-minister-justin-trudeau-resign-bird-flu-death.html</link>
-      <description><![CDATA[此外，塔利班也欢迎游客前往阿富汗。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/podcasts/canadian-prime-minister-justin-trudeau-resign-bird-flu-death.html</guid>
-      <pubDate>Tue, 07 Jan 2025 11:23:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>叙利亚新叛军政府下令改变学校课程，引起部分叙利亚人担忧</title>
-      <link>https://www.nytimes.com/2025/01/06/world/middleeast/syria-government-school-changes.html</link>
-      <description><![CDATA[叙利亚新政府迅速下令改变学校课程。一些叙利亚人表示，这一举措令人担忧，表明前叛军计划如何治理这个多元化的国家。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/middleeast/syria-government-school-changes.html</guid>
-      <pubDate>Tue, 07 Jan 2025 11:12:53 GMT</pubDate>
-    </item>
-    <item>
       <title>吉米·卡特将于周二在国会大厦举行国葬仪式</title>
       <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</link>
       <description><![CDATA[美国前总统吉米·卡特曾禁止演奏《向总统致敬》，今年他将在美国首都举行为期三天的隆重仪式来纪念他。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</guid>
       <pubDate>Tue, 07 Jan 2025 10:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府将禁止在信用报告中记录医疗债务</title>
-      <link>https://www.nytimes.com/2025/01/07/us/politics/biden-medical-debt-credit-report.html</link>
-      <description><![CDATA[然而，随着当选总统唐纳德·J·特朗普将于本月重返白宫，新规定的未来仍是一个疑问。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/politics/biden-medical-debt-credit-report.html</guid>
-      <pubDate>Tue, 07 Jan 2025 10:01:53 GMT</pubDate>
     </item>
     <item>
       <title>贾斯汀·特鲁多试图拯救他的政党。他伤害加拿大了吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[怀特是当选总统唐纳德·J·特朗普的亲密盟友，他的加入进一步加强了这家社交媒体巨头与新政府的联系。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/technology/dana-white-meta-board-ufc.html</guid>
       <pubDate>Tue, 07 Jan 2025 00:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能接替贾斯汀·特鲁多担任加拿大总理？</title>
-      <link>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-replacement.html</link>
-      <description><![CDATA[无论谁接替特鲁多成为加拿大自由党领袖，都将成为总理。不久之后，他们将面临大选，以及保住职位的艰巨挑战。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-replacement.html</guid>
-      <pubDate>Mon, 06 Jan 2025 21:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
