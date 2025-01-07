@@ -1,44 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 06 Jan 2025 21:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 00:42:49 GMT</lastBuildDate>
+    <item>
+      <title>冬季风暴给大西洋中部地区带来大雪和停电</title>
+      <link>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</link>
+      <description><![CDATA[随着严寒天气的到来，危险的降雪、雨夹雪和冻雨扰乱了旅行计划，并导致中大西洋地区停电。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</guid>
+      <pubDate>Tue, 07 Jan 2025 00:42:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>冬季风暴伴随降雪导致数千个航班延误或取消</title>
+      <link>https://www.nytimes.com/2025/01/06/travel/snow-winter-storm-flight-delays-trains.html</link>
+      <description><![CDATA[风暴导致数千架航班和数十趟列车延误或取消。华盛顿罗纳德·里根国家机场的所有跑道于周一晚间关闭。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/travel/snow-winter-storm-flight-delays-trains.html</guid>
+      <pubDate>Tue, 07 Jan 2025 00:24:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>贾斯汀·特鲁多将辞去加拿大总理职务</title>
+      <link>https://www.nytimes.com/2025/01/06/world/americas/trudeau-prime-minister-to-resign.html</link>
+      <description><![CDATA[贾斯汀·特鲁多周一宣布，他将辞去加拿大自由党领袖一职。在选出继任者之前，他将继续担任这两个职位。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/americas/trudeau-prime-minister-to-resign.html</guid>
+      <pubDate>Tue, 07 Jan 2025 00:09:06 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普寻求停止在纽约对他的刑事判决</title>
       <link>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</link>
       <description><![CDATA[曼哈顿的一名法官已经表示，他将免除唐纳德·J·特朗普的牢狱之灾，但这位当选总统正试图避免刑事诉讼带来的象征性打击。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/nyregion/trump-trial-sentencing-new-york.html</guid>
-      <pubDate>Mon, 06 Jan 2025 21:06:43 GMT</pubDate>
+      <pubDate>Mon, 06 Jan 2025 23:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲁迪·朱利安尼因诽谤案被判藐视法庭</title>
+      <link>https://www.nytimes.com/2025/01/06/nyregion/rudy-giuliani-contempt-defamation-case.html</link>
+      <description><![CDATA[纽约市前市长鲁道夫·W·朱利安尼未能将其资产移交给两名赢得针对他的诽谤诉讼的佐治亚州投票站工作人员。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/nyregion/rudy-giuliani-contempt-defamation-case.html</guid>
+      <pubDate>Mon, 06 Jan 2025 23:43:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>记者对 1 月 6 日的回顾与思考</title>
+      <link>https://www.nytimes.com/2025/01/06/us/politics/trump-capitol-attack-jan-6-reporter.html</link>
+      <description><![CDATA[2021 年 1 月 6 日，当国会正在认证小约瑟夫·R·拜登的胜选时，卢克·布罗德沃特 (Luke Broadwater) 正在国会大厦，当时一群支持特朗普的暴徒冲进了国会大厦。四年后，他反思了发生了什么变化。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/us/politics/trump-capitol-attack-jan-6-reporter.html</guid>
+      <pubDate>Mon, 06 Jan 2025 23:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国放宽对叙利亚人道主义援助的部分限制</title>
+      <link>https://www.nytimes.com/2025/01/06/us/politics/syria-us-sanctions-aid.html</link>
+      <description><![CDATA[此项授权是在上个月叛军推翻叙利亚政府之后颁布的，目的是让人道主义组织能够更自由地开展活动，而不会违反美国的制裁。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/us/politics/syria-us-sanctions-aid.html</guid>
+      <pubDate>Mon, 06 Jan 2025 23:06:17 GMT</pubDate>
     </item>
     <item>
       <title>哪里可以观看《野兽派》</title>
       <link>https://www.nytimes.com/2025/01/06/movies/the-brutalist-where-how-to-watch.html</link>
       <description><![CDATA[有兴趣观看这部关于一位虚构匈牙利建筑师的三个半小时的史诗吗？如果你不住在纽约或洛杉矶，那祝你好运。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/movies/the-brutalist-where-how-to-watch.html</guid>
-      <pubDate>Mon, 06 Jan 2025 21:04:11 GMT</pubDate>
+      <pubDate>Mon, 06 Jan 2025 22:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>冬季风暴给大西洋中部地区带来大雪和停电</title>
-      <link>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</link>
-      <description><![CDATA[周一，美国中西部部分地区遭遇大雪袭击，危险的降雪、雨夹雪和冻雨袭击了大西洋中部地区。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/weather/winter-storm-snow-rain-forecast.html</guid>
-      <pubDate>Mon, 06 Jan 2025 20:54:06 GMT</pubDate>
+      <title>美国将 11 名关塔那摩囚犯送往阿曼开始新生活</title>
+      <link>https://www.nytimes.com/2025/01/06/us/politics/guantanamo-prisoners-oman.html</link>
+      <description><![CDATA[这次秘密任务使得关塔那摩湾拘留中心的囚犯人数达到自2002年开放以来的最低水平。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/us/politics/guantanamo-prisoners-oman.html</guid>
+      <pubDate>Mon, 06 Jan 2025 21:56:41 GMT</pubDate>
     </item>
     <item>
-      <title>教皇任命修女领导梵蒂冈部门</title>
-      <link>https://www.nytimes.com/2025/01/06/world/europe/pope-sister-simona-brambilla-vatican-woman.html</link>
-      <description><![CDATA[西蒙娜·布兰比拉修女被任命为梵蒂冈监督宗教秩序的办公室的负责人，但她可能并不是唯一一个身居高位的人。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/europe/pope-sister-simona-brambilla-vatican-woman.html</guid>
-      <pubDate>Mon, 06 Jan 2025 20:53:28 GMT</pubDate>
+      <title>谁能接替特鲁多担任加拿大总理？</title>
+      <link>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-replacement.html</link>
+      <description><![CDATA[无论谁接替特鲁多成为加拿大自由党领袖，都将成为总理。不久之后，他们将面临大选，以及保住职位的艰巨挑战。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/canada/justin-trudeau-replacement.html</guid>
+      <pubDate>Mon, 06 Jan 2025 21:09:29 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯声称夺取乌克兰东部重镇库拉霍夫</title>
-      <link>https://www.nytimes.com/2025/01/06/world/europe/kurakhove-russia-ukraine-war.html</link>
-      <description><![CDATA[俄罗斯称，乌克兰已基本撤出顿巴斯地区一座饱受摧残但具有战略意义的城镇库拉霍夫。基辅军队正在俄罗斯南部发动新一轮攻势。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/world/europe/kurakhove-russia-ukraine-war.html</guid>
-      <pubDate>Mon, 06 Jan 2025 20:41:42 GMT</pubDate>
+      <title>伊隆马斯克和他的扩音器X震撼英国政坛</title>
+      <link>https://www.nytimes.com/2025/01/06/world/europe/uk-elon-musk-far-right.html</link>
+      <description><![CDATA[这位亿万富翁在社交媒体上拥有 2.11 亿粉丝，他似乎有意利用自己的全球平台来扰乱英国政坛。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/europe/uk-elon-musk-far-right.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:32:33 GMT</pubDate>
     </item>
     <item>
       <title>贾斯汀·特鲁多的兴衰时间线</title>
@@ -48,25 +90,11 @@
       <pubDate>Mon, 06 Jan 2025 20:19:55 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大选民如何反对贾斯汀·特鲁多</title>
-      <link>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</link>
-      <description><![CDATA[十年前，加拿大总理因其毫不掩饰的进步政治主张而享誉全球。但在国内，选民们早就对他产生了反感。]]></description>
-      <guid>https://www.nytimes.com/2024/12/21/world/canada/justin-trudeau-canada-popularity-decline.html</guid>
-      <pubDate>Mon, 06 Jan 2025 20:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>教皇任命移民问题盟友罗伯特·麦克埃罗伊为华盛顿枢机主教</title>
-      <link>https://www.nytimes.com/2025/01/06/us/pope-archbishop-washington-robert-mcelroy.html</link>
-      <description><![CDATA[在唐纳德·J·特朗普的任期开始前两周，罗伯特·W·麦克埃罗伊的任命表明了教皇的优先事项。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/us/pope-archbishop-washington-robert-mcelroy.html</guid>
-      <pubDate>Mon, 06 Jan 2025 17:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>在非洲，危险潜入家庭和田野</title>
-      <link>https://www.nytimes.com/2025/01/06/health/africa-snakebite-treatment-access.html</link>
-      <description><![CDATA[全球每年有数百万人被毒蛇咬伤，至少造成12万人死亡，其中大部分是非洲农村地区的穷人，难以获得治疗。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/health/africa-snakebite-treatment-access.html</guid>
-      <pubDate>Mon, 06 Jan 2025 17:28:11 GMT</pubDate>
+      <title>阿塞拜疆对空难的愤怒与日俱增，与俄罗斯的分歧加深</title>
+      <link>https://www.nytimes.com/2025/01/06/world/europe/azerbaijan-plane-crash-russia-criticism.html</link>
+      <description><![CDATA[坠机事件发生后，阿塞拜疆对俄罗斯提出了罕见且尖锐的批评，该国总统表示，莫斯科的反应引起了“惊讶、遗憾和愤慨”。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/world/europe/azerbaijan-plane-crash-russia-criticism.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:03:16 GMT</pubDate>
     </item>
     <item>
       <title>金球奖得主的幕后肖像</title>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 06 Jan 2025 17:25:35 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普将如何运用如此大的权力？</title>
-      <link>https://www.nytimes.com/2025/01/06/opinion/trump-johnson-house-squid.html</link>
-      <description><![CDATA[我们对当选总统有何期待？]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/opinion/trump-johnson-house-squid.html</guid>
-      <pubDate>Mon, 06 Jan 2025 17:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 月 6 日是谁的？</title>
-      <link>https://www.nytimes.com/2025/01/06/opinion/who-owns-jan-6.html</link>
-      <description><![CDATA[特朗普试图改写历史，但历史未必会遵从。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/opinion/who-owns-jan-6.html</guid>
-      <pubDate>Mon, 06 Jan 2025 10:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>书评：詹姆斯·查普尔 (James Chappel) 的《黄金岁月》</title>
-      <link>https://www.nytimes.com/2025/01/06/books/review/golden-years-james-chappel.html</link>
-      <description><![CDATA[一本新书追溯了国家对待老年人的方式的变化——有好的，也有坏的。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/books/review/golden-years-james-chappel.html</guid>
-      <pubDate>Mon, 06 Jan 2025 10:01:16 GMT</pubDate>
-    </item>
-    <item>
       <title>我们的狗有什么事要告诉我们吗？</title>
       <link>https://www.nytimes.com/2025/01/06/magazine/dog-buttons-animal-communication.html</link>
       <description><![CDATA[由于 TikTok 和 Instagram 上“说话按钮”的热潮，许多业主都这么认为。科学家们不太相信。]]></description>
       <guid>https://www.nytimes.com/2025/01/06/magazine/dog-buttons-animal-communication.html</guid>
       <pubDate>Mon, 06 Jan 2025 10:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 月 6 日暴乱四年后</title>
-      <link>https://www.nytimes.com/2025/01/06/us/politics/trump-capitol-attack-jan-6.html</link>
-      <description><![CDATA[数百名在国会大厦袭击事件中被指控犯有非暴力罪行的暴徒的案件已经结案。以下是他们现在的生活。]]></description>
-      <guid>https://www.nytimes.com/2025/01/06/us/politics/trump-capitol-attack-jan-6.html</guid>
-      <pubDate>Mon, 06 Jan 2025 08:00:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
