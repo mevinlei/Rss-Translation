@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 02:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:00:04 GMT</lastBuildDate>
     <item>
-      <title>特朗普就任前夕 Meta 将终止事实核查计划</title>
-      <link>https://www.nytimes.com/2025/01/07/technology/meta-fact-checking-facebook.html</link>
-      <description><![CDATA[这家社交网络巨头将停止使用第三方事实核查器，而是依靠用户为帖子添加注释。当选总统特朗普和他的保守派盟友表示很高兴。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/technology/meta-fact-checking-facebook.html</guid>
-      <pubDate>Wed, 08 Jan 2025 02:50:00 GMT</pubDate>
+      <title>贾斯汀·特鲁多是他自己最大的敌人</title>
+      <link>https://www.nytimes.com/2025/01/08/opinion/justin-trudeau-canada-progressive.html</link>
+      <description><![CDATA[贾斯汀·特鲁多上台时采取了一种新的政治方式——进步且基于身份。但最终，这证明他失败了。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/opinion/justin-trudeau-canada-progressive.html</guid>
+      <pubDate>Wed, 08 Jan 2025 06:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>西藏地震幸存者面临严寒天气</title>
+      <link>https://www.nytimes.com/2025/01/08/world/asia/tibet-quake-survivors-cold.html</link>
+      <description><![CDATA[救援人员紧急向因尼泊尔附近藏族村庄发生的 7.1 级地震而流离失所的人们分发毯子和帐篷，地震造成 3,000 多栋房屋倒塌。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/world/asia/tibet-quake-survivors-cold.html</guid>
+      <pubDate>Wed, 08 Jan 2025 05:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉米·卡特将于周二在国会大厦举行国葬仪式</title>
+      <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</link>
+      <description><![CDATA[美国前总统吉米·卡特曾禁止演奏《向总统致敬》，他的遗体将在国会大厦接受国葬，这是为期三天的隆重仪式的一部分。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</guid>
+      <pubDate>Wed, 08 Jan 2025 05:46:48 GMT</pubDate>
     </item>
     <item>
       <title>格陵兰、巴拿马和水龙头：特朗普会议预示混乱即将来临</title>
       <link>https://www.nytimes.com/2025/01/07/us/politics/panama-greenland-trump-media.html</link>
       <description><![CDATA[当选总统唐纳德·J·特朗普在海湖庄园举行的新闻发布会提醒人们未来四年可能会发生什么。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/politics/panama-greenland-trump-media.html</guid>
-      <pubDate>Wed, 08 Jan 2025 02:40:53 GMT</pubDate>
+      <pubDate>Wed, 08 Jan 2025 03:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普就任前夕 Meta 将终止事实核查计划</title>
+      <link>https://www.nytimes.com/2025/01/07/technology/meta-fact-checking-facebook.html</link>
+      <description><![CDATA[这家社交网络巨头将停止使用第三方事实核查器，而是依靠用户为帖子添加注释。当选总统特朗普和他的保守派盟友表示很高兴。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/technology/meta-fact-checking-facebook.html</guid>
+      <pubDate>Wed, 08 Jan 2025 02:50:00 GMT</pubDate>
     </item>
     <item>
       <title>特朗普提出使用军事或经济力量夺取格陵兰岛和巴拿马运河</title>
@@ -34,25 +55,18 @@
       <pubDate>Wed, 08 Jan 2025 01:30:52 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普获胜后首次举行弗吉尼亚州选举，民主党获胜</title>
-      <link>https://www.nytimes.com/2025/01/07/us/politics/virginia-legislature-special-elections-democrats.html</link>
-      <description><![CDATA[该党保住了劳登县的两个关键席位，这将使他们能够继续控制该州的立法机构。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/politics/virginia-legislature-special-elections-democrats.html</guid>
-      <pubDate>Wed, 08 Jan 2025 00:54:17 GMT</pubDate>
+      <title>太平洋帕利塞德撤离人员描述逃离野火的经过</title>
+      <link>https://www.nytimes.com/2025/01/07/us/pacific-palisades-wildfire-evacuations.html</link>
+      <description><![CDATA[汽车堵塞了风景秀丽的日落大道，驶离了洛杉矶西侧的海滨社区帕利塞兹。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/us/pacific-palisades-wildfire-evacuations.html</guid>
+      <pubDate>Wed, 08 Jan 2025 01:27:00 GMT</pubDate>
     </item>
     <item>
-      <title>吉米·卡特将于周二在国会大厦举行国葬仪式</title>
-      <link>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</link>
-      <description><![CDATA[美国前总统吉米·卡特曾禁止演奏《向总统致敬》，他的遗体将在国会大厦接受国葬，这是为期三天的隆重仪式的一部分。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/politics/jimmy-carter-washington-events.html</guid>
-      <pubDate>Wed, 08 Jan 2025 00:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥-美国移民：需要了解的内容</title>
-      <link>https://www.nytimes.com/article/migration-mexico-honduras-panama-trump.html</link>
-      <description><![CDATA[唐纳德·J·特朗普曾表示，墨西哥正在允许移民“入侵”美国。但目前的实际情况却并非如此：去年，美墨边境的非法越境人数急剧下降。]]></description>
-      <guid>https://www.nytimes.com/article/migration-mexico-honduras-panama-trump.html</guid>
-      <pubDate>Tue, 07 Jan 2025 23:23:09 GMT</pubDate>
+      <title>特朗普警告称，若不释放加沙人质，“地狱将爆发”</title>
+      <link>https://www.nytimes.com/2025/01/07/us/politics/trump-hostages-hamas.html</link>
+      <description><![CDATA[这位当选总统并没有详细说明如果到他就职时人质仍未获释他将采取什么行动。]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/us/politics/trump-hostages-hamas.html</guid>
+      <pubDate>Wed, 08 Jan 2025 00:55:51 GMT</pubDate>
     </item>
     <item>
       <title>洛杉矶大火迫使数千人撤离</title>
@@ -69,20 +83,6 @@
       <pubDate>Tue, 07 Jan 2025 22:38:09 GMT</pubDate>
     </item>
     <item>
-      <title>众议院通过“莱肯·莱利法案”，驱逐被控犯有轻罪的非法移民</title>
-      <link>https://www.nytimes.com/2025/01/07/us/house-bill-migrants-crime-laken-riley.html</link>
-      <description><![CDATA[48 名民主党人与共和党人一道支持旨在驱逐更多被控犯有非暴力罪行的移民的立法，这是更广泛打击行动的第一步。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/us/house-bill-migrants-crime-laken-riley.html</guid>
-      <pubDate>Tue, 07 Jan 2025 22:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>彼得、保罗和玛丽乐队成员彼得·亚罗 (Peter Yarrow) 连接了民谣和流行音乐时代</title>
-      <link>https://www.nytimes.com/2025/01/07/arts/music/peter-yarrow-peter-paul-mary-folk-pop.html</link>
-      <description><![CDATA[这位于周二去世，享年 86 岁的音乐家凭借《彼得、保罗和玛丽》轻松将民歌带入排行榜前十。]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/arts/music/peter-yarrow-peter-paul-mary-folk-pop.html</guid>
-      <pubDate>Tue, 07 Jan 2025 21:43:38 GMT</pubDate>
-    </item>
-    <item>
       <title>拜登总统任期：四大幻觉、四大欺骗</title>
       <link>https://www.nytimes.com/2025/01/07/opinion/joe-biden-legacy.html</link>
       <description><![CDATA[历史不会对他的任期留下美好的记忆。]]></description>
@@ -92,16 +92,9 @@
     <item>
       <title>坎农法官阻止发布杰克·史密斯关于特朗普文件调查的报告</title>
       <link>https://www.nytimes.com/2025/01/07/us/politics/trump-documents-case-jack-smith-report.html</link>
-      <description><![CDATA[由特朗普任命的法官艾琳·坎农 (Aileen M. Cannon) 已完全驳回了文件案，并暂时禁止司法部公布杰克·史密斯 (Jack Smith) 对其调查的描述。]]></description>
+      <description><![CDATA[由特朗普任命的法官艾琳·坎农 (Aileen M. Cannon) 已完全驳回了文件案，并暂时禁止司法部公布杰克·史密斯 (Jack Smith) 的调查记录。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/politics/trump-documents-case-jack-smith-report.html</guid>
-      <pubDate>Tue, 07 Jan 2025 20:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党的伤口有多深？</title>
-      <link>https://www.nytimes.com/2025/01/07/opinion/democratic-party-republican-realignment.html</link>
-      <description><![CDATA[自由主义这次真的死了吗？]]></description>
-      <guid>https://www.nytimes.com/2025/01/07/opinion/democratic-party-republican-realignment.html</guid>
-      <pubDate>Tue, 07 Jan 2025 19:04:17 GMT</pubDate>
+      <pubDate>Tue, 07 Jan 2025 20:07:09 GMT</pubDate>
     </item>
     <item>
       <title>旧金山新市长丹尼尔·鲁里能否让这座城市再次闪耀光芒？</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[丹尼尔·卢里 (Daniel Lurie) 是李维斯 (Levi Strauss) 家族的继承人，他即将执掌这个自由派圣地。“反抗”唐纳德·特朗普 (Donald Trump) 并不在他的计划之内。]]></description>
       <guid>https://www.nytimes.com/2025/01/07/us/daniel-lurie-san-francisco-mayor.html</guid>
       <pubDate>Tue, 07 Jan 2025 17:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>坦迪斯瓦·马兹瓦伊是南非后种族隔离时代第一代人的代言人</title>
+      <link>https://www.nytimes.com/2025/01/07/world/africa/thandiswa-mazwai-south-africa-kwaito.html</link>
+      <description><![CDATA[坦迪斯瓦·马兹瓦伊 (Thandiswa Mazwai) 歌唱了南非自 30 年前成为多种族民主国家以来的兴衰。“我的使命是歌唱人民的欢乐，歌唱人民的悲伤。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/07/world/africa/thandiswa-mazwai-south-africa-kwaito.html</guid>
+      <pubDate>Tue, 07 Jan 2025 15:21:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
