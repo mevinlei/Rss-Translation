@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 08 Jan 2025 00:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:16:13 GMT</lastBuildDate>
     <item>
       <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
@@ -18,13 +18,6 @@
       <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
       <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于处理用户审核（网站、论坛、社交媒体……）的 SaaS，称为 OpenReport</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw0atu/saas_for_handling_user_moderation_websites_forums/</link>
-      <description><![CDATA[大家好 :) 我想展示我用 Svelte 5 构建的第一个“SaaS”。 这是一款名为 OpenReport  的软件，可让您作为网站所有者轻松集成用户报告系统。该网站允许您创建和自定义报告表单并将其添加到您的网站（通过 iframe 或仅通过链接）。 此外，您可以连接数据库以完全控制正在创建的报告、警告和禁令。您还可以设置自动化、集成 API 并通过电子邮件邀请版主。 我使用 Svelte 5 + Tailwind + Shadcn-Svelte 构建了它，对于后端我使用了 Express.js。我不得不说，Shadcn-Svelte 让我感到惊喜！它运行良好 + 组件具有大量道具，可以进行精细调整。 请告诉我您的反馈，如果您认为这可能有用，我很想知道。我个人正在将它用于我的在线游戏。 存储库链接在网站上。    提交人    /u/therealPaulPlay   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw0atu/saas_for_handling_user_moderation_websites_forums/</guid>
-      <pubDate>Tue, 07 Jan 2025 19:55:14 GMT</pubDate>
     </item>
     <item>
       <title>Boulette：防止您意外关闭远程主机！</title>
@@ -43,7 +36,7 @@
     <item>
       <title>团队任务应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</link>
-      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    由    /u/hardiskz  提交  [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我想要一个免费的应用程序（Android），帮助我和我的团队跟进任务并制定子任务，如果有日历视图和时间线会更好。有什么建议吗？    提交人    /u/hardiskz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hvsrsp/team_tasks_app/</guid>
       <pubDate>Tue, 07 Jan 2025 14:36:29 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[       由    /u/OiaOrca  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hva71l/selfhostable_form_back_end_oss_alternative_to/</guid>
       <pubDate>Mon, 06 Jan 2025 21:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
+      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
