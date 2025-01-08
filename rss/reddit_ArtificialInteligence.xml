@@ -3,8 +3,36 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 07 Jan 2025 18:14:16 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 08 Jan 2025 00:46:17 GMT</lastBuildDate>
+    <item>
+      <title>使用 NER 准确检测幻觉</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw6r7b/accurate_hallucination_detection_with_ner/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw6r7b/accurate_hallucination_detection_with_ner/</guid>
+      <pubDate>Wed, 08 Jan 2025 00:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类会对医疗影像领域的人工智能进行事实核查吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw3fc4/do_humans_factcheck_ai_in_healthcare_imaging/</link>
+      <description><![CDATA[这是具体的，但我收到一封电子邮件，说我去的一家影像中心正在使用人工智能，我想避免这种情况，除非我知道有医学学位的人至少会仔细检查影像。这听起来像是它可能会意外错过一些严重的事情并夺走某人的生命。    提交人    /u/idklol5000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw3fc4/do_humans_factcheck_ai_in_healthcare_imaging/</guid>
+      <pubDate>Tue, 07 Jan 2025 22:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何“免费”的语音克隆吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw1jgr/any_free_voice_cloning/</link>
+      <description><![CDATA[如果这是一个重复出现的问题，请原谅，但是是否有任何免费的语音克隆工具可供我上传语音笔记，并让生成的语音响应我写的任何文本？    提交人    /u/Mean_While_1787   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw1jgr/any_free_voice_cloning/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对新的 Nvidia Project Digits 有何看法？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hw19bo/what_do_you_think_about_the_new_nvidia_project/</link>
+      <description><![CDATA[Nvidia 刚刚公布了项目数字，据他们说这将是一台个人 AI 超级计算机，成本将从 3,000 美元起。 我认为这是一款不错的 Nvidia 产品，但至少现在超出了我的预算，我希望随着时间的推移它的价格会下降。 我想知道你们现在用什么来构建 AI 原型或运行 AI 模型？ https://nvidianews.nvidia.com/news/nvidia-puts-grace-blackwell-on-every-desk-and-at-every-ai-developers-fingertips    提交人    /u/Halcon_ve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hw19bo/what_do_you_think_about_the_new_nvidia_project/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:34:40 GMT</pubDate>
+    </item>
     <item>
       <title>当公司发现人工智能 95% 以上的准确率的成本高于普通人类员工 99% 以上的准确率时，会发生什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvx5v0/what_happens_when_corporations_discover_that_95/</link>
@@ -13,18 +41,18 @@
       <pubDate>Tue, 07 Jan 2025 17:46:01 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT（及其他人）是否开始“记住”不同聊天中的事情？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvx3z0/is_chatgpt_and_others_starting_to_remember_things/</link>
-      <description><![CDATA[我主要使用 AI 程序为我作为游戏管理员运行的家庭角色扮演游戏进行创意写作。我会在 ChatGPT 和 Claude 之间来回切换，具体取决于哪一个似乎能制作出最好的内容。 以前，如果我开始一个新的聊天，我必须“训练”AI 完成我希望它做的工作。确保它知道我想要从中获取想法的 IP，上传“迄今为止的冒险”摘要，确保它了解什么是 RPG 等等。 今天，我开始了一个新的聊天，因为我正在考虑将“疑犯追踪”中的一些主题融入我的一款游戏中。 “早上好，Chat！你熟悉电视剧“疑犯追踪”吗？” “早上好！” *与本节目讨论摘要无关* 您是否考虑将系列中的元素融入您的 RPG 活动中，或者有什么具体的事情想要讨论？“ 这只是某种奇怪的巧合吗？或者 ChatGPT（和/或其他人）是否获得了“记住”其他聊天中的事情的能力？ 它的问题正是当我提出特定 IP 时，主要作为我 RPG 冒险想法的倾听者会问什么。所以对我来说，如果这是有意为之的话，这是一个巨大的进步。 如果这是一项新功能，那么下一个问题是，有人可以指出我一些关于如何最好地利用该功能的好信息吗？我需要使用哪些神奇的词来巩固聊天中的事情？    提交人    /u/ThatAlarmingHamster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvx3z0/is_chatgpt_and_others_starting_to_remember_things/</guid>
-      <pubDate>Tue, 07 Jan 2025 17:43:59 GMT</pubDate>
-    </item>
-    <item>
       <title>2025 年人工智能将失败？专家呼吁权力下放以避免灾难？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvv1xz/ai_failures_by_2025_expert_calls_for/</link>
       <description><![CDATA[刚刚读了一篇福布斯文章，作者是 Max Li 博士（OORT 首席执行官），文章中讨论并预测，如果发展仍然过于集中（想想所有主要公司），AI 故障可能在 2025 年开始出现。 随着 AI 发展呈指数级增长，他认为，去中心化的方法，即使用区块链或分布式网络，可能会支持过度集中系统的风险，同时还可以提高整体透明度。 对这个话题有什么看法？这一切都是实用的还是只是炒作？    提交人    /u/Mattie_Kadlec   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvv1xz/ai_failures_by_2025_expert_calls_for/</guid>
       <pubDate>Tue, 07 Jan 2025 16:18:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>没人谈论这个...</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvukgb/nobodys_talking_about_this/</link>
+      <description><![CDATA[在 Devin 热潮之后，不可避免地发现这主要是炒作，我开始思考所有这些新的 AI 代理是如何专注于工人阶级任务的，例如会计、编码、写作和库存艺术品……而不是 CEO 等高管职位。你会看到像 Altman 先生这样的人接受采访，向“博士级员工”推销每月 2000 美元的补贴，这很好，但该工具似乎只是高层管理人员用来证明裁员合理性的工具。 没有人谈论的事情只是……为什么不制作执行代理？你在软件开发中看到的 LLM 的问题和致命错误实际上似乎与 CEO 的美德非常吻合。虽然幻觉在代码中是不好的，但当 CEO 试图说服投资者参与一项风险投资时，自信地说出听起来不错的话是净积极因素。我们大多数人都不是高管，因此，如果软件开发人员的项目只需要一个 AI C-Suite 代理，就可以帮助他们获得资金而无需经历所有步骤，那么这对软件开发人员来说难道不是最好的选择吗？    提交人    /u/enspiralart   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvukgb/nobodys_talking_about_this/</guid>
+      <pubDate>Tue, 07 Jan 2025 15:58:27 GMT</pubDate>
     </item>
     <item>
       <title>看看今年美国人工智能立法可能发生哪些变化</title>
@@ -41,32 +69,11 @@
       <pubDate>Tue, 07 Jan 2025 15:40:35 GMT</pubDate>
     </item>
     <item>
-      <title>如果每个人都可以使用人工智能来创作好莱坞级别的图片和电影，那么艺术家如何脱颖而出？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvtbo4/how_can_an_artist_stand_out_if_everyone_can_use/</link>
-      <description><![CDATA[比如你想创建一个外星城市，没有AI，你必须花费大量时间使用houdini、NUKE等软件进行建模和渲染，但5年后，你所需要的只是提示和一些简单的舒适UI，每个人都可以在10个小时内学会，那么艺术家如何脱颖而出？通过传达感受？但每个人都可以通过使用好莱坞质量的图片和视频，通过设计一个好的情节来传达他们的感受和想法？但其他人都可以制作他们想看的漫画或电影，那么他们为什么要看你创作的东西呢？    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvtbo4/how_can_an_artist_stand_out_if_everyone_can_use/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 图像生成和文本标签创建</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvt56z/ai_image_generation_and_the_creation_of_text/</link>
-      <description><![CDATA[我一直在尝试使用 Copilot 和 ChatGPT 创建图像。这些图像通常都不错。但就我而言，我无法创建一个提示，让任何一个 AI 都能正确拼写并在图像上放置文本标签。有没有专注于此的 AI 图像生成器？    提交人    /u/trenchy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvt56z/ai_image_generation_and_the_creation_of_text/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:54:20 GMT</pubDate>
-    </item>
-    <item>
       <title>我曾经很纠结于如何确定任务的优先顺序......</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvs9j7/i_used_to_struggle_with_prioritizing_tasks/</link>
       <description><![CDATA[老实说，我一直很难确定任务的优先顺序。你知道该怎么做：我会列一个清单，然后被要做的事情的数量压得喘不过气来，然后因为不知道从哪里开始而拖延。 今年，我尝试了一些不同的东西。我没有坚持使用传统的待办事项清单（说实话，它只是列出事情），而是开始使用人工智能来倾听我的目标并将它们组织成可管理的顺序。 因此，人工智能不再只是写“完成项目 X”，而是帮助我将其分解为编写大纲、研究来源和起草介绍等步骤。这就像有一个私人助理随时指导我下一步。我不再浪费时间思考先做什么或接下来要处理哪个任务。这不是拥有一个花哨的工具，而是拥有一个真正理解你想要实现的目标并为你组织起来的简单系统。虽然有时我仍然需要规范计划的一些细节，但我认为在有了这些经验之后，将来我可以自己完成这一步！ 我知道对于许多智慧来说这只是一个小小的提示。但是......自从我开始使用这种方法以来，我一直在更有效地坚持我的目标。我想知道是否有更有效的提示来帮助你完成你的待办事项？    提交人    /u/No-Tax-1444   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvs9j7/i_used_to_struggle_with_prioritizing_tasks/</guid>
       <pubDate>Tue, 07 Jan 2025 14:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Invideo AI api 或任何其他 AI 视频生成器有 api 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hvrv3q/invideo_ai_api_or_any_other_ai_video_generator/</link>
-      <description><![CDATA[嗨 想检查是否有可用的 Invideo api 或任何其他类似的 ai 视频生成器来自动创建视频内容    提交人    /u/ANil1729   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvrv3q/invideo_ai_api_or_any_other_ai_video_generator/</guid>
-      <pubDate>Tue, 07 Jan 2025 13:51:52 GMT</pubDate>
     </item>
     <item>
       <title>人工智能社区存在盲点，而且情况越来越糟</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[OpenAI 正在向杜克大学的一个项目投资 100 万美元，以研究人工智能如何与道德互动。随着人工智能在决策和人类生活中发挥越来越大的作用，道德问题变得至关重要。这项研究旨在将人工智能基于逻辑的系统与复杂的、充满价值观的人类伦理联系起来。 你的想法是什么？人工智能真的能掌握人类道德的细微差别吗？尝试一下是否有风险，或者这是人工智能未来融入社会的必要步骤？我认为这可能是一个真正的问题，这取决于人工智能未来的发展方向。 文章参考： 链接   由    /u/QuantumQuicksilver  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hvh59m/openai_funds_1_million_study_on_ai_and_morality/</guid>
       <pubDate>Tue, 07 Jan 2025 02:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 协调主管 Joshua：变革即将到来，“人类体验的方方面面都将受到影响”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hv2yc6/head_of_alignment_at_openai_joshua_change_is/</link>
-      <description><![CDATA[  由    /u/Able-Necessary-6048  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hv2yc6/head_of_alignment_at_openai_joshua_change_is/</guid>
-      <pubDate>Mon, 06 Jan 2025 16:26:58 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
