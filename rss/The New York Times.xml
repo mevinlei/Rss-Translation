@@ -1,16 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 08 Jan 2025 21:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 00:46:02 GMT</lastBuildDate>
+    <item>
+      <title>截止日期前几天达成劳工协议，避免港口罢工</title>
+      <link>https://www.nytimes.com/2025/01/08/business/port-strike-labor-deal.html</link>
+      <description><![CDATA[东海岸和墨西哥湾沿岸的码头工人和雇主必须在 1 月 15 日之前达成一项新协议，解决自动化方面的分歧。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/business/port-strike-labor-deal.html</guid>
+      <pubDate>Thu, 09 Jan 2025 00:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的领土野心让疲惫的世界感到不安</title>
+      <link>https://www.nytimes.com/2025/01/08/world/asia/trump-greenland-panama.html</link>
+      <description><![CDATA[全球政治中各国争夺领土的遥远时代突然间显得不再遥远。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/world/asia/trump-greenland-panama.html</guid>
+      <pubDate>Thu, 09 Jan 2025 00:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEIU 与 AFL-CIO 携手迎接特朗普新时代的到来</title>
+      <link>https://www.nytimes.com/2025/01/08/business/economy/afl-cio-seiu-labor-union-alliance.html</link>
+      <description><![CDATA[服务雇员工会和美国劳工联合会-产业工会联合会的联姻可以让劳工组织更好地应对不那么友好的政府。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/business/economy/afl-cio-seiu-labor-union-alliance.html</guid>
+      <pubDate>Thu, 09 Jan 2025 00:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>南加州野火摧毁了当地多处地标建筑</title>
+      <link>https://www.nytimes.com/2025/01/08/us/california-fires-landmarks-pasadena-palisades-malibu.html</link>
+      <description><![CDATA[被烧毁的建筑包括一所在许多电影中出现过的高中、一座犹太教堂和几家知名餐厅，其他当地地标建筑也面临危险。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/california-fires-landmarks-pasadena-palisades-malibu.html</guid>
+      <pubDate>Wed, 08 Jan 2025 23:23:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>总统奇葩组合：经过艰苦的竞选，卡特和福特成为朋友</title>
+      <link>https://www.nytimes.com/2025/01/08/us/politics/carter-ford-friendship.html</link>
+      <description><![CDATA[1976 年，吉米·卡特和杰拉尔德·福特在激烈的竞选中对峙，但后来他们却像很少有总统那样团结在一起，并约定在对方的葬礼上发表演讲。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/politics/carter-ford-friendship.html</guid>
+      <pubDate>Wed, 08 Jan 2025 23:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>哀悼者冒着零下气温前往国会大厦悼念吉米·卡特</title>
+      <link>https://www.nytimes.com/2025/01/08/us/politics/jimmy-carter-mourners-capitol.html</link>
+      <description><![CDATA[尽管寒冷的天气和加强的安全措施很可能会降低出席人数，但数千名支持者仍然冒着冰天雪地，向第 39 任总统致以最后的敬意。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/politics/jimmy-carter-mourners-capitol.html</guid>
+      <pubDate>Wed, 08 Jan 2025 23:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普就职典礼现金充裕，大额捐赠者福利耗尽</title>
+      <link>https://www.nytimes.com/2025/01/08/us/politics/trump-inauguration-donors.html</link>
+      <description><![CDATA[这位当选总统已经为他的宣誓就职筹集了超过 1.7 亿美元的资金，创下了就职典礼的纪录，因为富有的美国人蜂拥而至向他献媚，有些人甚至在没有贵宾待遇的情况下也捐了钱。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/politics/trump-inauguration-donors.html</guid>
+      <pubDate>Wed, 08 Jan 2025 22:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普承诺斥资 200 亿美元建设数据中心的开发商侯赛因·萨瓦尼 (Hussain Sajwani) 是谁？</title>
+      <link>https://www.nytimes.com/2025/01/08/business/trump-damac-data-centers.html</link>
+      <description><![CDATA[迪拜达马克地产公司创始人兼董事长侯赛因·萨基瓦尼十年前在中东建造了第一个特朗普品牌高尔夫球场。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/business/trump-damac-data-centers.html</guid>
+      <pubDate>Wed, 08 Jan 2025 21:47:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列称人质在加沙隧道内被发现死亡</title>
+      <link>https://www.nytimes.com/2025/01/08/world/middleeast/israel-gaza-hostage-found-dead.html</link>
+      <description><![CDATA[人质优素福·齐亚德纳 (Youssef Ziyadne) 是一名阿拉伯贝都因人，他于 2023 年 10 月 7 日与三名成年子女一起被劫持。其中两人被释放，但人们“严重担忧”第三人的命运。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/world/middleeast/israel-gaza-hostage-found-dead.html</guid>
+      <pubDate>Wed, 08 Jan 2025 21:28:15 GMT</pubDate>
+    </item>
     <item>
       <title>伊朗高级将领承认在叙利亚遭遇“重大”失败</title>
       <link>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</link>
       <description><![CDATA[数周以来，伊朗官员一直淡化其叙利亚盟友的垮台。但一位重要将军却对伊朗遭受的打击及其军队前景发表了极为坦率的看法。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</guid>
-      <pubDate>Wed, 08 Jan 2025 20:51:09 GMT</pubDate>
+      <pubDate>Wed, 08 Jan 2025 21:16:16 GMT</pubDate>
     </item>
     <item>
       <title>特朗普威胁接管格陵兰岛，岛民困惑不已</title>
@@ -20,53 +83,11 @@
       <pubDate>Wed, 08 Jan 2025 20:30:12 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普要求最高法院暂停对纽约封口费案进行宣判</title>
-      <link>https://www.nytimes.com/2025/01/08/nyregion/trump-sentencing-supreme-court.html</link>
-      <description><![CDATA[检察官已被要求在周四上午之前回应当选总统的请求，这意味着法院可能会在周五的宣判之前做出裁决。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/nyregion/trump-sentencing-supreme-court.html</guid>
-      <pubDate>Wed, 08 Jan 2025 20:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国极右翼政党认为让-玛丽·勒庞是一位有远见的人</title>
-      <link>https://www.nytimes.com/2025/01/08/world/europe/france-le-pen-death-national-rally.html</link>
-      <description><![CDATA[多年来，极右翼国民联盟一直试图与勒庞的种族主义和反犹太主义言论保持距离。但在勒庞周二去世后，国民联盟称赞他是一位有远见的人。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/world/europe/france-le-pen-death-national-rally.html</guid>
-      <pubDate>Wed, 08 Jan 2025 19:59:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>南加州野火摧毁了当地多处地标建筑</title>
-      <link>https://www.nytimes.com/2025/01/08/us/california-fires-landmarks-pasadena-palisades-malibu.html</link>
-      <description><![CDATA[被烧毁的建筑包括一所在许多电影中出现过的高中、一座犹太教堂和几家知名餐厅，其他当地地标建筑也面临危险。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/california-fires-landmarks-pasadena-palisades-malibu.html</guid>
-      <pubDate>Wed, 08 Jan 2025 19:45:29 GMT</pubDate>
-    </item>
-    <item>
       <title>他是大都会博物馆的一名保安。现在他的作品正在那里展出。</title>
       <link>https://www.nytimes.com/2025/01/08/nyregion/egyptian-artist-metropolitan-museum-exhibit.html</link>
       <description><![CDATA[一位埃及雕塑家的毕生梦想如何变成现实。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/nyregion/egyptian-artist-metropolitan-museum-exhibit.html</guid>
       <pubDate>Wed, 08 Jan 2025 19:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部暂缓发布特朗普文件案报告</title>
-      <link>https://www.nytimes.com/2025/01/08/us/politics/trump-documents-report-jack-smith.html</link>
-      <description><![CDATA[但该部门在一份法庭文件中表示，将尽快发布一份有关唐纳德·J·特朗普推翻 2020 年大选结果的努力的单独报告。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/politics/trump-documents-report-jack-smith.html</guid>
-      <pubDate>Wed, 08 Jan 2025 19:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>北极国家野生动物保护区未收到任何钻探投标</title>
-      <link>https://www.nytimes.com/2025/01/08/climate/arctic-wildlife-refuge-drilling-leases.html</link>
-      <description><![CDATA[没有公司竞标在北极国家野生动物保护区进行钻探的机会。这是四年来第二次拍卖未能引起强烈兴趣。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/climate/arctic-wildlife-refuge-drilling-leases.html</guid>
-      <pubDate>Wed, 08 Jan 2025 19:14:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登称自己可能无法再任职四年</title>
-      <link>https://www.nytimes.com/2025/01/08/us/politics/biden-interview.html</link>
-      <description><![CDATA[拜登总统坚称，如果他继续参加竞选，他仍然可以击败唐纳德·J·特朗普，但他不敢说自己在 86 岁之前还有足够的活力担任总统。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/politics/biden-interview.html</guid>
-      <pubDate>Wed, 08 Jan 2025 19:13:34 GMT</pubDate>
     </item>
     <item>
       <title>特朗普第二任期前 Meta 改头换面的背后有什么原因？</title>
@@ -76,18 +97,11 @@
       <pubDate>Wed, 08 Jan 2025 19:06:48 GMT</pubDate>
     </item>
     <item>
-      <title>拜登称正在考虑对特朗普​​的潜在目标实施先发制人的赦免</title>
-      <link>https://www.nytimes.com/2025/01/08/us/politics/biden-preemptive-pardons-trump-enemies.html</link>
-      <description><![CDATA[他说，总统尚未决定要做什么，并承认特朗普新政府的组成可能会影响他的决定。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/politics/biden-preemptive-pardons-trump-enemies.html</guid>
-      <pubDate>Wed, 08 Jan 2025 18:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>许多人在佐治亚州的严寒中向吉米·卡特表达敬意</title>
-      <link>https://www.nytimes.com/2025/01/08/us/jimmy-carter-carter-center-atlanta.html</link>
-      <description><![CDATA[这是一生难得的一次向总统表达敬意的机会。他们不会错过的，即使这意味着半夜醒来。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/jimmy-carter-carter-center-atlanta.html</guid>
-      <pubDate>Wed, 08 Jan 2025 15:54:13 GMT</pubDate>
+      <title>墨西哥总统用美国的新名字嘲笑特朗普</title>
+      <link>https://www.nytimes.com/2025/01/08/us/politics/mexico-president-mexican-america-trump.html</link>
+      <description><![CDATA[墨西哥总统克劳迪娅·辛鲍姆也表示，唐纳德·特朗普所说的墨西哥“基本上由卡特尔组织控制”是错误的。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/politics/mexico-president-mexican-america-trump.html</guid>
+      <pubDate>Wed, 08 Jan 2025 19:06:23 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克拥抱极右翼，但遭到极右翼部分领导人的拒绝</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[马斯克与美国右翼知名人士闹翻了，后者表示，他们担心自己的议程可能会被边缘化，而马斯克愿意在 X 问题上让他们闭嘴。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/technology/elon-musk-far-right.html</guid>
       <pubDate>Wed, 08 Jan 2025 15:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影里的“老女人”正在长大</title>
-      <link>https://www.nytimes.com/2025/01/08/arts/older-woman-babygirl-kidman.html</link>
-      <description><![CDATA[她曾被人们称为“美洲狮”、“罗宾逊太太”和“你的妈妈”。现在她是主角，也是电影和电视中最引人注目的角色之一。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/arts/older-woman-babygirl-kidman.html</guid>
-      <pubDate>Wed, 08 Jan 2025 15:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>卫生局局长对酒精的警告在餐厅行业掀起了一场棘手的风暴</title>
-      <link>https://www.nytimes.com/2025/01/08/dining/drinks/restaurants-alcohol-surgeon-general-warning.html</link>
-      <description><![CDATA[卫生局长就饮酒与癌症之间的关联发出的警告，可能会对面临销售额下滑的餐馆老板的财政命脉造成打击。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/dining/drinks/restaurants-alcohol-surgeon-general-warning.html</guid>
-      <pubDate>Wed, 08 Jan 2025 10:01:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
