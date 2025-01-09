@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jan 2025 12:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 14:58:55 GMT</lastBuildDate>
+    <item>
+      <title>“这是圣经里的情节”：火山灰和火焰颠覆了南加州的生活</title>
+      <link>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</link>
+      <description><![CDATA[狂风肆虐的野火席卷了各种社会经济地位和阶层的社区，即使不是物理上的，也是精神上的，形成了一场超级灾难。]]></description>
+      <guid>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</guid>
+      <pubDate>Thu, 09 Jan 2025 14:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登政府在人工智能全球传播规则方面引发新一轮斗争</title>
+      <link>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</link>
+      <description><![CDATA[科技行业正在对抗即将出台的新法规，该法规旨在将尖端技术保留在美国及其盟国的手中。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</guid>
+      <pubDate>Thu, 09 Jan 2025 14:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克试图打破德国对极右翼德国选择党的隔离</title>
+      <link>https://www.nytimes.com/2025/01/09/world/europe/germany-elon-musk-afd.html</link>
+      <description><![CDATA[政治领导人回避了德国另类选择党。但马斯克在其社交媒体平台 X 上将该党宣传为主流党派。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/world/europe/germany-elon-musk-afd.html</guid>
+      <pubDate>Thu, 09 Jan 2025 13:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩立法者经过两年僵局最终选出总统</title>
+      <link>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</link>
+      <description><![CDATA[议员们选举约瑟夫·奥恩为黎巴嫩军队司令，这是组建政府领导国家从经济危机和毁灭性战争中复苏的第一步。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</guid>
+      <pubDate>Thu, 09 Jan 2025 12:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>十万人逃离洛杉矶山火，特朗普最后一刻向最高法院提出质询</title>
       <link>https://www.nytimes.com/2025/01/09/podcasts/la-fires-carter-funeral-trump-sentencing.html</link>
       <description><![CDATA[另外，不要吃你的圣诞树。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/podcasts/la-fires-carter-funeral-trump-sentencing.html</guid>
       <pubDate>Thu, 09 Jan 2025 11:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>普京在前苏联共和国的大型酒窖中受到冷遇</title>
-      <link>https://www.nytimes.com/2025/01/09/world/europe/moldova-wine-cellar-putin.html</link>
-      <description><![CDATA[俄罗斯总统在摩尔多瓦的一家酿酒厂庆祝了自己的 50 岁生日。在入侵乌克兰后，该酿酒厂将赠送给总统的葡萄酒移出了公众视线。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/world/europe/moldova-wine-cellar-putin.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>国家领导人将齐聚华盛顿大教堂纪念卡特</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/jimmy-carter-funeral.html</link>
-      <description><![CDATA[周四将为第 39 任总统举行国葬，届时将有五位在世总统出席，拜登总统将致悼词。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/jimmy-carter-funeral.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>蒂姆·沃尔兹 (Tim Walz) 支持明尼苏达州议员肯·马丁 (Ken Martin) 领导民主党全国委员会</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/tim-walz-ken-martin-dnc-chair.html</link>
-      <description><![CDATA[这位明尼苏达州州长和 2024 年副总统候选人成为支持马丁先生的最高调的民主党人，马丁先生是争夺该党全国委员会主席的领跑者之一。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/tim-walz-ken-martin-dnc-chair.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫发布人工智能全球传播规则引发轩然大波</title>
-      <link>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</link>
-      <description><![CDATA[科技行业正在对抗即将出台的新法规，该法规旨在将尖端技术保留在美国及其盟国的手中。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/economy/biden-ai-chips-rules.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:01:49 GMT</pubDate>
     </item>
     <item>
       <title>最高法院审理的 TikTok 案件将国家安全与言论自由对立起来</title>
@@ -55,25 +55,25 @@
       <pubDate>Thu, 09 Jan 2025 10:01:32 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普重返白宫前，银行业已取得丰厚回报</title>
+      <link>https://www.nytimes.com/2025/01/09/business/economy/trump-bank-oversight.html</link>
+      <description><![CDATA[银行的游说活动阻碍了一项重要提案的通过，一位高级监管人员本周宣布将辞去领导职务。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/economy/trump-bank-oversight.html</guid>
+      <pubDate>Thu, 09 Jan 2025 10:01:24 GMT</pubDate>
+    </item>
+    <item>
       <title>这些巡演工作人员帮助明星们整晚摇滚。他们已经 70 多岁了。</title>
       <link>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</link>
       <description><![CDATA[现场音乐界一些最受尊敬且一直坚持工作的工作人员、乐器技术人员和音响师已经在这个行业工作了半个世纪。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/arts/music/live-music-roadies-techs-seniors.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国在向乌克兰提供武器时看到了机会</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/ukraine-russia-weapons-coalition.html</link>
-      <description><![CDATA[白宫抓住了一次难得的机会，在建立支持乌克兰的联盟的同时，削弱俄罗斯并建立地区盟友。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/ukraine-russia-weapons-coalition.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:00:06 GMT</pubDate>
+      <pubDate>Thu, 09 Jan 2025 10:00:24 GMT</pubDate>
     </item>
     <item>
       <title>伊朗高级将领承认在叙利亚遭遇“重大”失败</title>
       <link>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</link>
       <description><![CDATA[数周以来，伊朗官员一直淡化其叙利亚盟友的垮台。但一位重要将军却对伊朗遭受的打击及其军队前景发表了极为坦率的看法。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/world/middleeast/iran-general-syria-defeat.html</guid>
-      <pubDate>Thu, 09 Jan 2025 08:24:46 GMT</pubDate>
+      <pubDate>Thu, 09 Jan 2025 08:24:47 GMT</pubDate>
     </item>
     <item>
       <title>埃及视难民为替罪羊和机遇</title>
@@ -90,13 +90,6 @@
       <pubDate>Thu, 09 Jan 2025 05:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>“这是圣经里的情节”：火山灰和火焰颠覆了南加州的生活</title>
-      <link>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</link>
-      <description><![CDATA[狂风肆虐的野火席卷了各种社会经济地位和阶层的社区，即使不是物理上的，也是精神上的，形成了一场超级灾难。]]></description>
-      <guid>https://www.nytimes.com/2025/01/08/us/los-angeles-wildfires.html</guid>
-      <pubDate>Thu, 09 Jan 2025 03:55:42 GMT</pubDate>
-    </item>
-    <item>
       <title>阿利托在最高法院提交文件前不久与特朗普进行了交谈</title>
       <link>https://www.nytimes.com/2025/01/08/us/justice-alito-trump.html</link>
       <description><![CDATA[这位法官表示，这通电话是为他的一位前职员打来的，并引荐工作，而暂缓执行候任总统刑罚的请求并未被提出。]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[这位当选总统已经为他的宣誓就职筹集了超过 1.7 亿美元的资金，创下了就职典礼的纪录，因为富有的美国人蜂拥而至向他献媚，有些人甚至在没有贵宾待遇的情况下也捐了钱。]]></description>
       <guid>https://www.nytimes.com/2025/01/08/us/politics/trump-inauguration-donors.html</guid>
       <pubDate>Wed, 08 Jan 2025 22:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉米·卡特全国哀悼日：意义何在以及哪些地方关闭</title>
+      <link>https://www.nytimes.com/2025/01/06/us/politics/jimmy-carter-national-day-mourning.html</link>
+      <description><![CDATA[唯一一位百岁前总统吉米·卡特于 12 月 29 日去世。以下是周四的预期事件。]]></description>
+      <guid>https://www.nytimes.com/2025/01/06/us/politics/jimmy-carter-national-day-mourning.html</guid>
+      <pubDate>Mon, 06 Jan 2025 20:02:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
