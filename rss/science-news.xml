@@ -4,7 +4,14 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Thu, 09 Jan 2025 09:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 12:20:47 GMT</lastBuildDate>
+    <item>
+      <title>量子计算机首次实现自动纠错</title>
+      <link>https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[微型量子“冰箱”可以确保量子计算机的计算从一开始就无错误——无需监督，甚至无需新硬件]]></description>
+      <guid>https://www.newscientist.com/article/2463346-quantum-computers-get-automatic-error-correction-for-the-first-time/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Thu, 09 Jan 2025 10:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>加州野火因数月来的异常极端天气而加剧</title>
       <link>https://www.newscientist.com/article/2463340-california-wildfires-fuelled-by-months-of-unusual-extreme-weather/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能是否能辅助癌症检测一直备受争议，但现在一项针对近 200 名放射科医生的真实测试表明，该技术可以提高成功率]]></description>
       <guid>https://www.newscientist.com/article/2462534-ai-helps-radiologists-spot-breast-cancer-in-real-world-tests/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Tue, 07 Jan 2025 10:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国报告首例禽流感相关死亡病例</title>
-      <link>https://www.newscientist.com/article/2462815-us-reports-first-human-death-related-to-bird-flu/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[去年 12 月，路易斯安那州一名感染 H5N1 禽流感病毒的病人病情严重，现已去世，这是美国已知的首例禽流感死亡病例]]></description>
-      <guid>https://www.newscientist.com/article/2462815-us-reports-first-human-death-related-to-bird-flu/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Mon, 06 Jan 2025 22:08:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
