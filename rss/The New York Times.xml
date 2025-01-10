@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:37:21 GMT</lastBuildDate>
     <item>
-      <title>纽约检察官敦促最高法院允许特朗普继续宣判</title>
+      <title>最高法院驳回特朗普避免判刑的最后一搏</title>
       <link>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</link>
-      <description><![CDATA[最高法院即将决定是否于周五按计划对唐纳德·J·特朗普的 34 项重罪进行宣判。]]></description>
+      <description><![CDATA[法院以 5 比 4 的投票结果拒绝阻止对唐纳德·J·特朗普 (Donald J. Trump) 进行刑事判决后，他定于周五上午接受纽约法官的审理。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</guid>
-      <pubDate>Thu, 09 Jan 2025 21:01:37 GMT</pubDate>
+      <pubDate>Fri, 10 Jan 2025 00:36:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>一通电话如何让阿利托卷入特朗普忠诚度纠纷</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/alito-trump-phone-call-ethics.html</link>
+      <description><![CDATA[此次电话会议的焦点是阿利托大法官的一位前法律助理，在特朗普团队看来，此人必须证明自己对当选总统的忠诚。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/alito-trump-phone-call-ethics.html</guid>
+      <pubDate>Fri, 10 Jan 2025 00:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么总经理是大学体育界最热门的职位</title>
+      <link>https://www.nytimes.com/2025/01/09/business/college-sports-general-managers.html</link>
+      <description><![CDATA[随着球员获得高薪并且经常更换学校，大学越来越需要教练以外的人来组建球队。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/business/college-sports-general-managers.html</guid>
+      <pubDate>Thu, 09 Jan 2025 23:22:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官驳回拜登的《第九条修正案》规定，取消对跨性别学生的保护</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</link>
+      <description><![CDATA[该决定推翻了政府提出的禁止基于性别认同的歧视的规定。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</guid>
+      <pubDate>Thu, 09 Jan 2025 23:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>费特曼接受特朗普的会面邀请</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/fetterman-trump-meeting.html</link>
+      <description><![CDATA[这位宾夕法尼亚州民主党参议员是党内第一位宣布与当选总统唐纳德·J·特朗普会面的参议员，这是共和党三连胜即将开始的政治时代的标志。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/fetterman-trump-meeting.html</guid>
+      <pubDate>Thu, 09 Jan 2025 22:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普寻找健康威胁来证明其移民镇压是正当的</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/trump-title-42-migrants.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普的顾问花了数月时间试图找出一种能够帮助他们建立关闭边境理由的疾病。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/trump-title-42-migrants.html</guid>
+      <pubDate>Thu, 09 Jan 2025 22:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>参议院推进扩大被控犯罪的移民驱逐范围的法案</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/immigrants-crimes-senate.html</link>
+      <description><![CDATA[大多数民主党人与共和党人一起投票通过这项措施，该措施要求拘留和驱逐被指控犯有轻微罪行的无证移民。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/immigrants-crimes-senate.html</guid>
+      <pubDate>Thu, 09 Jan 2025 21:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普幕僚长苏西·威尔斯能保住职位吗？</title>
+      <link>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</link>
+      <description><![CDATA[在威尔斯前往华盛顿之际，特朗普世界里的观点是，这位当选总统最亲密的助手和资深战略家比任何人都更有机会获胜。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</guid>
+      <pubDate>Thu, 09 Jan 2025 21:35:18 GMT</pubDate>
     </item>
     <item>
       <title>吉米·卡特葬礼上罕见的总统团结景象</title>
@@ -20,18 +69,18 @@
       <pubDate>Thu, 09 Jan 2025 20:57:30 GMT</pubDate>
     </item>
     <item>
-      <title>法官驳回拜登的《第九条修正案》规定，取消对跨性别学生的保护</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</link>
-      <description><![CDATA[该决定推翻了政府提出的禁止基于性别认同的歧视的规定。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</guid>
-      <pubDate>Thu, 09 Jan 2025 20:49:44 GMT</pubDate>
+      <title>濒死体验领域的顶尖专家 Peter Fenwick 逝世，享年 89 岁</title>
+      <link>https://www.nytimes.com/2025/01/09/science/peter-fenwick-dead.html</link>
+      <description><![CDATA[他是一位神经精神病学家，正在研究意识，一位病人向他解释了所发生的事情，他意识到这种现象是真实存在的。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/science/peter-fenwick-dead.html</guid>
+      <pubDate>Thu, 09 Jan 2025 20:26:24 GMT</pubDate>
     </item>
     <item>
       <title>特朗普执政期间低失业率还能持续吗？</title>
       <link>https://www.nytimes.com/2025/01/09/business/economy/trump-unemployment-economy.html</link>
       <description><![CDATA[招聘速度放缓，但失业率仍处于违反经济常态的水平。新政府的重大政策变化可能会考验这种韧性。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/business/economy/trump-unemployment-economy.html</guid>
-      <pubDate>Thu, 09 Jan 2025 19:56:31 GMT</pubDate>
+      <pubDate>Thu, 09 Jan 2025 19:56:32 GMT</pubDate>
     </item>
     <item>
       <title>众议院通过法案，对以色列起诉的国际刑事法院官员实施制裁</title>
@@ -43,16 +92,9 @@
     <item>
       <title>30 年期抵押贷款利率攀升至 6.93%，创 7 月以来最高水平</title>
       <link>https://www.nytimes.com/2025/01/09/business/mortgage-rates-housing.html</link>
-      <description><![CDATA[借贷成本数月来一直在上涨，追随政府债券收益率。这一趋势可能会导致更多买家和卖家离场观望。]]></description>
+      <description><![CDATA[借贷成本数月来一直在上涨，追随政府债券收益率。这一趋势可能会导致更多买家和卖家退场观望。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/business/mortgage-rates-housing.html</guid>
       <pubDate>Thu, 09 Jan 2025 18:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年纽约市经济飙升。特朗普大变革迫在眉睫。</title>
-      <link>https://www.nytimes.com/2025/01/09/nyregion/nyc-economy-trump.html</link>
-      <description><![CDATA[这座城市已经收复了新冠疫情期间的大部分失地。唐纳德·J·特朗普重返白宫可能会颠覆这一复苏。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/nyregion/nyc-economy-trump.html</guid>
-      <pubDate>Thu, 09 Jan 2025 18:24:01 GMT</pubDate>
     </item>
     <item>
       <title>指挥家丹尼尔·哈丁兼职担任法航飞行员</title>
@@ -62,53 +104,11 @@
       <pubDate>Thu, 09 Jan 2025 17:56:55 GMT</pubDate>
     </item>
     <item>
-      <title>新日铁合并案发起人：美国钢铁面临严峻选择</title>
-      <link>https://www.nytimes.com/2025/01/09/business/ussteel-nippon-merger-future.html</link>
-      <description><![CDATA[这家曾经的巨头正在努力争取新日铁的收购。其他合作也可能面临障碍，而单独行动可能会迫使公司削减开支。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/ussteel-nippon-merger-future.html</guid>
-      <pubDate>Thu, 09 Jan 2025 17:39:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普幕僚长苏西·威尔斯能保住职位吗？</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</link>
-      <description><![CDATA[在威尔斯前往华盛顿之际，特朗普世界里的观点是，这位当选总统最亲密的助手和资深战略家比任何人都更有机会获胜。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</guid>
-      <pubDate>Thu, 09 Jan 2025 17:34:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>黎巴嫩选举陆军首席约瑟夫·奥恩为总统</title>
-      <link>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</link>
-      <description><![CDATA[由于该国经历了经济危机和毁灭性的战争，立法者 12 次未能选出国家元首。他们现在选定了军事领导人约瑟夫·奥恩。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/world/middleeast/lebanon-politics-president-parliament-vote.html</guid>
-      <pubDate>Thu, 09 Jan 2025 16:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院审理的 TikTok 案件将国家安全与言论自由对立起来</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/tiktok-supreme-court-national-security-free-speech.html</link>
-      <description><![CDATA[法院于周五审理了针对禁止该应用程序的法律的诉讼，当两项利益发生冲突时，法院做出了不同的裁决。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/tiktok-supreme-court-national-security-free-speech.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普重返白宫前，银行业已取得丰厚回报</title>
-      <link>https://www.nytimes.com/2025/01/09/business/economy/trump-bank-oversight.html</link>
-      <description><![CDATA[银行的游说活动阻碍了一项重要提案的通过，一位高级监管人员本周宣布将辞去领导职务。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/economy/trump-bank-oversight.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:01:24 GMT</pubDate>
-    </item>
-    <item>
       <title>《最后的歌舞女郎》评论：帕米拉·安德森光彩夺目</title>
       <link>https://www.nytimes.com/2025/01/09/movies/the-last-showgirl-review-pamela-anderson.html</link>
       <description><![CDATA[在吉亚·科波拉 (Gia Coppola) 执导的这部敏感而迷人的电影中，这位女演员扮演拉斯维加斯歌舞表演中即将结束最后一轮渔网舞表演的舞者。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/movies/the-last-showgirl-review-pamela-anderson.html</guid>
       <pubDate>Thu, 09 Jan 2025 10:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 面临美国禁令，还在全球发起法律战</title>
-      <link>https://www.nytimes.com/2025/01/09/technology/tiktok-ban-global-legal-battles.html</link>
-      <description><![CDATA[TikTok 正在挑战美国可能实施的禁令或强制出售给新东家的命运，但几年来，该公司一直在至少 20 个国家开展其他斗争。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/technology/tiktok-ban-global-legal-battles.html</guid>
-      <pubDate>Thu, 09 Jan 2025 05:00:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
