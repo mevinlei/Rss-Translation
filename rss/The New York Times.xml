@@ -1,16 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 06:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 11:47:04 GMT</lastBuildDate>
     <item>
-      <title>最高法院驳回特朗普就封口费案避免判刑的请求</title>
-      <link>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</link>
-      <description><![CDATA[法院以 5 比 4 的投票结果拒绝阻止对唐纳德·J·特朗普 (Donald J. Trump) 进行刑事判决后，他定于周五上午接受纽约法官的审理。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/nyregion/trump-sentencing-supreme-court.html</guid>
-      <pubDate>Fri, 10 Jan 2025 03:07:33 GMT</pubDate>
+      <title>TikTok 在最高法院</title>
+      <link>https://www.nytimes.com/2025/01/10/briefing/tiktok-at-the-supreme-court.html</link>
+      <description><![CDATA[我们解释了言论自由和国家安全经常如何发生冲突。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/briefing/tiktok-at-the-supreme-court.html</guid>
+      <pubDate>Fri, 10 Jan 2025 11:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶火灾死亡人数上升，TikTok 的最后机会</title>
+      <link>https://www.nytimes.com/2025/01/10/podcasts/death-toll-la-fires-trump-sentence.html</link>
+      <description><![CDATA[另外，我们也要和毛茸茸的“怪物史莱克”偶像告别了。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/podcasts/death-toll-la-fires-trump-sentence.html</guid>
+      <pubDate>Fri, 10 Jan 2025 11:19:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>听证会迫在眉睫，特朗普内阁党派之争升级</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/partisan-fight-trump-cabinet.html</link>
+      <description><![CDATA[民主党要求共和党减缓对新政府人选的考虑，直到他们能够审查背景调查为止，因为共和党面临着迅速确认人选的巨大压力。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/partisan-fight-trump-cabinet.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院将审理针对可能关闭 TikTok 的法律的诉讼</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/supreme-court-tiktok-ban-law.html</link>
+      <description><![CDATA[预计法官将对此案迅速作出裁决，该案将对中国的国家安全担忧与第一修正案对言论自由的保护进行了对立。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/supreme-court-tiktok-ban-law.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>真主党势力减弱，黎巴嫩政治局势翻开新篇章</title>
+      <link>https://www.nytimes.com/2025/01/10/world/middleeast/lebanon-hezbollah-politics.html</link>
+      <description><![CDATA[战争的惨败使得这个曾经不可撼动的群体陷入了多年来最不确定的境地。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/world/middleeast/lebanon-hezbollah-politics.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济学家陷入困境。他们能找到重获影响力的途径吗？</title>
+      <link>https://www.nytimes.com/2025/01/10/business/economy/economists-politics-trump.html</link>
+      <description><![CDATA[长期以来，经济学家一直在帮助制定税收和医疗保健等政策。但错误的预测和晦涩难懂的语言让他们失去了信誉。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/business/economy/economists-politics-trump.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果 TikTok 被禁，您还能使用吗？用户应该了解有关该应用程序的哪些信息。</title>
+      <link>https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html</link>
+      <description><![CDATA[这款社交媒体应用很可能马上从谷歌和苹果的应用商店中消失。但目前还不清楚用户是否会完全失去访问权限。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:01:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约的中国异见人士以为他是盟友。其实他是间谍。</title>
+      <link>https://www.nytimes.com/2025/01/10/magazine/china-spy-dissidents-new-york.html</link>
+      <description><![CDATA[王淑君似乎是一名中国民主活动人士，但联邦调查局的调查显示了中国在压制海外公民方面会走多远。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/magazine/china-spy-dissidents-new-york.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普选择了 8 位经济专家来捍卫关税和减税</title>
+      <link>https://www.nytimes.com/2025/01/10/business/economy/trump-economic-advisers-bessent.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普已经摆脱了第一任期内的竞争对手团队策略，并选择了捍卫关税和减税的经济助手。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/business/economy/trump-economic-advisers-bessent.html</guid>
+      <pubDate>Fri, 10 Jan 2025 10:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>通货紧缩担忧笼罩经济 中国央行停止购买债券</title>
+      <link>https://www.nytimes.com/2025/01/10/business/china-central-bank-bonds.html</link>
+      <description><![CDATA[这一意外举措旨在抑制债券市场因投资者回避股票和房地产等风险较高资产而引发的潜在泡沫。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/business/china-central-bank-bonds.html</guid>
+      <pubDate>Fri, 10 Jan 2025 09:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院对特朗普量刑的谴责表明其存在分歧</title>
+      <link>https://www.nytimes.com/2025/01/09/us/supreme-court-trump-hush-money.html</link>
+      <description><![CDATA[两位共和党任命的法官，首席大法官罗伯茨和大法官巴雷特，与法院的三位自由派人士一起下令当选总统于周五接受宣判。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/supreme-court-trump-hush-money.html</guid>
+      <pubDate>Fri, 10 Jan 2025 03:12:40 GMT</pubDate>
     </item>
     <item>
       <title>上诉法院拒绝阻止发布特别检察官关于特朗普案件的报告</title>
@@ -20,46 +90,11 @@
       <pubDate>Fri, 10 Jan 2025 02:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>因反同性恋政治观点毁掉歌唱事业的安妮塔·布莱恩特去世，享年 84 岁</title>
-      <link>https://www.nytimes.com/2025/01/09/arts/music/anita-bryant-dead.html</link>
-      <description><![CDATA[这位前选美皇后和佛罗里达橙汁的发言人在开始反对 LGBTQ 权利的运动之前是一位全美艺人。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/arts/music/anita-bryant-dead.html</guid>
-      <pubDate>Fri, 10 Jan 2025 02:41:22 GMT</pubDate>
-    </item>
-    <item>
       <title>一通电话如何让阿利托卷入特朗普忠诚度纠纷</title>
       <link>https://www.nytimes.com/2025/01/09/us/politics/alito-trump-phone-call-ethics.html</link>
       <description><![CDATA[此次通话的焦点是阿利托大法官的一名前法律助理。在特朗普团队看来，这名助理仍需证明自己对候任总统的忠诚。]]></description>
       <guid>https://www.nytimes.com/2025/01/09/us/politics/alito-trump-phone-call-ethics.html</guid>
       <pubDate>Fri, 10 Jan 2025 01:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿缅怀吉米·卡特为“行善之人”</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/jimmy-carter-funeral.html</link>
-      <description><![CDATA[在盛大的国葬仪式上，哀悼者们向卡特先生表示敬意，并认为他是一位比许多人记忆中更成功的领导人。“是时候挽回他的总统任期了，”一位前助手说。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/jimmy-carter-funeral.html</guid>
-      <pubDate>Fri, 10 Jan 2025 00:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么总经理是大学体育界最热门的职位</title>
-      <link>https://www.nytimes.com/2025/01/09/business/college-sports-general-managers.html</link>
-      <description><![CDATA[随着球员获得高薪并且经常更换学校，大学越来越需要教练以外的人来组建球队。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/business/college-sports-general-managers.html</guid>
-      <pubDate>Thu, 09 Jan 2025 23:22:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官驳回拜登的《第九条修正案》规定，取消对跨性别学生的保护</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</link>
-      <description><![CDATA[该决定推翻了政府提出的禁止基于性别认同的歧视的规定。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/biden-title-ix-ruling.html</guid>
-      <pubDate>Thu, 09 Jan 2025 23:17:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>费特曼接受特朗普的会面邀请</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/fetterman-trump-meeting.html</link>
-      <description><![CDATA[这位宾夕法尼亚州民主党参议员是党内第一位宣布与当选总统唐纳德·J·特朗普会面的参议员，这是共和党三连胜即将开始的政治时代的标志。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/fetterman-trump-meeting.html</guid>
-      <pubDate>Thu, 09 Jan 2025 22:45:42 GMT</pubDate>
     </item>
     <item>
       <title>特朗普寻找健康威胁来证明其移民镇压是正当的</title>
@@ -69,46 +104,11 @@
       <pubDate>Thu, 09 Jan 2025 22:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>性格塑造工具包</title>
-      <link>https://www.nytimes.com/2025/01/09/opinion/character-building-education.html</link>
-      <description><![CDATA[学会关心他人或共同利益应该成为教育的基本组成部分。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/opinion/character-building-education.html</guid>
-      <pubDate>Thu, 09 Jan 2025 22:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>参议院推进扩大被控犯罪的移民驱逐范围的法案</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/immigrants-crimes-senate.html</link>
-      <description><![CDATA[大多数民主党人与共和党人一起投票通过这项措施，该措施要求拘留和驱逐被指控犯有轻微罪行的无证移民。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/immigrants-crimes-senate.html</guid>
-      <pubDate>Thu, 09 Jan 2025 21:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普幕僚长苏西·威尔斯能保住职位吗？</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</link>
-      <description><![CDATA[在威尔斯前往华盛顿之际，特朗普世界里的观点是，这位当选总统最亲密的助手和资深战略家比任何人都更有机会获胜。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/susie-wiles-trump.html</guid>
-      <pubDate>Thu, 09 Jan 2025 21:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉米·卡特葬礼上罕见的总统团结景象</title>
-      <link>https://www.nytimes.com/2025/01/09/style/jimmy-carter-funeral-trump.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普成为该俱乐部的一员。梅拉尼娅·特朗普加入第一夫人行列。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/style/jimmy-carter-funeral-trump.html</guid>
-      <pubDate>Thu, 09 Jan 2025 20:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>众议院通过法案，对以色列起诉的国际刑事法院官员实施制裁</title>
-      <link>https://www.nytimes.com/2025/01/09/us/politics/icc-sanctions-house-israel.html</link>
-      <description><![CDATA[由于该法案得到了目前控制参议院的共和党人和当选总统唐纳德·J·特朗普的大力支持，这一举措有望得以颁布。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/us/politics/icc-sanctions-house-israel.html</guid>
-      <pubDate>Thu, 09 Jan 2025 19:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>《最后的歌舞女郎》评论：帕米拉·安德森光彩夺目</title>
-      <link>https://www.nytimes.com/2025/01/09/movies/the-last-showgirl-review-pamela-anderson.html</link>
-      <description><![CDATA[在吉亚·科波拉 (Gia Coppola) 执导的这部敏感而迷人的电影中，这位女演员扮演拉斯维加斯歌舞表演中即将结束最后一轮渔网舞表演的舞者。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/movies/the-last-showgirl-review-pamela-anderson.html</guid>
-      <pubDate>Thu, 09 Jan 2025 10:01:16 GMT</pubDate>
+      <title>露丝博士留下的东西</title>
+      <link>https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html</link>
+      <description><![CDATA[金赛研究所的档案管理员正在帮助性治疗师露丝·韦斯特海默的家人解决一个常见的难题：你保留了多少人的遗物？]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/arts/dr-ruth-kinsey-sex.html</guid>
+      <pubDate>Thu, 09 Jan 2025 15:44:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
