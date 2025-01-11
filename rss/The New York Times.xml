@@ -1,16 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 17:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:05:24 GMT</lastBuildDate>
+    <item>
+      <title>特朗普的亿万富翁财政部长人选斯科特·贝森特将出售资产以避免冲突</title>
+      <link>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</link>
+      <description><![CDATA[财务披露表显示，其资产达数亿，包括巴哈马的房产、比特币投资以及做空人民币的押注。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</guid>
+      <pubDate>Sat, 11 Jan 2025 19:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>太平洋帕利塞兹大火或将考验盖蒂中心保护其艺术藏品的努力</title>
+      <link>https://www.nytimes.com/2025/01/11/us/getty-center-museum-pacific-palisades-fire.html</link>
+      <description><![CDATA[该博物馆自称是“火灾期间保护艺术品最安全的地方”，目前正处于强制疏散区。一位发言人表示，博物馆没有受到损坏。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/us/getty-center-museum-pacific-palisades-fire.html</guid>
+      <pubDate>Sat, 11 Jan 2025 19:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名重罪犯，特朗普颠覆了美国人对总统职位的看法</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/trump-felon-presidency.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普多年来一直努力抹黑针对他的所有刑事和民事案件，称其不过是出于政治动机的政治迫害。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/trump-felon-presidency.html</guid>
+      <pubDate>Sat, 11 Jan 2025 19:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>曼哈顿拥堵收费会对餐馆产生什么影响？</title>
+      <link>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</link>
+      <description><![CDATA[新的收费实施几天后，一些餐馆老板表示供应商正在提高价格。其他一些餐馆则为顾客提供折扣，许多人担心这会给员工带来影响。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</guid>
+      <pubDate>Sat, 11 Jan 2025 18:54:54 GMT</pubDate>
+    </item>
     <item>
       <title>黎巴嫩总理会见叙利亚领导人</title>
       <link>https://www.nytimes.com/2025/01/11/world/middleeast/syria-lebanon.html</link>
       <description><![CDATA[黎巴嫩总理纳吉布·米卡提的来访是这位黎巴嫩领导人首次正式会见叙利亚新政府。]]></description>
       <guid>https://www.nytimes.com/2025/01/11/world/middleeast/syria-lebanon.html</guid>
       <pubDate>Sat, 11 Jan 2025 17:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会推动新父母代理投票获得两党支持</title>
+      <link>https://www.nytimes.com/2025/01/11/us/politics/congress-proxy-voting-parental-leave.html</link>
+      <description><![CDATA[一群年轻的议员正在敦促修改众议院规则，允许新父母议员远程投票。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/us/politics/congress-proxy-voting-parental-leave.html</guid>
+      <pubDate>Sat, 11 Jan 2025 17:06:05 GMT</pubDate>
     </item>
     <item>
       <title>远离火灾，烟雾的致命风险正在加剧</title>
@@ -25,13 +60,6 @@
       <description><![CDATA[总统泽连斯基表示，这些士兵是在西部库尔斯克地区被俘的，乌克兰一直在该地区战斗，以保住去年夏天占领的领土。]]></description>
       <guid>https://www.nytimes.com/2025/01/11/world/europe/ukraine-north-korea-kursk.html</guid>
       <pubDate>Sat, 11 Jan 2025 15:40:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家称特朗普和共和党无法阻止电动汽车</title>
-      <link>https://www.nytimes.com/2025/01/11/business/energy-environment/trump-republicans-electric-vehicles-automakers.html</link>
-      <description><![CDATA[随着价格下降和技术进步，预计即使拜登时代的激励措施消失，也会有更多购车者最终选择电池驱动的汽车和卡车。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/business/energy-environment/trump-republicans-electric-vehicles-automakers.html</guid>
-      <pubDate>Sat, 11 Jan 2025 15:29:14 GMT</pubDate>
     </item>
     <item>
       <title>以色列在叙利亚边境地区的行动引发人们对其计划继续驻扎的担忧</title>
@@ -55,20 +83,6 @@
       <pubDate>Sat, 11 Jan 2025 13:57:44 GMT</pubDate>
     </item>
     <item>
-      <title>尽管多年丑闻缠身，马德雷如何成为纽约警察局的高级警官</title>
-      <link>https://www.nytimes.com/2025/01/11/nyregion/jeffrey-maddrey-nypd-scandals.html</link>
-      <description><![CDATA[前部门负责人杰弗里·马德雷在布鲁克林巡逻时建立了人脉。这似乎让他在针对他的诉讼和严重指控不断增加时免受伤害。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/nyregion/jeffrey-maddrey-nypd-scandals.html</guid>
-      <pubDate>Sat, 11 Jan 2025 13:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州野火是气候变化引发的最新灾难</title>
-      <link>https://www.nytimes.com/2025/01/10/climate/california-fires-climate-change-disasters.html</link>
-      <description><![CDATA[科学家说，极端天气事件——致命的热浪、洪水、火灾和飓风——是全球变暖的后果。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/climate/california-fires-climate-change-disasters.html</guid>
-      <pubDate>Sat, 11 Jan 2025 13:23:40 GMT</pubDate>
-    </item>
-    <item>
       <title>《采访》：本·斯蒂勒知道《遣散》的结局</title>
       <link>https://www.nytimes.com/2025/01/11/magazine/ben-stiller-interview.html</link>
       <description><![CDATA[这位演员兼导演讨论了这部热播剧集期待已久的回归、使他成为明星的喜剧以及与他名人父母一起成长的经历。]]></description>
@@ -78,37 +92,23 @@
     <item>
       <title>洛杉矶正在上演一场真实的灾难故事</title>
       <link>https://www.nytimes.com/2025/01/11/arts/television/los-angeles-fires-disaster.html</link>
-      <description><![CDATA[这位来自洛杉矶的记者多年来一直看着电影和电视上对她的家乡进行的毁灭性打击，但却无法让人做好看到真正毁灭性的灾难的准备。]]></description>
+      <description><![CDATA[这位来自洛杉矶的记者多年来一直看着电影和电视上对她的家乡造成的破坏，但却无法让人做好看到真正灾难的准备。]]></description>
       <guid>https://www.nytimes.com/2025/01/11/arts/television/los-angeles-fires-disaster.html</guid>
       <pubDate>Sat, 11 Jan 2025 10:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>曼哈顿拥堵收费会对餐馆产生什么影响？</title>
-      <link>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</link>
-      <description><![CDATA[新的收费实施几天后，一些餐馆老板表示供应商正在提高价格。其他一些餐馆则为顾客提供折扣，许多人担心这会给员工带来影响。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</guid>
-      <pubDate>Sat, 11 Jan 2025 10:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管特朗普发起攻击，共和党在邮寄投票中取得巨大进展</title>
+      <title>尽管特朗普发起攻击，共和党在邮寄投票中仍取得巨大进展</title>
       <link>https://www.nytimes.com/2025/01/11/us/politics/trump-2024-election-mail-votes.html</link>
       <description><![CDATA[由于共和党选民接受了唐纳德·J·特朗普多年来一直反对的做法，并在 2024 年略微软化了他的语气，该党在全国范围内削弱了民主党的一个关键优势。]]></description>
       <guid>https://www.nytimes.com/2025/01/11/us/politics/trump-2024-election-mail-votes.html</guid>
       <pubDate>Sat, 11 Jan 2025 10:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>见见那些盛装参加成人礼的拉丁裔男孩</title>
-      <link>https://www.nytimes.com/2025/01/11/us/quinceanera-boys-quinceanero.html</link>
-      <description><![CDATA[在美国，男孩们为庆祝自己步入成年都会举办自己的成人礼派对，而且通常十分奢华，这是对几个世纪以来仅供女孩参加的传统的全新诠释。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/us/quinceanera-boys-quinceanero.html</guid>
-      <pubDate>Sat, 11 Jan 2025 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名重罪犯，特朗普颠覆了美国人对总统职位的看法</title>
-      <link>https://www.nytimes.com/2025/01/10/us/politics/trump-felon-presidency.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普多年来一直努力抹黑针对他的所有刑事和民事案件，称其不过是出于政治动机的政治迫害。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/politics/trump-felon-presidency.html</guid>
-      <pubDate>Sat, 11 Jan 2025 02:06:04 GMT</pubDate>
+      <title>他是 NFL 球员。她收到了签名请求。</title>
+      <link>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</link>
+      <description><![CDATA[通过记录职业运动员妻子跌宕起伏的生活方式，艾莉森·库查尔奇克的名气已经超越了她的职业运动员丈夫。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</guid>
+      <pubDate>Sat, 11 Jan 2025 10:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
