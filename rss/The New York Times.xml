@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 03:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 05:44:42 GMT</lastBuildDate>
     <item>
-      <title>活力灵魂二人组成员 Sam Moore 逝世，享年 89 岁</title>
+      <title>李光耀故居之争</title>
+      <link>https://www.nytimes.com/2025/01/11/world/asia/singapore-lee-kuan-yew-house.html</link>
+      <description><![CDATA[该国开国元勋的一位儿子表示，他因与哥哥不和而受到政府的迫害，他的哥哥在梅之前一直担任总理。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/world/asia/singapore-lee-kuan-yew-house.html</guid>
+      <pubDate>Sat, 11 Jan 2025 05:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶公用事业公司维持供电的决定受到审查</title>
+      <link>https://www.nytimes.com/2025/01/10/us/california-fires-la-power.html</link>
+      <description><![CDATA[能源专家表示，为该地区提供服务的公用事业公司决定在大风期间不关闭许多电线，这可能会增加火灾的风险。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/california-fires-la-power.html</guid>
+      <pubDate>Sat, 11 Jan 2025 03:51:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定朱利安尼藐视法庭，因其持续诽谤选举工作人员</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</link>
+      <description><![CDATA[11月，唐纳德·J·特朗普赢得2024年总统大选后，鲁迪·朱利安尼至少四次重复对这些女性的指控。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</guid>
+      <pubDate>Sat, 11 Jan 2025 03:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>活力灵魂二人组 Sam & Dave 成员 Sam Moore 去世，享年 89 岁</title>
       <link>https://www.nytimes.com/2025/01/10/arts/music/sam-moore-dead.html</link>
-      <description><![CDATA[摩尔先生和戴夫·普拉特（Dave Prater，更为人熟知的名字是“山姆和戴夫”）凭借《灵魂乐手》（Soul Man）和《坚持下去，我来》（Hold On, I’m Comin’）等经典热门歌曲席卷了 R&amp;B 和流行音乐排行榜。]]></description>
+      <description><![CDATA[摩尔先生和戴夫·普拉特以《灵魂乐手》和《坚持下去，我来》等经典热门歌曲席卷了 R&amp;B 和流行音乐排行榜。]]></description>
       <guid>https://www.nytimes.com/2025/01/10/arts/music/sam-moore-dead.html</guid>
-      <pubDate>Sat, 11 Jan 2025 03:08:22 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 03:26:15 GMT</pubDate>
     </item>
     <item>
       <title>监管机构要求巴尔的摩药物项目“停止并终止”</title>
@@ -48,20 +69,6 @@
       <pubDate>Sat, 11 Jan 2025 00:50:34 GMT</pubDate>
     </item>
     <item>
-      <title>朱利安尼因持续诽谤选举工作人员被判藐视法庭</title>
-      <link>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</link>
-      <description><![CDATA[11月，唐纳德·J·特朗普赢得2024年总统大选后，鲁迪·朱利安尼至少四次重复对这些女性的指控。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</guid>
-      <pubDate>Sat, 11 Jan 2025 00:30:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>那些同样燃烧的记忆</title>
-      <link>https://www.nytimes.com/2025/01/10/us/southern-california-fires-memories.html</link>
-      <description><![CDATA[在萨克拉门托报道加州新闻的肖恩·胡布勒 (Shawn Hubler) 详细描述了野火对个人和心理造成的伤害。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/southern-california-fires-memories.html</guid>
-      <pubDate>Fri, 10 Jan 2025 23:31:09 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普成为首位因重罪犯被判刑的总统</title>
       <link>https://www.nytimes.com/video/us/100000009919484/trump-is-first-president-to-be-sentenced-as-a-felon.html</link>
       <description><![CDATA[当选总统唐纳德·J·特朗普的纽约刑事案件最终使他免于入狱，但他将成为第一位入主白宫的重罪犯。]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[这款社交媒体应用很可能马上从谷歌和苹果的应用商店中消失。但目前还不清楚用户是否会完全失去访问权限。]]></description>
       <guid>https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html</guid>
       <pubDate>Fri, 10 Jan 2025 18:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>鲍勃·迪伦正在好莱坞大放异彩。他的头号仇敌已经做好准备。</title>
-      <link>https://www.nytimes.com/2025/01/10/nyregion/bob-dylan-nemesis.html</link>
-      <description><![CDATA[A.J. 韦伯曼仔细研究了这位预言歌手的垃圾，寻找其中的意义。他指责这位歌手是个叛徒，并花了几十年时间试图将他重新塑造成反主流文化的拥护者。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/nyregion/bob-dylan-nemesis.html</guid>
-      <pubDate>Fri, 10 Jan 2025 16:02:46 GMT</pubDate>
     </item>
     <item>
       <title>特朗普获无条件退伍。这意味着什么？</title>
