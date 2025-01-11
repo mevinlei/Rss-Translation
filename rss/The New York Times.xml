@@ -1,23 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Jan 2025 21:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:30:15 GMT</lastBuildDate>
     <item>
-      <title>拜登在特朗普就职前发布全面驱逐保护措施</title>
-      <link>https://www.nytimes.com/2025/01/10/us/politics/biden-temporary-protected-status-immigration.html</link>
-      <description><![CDATA[此举允许数十万来自苏丹、乌克兰和委内瑞拉的人员暂时留在该国。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/politics/biden-temporary-protected-status-immigration.html</guid>
-      <pubDate>Fri, 10 Jan 2025 21:05:55 GMT</pubDate>
+      <title>朱利安尼因持续诽谤选举工作人员被判藐视法庭</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</link>
+      <description><![CDATA[11月，唐纳德·J·特朗普赢得2024年总统大选后，鲁迪·朱利安尼至少四次重复对这些女性的指控。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/giuliani-contempt-defamation-election-workers.html</guid>
+      <pubDate>Sat, 11 Jan 2025 00:30:15 GMT</pubDate>
     </item>
     <item>
       <title>揭秘马克·扎克伯格为特朗普时代重塑 Meta 的冲刺</title>
       <link>https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html</link>
       <description><![CDATA[去年 11 月拜访候任总统唐纳德·特朗普后，扎克伯格决定放宽 Meta 的言论政策。他要求一个小团队在几周内实现他的目标。其影响才刚刚开始。]]></description>
       <guid>https://www.nytimes.com/2025/01/10/technology/meta-mark-zuckerberg-trump.html</guid>
-      <pubDate>Fri, 10 Jan 2025 20:49:24 GMT</pubDate>
+      <pubDate>Fri, 10 Jan 2025 23:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>那些同样燃烧的记忆</title>
+      <link>https://www.nytimes.com/2025/01/10/us/southern-california-fires-memories.html</link>
+      <description><![CDATA[在萨克拉门托报道加州新闻的肖恩·胡布勒 (Shawn Hubler) 详细描述了野火对个人和心理造成的伤害。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/southern-california-fires-memories.html</guid>
+      <pubDate>Fri, 10 Jan 2025 23:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶大火的受害者是谁？</title>
+      <link>https://www.nytimes.com/2025/01/09/us/california-fires-victims.html</link>
+      <description><![CDATA[据报道，洛杉矶大火已造成至少 11 人死亡。其中五人住在阿尔塔迪纳一个被大火烧毁的街区，彼此相邻。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/us/california-fires-victims.html</guid>
+      <pubDate>Fri, 10 Jan 2025 23:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普被判无期徒刑，但他将以重罪犯身份就任</title>
+      <link>https://www.nytimes.com/2025/01/10/nyregion/trump-hush-money-sentencing-convicted-felon.html</link>
+      <description><![CDATA[胡安·M·默坎法官对唐纳德·J·特朗普进行了象征性惩罚。法官表示，宽大处理应针对总统职位，而不是即将担任总统的人。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/nyregion/trump-hush-money-sentencing-convicted-felon.html</guid>
+      <pubDate>Fri, 10 Jan 2025 23:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院似乎准备支持禁止 TikTok 的法律</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/supreme-court-tiktok-ban-law.html</link>
+      <description><![CDATA[预计法官将对此案迅速作出裁决，该案将对中国的国家安全担忧与第一修正案对言论自由的保护进行了对立。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/supreme-court-tiktok-ban-law.html</guid>
+      <pubDate>Fri, 10 Jan 2025 21:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登在特朗普就职前发布全面驱逐保护措施</title>
+      <link>https://www.nytimes.com/2025/01/10/us/politics/biden-temporary-protected-status-immigration.html</link>
+      <description><![CDATA[此举允许数十万来自苏丹、乌克兰和委内瑞拉的人员暂时留在该国。]]></description>
+      <guid>https://www.nytimes.com/2025/01/10/us/politics/biden-temporary-protected-status-immigration.html</guid>
+      <pubDate>Fri, 10 Jan 2025 21:05:55 GMT</pubDate>
     </item>
     <item>
       <title>特朗普第二任期前跨境人数继续下降</title>
@@ -41,13 +76,6 @@
       <pubDate>Fri, 10 Jan 2025 19:48:15 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普集团发布当选总统第二任期道德承诺</title>
-      <link>https://www.nytimes.com/2025/01/10/us/politics/trump-ethics-conflicts-of-interest.html</link>
-      <description><![CDATA[这些措施包括任命外部律师和限制特朗普获取详细财务信息的权限，道德律师立即称这些措施不够充分。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/politics/trump-ethics-conflicts-of-interest.html</guid>
-      <pubDate>Fri, 10 Jan 2025 19:25:54 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普刑事判决的启示</title>
       <link>https://www.nytimes.com/2025/01/10/nyregion/trump-hush-money-sentencing-takeaways.html</link>
       <description><![CDATA[周五的惩罚在很大程度上是象征性的，但它确保唐纳德·J·特朗普成为美国第一位重罪犯总统。]]></description>
@@ -55,25 +83,11 @@
       <pubDate>Fri, 10 Jan 2025 19:15:51 GMT</pubDate>
     </item>
     <item>
-      <title>美国 12 月新增就业岗位 256,000 个</title>
-      <link>https://www.nytimes.com/2025/01/10/business/economy/jobs-report-december.html</link>
-      <description><![CDATA[12 月份新增就业人数 256,000 人，超出预期，失业率降至 4.2%。但随着降息似乎越来越遥不可及，市场出现了回调。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/business/economy/jobs-report-december.html</guid>
-      <pubDate>Fri, 10 Jan 2025 19:11:17 GMT</pubDate>
-    </item>
-    <item>
       <title>如果 TikTok 被禁，您还能使用吗？用户应该了解有关该应用程序的哪些信息。</title>
       <link>https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html</link>
       <description><![CDATA[这款社交媒体应用很可能马上从谷歌和苹果的应用商店中消失。但目前还不清楚用户是否会完全失去访问权限。]]></description>
       <guid>https://www.nytimes.com/2025/01/10/technology/tiktok-ban-app-users.html</guid>
       <pubDate>Fri, 10 Jan 2025 18:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普议程面临的重大挑战：反复无常的教练发号施令</title>
-      <link>https://www.nytimes.com/2025/01/10/us/politics/trump-agenda-republicans.html</link>
-      <description><![CDATA[这位候任总统告诫共和党人要团结一致，支持他雄心勃勃的国内政策计划。但他在国会的过往表现却是突然转变和最后一刻的闹剧。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/us/politics/trump-agenda-republicans.html</guid>
-      <pubDate>Fri, 10 Jan 2025 17:00:23 GMT</pubDate>
     </item>
     <item>
       <title>特朗普宣判前夕，一场不同寻常的艺术画廊开幕</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[这一罕见的宽大判决将使当选总统唐纳德·J·特朗普免于入狱，并因其不寻常的身份而受到惩罚。]]></description>
       <guid>https://www.nytimes.com/2025/01/10/nyregion/unconditional-discharge-trump.html</guid>
       <pubDate>Fri, 10 Jan 2025 15:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶艺术家哀悼他们的工作室和艺术品化为灰烬</title>
-      <link>https://www.nytimes.com/2025/01/10/arts/design/los-angeles-artists-fire-destroyed.html</link>
-      <description><![CDATA[生活和工作在阿尔塔迪纳和太平洋帕利塞德地区的艺术家们正在担心无法弥补的损失和他们的生计。]]></description>
-      <guid>https://www.nytimes.com/2025/01/10/arts/design/los-angeles-artists-fire-destroyed.html</guid>
-      <pubDate>Fri, 10 Jan 2025 14:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>野火吞噬建筑瑰宝，对“老加州”造成冲击</title>
-      <link>https://www.nytimes.com/2025/01/09/arts/design/architecture-fires-california-los-angeles-rogers-eames.html</link>
-      <description><![CDATA[威尔·罗杰斯 (Will Rogers) 历史悠久的牧场住宅和雷·卡佩 (Ray Kappe) 的重要住所被大火摧毁，这对洛杉矶的辉煌设计遗产构成了威胁。]]></description>
-      <guid>https://www.nytimes.com/2025/01/09/arts/design/architecture-fires-california-los-angeles-rogers-eames.html</guid>
-      <pubDate>Fri, 10 Jan 2025 00:11:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
