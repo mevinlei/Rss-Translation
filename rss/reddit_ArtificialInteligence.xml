@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 18:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 21:08:24 GMT</lastBuildDate>
+    <item>
+      <title>利用机器学习和可解释的人工智能检测教育内容中的人工智能生成文本</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzwpxq/detecting_aigenerated_text_in_educational_content/</link>
+      <description><![CDATA[标题：“利用机器学习和可解释的人工智能检测教育内容中的人工智能生成文本” 我每天都在寻找和总结有趣的人工智能研究论文，这样你就不必费尽心思去阅读它们了。今天的论文题为“检测教育内容中的人工智能生成文本：利用机器学习和可解释的人工智能实现学术诚信”，作者是 Ayat A. Najjar、Huthaifa I. Ashqar、Omar A. Darwish 和 Eman Hammad。 本文提供了一种创新方法，即利用机器学习和可解释的人工智能检测教育环境中的人工智能生成内容，从而保持学术诚信。它引入了 Cyber​​HumanAI 数据集，该数据集具有均衡数量的人类和 AI 生成的文本，以提高检测准确性和对语言模型输出的理解。 论文要点：  Cyber​​HumanAI 数据集：该研究引入了一个独特的数据集，该数据集包含 1,000 个观测值，人类编写的内容和 AI 生成的内容各占一半，特别关注网络安全主题。该数据集构成了评估 ML 和 DL 算法的基础。 模型性能：传统机器学习模型，尤其是 XGBoost 和随机森林，表现出令人印象深刻的性能，在区分 AI 生成的文本和人类编写的内容方面分别达到了 83% 和 81% 的准确率。这表明它们在学术内容审核方面具有潜在用途。 文本分类中的挑战：研究发现，对较短内容进行分类比对较长的文本更具挑战性，这种困难归因于较短片段中的上下文信息较少。 可解释的人工智能：该研究利用可解释的人工智能技术来阐明机器学习模型使用的判别特征。人类撰写的文本通常包含实用语言，而人工智能输出则具有更抽象的语言模式。 与 GPTZero 的比较：所提出的模型在准确性上超越了 GPTZero，特别是在特定的分类任务中。它强调，经过微调的、针对特定任务的模型在某些情况下可能优于通用 AI 检测器。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzwpxq/detecting_aigenerated_text_in_educational_content/</guid>
+      <pubDate>Sun, 12 Jan 2025 20:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似《疑犯追踪》中的机器的人工智能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzu46h/ai_like_the_machine_from_person_of_interest/</link>
+      <description><![CDATA[一种从实时视频源获取输入并做出相应反应的人工智能。它可以看到并识别物体。它是实时训练的，但已经理解语言。类似这样：https://www.tiktok.com/@seriescontentt/video/7391146390832860449 这样的东西已经存在了吗？如果没有，如何制作一个？    提交人    /u/tomasalias   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzu46h/ai_like_the_machine_from_person_of_interest/</guid>
+      <pubDate>Sun, 12 Jan 2025 19:05:53 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以深入学习 NLP 的 AI 研究员职位的朋友</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzr2o1/searching_for_pals_to_study_deeply_nlp_for_ai/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>高中新生如何开始接触 AI？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hznubx/how_to_get_started_with_ai_as_a_high_school/</link>
-      <description><![CDATA[我想进入人工智能领域，但我不知道从哪里开始或做什么。我应该从哪里开始实现制作自己的人工智能的目标？    提交人    /u/Affanwasif   [link] [评论]]]></description>
+      <description><![CDATA[我想进入人工智能领域，但我不知道从哪里开始或做什么。我应该从哪里开始实现制作自己的人工智能的目标？ 编辑 - 我没有把我的问题说清楚，我想制作自己的模型并学习编程等等。    提交人    /u/Affanwasif   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hznubx/how_to_get_started_with_ai_as_a_high_school/</guid>
       <pubDate>Sun, 12 Jan 2025 14:29:48 GMT</pubDate>
     </item>
@@ -69,25 +83,11 @@
       <pubDate>Sun, 12 Jan 2025 09:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>帮助动漫 AI 提供视频提示</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</link>
-      <description><![CDATA[大家好。你们中的一些人可能已经知道，我经营着一个很小的 ​​YouTube 频道，我在那里尝试人工智能，以一种模拟未来环境的方式，我们人类/超人类使用它来创建软件和内容以供立即使用/消费。上周，我主动购买了三大视频服务 Hailuo、Haiper 和 Vidu 的所有付费套餐，最初是为了制作一个音乐视频，但后来它变成了一部 90 年代经典动漫电影的预告片。我在 YouTube 上看过其他动漫 AI 的东西，并完全受到了启发，但经过一周的不懈努力，我并没有得到我真正想要的东西。在几个视频的帮助下，我设法制作了一些东西。很酷，有一个故事，但做起来太难了，最终的结果远不如我见过的其他东西那么令人惊叹。那么秘诀是什么呢？我从 Midjourney 开始创建一些关键帧，然后将三个视频服务相互配合。我描述了场景、心情、氛围和风格以及灵感，但仍然感觉随机的废话优先于提示中的细节。我的两个视频已经发布，一个解释了我的过程，另一个是实际的预告片，我发表了一条置顶评论，说我计划在对提示写作进行更多研究后再次重新审视这个项目。所以这是这项研究的第一步，有人可以帮忙吗？谢谢。    提交人    /u/badassbradders   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzin2o/help_with_video_prompts_for_anime_ai/</guid>
-      <pubDate>Sun, 12 Jan 2025 08:50:58 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 的建议会推动有或无理由的道德判断</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hzimfi/chatgpts_advice_drives_moral_judgments_with_or/</link>
       <description><![CDATA[标题：“ChatGPT 的建议无论有无理由都会推动道德判断” 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费尽心思去阅读它们了。今天的论文题为“ChatGPT 的建议无论有无理由都会推动道德判断”，作者是 Sebastian Kruegel、Andreas Ostermaier 和 Matthias Uhl。 本文探讨了 AI，特别是像 ChatGPT 这样的聊天机器人，在指导用户道德决策方面日益增长的影响力。通过使用电车难题的在线实验，研究人员研究了个人是否依赖 ChatGPT 的建议（无论是合理的还是不合理的），以及它对道德判断的影响。以下是一些有趣的发现：  超越理由的影响力：研究发现，无论建议是否附带推理，ChatGPT 的建议都会影响用户的道德决策。令人惊讶的是，当建议归因于人类道德顾问而不是人工智能时，这种模式也成立。 摆脱道德困境：作者认为，用户会倾向于接受任何建议，无论其是否经过深思熟虑，因为它提供了一种轻松摆脱道德困境的方法——而聊天机器人的可访问性加剧了这一过程。 实验见解：参与者面临电车困境的一个版本，并获得了归因于 ChatGPT 或人类道德顾问的建议。结果表明，个人在做出道德判断时不会区分合理建议和非合理建议，也不会区分人工智能和人类顾问。 感知可信度高于权威：研究揭示了一种心理机制，即认为人工智能建议不太权威的用户认为其可信度更高。这表明一种事后合理化，即用户在决策后为遵循建议辩解，而不是真正重视其内容。 呼吁道德素养：作者得出结论，除了数字素养之外，道德素养对于个人批判性评估人工智能产生的道德建议也是必要的。了解聊天机器人的局限性对于防止对个人道德准则产生不当影响至关重要。  在人工智能成为无处不在的顾问的世界中，本文提出了我们如何在道德决策环境中与技术互动的重要考虑因素。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hzimfi/chatgpts_advice_drives_moral_judgments_with_or/</guid>
       <pubDate>Sun, 12 Jan 2025 08:49:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周人工智能代理、法学硕士评估、快速工程十大法学硕士论文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hz18r3/top_10_llm_papers_of_the_week_on_ai_agents_llm/</link>
-      <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hz18r3/top_10_llm_papers_of_the_week_on_ai_agents_llm/</guid>
-      <pubDate>Sat, 11 Jan 2025 17:42:06 GMT</pubDate>
     </item>
     <item>
       <title>我是一名 SDE，我热爱我的工作和工程……但我有点害怕</title>
