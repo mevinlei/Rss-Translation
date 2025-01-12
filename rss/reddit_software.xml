@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 03:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 06:14:05 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何指南可以让便携式应用程序将其数据保存在便携式文件夹中</title>
+      <link>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</link>
+      <description><![CDATA[我最近看了 ThioJoe 的一段视频，他说 VS Code Portable 需要在存储的应用程序目录中创建一个“data”文件夹，否则它会将其数据存储到 appdata 文件夹中    提交人    /u/shayel98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</guid>
+      <pubDate>Sun, 12 Jan 2025 05:51:17 GMT</pubDate>
+    </item>
     <item>
       <title>是否有支持动画 AVIF 的（快速）图像查看器？</title>
       <link>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[是否有任何与Windows 8.1兼容的软件，我可以选择哪些应用程序可以访问网络摄像头，哪些受密码保护？ 我的目的是阻止我的网络摄像头访问浏览器并允许它访问其他软件，并且该软件必须受密码保护以防止我更改设置甚至卸载它。 这可能吗？有办法吗？ PS：重要的是它是软件，因为如果它是浏览器中的扩展，您所要做的就是卸载该扩展。    提交人    /u/ChegandoLa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hykkym/block_webcam_in_browser_through_software/</guid>
       <pubDate>Sat, 11 Jan 2025 01:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>卸载了 Ccleaner 并丢失了我电脑上的所有文件</title>
-      <link>https://www.reddit.com/r/software/comments/1hyk0hw/uninstalled_ccleaner_and_lost_all_files_on_my/</link>
-      <description><![CDATA[两天前，我毫不犹豫地从电脑上卸载了 Ccleaner，因为我已经很久没用它了。今天使用电脑时，我发现我常用的背景图片不见了，我所有的文件都消失了。  在文件资源管理器中单击“文档”或“下载”文件夹时，显示一条消息，指出“C:\Users|Name|下载不可用，等等”。我丢失了所有对我来说很重要的文档和图片。  最糟糕的是，我尝试使用还原点，但被告知没有可用的还原点。 Ccleaner 是否损坏了我的窗口并删除了所有内容？我现在不知所措。有什么方法可以解决这个问题吗？    提交人    /u/water_is_solution   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hyk0hw/uninstalled_ccleaner_and_lost_all_files_on_my/</guid>
-      <pubDate>Sat, 11 Jan 2025 00:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

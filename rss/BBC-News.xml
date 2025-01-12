@@ -4,13 +4,34 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 12 Jan 2025 03:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 06:15:04 GMT</lastBuildDate>
     <item>
-      <title>随着风力增强，洛杉矶消防员拼命控制火势</title>
+      <title>火灾的原因是什么？火灾规模有多大？</title>
+      <link>https://www.bbc.com/news/articles/clyxypryrnko</link>
+      <description><![CDATA[您需要了解有关迫使数千人撤离家园的大火的所有信息。]]></description>
+      <guid>https://www.bbc.com/news/articles/clyxypryrnko</guid>
+      <pubDate>Sun, 12 Jan 2025 05:39:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>“一切都消失了”——被大火夷为平地的洛杉矶街道上的痛苦</title>
+      <link>https://www.bbc.com/news/articles/c2034p3g9z5o</link>
+      <description><![CDATA[尽管社区已被烧毁，但西拉斯弗洛雷斯大道 (West Las Flores Drive) 的邻居们仍然团结在一起。]]></description>
+      <guid>https://www.bbc.com/news/articles/c2034p3g9z5o</guid>
+      <pubDate>Sun, 12 Jan 2025 05:34:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>消防员拼命控制火势</title>
       <link>https://www.bbc.com/news/articles/c897l7wyzj5o</link>
       <description><![CDATA[帕利塞兹大火威胁到美国第二大城市最富裕的聚居区之一布伦特伍德。]]></description>
       <guid>https://www.bbc.com/news/articles/c897l7wyzj5o</guid>
-      <pubDate>Sun, 12 Jan 2025 02:51:22 GMT</pubDate>
+      <pubDate>Sun, 12 Jan 2025 05:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏丹军队宣称从叛军手中夺取了东部重要城市</title>
+      <link>https://www.bbc.com/news/articles/c626gzqk339o</link>
+      <description><![CDATA[这一进展标志着印度军队在与叛军持续近两年的战争中取得了最重大的进展之一。]]></description>
+      <guid>https://www.bbc.com/news/articles/c626gzqk339o</guid>
+      <pubDate>Sun, 12 Jan 2025 04:27:34 GMT</pubDate>
     </item>
     <item>
       <title>北约克郡一名警察在碰撞中身亡</title>
@@ -48,7 +69,7 @@
       <pubDate>Sun, 12 Jan 2025 00:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>调查特朗普的美国特别检察官辞职</title>
+      <title>调查特朗普的特别检察官杰克·史密斯辞职</title>
       <link>https://www.bbc.com/news/articles/ckgy0360nd6o</link>
       <description><![CDATA[杰克·史密斯的离职正值他对唐纳德·特朗普处理机密文件的报告引发争议之际。]]></description>
       <guid>https://www.bbc.com/news/articles/ckgy0360nd6o</guid>
@@ -67,13 +88,6 @@
       <description><![CDATA[这位保守党领袖的呼吁是在她家人在孟加拉国拥有财产的指控之后做出的。]]></description>
       <guid>https://www.bbc.com/news/articles/c0qwz0zvggdo</guid>
       <pubDate>Sat, 11 Jan 2025 22:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>火灾的原因是什么？火灾规模有多大？</title>
-      <link>https://www.bbc.com/news/articles/clyxypryrnko</link>
-      <description><![CDATA[您需要了解有关迫使数千人撤离家园的大火的所有信息。]]></description>
-      <guid>https://www.bbc.com/news/articles/clyxypryrnko</guid>
-      <pubDate>Sat, 11 Jan 2025 20:03:28 GMT</pubDate>
     </item>
     <item>
       <title>梅尔·吉布森、杰夫·布里吉斯和其他洛杉矶名人因山火失去家园</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[这一现象是在洛杉矶野火肆虐期间出现的。]]></description>
       <guid>https://www.bbc.com/news/videos/cpvmyvd937do</guid>
       <pubDate>Sat, 11 Jan 2025 14:52:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯蒂·派珀遭硫酸袭击后装上“义眼”</title>
-      <link>https://www.bbc.com/news/articles/c627ry9w5xzo</link>
-      <description><![CDATA[这次袭击是由她的前男友指使的，发生在 2008 年，导致她身受重伤。]]></description>
-      <guid>https://www.bbc.com/news/articles/c627ry9w5xzo</guid>
-      <pubDate>Sat, 11 Jan 2025 13:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>为何野火蔓延速度越来越快、越来越猛烈</title>
-      <link>https://www.bbc.com/news/articles/c70qj7kyppjo</link>
-      <description><![CDATA[随着风险因素不断增加，居住在灾害多发地区是否仍然安全？防火措施是否还能起到作用？]]></description>
-      <guid>https://www.bbc.com/news/articles/c70qj7kyppjo</guid>
-      <pubDate>Sat, 11 Jan 2025 09:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
