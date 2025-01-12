@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 00:52:16 GMT</lastBuildDate>
     <item>
       <title>看法</title>
       <link>https://www.producthunt.com/posts/perspective-5b03690e-21ff-43a1-9aa8-8cb6e01ace97</link>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 10 Jan 2025 12:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>词链</title>
+      <title>字联</title>
       <link>https://www.producthunt.com/posts/wordlink</link>
       <description><![CDATA[
 跨主题连接单词，与时间赛跑！
@@ -174,20 +174,6 @@ YouTube 视频时间戳创建支持工具
       <pubDate>Thu, 09 Jan 2025 09:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街回顾</title>
-      <link>https://www.producthunt.com/posts/wallstreet-wrapped</link>
-      <description><![CDATA[
-Spotify 为您的股票交易提供全面支持
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/wallstreet-wrapped</guid>
-      <pubDate>Wed, 08 Jan 2025 18:33:37 GMT</pubDate>
-    </item>
-    <item>
       <title>TinyStorage</title>
       <link>https://www.producthunt.com/posts/tinystorage</link>
       <description><![CDATA[
@@ -202,18 +188,32 @@ Spotify 为您的股票交易提供全面支持
       <pubDate>Fri, 03 Jan 2025 02:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>小</title>
-      <link>https://www.producthunt.com/posts/leetle</link>
+      <title>AI SDR套件</title>
+      <link>https://www.producthunt.com/posts/ai-sdr-kit</link>
       <description><![CDATA[
-LeetCode 与 Wordle 相遇
+建立自己的 AI 销售代理 
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/leetle</guid>
-      <pubDate>Thu, 02 Jan 2025 08:37:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/ai-sdr-kit</guid>
+      <pubDate>Mon, 30 Dec 2024 06:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Humiris - 人工智能的混合体</title>
+      <link>https://www.producthunt.com/posts/humiris-mixture-of-ai</link>
+      <description><![CDATA[
+精准 AI 代理的自定义推理模型
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/humiris-mixture-of-ai</guid>
+      <pubDate>Mon, 23 Dec 2024 06:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

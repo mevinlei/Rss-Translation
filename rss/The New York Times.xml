@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 00:32:12 GMT</lastBuildDate>
     <item>
-      <title>特朗普的亿万富翁财政部长人选斯科特·贝森特将出售资产以避免冲突</title>
-      <link>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</link>
-      <description><![CDATA[财务披露表显示，其资产达数亿，包括巴哈马的房产、比特币投资以及做空人民币的押注。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</guid>
-      <pubDate>Sat, 11 Jan 2025 19:42:13 GMT</pubDate>
+      <title>领导起诉特朗普的杰克·史密斯辞职</title>
+      <link>https://www.nytimes.com/2025/01/11/us/politics/jack-smith-special-counsel-resigns.html</link>
+      <description><![CDATA[史密斯是美国司法部长梅里克·B·加兰德 (Merrick B. Garland) 任命的特别顾问，他曾表示将在唐纳德·J·特朗普 (Donald J. Trump) 就职前辞职。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/us/politics/jack-smith-special-counsel-resigns.html</guid>
+      <pubDate>Sun, 12 Jan 2025 00:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦调查局向军事小组高级参议员通报有关赫格塞斯的情况</title>
+      <link>https://www.nytimes.com/2025/01/11/us/politics/fbi-briefing-hegseth-senators.html</link>
+      <description><![CDATA[该委员会的共和党主席和民主党高层听取了联邦调查局对唐纳德·特朗普提名的国防部长皮特·赫格塞斯的调查结果。民主党人质疑是否存在漏洞。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/us/politics/fbi-briefing-hegseth-senators.html</guid>
+      <pubDate>Sun, 12 Jan 2025 00:29:41 GMT</pubDate>
     </item>
     <item>
       <title>太平洋帕利塞兹大火或将考验盖蒂中心保护其艺术藏品的努力</title>
       <link>https://www.nytimes.com/2025/01/11/us/getty-center-museum-pacific-palisades-fire.html</link>
-      <description><![CDATA[该博物馆自称是“火灾期间保护艺术品最安全的地方”，目前正处于强制疏散区。一位发言人表示，博物馆没有受到损坏。]]></description>
+      <description><![CDATA[该博物馆自称是“火灾期间保护艺术品最安全的地方”，目前正处于强制疏散区。官员表示，这些画廊“安全且受到保护”。]]></description>
       <guid>https://www.nytimes.com/2025/01/11/us/getty-center-museum-pacific-palisades-fire.html</guid>
-      <pubDate>Sat, 11 Jan 2025 19:30:58 GMT</pubDate>
+      <pubDate>Sat, 11 Jan 2025 23:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏丹军方从被指控犯有种族灭绝罪的准军事组织手中夺回重要城市</title>
+      <link>https://www.nytimes.com/2025/01/11/world/africa/sudan-military-recaptures-city.html</link>
+      <description><![CDATA[军事控制区爆发了庆祝活动，人们希望这场胜利可能成为苏丹灾难性内战的转折点。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/world/africa/sudan-military-recaptures-city.html</guid>
+      <pubDate>Sat, 11 Jan 2025 23:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>他是 NFL 球员。她收到了签名请求。</title>
+      <link>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</link>
+      <description><![CDATA[通过记录职业运动员妻子跌宕起伏的生活方式，艾莉森·库查尔奇克的名气已经超越了她的职业运动员丈夫。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</guid>
+      <pubDate>Sat, 11 Jan 2025 22:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的亿万富翁财政部长人选斯科特·贝森特将剥离资产以避免冲突</title>
+      <link>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</link>
+      <description><![CDATA[财务披露表显示，其资产达数亿，包括巴哈马的房产、比特币投资以及做空人民币的押注。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/business/scott-bessent-treasury-divest.html</guid>
+      <pubDate>Sat, 11 Jan 2025 19:42:13 GMT</pubDate>
     </item>
     <item>
       <title>作为一名重罪犯，特朗普颠覆了美国人对总统职位的看法</title>
@@ -27,18 +55,11 @@
       <pubDate>Sat, 11 Jan 2025 19:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>曼哈顿拥堵收费会对餐馆产生什么影响？</title>
-      <link>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</link>
-      <description><![CDATA[新的收费实施几天后，一些餐馆老板表示供应商正在提高价格。其他一些餐馆则为顾客提供折扣，许多人担心这会给员工带来影响。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/dining/congestion-pricing-restaurants.html</guid>
-      <pubDate>Sat, 11 Jan 2025 18:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>黎巴嫩总理会见叙利亚领导人</title>
-      <link>https://www.nytimes.com/2025/01/11/world/middleeast/syria-lebanon.html</link>
-      <description><![CDATA[黎巴嫩总理纳吉布·米卡提的来访是这位黎巴嫩领导人首次正式会见叙利亚新政府。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/world/middleeast/syria-lebanon.html</guid>
-      <pubDate>Sat, 11 Jan 2025 17:13:48 GMT</pubDate>
+      <title>房屋在野火中幸存下来的意外悲伤</title>
+      <link>https://www.nytimes.com/2025/01/11/realestate/california-wildfires-homes.html</link>
+      <description><![CDATA[对于那些家园在野火中幸免于难而邻居却失去了一切的人来说，未来的道路可能是孤独的，充满内疚和羞耻的感觉。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/realestate/california-wildfires-homes.html</guid>
+      <pubDate>Sat, 11 Jan 2025 17:30:07 GMT</pubDate>
     </item>
     <item>
       <title>国会推动新父母代理投票获得两党支持</title>
@@ -62,20 +83,6 @@
       <pubDate>Sat, 11 Jan 2025 15:40:28 GMT</pubDate>
     </item>
     <item>
-      <title>以色列在叙利亚边境地区的行动引发人们对其计划继续驻扎的担忧</title>
-      <link>https://www.nytimes.com/2025/01/11/world/middleeast/syria-buffer-israel.html</link>
-      <description><![CDATA[以色列总理本雅明内塔尼亚胡命令以色列军队“接管”叙利亚缓冲区，打破了两国事实上的边界数十年的相对平静。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/world/middleeast/syria-buffer-israel.html</guid>
-      <pubDate>Sat, 11 Jan 2025 15:05:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约人对拥堵收费的数据很少，但感受却很强烈</title>
-      <link>https://www.nytimes.com/2025/01/11/nyregion/new-york-congestion-pricing-reaction.html</link>
-      <description><![CDATA[曼哈顿的通勤者们已经开始对交通流量减少感到惊讶，同时也对新的 9 美元通行费抱怨不已。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/nyregion/new-york-congestion-pricing-reaction.html</guid>
-      <pubDate>Sat, 11 Jan 2025 14:25:47 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普想购买格陵兰岛，但实际上要花多少钱？</title>
       <link>https://www.nytimes.com/2025/01/11/business/trump-greenland-cost.html</link>
       <description><![CDATA[当选总统唐纳德·特朗普希望从丹麦手中购买这片领土，但丹麦表示不会出售。DealBook 向专家询问了他们将如何看待这笔交易。]]></description>
@@ -90,25 +97,18 @@
       <pubDate>Sat, 11 Jan 2025 12:20:25 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶正在上演一场真实的灾难故事</title>
-      <link>https://www.nytimes.com/2025/01/11/arts/television/los-angeles-fires-disaster.html</link>
-      <description><![CDATA[这位来自洛杉矶的记者多年来一直看着电影和电视上对她的家乡造成的破坏，但却无法让人做好看到真正灾难的准备。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/arts/television/los-angeles-fires-disaster.html</guid>
-      <pubDate>Sat, 11 Jan 2025 10:01:45 GMT</pubDate>
+      <title>联邦报告称塔尔萨屠杀是一次“有组织的军事式袭击”</title>
+      <link>https://www.nytimes.com/2025/01/11/us/tulsa-race-massacre-report.html</link>
+      <description><![CDATA[司法部是在对 1921 年俄克拉荷马州暴行进行调查后得出这一结论的，在那次暴行中，多达 300 名黑人居民被杀害。]]></description>
+      <guid>https://www.nytimes.com/2025/01/11/us/tulsa-race-massacre-report.html</guid>
+      <pubDate>Sat, 11 Jan 2025 10:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>尽管特朗普发起攻击，共和党在邮寄投票中仍取得巨大进展</title>
-      <link>https://www.nytimes.com/2025/01/11/us/politics/trump-2024-election-mail-votes.html</link>
-      <description><![CDATA[由于共和党选民接受了唐纳德·J·特朗普多年来一直反对的做法，并在 2024 年略微软化了他的语气，该党在全国范围内削弱了民主党的一个关键优势。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/us/politics/trump-2024-election-mail-votes.html</guid>
-      <pubDate>Sat, 11 Jan 2025 10:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>他是 NFL 球员。她收到了签名请求。</title>
-      <link>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</link>
-      <description><![CDATA[通过记录职业运动员妻子跌宕起伏的生活方式，艾莉森·库查尔奇克的名气已经超越了她的职业运动员丈夫。]]></description>
-      <guid>https://www.nytimes.com/2025/01/11/arts/allison-kucharczyk-isaac-rochell-nfl-tiktok.html</guid>
-      <pubDate>Sat, 11 Jan 2025 10:00:04 GMT</pubDate>
+      <title>中年人饮酒带来新风险</title>
+      <link>https://www.nytimes.com/2025/01/09/well/alcohol-middle-age.html</link>
+      <description><![CDATA[35 岁以上的人与年轻饮酒者所经历的身体影响会有所不同。]]></description>
+      <guid>https://www.nytimes.com/2025/01/09/well/alcohol-middle-age.html</guid>
+      <pubDate>Thu, 09 Jan 2025 10:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
