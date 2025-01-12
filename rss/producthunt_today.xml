@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 12 Jan 2025 09:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 12:18:12 GMT</lastBuildDate>
     <item>
       <title>你</title>
       <link>https://www.producthunt.com/posts/vouz</link>
@@ -20,18 +20,18 @@
       <pubDate>Sun, 12 Jan 2025 05:25:56 GMT</pubDate>
     </item>
     <item>
-      <title>看法</title>
-      <link>https://www.producthunt.com/posts/perspective-5b03690e-21ff-43a1-9aa8-8cb6e01ace97</link>
+      <title>继续加油</title>
+      <link>https://www.producthunt.com/posts/keepy-uppy</link>
       <description><![CDATA[
-使用透视和 ​​3D 阴影转换 Figma 设计
+继续努力
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/perspective-5b03690e-21ff-43a1-9aa8-8cb6e01ace97</guid>
-      <pubDate>Sat, 11 Jan 2025 03:56:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/keepy-uppy</guid>
+      <pubDate>Sat, 11 Jan 2025 03:43:29 GMT</pubDate>
     </item>
     <item>
       <title>TIXAE 代理</title>
@@ -76,20 +76,6 @@
       <pubDate>Sat, 11 Jan 2025 00:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>弓箭英雄 2</title>
-      <link>https://www.producthunt.com/posts/archero-2</link>
-      <description><![CDATA[
-传奇roguelike手游新时代
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/archero-2</guid>
-      <pubDate>Fri, 10 Jan 2025 20:51:31 GMT</pubDate>
-    </item>
-    <item>
       <title>FTme.link</title>
       <link>https://www.producthunt.com/posts/ftme</link>
       <description><![CDATA[
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/ftme</guid>
       <pubDate>Fri, 10 Jan 2025 16:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯莫尔特</title>
+      <link>https://www.producthunt.com/posts/smolagents</link>
+      <description><![CDATA[
+强大的 AI 代理，最少的代码，基于 Hugging Face 框架
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/smolagents</guid>
+      <pubDate>Fri, 10 Jan 2025 15:22:21 GMT</pubDate>
     </item>
     <item>
       <title>智能睡眠定时器</title>
