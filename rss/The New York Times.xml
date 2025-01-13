@@ -1,23 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Jan 2025 15:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 17:57:57 GMT</lastBuildDate>
     <item>
-      <title>加沙停火和释放人质谈判：需要了解的内容</title>
-      <link>https://www.nytimes.com/2025/01/13/world/middleeast/gaza-cease-fire-talks-hostages-israel-hamas.html</link>
-      <description><![CDATA[周一，谈判似乎正在加速进行，阿拉伯和美国调解人努力推动在当选总统唐纳德·J·特朗普就职前达成协议。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/world/middleeast/gaza-cease-fire-talks-hostages-israel-hamas.html</guid>
-      <pubDate>Mon, 13 Jan 2025 15:01:55 GMT</pubDate>
+      <title>法官允许公开杰克·史密斯关于特朗普案件的一半报告</title>
+      <link>https://www.nytimes.com/2025/01/13/us/politics/trump-jan-6-report-aileen-cannon-jack-smith.html</link>
+      <description><![CDATA[驳回机密文件案的法官艾琳·坎农 (Aileen M. Cannon) 阻止向国会展示有关该案的一份文件，但允许公布有关选举案的一份文件。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/us/politics/trump-jan-6-report-aileen-cannon-jack-smith.html</guid>
+      <pubDate>Mon, 13 Jan 2025 17:50:28 GMT</pubDate>
     </item>
     <item>
-      <title>为什么电视剧的片头有这么多……内容？</title>
-      <link>https://www.nytimes.com/2025/01/13/arts/television/tv-title-sequences.html</link>
-      <description><![CDATA[原本旨在让电视剧看起来史诗般独特、引人入胜的视觉风格，如今已变得非常熟悉]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/arts/television/tv-title-sequences.html</guid>
-      <pubDate>Mon, 13 Jan 2025 14:57:49 GMT</pubDate>
+      <title>何时报告，何时提供帮助</title>
+      <link>https://www.nytimes.com/2025/01/13/us/wildfires-reporting-helping.html</link>
+      <description><![CDATA[凯伦·布朗宁 (Kellen Browning) 是一位驻旧金山报道山火的记者，他收到了撤离人员的请求，需要做出一个决定。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/us/wildfires-reporting-helping.html</guid>
+      <pubDate>Mon, 13 Jan 2025 17:29:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>石油大亨哈罗德·哈姆举办就职日派对</title>
+      <link>https://www.nytimes.com/2025/01/13/climate/inauguration-plans-harold-hamm-fossil-fuels.html</link>
+      <description><![CDATA[俄克拉荷马州大陆资源公司创始人哈罗德·哈姆和其他石油和天然气公司将从唐纳德·特朗普的能源政策中获利。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/climate/inauguration-plans-harold-hamm-fossil-fuels.html</guid>
+      <pubDate>Mon, 13 Jan 2025 17:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>新闻媒体为特朗普回归做好准备</title>
+      <link>https://www.nytimes.com/2025/01/13/business/trump-media-threats.html</link>
+      <description><![CDATA[媒体组织正在采取不同寻常的措施来准备应对他们担心的新政府可能采取的法律和政治攻击。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/business/trump-media-threats.html</guid>
+      <pubDate>Mon, 13 Jan 2025 16:30:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅拉尼娅·特朗普称她计划全职在白宫工作</title>
+      <link>https://www.nytimes.com/2025/01/13/us/politics/melania-trump-white-house.html</link>
+      <description><![CDATA[2017 年丈夫就职时，特朗普夫人并没有立即搬进白宫，但她表示，第二次入住将更加常规。“我已经收拾好行李了，”她告诉福克斯新闻。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/us/politics/melania-trump-white-house.html</guid>
+      <pubDate>Mon, 13 Jan 2025 16:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员称，未来几十年美国痴呆症病例将激增</title>
+      <link>https://www.nytimes.com/2025/01/13/health/dementia-cases-us.html</link>
+      <description><![CDATA[一项研究预测，到 2060 年，由于美国老年人口的不断增长，每年新增痴呆症病例可能增加一倍，达到 100 万。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/health/dementia-cases-us.html</guid>
+      <pubDate>Mon, 13 Jan 2025 16:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>甚至成年人也可能很快会患上“儿童”疾病</title>
+      <link>https://www.nytimes.com/2025/01/13/health/vaccines-children-measles-pertussis.html</link>
+      <description><![CDATA[未接种疫苗人群中爆发疫情是免疫率下降的可预见结果。但即使是接种过疫苗的成年人也可能容易感染某些疾病。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/health/vaccines-children-measles-pertussis.html</guid>
+      <pubDate>Mon, 13 Jan 2025 15:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯和乌克兰在库尔斯克内部展开战斗，坦克、无人机和朝鲜军队蜂拥而至</title>
+      <link>https://www.nytimes.com/2025/01/13/world/europe/russia-ukraine-kursk-north-korea.html</link>
+      <description><![CDATA[乌克兰士兵描述了俄罗斯军队试图夺回库尔斯克地区领土时发生的激烈冲突，这可能对最终的停火谈判至关重要。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/world/europe/russia-ukraine-kursk-north-korea.html</guid>
+      <pubDate>Mon, 13 Jan 2025 14:32:40 GMT</pubDate>
     </item>
     <item>
       <title>疫苗接种滞后可能导致脊髓灰质炎复发</title>
@@ -34,27 +76,6 @@
       <pubDate>Mon, 13 Jan 2025 14:09:55 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府出台规则指导人工智能全球传播</title>
-      <link>https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html</link>
-      <description><![CDATA[新规则旨在阻止先进技术进入中国，并确保美国及其盟友开发尖端人工智能。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/us/politics/biden-administration-rules-artificial-intelligence.html</guid>
-      <pubDate>Mon, 13 Jan 2025 13:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>甚至成年人也可能很快会患上“儿童”疾病</title>
-      <link>https://www.nytimes.com/2025/01/13/health/vaccines-children-measles-pertussis.html</link>
-      <description><![CDATA[未接种疫苗人群中爆发疫情是免疫率下降的可预见结果。但即使是接种过疫苗的成年人也可能容易感染某些疾病。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/health/vaccines-children-measles-pertussis.html</guid>
-      <pubDate>Mon, 13 Jan 2025 13:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 以“美国人工智能”愿景讨好特朗普</title>
-      <link>https://www.nytimes.com/2025/01/13/technology/openai-economic-blueprint.html</link>
-      <description><![CDATA[ChatGPT 的制造商希望吸引来自中东的投资，并避免对新技术开发的严格监管。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/technology/openai-economic-blueprint.html</guid>
-      <pubDate>Mon, 13 Jan 2025 13:17:19 GMT</pubDate>
-    </item>
-    <item>
       <title>史蒂夫·班农称伊隆·马斯克是个“邪恶之人”</title>
       <link>https://www.nytimes.com/2025/01/13/us/politics/steve-bannon-elon-musk.html</link>
       <description><![CDATA[这些言论凸显了美国右翼内部以及两位担任候任总统唐纳德·特朗普重要顾问的人士之间的分歧。]]></description>
@@ -62,32 +83,18 @@
       <pubDate>Mon, 13 Jan 2025 13:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>儿童疫苗接种率下降</title>
-      <link>https://www.nytimes.com/2025/01/13/briefing/childhood-vaccinations-trump.html</link>
-      <description><![CDATA[美国针对曾经常见的儿童疾病的疫苗接种率正在下降。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/briefing/childhood-vaccinations-trump.html</guid>
-      <pubDate>Mon, 13 Jan 2025 11:39:51 GMT</pubDate>
+      <title>朝鲜军队在乌克兰被拘留 罕见曝光朝鲜军队状况</title>
+      <link>https://www.nytimes.com/2025/01/13/world/asia/north-korea-ukraine-russia-troops.html</link>
+      <description><![CDATA[乌克兰总统公布了两名士兵接受审讯的视频，视频显示，这两名士兵对于被派去参加的战争知之甚少。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/world/asia/north-korea-ukraine-russia-troops.html</guid>
+      <pubDate>Mon, 13 Jan 2025 10:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶私人消防员和美国儿童疫苗接种率下降</title>
-      <link>https://www.nytimes.com/2025/01/13/podcasts/firefighters-los-angeles-bidens-deportation-protections.html</link>
-      <description><![CDATA[此外，还要缅怀民权自由骑士。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/podcasts/firefighters-los-angeles-bidens-deportation-protections.html</guid>
-      <pubDate>Mon, 13 Jan 2025 11:14:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>州议会中党派控制权的激烈斗争</title>
-      <link>https://www.nytimes.com/2025/01/13/us/state-legislatures-polarized-republican-democrat.html</link>
-      <description><![CDATA[各州议会召开会议时，面临着与国会同样的政治两极分化。有些州的议会几乎陷入僵局。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/us/state-legislatures-polarized-republican-democrat.html</guid>
-      <pubDate>Mon, 13 Jan 2025 10:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>中东局势动荡对特朗普和美国海湾盟友意味着什么</title>
-      <link>https://www.nytimes.com/2025/01/13/world/middleeast/trump-middle-east-allies-israel-iran-oil.html</link>
-      <description><![CDATA[虽然预计不会出现重大裂痕，但海湾国家正在敦促对以色列采取更强硬的立场，对伊朗采取软化态度，这些立场与当选总统第一任期内的立场有很大不同。]]></description>
-      <guid>https://www.nytimes.com/2025/01/13/world/middleeast/trump-middle-east-allies-israel-iran-oil.html</guid>
-      <pubDate>Mon, 13 Jan 2025 10:00:24 GMT</pubDate>
+      <title>艺术曾使父子二人分裂。如今它能让他们团聚吗？</title>
+      <link>https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html</link>
+      <description><![CDATA[一位深受爱戴的插画家在创作过程中去世。他多年远离艺术的儿子获得了完成作品的机会。]]></description>
+      <guid>https://www.nytimes.com/2025/01/13/books/booksupdate/charles-nicholas-santore-scroobius-pip.html</guid>
+      <pubDate>Mon, 13 Jan 2025 10:00:37 GMT</pubDate>
     </item>
     <item>
       <title>中国贸易顺差创近1万亿美元纪录</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[2024年，中国的出口额大幅超过进口额，其规模除了两次世界大战期间或战后时期外，很少见。]]></description>
       <guid>https://www.nytimes.com/2025/01/12/business/china-trade-surplus.html</guid>
       <pubDate>Mon, 13 Jan 2025 09:57:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>“愿意支付任何金额”：洛杉矶对私人消防员的需求很大</title>
-      <link>https://www.nytimes.com/2025/01/12/us/private-firefighters-la-wildfires.html</link>
-      <description><![CDATA[雇佣私人消防队每天要花费数千美元，而且大多数是通过政府合同或保险公司雇佣的。一些富有的业主会直接找他们。]]></description>
-      <guid>https://www.nytimes.com/2025/01/12/us/private-firefighters-la-wildfires.html</guid>
-      <pubDate>Mon, 13 Jan 2025 04:50:39 GMT</pubDate>
     </item>
     <item>
       <title>洛杉矶市长上任前曾表示不会出国</title>
