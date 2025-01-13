@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 21:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Cataphract - 一个开源跨平台 Shell</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</link>
+      <description><![CDATA[你好！ 我用 Java 编写了一个简单的、开源的、跨平台的 shell。目前我已经在 Windows 和 Linux 上对其进行了测试。 该程序是单线程的，具有简单的脚本解析逻辑。我想知道您对这个项目的想法和反馈。我也可以使用 Termux 在 Android 上运行它。 https://github.com/DAK404/Cataphract/tree/Development 注意：* Development 分支具有最新代码，因此我在此处链接了相同的代码。 * 我已经在 openJDK 21 上编译了二进制文件。 * 有一个 make 文件，应该可以直接制作项目。 命令应该是 make project=Cataphract all    提交人    /u/DAK404   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:56:33 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个开源应用程序，可以在你打字时添加打字声音</title>
       <link>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</link>
-      <description><![CDATA[大家好！ 很长一段时间以来，一直有一款名为 MechVibes 的应用程序，它可以在您打字时添加可自定义的打字声音。但是，对我来说，它缺少一项核心功能。那就是根据我当前正在使用的应用程序来控制何时出现声音的能力。 我曾考虑将此功能添加到 MechVibes，但现有的技术堆栈确实不允许这样的功能。所以，几年前我决定创建自己的能够做到这一点的应用程序。 由此，我开发了键盘声音。 键盘声音是一个完全免费的开源应用程序，可以使任何键盘听起来像机械键盘。它包括 11 个内置配置文件、一个用于创建自己的声音包的配置文件编辑器、应用程序规则和一个全面的后端 /CLI 界面。 目前，桌面应用程序支持 Windows，而后端 /CLI 支持 macOS、Linux 和 Windows。 您可以在项目官方网站或GitHub 存储库上找到更多信息。    提交人    /u/MediocreAnywhere1221   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 很长一段时间以来，一直有一款名为 MechVibes 的应用程序，它可以在您打字时添加可自定义的打字声音。但是，对我来说，它缺少一项核心功能。那就是根据我当前正在使用的应用程序来控制声音出现的时间。 我曾考虑将此功能添加到 MechVibes，但现有的技术堆栈确实不允许这样的功能。所以，几年前我决定创建自己的能够做到这一点的应用程序。 由此，我开发了键盘声音。 键盘声音是一个完全免费的开源应用程序，可以使任何键盘听起来像机械键盘。它包括 11 个内置配置文件、一个用于创建自己的声音包的配置文件编辑器、应用程序规则和一个全面的后端 /CLI 界面。 目前，桌面应用程序支持 Windows，而后端 /CLI 支持 macOS、Linux 和 Windows。 您可以在项目官方网站或GitHub 存储库上找到更多信息。    提交人    /u/MediocreAnywhere1221   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i0hcfb/i_developed_an_opensource_application_that_adds/</guid>
       <pubDate>Mon, 13 Jan 2025 16:06:59 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>我分析了近 500 家开源公司的技术栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1i0e0ic/ive_analyzed_the_tech_stack_of_nearly_500/</link>
-      <description><![CDATA[你好！ 我经营着一个致力于聚集最佳开源公司的网站。最近，我分析了每家公司使用的技术。这是一项具有挑战性的任务，但我能够识别出近 250 种不同的语言、框架和开发工具。 您可以在以下位置找到它们：https://openalternative.co/stacks 尽情享受吧！    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 我经营着一个致力于收集最佳开源公司的网站。最近，我分析了每家公司使用的技术。这是一项具有挑战性的任务，但我能够识别出近 250 种不同的语言、框架和开发工具。 您可以在以下位置找到它们：https://openalternative.co/stacks 尽情享受吧！    提交人    /u/piotrkulpinski   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i0e0ic/ive_analyzed_the_tech_stack_of_nearly_500/</guid>
       <pubDate>Mon, 13 Jan 2025 13:32:48 GMT</pubDate>
     </item>
@@ -69,13 +76,6 @@
       <pubDate>Mon, 13 Jan 2025 04:18:47 GMT</pubDate>
     </item>
     <item>
-      <title>我几乎从来没能建立过开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</link>
-      <description><![CDATA[事情从来都不是一帆风顺的。总是会有一些问题，而且根据我的经验，我往往找不到解决方案/不愿意花费数小时甚至数天的时间来弄清楚。 总是有 10 个东西需要作为先决条件安装，而每个东西对于您需要的确切设置都有些模糊，而且它根本不起作用，构建几乎总是会出现错误。 技能问题？在您的计算机上构建项目是否有更简单的方法？技术已经取得了长足的进步，但我觉得需要一些东西来使这个过程变得简单/标准化。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</guid>
-      <pubDate>Mon, 13 Jan 2025 03:54:58 GMT</pubDate>
-    </item>
-    <item>
       <title>XDA 上的 Android 反取证</title>
       <link>https://www.reddit.com/r/opensource/comments/1i03lzp/antiforensics_for_android_on_xda/</link>
       <description><![CDATA[这不是促销，只是没有找到更合适的标签。所以基本上分享一些我在浏览 XDA 论坛时发现的很酷的东西：一个 FOSS 应用程序，旨在保护敏感数据免受任何可能迫使您解锁设备的压力。 显然，开发人员受到另一个名为 Wasted by x13a（但不是分叉的）的应用程序的启发，它可以在胁迫下使用特殊密码或 USB 连接等触发器将设备恢复出厂设置。虽然这很棒，但如果拿着你设备的人意识到发生了什么，恢复出厂设置可能会很明显，而且很危险。此应用程序通过秘密擦除特定用户配置文件内的数据，然后卸载或隐藏自身以尽可能少地留下痕迹，从而更上一层楼。 您可以将其设置为在锁定屏幕上输入胁迫密码、USB 设备未经批准连接或多次输入密码失败后擦除数据。还有一些其他功能可用：禁用日志以隐藏应用程序操作、禁用安全启动模式以及在数据销毁后运行 TRIM。应用程序具有伪装成其他应用程序的版本，使得在系统中检测到它的痕迹更加困难。 对我来说看起来很有趣，但我不确定重命名软件包是否可以防止在设备上找到应用程序活动的痕迹。此外，应用程序需要 root 权限才能使用大多数高级功能，您必须使用 ADB 才能安装它。这是分享这些东西并获得答案的正确地方吗？重命名软件包是否可以防止找到痕迹？使用 root 安装一些无名的东西安全吗？我也很高兴听到任何关于它的评论，特别是关于它的可信度    提交人    /u/IVKIK55   [链接] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>微型媒体服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</link>
-      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 功能：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
+      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 特点：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</guid>
       <pubDate>Sun, 12 Jan 2025 18:42:54 GMT</pubDate>
     </item>
