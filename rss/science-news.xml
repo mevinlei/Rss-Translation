@@ -4,7 +4,14 @@
     <title>新科学家 - 新闻</title>
     <link>https://www.newscientist.com/</link>
     <description>新科学家 - 新闻</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 21:10:02 GMT</lastBuildDate>
+    <item>
+      <title>人工智能可以用冷原子组装一台破纪录的量子计算机</title>
+      <link>https://www.newscientist.com/article/2463469-ai-could-assemble-a-record-breaking-quantum-computer-out-of-cold-atoms/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
+      <description><![CDATA[大量超冷原子被聚集到一个网格中，这可能成为下一代最大量子计算机的基础]]></description>
+      <guid>https://www.newscientist.com/article/2463469-ai-could-assemble-a-record-breaking-quantum-computer-out-of-cold-atoms/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
+      <pubDate>Tue, 14 Jan 2025 20:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 正在向月球发射“蓝色幽灵”和“韧性”着陆器</title>
       <link>https://www.newscientist.com/article/2463917-spacex-is-launching-blue-ghost-and-resilience-landers-to-the-moon/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[金属铟原子首次被冷却到绝对零度以上几百万分之一度的温度，这种状态下开始出现奇怪的量子现象]]></description>
       <guid>https://www.newscientist.com/article/2462506-ultracold-indium-atoms-could-make-unexpected-new-types-of-matter/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
       <pubDate>Fri, 10 Jan 2025 13:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界上第一台全 3D 打印显微镜在 3 小时内完成</title>
-      <link>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</link>
-      <description><![CDATA[该显微镜采用开源设计和常见的 3D 打印机制造，成本不到 50 英镑]]></description>
-      <guid>https://www.newscientist.com/article/2462618-worlds-first-fully-3d-printed-microscope-made-in-under-3-hours/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=news</guid>
-      <pubDate>Fri, 10 Jan 2025 12:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
