@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 14 Jan 2025 03:10:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 09:11:17 GMT</lastBuildDate>
+    <item>
+      <title>无可否认，这对你们大多数人来说都是相当基础的：但这是我和同事几年前制作的一系列视频，用于向一年级工程专业学生解释编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1i11rgv/admittedly_its_quite_basic_for_most_of_yall_but/</link>
+      <description><![CDATA[  由    /u/neilmoore  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i11rgv/admittedly_its_quite_basic_for_most_of_yall_but/</guid>
+      <pubDate>Tue, 14 Jan 2025 08:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>副驾驶引发的碰撞：人工智能辅助代码如何引入新类型的错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1i11bjc/copilot_induced_crash_how_aiassisted_code/</link>
+      <description><![CDATA[  由    /u/klaasvanschelven  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i11bjc/copilot_induced_crash_how_aiassisted_code/</guid>
+      <pubDate>Tue, 14 Jan 2025 08:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>接口隔离：为什么你的接口应该小而集中</title>
+      <link>https://www.reddit.com/r/programming/comments/1i1129i/interface_segregation_why_your_interfaces_should/</link>
+      <description><![CDATA[  由    /u/cekrem  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i1129i/interface_segregation_why_your_interfaces_should/</guid>
+      <pubDate>Tue, 14 Jan 2025 07:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建由 GPT 提供支持的无服务器提醒应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1i111xj/building_a_gpt_powered_serverless_reminder_app/</link>
+      <description><![CDATA[  由    /u/nsp137  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i111xj/building_a_gpt_powered_serverless_reminder_app/</guid>
+      <pubDate>Tue, 14 Jan 2025 07:49:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何不学习 Rust（提示如何让入门更容易）</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0zd0w/how_not_to_learn_rust_hints_how_to_make_the_start/</link>
+      <description><![CDATA[  由    /u/Alexander_Selkirk  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0zd0w/how_not_to_learn_rust_hints_how_to_make_the_start/</guid>
+      <pubDate>Tue, 14 Jan 2025 05:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得“现代”终端设置需要做什么？</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0y8o2/whats_involved_in_getting_a_modern_terminal_setup/</link>
+      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0y8o2/whats_involved_in_getting_a_modern_terminal_setup/</guid>
+      <pubDate>Tue, 14 Jan 2025 04:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件沙盒：基础知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1i0x8yd/software_sandboxing_the_basics/</link>
+      <description><![CDATA[  由    /u/gilgamesh_3  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i0x8yd/software_sandboxing_the_basics/</guid>
+      <pubDate>Tue, 14 Jan 2025 03:46:15 GMT</pubDate>
+    </item>
     <item>
       <title>巫师脚本 - 制作您自己的巫师游戏！</title>
       <link>https://www.reddit.com/r/programming/comments/1i0tw25/witcher_script_make_your_own_witcher_game/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i0hxv7/build_local_and_offlinecapable_chatbots/</guid>
       <pubDate>Mon, 13 Jan 2025 16:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个“哦，该死”的时刻</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0h7ei/an_oh_fuck_moment_in_time/</link>
-      <description><![CDATA[  由    /u/geoffreyhuntley  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0h7ei/an_oh_fuck_moment_in_time/</guid>
-      <pubDate>Mon, 13 Jan 2025 16:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 C • 构建你自己的 Lisp</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0h5mq/learn_c_build_your_own_lisp/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0h5mq/learn_c_build_your_own_lisp/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Takehomes 和 Algos 都是邪恶的 - 以及从 1000 多个 SWE 访谈中得到的其他教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0gyox/takehomes_algos_are_both_evil_and_other_lessons/</link>
-      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0gyox/takehomes_algos_are_both_evil_and_other_lessons/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 准备好成为中级工程师了吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0gu24/is_ai_ready_to_be_a_midlevel_engineer/</link>
-      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0gu24/is_ai_ready_to_be_a_midlevel_engineer/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:44:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加了一些基本要素，使您可以使用现代功能，例如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0gcuv/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
-      <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0gcuv/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>悲观主义驱动的发展：在云架构中拥抱墨菲定律</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0g8g8/pessimismdriven_development_embracing_murphys_law/</link>
-      <description><![CDATA[  由    /u/Prudent-Research-607  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0g8g8/pessimismdriven_development_embracing_murphys_law/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>清晰解释开放封闭原则 | SOLID 原则 | 易于理解</title>
-      <link>https://www.reddit.com/r/programming/comments/1i0eyhp/open_closed_principle_clearly_explained_solid/</link>
-      <description><![CDATA[  由    /u/Easy_Ad4699  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i0eyhp/open_closed_principle_clearly_explained_solid/</guid>
-      <pubDate>Mon, 13 Jan 2025 14:18:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
