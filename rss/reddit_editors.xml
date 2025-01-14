@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 14 Jan 2025 00:45:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 03:10:44 GMT</lastBuildDate>
+    <item>
+      <title>WD Blue 驱动器无法安装</title>
+      <link>https://www.reddit.com/r/editors/comments/1i0vkcz/wd_blue_drive_will_not_mount/</link>
+      <description><![CDATA[嗨，我也在 Mac sub 上发布了此信息。我的一个 6TB WD Blue 备份驱动器无法安装。格式化的 OS 扩展日志。我尝试切换端口、电缆、底座，甚至在另一台 Mac 上尝试过。它在磁盘实用程序中显示为灰色。mount 命令没有任何作用。我还尝试通过终端强制安装 - 按照对其他人有帮助的 YouTube 教程进行操作（https://www.youtube.com/watch?v=QMvYHgQOEvA）。 磁盘急救失败。有人建议使用 Disk Warrior，但当我看到评论说它并不比 OS 修复更强大时，我不愿意花 100 多美元。任何建议都非常感谢。谢谢。    提交人    /u/Lucysquirrel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i0vkcz/wd_blue_drive_will_not_mount/</guid>
+      <pubDate>Tue, 14 Jan 2025 02:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>英国高级助理编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1i0r31s/senior_assistant_editor_in_the_uk/</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[各位编辑们好， 我目前正在制作一个视频项目，其中的对话是西班牙语，而我并不精通西班牙语。您有什么技巧或策略来应对这种挑战吗？ 到目前为止，我已经考虑过使用转录和翻译工具以及字幕来了解内容，但我想知道是否有更有效的方法来指导编辑过程。 任何建议或分享的经验都将不胜感激。提前致谢！    提交人    /u/Kweng420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i0mvkb/editing_in_a_language_i_dont_speak/</guid>
       <pubDate>Mon, 13 Jan 2025 19:53:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>将多个剪辑同步到一个长音频文件</title>
-      <link>https://www.reddit.com/r/editors/comments/1i0knmn/syncing_multiple_clips_too_one_long_audio_file/</link>
-      <description><![CDATA[我不喜欢这样做的最佳方式？ 多个剪辑和变焦记录器正在运行整个拍摄。两者都有时间码  我如何将所有每日内容同步到音频剪辑的相应部分？ MacBook Pro 2018 32gb Ventura 13.6。 PP 版本 24.50    提交人    /u/Xxg_babyxX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i0knmn/syncing_multiple_clips_too_one_long_audio_file/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:22:54 GMT</pubDate>
     </item>
     <item>
       <title>[Avid] 使用 Avid Media Composer 时，其他应用程序没有声音。</title>
