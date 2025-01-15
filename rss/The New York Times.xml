@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 06:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 08:25:39 GMT</lastBuildDate>
     <item>
-      <title>新总统宣誓就职，莫桑比克处在十字路口</title>
-      <link>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</link>
-      <description><![CDATA[自去年10月大选以来，该国一直陷入政治混乱，引发了大规模示威活动和警方的致命镇压。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</guid>
-      <pubDate>Wed, 15 Jan 2025 06:03:54 GMT</pubDate>
+      <title>SpaceX 将用一枚火箭发射两个新月球着陆器：你需要了解哪些信息</title>
+      <link>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</link>
+      <description><![CDATA[周三凌晨，德克萨斯州 Firefly Aerospace 和日本 Ispace 的机器人飞行器通过同一枚 SpaceX 火箭发射升空，并分道扬镳。两款机器人飞行器的目标都是月球表面。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</guid>
+      <pubDate>Wed, 15 Jan 2025 08:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们对拟议的加沙停火协议的了解</title>
+      <link>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</link>
+      <description><![CDATA[外交官们周二表示谨慎乐观，认为以色列和哈马斯可能即将达成协议。但他们也警告称，协议尚未签署。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</guid>
+      <pubDate>Wed, 15 Jan 2025 07:37:38 GMT</pubDate>
     </item>
     <item>
       <title>奥斯维辛集中营的一间房子向令人毛骨悚然的过去敞开大门</title>
       <link>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</link>
       <description><![CDATA[奥斯卡获奖电影《利益区》的主角——死亡集中营战时指挥官鲁道夫·霍斯的故居即将迎来游客。]]></description>
       <guid>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</guid>
-      <pubDate>Wed, 15 Jan 2025 05:01:09 GMT</pubDate>
+      <pubDate>Wed, 15 Jan 2025 06:33:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>新总统宣誓就职，莫桑比克处在十字路口</title>
+      <link>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</link>
+      <description><![CDATA[自去年10月大选以来，该国一直陷入政治混乱，引发了大规模示威活动和警方的致命镇压。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</guid>
+      <pubDate>Wed, 15 Jan 2025 06:03:55 GMT</pubDate>
     </item>
     <item>
       <title>洛杉矶大火摧毁了阿尔塔迪纳历史悠久的黑人社区</title>
@@ -39,13 +53,6 @@
       <description><![CDATA[候任总统唐纳德·J·特朗普在任命国防部长时并未做出任何会疏远军事委员会共和党参议员的言论。]]></description>
       <guid>https://www.nytimes.com/2025/01/14/us/pete-hegseth-confirmation-hearing-takeaways.html</guid>
       <pubDate>Wed, 15 Jan 2025 03:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 将用一枚火箭发射两个新月球着陆器：你需要了解哪些信息</title>
-      <link>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</link>
-      <description><![CDATA[德克萨斯州 Firefly Aerospace 公司和日本 Ispace 公司生产的机器人飞行器将于周三早上从同一枚 SpaceX 火箭上发射升空。两家公司的着陆点均为月球表面。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</guid>
-      <pubDate>Wed, 15 Jan 2025 01:50:05 GMT</pubDate>
     </item>
     <item>
       <title>Joni Ernst 表示她将投票确认 Pete Hegseth 的任命</title>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 14 Jan 2025 23:30:04 GMT</pubDate>
     </item>
     <item>
-      <title>我们对拟议的加沙停火协议的了解</title>
-      <link>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</link>
-      <description><![CDATA[外交官们周二表示谨慎乐观，认为以色列和哈马斯可能即将达成协议。但他们也警告称，协议尚未签署。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</guid>
-      <pubDate>Tue, 14 Jan 2025 22:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>普京的和平计划根本不是和平</title>
-      <link>https://www.nytimes.com/2025/01/14/opinion/us-ukraine-defense-austin-blinken-russia.html</link>
-      <description><![CDATA[现在是美国巩固支持乌克兰的历史性成功成果的时候了，而不是将其浪费掉。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/opinion/us-ukraine-defense-austin-blinken-russia.html</guid>
-      <pubDate>Tue, 14 Jan 2025 19:18:07 GMT</pubDate>
+      <title>Pete Hegseth 的荒谬选择</title>
+      <link>https://www.nytimes.com/2025/01/14/opinion/hegseth-confirmation-hearing.html</link>
+      <description><![CDATA[今天的听证会后，该提案应该会被搁置。但我怀疑它不会。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/opinion/hegseth-confirmation-hearing.html</guid>
+      <pubDate>Tue, 14 Jan 2025 20:24:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
