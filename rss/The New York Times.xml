@@ -1,65 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 14 Jan 2025 21:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:41:22 GMT</lastBuildDate>
     <item>
-      <title>为什么即使产量上升，石油行业就业岗位仍然减少</title>
-      <link>https://www.nytimes.com/2025/01/14/business/energy-environment/oil-gas-jobs.html</link>
-      <description><![CDATA[该行业正在开采越来越多的石油和天然气，但其雇用的工人数量仅为十年前的四分之三。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/business/energy-environment/oil-gas-jobs.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:55:58 GMT</pubDate>
+      <title>洛杉矶火灾的风力预报比预期弱，但周三可能会增强</title>
+      <link>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</link>
+      <description><![CDATA[周二下午，国家气象局的预报员取消了当天剩余时间的最严重警告。但警报将于周三早上恢复。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</guid>
+      <pubDate>Wed, 15 Jan 2025 00:34:23 GMT</pubDate>
     </item>
     <item>
-      <title>MSNBC 总裁拉希达·琼斯辞职</title>
-      <link>https://www.nytimes.com/2025/01/14/business/media/msnbc-rashida-jones-stepping-down.html</link>
-      <description><![CDATA[MSNBC 内容策略高级副总裁丽贝卡·库特勒 (Rebecca Kutler) 将担任该有线电视网络的临时总裁。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/business/media/msnbc-rashida-jones-stepping-down.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:53:45 GMT</pubDate>
+      <title>威尔士王妃凯特·米德尔顿证实她的癌症已缓解</title>
+      <link>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</link>
+      <description><![CDATA[周二，她在 Instagram 上写道：“现在病情缓解了，真是松了一口气，我将继续专注于康复。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</guid>
+      <pubDate>Wed, 15 Jan 2025 00:31:41 GMT</pubDate>
     </item>
     <item>
-      <title>米歇尔·奥巴马将缺席特朗普的就职典礼</title>
-      <link>https://www.nytimes.com/2025/01/14/us/politics/michelle-obama-trump-inauguration.html</link>
-      <description><![CDATA[奥巴马夫人还拒绝参加上周吉米·卡特的葬礼，否则她将有机会与特朗普面对面。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/politics/michelle-obama-trump-inauguration.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:43:20 GMT</pubDate>
+      <title>韩国调查人员再次试图在尹富根总统的住所拘捕他</title>
+      <link>https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html</link>
+      <description><![CDATA[在尹锡烈的最后一次尝试被其庞大的安保团队挫败后，更多的警力加入了将他带走接受审问的行动。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html</guid>
+      <pubDate>Wed, 15 Jan 2025 00:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>卡塔尔称以色列与哈马斯接近达成停火协议</title>
-      <link>https://www.nytimes.com/2025/01/14/world/middleeast/israel-hamas-cease-fire-deal-talks.html</link>
-      <description><![CDATA[由卡塔尔、埃及和美国调解的谈判经过数月的努力未能取得突破，似乎取得了进展。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/middleeast/israel-hamas-cease-fire-deal-talks.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:38:18 GMT</pubDate>
+      <title>SEC 起诉伊隆·马斯克涉嫌与 Twitter 相关的证券违规行为</title>
+      <link>https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html</link>
+      <description><![CDATA[监管机构向联邦法院提起诉讼，起因是马斯克斥资 440 亿美元收购社交媒体公司（现称为 X）。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html</guid>
+      <pubDate>Wed, 15 Jan 2025 00:13:08 GMT</pubDate>
     </item>
     <item>
-      <title>拜登将把古巴从支持恐怖主义国家名单中除名</title>
-      <link>https://www.nytimes.com/2025/01/14/us/politics/biden-cuba.html</link>
-      <description><![CDATA[这一决定是美国各政府对古巴采取的一系列相互冲突的政策中的最新一个。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/politics/biden-cuba.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:17:44 GMT</pubDate>
+      <title>Hegseth 通过电视、书籍和付费演讲收入 600 万美元</title>
+      <link>https://www.nytimes.com/2025/01/14/business/pete-hegseth-financial-reports.html</link>
+      <description><![CDATA[财务报告显示了这位潜在国防部长从过去的演讲和写作中获得的报酬，其中一些为参议员在其确认听证会上提供了素材。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/business/pete-hegseth-financial-reports.html</guid>
+      <pubDate>Tue, 14 Jan 2025 23:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>官员称乌克兰在俄罗斯境内发动“大规模”无人机袭击</title>
-      <link>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-massive-drone-strikes.html</link>
-      <description><![CDATA[此次炮击似乎是乌克兰近期在本土破坏俄罗斯战争机器的最大规模袭击之一。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-massive-drone-strikes.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:10:00 GMT</pubDate>
+      <title>杰克·史密斯的问责努力以特朗普获得更多自由而告终</title>
+      <link>https://www.nytimes.com/2025/01/14/us/politics/jack-smith-trump-presidents.html</link>
+      <description><![CDATA[如今，司法部已进入特朗普的第二届政府，其追究总统责任的权力比半个世纪以来任何时候都要小。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/politics/jack-smith-trump-presidents.html</guid>
+      <pubDate>Tue, 14 Jan 2025 23:30:15 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员称加沙死亡人数可能比报道的高出 40％</title>
+      <title>新的肥胖定义对当前的BMI使用提出挑战</title>
+      <link>https://www.nytimes.com/2025/01/14/health/bmi-obesity-definition.html</link>
+      <description><![CDATA[一个国际委员会主张关注体脂数量和人们所患的疾病。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/health/bmi-obesity-definition.html</guid>
+      <pubDate>Tue, 14 Jan 2025 23:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pete Hegseth 确认听证会的要点</title>
+      <link>https://www.nytimes.com/2025/01/14/us/pete-hegseth-confirmation-hearing-takeaways.html</link>
+      <description><![CDATA[当选总统唐纳德·J·特朗普在任命国防部长时并未做出任何会疏远军事委员会共和党参议员的言论。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/pete-hegseth-confirmation-hearing-takeaways.html</guid>
+      <pubDate>Tue, 14 Jan 2025 23:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们对拟议的加沙停火协议的了解</title>
+      <link>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</link>
+      <description><![CDATA[外交官们周二表示谨慎乐观，认为以色列和哈马斯可能即将达成协议。但他们也警告称，协议尚未签署。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/world/middleeast/gaza-ceasefire-what-we-know.html</guid>
+      <pubDate>Tue, 14 Jan 2025 22:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>众议院通过法案禁止跨性别运动员加入女子学校运动队</title>
+      <link>https://www.nytimes.com/2025/01/14/us/politics/house-trans-athletes.html</link>
+      <description><![CDATA[共和党决定在新国会初期推动该法案的通过，表明他们相信该法案对他们具有政治影响力。该法案在参议院的未来尚不确定。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/politics/house-trans-athletes.html</guid>
+      <pubDate>Tue, 14 Jan 2025 22:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究称加沙死亡人数估计可能漏算25000人</title>
       <link>https://www.nytimes.com/2025/01/14/health/gaza-death-toll.html</link>
       <description><![CDATA[分析发现，战争开始后的前九个月，可能有超过 64,000 名巴勒斯坦人因创伤而死亡。]]></description>
       <guid>https://www.nytimes.com/2025/01/14/health/gaza-death-toll.html</guid>
-      <pubDate>Tue, 14 Jan 2025 20:05:08 GMT</pubDate>
+      <pubDate>Tue, 14 Jan 2025 22:12:28 GMT</pubDate>
     </item>
     <item>
-      <title>议长下令升起国会山旗帜迎接就职典礼</title>
-      <link>https://www.nytimes.com/2025/01/14/us/politics/mike-johnson-flags-trump-inauguration.html</link>
-      <description><![CDATA[候任总统唐纳德·J·特朗普曾抱怨，在他就职典礼当天，美国将降半旗，以表示对前总统吉米·卡特的哀悼。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/politics/mike-johnson-flags-trump-inauguration.html</guid>
-      <pubDate>Tue, 14 Jan 2025 18:08:51 GMT</pubDate>
+      <title>Pete Hegseth 为国防着装</title>
+      <link>https://www.nytimes.com/2025/01/14/style/pete-hegseth-confirmation-hearing-image.html</link>
+      <description><![CDATA[国防部长提名人在确认听证会上表现出了他的爱国热情——他的腰带、袜子和口袋巾也都体现了这一点。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/style/pete-hegseth-confirmation-hearing-image.html</guid>
+      <pubDate>Tue, 14 Jan 2025 21:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶大火摧毁了阿尔塔迪纳历史悠久的黑人社区</title>
+      <link>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</link>
+      <description><![CDATA[对于黑人居民来说，阿尔塔迪纳不仅仅代表着郊区生活，更是一代人繁荣的立足点。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</guid>
+      <pubDate>Tue, 14 Jan 2025 21:12:46 GMT</pubDate>
     </item>
     <item>
       <title>杰克·史密斯关于特朗普选举案的报告要点</title>
@@ -69,46 +104,11 @@
       <pubDate>Tue, 14 Jan 2025 18:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>威尔士王妃凯特·米德尔顿证实她的癌症已缓解</title>
-      <link>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</link>
-      <description><![CDATA[周二，她在 Instagram 上写道：“现在病情缓解了，真是松了一口气，我将继续专注于康复。”]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</guid>
-      <pubDate>Tue, 14 Jan 2025 18:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 24 小时营业的餐厅熬夜</title>
-      <link>https://www.nytimes.com/2025/01/14/dining/24-hour-diner.html</link>
-      <description><![CDATA[纽约或许正在失去其不眠之城的形象，但凯洛格餐厅里各色客人却表明这座城市的精神依然清醒。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/dining/24-hour-diner.html</guid>
-      <pubDate>Tue, 14 Jan 2025 17:00:47 GMT</pubDate>
-    </item>
-    <item>
       <title>对于这些乌克兰青少年来说，希望来到了舞台门口</title>
       <link>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-teenagers.html</link>
       <description><![CDATA[暑期表演班的学生们表演了一出以美国为背景的戏剧，名为“没关系！”这给了学生们希望，相信他们的生活也会好起来。]]></description>
       <guid>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-teenagers.html</guid>
       <pubDate>Tue, 14 Jan 2025 16:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>失败后，蒂姆·沃尔兹面临明尼苏达州共和党的命运下滑</title>
-      <link>https://www.nytimes.com/2025/01/14/us/after-loss-tim-walz-faces-partys-sinking-fortunes-in-minnesota.html</link>
-      <description><![CDATA[沃尔兹州长领导的政党已经失去了对明尼苏达州立法机构的控制权，而且由于预算赤字迫在眉睫，该党面临越来越多的批评。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/after-loss-tim-walz-faces-partys-sinking-fortunes-in-minnesota.html</guid>
-      <pubDate>Tue, 14 Jan 2025 14:39:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>密歇根州乡村小镇唯一一家杂货店能够保持独立吗？</title>
-      <link>https://www.nytimes.com/2025/01/14/business/small-grocery-stores-industry-consolidation.html</link>
-      <description><![CDATA[Honor Family Market 的老板们准备退休了。买家将面临小企业利润微薄的问题，以及与大型连锁店和折扣店的竞争。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/business/small-grocery-stores-industry-consolidation.html</guid>
-      <pubDate>Tue, 14 Jan 2025 10:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党称联邦调查局没有采访有关皮特·赫格塞斯的关键证人</title>
-      <link>https://www.nytimes.com/2025/01/14/us/fbi-pete-hegseth-background-check.html</link>
-      <description><![CDATA[在向参议员提交背景调查结果之前，该局并没有采访候任总统唐纳德·J·特朗普挑选的国防部长前妻。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/fbi-pete-hegseth-background-check.html</guid>
-      <pubDate>Tue, 14 Jan 2025 05:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
