@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 00:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 03:12:33 GMT</lastBuildDate>
+    <item>
+      <title>副业项目激发雇主兴趣：如何最大程度地发挥其作用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1nxxa/side_project_raising_employers_interest_how_to/</link>
+      <description><![CDATA[大家好！ 我是一名软件工程师，假期时从事一个完全不相关的领域。 刚开始工作时，我注意到一个可以自动化的流程，以节省一些时间，而且我自己编写了一个小型 Web 应用程序。 我向一些同事展示了我的作品，现在我的雇主想购买它，但我完全不知道如何估算我的应用程序的成本或如何计费（一次性付款？按月付费？） 此外，这是一款小型专业产品，我看不到任何其他产品可以与我的产品进行比较，以评估合理的成本。 除此之外，我在国外，几乎不知道如何评估一个不是我的国家的东西。 你们有人能给我一些建议来帮助我澄清情况吗？目前尚未达成任何协议或合同，但正在讨论中。 感谢您提供的任何提示！    提交人    /u/Sea-Evidence-5672   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1nxxa/side_project_raising_employers_interest_how_to/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这到底是什么意思？这样好吗？对 github 不熟悉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1ntvh/what_does_this_mean_exactly_is_it_good/</link>
+      <description><![CDATA[      https://preview.redd.it/ku73b0erm2de1.png?width=1748&amp;format=png&amp;auto=webp&amp;s=27474f7c7ace99cd7186d032afe2710ee8595592 我选择在 github 页面上托管我的个人网站并将其公开，以便我可以看到见解。我今天检查了一下，它说这个有克隆版？链接只在我的简历上，所以我不明白为什么有人会找到它，除非它是我申请的一些工作的雇主。我不明白为什么有人会克隆这个仓库供自己使用。这是一种欺诈行为吗？我应该将其设置为私有吗？    提交人    /u/Electronic_Mind9464   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1ntvh/what_does_this_mean_exactly_is_it_good/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:53:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作中的职业发展工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1nqc5/career_progression_tools_at_work/</link>
+      <description><![CDATA[我很少觉得自己对自己的职业发展有清晰的认识。我也很少觉得我的经理/领导真正了解我、我的技能以及如何帮助我更上一层楼。我希望有更好的流程/工具来帮助解决这个问题。还有人有这种感觉吗？还有人对此有很好的体验吗？    提交人    /u/marvlorian   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1nqc5/career_progression_tools_at_work/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:47:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的网站/应用程序使用什么 ESP？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1nptx/what_esp_do_you_use_for_your_websiteapp/</link>
+      <description><![CDATA[我现在需要将交易电子邮件集成到我的应用程序（和营销）中，但在使用 SendGrid 时遇到了麻烦。长话短说，一年前我创建了一个 SendGrid 帐户来测试该平台，在尝试再次使用它后，他们因不活动而禁用了我的帐户，并且出于某种原因不会重新激活它，即使与支持人员交谈后也是如此。他们告诉我用新电子邮件创建一个新帐户，我照做了，但我的新帐户被锁定了。我甚至尝试用不同的域名创建一个新帐户，结果还是一样。这很遗憾，因为我真的很喜欢这个平台，并且已经将代码添加到我的应用程序中，所以这浪费了精力。 我需要一个具有慷慨免费套餐的东西，并且有一些自动化会很好。我当时正在查看 Mailgun、Brevo 或 Postmark，但在查看演示后，我不确定哪个是最好的。有什么建议吗？ 抱歉，如果这与主题无关。它涉及使用 API，所以我认为它在某种程度上是 webdev。    提交人    /u/clit_or_us   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1nptx/what_esp_do_you_use_for_your_websiteapp/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>交叉发布 r/web_design 寻求为 Hydrogen 店面招聘 UI/UX 设计师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1npqw/cross_post_rweb_design_looking_to_hire_uiux/</link>
+      <description><![CDATA[我是一名网页开发者，知道自己在设计方面的极限，我正在寻找可以在 Shopify 网站上合作的人。我将为一家对其品牌愿景非常敏锐的艺术公司建立一个无头氢店面。我正在考虑参加 99design 竞赛，但在走这条路之前，我想看看是否有人有更好的推荐。TIA    提交人    /u/Wvrcus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1npqw/cross_post_rweb_design_looking_to_hire_uiux/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>mimo pro 值得吗？与 sololearn 相比如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1nlte/is_mimo_pro_worth_it_and_how_does_it_compare_to/</link>
+      <description><![CDATA[我对使用应用程序帮助我学习编程和开发很感兴趣。我计划在 Mimo 上学习 Python AI 开发和全栈开发课程。我一直是 Duolingo 的忠实用户，所以经过一番搜索后，Mimo 和 Sololearn 引起了我的兴趣，因为我可以通过它们每天增加知识。 我还想知道是否有人知道 Mimo 的促销频率，因为如果在接下来的 24 小时内购买，他们会提供 50% 的折扣（每年 50 美元）。 最后，同时使用这两个应用程序是否有意义？还是说重叠太多了？提前感谢您的回答    提交人    /u/ChromeGhost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1nlte/is_mimo_pro_worth_it_and_how_does_it_compare_to/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 .env 文件创建了一个秘密管理器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i1nfyw/created_a_secret_manager_for_env_files/</link>
+      <description><![CDATA[      作为一名自由职业者，我每个月都会用它跟踪我的 .env 文件，我有一些项目正在外包，所以其他开发人员正在为我做这件事。通常，当新开发人员加入时，他们首先会问“生产环境或本地环境的 .env 文件在哪里”。而且在 Slack 和其他渠道上再次寻找它非常麻烦。 这就是我创建 Hold My Env 的原因，这是一个安全管理和存储 .env 文件的工具。 为了确保 Hold My Env 的最大隐私，它将客户端加密与零知识安全模型相结合。在此设置中，加密密钥仅在客户端生成和存储，因此只有用户才能访问它们。平台无法查看、解密或访问用户数据，因为它在到达我们的服务器之前已完全加密。 它最初是我自己解决挫折的个人解决方案，现在与您分享。 谢谢，任何宝贵的反馈都将不胜感激！ https://preview.redd.it/9o8ghrebk2de1.png?width=1684&amp;format=png&amp;auto=webp&amp;s=0de1f10f24f466fc29df41e3b182250922f816bd    提交人    /u/rymsjr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i1nfyw/created_a_secret_manager_for_env_files/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:32:45 GMT</pubDate>
+    </item>
     <item>
       <title>有什么软件可以做简单的销售仪表盘吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1ko0z/what_software_for_simple_sales_dashboard/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>Web 应用程序课程作业</title>
       <link>https://www.reddit.com/r/webdev/comments/1i1jd9p/web_app_class_assignment/</link>
-      <description><![CDATA[我的 Web 应用程序开发老师刚刚给我们布置了一项作业，我完全不知道从哪里开始。我真的不知道如何在不复制粘贴的情况下传达作业。 &quot;您需要注册一个域名 将您的域名指向他们的 Web 服务器。 确保您的 Web 服务器提供 PHP、Javascript 和 MySQL（或类似的数据库）。 您不会使用它们来创建网页或 Web 应用程序 - 您将学习如何自己做这件事。 在您的服务器上创建一个 index.html 文件。它应该说“我的名字是 xxxxxx” 包括一些适合 A 的图片。其中一张应该是你的脸部照片。“ 我们甚至还没有在课堂上见过面，除了我粘贴的内容之外没有其他指导。我不想在家庭作业上花钱然后选错东西。我想我能够弄清楚所有的开发位，但我不知道该选择哪个提供商或如何判断哪些是好是坏。 编辑：我的主要问题是选择正确的提供商，我不想花 30 美元买一些我无法用于这项作业的东西。我不知道如何正确审查提供商。    提交人    /u/ChungusGinger   [链接] [评论]]]></description>
+      <description><![CDATA[我的 Web 应用程序开发老师刚刚给我们布置了一项作业，我完全不知道从哪里开始。我真的不知道如何在不复制粘贴的情况下传达作业。 &quot;您需要注册一个域名 将您的域名指向他们的 Web 服务器。 确保您的 Web 服务器提供 PHP、Javascript 和 MySQL（或类似的数据库）。 您不会使用它们来创建网页或 Web 应用程序 - 您将学习如何自己做这件事。 在您的服务器上创建一个 index.html 文件。它应该说“我的名字是 xxxxxx” 包括一些适合 A 的图片。其中一张应该是你的脸部照片。“ 我们甚至还没有在课堂上见过面，除了我粘贴的内容之外没有其他指导。我不想在家庭作业上花钱选错东西。我想我能够弄清楚所有的开发部分，但我不知道该选择哪个提供商或如何判断哪些是好是坏。 编辑：我的主要问题是选择正确的提供商，我不想花 30 美元买一些我不能用于这项作业的东西。我不知道如何正确审查提供商。 更新：我决定购买一个域名并使用 GitHub Page 功能免费启动和运行一个网站，这样我就可以提交作业了。我稍后会向我的老师询问更多细节。 Web 开发很可怕    提交人    /u/ChungusGinger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1jd9p/web_app_class_assignment/</guid>
       <pubDate>Tue, 14 Jan 2025 23:12:49 GMT</pubDate>
     </item>
@@ -46,55 +95,6 @@
       <description><![CDATA[对于 Web 应用注册的电子邮件地址规范化，最佳做法是什么？ 你们有人在注册时规范电子邮件地址吗？ 我偶然发现了这一点，并试图弄清楚我是否应该这样做。基本上，用户使用 [user.example@gmail.com](mailto:user.example@gmail.com) 注册，但随后也可以使用 [userexample@gmail.com](mailto:userexample@gmail.com) 注册。由于 gmail 地址中的句号在技术上会被忽略，因此它们都是相同的电子邮件地址。 我们在应用程序中使用 google 登录，并使用标准电子邮件注册。我注意到一些用户使用 gmail 注册，他们的电子邮件地址中有句号，然后他们也使用没有句号的完全相同的电子邮件地址注册。我研究过规范化电子邮件地址（例如，删除所有句点 + 将所有字母变为小写），但在测试了一些不同的流行应用程序（Linear、Resend 等）后，他们只是创建单独的帐户，而不是规范化电子邮件地址并将所有实例合并到一个帐户中（例如，如果您使用 [user.example@gmail.com](mailto:user.example@gmail.com) 注册，然后尝试使用 [userexample@gmail.com](mailto:userexample@gmail.com) 注册，它会说该电子邮件已被使用）。 那么这里的标准或最佳实践是什么？只是让某人使用带有句点和不带有句点的相同电子邮件地址进行注册，并每次都为其创建一个新帐户吗？    提交人    /u/usedigest   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1i84x/email_address_normalization_what_is_the_best/</guid>
       <pubDate>Tue, 14 Jan 2025 22:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个节点开发人员应该了解哪些加密包/算法/功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1hnah/which_crypto_packagesalgosfunctions_should_every/</link>
-      <description><![CDATA[编辑：身份验证不是加密货币   作为初学者，我对可用选项以及所述选项的复杂性感到有些不知所措。我开始了解 base16 和 base32 编码、散列和非对称签名令牌以及 CSPRNG 和熵位之间的差异。   但我似乎无法理解在特定情况下应该使用哪些包。到目前为止，我一直在遵循 Copenhagen 书中提供的指导（来自 Lucia auth 的制造商），并使用 Argon2 对客户端密码进行散列。我还使用 npm cookie 来签署 cookie，它接受 node:crypto.getHashes() 中列出的任何算法（尽管默认值是 sha-256）。说到这，列出了 50 多种不同的算法。 Latacora Right Answers 似乎提供了我正在寻找的“这是你的答案”类型，但它是在 2018 年制作的。 这是较新的，但天哪，它太冗长了 然后有一些非常流行的首字母缩略词我还没有使用：HMAC，JWT。   最后，内置的 node：crypto 模块是否提供了我需要的大部分内容？什么时候我应该查看 node:crypto 而不是查看像 argon2 这样的外部包？我很困惑，我害怕使用 Crypto.randomBytes() 来生成一些随机值，因为我不知道它是 CSPRNG 还是 PRNG。    提交人    /u/Agitated_Syllabub346   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1hnah/which_crypto_packagesalgosfunctions_should_every/</guid>
-      <pubDate>Tue, 14 Jan 2025 21:57:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的浏览器扩展中使用 declarativeNetRequest</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1hfr6/using_declarativenetrequest_in_my_browser/</link>
-      <description><![CDATA[我正在创建一个浏览器扩展程序，该扩展程序使用 declarativeNetRequest 权限来修改特定网页上的某些请求规则。我注意到，如果我在安装扩展程序时已经打开了该页面，则规则不会立即生效，并且浏览器扩展程序功能会失败。如果我刷新页面，则它会成功。我不希望在我最终向公众发布扩展程序时这种情况发生在我的用户身上。有没有办法立即应用规则，还是应该在安装时警告用户需要刷新？    提交人    /u/Produkt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1hfr6/using_declarativenetrequest_in_my_browser/</guid>
-      <pubDate>Tue, 14 Jan 2025 21:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>返回 Web 开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1h49g/return_to_web_development/</link>
-      <description><![CDATA[大家好， 这个问题听起来可能有点傻，但我真的很想听听大家的意见，尤其是那些经历过类似事情的人。 我原本是一名使用 JavaScript、React、Node.js 和 MySQL 的 Web 开发人员，我做了大约一年半，以自由职业者的身份创建了许多 Web 应用程序。偶然的机会，我得到了一个在银行 IT 部门工作的好机会，在过去的一年半里，我只使用 SQL，完全忽略了 Web 开发。 我真的很想恢复到以前的样子，所以我想征求一些建议。你认为需要多长时间？我休息的时间是不是太长了？任何建议都将不胜感激。 谢谢！    提交人    /u/Most_Speaker9116   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1h49g/return_to_web_development/</guid>
-      <pubDate>Tue, 14 Jan 2025 21:34:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何部署和管理大量网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1fjlb/how_to_deploy_and_manage_large_amount_of_websites/</link>
-      <description><![CDATA[您好，我创建了一个网站的“蓝图”，想卖给一些小公司。但我对这一切还很陌生，除了编程过程之外从未取得过任何进展。 所以我的问题是： 1) 如何使我的 Web 应用程序可访问。 2) 如何有效地管理多个不同的网页 那么有没有一种工具可以使用，我可以轻松购买域名并部署相应的网站并管理成本 这样小公司就可以每月向我支付管理所有这些的费用？ 有人有这种模式的经验吗？ 提前谢谢大家    提交人    /u/DasWildeMaus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1fjlb/how_to_deploy_and_manage_large_amount_of_websites/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:23:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修复网站上的拉伸文本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1f6fo/how_to_fix_stretched_text_on_my_website/</link>
-      <description><![CDATA[      https://preview.redd.it/loen85efn0de1.png?width=350&amp;format=png&amp;auto=webp&amp;s=d0f29a037c119f3b7e5cf6424d20a56b088f36c3 我正在制作一个项目网站，这是我的第一个网站，所以现在有点丑，允许它:) 我将它放在我的网站顶部，字体看起来不错， 但是当我使用相同的字体在图像中间居中时，即标题我的网站，字体被拉伸并且非常难看。 https://preview.redd.it/i8el590nn0de1.png?width=712&amp;format=png&amp;auto=webp&amp;s=dfd43fc4914b3173cc0157d64ffea6edcb5cf767 它们都在同一张照片上，无法显示，因为它会泄露我    提交人    /u/Negative_Witness_990   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1f6fo/how_to_fix_stretched_text_on_my_website/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>React 学习时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1estx/react_learning_time/</link>
-      <description><![CDATA[你花了多长时间学习 React，使用了哪些资源？    提交人    /u/Specific-Orchid-6978   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1estx/react_learning_time/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何与其他机构合作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1edu9/how_can_i_partner_with_other_agencies/</link>
-      <description><![CDATA[大家好， 我经营我的代理机构已经 14 年多了，在此期间，我们赢得了忠实客户和可靠评论的良好声誉。推荐是我们成长的重要组成部分，但我们从未真正探索过与其他机构的合作关系。 我希望与 SEO 或媒体购买机构建立联系。想法是：如果您的客户需要网页设计但您不提供，我们可以处理。我们将提供高达 20% 的销售佣金和您推荐给我们的客户的折扣。作为回报，我们也可以推荐需要 SEO 或媒体购买服务的客户。 我曾考虑过给代理机构所有者发送冷电子邮件，但不知道在 Reddit 上联系是否效果更好。挑战在于平衡外联与专注于我当前的客户。 这里有人以前与其他机构合作过吗？我很乐意听听您的建议或想法，以找到解决此问题的最佳方法。 感谢您的时间！    提交人    /u/SIDATI666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1edu9/how_can_i_partner_with_other_agencies/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:35:17 GMT</pubDate>
     </item>
     <item>
       <title>CSS 关键帧动画及其对用户体验的影响</title>
