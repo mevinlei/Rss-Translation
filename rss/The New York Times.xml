@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:07:19 GMT</lastBuildDate>
+    <item>
+      <title>波兰领导人暗示俄罗斯参与袭击西方货机的阴谋</title>
+      <link>https://www.nytimes.com/2025/01/15/world/europe/russia-plot-to-attack-cargo-planes.html</link>
+      <description><![CDATA[波兰总理唐纳德·塔斯克表示：“我只能确认俄罗斯策划了空中恐怖行为，不仅针对波兰，还针对全球的航空公司。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/world/europe/russia-plot-to-attack-cargo-planes.html</guid>
+      <pubDate>Wed, 15 Jan 2025 17:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA 禁止在食品中添加红色染料 3，称其与大鼠癌症有关</title>
+      <link>https://www.nytimes.com/2025/01/15/health/fda-red-dye-3-cancer-rats.html</link>
+      <description><![CDATA[消费者和食品安全组织长期以来一直敦促该机构停止使用这种染料和其他染料。FDA 表示，目前尚无证据表明它对人类具有致癌性。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/health/fda-red-dye-3-cancer-rats.html</guid>
+      <pubDate>Wed, 15 Jan 2025 17:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>杰西卡·蒂施 (Jessica Tisch) 试图在一段时间的动乱后驯服纽约警察局</title>
+      <link>https://www.nytimes.com/2025/01/15/nyregion/nypd-comissioner-jessica-tisch.html</link>
+      <description><![CDATA[在市长埃里克·亚当斯 (Eric Adams) 提拔的几位前警察局领导受到联邦调查人员的审查后，警察局长杰西卡·S·蒂施 (Jessica S. Tisch) 开始对警察局进行大改组。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/nyregion/nypd-comissioner-jessica-tisch.html</guid>
+      <pubDate>Wed, 15 Jan 2025 17:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>惠特默为维护密歇根州汽车业发出关税风险警告</title>
+      <link>https://www.nytimes.com/2025/01/15/us/politics/trump-canada-tariffs-whitmer.html</link>
+      <description><![CDATA[州长格雷琴·惠特默在底特律车展上发表讲话称，关税不应被用来“惩罚我们最亲密的贸易伙伴”，比如加拿大。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/us/politics/trump-canada-tariffs-whitmer.html</guid>
+      <pubDate>Wed, 15 Jan 2025 16:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶火灾造成的经济损失远不止房屋被毁</title>
+      <link>https://www.nytimes.com/2025/01/15/business/economy/los-angeles-fires-economy.html</link>
+      <description><![CDATA[持续的灾难将在未来几年影响居民的健康、当地产业、公共预算和住房成本。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/business/economy/los-angeles-fires-economy.html</guid>
+      <pubDate>Wed, 15 Jan 2025 16:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 称即使被禁，美国员工仍将有工作</title>
+      <link>https://www.nytimes.com/2025/01/15/business/tiktok-bytedance-ban-jobs.html</link>
+      <description><![CDATA[该公司正在等待一项新法律是否符合宪法的裁决，该法律旨在以禁令为威胁，强制向非中国所有者出售该应用程序。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/business/tiktok-bytedance-ban-jobs.html</guid>
+      <pubDate>Wed, 15 Jan 2025 16:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通、富国银行和高盛公布巨额利润</title>
+      <link>https://www.nytimes.com/2025/01/15/business/bank-earnings-goldman-jpmorgan-chase-wells-fargo.html</link>
+      <description><![CDATA[摩根大通、富国银行和高盛等大型银行周三公布了丰厚的利润。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/business/bank-earnings-goldman-jpmorgan-chase-wells-fargo.html</guid>
+      <pubDate>Wed, 15 Jan 2025 16:30:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>一家公司如何利用旨在帮助穷人的医院项目赚取数百万美元</title>
+      <link>https://www.nytimes.com/2025/01/15/us/340b-apexus-drugs-middleman.html</link>
+      <description><![CDATA[一家私营企业帮助推动了一项备受争议的联邦药物计划。患者和保险公司因此背负了巨额账单。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/us/340b-apexus-drugs-middleman.html</guid>
+      <pubDate>Wed, 15 Jan 2025 15:15:34 GMT</pubDate>
+    </item>
     <item>
       <title>12 月 CPI 上涨，表明美联储的通胀控制措施已陷入停滞</title>
       <link>https://www.nytimes.com/2025/01/15/business/inflation-december-economy.html</link>
@@ -13,11 +69,11 @@
       <pubDate>Wed, 15 Jan 2025 15:03:57 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通、富国银行和高盛公布巨额利润</title>
-      <link>https://www.nytimes.com/2025/01/15/business/bank-earnings-goldman-jpmorgan-chase-wells-fargo.html</link>
-      <description><![CDATA[摩根大通、富国银行和高盛等大型银行周三公布了丰厚的利润。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/business/bank-earnings-goldman-jpmorgan-chase-wells-fargo.html</guid>
-      <pubDate>Wed, 15 Jan 2025 14:51:22 GMT</pubDate>
+      <title>前伯尼·桑德斯竞选负责人 Faiz Shakir 参加民主党全国委员会主席竞选</title>
+      <link>https://www.nytimes.com/2025/01/15/us/politics/faiz-shakir-dnc.html</link>
+      <description><![CDATA[沙基尔表示，一旦赢得这个职位，他的使命就是将民主党重新定义为工人阶级的政党。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/us/politics/faiz-shakir-dnc.html</guid>
+      <pubDate>Wed, 15 Jan 2025 15:03:00 GMT</pubDate>
     </item>
     <item>
       <title>拜登将发表告别演说，结束长达 50 年的政治生涯</title>
@@ -27,60 +83,11 @@
       <pubDate>Wed, 15 Jan 2025 14:12:52 GMT</pubDate>
     </item>
     <item>
-      <title>官员称以色列和哈马斯正在就加沙停火协议的最终细节进行磋商</title>
-      <link>https://www.nytimes.com/2025/01/15/world/middleeast/israel-hamas-cease-fire-deal-gaza-hostages.html</link>
-      <description><![CDATA[周三，在卡塔尔举行会议的谈判人员和调解员正忙于解决悬而未决的问题。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/world/middleeast/israel-hamas-cease-fire-deal-gaza-hostages.html</guid>
-      <pubDate>Wed, 15 Jan 2025 13:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥斯维辛集中营的一间房子向令人毛骨悚然的过去敞开大门</title>
-      <link>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</link>
-      <description><![CDATA[奥斯卡获奖电影《利益区》的主角——死亡集中营战时指挥官鲁道夫·霍斯的故居即将迎来游客。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</guid>
-      <pubDate>Wed, 15 Jan 2025 13:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>参与洛杉矶大火救援的飞行员面临高温、湍流和高压风险</title>
-      <link>https://www.nytimes.com/2025/01/15/us/firefighting-pilots-california-fires.html</link>
-      <description><![CDATA[驾驶飞机和加油机灭火的人员面临着炎热、潮湿、颠簸的环境，并且还有阻燃剂无法到达需要的地方的风险。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/us/firefighting-pilots-california-fires.html</guid>
-      <pubDate>Wed, 15 Jan 2025 12:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年德国经济萎缩。政客们誓言要重振经济。</title>
-      <link>https://www.nytimes.com/2025/01/15/business/germany-economy.html</link>
-      <description><![CDATA[即将举行的联邦选举的候选人专注于降低税收和增加公共支出。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/business/germany-economy.html</guid>
-      <pubDate>Wed, 15 Jan 2025 12:22:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>导弹袭击导致乌克兰紧急断电</title>
-      <link>https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-missile-attack-energy.html</link>
-      <description><![CDATA[乌克兰总统泽连斯基表示，防空部队在一次“大规模”攻击中击落了至少 30 枚针对天然气和能源设施的导弹。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-missile-attack-energy.html</guid>
-      <pubDate>Wed, 15 Jan 2025 12:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙停火“岌岌可危”，美国证券交易委员会起诉伊隆·马斯克</title>
-      <link>https://www.nytimes.com/2025/01/15/podcasts/gaza-ceasefire-biden-farewell.html</link>
-      <description><![CDATA[另外，谁会举行成人礼？]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/podcasts/gaza-ceasefire-biden-farewell.html</guid>
-      <pubDate>Wed, 15 Jan 2025 11:54:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登为何重要</title>
-      <link>https://www.nytimes.com/2025/01/15/briefing/joe-biden-legacy.html</link>
-      <description><![CDATA[我们探索总统的遗产。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/briefing/joe-biden-legacy.html</guid>
-      <pubDate>Wed, 15 Jan 2025 11:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>许多叙利亚人希望对政权犯下的罪行进行审判。其他人则希望进行报复。</title>
-      <link>https://www.nytimes.com/2025/01/15/world/middleeast/syria-justice-revenge-assad-crimes.html</link>
-      <description><![CDATA[叙利亚新临时政府表示将追捕并惩罚高级安全官员和其他人员，但对于针对阿萨德政权部队前低级别成员的袭击的担忧日益加剧。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/world/middleeast/syria-justice-revenge-assad-crimes.html</guid>
-      <pubDate>Wed, 15 Jan 2025 10:03:35 GMT</pubDate>
+      <title>她爱上了 ChatGPT</title>
+      <link>https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html</link>
+      <description><![CDATA[一位 28 岁的女性社交生活繁忙，她花了好几个小时与她的人工智能男友交谈，寻求建议和安慰。当然，他们确实发生了性关系。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/technology/ai-chatgpt-boyfriend-companion.html</guid>
+      <pubDate>Wed, 15 Jan 2025 14:00:09 GMT</pubDate>
     </item>
     <item>
       <title>拜登通过一系列行动巩固其政治遗产</title>
@@ -90,25 +97,18 @@
       <pubDate>Wed, 15 Jan 2025 10:03:14 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶火灾造成的经济损失远不止房屋被毁</title>
-      <link>https://www.nytimes.com/2025/01/15/business/economy/los-angeles-fires-economy.html</link>
-      <description><![CDATA[持续的灾难将在未来几年影响居民的健康、当地产业、公共预算和住房成本。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/business/economy/los-angeles-fires-economy.html</guid>
-      <pubDate>Wed, 15 Jan 2025 10:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家公司如何利用旨在帮助穷人的医院项目赚取数百万美元</title>
-      <link>https://www.nytimes.com/2025/01/15/us/340b-apexus-drugs-middleman.html</link>
-      <description><![CDATA[一家私营企业帮助推动了一项备受争议的联邦药物计划。患者和保险公司因此背负了巨额账单。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/us/340b-apexus-drugs-middleman.html</guid>
-      <pubDate>Wed, 15 Jan 2025 10:00:10 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰一座重要煤矿遭俄军攻击最终关闭</title>
       <link>https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-coal-mine.html</link>
       <description><![CDATA[该煤矿位于前线城市波克罗夫斯克附近，生产对乌克兰钢铁行业至关重要的焦煤。煤矿一直开工，直到最后一刻，俄罗斯军队终于攻占了矿区。]]></description>
       <guid>https://www.nytimes.com/2025/01/15/world/europe/ukraine-russia-coal-mine.html</guid>
       <pubDate>Wed, 15 Jan 2025 10:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶部分地区生活仍在继续，但并不正常</title>
+      <link>https://www.nytimes.com/2025/01/14/us/los-angeles-residents-fires.html</link>
+      <description><![CDATA[虽然许多洛杉矶人遭受了火灾的重创，但这座庞大城市中的其他人却不得不在救助和“正常生活”之间找到平衡。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/los-angeles-residents-fires.html</guid>
+      <pubDate>Wed, 15 Jan 2025 00:36:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

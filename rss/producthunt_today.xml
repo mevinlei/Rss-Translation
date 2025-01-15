@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 15:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 18:14:23 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 任务</title>
+      <link>https://www.producthunt.com/posts/chatgpt-task</link>
+      <description><![CDATA[
+ChatGPT 中的计划任务
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/chatgpt-task</guid>
+      <pubDate>Wed, 15 Jan 2025 14:26:56 GMT</pubDate>
+    </item>
     <item>
       <title>地层人工智能</title>
       <link>https://www.producthunt.com/posts/stractiai</link>
@@ -118,20 +132,6 @@ AI 视觉应用可将您的手机变成俯卧撑训练器！
       <pubDate>Tue, 14 Jan 2025 09:38:51 GMT</pubDate>
     </item>
     <item>
-      <title>crtrdg</title>
-      <link>https://www.producthunt.com/posts/crtrdg</link>
-      <description><![CDATA[
-一键启动您的游戏网站
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/crtrdg</guid>
-      <pubDate>Tue, 14 Jan 2025 03:53:01 GMT</pubDate>
-    </item>
-    <item>
       <title>聚甲醛</title>
       <link>https://www.producthunt.com/posts/pom</link>
       <description><![CDATA[
@@ -146,18 +146,18 @@ AI 视觉应用可将您的手机变成俯卧撑训练器！
       <pubDate>Tue, 14 Jan 2025 02:57:30 GMT</pubDate>
     </item>
     <item>
-      <title>满月</title>
-      <link>https://www.producthunt.com/posts/fullmoon</link>
+      <title>Reachy.ai</title>
+      <link>https://www.producthunt.com/posts/reachy-ai</link>
       <description><![CDATA[
-与私人和本地大型语言模型聊天
+LinkedIn 外展 AI 代理
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/fullmoon</guid>
-      <pubDate>Mon, 13 Jan 2025 18:03:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/reachy-ai</guid>
+      <pubDate>Mon, 13 Jan 2025 22:15:49 GMT</pubDate>
     </item>
     <item>
       <title>BrainrotAI</title>
