@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 02:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 06:03:54 GMT</lastBuildDate>
     <item>
-      <title>韩国总统尹永哲因涉嫌戒严被拘留审讯</title>
-      <link>https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html</link>
-      <description><![CDATA[尹锡烈成为首位在任期间被拘留的韩国领导人，结束了其支持者与当局之间的紧张对峙。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/asia/south-korea-yoon-detain.html</guid>
-      <pubDate>Wed, 15 Jan 2025 02:54:10 GMT</pubDate>
+      <title>新总统宣誓就职，莫桑比克处在十字路口</title>
+      <link>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</link>
+      <description><![CDATA[自去年10月大选以来，该国一直陷入政治混乱，引发了大规模示威活动和警方的致命镇压。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/world/africa/mozambique-chapo-frelimo-president-mondlane.html</guid>
+      <pubDate>Wed, 15 Jan 2025 06:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥斯维辛集中营的一间房子向令人毛骨悚然的过去敞开大门</title>
+      <link>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</link>
+      <description><![CDATA[奥斯卡获奖电影《利益区》的主角——死亡集中营战时指挥官鲁道夫·霍斯的故居即将迎来游客。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/world/europe/auschwitz-zone-of-interest-house.html</guid>
+      <pubDate>Wed, 15 Jan 2025 05:01:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶大火摧毁了阿尔塔迪纳历史悠久的黑人社区</title>
+      <link>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</link>
+      <description><![CDATA[对于黑人居民来说，阿尔塔迪纳不仅仅代表着郊区生活，更是一代人繁荣的立足点。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</guid>
+      <pubDate>Wed, 15 Jan 2025 04:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶火灾的风力预报比预期弱，但周三可能会增强</title>
+      <link>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</link>
+      <description><![CDATA[周二下午，国家气象局的预报员取消了当天剩余时间的最严重警告。但警报将于周三早上恢复。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</guid>
+      <pubDate>Wed, 15 Jan 2025 03:37:44 GMT</pubDate>
     </item>
     <item>
       <title>Pete Hegseth 确认听证会的要点</title>
       <link>https://www.nytimes.com/2025/01/14/us/pete-hegseth-confirmation-hearing-takeaways.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普在任命国防部长时并未做出任何会疏远军事委员会共和党参议员的言论。]]></description>
+      <description><![CDATA[候任总统唐纳德·J·特朗普在任命国防部长时并未做出任何会疏远军事委员会共和党参议员的言论。]]></description>
       <guid>https://www.nytimes.com/2025/01/14/us/pete-hegseth-confirmation-hearing-takeaways.html</guid>
-      <pubDate>Wed, 15 Jan 2025 01:47:16 GMT</pubDate>
+      <pubDate>Wed, 15 Jan 2025 03:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 将用一枚火箭发射两个新月球着陆器：你需要了解哪些信息</title>
+      <link>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</link>
+      <description><![CDATA[德克萨斯州 Firefly Aerospace 公司和日本 Ispace 公司生产的机器人飞行器将于周三早上从同一枚 SpaceX 火箭上发射升空。两家公司的着陆点均为月球表面。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/science/nasa-spacex-launch-lunar-landers.html</guid>
+      <pubDate>Wed, 15 Jan 2025 01:50:05 GMT</pubDate>
     </item>
     <item>
       <title>Joni Ernst 表示她将投票确认 Pete Hegseth 的任命</title>
@@ -27,11 +55,18 @@
       <pubDate>Wed, 15 Jan 2025 01:44:28 GMT</pubDate>
     </item>
     <item>
+      <title>尼尔·盖曼回应爆炸性性侵犯报告</title>
+      <link>https://www.nytimes.com/2025/01/14/books/neil-gaiman-responds-sexual-assault-allegations.html</link>
+      <description><![CDATA[“我从未与任何人发生过非自愿的性行为，”这位畅销书作家在回应《纽约》杂志的指控时说道。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/books/neil-gaiman-responds-sexual-assault-allegations.html</guid>
+      <pubDate>Wed, 15 Jan 2025 01:33:10 GMT</pubDate>
+    </item>
+    <item>
       <title>SEC 起诉伊隆·马斯克涉嫌与 Twitter 相关的证券违规行为</title>
       <link>https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html</link>
       <description><![CDATA[监管机构向联邦法院提起诉讼，起因是马斯克斥资 440 亿美元收购社交媒体公司（现称为 X）。]]></description>
       <guid>https://www.nytimes.com/2025/01/14/technology/sec-elon-musk-securities-violations.html</guid>
-      <pubDate>Wed, 15 Jan 2025 01:14:26 GMT</pubDate>
+      <pubDate>Wed, 15 Jan 2025 01:14:27 GMT</pubDate>
     </item>
     <item>
       <title>凯特·米德尔顿的癌症正在缓解。但这并不总是意味着疾病被治愈。</title>
@@ -41,25 +76,11 @@
       <pubDate>Wed, 15 Jan 2025 00:54:56 GMT</pubDate>
     </item>
     <item>
-      <title>研究称加沙死亡人数估计可能漏算25000人</title>
-      <link>https://www.nytimes.com/2025/01/14/health/gaza-death-toll.html</link>
-      <description><![CDATA[分析发现，战争开始后的前九个月，可能有超过 64,000 名巴勒斯坦人因创伤而死亡。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/health/gaza-death-toll.html</guid>
-      <pubDate>Wed, 15 Jan 2025 00:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶火灾的风力预报比预期弱，但周三可能会增强</title>
-      <link>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</link>
-      <description><![CDATA[周二下午，国家气象局的预报员取消了当天剩余时间的最严重警告。但警报将于周三早上恢复。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/weather/la-fires-winds-forecast.html</guid>
-      <pubDate>Wed, 15 Jan 2025 00:50:29 GMT</pubDate>
-    </item>
-    <item>
       <title>威尔士王妃凯特·米德尔顿证实她的癌症已缓解</title>
       <link>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</link>
       <description><![CDATA[周二，她在 Instagram 上写道：“现在病情缓解了，真是松了一口气，我将继续专注于康复。”]]></description>
       <guid>https://www.nytimes.com/2025/01/14/world/europe/kate-middleton-cancer-remission.html</guid>
-      <pubDate>Wed, 15 Jan 2025 00:31:41 GMT</pubDate>
+      <pubDate>Wed, 15 Jan 2025 00:31:42 GMT</pubDate>
     </item>
     <item>
       <title>杰克·史密斯的问责努力以特朗普获得更多自由而告终</title>
@@ -83,32 +104,11 @@
       <pubDate>Tue, 14 Jan 2025 22:47:09 GMT</pubDate>
     </item>
     <item>
-      <title>Pete Hegseth 防守礼服</title>
-      <link>https://www.nytimes.com/2025/01/14/style/pete-hegseth-confirmation-hearing-image.html</link>
-      <description><![CDATA[国防部长提名人在确认听证会上表现出了他的爱国热情——他的腰带、袜子和口袋巾也都体现了这一点。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/style/pete-hegseth-confirmation-hearing-image.html</guid>
-      <pubDate>Tue, 14 Jan 2025 21:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶大火摧毁了阿尔塔迪纳历史悠久的黑人社区</title>
-      <link>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</link>
-      <description><![CDATA[对于黑人居民来说，阿尔塔迪纳不仅仅代表着郊区生活，更是一代人繁荣的立足点。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/la-fires-altadena-historic-black-community.html</guid>
-      <pubDate>Tue, 14 Jan 2025 21:12:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰克·史密斯关于特朗普选举案的报告要点</title>
-      <link>https://www.nytimes.com/2025/01/14/us/politics/jack-smith-trump-election-report-takeaways.html</link>
-      <description><![CDATA[杰克·史密斯写道，如果案件得以继续进行，唐纳德·特朗普将被定罪，并解释了为什么他没有追究煽动 1 月 6 日国会骚乱的指控。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/us/politics/jack-smith-trump-election-report-takeaways.html</guid>
-      <pubDate>Tue, 14 Jan 2025 18:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于这些乌克兰青少年来说，希望来到了舞台门口</title>
-      <link>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-teenagers.html</link>
-      <description><![CDATA[暑期表演班的学生们表演了一出以美国为背景的戏剧，名为“没关系！”这给了学生们希望，相信他们的生活也会好起来。]]></description>
-      <guid>https://www.nytimes.com/2025/01/14/world/europe/ukraine-russia-teenagers.html</guid>
-      <pubDate>Tue, 14 Jan 2025 16:00:16 GMT</pubDate>
+      <title>普京的和平计划根本不是和平</title>
+      <link>https://www.nytimes.com/2025/01/14/opinion/us-ukraine-defense-austin-blinken-russia.html</link>
+      <description><![CDATA[现在是美国巩固支持乌克兰的历史性成功成果的时候了，而不是将其浪费掉。]]></description>
+      <guid>https://www.nytimes.com/2025/01/14/opinion/us-ukraine-defense-austin-blinken-russia.html</guid>
+      <pubDate>Tue, 14 Jan 2025 19:18:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
