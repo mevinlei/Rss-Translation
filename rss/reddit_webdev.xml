@@ -4,13 +4,97 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 12:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 15:11:19 GMT</lastBuildDate>
     <item>
-      <title>来自 SendGrid 支持的一个快速教训</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2nab6/a_quick_lesson_from_sendgrid_support/</link>
-      <description><![CDATA[      有时，一张屏幕截图就能说明一切。以下是来自 SendGrid 支持的消息，他们通知我们，我们的旧帐户由于“不经常使用”而被取消 - 尽管该帐户可以正常使用并且可以访问。 https://preview.redd.it/brvon7vvfcde1.png?width=1866&amp;format=png&amp;auto=webp&amp;s=acfa09fcbce0a690ba046979969a99ef191595cc 值得庆幸的是，我们有 EmailJS 作为备份。EmailJS 保存了我们的请求，防止我们丢失重要数据。在第一小时内，我们能够设置一项新服务并重定向所有电子邮件流量，同时继续与 SendGrid 支持部门保持联系。 建议：始终有一个备份计划。考虑使用像 EmailJS 这样的集成商，它允许您轻松快速地重定向您的电子邮件流量。您可以确保您的电子邮件流量安全、灵活且易于管理 - 即使大型提供商让您陷入困境。    提交人    /u/xr0master   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2nab6/a_quick_lesson_from_sendgrid_support/</guid>
-      <pubDate>Thu, 16 Jan 2025 11:56:02 GMT</pubDate>
+      <title>关于担任初级职位的意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2qq5c/opinions_on_taking_a_junior_role/</link>
+      <description><![CDATA[大家好。 我想征求一下大家的意见。 我是一个 24 岁的软件开发人员。我在目前的公司工作了 2 年，现在我想换个公司。 在我目前的地方，我们使用更现代的技术，包括以 Nest 为框架的 React、Go 和 NodeJS。这对我来说是一个问题，因为无论我在哪里看，工作都是 c# dotnet 或 PHP larvavel。 很多提供中级软件开发职位的地方似乎对我不再感兴趣，因为他们在我的简历上没有看到太多 c# 或 laravel 经验，尽管我知道学习和使用不同的技术堆栈并不需要太多的努力（我通过业余项目尝试了不同的东西） 在过去几天看市场时，我看到了很多 PHP 或 C# 的初级职位。这些职位的薪资要么与我目前的工作相差不大，要么与之相当。我不确定是否值得追求这些初级职位，以获得一两年使用这些语言和框架的专业经验，然后再追求对我来说更好的工作。    提交人    /u/Zeesh2000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2qq5c/opinions_on_taking_a_junior_role/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人和极其懒惰的开发人员一起工作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2qml9/anybody_work_with_extremely_lazy_devs/</link>
+      <description><![CDATA[这绝对是一篇咆哮式的帖子，但我真的很好奇是否有其他人在一个团队中工作，而这个团队中的人做很少的事情，却能侥幸逃脱惩罚。我绝不是一个非常有经验的开发人员，但过去 3 年我一直在一个项目上全职工作，这段时间里我非常努力。我仍然觉得我对大局一无所知，但我的团队领导对我的表现非常满意，我认为自从开始这份工作以来，我已经取得了长足的进步。 其他一些开发人员和我差不多同时加入，他们也没有什么经验，幸运的是，这个项目很大，有很多支持系统，所以通常有足够的时间来完成任务。其他一两个开发人员似乎把这看作是一个坐下来放松的机会，他们从未为整个团队做出过多的贡献。我绝对不会加班或做类似的事情，但我总是很忙，因为我不想看起来像是坐在那里做最低限度的工作。我天生就担心被解雇，这种焦虑促使我努力工作，通常我完成的工作量是我们团队中非常懒惰的开发人员的两倍多。  归根结底，团队负责人知道谁在每个冲刺中推动了更多的代码并移动了更多的票证，我不应该抱怨，因为其他开发人员做的越少，我看起来就越有价值。而且这并没有真正影响我的工作，因为我不需要为他们完成他们的工作。但这仍然让我有点困扰，因为我知道现在如果没有大量的经验，人们很难找到开发工作。我觉得这些人理所当然地认为他们能得到这些职位是多么幸运。我真心相信，如果这个项目不是那么大的话，他们绝不会因为做得这么少而侥幸逃脱惩罚。无论如何，这是我的咆哮哈哈。好奇他们的团队中是否还有其他人经历过这种情况？     提交人    /u/InternetMedium4325   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2qml9/anybody_work_with_extremely_lazy_devs/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一些可以提高我技能的书籍</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2q2pb/looking_for_some_books_for_boost_my_skill/</link>
+      <description><![CDATA[嗨，我是一名有 4 年以上经验的前端开发人员。几乎每个高级职位都需要 5 年以上经验。我很快就会得到这个，但我仍然觉得我缺少一些东西来申请高级职位。我曾经使用过 Angular、React、React Native、Vue 甚至 NodeJS 和 Electron。每次客户都对我的工作感到满意。但我觉得自己万事通，一事无成。 对我来说，学习某样东西最舒服的方式是读书。所以你能推荐一些能让我更上一层楼的前端开发书籍吗？特别是一些框架。我想到了 React，因为它有更多的工作机会。    提交人    /u/Exabaitenko   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2q2pb/looking_for_some_books_for_boost_my_skill/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>在移动设备上更改标签时刷新吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2pvng/refresh_on_changing_tabs_on_mobile/</link>
+      <description><![CDATA[有人知道为什么在移动版 Chrome（iOS）上切换标签页时，页面几乎总是刷新吗？ 我不是在谈论刷新身份验证令牌。即使没有登录，对我来说几乎每个网站都会发生这种情况。有人知道为什么吗？    提交人    /u/jande48   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2pvng/refresh_on_changing_tabs_on_mobile/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>你听说过爵士乐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2pqpt/have_you_heard_of_jazz/</link>
+      <description><![CDATA[嘿， 我的一位同事分享了 https://jazz.tools/，想知道您是否听说过它，以及它是否可以作为 .io 应用程序的替代品或额外的工具？ 仍在尝试了解它是如何工作的！它是否像是 Socket.io 的替代品！？    提交人    /u/Vanals   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2pqpt/have_you_heard_of_jazz/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>单一存储库，每个分支都是不同的网站。优点和缺点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2pnyr/single_repository_where_each_branch_is_a/</link>
+      <description><![CDATA[嗨！ 在我工作的小公司里，我们使用 git 的方式很不寻常。基本上，我们只有 1 个存储库，每个分支都是一个不同的网站。 现在我知道你的想法了，我刚开始的时候也是这么想的，但说实话，它效果很好。不过，我们正在考虑是否应该切换到通常使用 git 的方式。 我们只是不知道利弊是否大于努力。你们觉得呢？TIA！    提交人    /u/JyroClassified   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2pnyr/single_repository_where_each_branch_is_a/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 WordPress 博客上运行的 11ty 导出器展示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2p3q7/showcase_of_11ty_exporter_running_on_a_wordpress/</link>
+      <description><![CDATA[我真的很喜欢这个导出器本地化您的所有资产，包括图像，CSS 和 JavaScript 文件。 https://www.youtube.com/watch?v=WuH5QYCdh6w    提交人    /u/endymion1818-1819   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2p3q7/showcase_of_11ty_exporter_running_on_a_wordpress/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以只转发特定路径吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2otg0/can_i_forward_just_a_specific_path/</link>
+      <description><![CDATA[我的 mydomain.com 托管在 Google 网站上，运行良好，有什么办法可以将 mydomain.com/redirect 转发到其他网址吗？我的域名是通过 porkbun 托管的，我托管在 Google 网站上。     提交人    /u/SnackStation   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2otg0/can_i_forward_just_a_specific_path/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以向我的学生展示简单的 HTML 和 CSS 网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2ok9q/simple_html_css_websites_to_show_my_students/</link>
+      <description><![CDATA[明天我要教我的学生如何在记事本中创建他们的第一个网页，在开始构建之前，我想向他们展示一些简单的 HTML 网站，向他们展示不同的网页和类似的东西。 你们知道任何很酷的简单 HTML 和 CSS 网站吗？请发送那些可以安全用于工作的网站，哈哈（我已经知道并喜欢 http://motherfuckingwebsite.com/ ，但我不能向他们展示）    提交人    /u/SaltyIsaac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2ok9q/simple_html_css_websites_to_show_my_students/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助获取数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2o9xi/help_with_fetching_data/</link>
+      <description><![CDATA[嗨， Web 开发并不是我的专业领域，但最近我被要求为我加入的一个研究小组建立一个小型网站。由于该项目不需要任何太复杂的东西，我决定使用纯 HTML/CSS/JS 来实现简单性和可维护性。（就上下文而言，我确实有一些使用 Vite + React 的临时经验，但我想让它尽可能简单明了。） 情况如下：网站从主 API 接收数据（例如，团队成员、项目）。为了处理这个问题，我创建了一个 server.js 文件作为中介 - 从主 API 获取数据，然后将其提供给网站（否则 CORS 不允许我调用主 API）。 现在，我需要部署网站，但有一个问题：我只能访问服务器上的 HTML 目录。这意味着我无法弄清楚如何在静态网站旁边运行 server.js 文件。 我的问题：  我对 server.js 采取的方法是否合理，或者是否有更好的方法来处理这个问题？  在只能访问 HTML 目录的限制下，我该如何运行 server.js？  我应该重新考虑这一切吗？  任何提示或建议都将不胜感激。谢谢！    提交人    /u/rodrids01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2o9xi/help_with_fetching_data/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者/兼职设计师合作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2o92v/freelanceside_hustle_designer_collab/</link>
+      <description><![CDATA[大家好，我是一名兼职网页开发人员。几年来，我一直在断断续续地做一些小项目，以获得乐趣并赚一些啤酒钱。（不靠收益生活，我有一份全职的高薪工作，但我写 0 代码）。 我正在努力变得更加认真并解决更多项目，但我最大的障碍是最初的设计方面。近年来，我已经将我的设计工作迁移到 Figma 并获得了一些很棒的结果，但我对它并不热衷。我更喜欢编写代码、构建业务逻辑、协调数据库设置等。这是我 9-5 之后喜欢做的事情。 我更喜欢简约的设计，我的大多数小镇客户也喜欢。没有疯狂的 3D 动画或复杂的自定义 svg。我最近用 Shadcn 做了一些自定义 CMS 构建，我非常喜欢它作为面向内部的工具。  如果您是 Figma 爱好者，希望在日常工作之余赚点钱，请提供您的作品示例。根据网站规模和创意，我猜设计的价格在每页 25 美元到 100 美元之间。我们也可以讨论一下，比如有些网站我只是在刷新旧设计。我现在不收太多钱，因为我没有作品集。  Tldr：希望与 Figma 设计师合作，以极简主义设计项目为副业    提交人    /u/j_payne1349   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2o92v/freelanceside_hustle_designer_collab/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页游戏的 AI 开发 - 期望与现实</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2o7lg/ai_dev_for_a_browser_game_expectation_vs_reality/</link>
+      <description><![CDATA[        提交人    /u/saporrai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2o7lg/ai_dev_for_a_browser_game_expectation_vs_reality/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:52:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 的无 Javascript 页面拒绝使用 <detail> 元素（可能是因为跨平台动画很难实现）来实现手风琴功能，甚至浏览器也不喜欢 <detail> 元素。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2o2r7/googles_javascriptless_page_refuses_to_use_the/</link>
+      <description><![CDATA[  由    /u/Whorhal  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2o2r7/googles_javascriptless_page_refuses_to_use_the/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:44:30 GMT</pubDate>
     </item>
     <item>
       <title>策略引擎对决 - OPA vs. OpenFGA vs. Cedar</title>
@@ -25,90 +109,6 @@
       <description><![CDATA[我在 FileZilla 和 Terminal 之间切换花了太多时间。 您有什么适用于 Windows 和 Mac 的推荐吗？ 非常感谢！    提交人    /u/doggolulu   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i2lndo/apps_like_filezilla_but_also_support_command_lines/</guid>
       <pubDate>Thu, 16 Jan 2025 10:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>到目前为止，已经采纳了您的建议并取得了成果……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2ks8n/took_your_advice_results_so_far/</link>
-      <description><![CDATA[        提交人    /u/SoilPrior4423   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2ks8n/took_your_advice_results_so_far/</guid>
-      <pubDate>Thu, 16 Jan 2025 08:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在监狱里学会了编码，然后用现代数据可视化技术构建了一个 Reddit 用户资料分析器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2knck/i_learned_to_code_in_prison_then_built_a_reddit/</link>
-      <description><![CDATA[        提交人    /u/MemoryEmptyAgain   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2knck/i_learned_to_code_in_prison_then_built_a_reddit/</guid>
-      <pubDate>Thu, 16 Jan 2025 08:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>udemy 有扩展程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2k7pp/is_there_any_extension_for_udemy/</link>
-      <description><![CDATA[嗨，我正在寻找一个可以自动购买课程和应用优惠券的 Udemy 浏览器扩展程序。您能建议类似的东西吗？    提交人    /u/Medico_Boy1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2k7pp/is_there_any_extension_for_udemy/</guid>
-      <pubDate>Thu, 16 Jan 2025 08:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过每月 10,000 名独立访客实现网站盈利</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2jms7/monetizing_a_site_with_10k_unique_visitors_per/</link>
-      <description><![CDATA[嗨， 我有一个网站，每月有 10,000 名独立访客。它解析 eBay 上的迷你电脑列表以找到优惠交易。 显而易见的盈利方式是 eBay 联盟计划，但它在我的国家/地区不受支持。我尝试了其他联盟计划（例如 Simple Backups）和亚马逊，但它们的转化效果不佳，可能是因为人们在那里购买二手迷你电脑。我还以每月 250 美元的价格将广告空间卖给了 Chuwi，但寻找这些客户很麻烦。 我应该直接在上面投放广告吗？或者尝试与拥有 eBay 合作伙伴帐户的人合作？还是直接出售？    提交人    /u/mahin1384   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2jms7/monetizing_a_site_with_10k_unique_visitors_per/</guid>
-      <pubDate>Thu, 16 Jan 2025 07:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个“黑暗模式”吗？访问一个网站，他们会强迫你接受 cookies！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2jijw/is_this_a_dark_pattern_visited_a_site_and_they/</link>
-      <description><![CDATA[        提交人    /u/ballbeamboy2   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2jijw/is_this_a_dark_pattern_visited_a_site_and_they/</guid>
-      <pubDate>Thu, 16 Jan 2025 07:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 打印带边框的表格内部分隔符</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2jb46/css_print_table_break_inside_with_border/</link>
-      <description><![CDATA[      我想在表格中间添加边框打印时中断，可能吗？我到处搜索但一无所获。 表格 header/footer 或 page-break-inside:avoid; 根本没有帮助，因为表格不会中断并留下太多空白，如下所示： https://preview.redd.it/zpk7kgr51bde1.jpg?width=442&amp;format=pjpg&amp;auto=webp&amp;s=c118bd4cb8b9bbcb880602e44ceb5ad93eb3be17 所以我希望它仍然在里面，但每个页面的顶部和底部都有边框，如下所示： https://preview.redd.it/426fc3w71bde1.jpg?width=440&amp;format=pjpg&amp;auto=webp&amp;s=671a9bbc27cc0fba7764cb3b47faaedb72e9dc88 像这样： https://preview.redd.it/cevhudk91bde1.jpg?width=440&amp;format=pjpg&amp;auto=webp&amp;s=fe63143806e0daa2f03f952f493128fa01d36710 stackoverflow 链接   由    /u/Dizzy_Ad_4872  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2jb46/css_print_table_break_inside_with_border/</guid>
-      <pubDate>Thu, 16 Jan 2025 07:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式卡片网格的外观和工作方式应该是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2irrf/how_should_a_responsive_grid_of_cards_look_and/</link>
-      <description><![CDATA[我希望我的网站上有一个以卡片形式显示搜索结果的页面。卡片是一个比计算机屏幕窄几倍的矩形 - 这就是它与表格的一行不同的地方。一行中可以容纳多少张卡片取决于屏幕的宽度。断点与Tailwind中的一样。 如果卡片的宽度为 n 像素，那么在宽度 w 的断点处理想情况下应该是 w / n，其中 / 是整数除法。我相信这可以用 CSS 来处理 - 使用网格布局，甚至简单地将每张卡片设为内联块。 但是，我需要显示任意数量的结果。如果搜索查询是精确的，则只会有少数结果。但是，如果搜索查询不精确，并且结果非常多，该怎么办？我需要分页或进行«无限滚动»。为了搜索引擎优化，我想分页。但是我该如何分页呢？ 假设我的卡片宽度为 300 像素。那么一行中应该有 2、3、4 或 5 张卡片，具体取决于屏幕大小，因此 n ∈ {2; 3; 4; 5。那么一页应该有多少张卡片？将此数字称为 m。如果 m % n ≠ 0，其中 % 是余数运算符，则最后一行将不会填满，并且页面会很难看。所有余数均为零的最小 m 是 60。因此，我可以拥有一个包含 60 张卡片的漂亮页面。但这似乎太多了——我没有通过实验检查过，但我觉得人们在滚动如此大的页面时会迷失方向，尤其是在移动设备上，可能需要绘制 60 行，每行 1 张卡片。 我可以做的另一件事是设置我认为最佳的行数 k，并计算页面大小为 m = n × k。这样做的问题是屏幕尺寸可能会发生变化，例如当与我的网站互动的人在纵向和横向之间旋转手机时。所以，我应该根据屏幕尺寸更改分页。但媒体查询在 CSS 之外不可见！我可以根据屏幕尺寸更改 CSS，但我无法更改行为——我无法让«下一页»按钮加载适当大小的页面，等等。 有办法解决这个限制。例如，我可以在页面上放置一堆透明元素，并设置它们的 CSS，以便每个断点只有一个可见。然后我可以让 JavaScript 检查哪个元素可见，并据此更改行为。但这是一个复杂而脆弱的解决方案。我想在服务器或客户端呈现我的页面 - 我的网站是使用 Next 框架构建的，这使得这非常容易 - 而在服务器端当然无法知道屏幕尺寸是多少。我可以想出可能的方法来处理这个问题，但复杂性将会突破屋顶并飙升到月球。 我该如何解决这个问题？你会如何解决这个问题？响应式卡片网格应该是什么样子和工作？    提交人    /u/kindaro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2irrf/how_should_a_responsive_grid_of_cards_look_and/</guid>
-      <pubDate>Thu, 16 Jan 2025 06:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能给我一些建议，让我迈出第一步吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2hsq3/can_you_give_me_advice_to_take_the_first_step/</link>
-      <description><![CDATA[我陷入了完美循环，我没有构建任何东西，也没有我想要的客户（高价客户），我来自印度，这里的人不重视好的设计，他们只想要便宜的工作，所以我从来没有机会做出好的设计，我所做的 fiver 和 upwork 对初学者不友好，我不知道如何获得国际客户。 谢谢    提交人    /u/Nervous_Jump8341   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2hsq3/can_you_give_me_advice_to_take_the_first_step/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>互动贴纸游乐场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2hs7n/interactive_sticker_playground/</link>
-      <description><![CDATA[      最近开始接触 React，并使用 OpenMoji 的开源表情符号库和 Framer Motion 用于动画！仍然需要稍微调整一下并调整代码（使用大量 useState()，但希望随着我对 Context API 的了解越来越多，可以改变这一点）。 无论如何，寻求建设性的批评。提前致谢 :)    提交人    /u/aniqatc   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2hs7n/interactive_sticker_playground/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于学习什么内容有建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2hohx/suggestions_for_what_to_learn/</link>
-      <description><![CDATA[大家好，我在高中参加 IOI 竞赛时有过一点编程背景，但后来我选择了建筑职业，所学的东西完全浪费了。现在我想为我做过的所有建筑项目建立一个个人网站。我做了一些关于如何在 Github Pages 上发布 html 文件的快速教程，刚刚开始学习 html 课程，我觉得这很有趣，但有点耗时。我走在正确的道路上吗？或者也许还有其他方法，比如使用一些带有模板的网站，例如 wix，然后下载 html 文件？如果这听起来像一个愚蠢的问题，非常感谢并提前道歉！    提交人    /u/itsraininginmacondo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2hohx/suggestions_for_what_to_learn/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手。关于 SEO 和前端框架，例如 React(CSR) 与 Next.js(SSR) Next.js 更适合用来构建网站，对吧，这样你就更有可能出现在 Google 的第一页上？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2hmun/noob_here_about_seo_and_frontend_framework_like/</link>
-      <description><![CDATA[假设我想建立一个像 Reddit 这样的博客或网站，包括一个与客户/用户具有高交互性的实时聊天室  Next.js 是正确的选择，因为 SEO 对吧？所以我将来在营销上花的钱更少了。    提交人    /u/ballbeamboy2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2hmun/noob_here_about_seo_and_frontend_framework_like/</guid>
-      <pubDate>Thu, 16 Jan 2025 05:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 Do it 列表 Chrome 扩展程序！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2gz13/check_out_do_it_list_chrome_extension/</link>
-      <description><![CDATA[        提交人    /u/HanifAnzerJilani   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2gz13/check_out_do_it_list_chrome_extension/</guid>
-      <pubDate>Thu, 16 Jan 2025 04:31:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
