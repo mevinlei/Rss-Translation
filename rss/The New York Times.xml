@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Jan 2025 14:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 18:06:33 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 进化的时间表：从 Dances 到 BookTok 再到最高法院</title>
+      <link>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</link>
+      <description><![CDATA[这款最初名为“舞蹈应用”的产品催生了无数的表情包，开创了赚钱的职业，并塑造了整个行业。下面是它的发展历程。]]></description>
+      <guid>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</guid>
+      <pubDate>Fri, 17 Jan 2025 18:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普就职画像中为何目光炯炯？</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</link>
+      <description><![CDATA[在胜利和庆祝的巅峰时刻，当选总统唐纳德·J·特朗普在就职典礼肖像中看起来严肃。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登称平等权利修正案已通过，但不会强制认证</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</link>
+      <description><![CDATA[拜登总统的讲话在很大程度上是象征性地支持长达一个世纪的将性别平等写入宪法的运动。但倡导者表示，这些言论可能会为未来的法律斗争增添分量。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的边境专员托马斯·霍曼如何实现“让美国再次伟大”</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</link>
+      <description><![CDATA[托马斯·霍曼曾经为奥巴马时代的政策和跨性别移民医疗保健辩护。现在他正着手建立热线，举报无证邻居，并逮捕妨碍他行动的当地官员。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃里克·亚当斯今天将在海湖庄园会见特朗普</title>
+      <link>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</link>
+      <description><![CDATA[纽约市长埃里克·亚当斯 (Eric Adams) 表示有兴趣寻求联邦赦免来解决联邦腐败指控，他将于周五下午会见当选总统唐纳德·J·特朗普 (Donald J. Trump)。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>参议院推动驱逐被控犯罪的移民的法案通过了关键障碍</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/senate-migrant-deportation-bill.html</link>
+      <description><![CDATA[在一次关键的测试投票中，十名民主党人与共和党人一道投票通过了这项法案，以确保该法案能在当选总统唐纳德·J·特朗普的领导下迅速颁布。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/senate-migrant-deportation-bill.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国对 TikTok 的禁令将对其中国所有者字节跳动造成重大打击</title>
+      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-bytedance.html</link>
+      <description><![CDATA[虽然TikTok在巴西、印度尼西亚和其他市场仍然非常受欢迎，但其在美国拥有的1.7亿用户才是其最有价值的。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-bytedance.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>17 号直升机的恐怖旅程</title>
+      <link>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</link>
+      <description><![CDATA[一名前陆军飞行员。一架老旧的直升机。狂风肆虐。扑灭伊顿大火的竞赛对洛杉矶县夜间飞行的消防员进行了前所未有的考验。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 TikTok 可能被禁止的信息</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</link>
+      <description><![CDATA[最高法院周五维持了一项法律，该法律可能导致该应用程序最早于周日下线。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</guid>
+      <pubDate>Fri, 17 Jan 2025 15:19:41 GMT</pubDate>
+    </item>
     <item>
       <title>大卫·林奇在《橡皮头》等黑暗杰作中向我们展示了我们是谁</title>
       <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-eraserhead-mulholland-drive.html</link>
-      <description><![CDATA[导演本人的表演几乎很正常。但《橡皮头》和《穆赫兰道》等杰作却并非如此。]]></description>
+      <description><![CDATA[导演本人的表演几乎很正常。《橡皮头》和《穆赫兰道》等杰作则不然。]]></description>
       <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-eraserhead-mulholland-drive.html</guid>
       <pubDate>Fri, 17 Jan 2025 14:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉美国家称特朗普团队拒绝就大规模驱逐问题进行谈判</title>
-      <link>https://www.nytimes.com/2025/01/17/world/americas/trump-deportations-latin-america.html</link>
-      <description><![CDATA[墨西哥官员和该地区的其他领导人未能与新政府会面讨论当选总统的移民和驱逐计划。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/world/americas/trump-deportations-latin-america.html</guid>
-      <pubDate>Fri, 17 Jan 2025 14:08:53 GMT</pubDate>
     </item>
     <item>
       <title>拜登将减刑毒品犯罪者刑期</title>
@@ -27,74 +83,25 @@
       <pubDate>Fri, 17 Jan 2025 14:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>国际货币基金组织上调美国经济预测，其他地区经济表现落后</title>
-      <link>https://www.nytimes.com/2025/01/17/business/imf-world-economic-outlook.html</link>
-      <description><![CDATA[它预计2025年的增长率为2.7%。但特朗普即将出台的政策的不确定性笼罩着全球经济轨迹。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/business/imf-world-economic-outlook.html</guid>
-      <pubDate>Fri, 17 Jan 2025 14:00:06 GMT</pubDate>
-    </item>
-    <item>
       <title>经过 15 个月的战争，加沙人梦想返回家园</title>
       <link>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-returning-home-after-war.html</link>
-      <description><![CDATA[他们梦想着停战后能够拥抱的人们、能够前往的坟墓以及能够重建的家园。]]></description>
+      <description><![CDATA[他们梦想着停战协议签署后他们将拥抱的人们、他们将去祭拜的坟墓以及他们将重建的家园。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-returning-home-after-war.html</guid>
       <pubDate>Fri, 17 Jan 2025 13:43:54 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院即将就禁令做出裁决，TikTok 做出最后努力</title>
-      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-lobbying-washington.html</link>
-      <description><![CDATA[法院表示将于周五公布判决，该应用程序的游说者敦促立法者改变方针。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-lobbying-washington.html</guid>
-      <pubDate>Fri, 17 Jan 2025 13:09:05 GMT</pubDate>
+      <title>为什么特朗普第二任期的议程可能取决于他最讨厌的最高法院</title>
+      <link>https://www.nytimes.com/2025/01/17/us/trump-court-appeals-ninth-circuit.html</link>
+      <description><![CDATA[特朗普入主白宫后，可能再次与美国第九巡回上诉法院发生冲突。但旧金山的法院自 2017 年以来发生了变化。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/trump-court-appeals-ninth-circuit.html</guid>
+      <pubDate>Fri, 17 Jan 2025 10:00:48 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普减税政策有何作用？</title>
-      <link>https://www.nytimes.com/2025/01/17/business/economy/trump-tax-cuts-effects.html</link>
-      <description><![CDATA[疫情造成的经济动荡使分析师无法理解 2017 年税法的影响。共和党人称这是一项巨大的成功，并希望继续实施。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/business/economy/trump-tax-cuts-effects.html</guid>
-      <pubDate>Fri, 17 Jan 2025 13:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>停火有望取得进展，TikTok 面临最后一搏</title>
-      <link>https://www.nytimes.com/2025/01/17/podcasts/cease-fire-expected-to-move-forward-and-a-last-ditch-pitch-to-save-tiktok.html</link>
-      <description><![CDATA[另外，还记得大卫林奇的怪异之处。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/podcasts/cease-fire-expected-to-move-forward-and-a-last-ditch-pitch-to-save-tiktok.html</guid>
-      <pubDate>Fri, 17 Jan 2025 11:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶消防局局长面临辞职要求</title>
-      <link>https://www.nytimes.com/2025/01/17/us/los-angeles-fire-chief-kristin-crowley.html</link>
-      <description><![CDATA[随着灾难性的大火继续在城市西侧燃烧，一些人要求局长克里斯汀·克劳利做出解释：为什么这座城市没有做好更好的准备？]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/los-angeles-fire-chief-kristin-crowley.html</guid>
-      <pubDate>Fri, 17 Jan 2025 10:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>17 号直升机的恐怖旅程</title>
-      <link>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</link>
-      <description><![CDATA[一名前陆军飞行员。一架老旧的直升机。狂风肆虐。扑灭伊顿大火的竞赛对洛杉矶县夜间飞行的消防员进行了前所未有的考验。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</guid>
-      <pubDate>Fri, 17 Jan 2025 10:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 和 YouTube 准备从 TikTok 被禁中获益</title>
-      <link>https://www.nytimes.com/2025/01/17/technology/instagram-youtube-tiktok-ban.html</link>
-      <description><![CDATA[如果这款中国应用程序被美国禁止，Meta 的 Instagram 和谷歌的 YouTube 正在幕后准备迎接 TikTok 用户。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/technology/instagram-youtube-tiktok-ban.html</guid>
-      <pubDate>Fri, 17 Jan 2025 10:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的边境专员托马斯·霍曼如何实现“让美国再次伟大”</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</link>
-      <description><![CDATA[托马斯·霍曼曾为奥巴马时代的政策和跨性别移民医疗保健辩护。现在他正考虑开通热线举报无证邻居，并逮捕妨碍他的地方官员。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</guid>
-      <pubDate>Fri, 17 Jan 2025 10:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>火灾发生一周多后，洛杉矶撤离人员仍处于困境</title>
-      <link>https://www.nytimes.com/2025/01/16/us/la-fires-evacuations-homes.html</link>
-      <description><![CDATA[许多社区仍禁止居民进入。撤离人员表示，他们越来越沮丧，不知道下一步该怎么做。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/us/la-fires-evacuations-homes.html</guid>
-      <pubDate>Fri, 17 Jan 2025 04:31:26 GMT</pubDate>
+      <title>纽约为何成为庇护城市？特朗普上台后情况将如何改变？</title>
+      <link>https://www.nytimes.com/2025/01/17/nyregion/sanctuary-city-nyc-trump.html</link>
+      <description><![CDATA[纽约作为无证移民庇护城市的地位随着时间的推移发生了变化。现在，随着当选总统唐纳德·J·特朗普准备就职，这一地位可能再次发生变化。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/nyregion/sanctuary-city-nyc-trump.html</guid>
+      <pubDate>Fri, 17 Jan 2025 08:00:07 GMT</pubDate>
     </item>
     <item>
       <title>大卫·林奇的电影和电视节目：哪里可以观看《蓝丝绒》、《双峰》等</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[像《蓝丝绒》和《穆赫兰道》这样的电影并不总是那么容易解释，但它们却永远活在你的脑海里，钻进你的内心。]]></description>
       <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-films-streaming.html</guid>
       <pubDate>Fri, 17 Jan 2025 02:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 TikTok 可能被禁令，该平台的美食创作者将会怎样？</title>
-      <link>https://www.nytimes.com/2025/01/16/dining/tiktok-ban-cooking-food.html</link>
-      <description><![CDATA[在该应用程序可能被禁之前，《纽约时报》采访了 11 位知名美食内容创作者，探讨其面临的风险。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/dining/tiktok-ban-cooking-food.html</guid>
-      <pubDate>Thu, 16 Jan 2025 21:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
