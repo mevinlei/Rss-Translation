@@ -1,16 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Jan 2025 00:27:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 03:09:21 GMT</lastBuildDate>
     <item>
       <title>埃里克·亚当斯前往海湖庄园会见特朗普</title>
       <link>https://www.nytimes.com/2025/01/16/nyregion/eric-adams-trump-mar-a-lago.html</link>
       <description><![CDATA[受到联邦起诉的纽约市长最近几周对候任总统唐纳德·J·特朗普评价颇高，并表示愿意接受特朗普的赦免。]]></description>
       <guid>https://www.nytimes.com/2025/01/16/nyregion/eric-adams-trump-mar-a-lago.html</guid>
-      <pubDate>Fri, 17 Jan 2025 00:00:31 GMT</pubDate>
+      <pubDate>Fri, 17 Jan 2025 02:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登采取一系列行动，竞相遏制特朗普</title>
+      <link>https://www.nytimes.com/2025/01/15/us/politics/biden-policy-decisions.html</link>
+      <description><![CDATA[总统在其任期的最后几天发布了多个领域的政策决定以巩固其议程，其中包括环境正义、监狱改革和移民问题。]]></description>
+      <guid>https://www.nytimes.com/2025/01/15/us/politics/biden-policy-decisions.html</guid>
+      <pubDate>Fri, 17 Jan 2025 02:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在火灾肆虐的阿尔塔迪纳，一些居民坚持留在原地</title>
+      <link>https://www.nytimes.com/2025/01/16/us/eaton-fire-altadena-residents-survivors.html</link>
+      <description><![CDATA[在被火灾烧毁的阿尔塔迪纳，数十人仍然住在家中，没有电或干净的自来水。]]></description>
+      <guid>https://www.nytimes.com/2025/01/16/us/eaton-fire-altadena-residents-survivors.html</guid>
+      <pubDate>Fri, 17 Jan 2025 01:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登政府对阿拉斯加石油钻探设定最终限制</title>
+      <link>https://www.nytimes.com/2025/01/16/climate/biden-alaska-north-slope-drilling.html</link>
+      <description><![CDATA[共和党人表示，他们正在寻求迅速取消该州北坡地区限制措施的方法。]]></description>
+      <guid>https://www.nytimes.com/2025/01/16/climate/biden-alaska-north-slope-drilling.html</guid>
+      <pubDate>Fri, 17 Jan 2025 01:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>大卫·林奇去世：《双峰》和《穆赫兰道》导演享年 78 岁</title>
+      <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</link>
+      <description><![CDATA[他是一位有远见的人，曾拍摄过《橡皮头》、《蓝丝绒》和《穆赫兰道》等影片。他还将自己偏颇的观点搬上了小荧幕，拍摄了《双峰》。]]></description>
+      <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</guid>
+      <pubDate>Fri, 17 Jan 2025 01:23:15 GMT</pubDate>
     </item>
     <item>
       <title>大卫·林奇，《双峰》和美国电视艺术</title>
@@ -69,13 +97,6 @@
       <pubDate>Thu, 16 Jan 2025 22:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>大卫·林奇去世：《双峰》和《穆赫兰道》导演享年 78 岁</title>
-      <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</link>
-      <description><![CDATA[他是一位有远见的人，曾拍摄过《橡皮头》、《蓝丝绒》和《穆赫兰道》等影片。他还将自己偏颇的观点搬上了小荧幕，拍摄了《双峰》。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-dead.html</guid>
-      <pubDate>Thu, 16 Jan 2025 22:14:47 GMT</pubDate>
-    </item>
-    <item>
       <title>州检察长要求法院保留拜登时代的枪支管制措施</title>
       <link>https://www.nytimes.com/2025/01/16/us/democrats-gun-control-trump.html</link>
       <description><![CDATA[在特朗普重返白宫的几天前，他与民主党州官员就其议程展开的法律斗争已经开始。]]></description>
@@ -83,32 +104,11 @@
       <pubDate>Thu, 16 Jan 2025 22:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府对阿拉斯加石油钻探设定最终限制</title>
-      <link>https://www.nytimes.com/2025/01/16/climate/biden-alaska-north-slope-drilling.html</link>
-      <description><![CDATA[共和党人表示，他们正在寻求迅速取消该州北坡地区限制措施的方法。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/climate/biden-alaska-north-slope-drilling.html</guid>
-      <pubDate>Thu, 16 Jan 2025 22:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>据称特朗普正在考虑发布行政命令以规避 TikTok 禁令</title>
-      <link>https://www.nytimes.com/2025/01/16/us/politics/trump-tiktok-executive-order.html</link>
-      <description><![CDATA[此举正在讨论中，因为这款中国应用程序面临周日的最后期限，必须找到新买家，否则将在美国关闭。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/us/politics/trump-tiktok-executive-order.html</guid>
-      <pubDate>Thu, 16 Jan 2025 21:45:02 GMT</pubDate>
-    </item>
-    <item>
       <title>TikTok 难民在另一款中国应用 RedNote 上受到冷遇</title>
       <link>https://www.nytimes.com/2025/01/16/arts/tiktok-red-note-china.html</link>
       <description><![CDATA[社交媒体用户大规模迁移至中国应用程序红笔记时，对美国政府进行了幸灾乐祸的嘲讽。]]></description>
       <guid>https://www.nytimes.com/2025/01/16/arts/tiktok-red-note-china.html</guid>
       <pubDate>Thu, 16 Jan 2025 17:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登通过一系列行动巩固其政治遗产</title>
-      <link>https://www.nytimes.com/2025/01/15/us/politics/biden-policy-decisions.html</link>
-      <description><![CDATA[总统在任期的最后几天就多个领域发布了政策决定，包括环境正义、监狱改革和移民问题。]]></description>
-      <guid>https://www.nytimes.com/2025/01/15/us/politics/biden-policy-decisions.html</guid>
-      <pubDate>Wed, 15 Jan 2025 10:03:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
