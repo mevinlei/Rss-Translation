@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 21:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:44:54 GMT</lastBuildDate>
+    <item>
+      <title>vspre​​view：电视电影与 VIVIC</title>
+      <link>https://www.reddit.com/r/software/comments/1i3413r/vspreview_telecine_with_vivic/</link>
+      <description><![CDATA[如何在 vspre​​view 中完成这些任务，或者至少完成最后一部分？ 利用 VIVTC 的 frameprops 可以改进与 telecine 源的自动比较。比较工具可以跳过标有 Combed 属性的帧，以避免在比较中留下剩余的隔行帧。此外，可以利用 VIVTC 的场景变化属性并避免在场景变化周围出现 +-1 帧来解释抽取差异。    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i3413r/vspreview_telecine_with_vivic/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:39:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要从网站中提取数千个表格</title>
+      <link>https://www.reddit.com/r/software/comments/1i33d9l/need_to_extract_thousands_of_tables_from_a_website/</link>
+      <description><![CDATA[我有一个网站需要私人会话登录，我需要从中提取一些数据表。我有一个需要在此网站中搜索的 5,000 个项目的列表，然后我需要导航到相应的页面并复制并粘贴相应的表格。有没有办法自动执行此过程？    提交人    /u/Foorius   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i33d9l/need_to_extract_thousands_of_tables_from_a_website/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Word 的替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1i31nwa/alternatives_to_microsoft_word/</link>
+      <description><![CDATA[嗨，我正在寻找 Microsoft Word 的替代品，这些替代品具有与 Word 大致相同或接近的功能和选项（我尝试过 Google Docs，但它太简陋了）。最好，我希望它可以在 PC 和 Mac 上运行，这样我就可以随时随地写作。它不必是免费的，我会为合适的程序付费。谢谢！    提交人    /u/JosephBleddyn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i31nwa/alternatives_to_microsoft_word/</guid>
+      <pubDate>Thu, 16 Jan 2025 22:47:58 GMT</pubDate>
+    </item>
     <item>
       <title>为什么没有任何程序可以让我根据某些操作自动关闭和打开 Windows 上的程序？</title>
       <link>https://www.reddit.com/r/software/comments/1i2vq3n/why_isnt_there_any_program_that_lets_me_close_and/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[如何将 PNG 和 JPG 等图像转换为 SVG 等矢量图形图像格式而不会降低质量？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i2nj4p/png_to_vector_graphics/</guid>
       <pubDate>Thu, 16 Jan 2025 12:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果所有分叉软件的“主”软件“死亡”了，那么所有分叉软件会发生什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1i2neaq/what_will_happens_to_all_the_forked_software_if/</link>
-      <description><![CDATA[我看到的最常见的例子是浏览器，其中有很多 Firefox（LibreWolf、Zen、Floorp、Tor 等）和 Chrome（Brave、Vivaldi、Opera、Edge 等）的分支 假设，如果主要的分支死了（Firefox 或 Chrome），所有分支会发生什么？考虑到它们中的大多数都是由一个人或一个非常小的团队维护的 但是在其他类别的软件中的用例呢？也许浏览器是一个非常独特的用例，因为为了从头开始构建或维护浏览器需要大量的资源，因为不断变化的网络标准，而其他软件可以在单个版本上离线工作    提交人    /u/outerzenith   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i2neaq/what_will_happens_to_all_the_forked_software_if/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>截取 16:9 比例的屏幕截图</title>
-      <link>https://www.reddit.com/r/software/comments/1i2m95o/taking_a_screenshot_that_snaps_to_169/</link>
-      <description><![CDATA[有没有一个简单的软件可以框架 16:9 的比例，我可以调整我想要截屏的页面的位置并保留 16:9 的比例？ 在 Mac 上。Chrome 扩展程序也可以使用。免费版优先。    提交人    /u/applesauceblues   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i2m95o/taking_a_screenshot_that_snaps_to_169/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否觉得跨语言集成有趣或有必要？例如在 Node.js 中使用 Python 实时情绪分析解决方案？</title>
-      <link>https://www.reddit.com/r/software/comments/1i2l4ki/would_you_find_crosslanguage_integration/</link>
-      <description><![CDATA[大家好！👋 我们是一家小型初创公司，致力于开发一个库，旨在帮助开发人员在一个项目中无缝集成不同的编程语言。无论是 Python、.NET、Java 还是 JavaScript，我们都希望让跨语言集成尽可能顺畅！这个项目实际上是我们创始人博士研究的衍生品，我们现在正在探索有多少开发人员会觉得它有用。 最近，我们发表了一篇文章，演示了如何使用我们的解决方案进行实时情绪分析，将 Python 强大的 NLP 功能与 Node.js 应用程序集成。如果您有兴趣，可以在此处查看完整文章：实时情感分析：将 Python NLP 与 Node.js 集成。 虽然我们在演示中使用了简单的库，但我们的想法是展示这种方法如何扩展到复杂的库、自定义系统或标准集成方法不那么简单的情况。 我们非常感谢您对方法、用例的反馈，甚至关于我们如何改进该工具以用于其他语言组合的想法。如果这类事情对您有用，我们很乐意听听您的想法！  我们目前提供 30 天的免费试用，但我们也考虑为个人开发者提供永久免费套餐。 提前感谢您抽出宝贵的时间 - 您的见解对我们继续改进非常有价值！🚀    提交人    /u/javonet1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i2l4ki/would_you_find_crosslanguage_integration/</guid>
-      <pubDate>Thu, 16 Jan 2025 09:21:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
