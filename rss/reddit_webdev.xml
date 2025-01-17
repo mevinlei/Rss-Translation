@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 15:11:19 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Fri, 17 Jan 2025 06:14:16 GMT</lastBuildDate>
     <item>
-      <title>关于担任初级职位的意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2qq5c/opinions_on_taking_a_junior_role/</link>
-      <description><![CDATA[大家好。 我想征求一下大家的意见。 我是一个 24 岁的软件开发人员。我在目前的公司工作了 2 年，现在我想换个公司。 在我目前的地方，我们使用更现代的技术，包括以 Nest 为框架的 React、Go 和 NodeJS。这对我来说是一个问题，因为无论我在哪里看，工作都是 c# dotnet 或 PHP larvavel。 很多提供中级软件开发职位的地方似乎对我不再感兴趣，因为他们在我的简历上没有看到太多 c# 或 laravel 经验，尽管我知道学习和使用不同的技术堆栈并不需要太多的努力（我通过业余项目尝试了不同的东西） 在过去几天看市场时，我看到了很多 PHP 或 C# 的初级职位。这些职位的薪资要么与我目前的工作相差不大，要么与之相当。我不确定是否值得追求这些初级职位，以获得一两年使用这些语言和框架的专业经验，然后再追求对我来说更好的工作。    提交人    /u/Zeesh2000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2qq5c/opinions_on_taking_a_junior_role/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:57:36 GMT</pubDate>
+      <title>需要帮助实现 WebRTC 多点连接的 SFU</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i39ci7/need_help_with_implementing_sfu_for_webrtc/</link>
+      <description><![CDATA[我一直在使用 WebRTC 开发类似 Zoom 的应用程序，并且知道如何实现点对点连接。 我读过关于 SFU 的文章，以及它们如何通过转发流而不是每个对等点连接到其他对等点来帮助管理多对等连接。问题是，我不完全确定如何开始实现 SFU 或将其集成到我的项目中。 我需要帮助：  资源/文档：有没有关于设置 SFU 的适合初学者的指南或文档？ 代码示例：如果您已经实现了 SFU，我很乐意看到一些示例甚至片段来了解流程。     提交人    /u/Wooden-Engineering59   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i39ci7/need_help_with_implementing_sfu_for_webrtc/</guid>
+      <pubDate>Fri, 17 Jan 2025 05:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>有人和极其懒惰的开发人员一起工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2qml9/anybody_work_with_extremely_lazy_devs/</link>
-      <description><![CDATA[这绝对是一篇咆哮式的帖子，但我真的很好奇是否有其他人在一个团队中工作，而这个团队中的人做很少的事情，却能侥幸逃脱惩罚。我绝不是一个非常有经验的开发人员，但过去 3 年我一直在一个项目上全职工作，这段时间里我非常努力。我仍然觉得我对大局一无所知，但我的团队领导对我的表现非常满意，我认为自从开始这份工作以来，我已经取得了长足的进步。 其他一些开发人员和我差不多同时加入，他们也没有什么经验，幸运的是，这个项目很大，有很多支持系统，所以通常有足够的时间来完成任务。其他一两个开发人员似乎把这看作是一个坐下来放松的机会，他们从未为整个团队做出过多的贡献。我绝对不会加班或做类似的事情，但我总是很忙，因为我不想看起来像是坐在那里做最低限度的工作。我天生就担心被解雇，这种焦虑促使我努力工作，通常我完成的工作量是我们团队中非常懒惰的开发人员的两倍多。  归根结底，团队负责人知道谁在每个冲刺中推动了更多的代码并移动了更多的票证，我不应该抱怨，因为其他开发人员做的越少，我看起来就越有价值。而且这并没有真正影响我的工作，因为我不需要为他们完成他们的工作。但这仍然让我有点困扰，因为我知道现在如果没有大量的经验，人们很难找到开发工作。我觉得这些人理所当然地认为他们能得到这些职位是多么幸运。我真心相信，如果这个项目不是那么大的话，他们绝不会因为做得这么少而侥幸逃脱惩罚。无论如何，这是我的咆哮哈哈。好奇他们的团队中是否还有其他人经历过这种情况？     提交人    /u/InternetMedium4325   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2qml9/anybody_work_with_extremely_lazy_devs/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:53:02 GMT</pubDate>
+      <title>网页=>桌面视频播放的最简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i38dja/easiest_way_for_web_page_desktop_video_playback/</link>
+      <description><![CDATA[大家好：这似乎是网页上的媒体输出与桌面上支持的常见格式之间的脱节。据我所知，最省力的方法就是捕获画布输出，然后将其保存为 .webm 甚至 .mkv  但 QuickTime 播放器不支持这两种格式。好吧，我猜我在抱怨苹果对开放格式的支持不足。 对于完整的客户端解决方案 =&gt;mp4，解决方案似乎是使用 ffmpeg.wasm。 我遗漏了什么吗？ 这只是一个玩具项目，我真的不想有任何服务器活动，显然我可以将视频发送到运行 ffmpeg 的服务器并将其发回。我真的不想为此这样做，这不值得。此外，我认为看看现在网页上到底能做什么是一个有趣的挑战。 Wasm 肯定是一个突破。     提交人    /u/boxabirds   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i38dja/easiest_way_for_web_page_desktop_video_playback/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>寻找一些可以提高我技能的书籍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2q2pb/looking_for_some_books_for_boost_my_skill/</link>
-      <description><![CDATA[嗨，我是一名有 4 年以上经验的前端开发人员。几乎每个高级职位都需要 5 年以上经验。我很快就会得到这个，但我仍然觉得我缺少一些东西来申请高级职位。我曾经使用过 Angular、React、React Native、Vue 甚至 NodeJS 和 Electron。每次客户都对我的工作感到满意。但我觉得自己万事通，一事无成。 对我来说，学习某样东西最舒服的方式是读书。所以你能推荐一些能让我更上一层楼的前端开发书籍吗？特别是一些框架。我想到了 React，因为它有更多的工作机会。    提交人    /u/Exabaitenko   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2q2pb/looking_for_some_books_for_boost_my_skill/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:26:35 GMT</pubDate>
+      <title>仅能运行基本 HTML 文件的独立应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i385ms/standalone_app_that_can_run_just_a_basic_html_file/</link>
+      <description><![CDATA[我已将此文档作为 HTML 文件保存在我的 PC 上，以便快速访问。唯一的问题是它非常大（168.97 MB），向下滚动后需要一段时间才能加载。我觉得在基本的 HTML 查看器上运行它会加快速度，但我不确定。有人有什么建议吗？    提交人    /u/Trunkit06   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i385ms/standalone_app_that_can_run_just_a_basic_html_file/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:15:44 GMT</pubDate>
     </item>
     <item>
-      <title>在移动设备上更改标签时刷新吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2pvng/refresh_on_changing_tabs_on_mobile/</link>
-      <description><![CDATA[有人知道为什么在移动版 Chrome（iOS）上切换标签页时，页面几乎总是刷新吗？ 我不是在谈论刷新身份验证令牌。即使没有登录，对我来说几乎每个网站都会发生这种情况。有人知道为什么吗？    提交人    /u/jande48   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2pvng/refresh_on_changing_tabs_on_mobile/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:17:19 GMT</pubDate>
+      <title>寻找一个解决方案，当一个监听器失败时，异步事件会被执行多次。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i37viq/looking_for_a_solution_for_asynchronous_events/</link>
+      <description><![CDATA[我有一个相当传统的事件驱动架构，其中我的域引发事件并分派给已注册的侦听器。 我的侦听器可以注册为同步或异步。同步侦听器在当前事务内执行。异步侦听器通过从 SQS 中提取的工作作业执行。 当我有两个异步侦听器侦听 1 个事件时，我的问题就出现了，其中一个侦听器失败了。成功的侦听器要么不运行（如果它是第二个注册的侦听器），要么多次运行，直到事件最终进入死信队列（如果它是第一个注册的侦听器）。 我预计在处理电子邮件时可能会遇到最令人头疼的问题，所以我正在考虑创建一个电子邮件队列，在其中使用事件 ID 作为唯一指示符的一部分来查看我是否已经将其排队，这样，如果条目已存在于队列中，电子邮件侦听器就可以提前返回。 （这也会有点像发件箱模式，即使我的同步执行方法中的交易失败，也能解决发送电子邮件的问题） 我认为在深入研究某些类型的事件/监听器的单独解决方案之前，先研究更彻底的解决方案可能是明智的。 我相信你们中的许多人都遇到过这个问题，你是怎么解决的？    提交人    /u/cantaimtosavehislife   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i37viq/looking_for_a_solution_for_asynchronous_events/</guid>
+      <pubDate>Fri, 17 Jan 2025 03:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>你听说过爵士乐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2pqpt/have_you_heard_of_jazz/</link>
-      <description><![CDATA[嘿， 我的一位同事分享了 https://jazz.tools/，想知道您是否听说过它，以及它是否可以作为 .io 应用程序的替代品或额外的工具？ 仍在尝试了解它是如何工作的！它是否像是 Socket.io 的替代品！？    提交人    /u/Vanals   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2pqpt/have_you_heard_of_jazz/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:10:46 GMT</pubDate>
+      <title>两周前的网站没有出现在谷歌搜索中。索引问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3623r/2_week_old_website_not_showing_up_in_google/</link>
+      <description><![CDATA[      您好，这是我的第一个网站。 我使用谷歌网站创建了这个网站。我从 squarespace 购买了域名并在那里设置了我的 DNS 设置。我的网站是实时的，任何人都可以使用直接链接访问它。但是，包括我自己在内的任何人都无法通过谷歌搜索找到该网站。我尝试使用谷歌索引进行故障排除。我得到了以下错误。我以为这与我的 DNS 设置有关。这对我来说是一个陌生的概念。这些是我网站的 DNS 设置。我在验证所有权和设置网站时，谷歌网站指示我将其设置为我的 DNS 设置。 有人知道我可以做些什么来修复我的网站，以便它在谷歌搜索中可见吗？任何帮助都非常感谢。谢谢。  https://preview.redd.it/ciru0u8yrgde1.png?width=1242&amp;format=png&amp;auto=webp&amp;s=d0ed7915840e1b60f3db8d90f245b0fab3529895 &lt;一href=&quot;https://preview.redd.it/l0n3aq9qrgde1.png?width=845&amp;format=png&amp;auto=webp&amp;s=49ac705551624305840e9c7f4c12718af4a6eb43&quot;&gt;https://preview.redd.it/l0n3aq9qrgde1.png?width=845&amp;format=png&amp;auto=webp&amp;s=49ac705551624305840e9c7f4c12718af4a6eb43 https://preview.redd.it/b0ntz0nkrgde1.png?width=439&amp;format=png&amp;auto=webp&amp;s=6d3cd384a75a340fbfc42399459651f26a3d766a    提交人    /u/ClaretNCobalt25   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3623r/2_week_old_website_not_showing_up_in_google/</guid>
+      <pubDate>Fri, 17 Jan 2025 02:21:55 GMT</pubDate>
     </item>
     <item>
-      <title>单一存储库，每个分支都是不同的网站。优点和缺点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2pnyr/single_repository_where_each_branch_is_a/</link>
-      <description><![CDATA[嗨！ 在我工作的小公司里，我们使用 git 的方式很不寻常。基本上，我们只有 1 个存储库，每个分支都是一个不同的网站。 现在我知道你的想法了，我刚开始的时候也是这么想的，但说实话，它效果很好。不过，我们正在考虑是否应该切换到通常使用 git 的方式。 我们只是不知道利弊是否大于努力。你们觉得呢？TIA！    提交人    /u/JyroClassified   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2pnyr/single_repository_where_each_branch_is_a/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:07:02 GMT</pubDate>
+      <title>无需切换到 Next.js，React.js 应用可以在 Google 上排名吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i35te8/can_reactjs_app_rank_on_google_without_switching/</link>
+      <description><![CDATA[大家好，我是 https://headshotly.ai 的软件工程师兼创始人。我使用 React.js 构建了此应用，通过口口相传，我们获得了超过 20k+ 的流量。但是，我们希望专注于 SEO 以获得稳定的流量。 我阅读了大量 Reddit 和 Stack Overflow 帖子，并向 ChatGPT 询问客户端渲染或单页应用是否可以在 Google 上排名。我收到的答案褒贬不一，有人说 Google 现在可以有效地索引 React.js 网站，而其他人则认为并非如此。 我们是一个小团队，我担心用 Next.js 重写应用会花费大量时间。您能否建议我们是否真的应该关注我们的着陆页和其他子页面的 SEO？我们是否应该考虑迁移到 Next.js，或者还有其他解决方案？    提交人    /u/TheGopherBro   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i35te8/can_reactjs_app_rank_on_google_without_switching/</guid>
+      <pubDate>Fri, 17 Jan 2025 02:09:31 GMT</pubDate>
     </item>
     <item>
-      <title>在 WordPress 博客上运行的 11ty 导出器展示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2p3q7/showcase_of_11ty_exporter_running_on_a_wordpress/</link>
-      <description><![CDATA[我真的很喜欢这个导出器本地化您的所有资产，包括图像，CSS 和 JavaScript 文件。 https://www.youtube.com/watch?v=WuH5QYCdh6w    提交人    /u/endymion1818-1819   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2p3q7/showcase_of_11ty_exporter_running_on_a_wordpress/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:38:52 GMT</pubDate>
+      <title>考虑从 Wix 迁移到 Shopify、Wordpress 还是其他平台来创建我的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i34n1m/thinking_of_moving_from_wix_shopify_wordpress_or/</link>
+      <description><![CDATA[去年我刚开始创建我的网站时，是作为个人/大学项目，所以我不需要任何花哨或疯狂的东西，这就是我选择 Wix 的原因。它很简单，可以满足我的需要，但现在我正在考虑切换到 Shopify 或 Wordpress，原因有几个。  电子商务：刚开始的时候，我并没有计划销售任何东西，但随着网站的发展，我开了一家商店，我想继续发展它。问题是，由于速度太慢，我不得不削减类别/产品页面上我想要的功能（我认为这是因为 Wix - 即使在我尽可能少地压缩照片并减少所有元素的页面上也是如此）。举个例子，我想在某些页面添加产品轮播，但每次我添加 Wix 图库或元素时，不仅编辑器会滞后，而且我的网站每次点击都需要 4-5 秒才能加载。 SEO 性能：我从 Youtube、多个 Semrush 免费试用版和博客上自学了 SEO，但我似乎受到 Wix 的限制，因为我想为关键字创建特定页面，但没有意识到甚至有 100 页的限制（从未想过我会接近页面限制），但现在我意识到我想超过这个页面限制，而不会影响我的 SEO、速度或整体可用性。 自定义：我希望对我的网站的设计/功能有更多的创造性控制。我听说 Wordpress 提供了很大的灵活性，但对于只习惯拖放式网站构建器的人来说，这是可行的。我愿意学习，但学习难度是否太大？ 可扩展性：随着网站的发展，我希望能够添加更多页面和产品，并处理更多流量，而不会牺牲网站的性能？从长远来看，这两个平台是否能更好地处理增长？  迁移的缺点：  维护和易用性：我听说 wordpress 需要更多维护，包括更新、托管和安全。作为一名大学生，我没有时间或预算聘请某人来管理这些。对于从未这样做过的人来说，这可能吗？ 电子商务与网站：现在，我的网站更像是一个带有电子商务元素的信息网站，而不是一个完整的商店。 Shopify 更适合在线商店，但我想知道 WordPress 是否会让我在博客风格的内容和销售产品之间取得更多平衡，或者 Shopify 也可以处理这一点？ 迁移：迁移过程有点不知所措，因为我担心我的所有 SEO 进度、手动重建、从头开始，而学习所有新工具可能会太多  不过，如果需要，我愿意在任何平台上手动重建网站，但是我花了很多时间/精力来学习并将我的网站带到这一点，所以从头开始的想法有点可怕。我的网站是iranopedia.com，如果这有助于任何人更好地了解我当前的设置和结构。感谢您的帮助 查看投票    由   提交  /u/iranopedia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i34n1m/thinking_of_moving_from_wix_shopify_wordpress_or/</guid>
+      <pubDate>Fri, 17 Jan 2025 01:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>我可以只转发特定路径吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2otg0/can_i_forward_just_a_specific_path/</link>
-      <description><![CDATA[我的 mydomain.com 托管在 Google 网站上，运行良好，有什么办法可以将 mydomain.com/redirect 转发到其他网址吗？我的域名是通过 porkbun 托管的，我托管在 Google 网站上。     提交人    /u/SnackStation   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2otg0/can_i_forward_just_a_specific_path/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:24:37 GMT</pubDate>
+      <title>带有缩放标记的幻灯片是否太分散注意力了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i33cnk/is_this_slideshow_with_zooming_markers_too/</link>
+      <description><![CDATA[      嘿，我想展示我正在构建的这个应用程序的细节，并且认为通用的幻灯片无法将人们的注意力引导到细节上，所以我使用 framer motion、O1 和 windsurf 制作了带有可缩放标记的幻灯片。  我喜欢它的地方在于它可以在点击时或用户单击下一个按钮时动画并放大到特定标记，并且如果他们愿意，他们还可以垂直滚动到下一个带有不同标记的图像。  但是，它对移动小屏幕没有响应（看起来很糟糕），动画曲线会让人感到头晕，可能会分散一些人的注意力，有些人可能认为普通的幻灯片比这种过度设计的东西更好...我想知道人们是否在其他地方看到过类似的设计，你有没有遇到过这种影响转换的经历？你会如何改进它？  我可以分享实时登陆页面，以便您有兴趣但不想被标记为自我宣传时可以试用。     提交人    /u/arndomor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i33cnk/is_this_slideshow_with_zooming_markers_too/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>可以向我的学生展示简单的 HTML 和 CSS 网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2ok9q/simple_html_css_websites_to_show_my_students/</link>
-      <description><![CDATA[明天我要教我的学生如何在记事本中创建他们的第一个网页，在开始构建之前，我想向他们展示一些简单的 HTML 网站，向他们展示不同的网页和类似的东西。 你们知道任何很酷的简单 HTML 和 CSS 网站吗？请发送那些可以安全用于工作的网站，哈哈（我已经知道并喜欢 http://motherfuckingwebsite.com/ ，但我不能向他们展示）    提交人    /u/SaltyIsaac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2ok9q/simple_html_css_websites_to_show_my_students/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:11:09 GMT</pubDate>
+      <title>如果您今天从头开始创建您的个人网站，您会选择什么技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3101h/if_you_were_making_your_personal_site_from/</link>
+      <description><![CDATA[一个简单的、几乎是静态的网站，带有联系表单和博客部分。  当我 10 年前创建我的网站时，我对所有内容都进行了硬编码，没有库，什么都没有。当然，现在是 2025 年，我想看起来不错，重新成为一名开发人员。     由   提交  /u/CS_Barbie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3101h/if_you_were_making_your_personal_site_from/</guid>
+      <pubDate>Thu, 16 Jan 2025 22:18:23 GMT</pubDate>
     </item>
     <item>
-      <title>帮助获取数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2o9xi/help_with_fetching_data/</link>
-      <description><![CDATA[嗨， Web 开发并不是我的专业领域，但最近我被要求为我加入的一个研究小组建立一个小型网站。由于该项目不需要任何太复杂的东西，我决定使用纯 HTML/CSS/JS 来实现简单性和可维护性。（就上下文而言，我确实有一些使用 Vite + React 的临时经验，但我想让它尽可能简单明了。） 情况如下：网站从主 API 接收数据（例如，团队成员、项目）。为了处理这个问题，我创建了一个 server.js 文件作为中介 - 从主 API 获取数据，然后将其提供给网站（否则 CORS 不允许我调用主 API）。 现在，我需要部署网站，但有一个问题：我只能访问服务器上的 HTML 目录。这意味着我无法弄清楚如何在静态网站旁边运行 server.js 文件。 我的问题：  我对 server.js 采取的方法是否合理，或者是否有更好的方法来处理这个问题？  在只能访问 HTML 目录的限制下，我该如何运行 server.js？  我应该重新考虑这一切吗？  任何提示或建议都将不胜感激。谢谢！    提交人    /u/rodrids01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2o9xi/help_with_fetching_data/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:55:42 GMT</pubDate>
+      <title>我的 2025 年 3 小时登陆页面构建策略</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i30lo9/my_3hr_landing_page_build_strategy_in_2025/</link>
+      <description><![CDATA[       由    /u/AMeatMuncher_not_gay  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i30lo9/my_3hr_landing_page_build_strategy_in_2025/</guid>
+      <pubDate>Thu, 16 Jan 2025 22:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>自由职业者/兼职设计师合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2o92v/freelanceside_hustle_designer_collab/</link>
-      <description><![CDATA[大家好，我是一名兼职网页开发人员。几年来，我一直在断断续续地做一些小项目，以获得乐趣并赚一些啤酒钱。（不靠收益生活，我有一份全职的高薪工作，但我写 0 代码）。 我正在努力变得更加认真并解决更多项目，但我最大的障碍是最初的设计方面。近年来，我已经将我的设计工作迁移到 Figma 并获得了一些很棒的结果，但我对它并不热衷。我更喜欢编写代码、构建业务逻辑、协调数据库设置等。这是我 9-5 之后喜欢做的事情。 我更喜欢简约的设计，我的大多数小镇客户也喜欢。没有疯狂的 3D 动画或复杂的自定义 svg。我最近用 Shadcn 做了一些自定义 CMS 构建，我非常喜欢它作为面向内部的工具。  如果您是 Figma 爱好者，希望在日常工作之余赚点钱，请提供您的作品示例。根据网站规模和创意，我猜设计的价格在每页 25 美元到 100 美元之间。我们也可以讨论一下，比如有些网站我只是在刷新旧设计。我现在不收太多钱，因为我没有作品集。  Tldr：希望与 Figma 设计师合作，以极简主义设计项目为副业    提交人    /u/j_payne1349   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2o92v/freelanceside_hustle_designer_collab/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:54:25 GMT</pubDate>
+      <title>我的软件业务端建好了，如何将其SaaS化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i303la/built_the_business_end_of_my_software_how_to_saas/</link>
+      <description><![CDATA[我曾经是一名业余开发者，并且有 HTML/JavaScript/PHP 经验。我之前从未使用过框架。只是用每个框架的原始版本制作了一些相当基本的项目。 我最近制作了一个 PHP 脚本，它为我的服务执行所有业务逻辑。现在我要向非常小众的受众销售 SaaS。我意识到现在我必须创建一个网站，供用户注册、购买订阅和管理他们的帐户。除了付款之外，我唯一需要用户提供的东西就是他们的 FTP 服务器的用户名和密码。帐户中没有其他需要用户管理或查看的内容。 我发现每个 SaaS 都有一些样板要求，不需要我构建自己的身份验证/计费/等，我发现 Laravel 可能是一个很好的起点，它具有这些“开箱即用”的功能。为了熟悉 Laravel 和框架，我从 Laravel Bootcamp 开始。我能够按照教程制作“Chirper”应用程序，但我并没有真正理解它的工作原理。特别是将它从我的本地主机传输到我的网络服务器。我真的需要 forge 吗？还有 vite？我不能只上传项目文件吗？ 实现我的目标的下一步是什么？我想我希望更全面地了解 Laravel 的工作原理，但更重要的是，我希望能够使用一些非常基本的要求来设置我的 SaaS，一个用于访问我的业务端 PHP 脚本的 API，仅此而已。有什么建议吗？    提交人    /u/Produkt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i303la/built_the_business_end_of_my_software_how_to_saas/</guid>
+      <pubDate>Thu, 16 Jan 2025 21:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>网页游戏的 AI 开发 - 期望与现实</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2o7lg/ai_dev_for_a_browser_game_expectation_vs_reality/</link>
-      <description><![CDATA[        提交人    /u/saporrai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2o7lg/ai_dev_for_a_browser_game_expectation_vs_reality/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:52:10 GMT</pubDate>
+      <title>可以将在线商店与 Zoom 和 Google 日历集成的最佳 CSM？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2zyyj/best_csm_that_can_integrate_online_store_with/</link>
+      <description><![CDATA[我目前使用 WordPress 和 WooCommerce，我发现它们有很多错误。我的谷歌日历从未正确同步，而且我不断让客户在我已阻止的时间进行预订……不确定是不是这样，但希望大家能提出建议。我提供一项服务，在我的网上商店购买理想情况下会产生 Zoom 链接。没有产品发货。任何信息都将不胜感激！    提交人    /u/filledwithcheese   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2zyyj/best_csm_that_can_integrate_online_store_with/</guid>
+      <pubDate>Thu, 16 Jan 2025 21:32:39 GMT</pubDate>
     </item>
     <item>
-      <title>Google 的无 Javascript 页面拒绝使用 <detail> 元素（可能是因为跨平台动画很难实现）来实现手风琴功能，甚至浏览器也不喜欢 <detail> 元素。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2o2r7/googles_javascriptless_page_refuses_to_use_the/</link>
-      <description><![CDATA[  由    /u/Whorhal  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2o2r7/googles_javascriptless_page_refuses_to_use_the/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:44:30 GMT</pubDate>
+      <title>响应式设计的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2y8zs/optimal_approach_to_responsive_design/</link>
+      <description><![CDATA[您现代的前端工作流程是什么，以确保设计层能够满足所有要求？    提交人    /u/pooreffects   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2y8zs/optimal_approach_to_responsive_design/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>策略引擎对决 - OPA vs. OpenFGA vs. Cedar</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2mzbl/policy_engine_showdown_opa_vs_openfga_vs_cedar/</link>
-      <description><![CDATA[        由    /u/Permit_io  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2mzbl/policy_engine_showdown_opa_vs_openfga_vs_cedar/</guid>
-      <pubDate>Thu, 16 Jan 2025 11:35:32 GMT</pubDate>
+      <title>我的网络项目服务器在欧洲，但是美国有很多人在用，这种情况我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2y5s4/my_web_project_server_is_in_europe_but_there_are/</link>
+      <description><![CDATA[您好， 我有一个 PHP 客户端和 WebSocket 后端，我目前的设置部署在欧洲，但我的客户群是 50% 欧盟，50% 美国， 现在，从美国连接到我的网站的人连接速度会不会很慢呢？ 我该如何优化呢？ 我对此做了一些研究，通常他们建议无服务器 PHP + AWS RDS 设置，因为它们运行多区域，但成本对我的初创公司来说太大，比如每月 3000 美元。 如果我从美国购买服务器，并将我的客户端也部署到美国，并在 cloudflare 上启用负载平衡，结果会一样吗？因为我的数据库在欧洲。 说真的，我在这种情况中困惑了好几天，大家是怎么解决的？ 谢谢！    提交人    /u/rubystep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2y5s4/my_web_project_server_is_in_europe_but_there_are/</guid>
+      <pubDate>Thu, 16 Jan 2025 20:14:22 GMT</pubDate>
     </item>
     <item>
-      <title>类似 FileZilla 的应用程序也支持命令行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2lndo/apps_like_filezilla_but_also_support_command_lines/</link>
-      <description><![CDATA[我在 FileZilla 和 Terminal 之间切换花了太多时间。 您有什么适用于 Windows 和 Mac 的推荐吗？ 非常感谢！    提交人    /u/doggolulu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2lndo/apps_like_filezilla_but_also_support_command_lines/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:01:36 GMT</pubDate>
+      <title>正确的网站没有显示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2xnvh/correct_website_not_showing_up/</link>
+      <description><![CDATA[如果您直接在地址栏中输入我的链接，就会出现正确的网站。 但是，如果您在 Google 中输入我的公司名称并向下滚动直到看到我的网站并点击它，则出现的只是我在其上启动该网站的网页设计模板。 请帮忙。    提交人    /u/WMUBronco1994   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2xnvh/correct_website_not_showing_up/</guid>
+      <pubDate>Thu, 16 Jan 2025 19:53:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
