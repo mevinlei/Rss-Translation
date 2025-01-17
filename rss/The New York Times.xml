@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Jan 2025 18:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 21:07:09 GMT</lastBuildDate>
+    <item>
+      <title>罗伯特·肯尼迪 (RFK) Jr. 试图在推出新冠疫苗接种六个月后阻止疫苗接种</title>
+      <link>https://www.nytimes.com/2025/01/17/health/rfk-jr-covid-vaccines.html</link>
+      <description><![CDATA[小罗伯特·F·肯尼迪曾向美国食品药品监督管理局请愿，要求撤销对这些疫苗的授权，因为当时疫苗需求量很大，而且被认为可以救命。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/health/rfk-jr-covid-vaccines.html</guid>
+      <pubDate>Fri, 17 Jan 2025 20:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普第一任期内将目标对准科学家。这一次，他们做好了准备。</title>
+      <link>https://www.nytimes.com/2025/01/17/climate/trump-government-scientists.html</link>
+      <description><![CDATA[各机构和工会已经制定了新的防护措施，旨在限制政治对政府研究的干预。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/climate/trump-government-scientists.html</guid>
+      <pubDate>Fri, 17 Jan 2025 20:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃里克·亚当斯在赦免谈判中与特朗普在海湖庄园附近会面</title>
+      <link>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</link>
+      <description><![CDATA[纽约市长表示有意赦免以解决联邦腐败指控，他于周五会见了当选总统唐纳德·J·特朗普及其儿子埃里克。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</guid>
+      <pubDate>Fri, 17 Jan 2025 20:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普选择前国会议员管理美国核武库</title>
+      <link>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</link>
+      <description><![CDATA[布兰登·威廉姆斯曾在一艘核潜艇上服役，并担任过一届纽约国会选区的议员，但他很少谈及自己在核武器管理方面的经验。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</guid>
+      <pubDate>Fri, 17 Jan 2025 20:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 个场景诠释了大卫·林奇的“林奇式”视野</title>
+      <link>https://www.nytimes.com/2025/01/17/movies/david-lynch-death-lynchian.html</link>
+      <description><![CDATA[这位导演形成了自己独特的风格，以至于“林奇式”成为了银幕上任何超现实主义的代名词。他作品中的这些场景直指这个词所体现的精髓。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/movies/david-lynch-death-lynchian.html</guid>
+      <pubDate>Fri, 17 Jan 2025 19:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登的核心圈子如何保护摇摇欲坠的总统</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</link>
+      <description><![CDATA[据听过他讲话的人说，总统的长期战略师迈克·多尼隆 (Mike Donilon) 在 2022 年告诉他：“你最大的问题是对年龄的认知。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</guid>
+      <pubDate>Fri, 17 Jan 2025 18:33:21 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 进化的时间表：从 Dances 到 BookTok 再到最高法院</title>
       <link>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</link>
       <description><![CDATA[这款最初名为“舞蹈应用”的产品催生了无数的表情包，开创了赚钱的职业，并塑造了整个行业。下面是它的发展历程。]]></description>
       <guid>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</guid>
-      <pubDate>Fri, 17 Jan 2025 18:06:00 GMT</pubDate>
+      <pubDate>Fri, 17 Jan 2025 18:16:10 GMT</pubDate>
     </item>
     <item>
       <title>特朗普就职画像中为何目光炯炯？</title>
@@ -20,74 +62,46 @@
       <pubDate>Fri, 17 Jan 2025 17:57:35 GMT</pubDate>
     </item>
     <item>
-      <title>拜登称平等权利修正案已通过，但不会强制认证</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</link>
-      <description><![CDATA[拜登总统的讲话在很大程度上是象征性地支持长达一个世纪的将性别平等写入宪法的运动。但倡导者表示，这些言论可能会为未来的法律斗争增添分量。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:24:40 GMT</pubDate>
+      <title>拜登家族的时尚遗产：美国设计师和拜登蓝</title>
+      <link>https://www.nytimes.com/2025/01/17/style/joe-biden-jill-biden-style.html</link>
+      <description><![CDATA[乔、吉尔和过去四年的面貌——我们会记得什么？]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/style/joe-biden-jill-biden-style.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普的边境专员托马斯·霍曼如何实现“让美国再次伟大”</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</link>
-      <description><![CDATA[托马斯·霍曼曾经为奥巴马时代的政策和跨性别移民医疗保健辩护。现在他正着手建立热线，举报无证邻居，并逮捕妨碍他行动的当地官员。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-border-czar-thomas-homan.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:18:24 GMT</pubDate>
+      <title>“我们无法留下来”：加州一家人撤离后的生活</title>
+      <link>https://www.nytimes.com/video/world/americas/100000009930572/altadena-family-evacuation.html</link>
+      <description><![CDATA[洛杉矶发生火灾后不久，贝瑟尼·马丁内斯和她的女儿在停电和断暖后撤离了位于阿尔塔迪纳和帕萨迪纳边境的家。他们正在等待，直到觉得足够安全再回去。]]></description>
+      <guid>https://www.nytimes.com/video/world/americas/100000009930572/altadena-family-evacuation.html</guid>
+      <pubDate>Fri, 17 Jan 2025 17:31:51 GMT</pubDate>
     </item>
     <item>
-      <title>埃里克·亚当斯今天将在海湖庄园会见特朗普</title>
-      <link>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</link>
-      <description><![CDATA[纽约市长埃里克·亚当斯 (Eric Adams) 表示有兴趣寻求联邦赦免来解决联邦腐败指控，他将于周五下午会见当选总统唐纳德·J·特朗普 (Donald J. Trump)。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:07:17 GMT</pubDate>
+      <title>火灾后的废墟中，曾经失去的痕迹给一个家庭留下了希望的种子</title>
+      <link>https://www.nytimes.com/2025/01/17/us/la-fires-altadena-home.html</link>
+      <description><![CDATA[卡尔夫妇毕生致力于实现他们早熟儿子的梦想，他们的儿子在 16 岁时突然去世。当他们位于阿尔塔迪纳的家被烧毁时，他们救出了一些纪念品，其他一些则幸存了下来。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/la-fires-altadena-home.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>参议院推动驱逐被控犯罪的移民的法案通过了关键障碍</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/senate-migrant-deportation-bill.html</link>
-      <description><![CDATA[在一次关键的测试投票中，十名民主党人与共和党人一道投票通过了这项法案，以确保该法案能在当选总统唐纳德·J·特朗普的领导下迅速颁布。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/senate-migrant-deportation-bill.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:00:41 GMT</pubDate>
+      <title>出版商和影响者想知道什么可以取代 BookTok 的力量</title>
+      <link>https://www.nytimes.com/2025/01/17/books/booktok-publishing.html</link>
+      <description><![CDATA[随着禁令迫在眉睫，出版商希望转向新的平台，但读者担心他们的爱书社区将永远不再像以前一样。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/books/booktok-publishing.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国对 TikTok 的禁令将对其中国所有者字节跳动造成重大打击</title>
-      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-bytedance.html</link>
-      <description><![CDATA[虽然TikTok在巴西、印度尼西亚和其他市场仍然非常受欢迎，但其在美国拥有的1.7亿用户才是其最有价值的。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-bytedance.html</guid>
-      <pubDate>Fri, 17 Jan 2025 16:18:51 GMT</pubDate>
+      <title>大卫·林奇的风格：奢华的发型、朴素的衣服、香烟</title>
+      <link>https://www.nytimes.com/2025/01/17/style/david-lynch-style.html</link>
+      <description><![CDATA[奢华的发型、不起眼的衣服和吸烟习惯是电影制片人大卫林奇视觉形象的标志。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/style/david-lynch-style.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:18:56 GMT</pubDate>
     </item>
     <item>
-      <title>17 号直升机的恐怖旅程</title>
-      <link>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</link>
-      <description><![CDATA[一名前陆军飞行员。一架老旧的直升机。狂风肆虐。扑灭伊顿大火的竞赛对洛杉矶县夜间飞行的消防员进行了前所未有的考验。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/wildfires-copter-17.html</guid>
-      <pubDate>Fri, 17 Jan 2025 16:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 TikTok 可能被禁止的信息</title>
+      <title>最高法院就 TikTok 禁令做出裁决后你需要了解什么</title>
       <link>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</link>
       <description><![CDATA[最高法院周五维持了一项法律，该法律可能导致该应用程序最早于周日下线。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</guid>
       <pubDate>Fri, 17 Jan 2025 15:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>大卫·林奇在《橡皮头》等黑暗杰作中向我们展示了我们是谁</title>
-      <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-eraserhead-mulholland-drive.html</link>
-      <description><![CDATA[导演本人的表演几乎很正常。《橡皮头》和《穆赫兰道》等杰作则不然。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-eraserhead-mulholland-drive.html</guid>
-      <pubDate>Fri, 17 Jan 2025 14:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登将减刑毒品犯罪者刑期</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/biden-commute-sentences-drug-offenders.html</link>
-      <description><![CDATA[此次减刑针对的是那些因为毒品法律的旧差异而被判处更严厉刑罚的囚犯，这将是美国总统有史以来颁布的最广泛的个人减刑。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/biden-commute-sentences-drug-offenders.html</guid>
-      <pubDate>Fri, 17 Jan 2025 14:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 15 个月的战争，加沙人梦想返回家园</title>
-      <link>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-returning-home-after-war.html</link>
-      <description><![CDATA[他们梦想着停战协议签署后他们将拥抱的人们、他们将去祭拜的坟墓以及他们将重建的家园。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-returning-home-after-war.html</guid>
-      <pubDate>Fri, 17 Jan 2025 13:43:54 GMT</pubDate>
     </item>
     <item>
       <title>为什么特朗普第二任期的议程可能取决于他最讨厌的最高法院</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[特朗普入主白宫后，可能再次与美国第九巡回上诉法院发生冲突。但旧金山的法院自 2017 年以来发生了变化。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/us/trump-court-appeals-ninth-circuit.html</guid>
       <pubDate>Fri, 17 Jan 2025 10:00:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约为何成为庇护城市？特朗普上台后情况将如何改变？</title>
-      <link>https://www.nytimes.com/2025/01/17/nyregion/sanctuary-city-nyc-trump.html</link>
-      <description><![CDATA[纽约作为无证移民庇护城市的地位随着时间的推移发生了变化。现在，随着当选总统唐纳德·J·特朗普准备就职，这一地位可能再次发生变化。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/nyregion/sanctuary-city-nyc-trump.html</guid>
-      <pubDate>Fri, 17 Jan 2025 08:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>大卫·林奇的电影和电视节目：哪里可以观看《蓝丝绒》、《双峰》等</title>
-      <link>https://www.nytimes.com/2025/01/16/movies/david-lynch-films-streaming.html</link>
-      <description><![CDATA[像《蓝丝绒》和《穆赫兰道》这样的电影并不总是那么容易解释，但它们却永远活在你的脑海里，钻进你的内心。]]></description>
-      <guid>https://www.nytimes.com/2025/01/16/movies/david-lynch-films-streaming.html</guid>
-      <pubDate>Fri, 17 Jan 2025 02:04:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

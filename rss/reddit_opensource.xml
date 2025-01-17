@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 17 Jan 2025 18:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 21:09:39 GMT</lastBuildDate>
+    <item>
+      <title>LCLV：使用 Moondream 2B 和 OLLama 进行实时视频分类和分析（开源，本地）。链接如下。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</link>
+      <description><![CDATA[LCLV 是一款实时计算机视觉应用程序，使用 Moondream + Ollama 完全在本地运行。 视频演示可在这里获取。 它的作用：  通过网络摄像头进行实时视频分析 &amp;分类（情绪检测、疲劳分析、凝视跟踪等） 在您的机器上 100% 本地运行 使用 TailwindCSS 清理 UI 超级容易设置！  快速设置：  安装 Ollama 并在 Ollama 服务器上运行 Moondream ollama pull moondream 和 ollama run moondream 克隆 repo 并运行 Web 应用程序：  ​ git clone cd lclv npm install npm run devhttps://github.com/HafizalJohari/lclv.git  查看 repo 了解更多详细信息 &amp;在这里亲自尝试一下：https://github.com/HafizalJohari/lclv 如果您在运行过程中遇到问题，请告诉我！如果遇到问题，请跳转到 Moondream discord 中的 #support 频道，或在此处发表评论以获得即时帮助。    提交人    /u/ParsaKhaz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3o5ul/lclv_realtime_video_classification_analysis_with/</guid>
+      <pubDate>Fri, 17 Jan 2025 19:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>TilBuci 新版本 - 一款免费的交互式内容创建软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</link>
+      <description><![CDATA[大家好。我很高兴发布 TilBuci 的新版本，这是我一直在开发的一款用于创建交互式内容的软件。它可从软件存储库获取： https://github.com/lucasjunqueira-var/tilbuci/releases/tag/v8 从此版本开始，许可证从自定义&quot;MIT-like&quot; 更改为 MPL 2.0。如果您有兴趣查看 TilBuci，请访问网站：https://tilbuci.com.br/    提交人    /u/chokito76   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3n00f/new_tilbuci_version_a_free_software_for/</guid>
+      <pubDate>Fri, 17 Jan 2025 18:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从事开源工作——我怎么可能买得起 Cline/OpenRouter</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i3muxi/i_work_on_open_source_how_the_hell_am_i_supposed/</link>
+      <description><![CDATA[Cline 在几分钟内就花光了大约 30 美元。这对我来说是不可持续的。除非有人愿意为我的开源项目捐款，否则我不知道如何利用人工智能来帮助我。其他人都在做什么？ 我甚至经营着一家 501c3 非营利组织，但我们没有捐助者！    提交人    /u/The_Game_Genie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i3muxi/i_work_on_open_source_how_the_hell_am_i_supposed/</guid>
+      <pubDate>Fri, 17 Jan 2025 18:17:34 GMT</pubDate>
+    </item>
     <item>
       <title>depthviz-开源自由潜水深度叠加工具-寻求反馈</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3mcb5/depthviz_opensource_freediving_depth_overlay_tool/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好！ 我需要一个免费的语音转文本 API 来构建一些东西。有人知道我可以使用哪一个吗？    提交人    /u/PeroniaSurvivor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i2rim4/speech_to_text_transcribe/</guid>
       <pubDate>Thu, 16 Jan 2025 15:32:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果目标语言与源语言匹配，则在 Google 翻译中自动切换目标语言。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i2q09n/autoswitch_target_language_in_google_translate_if/</link>
-      <description><![CDATA[AutoSwitch Translate 可以在源语言与目标语言匹配的情况下自动切换谷歌翻译中的目标语言。  当人们使用谷歌翻译时，他们经常想要在 A 和 B 两种语言之间进行翻译。当用户输入 A 语言的文本并将其翻译成 B 语言时，浏览器会将 B 语言保存为目标语言。但是，如果用户稍后输入 B 语言的文本，则输出将保持与输入相同，因为目标语言也设置为 B。此扩展程序就是为解决这个问题而构建的。    提交人    /u/Logical_Divide_3595   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i2q09n/autoswitch_target_language_in_google_translate_if/</guid>
-      <pubDate>Thu, 16 Jan 2025 14:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>CubeTrek：用于徒步旅行、滑雪等的 3D 地形模拟。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i2ocn9/cubetrek_3d_terrain_simulation_for_hiking_skiing/</link>
-      <description><![CDATA[      我研究 GPS 轨迹可视化工具已经有一段时间了。它在丘陵和山区地形上表现出色（3D 视图更有意义），但它也提供了很多类似 Strava 的功能（统计数据等）。 您可以手动上传 GPX 和 FIT 文件，或直接与 Garmin、Coros 和 Polar 同步。 请参阅 https://cubetrek.com 了解实时应用程序并查看那里的一些示例。它是免费且开源的。 此外，任何喜欢使用 3D 可视化（尤其是 Babylon.js）的人，如果您愿意帮助进一步完善这个东西，请告诉我。    提交人    /u/folli   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i2ocn9/cubetrek_3d_terrain_simulation_for_hiking_skiing/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 Novus 再次变得更好！🌟</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i2lj7d/novus_just_got_better_again/</link>
-      <description><![CDATA[前段时间，我在这里发布了我用 Go 编写的副项目，以简化本地 Web 开发。我刚刚发布了一个新版本，希望听到您的反馈。 https://jozefcipa.com/blog/novus-just-got-better-again/    提交人    /u/jozef_cipa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i2lj7d/novus_just_got_better_again/</guid>
-      <pubDate>Thu, 16 Jan 2025 09:53:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
