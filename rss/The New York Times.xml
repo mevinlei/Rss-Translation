@@ -1,30 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 00:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 02:56:44 GMT</lastBuildDate>
     <item>
-      <title>以色列政府批准加沙停火协议</title>
-      <link>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</link>
-      <description><![CDATA[以色列内阁全体会议通过了这项协议，会议持续到了犹太安息日，为加沙地带带来了一年多以来的首次喘息机会。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</guid>
-      <pubDate>Sat, 18 Jan 2025 00:35:50 GMT</pubDate>
+      <title>拜登称平等权利修正案已通过，但不会强制认证</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</link>
+      <description><![CDATA[这些言论在很大程度上是支持长达一个世纪的将性别平等写入宪法的运动的象征性姿态。但倡导者表示，这些言论可能会为未来的法律斗争增添分量。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</guid>
+      <pubDate>Sat, 18 Jan 2025 02:51:12 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院支持要求出售或禁止 TikTok 的法律</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/supreme-court-tiktok.html</link>
-      <description><![CDATA[该公司辩称，该法律以中国对国家安全构成潜在威胁为由，侵犯了其第一修正案赋予的权利以及其 1.7 亿用户的权利。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/supreme-court-tiktok.html</guid>
-      <pubDate>Fri, 17 Jan 2025 23:52:15 GMT</pubDate>
+      <title>TikTok 如何一次又一次躲过禁令，直到现在</title>
+      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</link>
+      <description><![CDATA[在最高法院遭遇决定性败诉后，该应用程序将于周日开始在美国被封锁，从而结束其像胡迪尼一样逃脱的传奇。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</guid>
+      <pubDate>Sat, 18 Jan 2025 01:48:20 GMT</pubDate>
     </item>
     <item>
       <title>拜登的核心圈子如何保护摇摇欲坠的总统</title>
       <link>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</link>
       <description><![CDATA[据听过他讲话的人说，总统的长期战略师迈克·多尼隆 (Mike Donilon) 在 2022 年告诉他：“你最大的问题是对年龄的认知。”]]></description>
       <guid>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</guid>
-      <pubDate>Fri, 17 Jan 2025 23:50:56 GMT</pubDate>
+      <pubDate>Sat, 18 Jan 2025 00:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>上诉法院裁定奥巴马时代的移民计划 DACA 非法</title>
+      <link>https://www.nytimes.com/2025/01/17/us/daca-immigration-deportation.html</link>
+      <description><![CDATA[但法官们维持了裁决，目前，数十万 DACA 受益人将继续受到保护，免遭驱逐出境。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/daca-immigration-deportation.html</guid>
+      <pubDate>Sat, 18 Jan 2025 00:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大制定三阶段计划应对特朗普关税威胁</title>
+      <link>https://www.nytimes.com/2025/01/17/world/canada/canada-trump-tariffs.html</link>
+      <description><![CDATA[如果美国新政府对加拿大进口产品征收关税，加拿大官员正在准备采取报复措施。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/world/canada/canada-trump-tariffs.html</guid>
+      <pubDate>Sat, 18 Jan 2025 00:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列政府批准加沙停火协议</title>
+      <link>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</link>
+      <description><![CDATA[以色列内阁全体会议通过了这项协议，会议持续到了犹太安息日，为加沙地带带来了一年多以来的首次喘息机会。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</guid>
+      <pubDate>Sat, 18 Jan 2025 00:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>向特朗普示好让亚当斯市长陷入政治困境</title>
+      <link>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-pardon.html</link>
+      <description><![CDATA[市长埃里克·亚当斯表示，与当选总统唐纳德·J·特朗普的会面关乎纽约市的未来。两人建立密切关系的理由各有不同。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-pardon.html</guid>
+      <pubDate>Sat, 18 Jan 2025 00:35:24 GMT</pubDate>
     </item>
     <item>
       <title>酋长、大亨和外交官：促成加沙停战的三人组</title>
@@ -48,25 +76,11 @@
       <pubDate>Fri, 17 Jan 2025 23:10:05 GMT</pubDate>
     </item>
     <item>
-      <title>中情局分析师承认泄露以色列机密文件</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/cia-analyst-guilty-plea-classified-israel.html</link>
-      <description><![CDATA[该分析师因泄露有关以色列对伊朗袭击的反应的敏感信息而被指控两项违反《间谍法》，并面临最高十年的监禁。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/cia-analyst-guilty-plea-classified-israel.html</guid>
-      <pubDate>Fri, 17 Jan 2025 22:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 如何一次又一次躲过禁令，直到现在</title>
-      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</link>
-      <description><![CDATA[在最高法院遭遇决定性败诉后，该应用程序将于周日开始在美国被封锁，从而结束其像胡迪尼一样逃脱的传奇。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</guid>
-      <pubDate>Fri, 17 Jan 2025 22:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登称平等权利修正案已通过，但不会强制认证</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</link>
-      <description><![CDATA[这些言论在很大程度上是支持长达一个世纪的将性别平等写入宪法的运动的象征性姿态。但倡导者表示，这些言论可能会为未来的法律斗争增添分量。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</guid>
-      <pubDate>Fri, 17 Jan 2025 21:26:09 GMT</pubDate>
+      <title>美国将采取“特别措施”避免 1 月 21 日违约</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/debt-default-jan-21-yellen-treasury.html</link>
+      <description><![CDATA[即将离任的财政部长珍妮特·耶伦敦促立法者提高债务上限，保护美国的充分信任和信用。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/debt-default-jan-21-yellen-treasury.html</guid>
+      <pubDate>Fri, 17 Jan 2025 22:50:10 GMT</pubDate>
     </item>
     <item>
       <title>罗伯特·肯尼迪 (RFK) Jr. 试图在推出新冠疫苗接种六个月后阻止疫苗接种</title>
@@ -74,13 +88,6 @@
       <description><![CDATA[小罗伯特·F·肯尼迪曾向美国食品药品监督管理局请愿，要求撤销对这些疫苗的授权，因为当时疫苗需求量很大，而且被认为可以救命。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/health/rfk-jr-covid-vaccines.html</guid>
       <pubDate>Fri, 17 Jan 2025 20:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普第一任期内将目标对准科学家。这一次，他们做好了准备。</title>
-      <link>https://www.nytimes.com/2025/01/17/climate/trump-government-scientists.html</link>
-      <description><![CDATA[各机构和工会已经制定了新的防护措施，旨在限制政治对政府研究的干预。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/climate/trump-government-scientists.html</guid>
-      <pubDate>Fri, 17 Jan 2025 20:46:49 GMT</pubDate>
     </item>
     <item>
       <title>甲骨文或将掌控 TikTok 的未来</title>
@@ -92,16 +99,9 @@
     <item>
       <title>特朗普选择前国会议员管理美国核武库</title>
       <link>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</link>
-      <description><![CDATA[布兰登·威廉姆斯曾在核潜艇上服役，并担任过一届纽约国会选区的议员，但他很少谈及自己在核武器管理方面的经验。]]></description>
+      <description><![CDATA[布兰登·威廉姆斯曾在一艘核潜艇上服役，并担任过一届纽约国会选区的议员，但他很少谈及自己在核武器管理方面的经验。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</guid>
       <pubDate>Fri, 17 Jan 2025 20:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>出版商和影响者想知道什么可以取代 BookTok 的力量</title>
-      <link>https://www.nytimes.com/2025/01/17/books/booktok-publishing.html</link>
-      <description><![CDATA[随着禁令迫在眉睫，出版商希望转向新的平台，但读者担心他们的爱书社区将永远不再像以前一样。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/books/booktok-publishing.html</guid>
-      <pubDate>Fri, 17 Jan 2025 16:29:35 GMT</pubDate>
     </item>
     <item>
       <title>华盛顿特区的餐馆期待特朗普政府的到来</title>
