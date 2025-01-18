@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Jan 2025 21:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 00:35:50 GMT</lastBuildDate>
+    <item>
+      <title>以色列政府批准加沙停火协议</title>
+      <link>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</link>
+      <description><![CDATA[以色列内阁全体会议通过了这项协议，会议持续到了犹太安息日，为加沙地带带来了一年多以来的首次喘息机会。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/world/middleeast/israel-cabinet-ceasefire-gaza.html</guid>
+      <pubDate>Sat, 18 Jan 2025 00:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院支持要求出售或禁止 TikTok 的法律</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/supreme-court-tiktok.html</link>
+      <description><![CDATA[该公司辩称，该法律以中国对国家安全构成潜在威胁为由，侵犯了其第一修正案赋予的权利以及其 1.7 亿用户的权利。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/supreme-court-tiktok.html</guid>
+      <pubDate>Fri, 17 Jan 2025 23:52:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登的核心圈子如何保护摇摇欲坠的总统</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</link>
+      <description><![CDATA[据听过他讲话的人说，总统的长期战略师迈克·多尼隆 (Mike Donilon) 在 2022 年告诉他：“你最大的问题是对年龄的认知。”]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</guid>
+      <pubDate>Fri, 17 Jan 2025 23:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>酋长、大亨和外交官：促成加沙停战的三人组</title>
+      <link>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-truce-negotiations.html</link>
+      <description><![CDATA[卡塔尔首相与拜登总统的特使和当选总统唐纳德·J·特朗普的代表建立了一种意想不到的伙伴关系。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/world/middleeast/gaza-truce-negotiations.html</guid>
+      <pubDate>Fri, 17 Jan 2025 23:34:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>“移民！”特朗普承诺的驱逐风暴一瞥</title>
+      <link>https://www.nytimes.com/2025/01/17/us/immigration-deportation-california.html</link>
+      <description><![CDATA[在唐纳德·J·特朗普总统就职典礼前夕，加州边境巡逻队特工的扫荡行动引发了无证移民工人的担忧。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/immigration-deportation-california.html</guid>
+      <pubDate>Fri, 17 Jan 2025 23:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普就职画像中为何目光炯炯？</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</link>
+      <description><![CDATA[在胜利和庆祝的巅峰时刻，当选总统唐纳德·J·特朗普在就职典礼肖像中看起来严肃。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</guid>
+      <pubDate>Fri, 17 Jan 2025 23:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>中情局分析师承认泄露以色列机密文件</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/cia-analyst-guilty-plea-classified-israel.html</link>
+      <description><![CDATA[该分析师因泄露有关以色列对伊朗袭击的反应的敏感信息而被指控两项违反《间谍法》，并面临最高十年的监禁。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/cia-analyst-guilty-plea-classified-israel.html</guid>
+      <pubDate>Fri, 17 Jan 2025 22:15:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 如何一次又一次躲过禁令，直到现在</title>
+      <link>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</link>
+      <description><![CDATA[在最高法院遭遇决定性败诉后，该应用程序将于周日开始在美国被封锁，从而结束其像胡迪尼一样逃脱的传奇。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/technology/tiktok-ban-sale-supreme-court.html</guid>
+      <pubDate>Fri, 17 Jan 2025 22:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登称平等权利修正案已通过，但不会强制认证</title>
+      <link>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</link>
+      <description><![CDATA[这些言论在很大程度上是支持长达一个世纪的将性别平等写入宪法的运动的象征性姿态。但倡导者表示，这些言论可能会为未来的法律斗争增添分量。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/us/politics/equal-rights-amendment-constitution-biden.html</guid>
+      <pubDate>Fri, 17 Jan 2025 21:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>罗伯特·肯尼迪 (RFK) Jr. 试图在推出新冠疫苗接种六个月后阻止疫苗接种</title>
       <link>https://www.nytimes.com/2025/01/17/health/rfk-jr-covid-vaccines.html</link>
@@ -20,67 +83,18 @@
       <pubDate>Fri, 17 Jan 2025 20:46:49 GMT</pubDate>
     </item>
     <item>
-      <title>埃里克·亚当斯在赦免谈判中与特朗普在海湖庄园附近会面</title>
-      <link>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</link>
-      <description><![CDATA[纽约市长表示有意赦免以解决联邦腐败指控，他于周五会见了当选总统唐纳德·J·特朗普及其儿子埃里克。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/nyregion/adams-trump-mar-a-lago.html</guid>
-      <pubDate>Fri, 17 Jan 2025 20:45:24 GMT</pubDate>
+      <title>甲骨文或将掌控 TikTok 的未来</title>
+      <link>https://www.nytimes.com/2025/01/17/business/oracle-tiktok-ban.html</link>
+      <description><![CDATA[该公司是该应用程序领先的服务器提供商之一，管理着存储数十亿个 40 秒视频的数据中心。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/business/oracle-tiktok-ban.html</guid>
+      <pubDate>Fri, 17 Jan 2025 20:36:05 GMT</pubDate>
     </item>
     <item>
       <title>特朗普选择前国会议员管理美国核武库</title>
       <link>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</link>
-      <description><![CDATA[布兰登·威廉姆斯曾在一艘核潜艇上服役，并担任过一届纽约国会选区的议员，但他很少谈及自己在核武器管理方面的经验。]]></description>
+      <description><![CDATA[布兰登·威廉姆斯曾在核潜艇上服役，并担任过一届纽约国会选区的议员，但他很少谈及自己在核武器管理方面的经验。]]></description>
       <guid>https://www.nytimes.com/2025/01/17/science/trump-brandon-williams-nuclear-weapons.html</guid>
       <pubDate>Fri, 17 Jan 2025 20:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 个场景诠释了大卫·林奇的“林奇式”视野</title>
-      <link>https://www.nytimes.com/2025/01/17/movies/david-lynch-death-lynchian.html</link>
-      <description><![CDATA[这位导演形成了自己独特的风格，以至于“林奇式”成为了银幕上任何超现实主义的代名词。他作品中的这些场景直指这个词所体现的精髓。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/movies/david-lynch-death-lynchian.html</guid>
-      <pubDate>Fri, 17 Jan 2025 19:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登的核心圈子如何保护摇摇欲坠的总统</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</link>
-      <description><![CDATA[据听过他讲话的人说，总统的长期战略师迈克·多尼隆 (Mike Donilon) 在 2022 年告诉他：“你最大的问题是对年龄的认知。”]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/biden-age.html</guid>
-      <pubDate>Fri, 17 Jan 2025 18:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 进化的时间表：从 Dances 到 BookTok 再到最高法院</title>
-      <link>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</link>
-      <description><![CDATA[这款最初名为“舞蹈应用”的产品催生了无数的表情包，开创了赚钱的职业，并塑造了整个行业。下面是它的发展历程。]]></description>
-      <guid>https://www.nytimes.com/article/tiktok-ban-viral-timeline.html</guid>
-      <pubDate>Fri, 17 Jan 2025 18:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普就职画像中为何目光炯炯？</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</link>
-      <description><![CDATA[在胜利和庆祝的巅峰时刻，当选总统唐纳德·J·特朗普在就职典礼肖像中看起来严肃。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/trump-inauguration-photo.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登家族的时尚遗产：美国设计师和拜登蓝</title>
-      <link>https://www.nytimes.com/2025/01/17/style/joe-biden-jill-biden-style.html</link>
-      <description><![CDATA[乔、吉尔和过去四年的面貌——我们会记得什么？]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/style/joe-biden-jill-biden-style.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:37:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我们无法留下来”：加州一家人撤离后的生活</title>
-      <link>https://www.nytimes.com/video/world/americas/100000009930572/altadena-family-evacuation.html</link>
-      <description><![CDATA[洛杉矶发生火灾后不久，贝瑟尼·马丁内斯和她的女儿在停电和断暖后撤离了位于阿尔塔迪纳和帕萨迪纳边境的家。他们正在等待，直到觉得足够安全再回去。]]></description>
-      <guid>https://www.nytimes.com/video/world/americas/100000009930572/altadena-family-evacuation.html</guid>
-      <pubDate>Fri, 17 Jan 2025 17:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>火灾后的废墟中，曾经失去的痕迹给一个家庭留下了希望的种子</title>
-      <link>https://www.nytimes.com/2025/01/17/us/la-fires-altadena-home.html</link>
-      <description><![CDATA[卡尔夫妇毕生致力于实现他们早熟儿子的梦想，他们的儿子在 16 岁时突然去世。当他们位于阿尔塔迪纳的家被烧毁时，他们救出了一些纪念品，其他一些则幸存了下来。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/la-fires-altadena-home.html</guid>
-      <pubDate>Fri, 17 Jan 2025 16:56:03 GMT</pubDate>
     </item>
     <item>
       <title>出版商和影响者想知道什么可以取代 BookTok 的力量</title>
@@ -90,25 +104,11 @@
       <pubDate>Fri, 17 Jan 2025 16:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>大卫·林奇的风格：奢华的发型、朴素的衣服、香烟</title>
-      <link>https://www.nytimes.com/2025/01/17/style/david-lynch-style.html</link>
-      <description><![CDATA[奢华的发型、不起眼的衣服和吸烟习惯是电影制片人大卫林奇视觉形象的标志。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/style/david-lynch-style.html</guid>
-      <pubDate>Fri, 17 Jan 2025 16:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院就 TikTok 禁令做出裁决后你需要了解什么</title>
-      <link>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</link>
-      <description><![CDATA[最高法院周五维持了一项法律，该法律可能导致该应用程序最早于周日下线。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/politics/tiktok-ban-what-to-know.html</guid>
-      <pubDate>Fri, 17 Jan 2025 15:19:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么特朗普第二任期的议程可能取决于他最讨厌的最高法院</title>
-      <link>https://www.nytimes.com/2025/01/17/us/trump-court-appeals-ninth-circuit.html</link>
-      <description><![CDATA[特朗普入主白宫后，可能再次与美国第九巡回上诉法院发生冲突。但旧金山的法院自 2017 年以来发生了变化。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/us/trump-court-appeals-ninth-circuit.html</guid>
-      <pubDate>Fri, 17 Jan 2025 10:00:48 GMT</pubDate>
+      <title>华盛顿特区的餐馆期待特朗普政府的到来</title>
+      <link>https://www.nytimes.com/2025/01/17/dining/washington-dc-restaurants-trump.html</link>
+      <description><![CDATA[随着特朗普重返纽约，餐饮业者们都在猜测这里的餐饮业将会变成什么样子。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/dining/washington-dc-restaurants-trump.html</guid>
+      <pubDate>Fri, 17 Jan 2025 16:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
