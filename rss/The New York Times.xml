@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 12:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 14:49:28 GMT</lastBuildDate>
+    <item>
+      <title>对特朗普政策的支持超过对特朗普的支持</title>
+      <link>https://www.nytimes.com/2025/01/18/us/politics/trump-policies-immigration-tariffs-economy.html</link>
+      <description><![CDATA[一项新的民意调查发现，公众对当选总统驱逐移民和减少美国海外驻军的计划表示同情。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/us/politics/trump-policies-immigration-tariffs-economy.html</guid>
+      <pubDate>Sat, 18 Jan 2025 13:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么边境危机？特朗普上任前，墨西哥移民收容所一片寂静</title>
+      <link>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</link>
+      <description><![CDATA[就职典礼前，格兰德河以南的移民收容所远未满员，这反映出边境两边实施的更为严厉的措施。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</guid>
+      <pubDate>Sat, 18 Jan 2025 13:31:50 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普给华盛顿带来寒意</title>
       <link>https://www.nytimes.com/2025/01/18/opinion/trump-inauguration-indoors-cold.html</link>
@@ -27,23 +41,16 @@
       <pubDate>Sat, 18 Jan 2025 10:21:54 GMT</pubDate>
     </item>
     <item>
-      <title>《采访》：柯蒂斯·雅文称民主已完结</title>
+      <title>“采访”：柯蒂斯·雅文称民主已完结</title>
       <link>https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html</link>
       <description><![CDATA[这位曾经的边缘作家长期以来一直主张美国实行君主制。他的想法在新政府和硅谷得到了广泛认同。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html</guid>
       <pubDate>Sat, 18 Jan 2025 10:15:07 GMT</pubDate>
     </item>
     <item>
-      <title>什么边境危机？特朗普上任前，墨西哥移民收容所一片寂静</title>
-      <link>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</link>
-      <description><![CDATA[就职典礼前，格兰德河以南的移民收容所远未满员，这反映出边境两边实施的更为严厉的措施。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</guid>
-      <pubDate>Sat, 18 Jan 2025 10:08:32 GMT</pubDate>
-    </item>
-    <item>
       <title>什么是“无人错过 TikTok”？</title>
       <link>https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html</link>
-      <description><![CDATA[TikTok 在美国的文化足迹巨大。为什么人们对其可能的消失不以为然？]]></description>
+      <description><![CDATA[TikTok 在美国的文化足迹巨大。为什么人们对其可能消失却不以为然？]]></description>
       <guid>https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html</guid>
       <pubDate>Sat, 18 Jan 2025 10:02:12 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[与中国有联系的初创企业发现在美国开展业务和上市越来越困难。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/business/tiktok-shein-grindr-china-ipo.html</guid>
       <pubDate>Sat, 18 Jan 2025 10:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>对特朗普政策的支持超过对特朗普的支持</title>
-      <link>https://www.nytimes.com/2025/01/18/us/politics/trump-policies-immigration-tariffs-economy.html</link>
-      <description><![CDATA[一项新的民意调查发现，公众对当选总统驱逐移民和减少美国海外驻军的计划表示同情。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/us/politics/trump-policies-immigration-tariffs-economy.html</guid>
-      <pubDate>Sat, 18 Jan 2025 10:02:00 GMT</pubDate>
     </item>
     <item>
       <title>最高法院为何支持对 TikTok 的禁令</title>
