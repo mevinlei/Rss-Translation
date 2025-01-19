@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 23:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 02:54:42 GMT</lastBuildDate>
+    <item>
+      <title>强劲的圣安娜风预计将增加南加州的火灾风险</title>
+      <link>https://www.nytimes.com/2025/01/18/weather/santa-ana-winds-wildfire-california.html</link>
+      <description><![CDATA[气象学家表示，此次大火的风力有可能与引发帕利塞兹和伊顿火灾的风力一样猛烈，但受影响的地点可能会有所不同。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/weather/santa-ana-winds-wildfire-california.html</guid>
+      <pubDate>Sun, 19 Jan 2025 00:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tik Tok 旅行禁令可能会改变旅行方式</title>
+      <link>https://www.nytimes.com/2025/01/18/travel/tiktok-travel-trends.html</link>
+      <description><![CDATA[这款应用让冰淇淋店/酒吧等场所名声大噪，有时甚至会吸引大量人群。有影响力的人物和目的地都在等待着结果。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/travel/tiktok-travel-trends.html</guid>
+      <pubDate>Sun, 19 Jan 2025 00:03:47 GMT</pubDate>
+    </item>
     <item>
       <title>拜登和特朗普就 TikTok 威胁周日“关闭”一事发表看法</title>
       <link>https://www.nytimes.com/2025/01/17/technology/17tiktok-goes-dark-sunday-apple-google.html</link>
@@ -38,14 +52,7 @@
       <link>https://www.nytimes.com/2025/01/18/world/asia/india-eric-garcetti-interview.html</link>
       <description><![CDATA[美国大使埃里克·加塞蒂在离任前接受采访时表示，两国关系的上升轨迹“几乎是不可避免的”。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/world/asia/india-eric-garcetti-interview.html</guid>
-      <pubDate>Sat, 18 Jan 2025 20:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>当生者逃离时，阿尔塔迪纳公墓展开了一场拯救死者的竞赛</title>
-      <link>https://www.nytimes.com/2025/01/18/us/altadena-eaton-fire-cemetery.html</link>
-      <description><![CDATA[伊顿火灾发生当晚，山景公墓的工人有特别的担忧。这片占地 55 英亩的土地可能也让一些房屋免遭火灾。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/us/altadena-eaton-fire-cemetery.html</guid>
-      <pubDate>Sat, 18 Jan 2025 20:00:04 GMT</pubDate>
+      <pubDate>Sat, 18 Jan 2025 20:06:51 GMT</pubDate>
     </item>
     <item>
       <title>伊朗最高法院外两名著名法官遭枪杀</title>
@@ -69,6 +76,13 @@
       <pubDate>Sat, 18 Jan 2025 18:28:10 GMT</pubDate>
     </item>
     <item>
+      <title>山火肆虐，洛杉矶真人秀明星面临新现实</title>
+      <link>https://www.nytimes.com/2025/01/18/realestate/wildfires-reality-tv-stars.html</link>
+      <description><![CDATA[像《比弗利娇妻》和《卖日落》这样值得一看的罪恶之作记录了洛杉矶的豪华房地产市场，而这个市场现在正面临着不确定的未来。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/realestate/wildfires-reality-tv-stars.html</guid>
+      <pubDate>Sat, 18 Jan 2025 18:19:15 GMT</pubDate>
+    </item>
+    <item>
       <title>美国最高外交官安东尼·布林肯如何成为战争部长</title>
       <link>https://www.nytimes.com/2025/01/18/us/politics/antony-blinken-gaza-israel-ukraine.html</link>
       <description><![CDATA[拜登总统的长期助手团结了数十个国家来保卫乌克兰，但后来却成为许多批评美国支持以色列加沙战争的人眼中的恶棍。]]></description>
@@ -83,13 +97,6 @@
       <pubDate>Sat, 18 Jan 2025 13:54:28 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普给华盛顿带来寒意</title>
-      <link>https://www.nytimes.com/2025/01/18/opinion/trump-inauguration-indoors-cold.html</link>
-      <description><![CDATA[更加老练的特朗普准备在更加温顺的华盛顿施行他的意志。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/opinion/trump-inauguration-indoors-cold.html</guid>
-      <pubDate>Sat, 18 Jan 2025 12:00:53 GMT</pubDate>
-    </item>
-    <item>
       <title>“采访”：柯蒂斯·雅文称民主已完结</title>
       <link>https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html</link>
       <description><![CDATA[这位曾经的边缘作家长期以来一直主张美国实行君主制。他的想法在新政府和硅谷得到了广泛认同。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[无论如何，对我们来说。50 多年来，“周六夜现场”推出了水晶肉汁、机器人保险和无数其他疯狂的商品和服务。在评论中分享您最喜欢的商品和服务。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/arts/television/saturday-night-live-ad-parodies.html</guid>
       <pubDate>Sat, 18 Jan 2025 10:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 改变了我们谈论健康的方式</title>
-      <link>https://www.nytimes.com/2025/01/17/well/tiktok-health-ban.html</link>
-      <description><![CDATA[它让医生变成了明星，把禁忌话题放在了首要位置，并为我们所有人提供了一个探索幸福的平台。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/well/tiktok-health-ban.html</guid>
-      <pubDate>Fri, 17 Jan 2025 22:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
