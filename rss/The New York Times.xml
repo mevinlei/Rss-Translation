@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 21:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 23:49:50 GMT</lastBuildDate>
+    <item>
+      <title>拜登和特朗普就 TikTok 威胁周日“关闭”一事发表看法</title>
+      <link>https://www.nytimes.com/2025/01/17/technology/17tiktok-goes-dark-sunday-apple-google.html</link>
+      <description><![CDATA[这家中资公司表示，除非美国向苹果、谷歌和其他公司保证不会因托管和分发 TikTok 而受到惩罚，否则它将切断其服务。]]></description>
+      <guid>https://www.nytimes.com/2025/01/17/technology/17tiktok-goes-dark-sunday-apple-google.html</guid>
+      <pubDate>Sat, 18 Jan 2025 22:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 的最后时刻，用户对全国范围内的禁令作出反应</title>
+      <link>https://www.nytimes.com/2025/01/18/style/tiktok-ban-final-hours.html</link>
+      <description><![CDATA[美国用户对该应用程序在全国范围内被禁止做出反应。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/style/tiktok-ban-final-hours.html</guid>
+      <pubDate>Sat, 18 Jan 2025 21:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫生部长为拜登的新冠疫苗接种授权和社交媒体努力辩护</title>
+      <link>https://www.nytimes.com/2025/01/18/us/politics/xavier-becerra-health.html</link>
+      <description><![CDATA[拜登总统的卫生部长泽维尔·贝塞拉在一次内容广泛的采访中为自己的任期进行辩护，并暗示他可能会竞选加州州长。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/us/politics/xavier-becerra-health.html</guid>
+      <pubDate>Sat, 18 Jan 2025 20:59:11 GMT</pubDate>
+    </item>
     <item>
       <title>美国间谍头子在加沙战争中担任谈判代表</title>
       <link>https://www.nytimes.com/2025/01/18/us/politics/cia-director-william-burns.html</link>
@@ -13,11 +34,18 @@
       <pubDate>Sat, 18 Jan 2025 20:42:42 GMT</pubDate>
     </item>
     <item>
-      <title>可能遭受特朗普“报复”的人名单</title>
-      <link>https://www.nytimes.com/2025/01/18/us/politics/trump-retribution-list.html</link>
-      <description><![CDATA[当选总统唐纳德·J·特朗普认为自己受到了现任和前任官员、媒体成员等人的不公正对待。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/us/politics/trump-retribution-list.html</guid>
-      <pubDate>Sat, 18 Jan 2025 20:11:15 GMT</pubDate>
+      <title>特朗普回归让世界各国领导人感到不安。但印度却不这么认为。</title>
+      <link>https://www.nytimes.com/2025/01/18/world/asia/india-eric-garcetti-interview.html</link>
+      <description><![CDATA[美国大使埃里克·加塞蒂在离任前接受采访时表示，两国关系的上升轨迹“几乎是不可避免的”。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/world/asia/india-eric-garcetti-interview.html</guid>
+      <pubDate>Sat, 18 Jan 2025 20:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>当生者逃离时，阿尔塔迪纳公墓展开了一场拯救死者的竞赛</title>
+      <link>https://www.nytimes.com/2025/01/18/us/altadena-eaton-fire-cemetery.html</link>
+      <description><![CDATA[伊顿火灾发生当晚，山景公墓的工人有特别的担忧。这片占地 55 英亩的土地可能也让一些房屋免遭火灾。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/us/altadena-eaton-fire-cemetery.html</guid>
+      <pubDate>Sat, 18 Jan 2025 20:00:04 GMT</pubDate>
     </item>
     <item>
       <title>伊朗最高法院外两名著名法官遭枪杀</title>
@@ -34,13 +62,6 @@
       <pubDate>Sat, 18 Jan 2025 19:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>拜登和特朗普就 TikTok 威胁周日“关闭”一事发表看法</title>
-      <link>https://www.nytimes.com/2025/01/17/technology/17tiktok-goes-dark-sunday-apple-google.html</link>
-      <description><![CDATA[这家中资公司表示，除非美国向苹果、谷歌和其他公司保证不会因托管和分发 TikTok 而受到惩罚，否则它将切断其服务。]]></description>
-      <guid>https://www.nytimes.com/2025/01/17/technology/17tiktok-goes-dark-sunday-apple-google.html</guid>
-      <pubDate>Sat, 18 Jan 2025 18:38:54 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普的目标担心他在第二任总统任期内承诺的“报复”</title>
       <link>https://www.nytimes.com/2025/01/18/us/politics/trump-officials-retribution.html</link>
       <description><![CDATA[唐纳德·特朗普重返白宫，誓言要寻求报复。他眼中的人既担心他，也担心他的支持者。]]></description>
@@ -48,18 +69,11 @@
       <pubDate>Sat, 18 Jan 2025 18:28:10 GMT</pubDate>
     </item>
     <item>
-      <title>如果没有人怀念 TikTok 会怎样？</title>
-      <link>https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html</link>
-      <description><![CDATA[TikTok 在美国的文化足迹巨大。为什么人们对其可能消失却不以为然？]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html</guid>
-      <pubDate>Sat, 18 Jan 2025 18:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么边境危机？特朗普上任前，墨西哥移民收容所一片寂静</title>
-      <link>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</link>
-      <description><![CDATA[就职典礼前，格兰德河以南的移民收容所远未满员，这反映出边境两边实施的更为严厉的措施。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/world/americas/migrants-trump-inauguration-border.html</guid>
-      <pubDate>Sat, 18 Jan 2025 16:23:37 GMT</pubDate>
+      <title>美国最高外交官安东尼·布林肯如何成为战争部长</title>
+      <link>https://www.nytimes.com/2025/01/18/us/politics/antony-blinken-gaza-israel-ukraine.html</link>
+      <description><![CDATA[拜登总统的长期助手团结了数十个国家来保卫乌克兰，但后来却成为许多批评美国支持以色列加沙战争的人眼中的恶棍。]]></description>
+      <guid>https://www.nytimes.com/2025/01/18/us/politics/antony-blinken-gaza-israel-ukraine.html</guid>
+      <pubDate>Sat, 18 Jan 2025 14:38:24 GMT</pubDate>
     </item>
     <item>
       <title>对特朗普政策的支持超过对特朗普的支持</title>
@@ -76,14 +90,7 @@
       <pubDate>Sat, 18 Jan 2025 12:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>10 月 7 日的袭击如何改变了中东</title>
-      <link>https://www.nytimes.com/2025/01/18/world/europe/israel-hamas-oct-7.html</link>
-      <description><![CDATA[随着以色列与哈马斯停火即将开始，双方战争的冲击波以意想不到的方式重塑了该地区。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/world/europe/israel-hamas-oct-7.html</guid>
-      <pubDate>Sat, 18 Jan 2025 10:21:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>《采访》：柯蒂斯·雅文称民主已完结</title>
+      <title>“采访”：柯蒂斯·雅文称民主已完结</title>
       <link>https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html</link>
       <description><![CDATA[这位曾经的边缘作家长期以来一直主张美国实行君主制。他的想法在新政府和硅谷得到了广泛认同。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html</guid>
@@ -95,13 +102,6 @@
       <description><![CDATA[无论如何，对我们来说。50 多年来，“周六夜现场”推出了水晶肉汁、机器人保险和无数其他疯狂的商品和服务。在评论中分享您最喜欢的商品和服务。]]></description>
       <guid>https://www.nytimes.com/2025/01/18/arts/television/saturday-night-live-ad-parodies.html</guid>
       <pubDate>Sat, 18 Jan 2025 10:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vuori 如何成为时尚界最炙手可热的人物之一</title>
-      <link>https://www.nytimes.com/2025/01/18/business/vuori-athleisure-tech-pants.html</link>
-      <description><![CDATA[这家成立 10 年的公司凭借其高科技裤子的流行，占据了运动休闲市场的顶级地位。但“现在还为时过早，”Vuori 的创始人说。]]></description>
-      <guid>https://www.nytimes.com/2025/01/18/business/vuori-athleisure-tech-pants.html</guid>
-      <pubDate>Sat, 18 Jan 2025 10:00:24 GMT</pubDate>
     </item>
     <item>
       <title>TikTok 改变了我们谈论健康的方式</title>
