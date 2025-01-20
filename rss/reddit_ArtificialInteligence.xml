@@ -4,62 +4,90 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 20 Jan 2025 03:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 15:10:23 GMT</lastBuildDate>
     <item>
-      <title>人工智能如何改变我的法律实践</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5g32e/how_ai_transformed_my_legal_practice/</link>
-      <description><![CDATA[我尝试在r/Lawyertalk上分享我在法律实践中使用人工智能的经验 - 两个帖子都被删除了。鉴于我看到的关于律师倦怠的帖子数量之多，我想分享我如何大幅减少工作量。似乎 Lawyertalk 对人工智能讨论或在法律实践中使用人工智能持保留态度，这非常令人好奇且脱节。需要说明的是，我没有推广任何产品，也不隶属于任何产品 - 只是想分享我帮助其他工作过度的律师的经验。 TLDR：人工智能减少了我的工作时间，提高了工作质量，并提高了客户满意度。工具各不相同 - 还没有绝对的赢家。我使用 Westlaw AI、Spellbook、IQIDIS 和 ChatGPT。 我使用 AI 的经验 我是一家大型美国公司（在其较小的办公室之一）的律师/法律顾问，专注于公司和资产融资，偶尔还会涉及诉讼。我已经执业十年了，以前每周工作 60-70 小时，因为我的公司有 BigLaw FOMO。今天，我的工作质量更高，客户更满意，而我的工作时间也少了很多。我们的团队也已过渡到以收费为主的公司工作模式，诉讼团队也在做类似的事情。 例如 - 对于一份资产融资贷款协议，AI 将起草时间从 3-4 小时缩短到大约 45 分钟，标记出我深夜可能会错过的不一致之处，并大大减轻了我的压力。这就像有一个非常能干的初级助理，在我核实法律部分时处理草稿或研究。 我使用过/现在使用的工具 随着时间的推移，我尝试了几乎所有“主要”法律 AI。CoCounsel 擅长研究但价格昂贵，如果您有 Westlaw，Westlaw AI 是顶级的（LexisAI 低于标准）。Harvey 感觉像一个昂贵的 ChatGPT 包装器，而 Spellbook 非常适合合同起草和 Word 集成。IQIDIS 是由律师创办的，他们制作了强大的初稿并旨在提供全面的解决方案。 Leya 更偏向欧洲，但非常适合一次性分析大量文档；Paxton 适合创建文档数据库，然后进行分析，但在复杂的起草方面却举步维艰；Alexi 有助于诉讼研究，但远远落后于 Westlaw。对于一般任务或头脑风暴，我使用 ChatGPT/Claude——尽管我对保密性非常谨慎。 目前，我将 Westlaw AI（研究）、Spellbook（合同/条款）、IQIDIS（起草/实质性任务）和 ChatGPT 结合起来处理一次性任务。目前还没有出现单一领导者。    提交人    /u/h0l0gramco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5g32e/how_ai_transformed_my_legal_practice/</guid>
-      <pubDate>Mon, 20 Jan 2025 02:37:21 GMT</pubDate>
+      <title>人工智能会影响就业市场吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5s2lt/will_artificial_intelligence_affect_the_job_market/</link>
+      <description><![CDATA[据我所知，软件行业的每个人都必须通过人工智能提升自己的技能，否则他们可能会失去工作  此外，零工经济也将在未来迎来繁荣，也许早在 2026 年    提交人    /u/butterscotch77p   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5s2lt/will_artificial_intelligence_affect_the_job_market/</guid>
+      <pubDate>Mon, 20 Jan 2025 15:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 和 Claude 的隐私保护。哪个更安全？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5enzl/privacy_with_chatgpt_and_claude_which_is_more/</link>
-      <description><![CDATA[首先我要说的是，我对人工智能了解不多。但是，我对使用人工智能应用程序来提高写作效率很感兴趣。我想用它讨论我的想法并编辑我的草稿。但我有点担心我的想法被窃取。我应该担心吗，还是我只是不讲道理？我应该担心这些人工智能模型背后的公司窃取我的想法吗？ChatGPT 还是 Claude 更好？ 我不介意分析我的对话以改进他们的模型。    提交人    /u/coolmanranger25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5enzl/privacy_with_chatgpt_and_claude_which_is_more/</guid>
-      <pubDate>Mon, 20 Jan 2025 01:22:07 GMT</pubDate>
+      <title>非对齐的 LLM 有多强大？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5qvv8/how_powerful_are_unaligned_llms/</link>
+      <description><![CDATA[我想，未对齐的 LLM 可以告诉您诸如“谁写了这篇文章？”或“根据这篇文章，此人在 1998 年至 2002 年期间可能发布过哪些 usenet 帖子？”之类的信息。 有人使用过未对齐的模型吗？它的功能是什么？    提交人    /u/Practical_Farmer_554   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5qvv8/how_powerful_are_unaligned_llms/</guid>
+      <pubDate>Mon, 20 Jan 2025 14:06:16 GMT</pubDate>
     </item>
     <item>
-      <title>有人工智能可以做到吗？（音乐）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5dzug/is_there_an_ai_for_that_music/</link>
-      <description><![CDATA[我正在寻找一个可以重混音乐的人工智能。我指的重混不是指改变流派或任何这类事情。我的意思是重混是指改变某些片段的位置、缩短音乐、延长音乐等。我想要一个可以完成所有这些操作的人工智能，同时让音乐听起来仍然连贯，也许还可以填补空白或翻译以使其天衣无缝。     提交人    /u/Swapilla   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5dzug/is_there_an_ai_for_that_music/</guid>
-      <pubDate>Mon, 20 Jan 2025 00:47:41 GMT</pubDate>
+      <title>以下是人工智能领域的新闻动态。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5q9ar/heres_whats_making_news_in_ai/</link>
+      <description><![CDATA[焦点： Perplexity AI 提交与 TikTok 合并的竞标 (TechCrunch)  Perplexity 收购了面向专业人士的社交媒体平台 Read.cv (TechCrunch) 消息人士称，人工智能视觉初创公司 Metropolis 仅以 1.25 亿美元收购了 Oosto（前身为 AnyVision）（TechCrunch） 人工智能初创公司 Character AI 在网络上测试游戏 (TechCrunch) 在一家长寿初创公司的帮助下，OpenAI 正试图延长人类寿命 (TechCrunch) Colossal 筹集 2 亿美元用于“复活灭绝物种”猛犸象、袋狼和渡渡鸟 (Venture beat) 苹果在产生错误警报后暂停了新闻的 AI 通知摘要 (The Verge)  如果您想在 AI 新闻发布时获得它，它会首先在这里推出所有来源和文章的完整摘要。     提交人    /u/codeharman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5q9ar/heres_whats_making_news_in_ai/</guid>
+      <pubDate>Mon, 20 Jan 2025 13:34:48 GMT</pubDate>
     </item>
     <item>
-      <title>我希望 NFL 允许 AI 在季前赛中为一支球队制定比赛计划</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5d1xc/i_want_the_nfl_to_allow_ai_to_call_the_plays_for/</link>
-      <description><![CDATA[这将是 NFL 历史上观看次数最多的季前赛。人类战术指挥员对抗人工智能战术指挥员。训练人工智能处理上赛季某支球队的比赛，让其分析各种进攻和距离的成功率、特定战术对特定防守阵型的有效性等。您甚至可以训练它根据防守阵型在边线上发出声音，然后让它像教练一样将战术或声音直接传送到四分卫的头盔上。这就像足球界的 Stockfish。这应该在未来 2-3 年内完全可行，甚至更早。     提交人    /u/LawrenceSellers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5d1xc/i_want_the_nfl_to_allow_ai_to_call_the_plays_for/</guid>
-      <pubDate>Mon, 20 Jan 2025 00:01:15 GMT</pubDate>
+      <title>用于在显微镜下计数谷物的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5pl7h/ai_for_counting_grains_under_microscope/</link>
+      <description><![CDATA[我需要一个可以查看矿物颗粒图片并告诉我图像中有多少颗粒的 AI 我是一名地质学学生，正在为我的教授做锆石研究。我的研究遇到了瓶颈，因为我无法在显微镜下快速计数颗粒。我使用 NIS Elements 程序，它如下所示。 Keiko NIS 页面（请注意 XPL 不正确，图像在 PPL 中，它拒绝让我修复它） 经过很长一段时间的摆弄，我只能使用提供的选项走到这里。我所做的是定义阈值 &gt; 给出定义参数 &gt; 让程序完成其工作。这就是我获得大部分计数的方式。从那以后，我通常会手动修复机器错误。 我的研究围绕着尽快计算锆石颗粒。这个想法是拍摄两张图像 - 一张是普通图像，一张是在黑光下拍摄的。锆石在黑光下发光，因此它在次要图像中字面上突出显示。然后，在程序 NIS 元素中，计算出感兴趣的区域（即每个颗粒），以了解一个矿物样本中有多少锆石。 我希望有一个可以计算普通 PPL 图像中的颗粒的 AI，以及可以计算 PPL+UV 图像中“发光”颗粒的 AI。我将如何开始这个过程？ 我希望这是可能的，因为我听说过 AI 可以计数，比如面包和类似的东西。我之所以转向这一点，是因为我的阈值工作只能进行到这一步——即使准确率可能有 60% ，也需要花费大量时间才能修复错误。    提交人    /u/keikochama   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5pl7h/ai_for_counting_grains_under_microscope/</guid>
+      <pubDate>Mon, 20 Jan 2025 12:58:36 GMT</pubDate>
     </item>
     <item>
-      <title>最先进的语音控制助手是什么样的？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5cpn9/what_is_the_stateoftheart_voice_controlled/</link>
-      <description><![CDATA[Google Assistant 和 Bixby 总是达不到我想要做的事情。 我喜欢 ChatGPT 的高级语音模式，我想知道是否有一种产品可以采用这种自然语言处理并将其连接到简单的设备和服务器端控件。 老实说，我真正需要的东西 将 X 添加到 Y 列表 通过电子邮件将此列表发送给我 在 Y 时间为 X 设置提醒 将 XYZ 添加到我的日历 似乎所有的电话助手都真的失败了，而且非常烦人的是，请求需要以特定的方式措辞，并且没有办法让它们枚举命令，这样我实际上就知道什么是可能的以及如何实现。 我认为这是这个领域的一个很大的差距，真正的个人助理。它确实可以帮助像我这样患有执行功能障碍的人无缝地捕捉事物，而无需使用可怕的手机。    提交人    /u/Weak-Reward6473   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5cpn9/what_is_the_stateoftheart_voice_controlled/</guid>
-      <pubDate>Sun, 19 Jan 2025 23:44:58 GMT</pubDate>
+      <title>DeepSeek R1，您觉得怎么样？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5p51c/deepseek_r1_what_do_you_think/</link>
+      <description><![CDATA[真正的 OpenAI，DeepSeek 刚刚发布了他们的 R1 模型。正在测试它。请在下方评论您的体验。    提交人    /u/InternationalUse4228   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5p51c/deepseek_r1_what_do_you_think/</guid>
+      <pubDate>Mon, 20 Jan 2025 12:31:53 GMT</pubDate>
     </item>
     <item>
-      <title>我需要一个可以完成这个_特定_任务的 AI 机器人。与学校有关。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5bmuo/i_need_an_ai_bot_that_could_make_this_specific/</link>
-      <description><![CDATA[我想要一个能够生成包含我的 igcse 数学教学大纲中所有公式的 pdf 的人工智能，甚至包括过去试卷中使用过的那些可能没有在教学大纲中提及但至关重要的公式。 有谁知道一个可以帮我做这件事的机器人吗？我真的需要做这样的东西，以便在模拟/考试之前随时复习。 如果你们当中有谁知道请在下面链接它，最重要的是它应该是免费的。 （另外不要提及 chatgpt，因为我试过了但没有用）    提交人    /u/callmeminaa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5bmuo/i_need_an_ai_bot_that_could_make_this_specific/</guid>
-      <pubDate>Sun, 19 Jan 2025 22:55:17 GMT</pubDate>
+      <title>人工智能生成的声音和视觉效果能否重新定义现场表演的未来？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5p0ab/could_aigenerated_sound_visuals_redefine_the/</link>
+      <description><![CDATA[https://youtu.be/S-39QKRNESc?si=Eq1RmGGNI0SL9cUQ 大家觉得我们如何才能实现这一点呢，除了输入音乐时，生成的视觉效果还可以作为与音乐同步的艺术形式，类似于 VJ 表演？ 如果我们能够将与视觉效果实时同步的 AI 生成的音乐结合起来，那么将创造出一种身临其境的现场艺术体验。想象一下动态数字艺术与人工智能驱动的音景融合——本质上是更高级别的 VJ 表演，类似于 Amon Tobin 的作品：https://youtu.be/XqyEZ0GwS3E    提交人    /u/SnooPandas3811   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5p0ab/could_aigenerated_sound_visuals_redefine_the/</guid>
+      <pubDate>Mon, 20 Jan 2025 12:23:41 GMT</pubDate>
     </item>
     <item>
-      <title>未来几年，与人工智能对话会被社会接受吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5a5tv/will_talking_to_a_ai_become_socially_acceptable/</link>
-      <description><![CDATA[在过去的八个月里，我一直在开发一款人工智能语音信箱助手。简而言之，这是一款用人工智能取代传统语音信箱录音的应用，人工智能实际上会与来电者进行对话。我并不是来推广这款应用的（如果你好奇的话，你可以猜出它的名字），但我偶然发现了一个有趣的讨论点，即与人工智能互动的人性和心理方面。 自发布以来，我一直在跟踪使用情况分析，并注意到大多数与人工智能互动的人并没有充分参与对话。出于某种原因，人类似乎能感觉到什么时候感觉不对劲。这让我开始尝试人工智能使用的初始词语——我目前正在测试一个简单的“你好，我是谁？”创造更好的体验，因为它会引诱你开始一个句子。如果你对语音质量和工作原理感到好奇，这里有一个入站呼叫的演示。 我很想听听你对人机交互动态的看法，如果你对让那些讨厌的人与人工智能交谈有什么建议！    提交人    /u/Human-Possession135   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5a5tv/will_talking_to_a_ai_become_socially_acceptable/</guid>
-      <pubDate>Sun, 19 Jan 2025 21:51:30 GMT</pubDate>
+      <title>法学硕士和管理人员代理最明显的应用是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5ox8t/most_obvious_applications_of_llms_and_agents_for/</link>
+      <description><![CDATA[我们已经知道 AI 在客户服务、编码或内容生成等现场任务中的应用。但中高层管理人员的日常任务呢？他们的工作显然更侧重于决策、创造性解决问题、战略、协调等。 我即将在一家大型咨询公司撰写硕士论文，在那里我将直接与管理层合作。我擅长应用法学硕士学位，并将其变成了一份稳定的副业，我希望找到法学硕士学位或人工智能代理的应用或研究领域，为我完成论文后在这家公司进一步工作打开大门。 您认为人工智能/法学硕士学位可以显著改善管理者的哪些日常任务、流程或挑战？  对于这类专业人士来说，有哪些唾手可得的成果或投资回报率最高的领域？ 我很感激任何建议，如果你是一名经理，我很想听听你是否已经成功地为自己实施了人工智能，而你的同事可能已经落后了。    提交人    /u/Beckagard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5ox8t/most_obvious_applications_of_llms_and_agents_for/</guid>
+      <pubDate>Mon, 20 Jan 2025 12:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>PokerBench 训练大型语言模型，助您成为职业扑克玩家</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i58u41/pokerbench_training_large_language_models_to/</link>
-      <description><![CDATA[标题：PokerBench 训练大型语言模型成为职业扑克玩家 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“PokerBench：训练大型语言模型成为职业扑克玩家”，作者是 Richard Zhuang、Akshat Gupta、Richard Yang、Aniket Rahane、Zhengyu Li 和 Gopala Anumanchipalli。 这项研究介绍了 PokerBench，这是一种用于评估大型语言模型 (LLM) 的扑克游戏能力的新基准。随着 LLM 继续在传统的 NLP 任务中表现出色，它们在扑克等战略性和认知要求高的游戏中的应用带来了新的挑战和不同的结果。以下是该研究关键发现的简要总结：  基准介绍：PokerBench 包含一个广泛的数据集，包含 11,000 个扑克场景，与经验丰富的扑克玩家共同开发，用于评估翻牌前和翻牌后的策略。 最先进的 LLM 评估：对 GPT-4、ChatGPT 3.5 和 Llama 模型等著名 LLM 进行了评估，结果显示与传统基准相比，它们在扑克中的表现不佳。值得注意的是，GPT-4 的准确率最高，为 53.55%。 微调结果：经过微调后，Llama-3-8B 等 LLM 在扑克游戏能力方面表现出显着提高，甚至在 PokerBench 特定的性能指标上超越了 GPT-4。 性能验证：PokerBench 得分较高的模型在模拟扑克游戏中取得了优异的表现，证明了 PokerBench 作为评估指标的有效性。 战略洞察：研究表明，微调使模型接近博弈论最优 (GTO) 策略。然而，有趣的是，在与 GPT-4 的直接对战中，经过微调的模型由于非常规策略而遇到了挑战，这表明需要先进的训练方法来适应不同的游戏场景。  PokerBench 展示了 LLM 功能在复杂游戏环境中不断发展的前沿，并提供了一个强大的框架来衡量这些模型的战略理解和决策能力。  您可以在此处查看完整细分：此处 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i58u41/pokerbench_training_large_language_models_to/</guid>
-      <pubDate>Sun, 19 Jan 2025 20:57:14 GMT</pubDate>
+      <title>Invideo 的替代品</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5ok2f/alternatives_to_invideo/</link>
+      <description><![CDATA[我正在寻找 Invideo 的替代品。  这个工具还不错，但让我困扰的是，我可以更改准备的视频序列的长度。我也无法强制 Invideo 合并某些短语或我自己的视频序列。     提交人    /u/arab-european   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5ok2f/alternatives_to_invideo/</guid>
+      <pubDate>Mon, 20 Jan 2025 11:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我第一次使用 GitHub Copilot - 非常好。但是...</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5nf62/my_first_go_with_github_copilot_pretty_good_but/</link>
+      <description><![CDATA[我尝试使用 GitHub Pilot 将模块从 SQLite3 转换为 MySQL。ChatGTP 和 Claude 都尝试过。Claude 也许更好。但它教会了我很多关于如何使用这个工具的知识。它是一种很好的生产力辅助工具，但不要解雇你的程序员。更多 AI 冒险 | Bob Browning 的博客。    由   提交 /u/Difficult-Sea-5924   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5nf62/my_first_go_with_github_copilot_pretty_good_but/</guid>
+      <pubDate>Mon, 20 Jan 2025 10:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要做 RAG，该做 CAG 了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5l1ya/dont_do_rag_its_time_for_cag/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5l1ya/dont_do_rag_its_time_for_cag/</guid>
+      <pubDate>Mon, 20 Jan 2025 07:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在哪里使用人工智能代理？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5kn8s/where_can_i_use_ai_agents/</link>
+      <description><![CDATA[我是新手，听说过很多关于人工智能代理的事情。它们是什么，它们比传统应用程序、当前的人工智能聊天机器人（如 chatgpt 等）好在哪里。我的问题是：。1）我怎样才能制作这样的代理，有没有免费的地方或方法可以做得更好。（或者在哪里学习） 2）有没有免费的人工智能代理可以在网上下载或使用，以便我使用。 3）给出已经在工作的人工智能代理的例子 4）人工智能代理可以注入到机器人或设备等物理事物中吗？如果可以，现在有吗！ 非常感谢。    提交人    /u/metasubcon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5kn8s/where_can_i_use_ai_agents/</guid>
+      <pubDate>Mon, 20 Jan 2025 07:10:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你相信吗，当神经网络刚刚出现的时候，它能够引起这样的轰动和突破？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i5k1ro/did_you_believe_that_when_neural_networks_just/</link>
+      <description><![CDATA[当神经网络刚刚开始流行起来时，我们很多人都问过自己一些问题： 什么是神经网络？在那一刻，它似乎是一个遥远而难以理解的东西。 就我个人而言，我没想到人工智能会发展得如此之快，对生活的许多领域产生如此大的影响。时间流逝，我们见证了创造力、医学、商业和其他领域的惊人成就。 当你第一次听说神经网络时，你有什么猜测？    提交人    /u/Prostoy_chel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i5k1ro/did_you_believe_that_when_neural_networks_just/</guid>
+      <pubDate>Mon, 20 Jan 2025 06:29:25 GMT</pubDate>
     </item>
     <item>
       <title>随着时间的推移，人造的会变得越来越稀有。</title>
@@ -67,34 +95,6 @@
       <description><![CDATA[我们看到人工智能产生的操作及其潜在的增长。此外，人工智能接管世界事务的可能性也很大。 人造（无论什么）将变得稀有，并在不久的将来被视为一门艺术。人类创造的东西将被视为珍贵。 今天，当人工智能生产东西时，人们并没有考虑太多，但当它接管软硬实力时，很多东西将是人造的。 人们对人工智能的未来有很多猜测，有一件事似乎是肯定的，人类在技术面前变得无能为力。希望人工智能成为人类的朋友就足够了吗？ 各大公司都在竞争创建强大的人工智能结构，这似乎会如何结束？ 当谈到超级人工智能这个话题时，企业的贪婪是一种潜在的威胁。它将以什么条件来设定？它会不会出错，当它接管经济和政治事务时会如何反应？ 我认为人类正准备进行一次冒险之旅，而没有过多考虑这项敏感发明的后果。    提交人    /u/MASJAM126   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i588uu/man_made_will_become_rarer_as_the_time_goes_by/</guid>
       <pubDate>Sun, 19 Jan 2025 20:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时翻译 AI？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i55s3h/live_translation_ai/</link>
-      <description><![CDATA[大家好。我下周要参加一个荷兰语会议。我的荷兰语还行，但还不足以理解与特定讨论主题相关的所有词汇。有人有 AI 推荐吗？也许是一个可以实时翻译的应用程序？例如，我戴着耳机，在开会的同时听到翻译，或者它将其翻译成文本，我也可以实时阅读。谢谢！     提交人    /u/emmajayson   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i55s3h/live_translation_ai/</guid>
-      <pubDate>Sun, 19 Jan 2025 18:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新：法学硕士 (LLM) 软件开发现状 - v2</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i54vjm/update_state_of_software_development_with_llms_v2/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i54vjm/update_state_of_software_development_with_llms_v2/</guid>
-      <pubDate>Sun, 19 Jan 2025 18:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 很狂野</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4z8nr/grok_is_wild/</link>
-      <description><![CDATA[你可以要求 grok 做任何事情，它不会拒绝。我只是要求它拍一张特朗普和埃隆接吻的照片。 自己试试吧，我觉得根据规定我不能在这里发照片。    提交人    /u/tibbyholic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4z8nr/grok_is_wild/</guid>
-      <pubDate>Sun, 19 Jan 2025 14:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 与人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i4u6vg/reddit_ai/</link>
-      <description><![CDATA[https://archive.ph/1Y5hT Reddit 允许在网站上发表评论以训练 AI 我知道 Reddit 与 AI 公司合作，但这至少令人沮丧。Reddit 是我准备继续使用的最后一个社交媒体，但现在可能不是了。 此外，我也意识到讽刺的是，我抱怨 AI 的评论现在将被用来训练我所抱怨的 AI。 编辑 - 稍微扩展了我的帖子    提交人    /u/Cult-Film-Fan-999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i4u6vg/reddit_ai/</guid>
-      <pubDate>Sun, 19 Jan 2025 08:41:07 GMT</pubDate>
     </item>
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>

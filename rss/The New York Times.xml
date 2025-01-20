@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 12:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 15:08:16 GMT</lastBuildDate>
+    <item>
+      <title>特朗普不太可能重返权力</title>
+      <link>https://www.nytimes.com/video/us/elections/100000009935497/trumps-unlikely-return-to-power.html</link>
+      <description><![CDATA[唐纳德·J·特朗普重返白宫后，地位大大增强。他面临着反对派力量减弱和国会更加顺从的局面。《纽约时报》政治记者乔纳森·斯旺详细介绍了特朗普总统在输掉 2020 年总统大选后的四年里如何克服重大挑战，巩固了他对共和党和选民的影响力。]]></description>
+      <guid>https://www.nytimes.com/video/us/elections/100000009935497/trumps-unlikely-return-to-power.html</guid>
+      <pubDate>Mon, 20 Jan 2025 15:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>舍巴医院称三名获释人质情况稳定</title>
+      <link>https://www.nytimes.com/2025/01/20/world/middleeast/israel-gaza-hostages.html</link>
+      <description><![CDATA[谢巴医疗中心的医生表示，三名女子情况稳定，但对于这些前俘虏在加沙经历了什么，医生们知之甚少。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/world/middleeast/israel-gaza-hostages.html</guid>
+      <pubDate>Mon, 20 Jan 2025 14:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶野火肆虐，空气中的铅和氯含量飙升</title>
+      <link>https://www.nytimes.com/2025/01/20/climate/los-angeles-wildfires-lead-chlorine-air-quality.html</link>
+      <description><![CDATA[这一发现让我们对城市野火焚烧房屋和财产中的塑料和其他化学物质的危害有了新的认识。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/climate/los-angeles-wildfires-lead-chlorine-air-quality.html</guid>
+      <pubDate>Mon, 20 Jan 2025 14:50:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登在最后时刻赦免切尼、福奇和米利，以阻止报复</title>
+      <link>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-fauci-milley-cheney-jan-6.html</link>
+      <description><![CDATA[拜登总统在离任当天就采取行动，利用其行政赦免权来保护其继任者唐纳德·J·特朗普所针对的人员，而特朗普已誓言要“报复”。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-fauci-milley-cheney-jan-6.html</guid>
+      <pubDate>Mon, 20 Jan 2025 13:36:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 在应对美国禁令时向特朗普献媚</title>
+      <link>https://www.nytimes.com/2025/01/19/technology/tiktok-trump-messages-ban.html</link>
+      <description><![CDATA[该应用程序在弹出消息和声明中多次提到当选总统的名字，因为它在美国属于禁令范围，除非将其出售给非中国所有者。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/technology/tiktok-trump-messages-ban.html</guid>
+      <pubDate>Mon, 20 Jan 2025 13:29:19 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 获得缓刑，但美国人和中国人仍在使用 RedNote</title>
       <link>https://www.nytimes.com/2025/01/20/business/tiktok-ban-rednote-xiaohongshu-adapts.html</link>
@@ -15,16 +50,9 @@
     <item>
       <title>特朗普上任，TikTok 过山车</title>
       <link>https://www.nytimes.com/2025/01/20/podcasts/trump-tiktok-ban.html</link>
-      <description><![CDATA[另外，还有国家广场上女性的历史。]]></description>
+      <description><![CDATA[另外，还有国家广场上的女性历史。]]></description>
       <guid>https://www.nytimes.com/2025/01/20/podcasts/trump-tiktok-ban.html</guid>
       <pubDate>Mon, 20 Jan 2025 11:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>南加州将遭遇更具破坏性和危险性的强风</title>
-      <link>https://www.nytimes.com/2025/01/20/weather/los-angeles-wind-warning-santa-ana.html</link>
-      <description><![CDATA[由于本周洛杉矶的火灾天气更加严重，国家气象局再次发出了最强烈的警告。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/weather/los-angeles-wind-warning-santa-ana.html</guid>
-      <pubDate>Mon, 20 Jan 2025 11:02:49 GMT</pubDate>
     </item>
     <item>
       <title>关于释放人质，我们知道些什么</title>
@@ -43,16 +71,9 @@
     <item>
       <title>洛杉矶大火没有摧毁他们的家园，但损失令人难以承受</title>
       <link>https://www.nytimes.com/2025/01/20/us/los-angeles-fires-smoke-ash-damage.html</link>
-      <description><![CDATA[伊顿火灾中的部分撤离人员已获准返回家园，但他们发现烟雾和灰烬已使他们暂时无法居住。]]></description>
+      <description><![CDATA[一些从伊顿火灾中撤离的人员被允许返回家园，但他们发现烟雾和灰烬已经使他们暂时无法居住。]]></description>
       <guid>https://www.nytimes.com/2025/01/20/us/los-angeles-fires-smoke-ash-damage.html</guid>
       <pubDate>Mon, 20 Jan 2025 10:01:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普不太可能重返权力</title>
-      <link>https://www.nytimes.com/video/us/elections/100000009935497/trumps-unlikely-return-to-power.html</link>
-      <description><![CDATA[唐纳德·J·特朗普重返白宫后，地位大大增强。他面临着反对派力量减弱和国会更加顺从的局面。《纽约时报》政治记者乔纳森·斯旺详细介绍了特朗普总统在输掉 2020 年总统大选后的四年里如何克服重大挑战，巩固了他对共和党和选民的影响力。]]></description>
-      <guid>https://www.nytimes.com/video/us/elections/100000009935497/trumps-unlikely-return-to-power.html</guid>
-      <pubDate>Mon, 20 Jan 2025 10:01:30 GMT</pubDate>
     </item>
     <item>
       <title>拯救彭哥、珍珠、强盗、老虎和拉链</title>
@@ -62,39 +83,18 @@
       <pubDate>Mon, 20 Jan 2025 10:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>经历火灾并掩饰火灾</title>
-      <link>https://www.nytimes.com/2025/01/20/us/living-through-the-fires-and-covering-them.html</link>
-      <description><![CDATA[《纽约时报》记者一直在《今日加州》时事通讯中撰写有关火灾的个人报道。以下是他们撰写的报道，讲述了这场灾难对他们以及洛杉矶意味着什么。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/living-through-the-fires-and-covering-them.html</guid>
-      <pubDate>Mon, 20 Jan 2025 10:01:05 GMT</pubDate>
-    </item>
-    <item>
       <title>TikTok、RedNote 和中国互联网的破灭</title>
       <link>https://www.nytimes.com/2025/01/20/business/tiktok-red-note-china-internet.html</link>
       <description><![CDATA[尽管受到北京方面的审查和恶意忽视，中国的互联网公司及其勤奋、足智多谋的专业人员仍然创造出了世界一流的产品。]]></description>
       <guid>https://www.nytimes.com/2025/01/20/business/tiktok-red-note-china-internet.html</guid>
-      <pubDate>Mon, 20 Jan 2025 07:09:26 GMT</pubDate>
+      <pubDate>Mon, 20 Jan 2025 07:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>以色列人质与巴勒斯坦囚犯不均衡交换的背后原因是什么？</title>
-      <link>https://www.nytimes.com/live/2025/01/20/world/israel-hamas-cease-fire/whats-behind-the-uneven-exchange-of-israeli-hostages-for-palestinian-prisoners</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nytimes.com/live/2025/01/20/world/israel-hamas-cease-fire/whats-behind-the-uneven-exchange-of-israeli-hostages-for-palestinian-prisoners</guid>
-      <pubDate>Sun, 19 Jan 2025 22:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普重返政坛，力图展现实力</title>
-      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-return-power.html</link>
-      <description><![CDATA[新任总统告诉盟友，他希望抓住机遇，避免第一届政府的失误。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-return-power.html</guid>
-      <pubDate>Sun, 19 Jan 2025 22:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 在应对美国禁令时向特朗普献媚</title>
-      <link>https://www.nytimes.com/2025/01/19/technology/tiktok-trump-messages-ban.html</link>
-      <description><![CDATA[该应用程序在弹出消息和声明中多次提到当选总统的名字，因为它在美国属于禁令范围，除非将其出售给非中国所有者。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/technology/tiktok-trump-messages-ban.html</guid>
-      <pubDate>Sun, 19 Jan 2025 21:39:35 GMT</pubDate>
+      <title>米勒称特朗普将取消职业公务员的保护</title>
+      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-stephen-miller.html</link>
+      <description><![CDATA[即将上任的副幕僚长告诉议员们，早期行动将包括指示当选总统唐纳德·J·特朗普更多地控制联邦工作人员以及能源和移民事务。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-stephen-miller.html</guid>
+      <pubDate>Mon, 20 Jan 2025 04:04:03 GMT</pubDate>
     </item>
     <item>
       <title>世界经济论坛：达沃斯会议幕后花絮</title>
