@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 00:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 03:01:18 GMT</lastBuildDate>
     <item>
       <title>强冬季风暴正在移至大西洋中部和东北部</title>
       <link>https://www.nytimes.com/2025/01/19/weather/snow-winter-storm-northeast-polar-vortex.html</link>
       <description><![CDATA[周日，中大西洋地区和纽约市降雪。预报员称，从周一开始，几年来最冷的空气将席卷美国大部分地区。]]></description>
       <guid>https://www.nytimes.com/2025/01/19/weather/snow-winter-storm-northeast-polar-vortex.html</guid>
-      <pubDate>Mon, 20 Jan 2025 00:20:48 GMT</pubDate>
+      <pubDate>Mon, 20 Jan 2025 03:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普第二次就职典礼，华盛顿的氛围截然不同</title>
-      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-dc.html</link>
-      <description><![CDATA[唐纳德·J·特朗普 (Donald J. Trump) 就职典礼前的庆祝活动中，热情的特朗普支持者和热爱特朗普的权力掮客在周围疯狂聚会，但他们却无法触及到他们。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-dc.html</guid>
-      <pubDate>Mon, 20 Jan 2025 00:10:04 GMT</pubDate>
+      <title>特朗普集会上的音乐充满矛盾</title>
+      <link>https://www.nytimes.com/2025/01/19/arts/music/trump-village-people-kid-rock.html</link>
+      <description><![CDATA[在 Kid Rock 和 Lee Greenwood 表演完歌曲《Y.M.C.A》后，当选总统与 Village People 一起跳舞，他的集会以现场表演结束。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/arts/music/trump-village-people-kid-rock.html</guid>
+      <pubDate>Mon, 20 Jan 2025 01:23:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>停火生效 加沙人和以色列人充满希望</title>
+      <link>https://www.nytimes.com/2025/01/19/world/middleeast/gazans-and-israelis-dare-to-hope-as-cease-fire-takes-hold.html</link>
+      <description><![CDATA[战斗暂停后，哈马斯开始释放部分人质，其中释放了3人，而以色列称已释放了90名巴勒斯坦囚犯。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/world/middleeast/gazans-and-israelis-dare-to-hope-as-cease-fire-takes-hold.html</guid>
+      <pubDate>Mon, 20 Jan 2025 00:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>米勒告诉共和党领导人特朗普将剥夺职业公务员的保护。</title>
+      <link>https://www.nytimes.com/live/2025/01/19/us/trump-inauguration-news/miller-tells-republican-leaders-trump-will-strip-protections-from-career-civil-servants</link>
+      <description><![CDATA[候任总统的新任副幕僚长告诉议员们，早期的行动将包括赋予总统更多对联邦工作人员以及能源和移民方面的控制权。]]></description>
+      <guid>https://www.nytimes.com/live/2025/01/19/us/trump-inauguration-news/miller-tells-republican-leaders-trump-will-strip-protections-from-career-civil-servants</guid>
+      <pubDate>Mon, 20 Jan 2025 00:11:27 GMT</pubDate>
     </item>
     <item>
       <title>TikTok 精心策划关闭以求得救。但特朗普的解决方案可能不尽如人意</title>
@@ -27,13 +41,6 @@
       <pubDate>Mon, 20 Jan 2025 00:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普表示将推迟禁令，TikTok 恢复运营</title>
-      <link>https://www.nytimes.com/2025/01/19/technology/trump-tiktok-ban-executive-order.html</link>
-      <description><![CDATA[由于联邦法律生效，要求出售或禁止该社交媒体应用程序，该应用程序被关闭，一些用户发现该应用程序于周日恢复上线。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/technology/trump-tiktok-ban-executive-order.html</guid>
-      <pubDate>Sun, 19 Jan 2025 23:47:39 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普誓言上任前结束乌克兰战争。战争仍在继续。</title>
       <link>https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html</link>
       <description><![CDATA[唐纳德·J·特朗普承诺“在我成为总统之前”的 24 小时内促成俄罗斯与乌克兰之间的和平，事实证明这只是夸张之词。]]></description>
@@ -41,11 +48,11 @@
       <pubDate>Sun, 19 Jan 2025 23:22:23 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普的加密货币飙升成为世界上最有价值的货币之一</title>
-      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-cryptocurrency-surges.html</link>
-      <description><![CDATA[特朗普家族的新商业冒险尽管在一夜之间成为一种现象，在账面上带来了巨额利润，但也引发了越来越多的批评和道德质疑。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-cryptocurrency-surges.html</guid>
-      <pubDate>Sun, 19 Jan 2025 23:09:52 GMT</pubDate>
+      <title>以色列人质与巴勒斯坦囚犯不均衡交换的背后原因是什么？</title>
+      <link>https://www.nytimes.com/live/2025/01/19/world/israel-hamas-gaza-ceasefire/whats-behind-the-uneven-exchange-of-israeli-hostages-for-palestinian-prisoners</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.nytimes.com/live/2025/01/19/world/israel-hamas-gaza-ceasefire/whats-behind-the-uneven-exchange-of-israeli-hostages-for-palestinian-prisoners</guid>
+      <pubDate>Sun, 19 Jan 2025 22:41:45 GMT</pubDate>
     </item>
     <item>
       <title>特朗普重返政坛，力图展现实力</title>
@@ -55,32 +62,18 @@
       <pubDate>Sun, 19 Jan 2025 22:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶大火暴露出政府网络设计薄弱</title>
-      <link>https://www.nytimes.com/2025/01/19/us/wildfires-los-angeles-governance.html</link>
-      <description><![CDATA[谁说了算？洛杉矶混乱的司法管辖权让一个关键问题悬而未决。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/wildfires-los-angeles-governance.html</guid>
-      <pubDate>Sun, 19 Jan 2025 22:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙停火后首批三名以色列人质获释</title>
-      <link>https://www.nytimes.com/2025/01/19/world/middleeast/hostages-emily-tamari-doron-steinbrecher-romi-gonen.html</link>
-      <description><![CDATA[协议第一阶段将释放33人，其中包括女兵、平民、儿童和50岁以上的男子。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/world/middleeast/hostages-emily-tamari-doron-steinbrecher-romi-gonen.html</guid>
-      <pubDate>Sun, 19 Jan 2025 21:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着停火生效，加沙人和以色列人表达了略带怀疑的喜悦</title>
-      <link>https://www.nytimes.com/2025/01/19/world/middleeast/gaza-israel-mood.html</link>
-      <description><![CDATA[经过470天的死亡，加沙于周日开始暂时停火。但巴勒斯坦人不确定战争是否已经结束，以色列人担心许多人质仍会留在加沙。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/world/middleeast/gaza-israel-mood.html</guid>
-      <pubDate>Sun, 19 Jan 2025 20:07:57 GMT</pubDate>
-    </item>
-    <item>
       <title>TikTok 表示将恢复服务，因用户对关闭服务反应不佳</title>
       <link>https://www.nytimes.com/2025/01/19/style/tiktok-reaction.html</link>
       <description><![CDATA[该应用程序于周六晚在全国范围内停止服务，但该公司表示，在当选总统唐纳德·J·特朗普做出保证后，正在恢复服务。]]></description>
       <guid>https://www.nytimes.com/2025/01/19/style/tiktok-reaction.html</guid>
       <pubDate>Sun, 19 Jan 2025 18:51:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶的开放日让人感觉怪异</title>
+      <link>https://www.nytimes.com/2025/01/19/realestate/los-angeles-open-houses-wildfires.html</link>
+      <description><![CDATA[尽管数千名失去家园的居民正在拼命寻找居住的地方，但潜在的购房者正在权衡风险。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/realestate/los-angeles-open-houses-wildfires.html</guid>
+      <pubDate>Sun, 19 Jan 2025 18:00:07 GMT</pubDate>
     </item>
     <item>
       <title>关于 TikTok 禁令，我们了解些什么</title>
@@ -90,6 +83,13 @@
       <pubDate>Sun, 19 Jan 2025 17:50:34 GMT</pubDate>
     </item>
     <item>
+      <title>亚当斯指责前检察官提起诉讼以帮助自己的事业</title>
+      <link>https://www.nytimes.com/2025/01/19/nyregion/eric-adams-lawyer-accusations-prosecutor-corruption-case.html</link>
+      <description><![CDATA[市长埃里克·亚当斯 (Eric Adams) 的律师在法庭文件中辩称，指控市长受贿的前联邦检察官达米安·威廉姆斯 (Damian Williams) 提起此案是为了自己的政治利益。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/nyregion/eric-adams-lawyer-accusations-prosecutor-corruption-case.html</guid>
+      <pubDate>Sun, 19 Jan 2025 17:41:02 GMT</pubDate>
+    </item>
+    <item>
       <title>哈马斯试图表明其重新掌控加沙</title>
       <link>https://www.nytimes.com/2025/01/19/world/middleeast/hamas-in-charge-gaza.html</link>
       <description><![CDATA[战争激烈时，很少在公开场合露面的蒙面武装分子周日在加沙各城市公开展示武力。]]></description>
@@ -97,18 +97,18 @@
       <pubDate>Sun, 19 Jan 2025 17:16:48 GMT</pubDate>
     </item>
     <item>
-      <title>洛杉矶的推拉：美丽与危险</title>
-      <link>https://www.nytimes.com/2025/01/19/us/los-angeles-beauty-danger.html</link>
-      <description><![CDATA[索米尼·森古普塔（Somini Sengupta）是一位居住在洛杉矶的气候记者，他回顾了这座城市、它的神话以及它对灾难的反思。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/los-angeles-beauty-danger.html</guid>
-      <pubDate>Sun, 19 Jan 2025 15:16:54 GMT</pubDate>
+      <title>特朗普险胜大选。为什么感觉不像呢？</title>
+      <link>https://www.nytimes.com/2025/01/19/opinion/trump-mandate-zuckerberg-masculinity.html</link>
+      <description><![CDATA[候任总统在文化上的胜利已经超越了他的政治上的胜利。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/opinion/trump-mandate-zuckerberg-masculinity.html</guid>
+      <pubDate>Sun, 19 Jan 2025 15:10:59 GMT</pubDate>
     </item>
     <item>
-      <title>他们建造了一座房屋来抵御加州野火。但他们会留下来吗？</title>
-      <link>https://www.nytimes.com/2025/01/19/us/malibu-home-california-wildfires.html</link>
-      <description><![CDATA[沃格特夫妇设计的马里布房屋可以抵御灾害。但他们才刚刚开始意识到火灾会给他们带来多大的心理伤害。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/malibu-home-california-wildfires.html</guid>
-      <pubDate>Sun, 19 Jan 2025 10:01:09 GMT</pubDate>
+      <title>非洲出版业正在经历“复兴”</title>
+      <link>https://www.nytimes.com/2025/01/19/books/african-publishing.html</link>
+      <description><![CDATA[出版商、书店、文学杂志和文学节日组成的新生态系统正在推广非洲作家的作品并改变该地区的叙事方式。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/books/african-publishing.html</guid>
+      <pubDate>Sun, 19 Jan 2025 10:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
