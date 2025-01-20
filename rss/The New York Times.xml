@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 03:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 06:09:23 GMT</lastBuildDate>
+    <item>
+      <title>马丁·路德·金是我们需要时希望的典范</title>
+      <link>https://www.nytimes.com/2025/01/20/opinion/martin-luther-king-trump.html</link>
+      <description><![CDATA[我们许多人都觉得自己处在困难时期，这使得他的信息显得尤为重要。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/opinion/martin-luther-king-trump.html</guid>
+      <pubDate>Mon, 20 Jan 2025 06:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在是特朗普的混乱、危险的世界</title>
+      <link>https://www.nytimes.com/2025/01/20/opinion/trump-foreign-policy-defense.html</link>
+      <description><![CDATA[和平的关键在于实力，实力的关键在于领导力。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/opinion/trump-foreign-policy-defense.html</guid>
+      <pubDate>Mon, 20 Jan 2025 06:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok、RedNote 和中国互联网的破灭</title>
+      <link>https://www.nytimes.com/2025/01/20/business/tiktok-red-note-china-internet.html</link>
+      <description><![CDATA[尽管受到北京方面的审查和恶意忽视，中国的互联网公司及其勤奋、足智多谋的专业人员仍然创造出了世界一流的产品。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/business/tiktok-red-note-china-internet.html</guid>
+      <pubDate>Mon, 20 Jan 2025 05:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普誓言上任前结束乌克兰战争。战争仍在继续。</title>
+      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html</link>
+      <description><![CDATA[唐纳德·J·特朗普承诺“在我成为总统之前”的 24 小时内促成俄罗斯与乌克兰之间实现和平，但事实证明这并不符合事实。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html</guid>
+      <pubDate>Mon, 20 Jan 2025 04:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>米勒称特朗普将剥夺职业公务员的保护</title>
+      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-stephen-miller.html</link>
+      <description><![CDATA[即将上任的副幕僚长告诉议员们，早期行动将包括指示当选总统唐纳德·J·特朗普更多地控制联邦工作人员以及能源和移民事务。]]></description>
+      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-inauguration-stephen-miller.html</guid>
+      <pubDate>Mon, 20 Jan 2025 04:04:03 GMT</pubDate>
+    </item>
     <item>
       <title>强冬季风暴正在移至大西洋中部和东北部</title>
       <link>https://www.nytimes.com/2025/01/19/weather/snow-winter-storm-northeast-polar-vortex.html</link>
@@ -24,14 +59,7 @@
       <link>https://www.nytimes.com/2025/01/19/world/middleeast/gazans-and-israelis-dare-to-hope-as-cease-fire-takes-hold.html</link>
       <description><![CDATA[战斗暂停后，哈马斯开始释放部分人质，其中释放了3人，而以色列称已释放了90名巴勒斯坦囚犯。]]></description>
       <guid>https://www.nytimes.com/2025/01/19/world/middleeast/gazans-and-israelis-dare-to-hope-as-cease-fire-takes-hold.html</guid>
-      <pubDate>Mon, 20 Jan 2025 00:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>米勒告诉共和党领导人特朗普将剥夺职业公务员的保护。</title>
-      <link>https://www.nytimes.com/live/2025/01/19/us/trump-inauguration-news/miller-tells-republican-leaders-trump-will-strip-protections-from-career-civil-servants</link>
-      <description><![CDATA[候任总统的新任副幕僚长告诉议员们，早期的行动将包括赋予总统更多对联邦工作人员以及能源和移民方面的控制权。]]></description>
-      <guid>https://www.nytimes.com/live/2025/01/19/us/trump-inauguration-news/miller-tells-republican-leaders-trump-will-strip-protections-from-career-civil-servants</guid>
-      <pubDate>Mon, 20 Jan 2025 00:11:27 GMT</pubDate>
+      <pubDate>Mon, 20 Jan 2025 00:23:52 GMT</pubDate>
     </item>
     <item>
       <title>TikTok 精心策划关闭以求得救。但特朗普的解决方案可能不尽如人意</title>
@@ -39,13 +67,6 @@
       <description><![CDATA[候任总统唐纳德·J·特朗普的想法是，由现有的中国所有者和某种美国实体组成一个持股50-50的“合资企业”，但这更多的是出于政治目的，而非实质目的。]]></description>
       <guid>https://www.nytimes.com/2025/01/19/us/politics/tiktoks-shutdown-notice-trump.html</guid>
       <pubDate>Mon, 20 Jan 2025 00:07:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普誓言上任前结束乌克兰战争。战争仍在继续。</title>
-      <link>https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html</link>
-      <description><![CDATA[唐纳德·J·特朗普承诺“在我成为总统之前”的 24 小时内促成俄罗斯与乌克兰之间的和平，事实证明这只是夸张之词。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/us/politics/trump-promise-ending-ukraine-war.html</guid>
-      <pubDate>Sun, 19 Jan 2025 23:22:23 GMT</pubDate>
     </item>
     <item>
       <title>以色列人质与巴勒斯坦囚犯不均衡交换的背后原因是什么？</title>
@@ -62,13 +83,6 @@
       <pubDate>Sun, 19 Jan 2025 22:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 表示将恢复服务，因用户对关闭服务反应不佳</title>
-      <link>https://www.nytimes.com/2025/01/19/style/tiktok-reaction.html</link>
-      <description><![CDATA[该应用程序于周六晚在全国范围内停止服务，但该公司表示，在当选总统唐纳德·J·特朗普做出保证后，正在恢复服务。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/style/tiktok-reaction.html</guid>
-      <pubDate>Sun, 19 Jan 2025 18:51:21 GMT</pubDate>
-    </item>
-    <item>
       <title>洛杉矶的开放日让人感觉怪异</title>
       <link>https://www.nytimes.com/2025/01/19/realestate/los-angeles-open-houses-wildfires.html</link>
       <description><![CDATA[尽管数千名失去家园的居民正在拼命寻找居住的地方，但潜在的购房者正在权衡风险。]]></description>
@@ -83,25 +97,11 @@
       <pubDate>Sun, 19 Jan 2025 17:50:34 GMT</pubDate>
     </item>
     <item>
-      <title>亚当斯指责前检察官提起诉讼以帮助自己的事业</title>
-      <link>https://www.nytimes.com/2025/01/19/nyregion/eric-adams-lawyer-accusations-prosecutor-corruption-case.html</link>
-      <description><![CDATA[市长埃里克·亚当斯 (Eric Adams) 的律师在法庭文件中辩称，指控市长受贿的前联邦检察官达米安·威廉姆斯 (Damian Williams) 提起此案是为了自己的政治利益。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/nyregion/eric-adams-lawyer-accusations-prosecutor-corruption-case.html</guid>
-      <pubDate>Sun, 19 Jan 2025 17:41:02 GMT</pubDate>
-    </item>
-    <item>
       <title>哈马斯试图表明其重新掌控加沙</title>
       <link>https://www.nytimes.com/2025/01/19/world/middleeast/hamas-in-charge-gaza.html</link>
       <description><![CDATA[战争激烈时，很少在公开场合露面的蒙面武装分子周日在加沙各城市公开展示武力。]]></description>
       <guid>https://www.nytimes.com/2025/01/19/world/middleeast/hamas-in-charge-gaza.html</guid>
       <pubDate>Sun, 19 Jan 2025 17:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普险胜大选。为什么感觉不像呢？</title>
-      <link>https://www.nytimes.com/2025/01/19/opinion/trump-mandate-zuckerberg-masculinity.html</link>
-      <description><![CDATA[候任总统在文化上的胜利已经超越了他的政治上的胜利。]]></description>
-      <guid>https://www.nytimes.com/2025/01/19/opinion/trump-mandate-zuckerberg-masculinity.html</guid>
-      <pubDate>Sun, 19 Jan 2025 15:10:59 GMT</pubDate>
     </item>
     <item>
       <title>非洲出版业正在经历“复兴”</title>
