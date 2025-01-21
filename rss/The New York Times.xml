@@ -1,30 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 09:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:11:36 GMT</lastBuildDate>
     <item>
-      <title>对于特朗普来说，这是对他本人及其运动的辩护</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-inauguration.html</link>
-      <description><![CDATA[唐纳德·约翰·特朗普在国会大厦举行的就职仪式上再次宣誓，承诺在被选民赶下台四年后开启美国新的“黄金时代”。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-inauguration.html</guid>
-      <pubDate>Tue, 21 Jan 2025 07:13:48 GMT</pubDate>
+      <title>以色列军队开始袭击西岸</title>
+      <link>https://www.nytimes.com/2025/01/21/world/middleeast/israel-trump-settlers-west-bank-gaza.html</link>
+      <description><![CDATA[在紧张局势加剧的情况下，以色列军队开始了以色列所称的反恐行动。就在几个小时前，犹太极端分子袭击了几个巴勒斯坦村庄。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/world/middleeast/israel-trump-settlers-west-bank-gaza.html</guid>
+      <pubDate>Tue, 21 Jan 2025 11:56:34 GMT</pubDate>
     </item>
     <item>
-      <title>“一股安静的力量”：哈里斯在华盛顿创造历史后回国</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/harris-legacy-vp.html</link>
-      <description><![CDATA[这位前副总统几十年来首次以非民选官员的身份行事，这可能是未来事态发展的先兆。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/harris-legacy-vp.html</guid>
-      <pubDate>Tue, 21 Jan 2025 06:28:30 GMT</pubDate>
+      <title>冬季风暴给德克萨斯州和路易斯安那州带来降雪</title>
+      <link>https://www.nytimes.com/2025/01/21/weather/cold-snow-storm-houston-texas-louisiana.html</link>
+      <description><![CDATA[路易斯安那州气候学家警告称，“很多人从未见过这样的天气”，新奥尔良可能将迎来其历史上最大的降雪。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/weather/cold-snow-storm-houston-texas-louisiana.html</guid>
+      <pubDate>Tue, 21 Jan 2025 11:42:22 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普开始打击移民，动用军队并测试法律</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-starts-immigration-crackdown-enlisting-the-military-and-testing-the-law.html</link>
-      <description><![CDATA[总统上任第一天采取的行动包括公然违反军队参与国内行动的法律限制和宪法保障的出生公民权。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-starts-immigration-crackdown-enlisting-the-military-and-testing-the-law.html</guid>
-      <pubDate>Tue, 21 Jan 2025 06:19:43 GMT</pubDate>
+      <title>特朗普上任第一天做了什么，拜登的最后举动</title>
+      <link>https://www.nytimes.com/2025/01/21/podcasts/trump-executive-orders-inauguration.html</link>
+      <description><![CDATA[另外，还未能获得奥运奖牌。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/podcasts/trump-executive-orders-inauguration.html</guid>
+      <pubDate>Tue, 21 Jan 2025 11:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普赦免几乎所有参与 1 月 6 日袭击事件的人</title>
+      <link>https://www.nytimes.com/video/us/politics/100000009938216/trump-pardons.html</link>
+      <description><![CDATA[特朗普总统重任第一天，就赦免了与 2021 年 1 月 6 日国会大厦袭击事件有关的近 1,600 名被指控的人。《纽约时报》驻白宫记者玛吉·哈伯曼 (Maggie Haberman) 描述了这些赦免背后的原因。]]></description>
+      <guid>https://www.nytimes.com/video/us/politics/100000009938216/trump-pardons.html</guid>
+      <pubDate>Tue, 21 Jan 2025 10:33:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普上任第一天做了什么：追踪他最大的举动</title>
+      <link>https://www.nytimes.com/2025/01/21/us/politics/trump-first-day-recap.html</link>
+      <description><![CDATA[特朗普总统上任后立即做出重大政策举措，退出主要国际协议、承诺征收高额关税并赦免几乎所有1月6日骚乱者。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/us/politics/trump-first-day-recap.html</guid>
+      <pubDate>Tue, 21 Jan 2025 10:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>特色咖啡馆和巴黎咖啡馆</title>
+      <link>https://www.nytimes.com/2025/01/21/travel/paris-coffee-shops-bistro.html</link>
+      <description><![CDATA[这座城市的传统咖啡馆和小酒馆正在与提供拿铁艺术的咖啡因含量极高的新兴酒吧展开一场新兴的对决，争夺各自的文化领地。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/travel/paris-coffee-shops-bistro.html</guid>
+      <pubDate>Tue, 21 Jan 2025 10:01:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>首席执行官和特朗普总统希望员工重返办公室</title>
+      <link>https://www.nytimes.com/2025/01/21/business/return-to-office-remote-work.html</link>
+      <description><![CDATA[亚马逊、摩根大通等公司已告知员工远程办公已结束。现在联邦雇员也被要求亲自上班。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/business/return-to-office-remote-work.html</guid>
+      <pubDate>Tue, 21 Jan 2025 10:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>他脑子里的声音一直响个不停。然后一个男孩被刺死了。</title>
+      <link>https://www.nytimes.com/2025/01/21/nyregion/waldo-meija-caleb-rijos-stabbing-voices.html</link>
+      <description><![CDATA[一位老友说，沃尔多·梅希亚的精神已经出现问题。现在他被指控随意杀害了 14 岁的卡莱布·里霍斯。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/nyregion/waldo-meija-caleb-rijos-stabbing-voices.html</guid>
+      <pubDate>Tue, 21 Jan 2025 08:00:07 GMT</pubDate>
     </item>
     <item>
       <title>韩江谈济州岛新书《我们不分开》</title>
@@ -41,6 +76,13 @@
       <pubDate>Tue, 21 Jan 2025 05:01:05 GMT</pubDate>
     </item>
     <item>
+      <title>印度经济原本应该加速，却出现放缓</title>
+      <link>https://www.nytimes.com/2025/01/21/business/indian-economy-rupee.html</link>
+      <description><![CDATA[工业增长、股市和卢比都在下跌，而大多数消费者的收入太低，无法支撑这些因素，阻碍了印度成为发达经济体的努力。]]></description>
+      <guid>https://www.nytimes.com/2025/01/21/business/indian-economy-rupee.html</guid>
+      <pubDate>Tue, 21 Jan 2025 05:00:08 GMT</pubDate>
+    </item>
+    <item>
       <title>华盛顿的胜利、欢呼和得意之日</title>
       <link>https://www.nytimes.com/2025/01/20/us/politics/trump-inaugural.html</link>
       <description><![CDATA[在特朗普总统的就职典礼上，有骄傲男孩、亿万富翁、细高跟鞋、牛仔帽、村民、冰冷而快乐的加拿大人。]]></description>
@@ -48,39 +90,18 @@
       <pubDate>Tue, 21 Jan 2025 04:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>被特朗普赦免的恩里克·塔里奥帮助引发国会骚乱</title>
-      <link>https://www.nytimes.com/2025/01/20/nyregion/enrique-tarrio-proud-boys-pardon-jan-6.html</link>
-      <description><![CDATA[在特朗普总统赦免之前，恩里克·塔里奥正在服刑 22 年，这是 1 月 6 日事件中被指控的近 1,600 人中刑期最长的。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/nyregion/enrique-tarrio-proud-boys-pardon-jan-6.html</guid>
-      <pubDate>Tue, 21 Jan 2025 03:23:11 GMT</pubDate>
+      <title>特朗普对 1 月 6 日所有暴乱者实行全面赦免</title>
+      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-pardons-jan-6.html</link>
+      <description><![CDATA[特别赦免和减刑扩大到 1 月 6 日犯下暴力和非暴力罪行的人，包括袭警和煽动阴谋。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-pardons-jan-6.html</guid>
+      <pubDate>Tue, 21 Jan 2025 03:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在最后时刻赦免亲属和其他人，以阻止特朗普的报复</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-fauci-milley-cheney-jan-6.html</link>
-      <description><![CDATA[拜登总统利用他的行政赦免权保护了唐纳德·J·特朗普所针对的人员，其中包括他的五名家庭成员以及利兹·切尼、安东尼·S·福奇和马克·A·米利。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/biden-pardons-fauci-milley-cheney-jan-6.html</guid>
-      <pubDate>Tue, 21 Jan 2025 03:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普承诺对加拿大和墨西哥征收关税，为进一步的贸易行动铺平道路</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-tariffs-executive-order.html</link>
-      <description><![CDATA[总统表示，他计划于 2 月 1 日对美国邻国征收关税，并签署了一项行政命令，要求对美国贸易政策进行全面审查。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-tariffs-executive-order.html</guid>
-      <pubDate>Tue, 21 Jan 2025 03:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>加沙居民重返废墟</title>
-      <link>https://www.nytimes.com/2025/01/20/world/middleeast/gaza-israel-cease-fire.html</link>
-      <description><![CDATA[返回部分地区的巴勒斯坦人一直在巨大的瓦砾堆中艰难前行，尽力抢救一切可能的东西。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/world/middleeast/gaza-israel-cease-fire.html</guid>
-      <pubDate>Tue, 21 Jan 2025 02:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普为誓言守卫者创始人斯图尔特·罗兹减刑</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/stewart-rhodes-trump-jan-6-oath-keepers.html</link>
-      <description><![CDATA[这一举动实际上证实了这位极右翼领导人的挑衅性言论，即对他的刑事起诉是一种政治迫害。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/stewart-rhodes-trump-jan-6-oath-keepers.html</guid>
-      <pubDate>Tue, 21 Jan 2025 01:46:29 GMT</pubDate>
+      <title>特朗普意志坚定，誓言无论在国内还是国外都不会受阻</title>
+      <link>https://www.nytimes.com/2025/01/20/us/politics/trump-sworn-in-president.html</link>
+      <description><![CDATA[这位新宣誓就职的总统更加明智地运用权力，他表示这一次他不会接受任何否定的答案，无论是在制定雄心勃勃的国内议程方面，还是在他的扩张主义世界观方面。]]></description>
+      <guid>https://www.nytimes.com/2025/01/20/us/politics/trump-sworn-in-president.html</guid>
+      <pubDate>Tue, 21 Jan 2025 01:26:53 GMT</pubDate>
     </item>
     <item>
       <title>在赦免之争中，关于 1 月 6 日意义的争论愈演愈烈</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[特朗普总统对四年前以他的名义袭击国会大厦的人予以赦免，这与他的前任决定保护那些试图追究他责任的人免受报复相冲突。]]></description>
       <guid>https://www.nytimes.com/2025/01/20/us/politics/biden-trump-jan6-pardons.html</guid>
       <pubDate>Tue, 21 Jan 2025 01:08:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅拉尼娅和巴伦·特朗普在就职典礼上迎接他们曾经避免的聚光灯</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/baron-melania-trump-inauguration.html</link>
-      <description><![CDATA[重返白宫的第一夫人和曾被她隐匿在公众视线之外的儿子巴伦·特朗普 (Barron Trump) 利用周一的就职典礼重新介绍自己。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/baron-melania-trump-inauguration.html</guid>
-      <pubDate>Tue, 21 Jan 2025 00:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登因担心特朗普报复而结束总统任期</title>
-      <link>https://www.nytimes.com/2025/01/20/us/politics/biden-final-day.html</link>
-      <description><![CDATA[他在准备离开华盛顿时对支持者和工作人员说：“我们不会放弃战斗。”]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/politics/biden-final-day.html</guid>
-      <pubDate>Mon, 20 Jan 2025 23:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在热爱汽车的洛杉矶，山火过后，车辆烧焦的残骸留下了深深的伤痕</title>
-      <link>https://www.nytimes.com/2025/01/20/us/los-angeles-wildfires-cars-transport.html</link>
-      <description><![CDATA[对于许多居民来说，车轮是他们家的延伸、收入的关键或无价回忆的源泉。]]></description>
-      <guid>https://www.nytimes.com/2025/01/20/us/los-angeles-wildfires-cars-transport.html</guid>
-      <pubDate>Mon, 20 Jan 2025 22:01:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
