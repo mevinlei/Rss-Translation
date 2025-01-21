@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 15:10:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 18:15:10 GMT</lastBuildDate>
     <item>
       <title>DeepSeek R1</title>
       <link>https://www.producthunt.com/posts/deepseek-r1</link>
@@ -48,20 +48,6 @@
       <pubDate>Mon, 20 Jan 2025 23:17:18 GMT</pubDate>
     </item>
     <item>
-      <title>维拉</title>
-      <link>https://www.producthunt.com/posts/vela-296d10e2-0083-4377-87ae-675c921e59d3</link>
-      <description><![CDATA[
-促进人际关系的职场信息传递
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vela-296d10e2-0083-4377-87ae-675c921e59d3</guid>
-      <pubDate>Sun, 19 Jan 2025 19:38:36 GMT</pubDate>
-    </item>
-    <item>
       <title>Every.io</title>
       <link>https://www.producthunt.com/posts/every-io</link>
       <description><![CDATA[
@@ -76,18 +62,32 @@
       <pubDate>Fri, 17 Jan 2025 20:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>敲门</title>
-      <link>https://www.producthunt.com/posts/kloki</link>
+      <title>2025 年人工智能的发展状况</title>
+      <link>https://www.producthunt.com/posts/the-2025-state-of-ai</link>
       <description><![CDATA[
-团队和自由职业者的时间跟踪
+了解公司如何利用 AI 进行构建：新兴模式和计划
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/kloki</guid>
-      <pubDate>Fri, 17 Jan 2025 13:57:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/the-2025-state-of-ai</guid>
+      <pubDate>Thu, 16 Jan 2025 21:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>/由 Firecrawl 提取</title>
+      <link>https://www.producthunt.com/posts/extract-by-firecrawl</link>
+      <description><![CDATA[
+只需提示即可获取结构化网络数据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/extract-by-firecrawl</guid>
+      <pubDate>Wed, 15 Jan 2025 22:35:25 GMT</pubDate>
     </item>
     <item>
       <title>针</title>
@@ -163,7 +163,7 @@
       <title>融洽工作室</title>
       <link>https://www.producthunt.com/posts/rapport-studio</link>
       <description><![CDATA[
-通过独特的品牌推广让 AI 焕发生机
+通过您自己独特的品牌，让您的 AI 头像栩栩如生
 
 
 讨论
@@ -188,10 +188,10 @@
       <pubDate>Mon, 06 Jan 2025 14:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>朋友</title>
+      <title>我的朋友</title>
       <link>https://www.producthunt.com/posts/kawara</link>
       <description><![CDATA[
-视频搜索引擎
+为您的视频提供个性化搜索引擎
 
 
 讨论
