@@ -4,7 +4,35 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 22 Jan 2025 03:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 06:15:48 GMT</lastBuildDate>
+    <item>
+      <title>特朗普就职典礼后习近平与普京举行视频通话</title>
+      <link>https://www.bbc.com/news/articles/cg7z1rj2vdeo</link>
+      <description><![CDATA[两国领导人承诺推动中俄关系迈上新台阶。]]></description>
+      <guid>https://www.bbc.com/news/articles/cg7z1rj2vdeo</guid>
+      <pubDate>Wed, 22 Jan 2025 05:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国科技巨头宣布高达5000亿美元的人工智能计划</title>
+      <link>https://www.bbc.com/news/articles/cy4m84d2xz2o</link>
+      <description><![CDATA[OpenAI、甲骨文、软银联手打造人工智能基础设施。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy4m84d2xz2o</guid>
+      <pubDate>Wed, 22 Jan 2025 04:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>罕见暴风雪袭击美国南部，造成四人死亡</title>
+      <link>https://www.bbc.com/news/articles/c391jmgmev4o</link>
+      <description><![CDATA[一场大型冬季风暴引发了暴风雪警告，在一个甚至很少看到阵雪的地区倾泻而下大雪和雨夹雪。]]></description>
+      <guid>https://www.bbc.com/news/articles/c391jmgmev4o</guid>
+      <pubDate>Wed, 22 Jan 2025 04:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>两份 ID 计划阻止未成年人在网上销售刀具</title>
+      <link>https://www.bbc.com/news/articles/cvg85lkpz0zo</link>
+      <description><![CDATA[根据政府计划，任何想要在网上购买刀片的人都必须完成两次年龄验证检查。]]></description>
+      <guid>https://www.bbc.com/news/articles/cvg85lkpz0zo</guid>
+      <pubDate>Wed, 22 Jan 2025 03:21:45 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普赦免暗网市场丝绸之路创始人罗斯·乌布利希</title>
       <link>https://www.bbc.com/news/articles/cz7e0jve875o</link>
@@ -29,7 +57,7 @@
     <item>
       <title>随着新用户激增，Netflix 将提高价格</title>
       <link>https://www.bbc.com/news/articles/c62693x4qr2o</link>
-      <description><![CDATA[鱿鱼游戏和现场体育赛事（包括杰克·保罗与迈克·泰森的比赛）吸引了新会员。]]></description>
+      <description><![CDATA[Squid Game 2 和现场体育赛事（包括杰克·保罗与迈克·泰森的比赛）吸引了新会员。]]></description>
       <guid>https://www.bbc.com/news/articles/c62693x4qr2o</guid>
       <pubDate>Wed, 22 Jan 2025 00:44:13 GMT</pubDate>
     </item>
@@ -39,13 +67,6 @@
       <description><![CDATA[英国税务海关总署否认为了吸引顾客上网而提供“故意低劣”的电话服务。]]></description>
       <guid>https://www.bbc.com/news/articles/cn4zjnd2llyo</guid>
       <pubDate>Wed, 22 Jan 2025 00:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>罕见暴风雪袭击美国南部 导致大量航班取消</title>
-      <link>https://www.bbc.com/news/articles/c391jmgmev4o</link>
-      <description><![CDATA[一场大型冬季风暴引发了暴风雪警告，在一个甚至很少看到阵雪的地区倾泻而下大雪和雨夹雪。]]></description>
-      <guid>https://www.bbc.com/news/articles/c391jmgmev4o</guid>
-      <pubDate>Tue, 21 Jan 2025 23:03:52 GMT</pubDate>
     </item>
     <item>
       <title>英国政府罢免竞争监管机构主席</title>
@@ -76,13 +97,6 @@
       <pubDate>Tue, 21 Jan 2025 20:04:58 GMT</pubDate>
     </item>
     <item>
-      <title>风暴伊奥温 (Éowyn) 将以最高 90 英里/小时的风速袭击英国</title>
-      <link>https://www.bbc.com/weather/articles/c3d5kxg4pyjo</link>
-      <description><![CDATA[随着风暴伊奥温 (Éowyn) 从大西洋移至英国，本周英国的风暴将更加猛烈。]]></description>
-      <guid>https://www.bbc.com/weather/articles/c3d5kxg4pyjo</guid>
-      <pubDate>Tue, 21 Jan 2025 20:01:16 GMT</pubDate>
-    </item>
-    <item>
       <title>毕晓普要求特朗普对 LGBT 人群和移民表现出怜悯</title>
       <link>https://www.bbc.com/news/videos/cn4mwe3lk9wo</link>
       <description><![CDATA[玛丽安·埃德加·巴德牧师在布道中向总统提出请求，但遭到特朗普后来的批评。]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[已有 18 个州就该行政命令起诉联邦政府，这表明总统将面临法律挑战。]]></description>
       <guid>https://www.bbc.com/news/articles/c7vdnlmgyndo</guid>
       <pubDate>Tue, 21 Jan 2025 18:43:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>南港凶手承认携带刀具超过 10 次</title>
-      <link>https://www.bbc.com/news/articles/ce8j453e7z1o</link>
-      <description><![CDATA[内政大臣伊维特·库珀表示，公共机构未能识别阿克塞尔·鲁达库巴纳所构成的威胁。]]></description>
-      <guid>https://www.bbc.com/news/articles/ce8j453e7z1o</guid>
-      <pubDate>Tue, 21 Jan 2025 18:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普赦免后骄傲男孩和誓言守卫者领导人获释</title>
-      <link>https://www.bbc.com/news/articles/c4g74l1xevpo</link>
-      <description><![CDATA[特朗普的大规模赦免名单中包括 2021 年美国国会大厦骚乱中两名最引人注目的被告。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4g74l1xevpo</guid>
-      <pubDate>Tue, 21 Jan 2025 18:11:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
