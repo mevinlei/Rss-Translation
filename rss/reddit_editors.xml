@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 22 Jan 2025 12:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:11:12 GMT</lastBuildDate>
+    <item>
+      <title>Avid 中剪辑上的“SC”标签是什么意思？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i79y1f/what_does_the_sc_label_on_a_clip_mean_in_avid/</link>
+      <description><![CDATA[大家好， 抱歉，这是 Avid 101 问题，但我注意到我的时间线中的某些剪辑上有一个“SC”标签（附图），我不知道这是什么意思。我试过禁用同步锁，但标签没有消失。 https://imgur.com/a/tg6MwTU 这是否与子剪辑或其他我可能不知道的 Avid 功能有关？ 干杯，    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i79y1f/what_does_the_sc_label_on_a_clip_mean_in_avid/</guid>
+      <pubDate>Wed, 22 Jan 2025 12:25:17 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 基于轨道的编辑 VS Premiere 以剪辑为中心的方法</title>
       <link>https://www.reddit.com/r/editors/comments/1i79b2f/avids_trackbased_editing_vs_premieres_clipcentric/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[大家好！ 刚刚在工作中遇到了一个非常奇怪的问题，想知道其他人是否遇到过类似的事情......  今天我发送了一份 UHD ProRes 4444XQ 进行扫描回到 35 毫米胶片上，实验室回复我们说在整个编辑过程中，媒体在 3/4 的地方有几帧处于离线状态。但是显示的媒体离线帧是来自 Davinci 的，而不是 Premiere 的（编辑是从中剪切 + 导出的），当将 prores 拉回到 Premiere 时，没有可见的媒体离线帧，只有在将渲染拉入 Davinci 时我们才能发现它们。 我最终从同一台机器重新渲染，没有可见的媒体离线帧，但感觉这是一个奇怪的问题，没有任何韵律或原因。 有没有其他人遇到过这个问题并找到了阻止它再次发生的方法？ 谢谢！！！ 规格 2023 Mac Studio M2 Max 芯片 64GB RAM 2TB SSD    提交人    /u/bohlconrad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i6medz/media_offline_badge_in_continuous_prores_export/</guid>
       <pubDate>Tue, 21 Jan 2025 16:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 向就职典礼捐款</title>
-      <link>https://www.reddit.com/r/editors/comments/1i6fjgd/adobe_donation_to_the_inauguration/</link>
-      <description><![CDATA[我有点恶心。还有其他人吗？    由    /u/tonyedit 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i6fjgd/adobe_donation_to_the_inauguration/</guid>
-      <pubDate>Tue, 21 Jan 2025 10:18:08 GMT</pubDate>
     </item>
     <item>
       <title>周转时间</title>
