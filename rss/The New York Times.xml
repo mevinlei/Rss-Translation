@@ -1,16 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 20:53:45 GMT</lastBuildDate>
+    <item>
+      <title>特朗普威胁 2 月 1 日对加拿大、墨西哥和中国征收关税</title>
+      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-tariffs-trade-mexico-canada-china.html</link>
+      <description><![CDATA[总统表示，他将于 2 月 1 日对来自加拿大、墨西哥和中国的产品征收关税，这三个国家的贸易额占美国贸易总额的三分之一以上。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-tariffs-trade-mexico-canada-china.html</guid>
+      <pubDate>Wed, 22 Jan 2025 20:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国称俄罗斯间谍船返回英国海域 表明克里姆林宫受到威胁</title>
+      <link>https://www.nytimes.com/2025/01/22/world/europe/britain-russia-spy-ship.html</link>
+      <description><![CDATA[英国国防大臣向议会表示，他称“Yantar”号为俄罗斯间谍船，这是该船几个月内第二次靠近英国海岸。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/world/europe/britain-russia-spy-ship.html</guid>
+      <pubDate>Wed, 22 Jan 2025 20:45:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>参议院民主党阻止共和党将部分堕胎机构定罪</title>
+      <link>https://www.nytimes.com/2025/01/22/us/politics/senate-abortion-vote-republicans.html</link>
+      <description><![CDATA[该法案要求堕胎后活着出生的婴儿受到与新生婴儿同等的保护，并威胁对未能挽救这些婴儿生命的医疗服务提供者判处监禁。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/politics/senate-abortion-vote-republicans.html</guid>
+      <pubDate>Wed, 22 Jan 2025 20:41:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普试图瘫痪独立隐私和公民自由监督机构</title>
+      <link>https://www.nytimes.com/2025/01/22/us/trump-privacy-civil-liberties-oversight-board.html</link>
+      <description><![CDATA[特朗普白宫已要求隐私和公民自由监督委员会的三名民主党成员辞职或被解雇，这将导致该独立机构无法正常运作。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/trump-privacy-civil-liberties-oversight-board.html</guid>
+      <pubDate>Wed, 22 Jan 2025 20:38:17 GMT</pubDate>
+    </item>
     <item>
       <title>默多克旗下英国小报承认存在非法活动，哈里王子获得部分胜利</title>
       <link>https://www.nytimes.com/2025/01/22/world/europe/prince-harry-murdoch-lawsuit.html</link>
       <description><![CDATA[鲁珀特·默多克的新闻集团报业集团向哈里“明确道歉”，首次承认《太阳报》存在违法行为，并同意支付所谓的巨额赔偿金。]]></description>
       <guid>https://www.nytimes.com/2025/01/22/world/europe/prince-harry-murdoch-lawsuit.html</guid>
-      <pubDate>Wed, 22 Jan 2025 18:12:35 GMT</pubDate>
+      <pubDate>Wed, 22 Jan 2025 20:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊顿火灾人员集中的阿尔塔迪纳地区疏散命令延迟</title>
+      <link>https://www.nytimes.com/2025/01/22/us/evacuation-orders-eaton-fire-altadena-california.html</link>
+      <description><![CDATA[伊顿火灾中丧生的 17 人都住在一个疏散命令比其他地区晚几个小时才下达的地区，尽管附近的房屋已经着火。有些人根本没有收到警告。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/evacuation-orders-eaton-fire-altadena-california.html</guid>
+      <pubDate>Wed, 22 Jan 2025 19:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普上任第一天就采取了哪些措施来封锁南部边境</title>
+      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-border-asylum-explainer.html</link>
+      <description><![CDATA[特朗普总统发布一系列行政命令，有效阻止移民进入美国并申请庇护，关闭了主要的合法移民渠道。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-border-asylum-explainer.html</guid>
+      <pubDate>Wed, 22 Jan 2025 18:40:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普赦免极右翼领导人 1 月 6 日发表讲话</title>
+      <link>https://www.nytimes.com/2025/01/22/us/politics/enrique-tarrio-stewart-rhodes.html</link>
+      <description><![CDATA[“骄傲男孩”组织的恩里克·塔里奥 (Enrique Tarrio) 和“誓言守卫者”组织的斯图尔特·罗兹 (Stewart Rhodes) 声称，他们希望特朗普总统为他们因 1 月 6 日的骚乱而被起诉进行报复。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/politics/enrique-tarrio-stewart-rhodes.html</guid>
+      <pubDate>Wed, 22 Jan 2025 18:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>“王者归来”：特朗普拥抱王位的荣耀</title>
+      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-president-king.html</link>
+      <description><![CDATA[恢复权力的特朗普总统声称是上帝把他放在了权力的位置，并主张有权按照自己的意愿独自重新绘制世界地图。]]></description>
+      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-president-king.html</guid>
+      <pubDate>Wed, 22 Jan 2025 17:51:51 GMT</pubDate>
     </item>
     <item>
       <title>将安妮·弗兰克的秘密小屋带到纽约和世界各地</title>
@@ -27,13 +83,6 @@
       <pubDate>Wed, 22 Jan 2025 16:58:43 GMT</pubDate>
     </item>
     <item>
-      <title>从第一天起，特朗普就开始测试他的权威极限</title>
-      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-pardons-jan-6-day-1.html</link>
-      <description><![CDATA[目前还不清楚华盛顿还有多少力量可以制止他。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-pardons-jan-6-day-1.html</guid>
-      <pubDate>Wed, 22 Jan 2025 14:54:43 GMT</pubDate>
-    </item>
-    <item>
       <title>以色列继续对约旦河西岸发动袭击</title>
       <link>https://www.nytimes.com/2025/01/22/world/middleeast/israel-west-bank-jenin-raids.html</link>
       <description><![CDATA[据巴勒斯坦卫生部称，至少有 10 人在突袭中丧生。巴勒斯坦官员告诉瓦法通讯社，已有数十人被捕。]]></description>
@@ -41,32 +90,11 @@
       <pubDate>Wed, 22 Jan 2025 13:58:50 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普如何在早期命令中突破总统权力的界限</title>
-      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-executive-orders.html</link>
-      <description><![CDATA[在一系列单方面行政行动中，特朗普重新提起了第一任期内备受争议的总统权力主张，并提出了一些新主张。法庭之争似乎有可能爆发。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-executive-orders.html</guid>
-      <pubDate>Wed, 22 Jan 2025 12:34:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>将墨西哥贩毒集团列为“恐怖分子”可能使美国公司面临制裁</title>
-      <link>https://www.nytimes.com/2025/01/22/world/americas/mexico-cartel-terrorists-trade.html</link>
-      <description><![CDATA[由于犯罪集团涉足农业和旅游等领域，导致一些美国企业容易受到制裁，因此将美国企业与卡特尔活动隔离开来几乎是不可能的。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/world/americas/mexico-cartel-terrorists-trade.html</guid>
-      <pubDate>Wed, 22 Jan 2025 10:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
+      <title>加沙一家人返回家园，但家园已不复存在。</title>
       <link>https://www.nytimes.com/2025/01/22/world/middleeast/gaze-destruction.html</link>
       <description><![CDATA[“我们花了几分钟才接受这个事实：这堆瓦砾就是我们的家，”伊斯兰·达赫利兹 (Islam Dahliz) 说，他的家人于五月被以色列军队命令撤离拉法。]]></description>
       <guid>https://www.nytimes.com/2025/01/22/world/middleeast/gaze-destruction.html</guid>
       <pubDate>Wed, 22 Jan 2025 10:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊顿大火烧毁了阿尔塔迪纳一家受欢迎的小餐馆小红母鸡咖啡店</title>
-      <link>https://www.nytimes.com/2025/01/22/us/eaton-fire-altadena-california.html</link>
-      <description><![CDATA[在伊顿大火烧毁之前，小红母鸡咖啡店几十年来一直为人们提供玉米粥和社区服务。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/us/eaton-fire-altadena-california.html</guid>
-      <pubDate>Wed, 22 Jan 2025 10:02:06 GMT</pubDate>
     </item>
     <item>
       <title>朝鲜与俄罗斯并肩作战，发动自己的战争</title>
@@ -76,39 +104,11 @@
       <pubDate>Wed, 22 Jan 2025 10:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>伊顿火灾人员集中的阿尔塔迪纳地区疏散命令延迟</title>
-      <link>https://www.nytimes.com/2025/01/22/us/evacuation-orders-eaton-fire-altadena-california.html</link>
-      <description><![CDATA[伊顿火灾中丧生的 17 人都住在一个疏散命令比其他地区晚几个小时才下达的地区，尽管附近的房屋已经着火。有些人根本没有收到警告。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/us/evacuation-orders-eaton-fire-altadena-california.html</guid>
-      <pubDate>Wed, 22 Jan 2025 10:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>债务如何阻碍特朗普的议程</title>
-      <link>https://www.nytimes.com/2025/01/22/us/politics/trump-agenda-debt-republicans.html</link>
-      <description><![CDATA[共和党正在寻找方法来支付特朗普总统昂贵的计划，同时避免华尔街的恐慌。]]></description>
-      <guid>https://www.nytimes.com/2025/01/22/us/politics/trump-agenda-debt-republicans.html</guid>
-      <pubDate>Wed, 22 Jan 2025 10:01:32 GMT</pubDate>
-    </item>
-    <item>
       <title>Adrian Wojnarowski 为何要减薪 99%？为了拯救他热爱的球队。</title>
       <link>https://www.nytimes.com/2025/01/22/magazine/adrian-wojnarowski-college-basketball.html</link>
       <description><![CDATA[阿德里安·沃伊纳罗夫斯基 (Adrian Wojnarowski) 正努力帮助圣博纳旺蒂尔的小型篮球项目在可怕的新大学体育世界中蓬勃发展。]]></description>
       <guid>https://www.nytimes.com/2025/01/22/magazine/adrian-wojnarowski-college-basketball.html</guid>
       <pubDate>Wed, 22 Jan 2025 10:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>向特朗普发出请求的主教玛丽安·埃德加·巴德是谁？</title>
-      <link>https://www.nytimes.com/2025/01/21/us/politics/bishop-mariann-edgar-budde-trump.html</link>
-      <description><![CDATA[巴德主教是第一位担任华盛顿圣公会教区精神领袖的女性，她在特朗普总统第一任期内也向他传达了信息。]]></description>
-      <guid>https://www.nytimes.com/2025/01/21/us/politics/bishop-mariann-edgar-budde-trump.html</guid>
-      <pubDate>Wed, 22 Jan 2025 01:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>出生公民权的改变也会影响签证持有人</title>
-      <link>https://www.nytimes.com/2025/01/21/us/politics/birthright-citizenship-visa-holders.html</link>
-      <description><![CDATA[特朗普总统的公开言论主要集中在无证移民问题上，但他签署的一系列新命令也会影响那些寻求合法进入美国的人。]]></description>
-      <guid>https://www.nytimes.com/2025/01/21/us/politics/birthright-citizenship-visa-holders.html</guid>
-      <pubDate>Wed, 22 Jan 2025 01:22:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

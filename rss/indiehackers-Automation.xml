@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>自动化 | 帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 21:08:33 GMT</lastBuildDate>
     <item>
       <title>轻松将注册表格添加到您的 SaaS 或新闻通讯中！</title>
       <link>https://feed.indiehackers.world/post/8aedd1606a</link>
@@ -26,14 +26,23 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Fri, 11 Nov 2022 12:53:19 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>自动化工作流程。您有规划吗？</title>
       <link>https://feed.indiehackers.world/post/23ad87b045</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[我对无代码操作员及其工作流程感到好奇。
+特别是自动化工作流程规划。
+是否值得规划？
+对于复杂的自动化，您是否觉得有必要了解您使用的自动化平台之外的“事物”如何连接？
+如果是，您使用什么？：
+是视觉效果（箭头和方框）吗？
+是文本吗？
+什么平台？
+希望您分享您的想法
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/23ad87b045</guid>
       <pubDate>Thu, 30 Jun 2022 15:06:16 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>如何从博客或时事通讯的 RSS 源自动发布到社交媒体</title>
       <link>https://feed.indiehackers.world/post/d50c612554</link>
       <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/d50c612554</guid>
@@ -42,14 +51,20 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>像摇滚明星一样将 Intercom 连接到 Notion！</title>
       <link>https://feed.indiehackers.world/post/6026810c49</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/6026810c49</guid>
       <pubDate>Fri, 26 Nov 2021 09:34:08 GMT</pubDate>
     </item>
     <item>
       <title>您是否已经因 Stripe 缺乏分析功能而苦恼？我可能有一个解决方案。</title>
       <link>https://feed.indiehackers.world/post/08f4a37402</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[嗨，独立黑客们，
+最近，Airtable 发布了“界面”，这是一种使用 Airtable 数据进行一些 BI 的方法。
+一个月来，我一直对 Stripe 缺乏分析功能感到沮丧，我告诉自己，这个新的 Airtable 功能可能是对抗我沮丧的一种方法。
+我花了半天时间构建 Stripe/Airtable 集成并在自定义界面中显示数据。
+结果真的很有趣，我录制了一个带有测试数据的视频来展示它 --&gt; https://www.loom.com/share/8583a20c59204d0bb4e5216d1a2cc9b1?sharedAppSource=personal_library
+对于那些遇到过这个问题的人，你实施了哪种解决方案？
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/08f4a37402</guid>
       <pubDate>Fri, 19 Nov 2021 15:44:53 GMT</pubDate>
     </item>
@@ -63,7 +78,7 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>Airtable 自动化——每天自动向我发送电子邮件，告知我的个人想法和励志名言。</title>
       <link>https://feed.indiehackers.world/post/189c7b4153</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[Discord Indiehackers 聊天广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/189c7b4153</guid>
       <pubDate>Tue, 19 Oct 2021 17:34:14 GMT</pubDate>
     </item>
@@ -86,7 +101,9 @@ Discord Indiehackers Chat广告这里]]></description>
     <item>
       <title>每个软件测试人员今年都应该收藏的 6 个网站</title>
       <link>https://feed.indiehackers.world/post/9a037e8b14</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[考虑到这一点，我们整理了一份对任何测试人员都非常有用的顶级网站列表。借助这些资源，您将能够探索软件测试原则、趋势和最新进展。所以请继续阅读！
+阅读更多：每个软件测试人员今年都应该收藏的 6 个网站
+Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/9a037e8b14</guid>
       <pubDate>Mon, 07 Jun 2021 15:49:38 GMT</pubDate>
     </item>
