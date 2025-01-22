@@ -4,13 +4,83 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 22 Jan 2025 09:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 12:19:36 GMT</lastBuildDate>
     <item>
-      <title>12 岁男孩被刺身亡，青少年被捕</title>
-      <link>https://www.bbc.com/news/articles/cvg8q80npwxo</link>
-      <description><![CDATA[周二下午发生刺伤事件后，一名 14 岁男孩因涉嫌谋杀而被捕。]]></description>
-      <guid>https://www.bbc.com/news/articles/cvg8q80npwxo</guid>
-      <pubDate>Wed, 22 Jan 2025 09:00:30 GMT</pubDate>
+      <title>风暴伊奥玟来临前，天气预警升级为黄色</title>
+      <link>https://www.bbc.com/weather/articles/cr46z2dv606o</link>
+      <description><![CDATA[风暴伊奥温将于周五给英国部分地区带来强风，可能造成大面积破坏]]></description>
+      <guid>https://www.bbc.com/weather/articles/cr46z2dv606o</guid>
+      <pubDate>Wed, 22 Jan 2025 12:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普再次掌权后做了什么</title>
+      <link>https://www.bbc.com/news/articles/ced961egp65o</link>
+      <description><![CDATA[这位共和党人已经快速开始了他的第二任期。以下是他迄今为止所做工作的简要指南。]]></description>
+      <guid>https://www.bbc.com/news/articles/ced961egp65o</guid>
+      <pubDate>Wed, 22 Jan 2025 12:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>被定罪的美国国会大厦暴徒拒绝特朗普赦免</title>
+      <link>https://www.bbc.com/news/articles/cvged988377o</link>
+      <description><![CDATA[前“Maga 奶奶”帕梅拉·汉普希尔 (Pamela Hemphill) 告诉 BBC，特朗普政府正在试图“改写历史”。]]></description>
+      <guid>https://www.bbc.com/news/articles/cvged988377o</guid>
+      <pubDate>Wed, 22 Jan 2025 11:58:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>弓弩杀手承认谋杀母亲和女儿</title>
+      <link>https://www.bbc.com/news/articles/cy8pd7dn8v6o</link>
+      <description><![CDATA[凯尔·克利福德承认于 7 月在家中杀害了卡罗尔、汉娜和路易斯·亨特。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy8pd7dn8v6o</guid>
+      <pubDate>Wed, 22 Jan 2025 11:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>演技还是骚扰？明星们因删减片段争执不休</title>
+      <link>https://www.bbc.com/news/articles/clyen56dwwno</link>
+      <description><![CDATA[贾斯汀·巴尔多尼称，录像显示他没有对布莱克·莱弗利进行性骚扰，但她的说法却相反。]]></description>
+      <guid>https://www.bbc.com/news/articles/clyen56dwwno</guid>
+      <pubDate>Wed, 22 Jan 2025 11:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国借款意外增加，里夫斯受打击</title>
+      <link>https://www.bbc.com/news/articles/cpwxzpqrnjko</link>
+      <description><![CDATA[借款（支出和税收收入之间的差额）上个月为 178 亿英镑，这给财政大臣带来了更大压力。]]></description>
+      <guid>https://www.bbc.com/news/articles/cpwxzpqrnjko</guid>
+      <pubDate>Wed, 22 Jan 2025 11:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>导致土耳其酒店火灾的失误</title>
+      <link>https://www.bbc.com/news/articles/cp82yk6x3eko</link>
+      <description><![CDATA[一些幸存者没有听到火警，有人声称酒店的消防安全存在缺陷。]]></description>
+      <guid>https://www.bbc.com/news/articles/cp82yk6x3eko</guid>
+      <pubDate>Wed, 22 Jan 2025 11:17:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普赦免暗网市场丝绸之路创始人</title>
+      <link>https://www.bbc.com/news/articles/cz7e0jve875o</link>
+      <description><![CDATA[特朗普称，他已经打电话给乌布利希的母亲，告诉她他已经完全赦免了她的儿子。]]></description>
+      <guid>https://www.bbc.com/news/articles/cz7e0jve875o</guid>
+      <pubDate>Wed, 22 Jan 2025 11:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国科技巨头宣布斥资 5000 亿美元打造“星际之门”人工智能计划</title>
+      <link>https://www.bbc.com/news/articles/cy4m84d2xz2o</link>
+      <description><![CDATA[OpenAI、Oracle、软银和MGX联手打造人工智能基础设施。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy4m84d2xz2o</guid>
+      <pubDate>Wed, 22 Jan 2025 10:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大量非法倾倒垃圾中发现的证据</title>
+      <link>https://www.bbc.com/news/articles/cp8kjx6g0w7o</link>
+      <description><![CDATA[调查人员表示，他们正在跟进多条线索，寻找非法倾倒废物的人。]]></description>
+      <guid>https://www.bbc.com/news/articles/cp8kjx6g0w7o</guid>
+      <pubDate>Wed, 22 Jan 2025 10:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国税务海关总署否认提供“故意低劣”的电话服务</title>
+      <link>https://www.bbc.com/news/articles/cn4zjnd2llyo</link>
+      <description><![CDATA[数千名等待英国税务海关总署热线电话的人表示，他们等了 70 分钟后就被断线了。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn4zjnd2llyo</guid>
+      <pubDate>Wed, 22 Jan 2025 10:08:05 GMT</pubDate>
     </item>
     <item>
       <title>值得关注的六项特朗普行政命令</title>
@@ -20,53 +90,11 @@
       <pubDate>Wed, 22 Jan 2025 08:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>南港袭击事件后，刀具销售监管更加严格</title>
-      <link>https://www.bbc.com/news/articles/cvg85lkpz0zo</link>
-      <description><![CDATA[根据政府计划，网上购物者将被要求提交身份证件并录制现场视频以证明他们的年龄。]]></description>
-      <guid>https://www.bbc.com/news/articles/cvg85lkpz0zo</guid>
-      <pubDate>Wed, 22 Jan 2025 08:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>骗取福利的人可能会被吊销驾驶执照</title>
-      <link>https://www.bbc.com/news/articles/cvg9px4q0y6o</link>
-      <description><![CDATA[拟议的新法律还将赋予部长们更大的权力来要求提供银行账户信息。]]></description>
-      <guid>https://www.bbc.com/news/articles/cvg9px4q0y6o</guid>
-      <pubDate>Wed, 22 Jan 2025 08:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国 12 月借款创四年新高，令人意外</title>
-      <link>https://www.bbc.com/news/articles/cpwxzpqrnjko</link>
-      <description><![CDATA[借款（支出与税收收入之间的差额）上个月为 178 亿英镑。]]></description>
-      <guid>https://www.bbc.com/news/articles/cpwxzpqrnjko</guid>
-      <pubDate>Wed, 22 Jan 2025 08:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国税务海关总署否认提供“故意低劣”的电话服务</title>
-      <link>https://www.bbc.com/news/articles/cn4zjnd2llyo</link>
-      <description><![CDATA[数千名等待英国税务海关总署热线电话的人表示，他们等了 70 分钟后就被断线了。]]></description>
-      <guid>https://www.bbc.com/news/articles/cn4zjnd2llyo</guid>
-      <pubDate>Wed, 22 Jan 2025 07:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普就职典礼后习近平与普京举行视频通话</title>
-      <link>https://www.bbc.com/news/articles/cg7z1rj2vdeo</link>
-      <description><![CDATA[两国领导人承诺推动中俄关系迈上新台阶。]]></description>
-      <guid>https://www.bbc.com/news/articles/cg7z1rj2vdeo</guid>
-      <pubDate>Wed, 22 Jan 2025 05:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国科技巨头宣布高达5000亿美元的人工智能计划</title>
-      <link>https://www.bbc.com/news/articles/cy4m84d2xz2o</link>
-      <description><![CDATA[OpenAI、甲骨文、软银联手打造人工智能基础设施。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy4m84d2xz2o</guid>
-      <pubDate>Wed, 22 Jan 2025 04:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普总统任期第二天发生了什么？</title>
-      <link>https://www.bbc.com/news/articles/cx2jelpk9x2o</link>
-      <description><![CDATA[特朗普的团队采用了新的移民规则、人工智能协议，并计划清除 DEI 计划和工作人员。]]></description>
-      <guid>https://www.bbc.com/news/articles/cx2jelpk9x2o</guid>
-      <pubDate>Wed, 22 Jan 2025 04:25:49 GMT</pubDate>
+      <title>总统赦免的意义以及谁将获得赦免</title>
+      <link>https://www.bbc.com/news/articles/c99x07ny8lro</link>
+      <description><![CDATA[特朗普赦免了近 1,600 名因 2021 年美国国会大厦骚乱而被指控的人。]]></description>
+      <guid>https://www.bbc.com/news/articles/c99x07ny8lro</guid>
+      <pubDate>Wed, 22 Jan 2025 08:48:12 GMT</pubDate>
     </item>
     <item>
       <title>罕见暴风雪袭击美国南部，造成四人死亡</title>
@@ -76,39 +104,11 @@
       <pubDate>Wed, 22 Jan 2025 04:14:21 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普赦免暗网市场丝绸之路创始人罗斯·乌布利希</title>
-      <link>https://www.bbc.com/news/articles/cz7e0jve875o</link>
-      <description><![CDATA[特朗普称，他已经打电话给乌布利希的母亲，告诉她他已经完全赦免了她的儿子。]]></description>
-      <guid>https://www.bbc.com/news/articles/cz7e0jve875o</guid>
-      <pubDate>Wed, 22 Jan 2025 01:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>议员敦促将饮食失调视为紧急情况</title>
-      <link>https://www.bbc.com/news/articles/c897g3d748zo</link>
-      <description><![CDATA[一个跨党派团体表示，厌食症和暴食症等疾病的惊人增长现已成为紧急问题。]]></description>
-      <guid>https://www.bbc.com/news/articles/c897g3d748zo</guid>
-      <pubDate>Wed, 22 Jan 2025 00:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战地诊所耐药性感染急剧增加</title>
-      <link>https://www.bbc.com/news/articles/c20k5wrgz13o</link>
-      <description><![CDATA[战争似乎加速了抗生素耐药病原体在该国的传播。]]></description>
-      <guid>https://www.bbc.com/news/articles/c20k5wrgz13o</guid>
-      <pubDate>Wed, 22 Jan 2025 00:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普赦免 1 月 6 日的被告，让他们几乎得到了他们想要的一切</title>
-      <link>https://www.bbc.com/news/articles/cjw4vjvlgxpo</link>
-      <description><![CDATA[总统团队的一些成员曾表示，在周一下达命令之前，不会释放所有因国会大厦骚乱而被捕的人。]]></description>
-      <guid>https://www.bbc.com/news/articles/cjw4vjvlgxpo</guid>
-      <pubDate>Tue, 21 Jan 2025 23:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>大量非法倾倒垃圾中发现的证据</title>
-      <link>https://www.bbc.com/news/articles/cp8kjx6g0w7o</link>
-      <description><![CDATA[调查人员表示，他们正在跟进多条线索，寻找非法倾倒废物的人。]]></description>
-      <guid>https://www.bbc.com/news/articles/cp8kjx6g0w7o</guid>
-      <pubDate>Tue, 21 Jan 2025 16:18:25 GMT</pubDate>
+      <title>泰迪·斯威姆斯：“每天我都试着哭一会儿”</title>
+      <link>https://www.bbc.com/news/articles/cn4zzlllen1o</link>
+      <description><![CDATA[《Lose Control》的歌手谈论了男性榜样、成为父亲以及面对偏见等话题。]]></description>
+      <guid>https://www.bbc.com/news/articles/cn4zzlllen1o</guid>
+      <pubDate>Wed, 22 Jan 2025 00:07:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
