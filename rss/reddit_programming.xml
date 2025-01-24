@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 23 Jan 2025 21:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:45:24 GMT</lastBuildDate>
+    <item>
+      <title>“Spawn Me a PR” 尚未准备好处理大型代码库：AI 代码生成的上下文障碍</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the/</link>
+      <description><![CDATA[  由    /u/fosterfriendship  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8fi93/spawn_me_a_pr_isnt_ready_for_large_codebases_the/</guid>
+      <pubDate>Thu, 23 Jan 2025 22:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择可等价名称</title>
+      <link>https://www.reddit.com/r/programming/comments/1i8eyev/picking_equatable_names/</link>
+      <description><![CDATA[  由    /u/thunderseethe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i8eyev/picking_equatable_names/</guid>
+      <pubDate>Thu, 23 Jan 2025 21:44:28 GMT</pubDate>
+    </item>
     <item>
       <title>Spotify 为 GitHub 打包：你的 2024 年代码年</title>
       <link>https://www.reddit.com/r/programming/comments/1i8drfm/spotify_wrapped_for_github_your_2024_year_in_code/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/TerryC_IndieGameDev  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i846fr/ai_is_making_us_worse_programmers_heres_how_to/</guid>
       <pubDate>Thu, 23 Jan 2025 14:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Junie，JetBrains 的编码代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains/</link>
-      <description><![CDATA[  由    /u/ignatovs  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i83vx9/junie_the_coding_agent_by_jetbrains/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>gRPC 真的比 GraphQL 更适合微服务吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/</link>
-      <description><![CDATA[  由    /u/Savram8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i83dra/is_grpc_really_better_for_microservices_than/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:30:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
