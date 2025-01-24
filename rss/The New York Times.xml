@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Jan 2025 06:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 08:59:05 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰击落俄罗斯飞机是否害死了自己？一年过去了，乌克兰仍未表态。</title>
+      <link>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</link>
+      <description><![CDATA[俄罗斯称乌克兰击落了一艘载有 65 名被俘乌克兰人的军用运输机。乌克兰尚未证实其所作所为，也未确认所收到的尸体，也未说明事发过程。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</guid>
+      <pubDate>Fri, 24 Jan 2025 08:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行将利率上调至 2008 年以来最高水平</title>
+      <link>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</link>
+      <description><![CDATA[通胀和工资增长的回升为日本央行提高了利率并宣布长期停滞的结束提供了空间。]]></description>
+      <guid>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</guid>
+      <pubDate>Fri, 24 Jan 2025 07:54:50 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普指责纽森在加州大火中扣留水源。专家对此持有不同意见。</title>
       <link>https://www.nytimes.com/2025/01/23/us/trump-newsom-water-fires.html</link>
       <description><![CDATA[特朗普总统将洛杉矶大火期间缺水归咎于加州的利好政策。但专家表示，他混淆了不同的问题。]]></description>
       <guid>https://www.nytimes.com/2025/01/23/us/trump-newsom-water-fires.html</guid>
       <pubDate>Fri, 24 Jan 2025 05:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰击落俄罗斯飞机是否害死了自己？一年过去了，乌克兰仍未表态。</title>
-      <link>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</link>
-      <description><![CDATA[俄罗斯称乌克兰击落了一艘载有 65 名被俘乌克兰人的军用运输机。乌克兰尚未证实其所作所为，也未确认所收到的尸体，也未说明事发过程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</guid>
-      <pubDate>Fri, 24 Jan 2025 05:01:04 GMT</pubDate>
     </item>
     <item>
       <title>特朗普官员采取行动迅速驱逐拜登暂时允许入境的移民</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[官员们表示，截至周四晚间，大火已蔓延逾 500 英亩，距离任何房屋或建筑物都仅有数英里的路程。]]></description>
       <guid>https://www.nytimes.com/2025/01/23/us/wildfire-san-diego-mexico-border.html</guid>
       <pubDate>Fri, 24 Jan 2025 04:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本将利率上调至 2008 年以来最高水平</title>
-      <link>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</link>
-      <description><![CDATA[在经历长期的停滞之后，通胀和工资的回升为日本央行加息提供了空间。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</guid>
-      <pubDate>Fri, 24 Jan 2025 03:26:05 GMT</pubDate>
     </item>
     <item>
       <title>二手 iPhone 3000 美元？如果有 TikTok，也许可以。</title>
