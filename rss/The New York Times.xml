@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Jan 2025 08:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:08:22 GMT</lastBuildDate>
     <item>
-      <title>乌克兰击落俄罗斯飞机是否害死了自己？一年过去了，乌克兰仍未表态。</title>
-      <link>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</link>
-      <description><![CDATA[俄罗斯称乌克兰击落了一艘载有 65 名被俘乌克兰人的军用运输机。乌克兰尚未证实其所作所为，也未确认所收到的尸体，也未说明事发过程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/24/world/europe/ukraine-russia-belgorod-plane-pows.html</guid>
-      <pubDate>Fri, 24 Jan 2025 08:10:53 GMT</pubDate>
+      <title>特朗普首次总统之行与美国鸡蛋危机</title>
+      <link>https://www.nytimes.com/2025/01/24/podcasts/trump-visits-birthright-egg-crisis.html</link>
+      <description><![CDATA[另外，还有 Kidz Bop 成长的过程。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/podcasts/trump-visits-birthright-egg-crisis.html</guid>
+      <pubDate>Fri, 24 Jan 2025 11:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行将利率上调至 2008 年以来最高水平</title>
-      <link>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</link>
-      <description><![CDATA[通胀和工资增长的回升为日本央行提高了利率并宣布长期停滞的结束提供了空间。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/business/bank-of-japan-interest-rates.html</guid>
-      <pubDate>Fri, 24 Jan 2025 07:54:50 GMT</pubDate>
+      <title>特朗普将访问北卡罗来纳州和加利福尼亚州，但灾难援助仍悬而未决</title>
+      <link>https://www.nytimes.com/2025/01/24/us/politics/trump-north-carolina-california-disaster-aid.html</link>
+      <description><![CDATA[虽然总统表达了对北卡罗来纳州居民的支持，但他批评了加利福尼亚州的民主党领导人，并威胁要停止向该州提供联邦援助。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/us/politics/trump-north-carolina-california-disaster-aid.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>从火灾到泥石流，灾难定义了纽森的任期</title>
+      <link>https://www.nytimes.com/2025/01/24/us/politics/gavin-newsom-california-fires-disasters.html</link>
+      <description><![CDATA[州长加文·纽森面临可能是他一生中最大的政治考验和领导力挑战。他原计划周五在特朗普总统抵达南加州时迎接他。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/us/politics/gavin-newsom-california-fires-disasters.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普称各州应管理灾害。联邦紧急事务管理局前任领导也表示同意。</title>
+      <link>https://www.nytimes.com/2025/01/24/climate/trump-says-states-should-manage-disasters-former-fema-leaders-agree.html</link>
+      <description><![CDATA[总统说：“我宁愿看到各州自己解决自己的问题。”两党的联邦紧急事务管理人员也提出了同样的主张。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/climate/trump-says-states-should-manage-disasters-former-fema-leaders-agree.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的通胀解决方案集中在根本不存在的能源紧急情况上</title>
+      <link>https://www.nytimes.com/2025/01/24/business/trump-energy-emergency-inflation.html</link>
+      <description><![CDATA[经济学家和分析师并不相信石油和天然气产量的扩大会降低消费价格。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/business/trump-energy-emergency-inflation.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>生命大游行：堕胎反对者提高他们的野心</title>
+      <link>https://www.nytimes.com/2025/01/24/us/abortion-march-for-life.html</link>
+      <description><![CDATA[周五的生命游行将汇聚一场受到特朗普第二届政府早期一些举措鼓舞的运动。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/us/abortion-march-for-life.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶可以从过去的大火中学到什么</title>
+      <link>https://www.nytimes.com/2025/01/24/upshot/los-angeles-urban-fire-history.html</link>
+      <description><![CDATA[重建可以成为重新思考事物的机会。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/upshot/los-angeles-urban-fire-history.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:01:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>是的，有些疫苗含有铝。这是好事。</title>
+      <link>https://www.nytimes.com/2025/01/24/health/aluminum-vaccines-kennedy.html</link>
+      <description><![CDATA[R.F.K. Jr. 等人将过敏和其他疾病归咎于这种成分。科学家表示，它实际上可以增强免疫反应。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/health/aluminum-vaccines-kennedy.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>儿科医生尝试新策略来赢得持疫苗怀疑态度的家长的支持</title>
+      <link>https://www.nytimes.com/2025/01/24/well/vaccines-children-pediatricians-trust.html</link>
+      <description><![CDATA[随着人们对医学的信任度下降以及对疫苗犹豫的蔓延，医生正在改变他们谈论儿童救命疫苗的方式。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/well/vaccines-children-pediatricians-trust.html</guid>
+      <pubDate>Fri, 24 Jan 2025 10:00:10 GMT</pubDate>
     </item>
     <item>
       <title>特朗普指责纽森在加州大火中扣留水源。专家对此持有不同意见。</title>
@@ -38,28 +87,14 @@
       <link>https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html</link>
       <description><![CDATA[Instagram 和 Facebook 上最近隐藏了一些与获取堕胎药相关的帖子，一些账户被暂停，但后来又恢复。]]></description>
       <guid>https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html</guid>
-      <pubDate>Fri, 24 Jan 2025 04:41:22 GMT</pubDate>
+      <pubDate>Fri, 24 Jan 2025 04:41:23 GMT</pubDate>
     </item>
     <item>
-      <title>消防员在美墨边境附近扑灭熊熊大火</title>
-      <link>https://www.nytimes.com/2025/01/23/us/wildfire-san-diego-mexico-border.html</link>
-      <description><![CDATA[官员们表示，截至周四晚间，大火已蔓延逾 500 英亩，距离任何房屋或建筑物都仅有数英里的路程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/us/wildfire-san-diego-mexico-border.html</guid>
-      <pubDate>Fri, 24 Jan 2025 04:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>二手 iPhone 3000 美元？如果有 TikTok，也许可以。</title>
-      <link>https://www.nytimes.com/2025/01/23/business/tiktok-app-iphones.html</link>
-      <description><![CDATA[由于社交媒体平台 TikTok 仍未在应用商店中上架，搭载该平台的手机售价高得惊人。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/business/tiktok-app-iphones.html</guid>
-      <pubDate>Fri, 24 Jan 2025 02:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>新研究发现堕胎药米非司酮的潜在替代品</title>
-      <link>https://www.nytimes.com/2025/01/23/health/abortion-pill-ella.html</link>
-      <description><![CDATA[这项研究可能会进一步加剧堕胎政治的两极分化，因为研究中的药物是紧急避孕药的关键成分。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/health/abortion-pill-ella.html</guid>
-      <pubDate>Fri, 24 Jan 2025 02:30:11 GMT</pubDate>
+      <title>特朗普赦免封锁诊所的反堕胎活动人士</title>
+      <link>https://www.nytimes.com/2025/01/23/us/politics/trump-pardon-abortion-clinic-activists.html</link>
+      <description><![CDATA[这一举措是在华盛顿举行的年度反堕胎集会“为生命游行”之前采取的，预计副总统 JD Vance 将向参加者发表讲话。]]></description>
+      <guid>https://www.nytimes.com/2025/01/23/us/politics/trump-pardon-abortion-clinic-activists.html</guid>
+      <pubDate>Fri, 24 Jan 2025 02:07:55 GMT</pubDate>
     </item>
     <item>
       <title>特朗普让军队重新卷入政治和文化战争</title>
@@ -69,46 +104,11 @@
       <pubDate>Fri, 24 Jan 2025 01:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普誓言解密肯尼迪、罗伯特·肯尼迪和马丁·路德·金遇刺事件档案</title>
-      <link>https://www.nytimes.com/2025/01/23/us/politics/trump-declassify-jfk-mlk-assassinations.html</link>
-      <description><![CDATA[特朗普总统要求安全机构制定计划，公开与约翰·F·肯尼迪、罗伯特·F·肯尼迪和马丁·路德·金博士遇刺事件有关的所有文件。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/us/politics/trump-declassify-jfk-mlk-assassinations.html</guid>
-      <pubDate>Thu, 23 Jan 2025 22:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>禽流感袭击长岛农场，10 万只鸭子将被扑杀</title>
-      <link>https://www.nytimes.com/2025/01/23/nyregion/long-island-duck-farm-bird-flu.html</link>
-      <description><![CDATA[传染性极强的 H5N1 病毒株已在全国范围内引发疫情。现在，长岛最后一家养鸭场必须扑杀所有鸭群，可能因此倒闭，其老板说。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/nyregion/long-island-duck-farm-bird-flu.html</guid>
-      <pubDate>Thu, 23 Jan 2025 22:36:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的 FBI 人选卡什·帕特尔 (Kash Patel) 认为 QAnon 是好的，而 FBI 是坏的</title>
-      <link>https://www.nytimes.com/2025/01/23/us/politics/kash-patel-conspiracy-theories-qanon.html</link>
-      <description><![CDATA[卡什·帕特尔 (Kash Patel) 对 QAnon 阴谋论的公开评论表明，他更多地将该阴谋论的追随者视为需要争取的受众，而不是需要遵循的意识形态。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/us/politics/kash-patel-conspiracy-theories-qanon.html</guid>
-      <pubDate>Thu, 23 Jan 2025 22:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里王子的和解对他和英国王室意味着什么</title>
-      <link>https://www.nytimes.com/2025/01/23/world/europe/prince-harry-murdoch-trial-royals.html</link>
-      <description><![CDATA[哈里王子赢得了鲁珀特·默多克旗下英国小报的道歉和赔偿。诉讼的结束是否也有助于弥合他与哥哥威廉王子和父亲查理三世国王之间的裂痕？]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/world/europe/prince-harry-murdoch-trial-royals.html</guid>
-      <pubDate>Thu, 23 Jan 2025 21:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨克勒家族提高与普渡大学阿片类药物案件和解的条件，并附加了新条件</title>
-      <link>https://www.nytimes.com/2025/01/23/health/sacklers-purdue-settlement-opioids.html</link>
-      <description><![CDATA[由 15 个州组成的团体已达成一项临时新协议，要求它们从和解金中拨出数亿美元作为该家庭的法律辩护基金。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/health/sacklers-purdue-settlement-opioids.html</guid>
-      <pubDate>Thu, 23 Jan 2025 20:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>达赖喇嘛在新书中分享对中国和未来的看法</title>
-      <link>https://www.nytimes.com/2025/01/23/books/dalai-lama-book-voice-for-the-voiceless.html</link>
-      <description><![CDATA[西藏精神领袖出版过大量著作，但很少深入探讨政治。如今，年近 90 岁的他分享了自己数十年来与中国打交道的详细个人经历。]]></description>
-      <guid>https://www.nytimes.com/2025/01/23/books/dalai-lama-book-voice-for-the-voiceless.html</guid>
-      <pubDate>Thu, 23 Jan 2025 20:00:06 GMT</pubDate>
+      <title>巴黎加纳歌剧院 150 年的“看与被看”</title>
+      <link>https://www.nytimes.com/2025/01/23/arts/music/palais-garnier-paris.html</link>
+      <description><![CDATA[巴黎歌剧院开业已有 150 年。如今，它仍然是一座正常运营的剧院——本季将有 172 场演出。]]></description>
+      <guid>https://www.nytimes.com/2025/01/23/arts/music/palais-garnier-paris.html</guid>
+      <pubDate>Thu, 23 Jan 2025 17:00:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
