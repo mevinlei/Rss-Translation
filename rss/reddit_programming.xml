@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 25 Jan 2025 09:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 12:16:13 GMT</lastBuildDate>
+    <item>
+      <title>CSS Grid 与 Flexbox：何时使用哪个布局</title>
+      <link>https://www.reddit.com/r/programming/comments/1i9lpmd/css_grid_vs_flexbox_when_to_use_each_for_layouts/</link>
+      <description><![CDATA[  由    /u/Brief-Adeptness-7110  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i9lpmd/css_grid_vs_flexbox_when_to_use_each_for_layouts/</guid>
+      <pubDate>Sat, 25 Jan 2025 12:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS Grid 与 Flexbox：何时使用哪个布局</title>
+      <link>https://www.reddit.com/r/programming/comments/1i9le3g/css_grid_vs_flexbox_when_to_use_each_for_layouts/</link>
+      <description><![CDATA[  由    /u/Brief-Adeptness-7110  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i9le3g/css_grid_vs_flexbox_when_to_use_each_for_layouts/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在建立一个由社区驱动的欧洲优秀科技列表</title>
+      <link>https://www.reddit.com/r/programming/comments/1i9k9gd/i_im_building_a_communitydriven_list_of_awesome/</link>
+      <description><![CDATA[  由    /u/uscneps  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i9k9gd/i_im_building_a_communitydriven_list_of_awesome/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写 NES 模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/1i9johy/writing_a_nes_emulator/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i9johy/writing_a_nes_emulator/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:50:23 GMT</pubDate>
+    </item>
     <item>
       <title>CMD 工具可简化 venvs 的创建和激活</title>
       <link>https://www.reddit.com/r/programming/comments/1i9hs88/cmd_tool_to_streamline_creation_and_activation_of/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[  由    /u/random728373  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i93m4a/the_hidden_complexity_of_scaling_websockets/</guid>
       <pubDate>Fri, 24 Jan 2025 19:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jailer 16.5.6：数据库子集和关系数据浏览工具。</title>
-      <link>https://www.reddit.com/r/programming/comments/1i91atm/jailer_1656_database_subsetting_and_relational/</link>
-      <description><![CDATA[  由    /u/Plane-Discussion  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i91atm/jailer_1656_database_subsetting_and_relational/</guid>
-      <pubDate>Fri, 24 Jan 2025 17:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>将深度学习模型集成到你的 NLP 管道中</title>
-      <link>https://www.reddit.com/r/programming/comments/1i90scl/integrating_deep_learning_models_into_your_nlp/</link>
-      <description><![CDATA[  由    /u/thecoode  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i90scl/integrating_deep_learning_models_into_your_nlp/</guid>
-      <pubDate>Fri, 24 Jan 2025 17:26:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在创造一代文盲程序员</title>
-      <link>https://www.reddit.com/r/programming/comments/1i8zi9v/ai_is_creating_a_generation_of_illiterate/</link>
-      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i8zi9v/ai_is_creating_a_generation_of_illiterate/</guid>
-      <pubDate>Fri, 24 Jan 2025 16:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 RAG 通过 Deepseek、Langchain 和 Streamlit 与 PDF 聊天</title>
-      <link>https://www.reddit.com/r/programming/comments/1i8ypai/use_rag_to_chat_with_pdfs_using_deepseek/</link>
-      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i8ypai/use_rag_to_chat_with_pdfs_using_deepseek/</guid>
-      <pubDate>Fri, 24 Jan 2025 16:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
