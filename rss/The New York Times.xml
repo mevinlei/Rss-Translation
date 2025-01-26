@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 26 Jan 2025 06:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 08:21:49 GMT</lastBuildDate>
+    <item>
+      <title>印度是非法移民的主要来源，希望渡过特朗普风暴</title>
+      <link>https://www.nytimes.com/2025/01/26/world/asia/india-illegal-immigration-trump.html</link>
+      <description><![CDATA[恐惧和不确定性正在印度蔓延，印度是拉丁美洲以外向美国输送非法移民最多的国家。]]></description>
+      <guid>https://www.nytimes.com/2025/01/26/world/asia/india-illegal-immigration-trump.html</guid>
+      <pubDate>Sun, 26 Jan 2025 08:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩撤军期限已过，暴力事件频发</title>
+      <link>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</link>
+      <description><![CDATA[黎巴嫩官员称，以色列军队在该国南部至少造成 2 人死亡，31 人受伤。真主党和以色列已同意从周日起从该地区撤军。]]></description>
+      <guid>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</guid>
+      <pubDate>Sun, 26 Jan 2025 08:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>世界从叙利亚学到了什么？</title>
       <link>https://www.nytimes.com/2025/01/26/opinion/syria-assad.html</link>
@@ -18,20 +32,6 @@
       <description><![CDATA[特朗普总统表示，他已与约旦领导人进行了交谈，并计划于周日与埃及领导人通话。加沙 200 万居民中的大多数在 15 个月的战斗中流离失所。]]></description>
       <guid>https://www.nytimes.com/2025/01/25/us/politics/trump-palestinians-jordan-egypt-refugees.html</guid>
       <pubDate>Sun, 26 Jan 2025 05:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度是非法移民的主要来源，希望渡过特朗普风暴</title>
-      <link>https://www.nytimes.com/2025/01/26/world/asia/india-illegal-immigration-trump.html</link>
-      <description><![CDATA[恐惧和不确定性正在印度蔓延，印度是拉丁美洲以外向美国输送非法移民最多的国家。]]></description>
-      <guid>https://www.nytimes.com/2025/01/26/world/asia/india-illegal-immigration-trump.html</guid>
-      <pubDate>Sun, 26 Jan 2025 05:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列准备继续驻军，黎巴嫩新领导人面临考验</title>
-      <link>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</link>
-      <description><![CDATA[以色列对黎巴嫩南部的任何长期占领都可能为真主党注入新的活力，对黎巴嫩新总统和总理的政治势头构成挑战。]]></description>
-      <guid>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</guid>
-      <pubDate>Sun, 26 Jan 2025 05:01:04 GMT</pubDate>
     </item>
     <item>
       <title>特朗普在拉斯维加斯发表演讲庆祝胜利，宣布取消小费税</title>
