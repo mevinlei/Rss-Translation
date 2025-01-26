@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 26 Jan 2025 12:10:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 14:40:13 GMT</lastBuildDate>
     <item>
-      <title>以色列封锁加沙人进入北部，指责哈马斯违反停火协议</title>
-      <link>https://www.nytimes.com/2025/01/26/world/middleeast/israel-gaza-cease-fire.html</link>
-      <description><![CDATA[预计部分部队将撤离，以便数十万流离失所的加沙人返回家园。但军方表示，在此之前的人质交换并未按照协议进行。]]></description>
-      <guid>https://www.nytimes.com/2025/01/26/world/middleeast/israel-gaza-cease-fire.html</guid>
-      <pubDate>Sun, 26 Jan 2025 11:41:28 GMT</pubDate>
+      <title>特朗普敦促约旦和埃及接纳巴勒斯坦人以“清理”加沙</title>
+      <link>https://www.nytimes.com/2025/01/26/world/middleeast/trump-gaza-jordan-egypt.html</link>
+      <description><![CDATA[特朗普总统表示，他已与约旦领导人进行了交谈，并计划与埃及领导人通话。特朗普的建议与以色列极右翼人士的提议相呼应。一名哈马斯官员拒绝了这一想法。]]></description>
+      <guid>https://www.nytimes.com/2025/01/26/world/middleeast/trump-gaza-jordan-egypt.html</guid>
+      <pubDate>Sun, 26 Jan 2025 14:13:18 GMT</pubDate>
     </item>
     <item>
-      <title>以色列撤军期限已过，黎巴嫩爆发暴力事件</title>
-      <link>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</link>
-      <description><![CDATA[黎巴嫩官员称，以色列军队在该国南部造成至少三人死亡，数十人受伤。以色列已同意从周日起从该地区撤军。]]></description>
-      <guid>https://www.nytimes.com/2025/01/26/world/middleeast/lebanon-israel-hezbollah.html</guid>
-      <pubDate>Sun, 26 Jan 2025 11:23:02 GMT</pubDate>
+      <title>好莱坞的工作机会本来就很少。然后，大火突然来袭。</title>
+      <link>https://www.nytimes.com/2025/01/26/movies/los-angeles-wildfires-hollywood-production.html</link>
+      <description><![CDATA[野火使得有关如何重振洛杉矶最具代表性和主导地位的行业之一——影视制作——的讨论变得更加紧迫。]]></description>
+      <guid>https://www.nytimes.com/2025/01/26/movies/los-angeles-wildfires-hollywood-production.html</guid>
+      <pubDate>Sun, 26 Jan 2025 14:06:47 GMT</pubDate>
     </item>
     <item>
       <title>韩国总统尹永哲被起诉</title>
       <link>https://www.nytimes.com/2025/01/26/world/asia/south-korea-yoon-indicted-martial-law.html</link>
       <description><![CDATA[总统尹锡烈将与他的前国防部长以及其他参与实施短暂戒严的人一起接受审判。]]></description>
       <guid>https://www.nytimes.com/2025/01/26/world/asia/south-korea-yoon-indicted-martial-law.html</guid>
-      <pubDate>Sun, 26 Jan 2025 11:17:00 GMT</pubDate>
+      <pubDate>Sun, 26 Jan 2025 11:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>《我们和他们》风靡一时</title>
+      <link>https://www.nytimes.com/2025/01/26/opinion/trump-maga-schmitt.html</link>
+      <description><![CDATA[一位德国政治理论家帮助解释 MAGA 道德。]]></description>
+      <guid>https://www.nytimes.com/2025/01/26/opinion/trump-maga-schmitt.html</guid>
+      <pubDate>Sun, 26 Jan 2025 11:00:18 GMT</pubDate>
     </item>
     <item>
       <title>一场大火烧毁了几乎所有东西，现在的孩子们是怎样的感受</title>
       <link>https://www.nytimes.com/2025/01/26/us/children-los-angeles-fires.html</link>
       <description><![CDATA[十个孩子讲述了在洛杉矶大火中失去家园、学校和社区的经历。他们讨论了他们担心的事情以及让他们感到高兴的事情。]]></description>
       <guid>https://www.nytimes.com/2025/01/26/us/children-los-angeles-fires.html</guid>
-      <pubDate>Sun, 26 Jan 2025 10:01:45 GMT</pubDate>
+      <pubDate>Sun, 26 Jan 2025 10:01:46 GMT</pubDate>
     </item>
     <item>
       <title>伊隆·马斯克，电子游戏之王？好吧，也许不是。</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[游戏是这位亿万富翁公众形象的重要组成部分。但其他玩家质疑他是否有时间或技能来实现他声称的成就。]]></description>
       <guid>https://www.nytimes.com/2025/01/26/technology/elon-musk-video-games-diablo-path-of-exile.html</guid>
       <pubDate>Sun, 26 Jan 2025 10:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>好莱坞的工作机会本来就很少。然后，大火突然来袭。</title>
-      <link>https://www.nytimes.com/2025/01/26/movies/los-angeles-wildfires-hollywood-production.html</link>
-      <description><![CDATA[野火使得有关如何重振洛杉矶最具代表性和主导地位的行业之一——影视制作——的讨论变得更加紧迫。]]></description>
-      <guid>https://www.nytimes.com/2025/01/26/movies/los-angeles-wildfires-hollywood-production.html</guid>
-      <pubDate>Sun, 26 Jan 2025 10:01:28 GMT</pubDate>
     </item>
     <item>
       <title>2024 年选举中，大多数竞选在开始前就已结束</title>
@@ -66,7 +66,7 @@
       <link>https://www.nytimes.com/2025/01/26/us/politics/trump-boundaries-presidency.html</link>
       <description><![CDATA[与第一任期相比，特朗普总统对总统能力和应做事情的规范和期望提出了更大的根本挑战。]]></description>
       <guid>https://www.nytimes.com/2025/01/26/us/politics/trump-boundaries-presidency.html</guid>
-      <pubDate>Sun, 26 Jan 2025 08:00:26 GMT</pubDate>
+      <pubDate>Sun, 26 Jan 2025 08:00:27 GMT</pubDate>
     </item>
     <item>
       <title>纽约市拥堵收费结果好坏参半，但部分通勤情况有所改善</title>
@@ -74,13 +74,6 @@
       <description><![CDATA[尽管一些司机和公交车乘客在交通堵塞中的时间减少了，但许多通勤者仍然反对纽约市新的收费计划。]]></description>
       <guid>https://www.nytimes.com/2025/01/26/nyregion/nyc-congestion-pricing-results.html</guid>
       <pubDate>Sun, 26 Jan 2025 08:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普称希望约旦和埃及接收加沙巴勒斯坦人</title>
-      <link>https://www.nytimes.com/2025/01/25/us/politics/trump-palestinians-jordan-egypt-refugees.html</link>
-      <description><![CDATA[特朗普总统表示，他已与约旦领导人进行了交谈，并计划于周日与埃及领导人通话。加沙 200 万居民中的大多数在 15 个月的战斗中流离失所。]]></description>
-      <guid>https://www.nytimes.com/2025/01/25/us/politics/trump-palestinians-jordan-egypt-refugees.html</guid>
-      <pubDate>Sun, 26 Jan 2025 05:36:13 GMT</pubDate>
     </item>
     <item>
       <title>他们正在等待航班。然后特朗普向阿富汗盟友关闭了一扇大门。</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[纽约西部的人们对于从未赢得过超级碗的 NFL 球队怀有深厚的忠诚。今年忠诚会得到回报吗？]]></description>
       <guid>https://www.nytimes.com/2025/01/25/nyregion/buffalo-bills-fans.html</guid>
       <pubDate>Sat, 25 Jan 2025 08:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿尔茨海默病研究中长期存在的欺诈行为</title>
+      <link>https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html</link>
+      <description><![CDATA[研究中的欺诈行为必须终止。]]></description>
+      <guid>https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html</guid>
+      <pubDate>Fri, 24 Jan 2025 13:59:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
