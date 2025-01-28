@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 28 Jan 2025 06:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 09:05:00 GMT</lastBuildDate>
     <item>
-      <title>特朗普政府解雇协助杰克·史密斯调查的检察官</title>
-      <link>https://www.nytimes.com/2025/01/27/us/politics/justice-department-firings-trump-jack-smith.html</link>
-      <description><![CDATA[在该部门最资深的职业官员被调任几个小时后，与特别顾问杰克·史密斯 (Jack Smith) 合作的十多名律师也被解雇。]]></description>
-      <guid>https://www.nytimes.com/2025/01/27/us/politics/justice-department-firings-trump-jack-smith.html</guid>
-      <pubDate>Tue, 28 Jan 2025 05:26:41 GMT</pubDate>
+      <title>科技股暴跌蔓延至亚洲，日本股市下跌</title>
+      <link>https://www.nytimes.com/2025/01/28/business/stocks-sp500-deepseek.html</link>
+      <description><![CDATA[一家鲜为人知的中国人工智能初创公司引发了人们对科技公司估值的担忧，导致美国股市周一出现抛售。]]></description>
+      <guid>https://www.nytimes.com/2025/01/28/business/stocks-sp500-deepseek.html</guid>
+      <pubDate>Tue, 28 Jan 2025 06:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将公开变性人退出军队</title>
+      <link>https://www.nytimes.com/2025/01/28/us/politics/trump-military-transgender-dei-orders.html</link>
+      <description><![CDATA[总统还命令五角大楼终止多元化计划，恢复许多因拒绝接种冠状病毒疫苗而被解雇的军人原职，并建立新的导弹防御系统。]]></description>
+      <guid>https://www.nytimes.com/2025/01/28/us/politics/trump-military-transgender-dei-orders.html</guid>
+      <pubDate>Tue, 28 Jan 2025 06:07:43 GMT</pubDate>
     </item>
     <item>
       <title>越南司机面临高额罚款，但仍遵守交通规则</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[周一，数万名流离失所的巴勒斯坦人跋涉数小时返回加沙北部的家园，这距离以色列在 10 月 7 日对哈马斯发动袭击的报复已经过去了近 16 个月。以色列军队摧毁了整个街区，哈马斯的建筑物也被埋设了炸弹，返回的巴勒斯坦人面对的只是一片废墟。《纽约时报》记者亚当·拉斯贡解释了为什么尽管临时停火取得了重大进展，但通往永久和平的道路仍然复杂而难以捉摸。]]></description>
       <guid>https://www.nytimes.com/video/world/middleeast/100000009947068/explaining-future-of-gaza-cease-fire-deal.html</guid>
       <pubDate>Mon, 27 Jan 2025 20:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>肯尼迪中心领导人辞职，增加不确定性</title>
-      <link>https://www.nytimes.com/2025/01/27/arts/music/deborah-rutter-leaving-kennedy-center.html</link>
-      <description><![CDATA[自 2014 年起担任该中心主席的黛博拉·F·拉特 (Deborah F. Rutter) 宣布离职之际，该中心仍在寻找新的董事会主席，以迎接特朗普的第二任期。]]></description>
-      <guid>https://www.nytimes.com/2025/01/27/arts/music/deborah-rutter-leaving-kennedy-center.html</guid>
-      <pubDate>Mon, 27 Jan 2025 19:15:05 GMT</pubDate>
     </item>
     <item>
       <title>特朗普对哥伦比亚的关税威胁令那些试图减少对中国依赖的企业感到震惊</title>
