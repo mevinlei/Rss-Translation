@@ -4,20 +4,34 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 00:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:13:04 GMT</lastBuildDate>
     <item>
-      <title>肯纳</title>
-      <link>https://www.producthunt.com/posts/kener-2</link>
+      <title>Neosync</title>
+      <link>https://www.producthunt.com/posts/neosync</link>
       <description><![CDATA[
-托管、开源、docker 就绪的精彩状态页面
+面向开发者的开源数据匿名化平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/kener-2</guid>
-      <pubDate>Tue, 28 Jan 2025 03:52:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/neosync</guid>
+      <pubDate>Tue, 28 Jan 2025 06:55:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>尘埃乐趣</title>
+      <link>https://www.producthunt.com/posts/dust-fun</link>
+      <description><![CDATA[
+Coinstar for Crypto，兑换钱包中的低价值代币
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dust-fun</guid>
+      <pubDate>Mon, 27 Jan 2025 23:18:43 GMT</pubDate>
     </item>
     <item>
       <title>今天就登录！</title>
@@ -62,18 +76,46 @@ DeepSeek 的统一多模式 AI
       <pubDate>Mon, 27 Jan 2025 13:21:21 GMT</pubDate>
     </item>
     <item>
-      <title>子弹笔</title>
-      <link>https://www.producthunt.com/posts/bulletpen</link>
+      <title>OrangeCat 的拉格朗日</title>
+      <link>https://www.producthunt.com/posts/lagrange-by-orangecat</link>
       <description><![CDATA[
-边聊天边写出精彩文章
+让每个人都能民主化发展
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/bulletpen</guid>
-      <pubDate>Mon, 27 Jan 2025 06:58:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/lagrange-by-orangecat</guid>
+      <pubDate>Mon, 27 Jan 2025 09:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>播客</title>
+      <link>https://www.producthunt.com/posts/podcatcher</link>
+      <description><![CDATA[
+适用于 iOS 的超级简单播客播放器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/podcatcher</guid>
+      <pubDate>Mon, 27 Jan 2025 08:23:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时笔记和行动项目</title>
+      <link>https://www.producthunt.com/posts/real-time-notes-action-items</link>
+      <description><![CDATA[
+实时撰写简洁要点的人工智能
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/real-time-notes-action-items</guid>
+      <pubDate>Mon, 27 Jan 2025 08:21:03 GMT</pubDate>
     </item>
     <item>
       <title>SnappyAI</title>
@@ -118,34 +160,6 @@ DeepSeek 的统一多模式 AI
       <pubDate>Fri, 24 Jan 2025 20:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>巴塞达什</title>
-      <link>https://www.producthunt.com/posts/basedash-2</link>
-      <description><![CDATA[
-AI 原生商业智能平台
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/basedash-2</guid>
-      <pubDate>Fri, 24 Jan 2025 20:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canva 版 Jotform</title>
-      <link>https://www.producthunt.com/posts/jotform-for-canva</link>
-      <description><![CDATA[
-为 Canva 创建强大的表单
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/jotform-for-canva</guid>
-      <pubDate>Fri, 24 Jan 2025 07:24:58 GMT</pubDate>
-    </item>
-    <item>
       <title>长尾小鹦鹉</title>
       <link>https://www.producthunt.com/posts/parakeet-2</link>
       <description><![CDATA[
@@ -158,6 +172,20 @@ AI 原生商业智能平台
 ]]></description>
       <guid>https://www.producthunt.com/posts/parakeet-2</guid>
       <pubDate>Thu, 23 Jan 2025 22:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>地球猜想者</title>
+      <link>https://www.producthunt.com/posts/earthguessr</link>
+      <description><![CDATA[
+Geoguessr，但这是卫星图像！
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/earthguessr</guid>
+      <pubDate>Thu, 23 Jan 2025 09:06:27 GMT</pubDate>
     </item>
     <item>
       <title>rene.css</title>
@@ -174,46 +202,18 @@ ai-ready css 框架和设计工具包
       <pubDate>Tue, 21 Jan 2025 09:53:04 GMT</pubDate>
     </item>
     <item>
-      <title>雷米</title>
-      <link>https://www.producthunt.com/posts/remy-3</link>
+      <title>公制</title>
+      <link>https://www.producthunt.com/posts/metric-2</link>
       <description><![CDATA[
-提出任何问题，从世界各地的视频中获取答案
+更好地了解您的健康数据
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/remy-3</guid>
-      <pubDate>Mon, 20 Jan 2025 22:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>门户</title>
-      <link>https://www.producthunt.com/posts/portals-4</link>
-      <description><![CDATA[
-AI 代理构建器工具包
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/portals-4</guid>
-      <pubDate>Mon, 13 Jan 2025 20:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉</title>
-      <link>https://www.producthunt.com/posts/sense-14</link>
-      <description><![CDATA[
-AI 搜索您的所有应用和自动工作中心
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sense-14</guid>
-      <pubDate>Wed, 08 Jan 2025 22:04:33 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/metric-2</guid>
+      <pubDate>Fri, 10 Jan 2025 22:30:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 28 Jan 2025 21:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:12:28 GMT</lastBuildDate>
+    <item>
+      <title>使用线性时间码在几秒钟内同步音乐视频</title>
+      <link>https://www.reddit.com/r/editors/comments/1icg9wk/sync_music_video_takes_in_seconds_with_linear/</link>
+      <description><![CDATA[终于制作了一个视频，解释了如何使用 LTC 立即同步基于表演的音乐视频拍摄的所有镜头。我已经使用过这种技术几次了，事实证明它非常有价值！请告诉我你的想法！    由   提交  /u/dillondilloff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1icg9wk/sync_music_video_takes_in_seconds_with_linear/</guid>
+      <pubDate>Tue, 28 Jan 2025 23:55:19 GMT</pubDate>
+    </item>
     <item>
       <title>订阅 artlist 和 artgrid 是否值得？</title>
       <link>https://www.reddit.com/r/editors/comments/1icbj4t/is_it_worth_subscribing_to_both_artlist_and/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>交叉发布：阁楼的问题在于每个箱子不能存放多个保存文件</title>
       <link>https://www.reddit.com/r/editors/comments/1ibqabp/crosspost_issues_with_the_attic_not_carrying_more/</link>
-      <description><![CDATA[编辑：我们在 Nexis 上使用 MC v2023.12.3 交叉发布在 r/Avid 但认为这里也是提问的好地方 有人遇到过这个问题吗？当我检查阁楼中的 bin 文件夹时，它只会保留最后一次保存，例如 thisbin.37，但不会保留 thisbin.1-thisbin.36。我是一名助理，我的编辑和我都在项目的阁楼中拥有 1000 个最大文件，阁楼中文件的最大版本为 50。我们也处于这个较慢的阶段，其中我的编辑主要在一个 bin 中工作，而我在 After Effects 中做了很多工作，处理合成，而不是在 Avid 中。所以令我担心的是，他的工作箱只携带一个备份。非常感谢您的帮助！    由   提交  /u/editgems   [链接] [评论]]]></description>
+      <description><![CDATA[双重编辑：在 Unity Attic bin 前面添加一个“z”以重新开始解决了这个问题！ 编辑：我们在 Nexis 上使用 MC v2023.12.3 在 r/Avid 交叉发布，但认为这里也是提问的好地方 有人遇到过这个问题吗？当我检查阁楼中的 bin 文件夹时，它只会保留最后一次保存，例如 thisbin.37，但不保留 thisbin.1-thisbin.36。我是一名助理，我和我的编辑在项目的阁楼中都有最多 1000 个文件，在阁楼中最多有 50 个文件版本。我们也处于一个较慢的阶段，我的编辑主要在一个箱子里工作，我在 After Effects 中做很多工作，处理合成，而不是在 Avid 中。所以令我担心的是，他的工作箱只带了一个备份。任何帮助都非常感谢！    提交人    /u/editgems   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ibqabp/crosspost_issues_with_the_attic_not_carrying_more/</guid>
       <pubDate>Tue, 28 Jan 2025 01:39:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果这不是正确的 subreddit，我深表歉意... 首先，RAID 不是一种备份策略。我有一个单独的备份策略。这里的目标是冗余，以便在驱动器发生故障时延长正常运行时间。 就冗余而言，我不清楚 RAID 5 相对于 RAID 1（镜像）有什么优势。我理解优势应该是您可以从一组驱动器（驱动器总容量的 3/4）获得更多可用存储空间。 但是，例如，如今四个 5 TB 驱动器的成本超过 700 美元（RAID 5 设置），而两个 16 TB 驱动器（RAID 1）的成本略高于 400 美元。每个驱动器的总容量为 15-16 TB。 RAID 1 速度更快。 为什么有人想使用 RAID5？ 是否只需要总容量大于 32TB（目前的最大驱动器大小）？    提交人    /u/ZealousidealAd9428   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ibhf6m/raid_5_vs_raid_0_is_raid_5_still_worth_it_in_2025/</guid>
       <pubDate>Mon, 27 Jan 2025 19:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目文件的保存位置</title>
-      <link>https://www.reddit.com/r/editors/comments/1ibearm/where_to_keep_project_files/</link>
-      <description><![CDATA[我想知道人们是否将他们的项目文件（.prproj、.aep 等）保存在与项目资产相同的文件夹中，或者他们是否将项目文件保存在单独的文件夹中。过去，最好的做法是将它们分开保存，只是想知道人们现在是怎么做的。    提交人    /u/Brandondmob   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ibearm/where_to_keep_project_files/</guid>
-      <pubDate>Mon, 27 Jan 2025 17:13:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
