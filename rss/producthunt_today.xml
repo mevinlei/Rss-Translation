@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 09:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 12:19:50 GMT</lastBuildDate>
     <item>
       <title>碧玉</title>
       <link>https://www.producthunt.com/posts/jasper-20</link>
@@ -37,7 +37,7 @@ Ebo x 家庭伴侣机器人
       <title>鼠兔 2.1</title>
       <link>https://www.producthunt.com/posts/pika-2-1</link>
       <description><![CDATA[
-以令人惊叹的 1080p 分辨率创建您最奇特、最疯狂的梦想
+以令人惊叹的 1080p 分辨率创建您最奇特、最狂野的梦想
 
 
 讨论
@@ -46,20 +46,6 @@ Ebo x 家庭伴侣机器人
 ]]></description>
       <guid>https://www.producthunt.com/posts/pika-2-1</guid>
       <pubDate>Mon, 27 Jan 2025 20:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>CheapUI</title>
-      <link>https://www.producthunt.com/posts/cheapui</link>
-      <description><![CDATA[
-用于 Web 开发的 AI 驱动 UI 组件生成器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cheapui</guid>
-      <pubDate>Mon, 27 Jan 2025 15:24:55 GMT</pubDate>
     </item>
     <item>
       <title>塔布</title>
@@ -76,6 +62,48 @@ Ebo x 家庭伴侣机器人
       <pubDate>Mon, 27 Jan 2025 14:21:19 GMT</pubDate>
     </item>
     <item>
+      <title>播客</title>
+      <link>https://www.producthunt.com/posts/podcatcher</link>
+      <description><![CDATA[
+适用于 iOS 的超级简单播客播放器
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/podcatcher</guid>
+      <pubDate>Mon, 27 Jan 2025 08:23:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>实时笔记和行动项目</title>
+      <link>https://www.producthunt.com/posts/real-time-notes-action-items</link>
+      <description><![CDATA[
+实时撰写简洁要点的人工智能
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/real-time-notes-action-items</guid>
+      <pubDate>Mon, 27 Jan 2025 08:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴塞达什</title>
+      <link>https://www.producthunt.com/posts/basedash-2</link>
+      <description><![CDATA[
+AI 原生商业智能平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/basedash-2</guid>
+      <pubDate>Fri, 24 Jan 2025 20:00:54 GMT</pubDate>
+    </item>
+    <item>
       <title>克罗克特</title>
       <link>https://www.producthunt.com/posts/croct</link>
       <description><![CDATA[
@@ -90,18 +118,18 @@ Ebo x 家庭伴侣机器人
       <pubDate>Fri, 24 Jan 2025 14:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>长尾小鹦鹉</title>
-      <link>https://www.producthunt.com/posts/parakeet-2</link>
+      <title>地球猜想者</title>
+      <link>https://www.producthunt.com/posts/earthguessr</link>
       <description><![CDATA[
-自动化您的外发电子邮件活动（无垃圾邮件）
+Geoguessr，但这是卫星图像！
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/parakeet-2</guid>
-      <pubDate>Thu, 23 Jan 2025 22:38:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/earthguessr</guid>
+      <pubDate>Thu, 23 Jan 2025 09:06:27 GMT</pubDate>
     </item>
     <item>
       <title>现在API</title>
@@ -158,34 +186,6 @@ AI 代理构建器工具包
 ]]></description>
       <guid>https://www.producthunt.com/posts/portals-4</guid>
       <pubDate>Mon, 13 Jan 2025 20:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>拱形结构</title>
-      <link>https://www.producthunt.com/posts/archformation</link>
-      <description><![CDATA[
-使用无代码应用程序设计并将基础设施部署到 AWS
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/archformation</guid>
-      <pubDate>Mon, 13 Jan 2025 15:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>公制</title>
-      <link>https://www.producthunt.com/posts/metric-2</link>
-      <description><![CDATA[
-更好地了解您的健康数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/metric-2</guid>
-      <pubDate>Fri, 10 Jan 2025 22:30:35 GMT</pubDate>
     </item>
     <item>
       <title>电子邮件审计引擎</title>
