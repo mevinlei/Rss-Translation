@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新 > 热门故事</title>
+    <title>新闻 > 头条新闻</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Jan 2025 14:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 17:59:24 GMT</lastBuildDate>
+    <item>
+      <title>反对卢德主义的青少年仍然不想要你的点赞</title>
+      <link>https://www.nytimes.com/2025/01/30/style/luddite-teens-reunion.html</link>
+      <description><![CDATA[这个旨在对抗社交媒体对年轻人控制的俱乐部成立三年了，许多原始成员坚定地坚持下去，并获得了新的追随者。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/style/luddite-teens-reunion.html</guid>
+      <pubDate>Thu, 30 Jan 2025 17:45:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普政府考虑停止征收拥堵费</title>
+      <link>https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html</link>
+      <description><![CDATA[纽约市收费计划在克服了数十年的阻碍后于 1 月 5 日开始实施。停止该计划的举动可能会引发州政府和联邦政府之间的法律纠纷。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/nyregion/nyc-trump-congestion-pricing.html</guid>
+      <pubDate>Thu, 30 Jan 2025 17:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国冻结资金威胁叙利亚 ISIS 营地安全</title>
+      <link>https://www.nytimes.com/2025/01/30/world/middleeast/us-funding-freeze-isis-camps-syria.html</link>
+      <description><![CDATA[停止对外援助可能会削弱美国组织对守卫关押伊斯兰国成员及其家属的两个最大营地的部队的支持。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/world/middleeast/us-funding-freeze-isis-camps-syria.html</guid>
+      <pubDate>Thu, 30 Jan 2025 16:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将国会踢到路边，共和党几乎没有抗议</title>
+      <link>https://www.nytimes.com/2025/01/30/us/politics/trump-congress-republicans.html</link>
+      <description><![CDATA[政府表明，它并不将众议院和参议院视为平等的合作伙伴。到目前为止，占据两院多数席位的共和党人正在接受他们的新地位。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/us/politics/trump-congress-republicans.html</guid>
+      <pubDate>Thu, 30 Jan 2025 16:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>蓝人乐团 34 年纽约巡演落下帷幕</title>
+      <link>https://www.nytimes.com/2025/01/30/theater/blue-man-group-new-york-closing-off-broadway.html</link>
+      <description><![CDATA[34 年来，这部剧让弗莱德·阿米森获得了打鼓的机会，让《发展受阻》有了一条搞笑的故事情节，等等。如今，这场文化盛事在纽约落下帷幕。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/theater/blue-man-group-new-york-closing-off-broadway.html</guid>
+      <pubDate>Thu, 30 Jan 2025 16:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>经济增长停滞，欧洲央行降息</title>
       <link>https://www.nytimes.com/2025/01/30/business/europe-central-bank-interest-rates-economy.html</link>
       <description><![CDATA[欧洲央行此次降息是自去年夏天以来第五次连续降息，而就在前一天美联储也维持利率不变。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/business/europe-central-bank-interest-rates-economy.html</guid>
-      <pubDate>Thu, 30 Jan 2025 14:29:04 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 16:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普命令要求大学“监视”持学生签证的抗议者</title>
+      <link>https://www.nytimes.com/2025/01/30/us/trump-executive-order-antisemitism.html</link>
+      <description><![CDATA[本周签署的一项行政命令将敦促高校通过监视和举报国际学生来打击反犹太主义。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/us/trump-executive-order-antisemitism.html</guid>
+      <pubDate>Thu, 30 Jan 2025 15:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国经济第四季度增长 2.3%</title>
+      <link>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</link>
+      <description><![CDATA[第四季度国内生产总值增长 2.3%，为全年超出预期的强劲增长画上句号。政策不确定性给前景蒙上阴影。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</guid>
+      <pubDate>Thu, 30 Jan 2025 15:18:03 GMT</pubDate>
     </item>
     <item>
       <title>比尔·盖茨与其他科技亿万富翁不同</title>
       <link>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</link>
       <description><![CDATA[这位微软联合创始人兼慈善家暂时放下对未来的憧憬，回顾自己的过去，并思考如今亿万富翁的地位。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</guid>
-      <pubDate>Thu, 30 Jan 2025 14:28:09 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 15:08:30 GMT</pubDate>
     </item>
     <item>
       <title>叙利亚新任临时总统是谁？</title>
@@ -25,34 +74,6 @@
       <description><![CDATA[领导推翻长期独裁者巴沙尔·阿萨德的叛军首领被宣布为过渡时期政府首脑。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/world/europe/syria-president-ahmed-al-shara.html</guid>
       <pubDate>Thu, 30 Jan 2025 14:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国经济第四季度增长 2.3%</title>
-      <link>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</link>
-      <description><![CDATA[第四季度国内生产总值增长 2.3%，为全年超出预期的强劲增长画上句号。政策不确定性给前景蒙上阴影。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</guid>
-      <pubDate>Thu, 30 Jan 2025 13:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列对近东救济工程处的禁令对巴勒斯坦人意味着什么</title>
-      <link>https://www.nytimes.com/2025/01/30/world/middleeast/israel-ban-unrwa-palestinians.html</link>
-      <description><![CDATA[周四生效的法律禁止近东救济工程处在该国开展业务。这将影响对加沙及其他地区的援助。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/world/middleeast/israel-ban-unrwa-palestinians.html</guid>
-      <pubDate>Thu, 30 Jan 2025 13:51:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿附近发生飞机坠毁事件，以及三场有争议的参议院听证会</title>
-      <link>https://www.nytimes.com/2025/01/30/podcasts/the-headlines/plane-crash-kennedy-hostages.html</link>
-      <description><![CDATA[此外，哈马斯还释放了更多人质。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/podcasts/the-headlines/plane-crash-kennedy-hostages.html</guid>
-      <pubDate>Thu, 30 Jan 2025 13:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党州长敦促舒默加大与特朗普的斗争力度</title>
-      <link>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</link>
-      <description><![CDATA[在与少数党领袖参议员查克·舒默的通话中，六位民主党州长敦促他放缓对特朗普总统提名人的确认速度，并采取更多措施阻止他的议程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</guid>
-      <pubDate>Thu, 30 Jan 2025 13:04:50 GMT</pubDate>
     </item>
     <item>
       <title>周四释放的三名以色列人质是谁？</title>
@@ -83,32 +104,11 @@
       <pubDate>Thu, 30 Jan 2025 10:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>南港凶手热衷于极端暴力。但这是否是恐怖主义行为？</title>
-      <link>https://www.nytimes.com/2025/01/30/world/europe/southport-terrorism-prevent-violence-rudakubana.html</link>
-      <description><![CDATA[阿克塞尔·鲁达库巴纳在舞蹈课上连环持刀杀害三名女孩，他痴迷于暴力，但没有明确的意识形态。他的案件引发了人们对反恐战略重新思考的呼声。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/world/europe/southport-terrorism-prevent-violence-rudakubana.html</guid>
-      <pubDate>Thu, 30 Jan 2025 05:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普称美国将在关塔那摩湾关押移民</title>
-      <link>https://www.nytimes.com/2025/01/29/us/politics/trump-migrants-guantanamo.html</link>
-      <description><![CDATA[总统建议基地内可安置 3 万名移民。目前尚不清楚该计划将如何实施。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/us/politics/trump-migrants-guantanamo.html</guid>
-      <pubDate>Thu, 30 Jan 2025 01:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的解雇可能会引发扩大其权力的诉讼</title>
-      <link>https://www.nytimes.com/2025/01/29/us/politics/trump-firings-officials-legal-test.html</link>
-      <description><![CDATA[对于拥护广泛总统权力的人来说，对特朗普总统清洗行动进行法律挑战的前景可能是一个特点，而不是缺陷。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/us/politics/trump-firings-officials-legal-test.html</guid>
-      <pubDate>Wed, 29 Jan 2025 21:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅内德斯如何用金条和清真骗局毁掉自己的遗产</title>
-      <link>https://www.nytimes.com/2025/01/29/nyregion/robert-menendez-senate-corruption-legacy.html</link>
-      <description><![CDATA[这位前新泽西州参议员因受贿和腐败罪名被判处11年监禁。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/nyregion/robert-menendez-senate-corruption-legacy.html</guid>
-      <pubDate>Wed, 29 Jan 2025 21:52:19 GMT</pubDate>
+      <title>研究人员称小行星 2024 YR4 可能撞击地球，但可能性很小</title>
+      <link>https://www.nytimes.com/2025/01/29/science/asteroid-2024-yr4-earth.html</link>
+      <description><![CDATA[研究人员表示，太空陨石 2024 YR4 撞击地球的可能性为 1.3%，但要等到 2032 年 12 月。]]></description>
+      <guid>https://www.nytimes.com/2025/01/29/science/asteroid-2024-yr4-earth.html</guid>
+      <pubDate>Wed, 29 Jan 2025 23:46:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
