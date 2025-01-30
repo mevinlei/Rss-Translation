@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Jan 2025 12:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 14:50:30 GMT</lastBuildDate>
+    <item>
+      <title>经济增长停滞，欧洲央行降息</title>
+      <link>https://www.nytimes.com/2025/01/30/business/europe-central-bank-interest-rates-economy.html</link>
+      <description><![CDATA[欧洲央行此次降息是自去年夏天以来第五次连续降息，而就在前一天美联储也维持利率不变。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/business/europe-central-bank-interest-rates-economy.html</guid>
+      <pubDate>Thu, 30 Jan 2025 14:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>比尔·盖茨与其他科技亿万富翁不同</title>
+      <link>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</link>
+      <description><![CDATA[这位微软联合创始人兼慈善家暂时放下对未来的憧憬，回顾自己的过去，并思考如今亿万富翁的地位。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</guid>
+      <pubDate>Thu, 30 Jan 2025 14:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>叙利亚新任临时总统是谁？</title>
+      <link>https://www.nytimes.com/2025/01/30/world/europe/syria-president-ahmed-al-shara.html</link>
+      <description><![CDATA[领导推翻长期独裁者巴沙尔·阿萨德的叛军首领被宣布为过渡时期政府首脑。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/world/europe/syria-president-ahmed-al-shara.html</guid>
+      <pubDate>Thu, 30 Jan 2025 14:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国经济第四季度增长 2.3%</title>
+      <link>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</link>
+      <description><![CDATA[第四季度国内生产总值增长 2.3%，为全年超出预期的强劲增长画上句号。政策不确定性给前景蒙上阴影。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/business/economy/economy-gdp-q4.html</guid>
+      <pubDate>Thu, 30 Jan 2025 13:56:30 GMT</pubDate>
+    </item>
     <item>
       <title>以色列对近东救济工程处的禁令对巴勒斯坦人意味着什么</title>
       <link>https://www.nytimes.com/2025/01/30/world/middleeast/israel-ban-unrwa-palestinians.html</link>
       <description><![CDATA[周四生效的法律禁止近东救济工程处在该国开展业务。这将影响对加沙及其他地区的援助。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/world/middleeast/israel-ban-unrwa-palestinians.html</guid>
-      <pubDate>Thu, 30 Jan 2025 11:52:50 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:51:48 GMT</pubDate>
     </item>
     <item>
       <title>华盛顿附近发生飞机坠毁事件，以及三场有争议的参议院听证会</title>
       <link>https://www.nytimes.com/2025/01/30/podcasts/the-headlines/plane-crash-kennedy-hostages.html</link>
       <description><![CDATA[此外，哈马斯还释放了更多人质。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/podcasts/the-headlines/plane-crash-kennedy-hostages.html</guid>
-      <pubDate>Thu, 30 Jan 2025 11:42:02 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:20:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>民主党州长敦促舒默加大与特朗普的斗争力度</title>
+      <link>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</link>
+      <description><![CDATA[在与少数党领袖参议员查克·舒默的通话中，六位民主党州长敦促他放缓对特朗普总统提名人的确认速度，并采取更多措施阻止他的议程。]]></description>
+      <guid>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</guid>
+      <pubDate>Thu, 30 Jan 2025 13:04:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>周四释放的三名以色列人质是谁？</title>
+      <link>https://www.nytimes.com/2025/01/30/world/middleeast/israeli-hostages-released-arbel-yehud-agam-berger-gadi-moses.html</link>
+      <description><![CDATA[作为人质交换囚犯的一部分，哈马斯释放了八名人质，其中包括三名以色列人和五名泰国人。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/world/middleeast/israeli-hostages-released-arbel-yehud-agam-berger-gadi-moses.html</guid>
+      <pubDate>Thu, 30 Jan 2025 12:58:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>大壶节踩踏事件后，人们担心有人会掩盖真相</title>
+      <link>https://www.nytimes.com/2025/01/30/world/asia/kumbh-stampede-yogi-coverup.html</link>
+      <description><![CDATA[在数百万人的集会上迟迟不公布伤亡数字，这被视为是在保护一位有民族抱负的地方领导人的​​政治命运。]]></description>
+      <guid>https://www.nytimes.com/2025/01/30/world/asia/kumbh-stampede-yogi-coverup.html</guid>
+      <pubDate>Thu, 30 Jan 2025 12:14:12 GMT</pubDate>
     </item>
     <item>
       <title>特朗普发布全面行政命令，测试地方对学校的控制</title>
@@ -34,41 +83,6 @@
       <pubDate>Thu, 30 Jan 2025 10:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>三位有争议的特朗普提名人将出席参议院</title>
-      <link>https://www.nytimes.com/2025/01/30/us/politics/trump-rfk-patel-gabbard-confirmation-hearings.html</link>
-      <description><![CDATA[罗伯特·F·肯尼迪 (Robert F. Kennedy Jr.)、卡什·帕特尔 (Kash Patel) 和塔尔西·加巴德 (Tulsi Gabbard) 是特朗普总统备受瞩目的三位候选人，他们将于周四提交提名确认书。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/us/politics/trump-rfk-patel-gabbard-confirmation-hearings.html</guid>
-      <pubDate>Thu, 30 Jan 2025 10:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>塔尔西·加巴德为俄罗斯和叙利亚辩护。现在她必须捍卫这些观点。</title>
-      <link>https://www.nytimes.com/2025/01/30/business/tulsi-gabbard-russia-syria-ukraine-views.html</link>
-      <description><![CDATA[国家情报总监候选人在公开露面时对外交政策发表了一些挑衅性言论。参议员们预计将在她的确认听证会上对其中一些言论提出质疑。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/business/tulsi-gabbard-russia-syria-ukraine-views.html</guid>
-      <pubDate>Thu, 30 Jan 2025 10:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>与评论作家谈论小罗伯特·F·肯尼迪</title>
-      <link>https://www.nytimes.com/2025/01/30/opinion/rfk-jr-robert-kennedy-confirmation-hearing.html</link>
-      <description><![CDATA[评论员讨论了从疫苗到医疗补助等问题。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/opinion/rfk-jr-robert-kennedy-confirmation-hearing.html</guid>
-      <pubDate>Thu, 30 Jan 2025 10:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>比尔·盖茨与其他科技亿万富翁不同</title>
-      <link>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</link>
-      <description><![CDATA[这位微软联合创始人兼慈善家暂时放下对未来的憧憬，回顾自己的过去，并思考如今亿万富翁的地位。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/technology/bill-gates-tech-billionaires-memoir.html</guid>
-      <pubDate>Thu, 30 Jan 2025 10:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡什·帕特尔的慈善事业如何帮助特朗普和他本人</title>
-      <link>https://www.nytimes.com/2025/01/30/us/politics/kash-patel-charity.html</link>
-      <description><![CDATA[这位联邦调查局局长的候选人把他的非营利组织变成了一个宣传机器，推销他的儿童读物、他的服装品牌以及他作为唐纳德·特朗普终极忠诚者的形象。]]></description>
-      <guid>https://www.nytimes.com/2025/01/30/us/politics/kash-patel-charity.html</guid>
-      <pubDate>Thu, 30 Jan 2025 10:00:58 GMT</pubDate>
-    </item>
-    <item>
       <title>南港凶手热衷于极端暴力。但这是否是恐怖主义行为？</title>
       <link>https://www.nytimes.com/2025/01/30/world/europe/southport-terrorism-prevent-violence-rudakubana.html</link>
       <description><![CDATA[阿克塞尔·鲁达库巴纳在舞蹈课上连环持刀杀害三名女孩，他痴迷于暴力，但没有明确的意识形态。他的案件引发了人们对反恐战略重新思考的呼声。]]></description>
@@ -76,25 +90,11 @@
       <pubDate>Thu, 30 Jan 2025 05:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>民主党州长敦促舒默加大与特朗普的斗争力度</title>
-      <link>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</link>
-      <description><![CDATA[在与少数党领袖参议员查克·舒默的通话中，六位民主党州长敦促他放缓对特朗普总统提名人的确认速度，并采取更多措施阻止他的议程。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/us/politics/chuck-schumer-trump-agenda-cabinet.html</guid>
-      <pubDate>Thu, 30 Jan 2025 04:48:40 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普称美国将在关塔那摩湾关押移民</title>
       <link>https://www.nytimes.com/2025/01/29/us/politics/trump-migrants-guantanamo.html</link>
       <description><![CDATA[总统建议基地内可安置 3 万名移民。目前尚不清楚该计划将如何实施。]]></description>
       <guid>https://www.nytimes.com/2025/01/29/us/politics/trump-migrants-guantanamo.html</guid>
       <pubDate>Thu, 30 Jan 2025 01:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员称小行星 2024 YR4 可能撞击地球，但可能性很小</title>
-      <link>https://www.nytimes.com/2025/01/29/science/asteroid-2024-yr4-earth.html</link>
-      <description><![CDATA[研究人员表示，太空陨石 2024 YR4 撞击地球的可能性为 1.3%，但要等到 2032 年 12 月。]]></description>
-      <guid>https://www.nytimes.com/2025/01/29/science/asteroid-2024-yr4-earth.html</guid>
-      <pubDate>Wed, 29 Jan 2025 23:46:46 GMT</pubDate>
     </item>
     <item>
       <title>特朗普的解雇可能会引发扩大其权力的诉讼</title>
@@ -106,7 +106,7 @@
     <item>
       <title>梅内德斯如何用金条和清真骗局毁掉自己的遗产</title>
       <link>https://www.nytimes.com/2025/01/29/nyregion/robert-menendez-senate-corruption-legacy.html</link>
-      <description><![CDATA[这位前新泽西州参议员因受贿和腐败罪被判处11年监禁。]]></description>
+      <description><![CDATA[这位前新泽西州参议员因受贿和腐败罪名被判处11年监禁。]]></description>
       <guid>https://www.nytimes.com/2025/01/29/nyregion/robert-menendez-senate-corruption-legacy.html</guid>
       <pubDate>Wed, 29 Jan 2025 21:52:19 GMT</pubDate>
     </item>
