@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>https://extension.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 21:09:04 GMT</lastBuildDate>
     <item>
       <title>因卡德</title>
       <link>https://www.producthunt.com/posts/incard-2</link>
@@ -48,18 +48,18 @@
       <pubDate>Thu, 30 Jan 2025 10:53:17 GMT</pubDate>
     </item>
     <item>
-      <title>LM 工作室</title>
-      <link>https://www.producthunt.com/posts/lm-studio-2</link>
+      <title>剑</title>
+      <link>https://www.producthunt.com/posts/seefood</link>
       <description><![CDATA[
-发现、下载和运行本地 LLM（包括 DeepSeek R1）
+不是热狗
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lm-studio-2</guid>
-      <pubDate>Thu, 30 Jan 2025 05:27:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/seefood</guid>
+      <pubDate>Wed, 29 Jan 2025 19:12:30 GMT</pubDate>
     </item>
     <item>
       <title>Qwen 2.5</title>
@@ -102,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/kiva-3</guid>
       <pubDate>Wed, 29 Jan 2025 10:58:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>网关</title>
+      <link>https://www.producthunt.com/posts/gateway-3</link>
+      <description><![CDATA[
+一个帮助您办理签证申请的人工智能签证助理
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/gateway-3</guid>
+      <pubDate>Tue, 28 Jan 2025 23:18:05 GMT</pubDate>
     </item>
     <item>
       <title>祈祷。</title>
@@ -174,32 +188,18 @@
       <pubDate>Fri, 24 Jan 2025 12:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>速度：及时的副驾驶</title>
-      <link>https://www.producthunt.com/posts/velocity-the-prompt-co-pilot</link>
+      <title>人工智能之星</title>
+      <link>https://www.producthunt.com/posts/stella-ai-2</link>
       <description><![CDATA[
-一键提示增强功能，适用于所有 LLM（包括 Deepseek）
+使用 Stella AI 代理自动执行您的日常管理任务 
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/velocity-the-prompt-co-pilot</guid>
-      <pubDate>Sat, 11 Jan 2025 12:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>路路通</title>
-      <link>https://www.producthunt.com/posts/roadloom</link>
-      <description><![CDATA[
-客户反馈引领的产品路线图软件
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/roadloom</guid>
-      <pubDate>Fri, 10 Jan 2025 05:46:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/stella-ai-2</guid>
+      <pubDate>Mon, 20 Jan 2025 11:27:38 GMT</pubDate>
     </item>
     <item>
       <title>WriteMore.io</title>
