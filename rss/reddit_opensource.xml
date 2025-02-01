@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 12:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 15:10:46 GMT</lastBuildDate>
+    <item>
+      <title>是否有可能开发 FLAC 流音乐播放器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1if7w5f/is_it_possible_to_develop_a_flac_streaming_music/</link>
+      <description><![CDATA[  由    /u/RoninMusashi_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1if7w5f/is_it_possible_to_develop_a_flac_streaming_music/</guid>
+      <pubDate>Sat, 01 Feb 2025 14:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Android 数码单反相机照片进行地理标记</title>
+      <link>https://www.reddit.com/r/opensource/comments/1if55tq/geotag_dslr_photos_android/</link>
+      <description><![CDATA[我有一台 Sony Alpha 6000 相机，并将照片同步到我的智能手机。不幸的是，相机没有地理标记功能。Android 有闭源地理标记器。基本功能是：您开始跟踪，然后根据轨迹以及照片和轨迹的时间戳处理照片的 exif 数据。 有没有具有类似功能的开源替代品？    提交人    /u/Goticus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1if55tq/geotag_dslr_photos_android/</guid>
+      <pubDate>Sat, 01 Feb 2025 12:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>需要了解开源许可。</title>
       <link>https://www.reddit.com/r/opensource/comments/1if38a1/need_to_learn_about_open_source_licensing/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>如何将 Android 手机翻倍</title>
       <link>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</link>
-      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
+      <description><![CDATA[你好！ 有没有一种开源方法可以基本上创建手机的副本？我的意思是，安装应用程序时，它将安装在另一部手机中，因此文件会下载等。 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iekc6e/how_to_double_an_android_phone/</guid>
       <pubDate>Fri, 31 Jan 2025 17:37:06 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想与大家分享Flowkeeper——一个具有“经典”跨平台 UI 范例（Qt6、Python）的番茄工作法计时器，它设计得功能强大、简单但外观美观。它  完全按照原著中的描述实现番茄工作法， 在本地存储您的数据并且不会跟踪您， 支持多种桌面操作系统， 具有便携版本并且不需要管理员权限即可安装， 针对高级用户进行了优化（键盘快捷键和丰富的设置）。  我从 2023 年开始积极开发它。 您的反馈和评论很有帮助！如果您尝试 Flowkeeper，请告诉我您想改进什么，我会尽我所能实现它。 带有屏幕截图和下载的网站：https://flowkeeper.org/ GitHub repo： https://github.com/flowkeeper-org/fk-desktop/    由   提交  /u/setwindowtext   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</guid>
       <pubDate>Fri, 31 Jan 2025 09:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Vue.js 构建的极简开源习惯跟踪应用程序，通过 NuxtHub 由高性能数据库提供支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</link>
-      <description><![CDATA[  由    /u/sefabulak  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用个人电子邮件地址进行开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</link>
-      <description><![CDATA[我正在做一个小项目，目前我使用我的私人邮件签署所有提交。但是，这会将我的电子邮件暴露给互联网上的任何人，我正在考虑这对垃圾邮件和诈骗意味着什么。 你们做什么？你只为 github 使用一次性邮件还是使用你的真实地址？    提交人    /u/theChaosBeast   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:07:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
