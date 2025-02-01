@@ -4,11 +4,53 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 31 Jan 2025 21:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 00:50:31 GMT</lastBuildDate>
+    <item>
+      <title>“我的 5,700 英镑能源账单因时间太久而被取消”</title>
+      <link>https://www.bbc.com/news/articles/c4gxwgn035wo</link>
+      <description><![CDATA[尽管违反了监管规定，但仍有数千人收到了超过 12 个月的能源账单。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4gxwgn035wo</guid>
+      <pubDate>Sat, 01 Feb 2025 00:42:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型飞机在费城坠毁引起爆炸和火灾</title>
+      <link>https://www.bbc.com/news/articles/ckg0m5n8g0do</link>
+      <description><![CDATA[当地警方称，这架飞机载有两人，撞毁了几所房屋。]]></description>
+      <guid>https://www.bbc.com/news/articles/ckg0m5n8g0do</guid>
+      <pubDate>Sat, 01 Feb 2025 00:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>从华盛顿特区飞机坠毁现场找到的直升机黑匣子</title>
+      <link>https://www.bbc.com/news/articles/cvgp1jzgpdeo</link>
+      <description><![CDATA[美国国家运输安全委员会官员表示，随着坠机事件调查的继续，两架飞机的记录器均已完好无损地被恢复。]]></description>
+      <guid>https://www.bbc.com/news/articles/cvgp1jzgpdeo</guid>
+      <pubDate>Sat, 01 Feb 2025 00:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国秘密教会强迫妇女放弃婴儿供人领养</title>
+      <link>https://www.bbc.com/news/articles/c9d5x83gg45o</link>
+      <description><![CDATA[该协会前成员称，20 世纪 50 年代至 90 年代期间可能有数百起收养事件发生。]]></description>
+      <guid>https://www.bbc.com/news/articles/c9d5x83gg45o</guid>
+      <pubDate>Sat, 01 Feb 2025 00:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的关税之前曾重创中国——这一次，中国做好了准备</title>
+      <link>https://www.bbc.com/news/articles/c4g3z22938jo</link>
+      <description><![CDATA[特朗普威胁自 2 月 1 日起征收 10% 的税，但他的竞选纲领中却包含对中国进口产品征收 60% 的关税。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4g3z22938jo</guid>
+      <pubDate>Fri, 31 Jan 2025 23:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>“当它发生时，它会让你崩溃”——美国飞机失事后滑冰运动员的伤痛</title>
+      <link>https://www.bbc.com/news/articles/c9qje9veq5wo</link>
+      <description><![CDATA[BBC 记者走访了波士顿滑冰俱乐部，该俱乐部与六名事故受害者有联系。]]></description>
+      <guid>https://www.bbc.com/news/articles/c9qje9veq5wo</guid>
+      <pubDate>Fri, 31 Jan 2025 22:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>英国以色列人质称哈马斯在联合国设施内扣留了她</title>
       <link>https://www.bbc.com/news/articles/cj91ygv803xo</link>
-      <description><![CDATA[艾米丽·达玛里在与英国首相的通话中表示，她在加沙境内的联合国驻地被拘留。]]></description>
+      <description><![CDATA[在与英国首相的通话中，艾米丽·达玛里表示她在加沙境内的联合国驻地被拘留。]]></description>
       <guid>https://www.bbc.com/news/articles/cj91ygv803xo</guid>
       <pubDate>Fri, 31 Jan 2025 20:15:09 GMT</pubDate>
     </item>
@@ -34,13 +76,6 @@
       <pubDate>Fri, 31 Jan 2025 18:41:46 GMT</pubDate>
     </item>
     <item>
-      <title>纽约食品银行收到 13,000 条鲑鱼，但有一个问题</title>
-      <link>https://www.bbc.com/news/videos/c4gx90y362no</link>
-      <description><![CDATA[由于鲑鱼养殖场关闭，志愿者们开始与时间赛跑，帮忙处理数千条活鱼。]]></description>
-      <guid>https://www.bbc.com/news/videos/c4gx90y362no</guid>
-      <pubDate>Fri, 31 Jan 2025 18:16:53 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找失踪姐妹时发现一具女性尸体，最后一次出现在阿伯丁</title>
       <link>https://www.bbc.com/news/articles/c3vp1n20px6o</link>
       <description><![CDATA[警方称，已通知 Henrietta Huszti 的家人，并继续搜寻她的妹妹 Eliza。]]></description>
@@ -55,25 +90,11 @@
       <pubDate>Fri, 31 Jan 2025 17:49:07 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯利康放弃对英国疫苗工厂 4.5 亿英镑的投资，里夫斯受重创</title>
+      <title>阿斯利康放弃对英国疫苗工厂 4.5 亿英镑的投资，里夫斯遭受打击</title>
       <link>https://www.bbc.com/news/articles/c1we943zez9o</link>
       <description><![CDATA[该制药巨头将此归咎于与政府的“旷日持久”的谈判以及资金方面的分歧。]]></description>
       <guid>https://www.bbc.com/news/articles/c1we943zez9o</guid>
       <pubDate>Fri, 31 Jan 2025 17:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰称朝鲜可能已撤出前线</title>
-      <link>https://www.bbc.com/news/articles/cjder8zgk48o</link>
-      <description><![CDATA[西方官员称，朝鲜自从被派去为俄罗斯作战以来损失惨重。]]></description>
-      <guid>https://www.bbc.com/news/articles/cjder8zgk48o</guid>
-      <pubDate>Fri, 31 Jan 2025 17:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>活动人士发起倡议，禁止 18 岁以下人士服用跨性别激素</title>
-      <link>https://www.bbc.com/news/articles/cn4md23dgg2o</link>
-      <description><![CDATA[律师写信给卫生部长，警告他采取行动，否则他们将寻求司法审查。]]></description>
-      <guid>https://www.bbc.com/news/articles/cn4md23dgg2o</guid>
-      <pubDate>Fri, 31 Jan 2025 16:52:27 GMT</pubDate>
     </item>
     <item>
       <title>调查：我们目前所知道的情况</title>
@@ -83,32 +104,11 @@
       <pubDate>Fri, 31 Jan 2025 16:43:24 GMT</pubDate>
     </item>
     <item>
-      <title>好斗的特朗普指责多元化政策</title>
-      <link>https://www.bbc.com/news/articles/cpvmdm1m7m9o</link>
-      <description><![CDATA[英国广播公司的安东尼·祖尔彻 (Anthony Zurcher) 写道，总统以“首席安慰者”的身份开始了白宫新闻发布会，但随后却转向毫无证据的政治指责。]]></description>
-      <guid>https://www.bbc.com/news/articles/cpvmdm1m7m9o</guid>
-      <pubDate>Fri, 31 Jan 2025 15:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲百万彩票 8340 万英镑头奖一周无人认领</title>
-      <link>https://www.bbc.com/news/articles/c5y793kg9z0o</link>
-      <description><![CDATA[国家彩票运营商表示，如此巨额的奖金这么长时间无人认领“非常不寻常”。]]></description>
-      <guid>https://www.bbc.com/news/articles/c5y793kg9z0o</guid>
-      <pubDate>Fri, 31 Jan 2025 11:38:07 GMT</pubDate>
-    </item>
-    <item>
       <title>萨拉·谢里夫家庭法庭法官根据上诉书提名</title>
       <link>https://www.bbc.com/news/articles/cd9qzn70nn8o</link>
       <description><![CDATA[在英国广播公司 (BBC) 和其他机构的呼吁下，萨拉被谋杀前负责监督家庭法庭听证会的法官已被点名。]]></description>
       <guid>https://www.bbc.com/news/articles/cd9qzn70nn8o</guid>
       <pubDate>Fri, 31 Jan 2025 11:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要回答的问题</title>
-      <link>https://www.bbc.com/news/videos/cn01kg2nlyxo</link>
-      <description><![CDATA[英国广播公司分析编辑罗斯·阿特金斯就华盛顿特区附近一架商用飞机与一架军用直升机相撞致人死亡的事件的未解问题进行了解说。]]></description>
-      <guid>https://www.bbc.com/news/videos/cn01kg2nlyxo</guid>
-      <pubDate>Fri, 31 Jan 2025 01:19:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
