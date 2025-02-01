@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 18:13:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:10:08 GMT</lastBuildDate>
+    <item>
+      <title>[Linux 基金会] 驾驭全球法规和开源：美国 OFAC 制裁</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</link>
+      <description><![CDATA[       由    /u/iwasjusttwittering  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</guid>
+      <pubDate>Sat, 01 Feb 2025 20:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对开源的未来感到担忧，这是合理的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifchmt/im_worried_about_the_opensource_future_is_this/</link>
+      <description><![CDATA[我热爱开源，也非常乐意做出贡献。我通过观察其他人在做什么学到了很多东西，并且认为人工智能是可行的，因为程序员公开他们的工作并使用多种语言进行开发。 但是，我真的很担心开源的未来。不仅是美国及其对待自己工人的方式，还有世界的发展情况。人们很容易就失业，公司为了健康的未来而大赚一笔，这让我感到非常担心和有压力。此外，仅仅因为性别（我不会评判，也不应该成为问题）和财富状况（包括健康状况）等愚蠢的事情而失去人才，这让我对未来感到非常难过。 我知道有些人说开发人员总是在其他地方受到欢迎，但如果这些（大）公司因为他们的性别而不雇用他们怎么办？如果他们每周需要工作 60 小时怎么办？ 不仅如此，我还见过非常受欢迎的 GitHub 项目没有赞助，人们告诉他们尽快修复错误，却没有任何贡献。我的意思是，他们真的很沮丧，并向问题跟踪器发送垃圾邮件。 感觉（大）公司也会发生变化。Mozilla 和 Red Hat 怎么样？这些公司会保持不变，还是会因不与美国政府合作而受到惩罚？谷歌最近的地图变化，以及 Mozilla 倾向于广告和减少开源，让我觉得有理由相信这是真的。 马斯克也从来都不是开源的忠实粉丝。我不喜欢他的“我们不需要那个”态度。 我反应过度了吗？我应该担心吗？开源的资金会停止吗？ 谢谢     提交人    /u/sensitiveCube   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifchmt/im_worried_about_the_opensource_future_is_this/</guid>
+      <pubDate>Sat, 01 Feb 2025 18:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>构建一个设备来远程控制红外设备——值得写进我的简历吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1if90he/built_a_device_to_control_ir_devices/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我目前正在开发一款消费产品。我一直是开源运动的粉丝（并从中受益），所以我想让这款产品的某些方面保持开源和对黑客友好。 在我看来，这看起来像是发布带有黑客友好许可证的固件，并发布一些细节，如引脚分布等。而且，可能启用通过 USB 端口侧载程序的简单方法。 我有两个主要担忧：  产品责任和安全会发生什么？这款产品有一个高功率（1kW）加热器，如果使用不当可能会有潜在危险。如果用户修改固件并陷入不安全的情况，谁来承担责任？这是我反对开源的最大障碍。 虽然我确实希望黑客能够破解这款产品供个人使用，但我也想防止廉价的仿制品蚕食已经存在的小众市场。当然，物理硬件不是开源的，但逆向工程却很容易。是否有开源许可证可以防止已发布的固件被商业重复使用？  你对此有何看法？你能给我什么建议吗？ 有没有产品或公司在硬件商业环境中成功平衡开源软件生态系统的例子？    提交人    /u/WEkigai   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iecdmy/which_opensource_modelapproach_is_right_for_me/</guid>
       <pubDate>Fri, 31 Jan 2025 11:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>YC 想要开源 AI 公司，这让我开始思考——为什么开源对 VC 来说有意义？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iec9ed/yc_wants_opensource_ai_companies_and_it_got_me/</link>
-      <description><![CDATA[        由    /u/omnisvosscio  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iec9ed/yc_wants_opensource_ai_companies_and_it_got_me/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:58:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找用于将 MQTT 与通知服务集成的开源工具或 Golang 库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iec4uu/looking_for_open_source_tools_or_golang_libraries/</link>
-      <description><![CDATA[大家好， 我有一个用例，我之前在集群中运行了一个 MQTT 服务。Telegraf 连接到 MQTT，Prometheus 连接到 Telegraf，Alertmanager 连接到 Prometheus。根据 Prometheus 中定义的规则，警报被发送到 Alertmanager，然后 Alertmanager 根据配置的接收器发送通知。 现在，服务本身正在向 MQTT 主题发送警报。我需要一个可以订阅 MQTT 警报主题并发送通知的开源工具。这个工具应该是高度可配置的。 如果没有可以监听 MQTT 主题并直接发送通知的开源工具，我可以运行一个 Golang 服务来监听 MQTT 主题并向通知服务发送警报。有没有能够监听 MQTT 主题和可以发送通知的库的 Golang 库？如果没有一个库，我可以使用两个库：一个用于监听 MQTT，另一个用于发送通知。 如有任何建议或意见，我们将不胜感激！    提交人    /u/West_Ad7170   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iec4uu/looking_for_open_source_tools_or_golang_libraries/</guid>
-      <pubDate>Fri, 31 Jan 2025 10:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
