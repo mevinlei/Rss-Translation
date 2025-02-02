@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 00:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 03:14:05 GMT</lastBuildDate>
+    <item>
+      <title>是否有类似于 displayfusion 的程序，基本上允许我将程序强制运行到其他显示器/屏幕？</title>
+      <link>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</link>
+      <description><![CDATA[我发现有些程序（例如 Roblox）不允许我更改其显示的显示器，即使使用 Windows + Shift + 箭头键也不起作用。我不想更改我的主显示器，因为这会弄乱我当前的设置。有人知道吗？Display fusion 在其免费版本中没有此功能。    提交人    /u/VURORA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</guid>
+      <pubDate>Sun, 02 Feb 2025 01:25:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种工具可以让我同时使用多个搜索引擎，以便我可以轻松比较每个搜索引擎的结果？</title>
+      <link>https://www.reddit.com/r/software/comments/1ifld4j/which_tool_that_can_allow_me_to_use_multiple/</link>
+      <description><![CDATA[我想要一个工具，可以让我同时比较许多搜索引擎的结果，例如 google、duckduckgo、bing、brave 等，这样我就可以比较不同的结果并查看每个搜索引擎的偏见程度。 我发现在不同的选项卡中单独搜索每个结果很耗时    提交人    /u/sense_12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifld4j/which_tool_that_can_allow_me_to_use_multiple/</guid>
+      <pubDate>Sun, 02 Feb 2025 00:59:44 GMT</pubDate>
+    </item>
     <item>
       <title>gif 编辑器</title>
       <link>https://www.reddit.com/r/software/comments/1ifk84t/gif_editor/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[  由    /u/EverretEvolved  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1iez1er/has_anyone_gotten_into_3d_models_with_ai/</guid>
       <pubDate>Sat, 01 Feb 2025 05:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么现在的声卡功能这么有限？</title>
-      <link>https://www.reddit.com/r/software/comments/1iewzd0/why_sound_cards_these_days_are_so_limited/</link>
-      <description><![CDATA[很久以前，我有一台台式机，它有一块“c-media”声卡，它的驱动程序和控制面板是下一代产品。它有如此多的控件，可以玩很多音频设置和 dfx 效果。现在的声卡太普通了，它们的声卡面板也太有限了。 我知道笔记本电脑声卡由于空间问题而受到限制，但这不是什么大问题。它们仍然可以很好地容纳一切。只需查看下面的声音面板即可。  https://preview.redd.it/mu5tonwy1gge1.png?width=655&amp;format=png&amp;auto=webp&amp;s=fcbae41b6d96c8e2c0c996898deec49360e08d23 &lt;一href=&quot;https://preview.redd.it/eetp9owy1gge1.jpg?width=1303&amp;format=pjpg&amp;auto=webp&amp;s=5794380d6341d65c72189bd5e422af5eec5ae88b&quot;&gt;https://preview.redd.it/eetp9owy1gge1.jpg?width=1303&amp;format=pjpg&amp;auto=webp&amp;s=5794380d6341d65c72189bd5e422af5eec5ae88b https://preview.redd.it/pkrohnwy1gge1.png?width=646&amp;format=png&amp;auto=webp&amp;s=23639fcb0ae3cf1b3b913084508895702baf7bb6    提交人    /u/awaixjvd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iewzd0/why_sound_cards_these_days_are_so_limited/</guid>
-      <pubDate>Sat, 01 Feb 2025 03:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以提取字幕的程序</title>
-      <link>https://www.reddit.com/r/software/comments/1ieu89p/looking_for_a_program_that_can_extract_subtitles/</link>
-      <description><![CDATA[我正在寻找一个可以将视频中的字幕提取为 srt 格式的程序。  无法从 vlc 或任何播放器中选择视频中的字幕，但它们仍然显示出来。我不确定它们是什么格式，但也许它们被刻录了？我试过 mkvtoolnix，但没有用。任何帮助都将不胜感激    提交人    /u/Starky3x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ieu89p/looking_for_a_program_that_can_extract_subtitles/</guid>
-      <pubDate>Sat, 01 Feb 2025 00:44:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
