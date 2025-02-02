@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Sun, 02 Feb 2025 07:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 11:04:35 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 人工智能对中国来说是一场胜利，但对党的控制却构成威胁</title>
+      <link>https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html</link>
+      <description><![CDATA[DeepSeek 的成功体现了中国在人工智能领域的雄心。但它也可能威胁到中国领导人的权力。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html</guid>
+      <pubDate>Sun, 02 Feb 2025 11:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯为挽救军事基地向叙利亚卑躬屈膝</title>
+      <link>https://www.nytimes.com/2025/02/02/world/europe/russia-syria-bases.html</link>
+      <description><![CDATA[巴沙尔·阿萨德倒台后，首位俄罗斯高级外交官抵达大马士革，拉开了有关莫斯科在叙利亚基地命运的谈判。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/world/europe/russia-syria-bases.html</guid>
+      <pubDate>Sun, 02 Feb 2025 11:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>这位共和党参议员称特朗普需要听取不同意见。他会发声吗？</title>
+      <link>https://www.nytimes.com/2025/02/02/us/this-republican-senator-says-trump-needs-to-hear-dissent-will-he-speak-up.html</link>
+      <description><![CDATA[参议员约翰·柯蒂斯以能与持不同意见的人合作而自豪。但由于共和党三巨头齐头并进，米特·罗姆尼的继任者是否会追随他的脚步还不得而知。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/us/this-republican-senator-says-trump-needs-to-hear-dissent-will-he-speak-up.html</guid>
+      <pubDate>Sun, 02 Feb 2025 10:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普倾向于使用强力手段对待外国盟友和敌人</title>
+      <link>https://www.nytimes.com/2025/02/02/us/politics/trump-tariffs-migrants-power.html</link>
+      <description><![CDATA[对于加拿大、墨西哥、中国、哥伦比亚和中东，特朗普总统毫不犹豫地威胁要动用美国的强权，迫使这些国家屈服，按照他的意愿行事。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/us/politics/trump-tariffs-migrants-power.html</guid>
+      <pubDate>Sun, 02 Feb 2025 10:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>减肥药及其对人际关系鲜为人知的副作用</title>
+      <link>https://www.nytimes.com/2025/02/02/magazine/weight-loss-side-effects-sex-ozempic.html</link>
+      <description><![CDATA[医生警告了它们对身体的副作用，但它们也可能对亲密关系产生意想不到的影响。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/magazine/weight-loss-side-effects-sex-ozempic.html</guid>
+      <pubDate>Sun, 02 Feb 2025 10:00:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>曼哈顿联邦检察官的“主权”地位悬而未决</title>
+      <link>https://www.nytimes.com/2025/02/02/nyregion/eric-adams-charges-southern-district.html</link>
+      <description><![CDATA[如果临时美国检察官丹妮尔·R·萨松同意撤销对市长埃里克·亚当斯的起诉，这一决定可能会威胁到这个以独立性著称的办公室的声誉。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/nyregion/eric-adams-charges-southern-district.html</guid>
+      <pubDate>Sun, 02 Feb 2025 08:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛杉矶已收到致命野火警告。它做好了充分准备吗？</title>
+      <link>https://www.nytimes.com/2025/02/02/us/la-wildfires-palisades-eaton-preparations.html</link>
+      <description><![CDATA[洛杉矶地区的官员们接到过多次警告，称一场致命的风灾和干旱即将来临。一场严重的火灾可能即将发生。他们是否做好了充分的准备？]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/us/la-wildfires-palisades-eaton-preparations.html</guid>
+      <pubDate>Sun, 02 Feb 2025 08:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么这位首席执行官吹嘘要用人工智能取代人类？</title>
+      <link>https://www.nytimes.com/2025/02/02/business/why-is-this-ceo-bragging-about-replacing-humans-with-ai.html</link>
+      <description><![CDATA[大多数大型雇主都认为机器人抢走我们工作的可能性很小。但 Klarna 是科技投资者的宠儿。]]></description>
+      <guid>https://www.nytimes.com/2025/02/02/business/why-is-this-ceo-bragging-about-replacing-humans-with-ai.html</guid>
+      <pubDate>Sun, 02 Feb 2025 08:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>美国联邦航空管理局主要警告系统 NOTAM 瘫痪</title>
       <link>https://www.nytimes.com/2025/02/02/us/notam-outage-faa-alerts.html</link>
@@ -13,18 +69,11 @@
       <pubDate>Sun, 02 Feb 2025 07:24:52 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普下令对索马里伊斯兰国进行空袭</title>
-      <link>https://www.nytimes.com/2025/02/01/us/politics/trump-airstrikes-isis-somalia.html</link>
-      <description><![CDATA[国防部长皮特·赫格塞斯表示，该国北部偏远山区“多名特工”被杀。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/us/politics/trump-airstrikes-isis-somalia.html</guid>
-      <pubDate>Sun, 02 Feb 2025 07:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我感觉自己像个超级英雄。”加沙废墟中仍存希望。</title>
-      <link>https://www.nytimes.com/2025/02/02/opinion/gaza-israel-cease-fire-hope.html</link>
-      <description><![CDATA[在加沙遭受的毁坏中，我们现在至少可以寻找到除了生存之外的一些目标。]]></description>
-      <guid>https://www.nytimes.com/2025/02/02/opinion/gaza-israel-cease-fire-hope.html</guid>
-      <pubDate>Sun, 02 Feb 2025 06:00:05 GMT</pubDate>
+      <title>民主党议员称美国援助机构即将终结</title>
+      <link>https://www.nytimes.com/2025/02/01/us/us-aid-agency-trump.html</link>
+      <description><![CDATA[随着美国国际开发署网站瘫痪，援助团体的危机感日益增强。]]></description>
+      <guid>https://www.nytimes.com/2025/02/01/us/us-aid-agency-trump.html</guid>
+      <pubDate>Sun, 02 Feb 2025 07:08:09 GMT</pubDate>
     </item>
     <item>
       <title>美国关税如何挑战中国</title>
@@ -34,25 +83,11 @@
       <pubDate>Sun, 02 Feb 2025 05:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>人类最大规模的聚会，汇聚神灵、数字世界和政治</title>
-      <link>https://www.nytimes.com/2025/02/02/world/asia/india-maha-kumbh-mela.html</link>
-      <description><![CDATA[印度教节日大壶节吸引了数亿朝圣者，是印度总理纳伦德拉·莫迪及其盟友强大的营销工具。]]></description>
-      <guid>https://www.nytimes.com/2025/02/02/world/asia/india-maha-kumbh-mela.html</guid>
-      <pubDate>Sun, 02 Feb 2025 05:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 人工智能对中国来说是一场胜利，但对党的控制却构成威胁</title>
-      <link>https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html</link>
-      <description><![CDATA[DeepSeek 的成功体现了中国在人工智能领域的雄心。但它也可能威胁到中国领导人的权力。]]></description>
-      <guid>https://www.nytimes.com/2025/02/02/world/asia/deepseek-china-ai-censorship.html</guid>
-      <pubDate>Sun, 02 Feb 2025 05:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普暂停对外援助后，全球卫生项目关闭</title>
-      <link>https://www.nytimes.com/2025/02/01/health/trump-aid-malaria-tuberculosis-hiv.html</link>
-      <description><![CDATA[针对结核病、疟疾、艾滋病毒和其他疾病的救命治疗和预防项目无法获得资金继续开展工作。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/health/trump-aid-malaria-tuberculosis-hiv.html</guid>
-      <pubDate>Sun, 02 Feb 2025 04:18:32 GMT</pubDate>
+      <title>特朗普为遏制 D.E.I. 采取大规模行动，教育官员被暂停工作</title>
+      <link>https://www.nytimes.com/2025/02/01/us/politics/trump-dei-education-department.html</link>
+      <description><![CDATA[周五，一些员工表示自己与多元化或公平努力仅有最低限度的联系，他们收到的信件告知他们已被停职。]]></description>
+      <guid>https://www.nytimes.com/2025/02/01/us/politics/trump-dei-education-department.html</guid>
+      <pubDate>Sun, 02 Feb 2025 04:53:39 GMT</pubDate>
     </item>
     <item>
       <title>美国航空客机坠毁前俯仰角向上</title>
@@ -62,16 +97,9 @@
       <pubDate>Sun, 02 Feb 2025 03:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>飞机失事造成至少 7 人死亡，费城社区陷入恐慌</title>
-      <link>https://www.nytimes.com/2025/02/01/us/philadelphia-plane-crash.html</link>
-      <description><![CDATA[周五晚间发生的坠机事件令费城东北部居民难以置信，飞机还造成地面上至少 19 人受伤。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/us/philadelphia-plane-crash.html</guid>
-      <pubDate>Sun, 02 Feb 2025 02:00:16 GMT</pubDate>
-    </item>
-    <item>
       <title>伊隆·马斯克的团队现在可以访问财政部的支付系统</title>
       <link>https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html</link>
-      <description><![CDATA[财政部长斯科特·贝森特 (Scott Bessent) 为马斯克在所谓的政府效率部的代表提供了一个强有力的工具来监控并潜在地限制政府支出。]]></description>
+      <description><![CDATA[财政部长斯科特·贝森特 (Scott Bessent) 为马斯克在政府效率部的代表们提供了一个强有力的工具来监控并潜在地限制政府支出。]]></description>
       <guid>https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html</guid>
       <pubDate>Sun, 02 Feb 2025 00:40:08 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[一架美国航空公司的客机与一架美国陆军直升机相撞并坠入波托马克河，造成 67 人死亡。]]></description>
       <guid>https://www.nytimes.com/2025/01/30/us/plane-crash-dc-helicopter-reagan-airport.html</guid>
       <pubDate>Sat, 01 Feb 2025 23:54:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是关于特朗普关税你需要知道的事</title>
-      <link>https://www.nytimes.com/2025/02/01/business/trump-tariffs-canada-mexico-china.html</link>
-      <description><![CDATA[加拿大、墨西哥和中国占美国进口产品的三分之一以上。关税可能导致消费者价格上涨。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/business/trump-tariffs-canada-mexico-china.html</guid>
-      <pubDate>Sat, 01 Feb 2025 23:49:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>北加州部分地区降雨量可能达到 15 英寸</title>
-      <link>https://www.nytimes.com/2025/02/01/weather/california-rain-flooding.html</link>
-      <description><![CDATA[大气河流状况可能给内华达山脉北部带来数英尺厚的积雪。随着地面越来越饱和，其他地区面临洪水风险。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/weather/california-rain-flooding.html</guid>
-      <pubDate>Sat, 01 Feb 2025 22:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>在特朗普的反多样性努力下，黑人历史月有了新的含义</title>
-      <link>https://www.nytimes.com/2025/02/01/us/trump-black-history-month.html</link>
-      <description><![CDATA[2 月 1 日是黑人历史月的第一天，突然间，研究黑人经历感觉像是一种反抗行为。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/us/trump-black-history-month.html</guid>
-      <pubDate>Sat, 01 Feb 2025 22:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>接收阿富汗难民的道德和战略依据</title>
-      <link>https://www.nytimes.com/2025/02/01/opinion/afghanistan-refugees-us.html</link>
-      <description><![CDATA[特朗普违背了至少 1600 个承诺并颠覆了许多人的生活。]]></description>
-      <guid>https://www.nytimes.com/2025/02/01/opinion/afghanistan-refugees-us.html</guid>
-      <pubDate>Sat, 01 Feb 2025 12:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
