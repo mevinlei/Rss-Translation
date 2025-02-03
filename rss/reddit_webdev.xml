@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 03 Feb 2025 09:12:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 18:14:19 GMT</lastBuildDate>
     <item>
-      <title>天啊，我讨厌和别人一起工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igl1bn/god_i_hate_working_with_people/</link>
-      <description><![CDATA[这就是我 10 多年前成为网页设计师/开发人员的原因。人们（同事和客户）混乱、无组织、不合逻辑、没有帮助、粗鲁等等。 我是一名 Shopify 开发人员，随着技术兄弟、有资格的企业家、初创企业/剥削性品牌的数量增加，这个领域变得越来越糟。CRO、A/B 测试、GTM 可以扔进垃圾箱了。 我只想一个人待着，在自己的时间里做事情。我厌倦了 Slack、会议，所有这一切。 我能做什么？我能去哪里？顺便说一句，这是我 3 年来的第六份代理工作。它们都一样。    提交人    /u/casioookid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igl1bn/god_i_hate_working_with_people/</guid>
-      <pubDate>Mon, 03 Feb 2025 09:07:11 GMT</pubDate>
+      <title>您获得新想法的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igvomn/how_is_your_approach_to_get_a_new_idea/</link>
+      <description><![CDATA[大家好。 在我目前的工作岗位上工作了 3 年，工资没有增加过。当我问他们时，他们也说公司没有足够的钱（其他员工的工资也没有增加）。 我想赚点外快，但我很难找到一些副业的想法，也找不到我所在城市的客户。另外，我也申请了其他工作一段时间，但一直很困难。 所以我想知道你是怎么想出这些想法的，或者你有什么建议或提示给我吗？ 非常感谢！！    提交人    /u/Comprehensive-Cup947   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igvomn/how_is_your_approach_to_get_a_new_idea/</guid>
+      <pubDate>Mon, 03 Feb 2025 18:13:12 GMT</pubDate>
     </item>
     <item>
-      <title>如何抓取整个 LinkedIn 数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igknw4/how_to_scrape_the_whole_linkedin/</link>
-      <description><![CDATA[大家有没有什么办法可以抓取 LinkedIn 数据。我正在寻找 zoominfo 和 apollo io 等公司是如何抓取 LinkedIn 数据的    提交人    /u/Munib_raza_khan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igknw4/how_to_scrape_the_whole_linkedin/</guid>
-      <pubDate>Mon, 03 Feb 2025 08:38:17 GMT</pubDate>
+      <title>从 Vercel/Contentful 迁移到 WebFlow/SquareSpace</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igv12h/migrate_from_vercelcontentful_to/</link>
+      <description><![CDATA[我想从 Vercel/Contentful 迁移到另一个更简单的平台 - 例如 WebFlow、SquareSpace 等。有没有工具或者什么是最简单的方法可以做到这一点，而不需要大量的开发和重新设计？    提交人    /u/l0pht83   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igv12h/migrate_from_vercelcontentful_to/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>💻 销售完全开发的音乐追踪平台（Spotify 和 Apple Music 集成）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igkdtb/selling_a_fully_developed_music_tracking_platform/</link>
-      <description><![CDATA[我正在销售一个功能齐全的音乐追踪平台：• Spotify 集成：追踪收听习惯、总时间和自定义统计数据。• Apple Music 支持：正在开发中（跨平台分析即将推出！）。• 图表：可视化您在不同时间段的收听情况。 通过基于订阅的模式进行正确的营销，它具有巨大的盈利潜力。 代码已准备好发布，对于任何希望启动音乐分析网站或将其添加到自己的项目中的人来说都是完美的选择。 DM 我了解更多详情或演示。    提交人    /u/Real-Ambition-8781   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igkdtb/selling_a_fully_developed_music_tracking_platform/</guid>
-      <pubDate>Mon, 03 Feb 2025 08:17:01 GMT</pubDate>
+      <title>你什么时候才恍然大悟？正在寻找学习方面的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iguvpj/when_did_it_all_click_for_you_looking_for_advice/</link>
+      <description><![CDATA[我已经学习和使用基本 HTML 和 CSS 构建项目一段时间了，但我感觉我几乎什么都不懂？ 我刚刚完成了一个半难的项目，其中包括必须学习几个新概念/元素，但当我开始下一个项目时，我好像忘记了很多基本的东西，不得不去学习我以前的代码/阅读文档，以便记住/理解我前一天到底做了什么。  我不会说我陷入了“教程地狱”，因为我不看/跟着代码视频。相反，我会构建自己的小项目，或者使用前端导师。（直到完成一个项目后，我才会查看其他人的代码）。只有当我自己无法弄清楚某些元素/属性/功能时，我才会查找它们。  这会好起来吗？我觉得自己太蠢了哈哈。就好像我刚开始理解某件事，等我准备再次编写代码时，它就消失了。这非常令人沮丧，让我怀疑这个领域是否适合我。    提交人    /u/Stock_Instruction919   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iguvpj/when_did_it_all_click_for_you_looking_for_advice/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:41:28 GMT</pubDate>
     </item>
     <item>
-      <title>终身 API 访问出错：如何在不切断用户的情况下解决资金问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igkcox/lifetime_api_access_gone_wrong_how_do_i_fix_a/</link>
-      <description><![CDATA[我正在运行 IP Flare，这是一项 IP 到地理位置 API 服务。早期，我提供了一项 100 美元的“终身”计划，可无限访问，以快速吸引用户。现在，我有 111 名终身用户（其中​​一些用户每天的请求量高达 50K），我的托管成本已飙升至每月 300 美元。 我感到很为难：我不想追溯性地对付费“无限”访问的用户施加限制，但当前模式不可持续。有人遇到过类似的情况吗？我怎样才能在不疏远社区的情况下转向更可持续的定价模式？ 任何建议都将不胜感激！    提交人    /u/Lukem121   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igkcox/lifetime_api_access_gone_wrong_how_do_i_fix_a/</guid>
-      <pubDate>Mon, 03 Feb 2025 08:14:31 GMT</pubDate>
+      <title>号召行动：时常检查你的数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iguqpq/call_to_action_check_in_with_your_database_every/</link>
+      <description><![CDATA[        提交人    /u/tosbourn   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iguqpq/call_to_action_check_in_with_your_database_every/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:35:47 GMT</pubDate>
     </item>
     <item>
-      <title>花了四天时间参加 Node 和 REACT 编程挑战，结果被拒绝了。我做错了什么？😢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igk0d2/spent_four_days_on_a_node_and_react_coding/</link>
-      <description><![CDATA[注意：显然我需要澄清一下。我被给了 5 天时间来完成这项任务，而我在 9-5 工作日之后的 4 天内就完成了。这不是 32 个小时的工作，更像是总共 6-8 个小时 我最近收到了一个 Node 和 React 编码挑战，用于工作申请。 他们要求我创建一个 Node 后端，将数字转换为罗马数字（1-3999），以及一个简单的 React 前端，该前端具有输入并使用此 API 并将结果显示给用户。 我对自己的 React 和 Node 能力非常有信心，并且觉得我对最佳和最现代的实践有很好的掌握，所以当我在这个挑战上花了四天时间却被拒绝时，我感到非常惊讶。甚至没有一次面对面的面试。 最糟糕的是，这是一次内部推荐。 所以我想知道我做错了什么。请随意查看我的两个存储库并告诉我您的想法。我还被告知要在 README 等中记录我的 API，并进行测试和日志记录等。 后端：https://github.com/Doughertyg/aem-engineering-service-api 前端：https://github.com/Doughertyg/aem-engineering-client    提交人    /u/grambo37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igk0d2/spent_four_days_on_a_node_and_react_coding/</guid>
-      <pubDate>Mon, 03 Feb 2025 07:48:49 GMT</pubDate>
+      <title>Fienal 的最新动态 - “Duolingo 金融版”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iguifg/update_with_fienal_duolingo_for_finance/</link>
+      <description><![CDATA[大家好， 我发布了关于 https://fienal.com - 动手金融教育平台的帖子，人们非常喜欢它并给了我很多有用的反馈。考虑到这一点，我对游戏进行了更改，使它们更具吸引力和逼真度。  尝试一下，让我知道是否有任何错误或可以进行改进以增强体验。 谢谢    提交人    /u/Familiar-Sell6551   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iguifg/update_with_fienal_duolingo_for_finance/</guid>
+      <pubDate>Mon, 03 Feb 2025 17:26:43 GMT</pubDate>
     </item>
     <item>
-      <title>醉酒的派对爱好者喜欢我们的工具……但我们真的应该添加付费功能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igjykr/drunk_partygoers_love_our_tool_but_should_we/</link>
-      <description><![CDATA[因此，我们开发了一个名为 Jamocracy 的工具 - 它可以让派对上的每个人投票决定接下来播放什么歌曲，而不是让一个人劫持辅助设备。结果，醉酒的人喜欢它。就像，真的喜欢它。 问题是，我们一直在考虑添加一些高级功能，但现在我们遇到了一些道德困境。我们是否只是在利用那些太沉迷于当下而不在乎花钱的醉酒派对参与者？想象一下，有人喝了三杯酒，花 4.99 美元只是为了跳过一首他们真的讨厌的歌曲。感觉有点……不对劲？但这也是酒吧处理高价饮料的方式，对吧？ 很想听听大家的想法。我们应该保持它的免费和纯粹，还是对一些额外的派对力量收费是公平的？ 4o    提交人    /u/Blechkelle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igjykr/drunk_partygoers_love_our_tool_but_should_we/</guid>
-      <pubDate>Mon, 03 Feb 2025 07:45:06 GMT</pubDate>
+      <title>我快速介绍了如何使用 DeepSeek 启动你的第一个聊天机器人 poc</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igt3pn/i_made_a_quick_how_too_on_spinning_up_your_first/</link>
+      <description><![CDATA[  由    /u/tacpot  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igt3pn/i_made_a_quick_how_too_on_spinning_up_your_first/</guid>
+      <pubDate>Mon, 03 Feb 2025 16:29:54 GMT</pubDate>
     </item>
     <item>
-      <title>路由问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igjmt8/routing_problem/</link>
-      <description><![CDATA[大家好， 我偶然发现了我的服务器的一个问题，也许你们中有人可以帮忙。我在 DigitalOcean droplet 上有一个 Next.js 前端服务器和一个 python flask 后端服务器。首先，我只路由了我的前端，它工作正常。现在，当我尝试使用 Nginx 路由我的后端时，它不起作用。也许有人可以给我提供如何路由两者的参考，或者指导我完成整个过程。而且，考虑到后端非常小，一般来说，在同一台服务器上同时托管前端和后端并不是一个好主意。    提交人    /u/GuideIntelligent5953   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igjmt8/routing_problem/</guid>
-      <pubDate>Mon, 03 Feb 2025 07:20:50 GMT</pubDate>
+      <title>在 JavaScript 中，有很多方法可以分解长任务。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igspad/there_are_a_lot_of_ways_to_break_up_long_tasks_in/</link>
+      <description><![CDATA[       由    /u/alexmacarthur  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igspad/there_are_a_lot_of_ways_to_break_up_long_tasks_in/</guid>
+      <pubDate>Mon, 03 Feb 2025 16:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>通过 https 运行本地开发环境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igiz7o/run_your_local_dev_environment_over_https/</link>
-      <description><![CDATA[      想分享我的方法在本地开发中尽可能接近地镜像产品。我在这个例子中使用了 Nextjs，但这种方法应该适用于大多数 Web 服务器。    提交人    /u/TheUIDawg   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igiz7o/run_your_local_dev_environment_over_https/</guid>
-      <pubDate>Mon, 03 Feb 2025 06:34:38 GMT</pubDate>
+      <title>展示后端技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igsbqm/showcasing_backend_skills/</link>
+      <description><![CDATA[大家好，我想知道你如何向招聘人员展示你的后端技能？我做前端开发人员已经 3 年了，并且有一个作品集，我通过项目展示了我在全栈开发方面的技能。但是，如果没有前端，我该如何向招聘人员展示我的后端特定技能呢？    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igsbqm/showcasing_backend_skills/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>关于响应式设计的一些帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ighvns/a_little_help_about_responsive_designs/</link>
-      <description><![CDATA[大家好，我主要是一名后端程序员，但我对前端工作了解颇多。我讨厌让我的网站具有响应性，对我来说，这是一个漫长的过程。 你们对制作响应式设计有什么建议吗，例如使用任何库、一些材料 UI 或学习一个全新的框架。此外，你们使用什么来简化这个过程？ 附言。我使用纯 html、css、js、next.js、react 和一点 angular。    提交人    /u/Ajvn_oncloud   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ighvns/a_little_help_about_responsive_designs/</guid>
-      <pubDate>Mon, 03 Feb 2025 05:24:39 GMT</pubDate>
+      <title>谷歌建议我们迁移到 FedCM，但一半的浏览器甚至不支持它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igsadm/google_told_us_to_migrate_to_fedcm_and_yet_its/</link>
+      <description><![CDATA[      使用 Google OAuth 服务的人可能知道他们建议我们迁移到 FedCM（联合凭证管理 API），但是我们如何才能在它仍处于实验阶段的情况下做到这一点呢？ https://preview.redd.it/6sbrksik5yge1.png?width=2012&amp;format=png&amp;auto=webp&amp;s=8ad6b5061971ef5cbd27a13aef1c3ed3bb232f4e https://preview.redd.it/ptz1v73p5yge1.png?width=1462&amp;format=png&amp;auto=webp&amp;s=60ca1b43f5dee158bcd383b0870ad78de755a122    提交人    /u/ThaisaGuilford   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igsadm/google_told_us_to_migrate_to_fedcm_and_yet_its/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:56:44 GMT</pubDate>
     </item>
     <item>
-      <title>如何在表单输入中实现类似 IntelliSense 的打字体验？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igfpdm/how_can_i_implement_an_intellisense_like_typing/</link>
-      <description><![CDATA[      https://i.redd.it/pmptpbteduge1.gif 为了便于理解，我正在开发一款医疗保健应用。在此应用中，治疗师必须为患者编写英文句子式的目标。例如，   患者将使用 min-assist 和滚动助行器完成从坐到站的转移。  在此句中，min-assist 和 rolling walker 是特殊的术语。它们应该用颜色编码，并且用户应该能够从自己独特的列表中选择每个值。 您可以在此处看到我的竞争对手如何以不太用户友好的方式解决此问题。 我正在寻找有关使用 JavaScript（React）实现此功能的建议。我有使用 Monaco Editor 的经验，但感觉它对我的需求来说太重了。我想知道是否应该使用带有contenteditable的 div 从头开始​​构建它？ 非常感谢您的任何建议或意见。    提交人    /u/neb2357   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igfpdm/how_can_i_implement_an_intellisense_like_typing/</guid>
-      <pubDate>Mon, 03 Feb 2025 03:24:09 GMT</pubDate>
+      <title>单页网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igs1mf/single_page_website/</link>
+      <description><![CDATA[我需要一个单页主题。我为自己建立了一个网站。我需要一个主题。我不想费心自己设计。购买主题毫无意义，因为我只需要一个页面。您的建议是什么？来自 GitHub 还是网站？    提交人    /u/gavetoplebendolentem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igs1mf/single_page_website/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:46:16 GMT</pubDate>
     </item>
     <item>
-      <title>在 Youtube 上创建 Hono 系列：在学习和制作内容时，希望得到建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igdj5x/building_a_hono_series_on_youtube_would/</link>
-      <description><![CDATA[🚀 大家好！ 🚀 我很高兴与大家分享我的最新视频：使用 JWT 为您的 HONO API 添加身份验证！ 在本教程中，我们将深入研究使用 JSON Web 令牌 (JWT) 保护您的 HONO API。无论您是初学者还是经验丰富的开发人员，此视频都将引导您完成：✅ 为什么身份验证对 API 至关重要✅ JWT 的工作原理以及它为什么很棒✅ 在 HONO 中逐步实现 JWT✅ 保护路由并添加基于角色的访问控制 如果您想知道如何保护您的 API 安全或如何在您的项目中实现身份验证，那么这个适合您！ 🔗 在这里观看： https://youtu.be/s3QAuXg86yU 我很乐意在评论中听到您的想法、问题或反馈——无论是在这里还是在 YouTube 上。让我们一起研究 API 安全性吧！ 如果您发现该视频有用，请随时与可能从中受益的任何人分享。编码快乐！💻✨    提交人    /u/RevolutionaryAd1557   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igdj5x/building_a_hono_series_on_youtube_would/</guid>
-      <pubDate>Mon, 03 Feb 2025 01:32:14 GMT</pubDate>
+      <title>指导</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igrzfb/guidance/</link>
+      <description><![CDATA[大家好。我是一名在三级大学攻读 BCA 学位的学生。我的学位现在需要 4 年（以前是 3 年，但根据新政策是 4 年）。我想发展我的技能，并且非常需要一些关于如何建立我的技能和简历的指导。我计划在完成学位或在国外攻读硕士学位后立即工作。 有什么建议我下一步应该做什么。我只知道 Python、基本 SQL、基本 C 和 html css。 我接下来应该学习哪种编程语言？    提交人    /u/krsg8   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igrzfb/guidance/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:43:46 GMT</pubDate>
     </item>
     <item>
-      <title>数据工程师正在寻求为 MVP 构建 Web 应用程序的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igctrf/data_engineer_looking_for_tips_to_build_a_web_app/</link>
-      <description><![CDATA[大家好！我是一名经验丰富的数据工程师，没有任何计算机科学背景，希望尽可能轻松快速地构建 Web 应用 MVP。虽然我仍然不知道要求的全部范围，但从高层次来看，它应该是一个 Web 应用，通过文本和/或照片处理承包商信息、材料和用户在特定材料/项目中的输入。 虽然我曾与后端和前端工程师合作过，但我从未真正深入了解过他们所做的事情和他们的堆栈。 我正在寻找有关构建此应用的最佳技术堆栈的提示，并希望使用一些 AI 工具来完成大部分工作。 我非常擅长做 DevOps/云工作，所以我主要寻找有关 Web 开发的提示。 提前致谢！    提交人    /u/rudboi12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igctrf/data_engineer_looking_for_tips_to_build_a_web_app/</guid>
-      <pubDate>Mon, 03 Feb 2025 00:57:28 GMT</pubDate>
+      <title>自 2014 年以来没有进行过严肃的 CSS 布局编码，需要赶上，尤其是 CSS Grid 和 Flexbox。有没有复杂布局解决方案的优秀示例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igrnwj/not_done_serious_css_layout_coding_since_2014_and/</link>
+      <description><![CDATA[我以前很熟练，但自 2014 年以来，我一直依赖页面构建器为我完成大部分代码。我现在发现我对现代布局最佳实践的了解已经远远落后了。  我特别想知道响应式布局的想法。例如 theguardian.com 的标题    提交人    /u/redhairedDude   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igrnwj/not_done_serious_css_layout_coding_since_2014_and/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>云平台认证值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igch1j/certifications_in_cloud_platforms_worth_it/</link>
-      <description><![CDATA[大家好， 我目前是一名专业软件开发人员，大约有两年了，我对在某个云平台获得认证越来越感兴趣。GCP、AWS 或 Azure。我在 .net 上做了很多工作，所以 Azure 似乎是明智的选择……是吗？这重要吗？ 我希望在我的职业生涯中迈出下一步，我注意到很多工作应用程序都在寻找一些云经验（或作为一种不错的选择），我觉得我最常注意到 aws。 你们会推荐其中任何一个吗？有人有经验和建议，关于他们未来会做什么吗？ 此外，我获得什么认证特别重要吗？我认为这些认证的核心原则都是一样的，所以我很好奇，如果我有 AWS 认证，公司仍然会感兴趣，因为我掌握了这些核心原则。  任何建议都有帮助，我很想听听大家的想法。 这里还有一个问题，获得 AI 认证的最佳方式是什么......我可以通过同样的流程来做到这一点吗？    提交人    /u/manwtheplan123   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igch1j/certifications_in_cloud_platforms_worth_it/</guid>
-      <pubDate>Mon, 03 Feb 2025 00:40:09 GMT</pubDate>
+      <title>对于极简主义的任务管理项目，我的 UI 看起来怎么样？欢迎提供任何反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igr1sp/how_does_my_ui_look_for_a_minimalist_task/</link>
+      <description><![CDATA[        提交人    /u/Euphoric_Natural_304   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igr1sp/how_does_my_ui_look_for_a_minimalist_task/</guid>
+      <pubDate>Mon, 03 Feb 2025 15:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>与 RMP 类似的场地开发前进之路</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igcc55/path_forward_for_development_of_site_similar_to/</link>
-      <description><![CDATA[您好！ 我没有任何合法的 webdev 经验，所以请原谅我的无知或误解。我的开发经验仅限于十几岁时为经过修改的游戏重写配置文件。 我想制作一个与 ratemyprofessers.com 非常相似的网站，以适应更严格的市场。我不知道从哪里开始或我能期待什么。  自己做这件事需要什么级别的开发经验？它是否可以相对快速地学习并在需要时获得帮助？ 这种水平的网站建立在什么平台上？ 在预算方面，我可以期望聘请自由职业者或代理机构来完成它吗？ 非常感谢大家！     提交人    /u/thewizbizman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igcc55/path_forward_for_development_of_site_similar_to/</guid>
-      <pubDate>Mon, 03 Feb 2025 00:33:25 GMT</pubDate>
+      <title>nextstepjs - 轻量级入门库，现在支持所有 React 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igq9xp/nextstepjs_lightweight_onboarding_library_now/</link>
+      <description><![CDATA[      去年我创建了 nextstepjs 来解决我们的入职问题。然后将其开源并获得了 reddit 社区的积极反馈。 现在我发布了 v2 beta，它抽象了路由器并允许其他 react 框架也使用该库。到目前为止，我已经使用 react router、nextjs 和 remix 对其进行了测试。如果人们在其他框架上测试它，我会非常高兴收到一些反馈。 关于为什么使用该库的几个想法：-注册后通过分步指导引导新用户-将帮助文档转换为交互式导览而不是纯文本-通过精确显示要修复的内容来处理错误，使用自定义导览而不是无聊的烤面包机-在特定事件后触发自定义导览以使用户保持正轨 请随意吐槽、评论和建议。每当我在 Reddit 上发布它时，我都会收到令人惊叹的反馈，这有助于改进这个库。    提交人    /u/enszrlu   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igq9xp/nextstepjs_lightweight_onboarding_library_now/</guid>
+      <pubDate>Mon, 03 Feb 2025 14:27:11 GMT</pubDate>
     </item>
     <item>
-      <title>我们的工作被人工智能毁了！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igc6p6/our_jobs_are_ruined_by_ai/</link>
-      <description><![CDATA[哈哈，不是的。正如我们许多人提到的那样，将会有大量客户只想使用 ai 生成器来制作网站。我有一个客户来找我，想修复 mixo 网站上的一些简单的东西。  我告诉他这会花我几周的时间，而且要花 X 元。我说看。既然你喜欢这个外观，就让我把它重建成这样，但你将有更大的灵活性来添加新的东西。我把价格降了一点，马上就搞定了他。 我的意思是，它就像 Wordpress 中的网站构建器用铲子敲了一下它的头，然后又试了一次，只是为了确保铲子没问题     提交人    /u/iDontLikeChimneys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igc6p6/our_jobs_are_ruined_by_ai/</guid>
-      <pubDate>Mon, 03 Feb 2025 00:25:55 GMT</pubDate>
+      <title>需要寻求一些帮助以确保我的网站 DNS 和 STMP 设置正确...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igplw9/need_to_find_some_assistance_for_making_sure_my/</link>
+      <description><![CDATA[有没有设置 DNS 的典型指南？我有点菜鸟，我的主机和域名已经链接好了，但我想更改域名并确保我做得正确。 我对 DNS 设置域和主机感到困惑 除此之外，我想确保我的邮件和 STMP 都设置正确，并且只有一个联系表单可以正常工作。 或者如果有地方可以雇人帮我做这件事，比如一个小时，我也愿意这么做，以确保它是正确的。 谢谢！    提交人    /u/xCosmicAura   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igplw9/need_to_find_some_assistance_for_making_sure_my/</guid>
+      <pubDate>Mon, 03 Feb 2025 13:56:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
