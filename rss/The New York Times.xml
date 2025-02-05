@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Feb 2025 00:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 02:49:51 GMT</lastBuildDate>
     <item>
-      <title>马斯克团队仔细审查教育部门的运作</title>
-      <link>https://www.nytimes.com/2025/02/04/us/politics/musk-education-department.html</link>
-      <description><![CDATA[此次参与是这位亿万富翁在政府中影响力不断扩大的最新迹象，他的影响力已经延伸到超过六个政府机构。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/us/politics/musk-education-department.html</guid>
-      <pubDate>Wed, 05 Feb 2025 00:20:26 GMT</pubDate>
+      <title>瑞典校园枪击案造成至少 10 人死亡，为该国“最严重”枪击事件</title>
+      <link>https://www.nytimes.com/2025/02/04/world/europe/sweden-school-shooting.html</link>
+      <description><![CDATA[枪击事件发生在厄勒布鲁市的一家成人教育中心。官员称，嫌疑人据信也在死者之列。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/world/europe/sweden-school-shooting.html</guid>
+      <pubDate>Wed, 05 Feb 2025 01:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐和埃隆的精彩冒险？只有中国在笑。</title>
+      <link>https://www.nytimes.com/2025/02/04/opinion/trump-tariffs-china-evs.html</link>
+      <description><![CDATA[总统冲动征收关税是美国制造业面临更深层次挑战的表现。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/opinion/trump-tariffs-china-evs.html</guid>
+      <pubDate>Wed, 05 Feb 2025 01:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>波托马克河上空坠毁飞机的最后遗骸被找到</title>
+      <link>https://www.nytimes.com/2025/02/04/us/potomac-plane-bodies-recovered.html</link>
+      <description><![CDATA[华盛顿官员称，他们已找到 67 具遗体。飞机上有 64 名乘客，与之相撞的陆军直升机上有 3 名机组人员。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/us/potomac-plane-bodies-recovered.html</guid>
+      <pubDate>Wed, 05 Feb 2025 00:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>致命坠机前天气状况可能阻碍了黑鹰机组人员飞行</title>
+      <link>https://www.nytimes.com/2025/02/04/us/politics/plane-helicopter-crash-reagan-airport.html</link>
+      <description><![CDATA[在直升机与一架支线客机在空中相撞之前，陆军飞行员正在应对黑暗的天空、低空、繁忙的空域和没有特定交通探测器的驾驶舱。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/us/politics/plane-helicopter-crash-reagan-airport.html</guid>
+      <pubDate>Wed, 05 Feb 2025 00:28:11 GMT</pubDate>
     </item>
     <item>
       <title>伊斯玛仪派穆斯林富裕领袖阿迦汗四世逝世，享年 88 岁</title>
@@ -27,13 +48,6 @@
       <pubDate>Wed, 05 Feb 2025 00:05:12 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部为马斯克团队使用联邦支付系统辩护</title>
-      <link>https://www.nytimes.com/2025/02/04/us/politics/elon-musk-federal-payments.html</link>
-      <description><![CDATA[该部门表示不会中断任何付款，并正在对系统的完整性进行审查。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/us/politics/elon-musk-federal-payments.html</guid>
-      <pubDate>Tue, 04 Feb 2025 23:31:38 GMT</pubDate>
-    </item>
-    <item>
       <title>太平洋帕利塞德地区重建之际，洛杉矶面临富裕居民的压力</title>
       <link>https://www.nytimes.com/2025/02/04/realestate/la-fires-pacific-palisades-rebuilding.html</link>
       <description><![CDATA[随着洛杉矶百万富翁要求快速复苏，这个社区可能会变得更加昂贵和高档。]]></description>
@@ -41,11 +55,25 @@
       <pubDate>Tue, 04 Feb 2025 23:10:51 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普称巴勒斯坦人应离开加沙</title>
+      <link>https://www.nytimes.com/2025/02/04/briefing/trump-netanyahu-white-house-china-us-tariffs.html</link>
+      <description><![CDATA[此外，中国迅速反击了特朗普的关税。以下是周二结束时的最新消息。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/briefing/trump-netanyahu-white-house-china-us-tariffs.html</guid>
+      <pubDate>Tue, 04 Feb 2025 22:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>西岸？一些共和党人称，应将其称为犹太和撒马利亚。</title>
+      <link>https://www.nytimes.com/2025/02/04/world/middleeast/west-bank-annexation-republicans.html</link>
+      <description><![CDATA[特朗普总统的回归让支持以色列吞并被占领土的人士更加大胆，他们希望强制使用反映这一观点的措辞。反对吞并的人表示，该措辞反映了政治议程。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/world/middleeast/west-bank-annexation-republicans.html</guid>
+      <pubDate>Tue, 04 Feb 2025 22:51:47 GMT</pubDate>
+    </item>
+    <item>
       <title>纽森将与特朗普会面，寻求联邦消防援助</title>
       <link>https://www.nytimes.com/2025/02/04/us/politics/newsom-trump-la-fire-aid-water.html</link>
       <description><![CDATA[加州民主党州长加文·纽瑟姆 (Gavin Newsom) 在特朗普总统寻求联邦政府提供山火救援援助的过程中试图与其合作。]]></description>
       <guid>https://www.nytimes.com/2025/02/04/us/politics/newsom-trump-la-fire-aid-water.html</guid>
-      <pubDate>Tue, 04 Feb 2025 22:50:42 GMT</pubDate>
+      <pubDate>Tue, 04 Feb 2025 22:50:43 GMT</pubDate>
     </item>
     <item>
       <title>我如何认识到婚姻中的问题出在我自己身上</title>
@@ -55,34 +83,6 @@
       <pubDate>Tue, 04 Feb 2025 22:22:50 GMT</pubDate>
     </item>
     <item>
-      <title>波托马克河上空坠毁飞机的最后遗骸被找到</title>
-      <link>https://www.nytimes.com/2025/02/04/us/potomac-plane-bodies-recovered.html</link>
-      <description><![CDATA[华盛顿官员称，他们已找到 67 具遗体。飞机上有 64 名乘客，与之相撞的陆军直升机上有 3 名机组人员。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/us/potomac-plane-bodies-recovered.html</guid>
-      <pubDate>Tue, 04 Feb 2025 22:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞典校园枪击案造成至少 10 人死亡，为该国“最严重”枪击事件</title>
-      <link>https://www.nytimes.com/2025/02/04/world/europe/sweden-school-shooting.html</link>
-      <description><![CDATA[枪击事件发生在厄勒布鲁市的一家成人教育中心。官员称，嫌疑人据信也在死者之列。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/world/europe/sweden-school-shooting.html</guid>
-      <pubDate>Tue, 04 Feb 2025 22:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大和墨西哥领导人如何采取不同方式与特朗普达成关税协议</title>
-      <link>https://www.nytimes.com/2025/02/04/world/canada/mexico-canada-trump-tariff-deals.html</link>
-      <description><![CDATA[加拿大和墨西哥领导人与特朗普总统的谈判方式各有不同。最终，他们都取得了一个可以在国内展示为胜利的结果。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/world/canada/mexico-canada-trump-tariff-deals.html</guid>
-      <pubDate>Tue, 04 Feb 2025 21:39:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党参议员一致支持特朗普内阁人选</title>
-      <link>https://www.nytimes.com/2025/02/04/us/politics/trump-cabinet-confirmations-gop-senators.html</link>
-      <description><![CDATA[尽管有所保留，共和党还是支持特朗普总统备受争议的政府高层人选，这表明共和党整体上不再挑战特朗普。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/us/politics/trump-cabinet-confirmations-gop-senators.html</guid>
-      <pubDate>Tue, 04 Feb 2025 21:20:35 GMT</pubDate>
-    </item>
-    <item>
       <title>早餐想吃鸡蛋？华夫饼屋说，需支付附加费。</title>
       <link>https://www.nytimes.com/2025/02/04/business/waffle-house-egg-surcharge.html</link>
       <description><![CDATA[该全天供应早餐的连锁餐厅表示，由于禽流感造成鸡蛋供应短缺，因此将临时增加 50 美分的附加费。]]></description>
@@ -90,11 +90,11 @@
       <pubDate>Tue, 04 Feb 2025 20:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普关税将如何影响小企业及其客户</title>
-      <link>https://www.nytimes.com/2025/02/04/us/trump-tariffs-china-consumer-costs.html</link>
-      <description><![CDATA[消费电子产品、电气设备以及纺织品和服装是美国从中国进口的主要商品类别。]]></description>
-      <guid>https://www.nytimes.com/2025/02/04/us/trump-tariffs-china-consumer-costs.html</guid>
-      <pubDate>Tue, 04 Feb 2025 20:30:39 GMT</pubDate>
+      <title>什么是书籍简介？其在出版中有多重要？</title>
+      <link>https://www.nytimes.com/2025/02/04/books/what-are-blurbs-books.html</link>
+      <description><![CDATA[西蒙与舒斯特出版社的一则声明让文学界开始怀疑书籍封面上的宣传短文和赞美之词是否真的像宣传的那样好。]]></description>
+      <guid>https://www.nytimes.com/2025/02/04/books/what-are-blurbs-books.html</guid>
+      <pubDate>Tue, 04 Feb 2025 19:45:15 GMT</pubDate>
     </item>
     <item>
       <title>肯德里克·拉马尔 (Kendrick Lamar) 的《不像我们》 (Not Like Us) 对于超级碗来说是否太具争议性？</title>
