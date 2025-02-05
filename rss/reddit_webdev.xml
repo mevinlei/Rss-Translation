@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 04 Feb 2025 12:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:47:08 GMT</lastBuildDate>
     <item>
-      <title>20 年前，当我还在上大学时，我非常沮丧，因为我在课堂上编写的第一个程序无法编译，我的导师过来笑了。今天，这件事又回来困扰我了。我笑了，这次是嘲笑我自己。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihg1w5/when_i_was_at_university_20_years_ago_i_got_very/</link>
-      <description><![CDATA[        提交人    /u/latro666   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihg1w5/when_i_was_at_university_20_years_ago_i_got_very/</guid>
-      <pubDate>Tue, 04 Feb 2025 12:00:17 GMT</pubDate>
+      <title>最适合初学者的后端语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihwcr2/best_backend_language_for_a_beginner/</link>
+      <description><![CDATA[嘿，我是一个 14 岁的孩子，对编码还很陌生，我想知道作为一个 14 岁的孩子，最好的后端语言是什么，因为我在前端方面相当擅长，比如 html JavaScript 和 css，但我还没有学习后端。 对于像我这样的初学者来说，最好的后端语言是什么？我想要一种对初学者友好但在实际项目中也很有用的东西。任何关于从哪里开始的建议或好的资源都会非常有帮助！    提交人    /u/Classic-Grab-2866   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihwcr2/best_backend_language_for_a_beginner/</guid>
+      <pubDate>Tue, 04 Feb 2025 23:50:51 GMT</pubDate>
     </item>
     <item>
-      <title>Vue/.Net Core 还是 Nuxt/Supabase？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihfxvg/vuenet_core_or_nuxtsupabase/</link>
-      <description><![CDATA[我很难确定应该为自己的产品选择什么技术。这是一个学习平台，可以参考 udemy/linkedin 学习，尽管目标是 B2B。 对于前端，我决定使用 Vue、Typescript 和 Tailwind。主要是因为我在前端领域拥有最多的经验。 对于后端，我有点不知所措。我有多年使用 .Net 的经验，但上一次专业使用是在 2021 年。我从未使用过 Nuxt 或 Supabase，但我喜欢在单个存储库中进行全栈工作的想法，就像我过去使用 Webforms 和 MVC 时所做的那样。 你能启发我吗？每条路径有什么缺点，你会推荐什么？    提交人    /u/Jakobmiller   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihfxvg/vuenet_core_or_nuxtsupabase/</guid>
-      <pubDate>Tue, 04 Feb 2025 11:53:08 GMT</pubDate>
+      <title>将项目从 Namecheap 共享主机转移到 Digital Ocean droplet</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihvcdq/transferring_projects_from_namecheap_shared/</link>
+      <description><![CDATA[过去，我一直使用 Namecheap 共享主机托管各种 WordPress 项目。现在，我将启动一个 Laravel 应用程序，该应用程序需要在共享主机托管能力之外进行额外配置。将我的 WordPress 项目转移到这个 Digital Ocean Droplet 有多难？我关心的是安全管理、数据库和由我的共享主机托管的 Web 邮件。例如，Namecheap 为我的域名提供免费的 Web 邮件收件箱。我不想陷入困境。    提交人    /u/Produkt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihvcdq/transferring_projects_from_namecheap_shared/</guid>
+      <pubDate>Tue, 04 Feb 2025 23:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>您对我简约而单色的作品集网站有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihfcdz/what_do_you_think_about_my_minimalistic_and/</link>
-      <description><![CDATA[      https://dagmawibabi.com     提交人    /u/Dagmawi__Babi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihfcdz/what_do_you_think_about_my_minimalistic_and/</guid>
-      <pubDate>Tue, 04 Feb 2025 11:13:17 GMT</pubDate>
+      <title>删除文本上方和下方的无用空格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihv7iz/removing_the_stupid_space_above_and_below_text/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihv7iz/removing_the_stupid_space_above_and_below_text/</guid>
+      <pubDate>Tue, 04 Feb 2025 22:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>如何创建更好看的模型？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihevzm/how_to_create_better_looking_mockups/</link>
-      <description><![CDATA[我知道 figma 上有可用的模板，但是当我将图像替换到我的项目中时，感觉不太好，要么是我对图像大小有问题，要么是这些模型上的设计看起来很糟糕，你如何创建更好的模型，让图像完全填充它并且看起来很棒？ PS：我说的模型是指这些：https://www.figma.com/community/file/1241073564943997468    提交人    /u/Namenottakenno   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihevzm/how_to_create_better_looking_mockups/</guid>
-      <pubDate>Tue, 04 Feb 2025 10:40:37 GMT</pubDate>
+      <title>经验丰富的开发人员如何收集用户需求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihv4e1/how_do_experienced_developers_gather_user/</link>
+      <description><![CDATA[大家好， 我是一名正在学习软件开发的大学生，我很快就要进入这个行业了。我一直很好奇有经验的开发人员和工程师如何处理从利益相关者和用户那里收集的需求。 据我所知，获得清晰且定义明确的功能性和非功能性需求对于项目的成功至关重要。但在现实世界中，利益相关者可能并不总是知道他们需要什么，或者需求可能会随着时间而改变。所以，我想问那些有行业经验的人： 1. 您如何收集利益相关者和用户的需求？您使用结构化的一对一通话、书面文件还是其他方式？ 2. 您如何区分功能性和非功能性需求？您是否有任何现实世界的例子，其中缺少非功能性需求会导致问题？ 3. 编写用户故事的标准格式是什么？我见过典型的“作为 [用户]，我希望 [行动] 以实现 [结果]”格式——这种格式在实践中总是有效吗？ 4. 您是否遇到过需求定义不明确导致后期开发出现问题的情况？这对项目有何影响？ 5. 对于行业新手，您有什么关于如何有效收集和记录需求的建议吗？  我很想听听您的见解、实际经验或最佳实践。提前致谢！    提交人    /u/RecommendationDry178   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihv4e1/how_do_experienced_developers_gather_user/</guid>
+      <pubDate>Tue, 04 Feb 2025 22:55:33 GMT</pubDate>
     </item>
     <item>
-      <title>css 弹性框问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihccl8/css_flexbox_question/</link>
-      <description><![CDATA[      大家好，我刚刚学会了如何使用 flexbox，有两个问题。提前谢谢大家！ 1 我将文本的 padding 设置为 0。为什么我的文本和上下边框之间仍然有空格？ 2 我对每一行都使用 justify-content: space-between 来实现对齐效果。但是，如果我想让中间的字母完全居中怎么办？ https://preview.redd.it/k2660eixq2he1.png?width=852&amp;format=png&amp;auto=webp&amp;s=d27be6cab3983d3b010e66e892a5cb8181086add    submitted by    /u/itsraininginmacondo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihccl8/css_flexbox_question/</guid>
-      <pubDate>Tue, 04 Feb 2025 07:27:27 GMT</pubDate>
+      <title>仅对我的投资组合设计发表诚实的意见。我是一名开发人员/SDE</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihtoiw/only_honest_opinions_about_my_portfolio_design_i/</link>
+      <description><![CDATA[我对设计一无所知。我脑子里有一个设计，我正在为自己做一个作品集网站，类似于静态网站时代使用的软件。在收到关于设计的负面评价后，我添加了一些现代元素，但我的朋友和表亲仍然认为这不是一个好设计。这让我对它产生了疑问，探索了很多设计，感到困惑并放弃了。 今天我偶然发现了 framer，发现有很多好的设计可以免费使用。如果我不想在这个领域工作，我是否应该浪费时间在设计上。    提交人    /u/Historical-Limit-579   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihtoiw/only_honest_opinions_about_my_portfolio_design_i/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>愚蠢的 CSS 疑问（转发）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihbuc1/silly_css_doubtrepost/</link>
-      <description><![CDATA[      抱歉，但我不知道之前的帖子为什么没有包含问题，而只包含了图片。 我的问题是 - 我在第一个 div 中包含了一个段落元素，它也具有填充和边框。但是当我删除为段落设置的边距 :0 时，文本就会超出 div。为什么会这样？ 所有内容不应该都在 div 里面吗？ https://preview.redd.it/02igx8syp3he1.png?width=1912&amp;format=png&amp;auto=webp&amp;s=dd2af0d78f49f03717abbdfc1e90aee8e13a8e38 https://preview.redd.it/n6j1au8pk2he1.png?width=1383&amp;format=png&amp;auto=webp&amp;s=780e28bba8029cd2809e95fc6dc5280ed39542c2    提交人    /u/myvowndestiny   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihbuc1/silly_css_doubtrepost/</guid>
-      <pubDate>Tue, 04 Feb 2025 06:50:45 GMT</pubDate>
+      <title>构建和托管基本指标仪表板式移动网站的最简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihtnm0/simplest_way_to_build_and_host_a_basic/</link>
+      <description><![CDATA[我想建立一个面向公众的网站，自从我上次在 1997 年建立网站以来，情况发生了很大的变化 :)  假设我有一些数据。为了举例说明，假设它是运动员及其各种属性/指标。我可以将其放在 SQL 表中（我很了解 SQL，并且非常乐于编写下面描述的可视化所需的查询），但它不超过 1,000 条记录，并且不经常更新，所以将其格式化为 JSON 文件可能更容易？ 我想建立一个小型移动网站，以非常简单的格式显示这些数据的部分内容。例如，按 X 指标或 Y 指标列出前 10 名运动员。也许顶部有一个菜单栏，您可以在其中选择一项特定的运动。也许我们可以花点心思，带上一张地图，用图钉按运动员所在的城市显示他们。就是这样。每年一次，我会用更新的数据覆盖 JSON 文件。  最好的方法是什么？我假设有一些漂亮的工具可以为我生成可视化效果，这样我就不必自己编写 HTMl/CSS/什么的了？然后我应该找一个托管服务吗？我只需向某些提供商支付 10 美元并通过 FTP 客户端拖放我的 index.html 就可以了的日子似乎已经一去不复返了。我假设存在可以同时处理创建和托管的工具？     提交人    /u/Knawder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihtnm0/simplest_way_to_build_and_host_a_basic/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>代理商所有者：一年当中，您最清闲和最忙碌的月份分别是哪些月份？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihb58o/agency_owners_what_are_your_slowest_vs_busiest/</link>
-      <description><![CDATA[只是想知道，因为一月份已经死了，进入二月份想知道它是否会回升。    由   提交  /u/Project-Weary   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihb58o/agency_owners_what_are_your_slowest_vs_busiest/</guid>
-      <pubDate>Tue, 04 Feb 2025 06:04:29 GMT</pubDate>
+      <title>建立网站并需要规划帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihtk5a/building_a_website_and_need_help_planning/</link>
+      <description><![CDATA[嗨，我是学校的一个小组成员，我们正在创建一个网站。该网站需要具有登录和注销功能，并显示我们将要创建的数据库中的信息。有人对首先要采取哪些步骤有什么建议吗？ 我了解基本的 html 和 css，并且有编程经验。有人知道如何将数据库连接到网站或如何验证登录吗？现在，我正在考虑创建一个电子表格，但我想学习一种更好的方法，而不要太复杂或昂贵。 这个项目现在看起来有点令人生畏，我想把它分成更小的步骤，但我真的不确定这些步骤是什么。欢迎任何建议，谢谢！    提交人    /u/ratarley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihtk5a/building_a_website_and_need_help_planning/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>休假结束后</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihb513/coming_out_of_sabbatical/</link>
-      <description><![CDATA[大家好 👋， 去年我休息了一整年，现在打算重新开始。我主要是一名 JS 开发人员（全栈），有大约 5 年的经验。 情况如何？我应该期待什么才能重新开始工作？如果您有任何见解，我将不胜感激。现在的职位有多丰富？ 附言：在休假期间，我学习了如何使用 webflow 构建网站以及如何建立电子邮件线索。谢谢。    提交人    /u/Independent_Foot_830   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihb513/coming_out_of_sabbatical/</guid>
-      <pubDate>Tue, 04 Feb 2025 06:04:05 GMT</pubDate>
+      <title>Volgo 是一款用 Go 编写的跨平台 CLI 应用，用于从终端控制系统音量。使用简单的命令或美观的交互式 TUI — 甚至通过 SSH！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihtk0r/volgo_is_a_crossplatform_cli_app_written_in_go/</link>
+      <description><![CDATA[        提交人    /u/Elliot40404   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihtk0r/volgo_is_a_crossplatform_cli_app_written_in_go/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:49:20 GMT</pubDate>
     </item>
     <item>
-      <title>扩展性能：边缘缓存 | Charron 开发者博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihazse/scaling_performance_caching_at_the_edge_charron/</link>
-      <description><![CDATA[        提交人    /u/charrondev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihazse/scaling_performance_caching_at_the_edge_charron/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:55:04 GMT</pubDate>
+      <title>带有 <template> 的 Web 组件，其结构是什么样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihtiji/web_components_w_template_whats_the_structure/</link>
+      <description><![CDATA[我有一个想法，即构建一些可在应用程序中全站使用的 Web 组件。我已阅读了许多教程（包括 MDN 上的教程），它们都讨论了如何使用 &lt;template&gt;&lt;/template&gt;。看起来很棒！我宁愿不在 Javascript 中内联 HTML。 但是，我不知道如何构建应用程序以使用这些组件。这是一个 React 19 应用程序（完全支持 Web 组件）。但是，唯一可行的解​​决方案是将所有模板放在 index.html 文件中（您无法导入 HTML），或者在 JS 中使用字符串文字（我想避免这种情况）。 每个教程要么在 index.html 文件中定义模板（这是一个带有一个组件的示例），要么在抽象中描述其用例而没有任何形式的实现。我查看了 MDN 的示例仓库，每个示例都是独立的。 如果我制作了 20 个这样的示例，我是不是注定要在 index.html 文件中创建每个模板？或者，是不是每个人都在使用字符串文字？这让我想到，“&lt;template&gt; 有什么意义？”我肯定遗漏了什么。 谢谢！    提交人    /u/H1Supreme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihtiji/web_components_w_template_whats_the_structure/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:47:38 GMT</pubDate>
     </item>
     <item>
-      <title>SEO关键词</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihaq8d/seo_keywords/</link>
-      <description><![CDATA[嘿！ 我们是一家小型初创公司，我对 Web 开发领域还很陌生，到目前为止，我明白关键字并不是万能的，但它们有助于有针对性的搜索和排名。 我想知道关键字和短语的精确度要有多高，就上下文而言，我们是一个在线健身教练/私人训练品牌。 我希望定位的高流量搜索是地理定位登录页面，因此短语如“我附近的私人教练”、“我附近的健身房”、“悉尼私人教练”。 我创建了一个网页模板，标题为“您的悉尼健身之旅从这里开始”，后面跟着“您住在悉尼并正在寻找私人教练吗？”谷歌人工智能是否会认为这些足够相似，从而向搜索这些术语的人展示它们？还是我说得太宽泛了？ 我还为当地城市的每个郊区添加了页面，以便对关键字进行微调。    提交人    /u/TheDemeaningCarp   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihaq8d/seo_keywords/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:38:24 GMT</pubDate>
+      <title>存储 CDN</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihthnm/storage_cdn/</link>
+      <description><![CDATA[您好，webdev。我为我的应用实现了视频上传功能。我计划为其获取合适的 cdn。用户数量有限，媒体数量有限，但最便宜的选项是什么。我可以更详细地介绍    提交人    /u/Altugsalt   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihthnm/storage_cdn/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>JavaScript 的过度使用如何毁掉了 Web</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ihamlg/how_javascript_overuse_ruined_the_web/</link>
-      <description><![CDATA[        提交人    /u/sudo_guy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ihamlg/how_javascript_overuse_ruined_the_web/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:32:09 GMT</pubDate>
+      <title>Cloudflare、Vercel 或 Netlify – 哪一个真正适合您？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihswi9/cloudflare_vercel_or_netlify_which_one_actually/</link>
+      <description><![CDATA[所以我们很快就要放弃一个项目，需要一个可靠的托管平台。Cloudflare 很快，但是……是的，Vercel 很流畅，但有冷启动问题，而 Netlify……好吧，人们仍然会提起那 10 万美元的账单 ifykyk。 对于运行实际生产内容的开发人员来说，哪一个最可靠？我们得到了我们最喜欢的一个，但我们想看看您的意见    提交人    /u/codenlink   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihswi9/cloudflare_vercel_or_netlify_which_one_actually/</guid>
+      <pubDate>Tue, 04 Feb 2025 21:22:29 GMT</pubDate>
     </item>
     <item>
-      <title>显示使用条款/EULA 的最佳 UX 方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ih9fzi/best_ux_approach_for_displaying_terms_of_use_eula/</link>
-      <description><![CDATA[这听起来像是一个简单的场景，但我正在构建一个 Web 应用程序，要求用户在继续之前接受条款/许可。我在两种流程之间犹豫不决，想听听哪种流程能提供更好的用户体验：  模态/弹出：可滚动的模态，显示条款，底部有一个接受按钮。 全页重定向：将用户重定向到包含条款的专用 URL，他们必须向下滚动并单击“接受”，然后重定向回上一页。  在可用性、可访问性等方面，这两种方式有什么具体的优点或缺点吗？我更倾向于全页重定向。    提交人    /u/keyboard_2387   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ih9fzi/best_ux_approach_for_displaying_terms_of_use_eula/</guid>
-      <pubDate>Tue, 04 Feb 2025 04:23:17 GMT</pubDate>
+      <title>除了 SEO，你如何获取用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihqy4f/how_do_you_get_users_besides_seo/</link>
+      <description><![CDATA[最近我开始制作一些网站（Vue.js + nuxt + serverless）。其中一些是 SEO“友好”的，这意味着他们拥有的内容我希望人们真正谷歌它，并且我一直在投资改善 SEO。但我为了好玩做了另一个，那是“无用的”，我看不到有机流量很快就会到来。你们是怎么处理的？     提交人    /u/ItHitMeInTheNuts   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihqy4f/how_do_you_get_users_besides_seo/</guid>
+      <pubDate>Tue, 04 Feb 2025 20:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>将我的 cloudflare 域名指向 wix</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ih7jt1/pointing_my_cloudflare_domain_to_wix/</link>
-      <description><![CDATA[我尝试过多次将我的 cloudflare 域名连接到 wix，但每次等待 48 小时后，我都会收到以下消息： 将此域名连接到您的网站时出现问题 发生此问题的原因可能是 DNS 记录更新不正确或更改未正确保存。 我尝试过手动连接域名，但在它要求我更换名称服务器时遇到了麻烦。Cloudflare 不允许我更改当前的名称服务器，只能添加其他名称服务器（我已尝试过）。似乎错误可能是由 DNS 的代理状态引起的，但我已将它们全部设置为仅 DNS。 如果我在过去 60 天内没有购买域名，我会转移域名，我不知道还能做什么。如有任何帮助或见解，我们将不胜感激。    提交人    /u/faithless-elector   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ih7jt1/pointing_my_cloudflare_domain_to_wix/</guid>
-      <pubDate>Tue, 04 Feb 2025 02:42:42 GMT</pubDate>
+      <title>如何使用 PostgreSQL 和 Django 为 React Native App 设置本地服务器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihpwc4/how_would_you_set_up_a_local_server_for_a_react/</link>
+      <description><![CDATA[我正在开发一个 React Native，以 Expo 作为前端，Django 和 PostgreSQL 作为后端。当我尝试注册或登录时，在我的物理设备上使用 Expo Go App 将它们连接在一起时遇到了问题，所以我想知道其他人会怎么做。    提交人    /u/imonebear   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihpwc4/how_would_you_set_up_a_local_server_for_a_react/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>温馨提醒：事件循环、垃圾收集和本机 API 劫持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ih64zs/friendly_reminder_event_loops_garbage_collection/</link>
-      <description><![CDATA[大家好， 我非常感谢社区为推动出色的用户体验所做的努力，但我需要对我们的设计中事件/本机 API 劫持的危险发出警告。特别是进入 2025 年。有很多话题 - 这是我“今天让我抓狂的事情”。  我以 FEE 方面 WPO 专家的身份发言，当前的方法存在严重问题。 为了更好的性能和用户体验，请重新考虑这些过度使用的缓和效果和过度优化，这些优化会导致大量 API 调用 - 尤其是与反应组件中的滚动事件绑定时。结果是混乱的执行堆栈，感觉就像一场性能大屠杀。相反，为什么不探索其他替代方案，例如主动缓存流或 UI 组件，以便在不使系统过载的情况下清楚地传达等待状态？ TL;DR：我爱你们所有人并尊重所做的工作，但是请不要再使用低效的事件处理来使您的 UX 过载。垃圾收集这些事件处理程序并考虑不那么费力、更直观的设计。 谢谢你听我说完。    提交人    /u/Brain_itch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ih64zs/friendly_reminder_event_loops_garbage_collection/</guid>
-      <pubDate>Tue, 04 Feb 2025 01:33:25 GMT</pubDate>
+      <title>编码完成后你能立即睡觉吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihpjh7/can_you_sleep_right_after_a_coding_session/</link>
+      <description><![CDATA[只是好奇这是否只是我的问题，还是这是正常的哈哈。国际象棋也是如此，我想编码和下棋都会激活我的大脑，因此让我无法入睡。 例如，如果我编码到晚上 10 点，我至少要到午夜才能入睡     提交人    /u/mekmookbro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihpjh7/can_you_sleep_right_after_a_coding_session/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:05:40 GMT</pubDate>
     </item>
     <item>
-      <title>有没有什么好的 API/应用程序可以获取公司徽标？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ih5ttp/any_good_apiapp_to_get_company_logos/</link>
-      <description><![CDATA[我正在建立一个项目，我需要在名称旁边显示公司徽标。我有名称，现在我只是使用 puppeteer 从 Bing 中抓取徽标。但它并不总是准确的。 有人有更好的建议吗？    提交人    /u/NetworkEducational81   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ih5ttp/any_good_apiapp_to_get_company_logos/</guid>
-      <pubDate>Tue, 04 Feb 2025 01:18:27 GMT</pubDate>
+      <title>Safari 18 中的 Cookie 存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ihgolw/where_are_cookies_stored_in_safari_18/</link>
+      <description><![CDATA[我正在制作一个 API，我需要使用第三方 cookie。它每 15 分钟过期一次，每次在开发工具中手动复制它很麻烦。 我发现一些提示说 cookie 存储在 `~/Library/Cookies/` 或 `~/Library/Safari/LocalStorage/` 中，但在我的情况下，这两个文件夹都是空的。 有人知道在哪里可以找到 macOS Sequoia 中 Safari 的 cookie 吗？    提交人    /u/bearinthetown   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ihgolw/where_are_cookies_stored_in_safari_18/</guid>
+      <pubDate>Tue, 04 Feb 2025 12:37:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
