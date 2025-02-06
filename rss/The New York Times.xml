@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Feb 2025 00:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 02:45:27 GMT</lastBuildDate>
+    <item>
+      <title>特朗普政府加大对联邦工作人员辞职的压力</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-musk-federal-workers.html</link>
+      <description><![CDATA[随着埃隆·马斯克继续在各机构中推进他的政绩，焦急的公务员们正在犹豫是否要在周四的最后期限之前离职。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-musk-federal-workers.html</guid>
+      <pubDate>Thu, 06 Feb 2025 02:45:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国将移民关押在曾关押基地组织嫌疑人的牢房中</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/migrants-trump-guantanamo-prison.html</link>
+      <description><![CDATA[特朗普政府称，被送往关塔那摩湾基地监狱的 10 名男子与黑帮有关。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/migrants-trump-guantanamo-prison.html</guid>
+      <pubDate>Thu, 06 Feb 2025 02:43:31 GMT</pubDate>
+    </item>
     <item>
       <title>美国各地反特朗普抗议者聚集谴责白宫政策</title>
       <link>https://www.nytimes.com/2025/02/05/us/politics/trump-protests-50501-project-2025.html</link>
       <description><![CDATA[在一场发起全国运动的草根运动中，组织者鼓励那些反对特朗普总统在移民、跨性别权利等问题上行动的人们聚集在州首府和市政厅。]]></description>
       <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-protests-50501-project-2025.html</guid>
-      <pubDate>Thu, 06 Feb 2025 00:44:30 GMT</pubDate>
+      <pubDate>Thu, 06 Feb 2025 00:44:31 GMT</pubDate>
     </item>
     <item>
-      <title>司法部新领导人采取行动加强对机构的控制</title>
-      <link>https://www.nytimes.com/2025/02/05/us/politics/justice-dept-fbi-insubordination.html</link>
-      <description><![CDATA[该部门的二号人物埃米尔·博夫 (Emil Bove) 加剧了与联邦调查局临时领导人的冲突，指责他们“不服从命令”。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/politics/justice-dept-fbi-insubordination.html</guid>
-      <pubDate>Thu, 06 Feb 2025 00:39:42 GMT</pubDate>
+      <title>特朗普签署行政命令，禁止跨性别运动员参加女子体育赛事</title>
+      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-order-transgender-athletes-womens-sports.html</link>
+      <description><![CDATA[总统表示，违反该命令的学校将失去联邦资金。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-order-transgender-athletes-womens-sports.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的告别专栏</title>
+      <link>https://www.nytimes.com/2025/02/05/opinion/writing-journalism-coming-out.html</link>
+      <description><![CDATA[成长为一名作家——并且在你们所有人面前为你们写作——是我一生中最大的荣幸之一。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/opinion/writing-journalism-coming-out.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界上最富有的人与世界上最贫穷的孩子对抗</title>
+      <link>https://www.nytimes.com/2025/02/05/opinion/usaid-spending-trump-musk.html</link>
+      <description><![CDATA[我见过美国国际开发署在世界各地开展工作，它并不是在唤醒人们，而是在拯救生命。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/opinion/usaid-spending-trump-musk.html</guid>
+      <pubDate>Thu, 06 Feb 2025 00:00:05 GMT</pubDate>
     </item>
     <item>
       <title>特朗普匆忙提出的“拥有”加沙提案</title>
@@ -27,20 +55,6 @@
       <pubDate>Wed, 05 Feb 2025 23:35:16 GMT</pubDate>
     </item>
     <item>
-      <title>YouTube 如何改变美国枪支文化</title>
-      <link>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</link>
-      <description><![CDATA[被称为 guntubers 的影响者正在深入研究枪支世界，向观众展示从如何射击到如何改装 AR-15 的一切。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/gun-youtube-firearm-videos.html</guid>
-      <pubDate>Wed, 05 Feb 2025 23:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>福克斯新闻邀请拉拉·特朗普担任主持人</title>
-      <link>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</link>
-      <description><![CDATA[现任总统的亲属在大型电视新闻频道主持节目尚无先例。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/business/media/lara-trump-fox-news.html</guid>
-      <pubDate>Wed, 05 Feb 2025 22:40:37 GMT</pubDate>
-    </item>
-    <item>
       <title>叛军占领戈马重要城市后，刚果哀悼死难者</title>
       <link>https://www.nytimes.com/2025/02/05/world/africa/congo-m23-rwanda-goma-burials.html</link>
       <description><![CDATA[上周，叛军占领了中非这个国家的一个主要城市，造成近 3,000 人死亡，这是几十年来最惨烈的战役之一。]]></description>
@@ -48,11 +62,11 @@
       <pubDate>Wed, 05 Feb 2025 22:22:56 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普和内塔尼亚胡之间几乎没有差距</title>
-      <link>https://www.nytimes.com/2025/02/05/us/politics/trump-netanyahu.html</link>
-      <description><![CDATA[除了令人震惊的加沙提议之外，特朗普总统还向以色列总理本雅明内塔尼亚胡提供了他想要的几乎一切，标志着两国紧密联盟的恢复。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/us/politics/trump-netanyahu.html</guid>
-      <pubDate>Wed, 05 Feb 2025 21:48:43 GMT</pubDate>
+      <title>伊斯玛仪派穆斯林迎来新领袖——第五任阿迦汗</title>
+      <link>https://www.nytimes.com/2025/02/05/world/europe/prince-rahim-aga-khan-ismaili-muslims.html</link>
+      <description><![CDATA[伊斯玛仪派穆斯林的新精神领袖拉希姆·侯赛尼被任命为其父亲的继任者，其父亲于 88 岁时去世。]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/world/europe/prince-rahim-aga-khan-ismaili-muslims.html</guid>
+      <pubDate>Wed, 05 Feb 2025 22:04:40 GMT</pubDate>
     </item>
     <item>
       <title>奶牛感染第二种禽流感病毒</title>
@@ -76,25 +90,11 @@
       <pubDate>Wed, 05 Feb 2025 21:19:26 GMT</pubDate>
     </item>
     <item>
-      <title>众议院议长为特朗普的加沙计划辩护，而其他共和党人则表示怀疑。</title>
-      <link>https://www.nytimes.com/live/2025/02/05/world/israel-gaza-netanyahu-trump/house-speaker-defends-trumps-gaza-plan-while-other-republicans-express-doubts</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.nytimes.com/live/2025/02/05/world/israel-gaza-netanyahu-trump/house-speaker-defends-trumps-gaza-plan-while-other-republicans-express-doubts</guid>
-      <pubDate>Wed, 05 Feb 2025 20:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普冻结对外援助导致数百万艾滋病患者无法接受治疗</title>
-      <link>https://www.nytimes.com/2025/02/05/health/trump-usaid-pepfar.html</link>
-      <description><![CDATA[专家表示，特朗普总统暂停援助并削减主要援助机构的举措可能会危及全球超过 2000 万人的健康，其中包括 50 万儿童。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/health/trump-usaid-pepfar.html</guid>
-      <pubDate>Wed, 05 Feb 2025 20:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞典大规模枪击案发生地是多元化社区的基础</title>
-      <link>https://www.nytimes.com/2025/02/05/world/europe/sweden-mass-shooting-community.html</link>
-      <description><![CDATA[成人教育中心发生枪击案的第二天，一些人聚集在一起献花，谴责暴力行为。]]></description>
-      <guid>https://www.nytimes.com/2025/02/05/world/europe/sweden-mass-shooting-community.html</guid>
-      <pubDate>Wed, 05 Feb 2025 18:52:23 GMT</pubDate>
+      <title>“艾米莉亚·佩雷斯”和网络奥斯卡丑闻的新时代</title>
+      <link>https://www.nytimes.com/2025/02/05/movies/emilia-perez-oscars-scandal.html</link>
+      <description><![CDATA[卡拉·索菲亚·加斯康 (Karla Sofía Gascón) 重新出现在社交媒体上的帖子颠覆了今年获得最多提名的电影的评选活动，接下来会发生什么呢？]]></description>
+      <guid>https://www.nytimes.com/2025/02/05/movies/emilia-perez-oscars-scandal.html</guid>
+      <pubDate>Wed, 05 Feb 2025 17:13:41 GMT</pubDate>
     </item>
     <item>
       <title>为什么 X 世代的女性拥有最棒的性生活</title>

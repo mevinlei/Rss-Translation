@@ -4,20 +4,55 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 05 Feb 2025 18:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 03:13:43 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 是否受益于 AI 生成或编辑的内容？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iipaxn/is_reddit_benefiting_from_ai_generated_or_edited/</link>
+      <description><![CDATA[我发现人工智能生成或编辑的内容在 Reddit 上遭到了很多仇恨。您认为这些内容会对 Reddit 有益还是会损害其发展？是否应该禁止它，或者 Reddit 是否应该添加一项功能，让用户可以控制隐藏在聊天机器人的帮助下生成的任何内容？    提交人    /u/wondernits   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iipaxn/is_reddit_benefiting_from_ai_generated_or_edited/</guid>
+      <pubDate>Thu, 06 Feb 2025 00:17:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在 o3-mini 和深度研究已经问世，我将如何注意到差异？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iimeja/now_that_o3mini_and_deep_research_is_out_how_will/</link>
+      <description><![CDATA[我是 ChatGPT 的相当标准用户，经常使用它来重写我的通信、文档等。 我会注意到 ChatGPT 的所有这些最新更新的区别吗？ https://aitoday.com/ai-models/openais-super-smart-research-and-reasoning-models/    提交人    /u/setsp3800   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iimeja/now_that_o3mini_and_deep_research_is_out_how_will/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于预测能力的问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iilcol/question_on_prediction_capabilities/</link>
+      <description><![CDATA[理论上，AI 能否使用大量数据（尤其是比赛记录）以高概率预测进球？或者这是一个非常愚蠢的问题？    提交人    /u/DrGnz81   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iilcol/question_on_prediction_capabilities/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:25:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果这对 Andrej Karpathy @karpathy 来说足够好......</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iik4aw/if_its_good_enough_for_andrej_karpathy_karpathy/</link>
+      <description><![CDATA[https://twitter.com/hyperbolic_labs/status/1887229114769359013 对我来说已经足够好了哈哈    提交人    /u/Rude-Bad-6579   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iik4aw/if_its_good_enough_for_andrej_karpathy_karpathy/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于深度研究将会构建什么样的产品？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iijio6/what_kinds_of_products_will_be_built_on_deep/</link>
+      <description><![CDATA[您认为哪些类型的产品会基于深度研究工具构建？公司是否能够针对特定领域提供专门的深度研究？    提交人    /u/hn1000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iijio6/what_kinds_of_products_will_be_built_on_deep/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 smolagents 进行开放深度研究的分步指南</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iihdan/stepbystep_guide_to_running_open_deep_research/</link>
+      <description><![CDATA[所以我听说过一些关于 OpenAI 深度研究的事情 OpenAI 深度研究代表着向 AGI 迈出的一步，它使人工智能能够独立发现和综合知识。虽然仍在不断发展，但其自动化专家级研究的能力具有跨行业的变革潜力。然而，对于用户来说，其目前的不稳定性以及访问限制阻碍了其即时实用性，这表明需要不断改进。 然后我今天早上收到了一封关于这个新开源项目的电子邮件，该项目对深度研究的工作方式进行了逆向工程： https://huggingface.co/blog/open-deep-research 因此我运行了它并编写了有关如何运行它的指南： https://danielkliewer.com/2025/02/05/open-deep-research 您只需运行此命令： smolagent &quot;{PROMPT}&quot; \ --model-type &quot;HfApiModel&quot; \ --model-id &quot;Qwen/Qwen2.5-Coder-32B-Instruct&quot; \ --imports &quot;pandas numpy&quot; \ --tools &quot;web_search Translation&quot;  我对您可以用它做的一些事情感到惊讶，并且有兴趣应用它并将它用作其他项目的起点。 有趣的是它如何与代码而不是 JSON 交互，以及这如何在基准测试中显着提高其准确性。    提交人    /u/KonradFreeman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iihdan/stepbystep_guide_to_running_open_deep_research/</guid>
+      <pubDate>Wed, 05 Feb 2025 18:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>AI / GenAI 学习资源</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iigh67/ai_genai_learning_resources/</link>
       <description><![CDATA[嘿 subreddit！ 我是一名初级 PM，我被提拔为我所在公司的所有客户服务 AI 相关计划的负责人。对于一个初级员工来说，这是一个相当大的责任，而且我要与创始人、首席技术官和其他高级人员开会（这自然让我感到紧张）。 我想更好地了解 AI 和/或 GenAI，了解它的工作方式、适应方式和发展方式。 为了让我在那些高级会议上看起来不专业，有没有人有关于 GenAI 的好书、文章和资源可以与我和大家分享？ 我了解最基本的知识，但想更多地了解这项技术以及它如何应用于现实生活，因为我确实觉得它很有趣。 非常感谢！   由    /u/SeniorEscape9293  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iigh67/ai_genai_learning_resources/</guid>
       <pubDate>Wed, 05 Feb 2025 18:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 代理何时能学习我们的流程？它将如何运作？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iif5f4/when_will_ai_agents_learn_our_processes_and_how/</link>
-      <description><![CDATA[似乎生成式 AI 每次都会从头开始处理每个提示。如果我想让它从我这里学到一些东西并在下次重复，我必须将其添加到我的提示中。 对于代理式 AI，情况仍然如此吗？假设我想让它学习某个过程，并教它如何做得更好。这样随着时间的推移，它就知道如何做我想要的事情。以及许多小事情，比如我如何拼写名字。 它将通过什么机制来存储和使用这些指令？它是否只是为每个任务存储和优化自定义提示？像 Operator 这样的代理已经这样做了吗？或者模型本身会发生变化并在每个特定任务上变得高效，就好像它是专门为该任务编写的一样？谢谢！    提交人    /u/jreddit5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iif5f4/when_will_ai_agents_learn_our_processes_and_how/</guid>
-      <pubDate>Wed, 05 Feb 2025 17:14:40 GMT</pubDate>
     </item>
     <item>
       <title>谷歌母公司 Alphabet 放弃了不将人工智能用于开发武器等用途的承诺。</title>
@@ -48,13 +83,6 @@
       <pubDate>Wed, 05 Feb 2025 14:44:37 GMT</pubDate>
     </item>
     <item>
-      <title>为法学硕士/代理定制操作系统</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii9bd8/custom_os_for_llmagents/</link>
-      <description><![CDATA[我促使 GPT o3-mini-high 编写针对其进行优化的操作系统的基本代码。它生成了看似已售出的代码，但我尚未测试过。我会在周末有更多空闲时间时尝试这样做。 AI 专用操作系统可能有哪些好处，又有哪些安全隐患？如果它的代码设计为仅接受内部制作的软件，它是否会提供更安全的 UI？我很想听听您的想法。    提交人    /u/Herodont5915   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ii9bd8/custom_os_for_llmagents/</guid>
-      <pubDate>Wed, 05 Feb 2025 12:56:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Sam Altman 表示，“人们没有根据地理解他的话”；| 2 年前 OpenAI 首席执行官表示，“拥有 1000 万美元的初创公司根本无法与 OpenAI 竞争”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ii6ksg/sam_altman_says_people_take_his_words_without/</link>
       <description><![CDATA[来源：首席执行官首次访问印度https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise 首席执行官今天第二次访问印度：https://x.com/moneycontrolcom/status/1887033066171801798    由   提交  /u/BidHot8598   [链接] [评论]]]></description>
@@ -76,39 +104,11 @@
       <pubDate>Wed, 05 Feb 2025 05:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>什么会先发生？机器人接管世界还是通过其他人类方式终结文明？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihz6a1/what_will_come_first_the_robot_takeover_or_the/</link>
-      <description><![CDATA[由于我们现在有了人工智能来编写代码。我们距离机器人编程机器人，然后是机器人末日只有一步之遥。但同时，人类正走在一条下行轨道上，我们踩着油门通过各种机制。我相信你们都知道。我们绝对不能合作解决世界上的任何问题。我们甚至有世界上最富有的三个人在同一个国家独立建造自己的火箭，如果人类有任何希望，我们都会共同努力解决我们共同的问题，但我离题了，你认为哪一个会先发生？    提交人    /u/BSato83   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihz6a1/what_will_come_first_the_robot_takeover_or_the/</guid>
-      <pubDate>Wed, 05 Feb 2025 02:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 和 Anthropic-做点什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihx9ai/grok_and_anthropic_do_something/</link>
-      <description><![CDATA[看来这两家公司对 Open AI、Deepseek 以及程度较轻的 Google 感到震惊，认为他们要么没有模型或功能来响应，要么只是坐在场边等待？    提交人    /u/AppropriateRespect91   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihx9ai/grok_and_anthropic_do_something/</guid>
-      <pubDate>Wed, 05 Feb 2025 00:33:12 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI 称其模型比 82% 的 Reddit 用户更有说服力</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihogyg/openai_says_its_models_are_more_persuasive_than/</link>
       <description><![CDATA[大家对此有什么看法？你认为事实确实如此吗？82% 是一个相当大的数字。    提交人    /u/Arthur_Morgan44469   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihogyg/openai_says_its_models_are_more_persuasive_than/</guid>
       <pubDate>Tue, 04 Feb 2025 18:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人发现那些自以为智力优越的人无法理解法学硕士学位吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihl4x2/anyone_else_find_that_people_who_are_convinced_of/</link>
-      <description><![CDATA[我发现自己不断遇到在相对小众领域中是领域专家的人，在商业领域尤其如此，人们以自己对 Excel、Python 或其他 MS Office 工具的了解而自豪……他们简直不敢相信他们的全部优势已经因为 LLM 而消失。实际上，任何能够连贯地陈述他们想要使用这些工具解决的问题的人，只需遵循一些说明并复制粘贴答案，就可以获得高级解决方案。     提交人    /u/mbcoalson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihl4x2/anyone_else_find_that_people_who_are_convinced_of/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:07:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否还有人只是因为厌倦了常规生活而期待人工智能？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ihalyo/is_anyone_else_only_looking_forward_to_ai_because/</link>
-      <description><![CDATA[我实在是厌倦了生活中的一切，只关注你能赚多少钱，或者你做什么来赚更多的钱 我知道在很多方面，人工智能只会让情况变得更糟，但我内心深处有一丝希望，也许人工智能会成为我们最终摆脱这种心态、活出精彩生活的催化剂  我实在是厌倦了平凡无聊的生活现实。我打算在接下来的 40 年里朝九晚五地工作，工作和支付账单，直到我老到可以安息为止。 只有我这样吗？    提交人    /u/dabay7788   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ihalyo/is_anyone_else_only_looking_forward_to_ai_because/</guid>
-      <pubDate>Tue, 04 Feb 2025 05:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
