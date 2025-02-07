@@ -3,10 +3,38 @@
   <channel>
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
-    <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 07 Feb 2025 00:47:24 GMT</lastBuildDate>
+    <description>BBC新闻 - 新闻头版</description>
+    <lastBuildDate>Fri, 07 Feb 2025 03:15:33 GMT</lastBuildDate>
     <item>
-      <title>议员警告称，220 亿英镑用于“未经证实”的绿色技术可能会增加开支</title>
+      <title>担心英国的人工智能野心可能导致水短缺</title>
+      <link>https://www.bbc.com/news/articles/ce85wx9jjndo</link>
+      <description><![CDATA[数据中心可以使用大量的水来冷却——但目前尚不清楚水来自哪里。]]></description>
+      <guid>https://www.bbc.com/news/articles/ce85wx9jjndo</guid>
+      <pubDate>Fri, 07 Feb 2025 01:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>公众受邀推荐下一任大主教</title>
+      <link>https://www.bbc.com/news/articles/cz9e23jlwdko</link>
+      <description><![CDATA[选定的候选人将是第106人在英格兰教会中担任最高级职务。]]></description>
+      <guid>https://www.bbc.com/news/articles/cz9e23jlwdko</guid>
+      <pubDate>Fri, 07 Feb 2025 01:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国改革领袖称约翰逊是英国最具破坏性的首相</title>
+      <link>https://www.bbc.com/news/articles/cm23p33emrdo</link>
+      <description><![CDATA[齐亚·尤素夫在 BBC 的政治思考播客中表示，约翰逊不会受到改革英国的欢迎。]]></description>
+      <guid>https://www.bbc.com/news/articles/cm23p33emrdo</guid>
+      <pubDate>Fri, 07 Feb 2025 01:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>饱受摧残但仍顽强反抗——真主党将何去何从？</title>
+      <link>https://www.bbc.com/news/articles/cp82pm3exz0o</link>
+      <description><![CDATA[该组织能否在黎巴嫩变革浪潮和中东权力重塑中生存下来？]]></description>
+      <guid>https://www.bbc.com/news/articles/cp82pm3exz0o</guid>
+      <pubDate>Fri, 07 Feb 2025 00:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>国会议员警告</title>
       <link>https://www.bbc.com/news/articles/ce8jpj3z3n2o</link>
       <description><![CDATA[公共账目委员会警告政府不要将公共资金用于碳捕获。]]></description>
       <guid>https://www.bbc.com/news/articles/ce8jpj3z3n2o</guid>
@@ -15,16 +43,30 @@
     <item>
       <title>网状物受害者仍在等待经济赔偿</title>
       <link>https://www.bbc.com/news/articles/c75z9w592d4o</link>
-      <description><![CDATA[在一份重要报告呼吁采取紧急行动一年后，尚未出台任何计划来帮助受害者。]]></description>
+      <description><![CDATA[在一份大型报告要求采取紧急行动的一年后，没有制定任何计划来帮助受害者。]]></description>
       <guid>https://www.bbc.com/news/articles/c75z9w592d4o</guid>
       <pubDate>Fri, 07 Feb 2025 00:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普制裁国际刑事法院，称其“不合法”</title>
+      <title>特朗普制裁国际刑事法院称其为“非法”</title>
       <link>https://www.bbc.com/news/articles/cx2p19l24g2o</link>
       <description><![CDATA[白宫表示，这个设在海牙的机构将哈马斯与以色列进行了“可耻的道德对等”。]]></description>
       <guid>https://www.bbc.com/news/articles/cx2p19l24g2o</guid>
       <pubDate>Fri, 07 Feb 2025 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国央行行长：美国应支持世界银行和国际货币基金组织</title>
+      <link>https://www.bbc.com/news/articles/c20k2n3y42ko</link>
+      <description><![CDATA[安德鲁·贝利表示，他“密切关注”特朗普是否会改变美国对这些机构的支持。]]></description>
+      <guid>https://www.bbc.com/news/articles/c20k2n3y42ko</guid>
+      <pubDate>Fri, 07 Feb 2025 00:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>论文：里夫斯的“新滞胀时代”和“腐败”数据</title>
+      <link>https://www.bbc.com/news/articles/c3w82d7j54yo</link>
+      <description><![CDATA[周五，英国经济的悲观前景占据了众多头版新闻。]]></description>
+      <guid>https://www.bbc.com/news/articles/c3w82d7j54yo</guid>
+      <pubDate>Thu, 06 Feb 2025 23:43:34 GMT</pubDate>
     </item>
     <item>
       <title>骗局、赌场和高楼大厦：BBC 探访战区一座奇怪的城市</title>
@@ -34,35 +76,21 @@
       <pubDate>Thu, 06 Feb 2025 23:34:31 GMT</pubDate>
     </item>
     <item>
-      <title>英国国家统计局称，大多数青少年凶杀案受害者是被刀片杀死的</title>
-      <link>https://www.bbc.com/news/articles/cdxnpg90we2o</link>
-      <description><![CDATA[约 83% 的 13 至 19 岁年龄段的凶杀案受害者是持刀杀害的，这一数字比十年前的 56% 有所上升。]]></description>
-      <guid>https://www.bbc.com/news/articles/cdxnpg90we2o</guid>
-      <pubDate>Thu, 06 Feb 2025 22:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着不确定性增加，圣托里尼岛遭受更多地震</title>
+      <title>随着不确定性的增长，圣托里尼被更多地震震撼</title>
       <link>https://www.bbc.com/news/articles/cr46pnyq0p5o</link>
-      <description><![CDATA[过去一周，该岛经历了数千次地震，迫使居民撤离。]]></description>
+      <description><![CDATA[在过去的一周中，该岛经历了数千种地震，迫使居民撤离。]]></description>
       <guid>https://www.bbc.com/news/articles/cr46pnyq0p5o</guid>
       <pubDate>Thu, 06 Feb 2025 22:28:06 GMT</pubDate>
     </item>
     <item>
-      <title>法国男子因在车站用扩音器打电话被罚款 200 欧元，发起抗议</title>
-      <link>https://www.bbc.com/news/articles/c4g949m4g41o</link>
-      <description><![CDATA[这位愤怒的乘客聘请了一名律师，对南特因公共电话被罚款提出异议。]]></description>
-      <guid>https://www.bbc.com/news/articles/c4g949m4g41o</guid>
-      <pubDate>Thu, 06 Feb 2025 22:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starmer 全力以赴寻求长期增长</title>
+      <title>Starmer在狩猎长期增长方面进行了核</title>
       <link>https://www.bbc.com/news/articles/ckg0p1dlp9ko</link>
       <description><![CDATA[部长们希望到 2032 年，新建的核电站能够继续供电。]]></description>
       <guid>https://www.bbc.com/news/articles/ckg0p1dlp9ko</guid>
       <pubDate>Thu, 06 Feb 2025 21:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>国王和王后将在意大利进行国事访问前接待斯坦利·图齐</title>
+      <title>国王和王后在意大利国家访问之前接待斯坦利·图奇（Stanley Tucci）</title>
       <link>https://www.bbc.com/news/articles/ce85j1wwrdyo</link>
       <description><![CDATA[皇室成员将于四月对意大利进行国事访问，恰逢他们结婚二十周年。]]></description>
       <guid>https://www.bbc.com/news/articles/ce85j1wwrdyo</guid>
@@ -76,39 +104,11 @@
       <pubDate>Thu, 06 Feb 2025 20:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>央行下调利率并大幅下调增长预测</title>
-      <link>https://www.bbc.com/news/articles/c0lzj3g77gpo</link>
-      <description><![CDATA[央行行长安德鲁贝利向英国广播公司表示，预计将进一步降息，但警告称，未来的道路将是坎坷的。]]></description>
-      <guid>https://www.bbc.com/news/articles/c0lzj3g77gpo</guid>
-      <pubDate>Thu, 06 Feb 2025 20:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>13 天后，EuroMillions 8300 万英镑头奖终于被领取</title>
-      <link>https://www.bbc.com/news/articles/c30d2dpdz6qo</link>
-      <description><![CDATA[国家彩票运营商表示，很高兴看到奖金在 13 天后终于被领取。]]></description>
-      <guid>https://www.bbc.com/news/articles/c30d2dpdz6qo</guid>
-      <pubDate>Thu, 06 Feb 2025 16:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普为何想要接管加沙？他能做到吗？</title>
-      <link>https://www.bbc.com/news/articles/cn4z32y12jpo</link>
-      <description><![CDATA[总统关于将加沙置于美国控制之下的愿景可能会颠覆中东关系的未来。]]></description>
-      <guid>https://www.bbc.com/news/articles/cn4z32y12jpo</guid>
-      <pubDate>Thu, 06 Feb 2025 15:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列部长要求军队为巴勒斯坦人离开加沙做好计划</title>
-      <link>https://www.bbc.com/news/articles/cjexp347yxlo</link>
-      <description><![CDATA[此前，特朗普总统提议加沙人重新安置，引起广泛谴责。]]></description>
-      <guid>https://www.bbc.com/news/articles/cjexp347yxlo</guid>
-      <pubDate>Thu, 06 Feb 2025 13:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我们不会去”：巴勒斯坦人震惊且反抗</title>
-      <link>https://www.bbc.com/news/articles/c78xre2ynd4o</link>
-      <description><![CDATA[巴勒斯坦人呼吁约旦和埃及抵制美国关于接收流离失所的加沙人的压力。]]></description>
-      <guid>https://www.bbc.com/news/articles/c78xre2ynd4o</guid>
-      <pubDate>Wed, 05 Feb 2025 17:06:32 GMT</pubDate>
+      <title>每周测验：为什么这家酒吧的女老板要赠送价值 1500 英镑的免费啤酒？</title>
+      <link>https://www.bbc.com/news/articles/ckgnp7z1jwzo</link>
+      <description><![CDATA[这七天里，你关注了世界上发生的事情多少？]]></description>
+      <guid>https://www.bbc.com/news/articles/ckgnp7z1jwzo</guid>
+      <pubDate>Thu, 06 Feb 2025 18:14:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
