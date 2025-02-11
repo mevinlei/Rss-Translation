@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>新闻 > 头条新闻</title>
+    <title>新 > 热门故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 08:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 12:19:17 GMT</lastBuildDate>
     <item>
-      <title>以色列人质讲述虐待事件 引起剩余人质的警惕</title>
-      <link>https://www.nytimes.com/2025/02/10/world/middleeast/israel-hostages-abuse-hamas.html</link>
-      <description><![CDATA[获释的人质讲述了他们遭受饥饿的遭遇，而其他被关押在加沙的人的亲属也表示，官员们转述了他们遭受酷刑的遭遇。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/world/middleeast/israel-hostages-abuse-hamas.html</guid>
-      <pubDate>Tue, 11 Feb 2025 05:52:07 GMT</pubDate>
+      <title>特朗普向哈马斯发出最后通牒，白宫与法院的对决迫在眉睫</title>
+      <link>https://www.nytimes.com/2025/02/11/podcasts/the-headlines/trump-hamas-israel.html</link>
+      <description><![CDATA[另外，还有一部惊喜大片。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/podcasts/the-headlines/trump-hamas-israel.html</guid>
+      <pubDate>Tue, 11 Feb 2025 11:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普对加拿大征收石油关税将如何影响美国炼油厂</title>
+      <link>https://www.nytimes.com/2025/02/11/business/energy-environment/trump-tariffs-canada-oil.html</link>
+      <description><![CDATA[总统表示可能在 3 月份征收 10% 的关税，这可能会导致美国炼油厂减产并导致价格上涨。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/business/energy-environment/trump-tariffs-canada-oil.html</guid>
+      <pubDate>Tue, 11 Feb 2025 11:36:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析人士称加沙停火协议的长期前景黯淡</title>
+      <link>https://www.nytimes.com/2025/02/11/world/middleeast/trump-israel-gaza-cease-fire-deal.html</link>
+      <description><![CDATA[哈马斯和特朗普总统威胁要推翻停火协议。分析人士称，这些言论可能只是空谈，但协议可能撑不过三月初。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/world/middleeast/trump-israel-gaza-cease-fire-deal.html</guid>
+      <pubDate>Tue, 11 Feb 2025 11:19:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普暂停执行反海外贿赂法</title>
+      <link>https://www.nytimes.com/2025/02/11/us/politics/trump-fcpa-bribery-law-corruption.html</link>
+      <description><![CDATA[《反海外腐败法》规定，在美国运营的公司向外国政府官员行贿以获取或维持商业交易属于违法行为。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/us/politics/trump-fcpa-bribery-law-corruption.html</guid>
+      <pubDate>Tue, 11 Feb 2025 11:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲地面部队能否帮助保护乌克兰的安全？</title>
+      <link>https://www.nytimes.com/2025/02/11/world/europe/ukraine-russia-trump.html</link>
+      <description><![CDATA[专家表示，一旦战争结束，要阻止俄罗斯再次入侵乌克兰，可能需要 15 万军队以及美国在空中掩护、情报和导弹防御方面的帮助。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/world/europe/ukraine-russia-trump.html</guid>
+      <pubDate>Tue, 11 Feb 2025 10:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>约旦国王与特朗普会面面临困境</title>
+      <link>https://www.nytimes.com/2025/02/11/us/politics/jordans-king-faces-a-bind-as-he-meets-with-trump.html</link>
+      <description><![CDATA[美国的亲密盟友阿卜杜拉二世国王依赖华盛顿的援助，但他正面临着总统要求他接收加沙巴勒斯坦人的要求，而国王的国内政治不允许他采取这一举措。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/us/politics/jordans-king-faces-a-bind-as-he-meets-with-trump.html</guid>
+      <pubDate>Tue, 11 Feb 2025 10:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>钢铁和铝关税可能提高美国制造业成本</title>
+      <link>https://www.nytimes.com/2025/02/11/business/economy/tariffs-steel-aluminum-manufacturing.html</link>
+      <description><![CDATA[对钢铁和铝征收的 25% 的关税将惠及汽车购买者、啤酒消费者、房屋建筑商、石油钻探者和其他金属产品用户。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/business/economy/tariffs-steel-aluminum-manufacturing.html</guid>
+      <pubDate>Tue, 11 Feb 2025 10:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>硅谷正在拥抱基督教（在彼得·泰尔的帮助下）</title>
+      <link>https://www.nytimes.com/2025/02/11/business/silicon-valley-christianity.html</link>
+      <description><![CDATA[当科技界名人谈论他们的基督教信仰时，人们会倾听。]]></description>
+      <guid>https://www.nytimes.com/2025/02/11/business/silicon-valley-christianity.html</guid>
+      <pubDate>Tue, 11 Feb 2025 10:00:19 GMT</pubDate>
     </item>
     <item>
       <title>特朗普称若约旦和埃及不接收加沙人，他可能会削减援助</title>
       <link>https://www.nytimes.com/2025/02/10/us/politics/trump-jordan-egypt-gaza-development.html</link>
       <description><![CDATA[总统对两国施加压力，迫使他们同意他的建议，为加沙的巴勒斯坦人口提供住房，并表示巴勒斯坦人无权返回该领土。]]></description>
       <guid>https://www.nytimes.com/2025/02/10/us/politics/trump-jordan-egypt-gaza-development.html</guid>
-      <pubDate>Tue, 11 Feb 2025 03:44:40 GMT</pubDate>
+      <pubDate>Tue, 11 Feb 2025 03:44:41 GMT</pubDate>
     </item>
     <item>
       <title>推动撤销对亚当斯的指控表明司法部受到特朗普的影响</title>
@@ -34,32 +83,11 @@
       <pubDate>Tue, 11 Feb 2025 03:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>参议院推举加巴德，暗示将迅速确认</title>
-      <link>https://www.nytimes.com/2025/02/10/us/politics/tulsi-gabbard-senate-test-vote.html</link>
-      <description><![CDATA[试投结果显示，尽管一些共和党人最初也持保留态​​度，但这位前民主党女议员已获得必要的支持，将在预计于周三举行的投票中获得确认。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/us/politics/tulsi-gabbard-senate-test-vote.html</guid>
-      <pubDate>Tue, 11 Feb 2025 02:37:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亚当斯可能会被撤销指控，但他的连任之战仍在继续</title>
       <link>https://www.nytimes.com/2025/02/10/nyregion/eric-adams-mayor-primary.html</link>
       <description><![CDATA[目前还不清楚撤销对纽约市长起诉的请求是否能够让足够多的不满选民站到他一边。]]></description>
       <guid>https://www.nytimes.com/2025/02/10/nyregion/eric-adams-mayor-primary.html</guid>
       <pubDate>Tue, 11 Feb 2025 02:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普对外国钢铁和铝征收 25% 关税</title>
-      <link>https://www.nytimes.com/2025/02/10/us/politics/trump-tariffs-steel-aluminum.html</link>
-      <description><![CDATA[总统对全球金属征收 25% 的关税，重复了他第一任期的举措。经济学家和外国政府知道接下来会发生什么。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/us/politics/trump-tariffs-steel-aluminum.html</guid>
-      <pubDate>Tue, 11 Feb 2025 02:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃里克·亚当斯数月来讨好特朗普</title>
-      <link>https://www.nytimes.com/2025/02/10/nyregion/eric-adams-donald-trump.html</link>
-      <description><![CDATA[亚当斯先生一直避免批评特朗普总统或他的政策，甚至敦促高级助手不要这样做，并表示愿意与新政府合作。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/nyregion/eric-adams-donald-trump.html</guid>
-      <pubDate>Tue, 11 Feb 2025 01:07:14 GMT</pubDate>
     </item>
     <item>
       <title>法官裁定特朗普政府无视解冻数十亿美元联邦拨款的命令</title>
@@ -69,46 +97,18 @@
       <pubDate>Tue, 11 Feb 2025 00:55:01 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普对钢铁和铝征收关税 中国是主要目标</title>
-      <link>https://www.nytimes.com/2025/02/10/business/china-trump-tariffs-steel-aluminum.html</link>
-      <description><![CDATA[现行的美国关税已经限制了来自中国的钢铁和铝出口，而中国目前正将其出口产品涌向其他市场。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/business/china-trump-tariffs-steel-aluminum.html</guid>
-      <pubDate>Tue, 11 Feb 2025 00:42:52 GMT</pubDate>
+      <title>2025 年威斯敏斯特犬展：幕后照片</title>
+      <link>https://www.nytimes.com/2025/02/10/style/westminster-dog-show-photos.html</link>
+      <description><![CDATA[这是该活动自 2020 年以来首次重返曼哈顿中城，成千上万的狗狗涌入这座城市，它们只有一个目标：成为最出色的狗狗。]]></description>
+      <guid>https://www.nytimes.com/2025/02/10/style/westminster-dog-show-photos.html</guid>
+      <pubDate>Mon, 10 Feb 2025 22:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆·马斯克领衔竞标，以 974 亿美元收购 OpenAI 控制权</title>
-      <link>https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html</link>
-      <description><![CDATA[这位亿万富翁正带领一群投资者提出主动收购要约，这给这家初创公司筹集更多资金的计划带来了复杂性。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/technology/elon-musk-openai-bid.html</guid>
-      <pubDate>Tue, 11 Feb 2025 00:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯推迟释放以色列人质后特朗普发出停火最后通牒</title>
-      <link>https://www.nytimes.com/2025/02/10/world/middleeast/hamas-hostages-israel-ceasefire.html</link>
-      <description><![CDATA[原定于下周末进行的加沙地带人质释放工作被推迟，这对已经脆弱的六周停火协议以及战争永久结束的可能性提出了新的挑战。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/world/middleeast/hamas-hostages-israel-ceasefire.html</guid>
-      <pubDate>Tue, 11 Feb 2025 00:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普政府司法部发布严厉指令，预示重大转变</title>
-      <link>https://www.nytimes.com/2025/02/10/us/politics/justice-dept-trump-bondi.html</link>
-      <description><![CDATA[现任和前任官员表示，该部门的新基调似乎意味着对那些被视为不够忠诚的职业雇员发起一场恐吓运动。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/us/politics/justice-dept-trump-bondi.html</guid>
-      <pubDate>Mon, 10 Feb 2025 23:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>学者称特朗普的行为已引发宪法危机</title>
-      <link>https://www.nytimes.com/2025/02/10/us/politics/trump-constitutional-crisis.html</link>
-      <description><![CDATA[长期以来，法学教授们一直在争论这个词的含义。但现在许多人得出的结论是，随着特朗普总统试探行政权力的界限，国家将面临清算。]]></description>
-      <guid>https://www.nytimes.com/2025/02/10/us/politics/trump-constitutional-crisis.html</guid>
-      <pubDate>Mon, 10 Feb 2025 20:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么特朗普对中国征收关税可能不是解决方案</title>
-      <link>https://www.nytimes.com/video/world/asia/100000009969601/why-trumps-tariffs-on-china-might-not-be-the-solution.html</link>
-      <description><![CDATA[在贸易问题上，特朗普总统对中国的态度很严厉。他特别指出一个数字，说我们被欺骗了：我们的贸易逆差。《纽约时报》贸易和国际经济专栏作家安娜·斯旺森解释了特朗普降低对华贸易逆差的方法，以及为什么一些经济学家质疑他的策略。]]></description>
-      <guid>https://www.nytimes.com/video/world/asia/100000009969601/why-trumps-tariffs-on-china-might-not-be-the-solution.html</guid>
-      <pubDate>Mon, 10 Feb 2025 19:34:15 GMT</pubDate>
+      <title>狗的品种对其健康和行为有多大影响？</title>
+      <link>https://www.nytimes.com/2025/02/09/science/dog-breed-health-behavior-westminster.html</link>
+      <description><![CDATA[以下是科学家们关于狗的品种如何影响其健康和行为的研究结果。]]></description>
+      <guid>https://www.nytimes.com/2025/02/09/science/dog-breed-health-behavior-westminster.html</guid>
+      <pubDate>Sun, 09 Feb 2025 10:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
