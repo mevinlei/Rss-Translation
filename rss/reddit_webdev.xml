@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 03:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:15:05 GMT</lastBuildDate>
+    <item>
+      <title>寻找简单的SSG</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ims49p/looking_for_a_simple_ssg/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最初只是为我的网站使用静态HTML。然后我意识到我希望它看起来更好，所以我测试了Pico CSS。这效果很好，我可以创建下拉菜单的准确方式：  ＆lt; nav class =＆quot =; container＆quot＆quot＆quot; gt; ＆lt; ul＆gt; ＆lt; li＆lt; ＆lt;/ul＆gt; ＆lt; ul＆gt; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/of of of of to ＆lt; li＆gt;＆lt; a href =&#39;&#39;/contact; ＆lt; li＆gt; ＆lt;详细信息class =&#39;&#39;下拉角色=“ list”＆quot＆gt; ＆lt;摘要角色=“按钮” class =&#39;secondary＆quot; gt; services＆lt;/summary＆gt; ＆lt; ul＆gt; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/service1; ＆lt; li＆gt;＆lt; a href =&#39;&#39;/service2＆quot; ＆lt;/ul＆gt; ＆lt;/详细信息＆gt; ＆lt;/li＆gt; ＆lt;/ul＆gt; ＆lt;/nav＆gt;   ，但后来我意识到我想添加更多的内容，因此看起来SSG是理想的，我尝试了Hugo。 但是，出于何种原因，我都无法获得雨果的一些问题。我尝试使用“标识符”明确定义菜单。和“父母”就像我在示例中所看到的那样，在Hugo.toml中，显然这是主题是否有效。 Pico！   我尝试的每个主题都很简单。或者，如果我找到了想要的布局，则没有内置的方式来自定义颜色。我只是在寻找一个与PICO CSS默认配色方案尽可能接近的主题。 Xmin是一个很好的布局。   我在这里寻找的是对以上两个问题的解决方案，或者建议对其他，更简单，更简单的SSG提出建议很容易地支持下拉菜单开箱即用，并且有一个不错的默认配色方案，或者甚至可能还没有想到的其他选项。 您对我的用例建议了什么？ &lt; &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/makhno     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ims49p/looking_for_a_simple_ssg/</guid>
+      <pubDate>Tue, 11 Feb 2025 06:12:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>您首选的域提供商是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imr55d/whats_your_preferred_domain_provider/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经使用了Namecheap多年了，并且只是探索其他提供商。  &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/parasitetm     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imr55d/whats_your_preferred_domain_provider/</guid>
+      <pubDate>Tue, 11 Feb 2025 05:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>CSS盒子尺寸的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1imos91/issue_with_css_box_sizing/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>这似乎是事实吗？黑客或错误？</title>
       <link>https://www.reddit.com/r/webdev/comments/1imnmus/does_this_seem_like_the_truth_a_hack_or_a_mistake/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个客户在周末打电话给我。他们不是我的客户，但他们的网站倒塌了，反过来，他们的电子邮件。他们主要关注电子邮件，因此在看到DNS_Probe_fined_nxdomain错误之后，我发现发生了两件事之一（1）SSL证书已续签，出现问题或（2）域已续签，并且出了点问题 - 尽管我不太可能做到这一点，因为我做到了，因为我做到了。只能进入Godaddy。因此，为了快速尝试使他们的电子邮件正常工作，我将名称服务器更改为Godaddy（来自Digital Ocean），添加了MX记录，并重新配置了Google。电子邮件工作。由于这也将域名指向Godaddy，所以我放了一个快速着陆页。  整个周末Web Dev公司都没有反应。今天，周末客户让我打电话给Web开发公司，他们解释说他们被黑客入侵，因此他们关闭了服务器，这将关闭电子邮件。他们还说，他们在星期五与我的周末客户联系（他们没有）我认为这是错误的吗？下面列出的是技术堆栈（我很快通过技术发现发现），因为我无法访问他们的数字海洋帐户。  前端技术： -  vue.js作为其主要JavaScript框架-NUXT.JS作为其VUE应用程序框架-GSAP -GSAP -GSAP for Animation -webpack for Module bundling -for javaScript for JavaScript for JavaScript Polyfills -Vuex for State Management for State Management &lt; /p&gt; 基础架构： - 托管在数字海洋（托管和DNS）上 - 使用nginx作为Web服务器 - 在Ubuntu操作系统上运行 - 位于美国服务器上 - 位于美国服务器上 - 从letsencrypt-从letsencrypt- https -https启用https，默认启用其他功能：-Google for Business（G Google Apps for Business（G Suite）用于电子邮件托管 来吧。这不是黑客吗？是吗？似乎掩盖了可能的配置错误？还是另一种错误？或者，也许我完全不在基地，它回来了，我缺少一些东西？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/softwareok9898     [link]   ＆＃32;  &lt;A href =“ https://www.reddit.com/r/webdev/comments/1imnmus/does_this_this_seem_like_the_the_the_a_a_hack_hack_or_a_mistake/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个客户在周末打电话给我。他们不是我的客户，但他们的网站倒塌了，反过来，他们的电子邮件。他们主要关注电子邮件，因此在看到DNS_Probe_fined_nxdomain错误之后，我发现发生了两件事之一（1）SSL证书已续签，出现问题或（2）域已续签，并且出了点问题 - 尽管我不太可能做到这一点，因为我做到了，因为我做到了。只能进入Godaddy。因此，为了快速尝试使他们的电子邮件正常工作，我将名称服务器更改为Godaddy（来自Digital Ocean），添加了MX记录，并重新配置了Google。电子邮件工作。由于这也将域名指向Godaddy，所以我放了一个快速着陆页。  整个周末Web Dev公司都没有反应。今天，周末客户让我打电话给Web开发公司，他们解释说他们被黑客入侵，因此他们关闭了服务器，这将关闭电子邮件。他们还说，他们在星期五与我的周末客户联系（他们没有）我认为这是错误的吗？下面列出的是技术堆栈（我很快通过技术发现发现），因为我无法访问他们的数字海洋帐户。  前端技术： -  vue.js作为其主要JavaScript框架-NUXT.JS作为其VUE应用程序框架-GSAP -GSAP -GSAP for Animation -webpack for Module bundling -for javaScript for JavaScript for JavaScript Polyfills -Vuex for State Management for State Management &lt; /p&gt; 基础架构： - 托管在数字海洋（托管和DNS）上 - 使用nginx作为Web服务器 - 在Ubuntu操作系统上运行 - 位于美国服务器上 - 位于美国服务器上 - 从letsencrypt-从letsencrypt- ssl证书 - 默认启用https 其他功能：-Google for Business（G Google Apps for Business（G Suite）用于电子邮件托管 来吧。这不是黑客吗？是吗？似乎掩盖了可能的配置错误？还是另一种错误？或者，也许我完全不在基地，它回来了，我缺少一些东西？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/softwareok9898     [link]   ＆＃32;  &lt;A href =“ https://www.reddit.com/r/webdev/comments/1imnmus/does_this_this_seem_like_the_the_the_a_a_hack_hack_or_a_mistake/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imnmus/does_this_seem_like_the_truth_a_hack_or_a_mistake/</guid>
       <pubDate>Tue, 11 Feb 2025 02:09:12 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我有一个域停放，最初托管在hostgator。过了一会儿，我最终为此域创建了一个nextJS网站，因此我将a唱片指向Vercel。据我所知，这并不影响电子邮件， mail.domain.com 记录指向hostgator和MX记录指向邮件。记录...  我遇到的问题是，现在domaindotcom/webmail URL指向NextJS网站，其中出现了404个错误...我该如何解决这个问题？  &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/brettkoz     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imf822/changed_the_a_record_for_nextjs_site_to_point_to/</guid>
       <pubDate>Mon, 10 Feb 2025 19:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imex9u/first_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。我正在寻找创建我的第一个网站。这就像一个投资组合/简历网站。我通常是一个后端家伙，所以我的长处更多的是Java，C＃，C ++，Python。我应该使用什么框架？或者我应该只做香草JS，html，css？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/udaventurous_job9209       [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imex9u/first_website/</guid>
-      <pubDate>Mon, 10 Feb 2025 19:38:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>像螺栓和许多用于前端的应用程序一样，是否有专门用于编写后端节点JS的AI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imdv1b/like_bolt_and_many_apps_for_frontend_are_there/</link>
-      <description><![CDATA[在提交由＆＃32; /u/u/kingofpyrates     [link]  ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imdv1b/like_bolt_and_many_apps_for_frontend_are_there/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:57:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
