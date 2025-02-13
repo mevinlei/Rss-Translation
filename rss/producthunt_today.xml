@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Feb 2025 12:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:12:29 GMT</lastBuildDate>
     <item>
       <title>购物+博览会</title>
       <link>https://www.producthunt.com/posts/bolt-expo</link>
@@ -90,8 +90,22 @@
       <pubDate>Wed, 12 Feb 2025 10:37:27 GMT</pubDate>
     </item>
     <item>
-      <title>可爱的视觉编辑</title>
-      <link>https://www.producthunt.com/posts/lovable-visual-edits</link>
+      <title>图像人工智能</title>
+      <link>https://www.producthunt.com/posts/bild-ai</link>
+      <description><![CDATA[
+AI 让建筑工人免于熬夜绘制蓝图
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bild-ai</guid>
+      <pubDate>Tue, 11 Feb 2025 17:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>可爱的视觉编辑（早期访问）</title>
+      <link>https://www.producthunt.com/posts/lovable-visual-edits-early-access</link>
       <description><![CDATA[
 更快、更精确的编辑
 
@@ -100,14 +114,14 @@
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/lovable-visual-edits</guid>
+      <guid>https://www.producthunt.com/posts/lovable-visual-edits-early-access</guid>
       <pubDate>Tue, 11 Feb 2025 14:11:42 GMT</pubDate>
     </item>
     <item>
       <title>Chirp：用于 Apple Watch 的人工智能</title>
       <link>https://www.producthunt.com/posts/chirp-ai-for-apple-watch</link>
       <description><![CDATA[
-说话即可搜索、发送消息并快速获得答案
+只需说话即可获得快速答案和智能操作
 
 
 讨论
@@ -160,34 +174,6 @@
       <pubDate>Tue, 11 Feb 2025 00:42:40 GMT</pubDate>
     </item>
     <item>
-      <title>Roamr 好友</title>
-      <link>https://www.producthunt.com/posts/roamr-for-friends</link>
-      <description><![CDATA[
-出差期间和朋友一起住还能获得报酬
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/roamr-for-friends</guid>
-      <pubDate>Mon, 10 Feb 2025 22:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 商用货车</title>
-      <link>https://www.producthunt.com/posts/rivian-commercial-van</link>
-      <description><![CDATA[
-我们的电动车队车辆和商用货车
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rivian-commercial-van</guid>
-      <pubDate>Mon, 10 Feb 2025 22:05:53 GMT</pubDate>
-    </item>
-    <item>
       <title>反馈流</title>
       <link>https://www.producthunt.com/posts/feedbackstream</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@ AI 面试：比调查更深入，比 1:1 聊天更快
 ]]></description>
       <guid>https://www.producthunt.com/posts/feedbackstream</guid>
       <pubDate>Mon, 10 Feb 2025 04:26:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿里阿德涅</title>
+      <link>https://www.producthunt.com/posts/ariadna</link>
+      <description><![CDATA[
+AI 人才代理为所有人提供精英职业支持
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/ariadna</guid>
+      <pubDate>Thu, 06 Feb 2025 08:34:16 GMT</pubDate>
     </item>
     <item>
       <title>信友</title>
