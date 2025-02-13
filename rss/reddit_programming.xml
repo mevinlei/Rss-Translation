@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 12 Feb 2025 21:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 00:46:46 GMT</lastBuildDate>
+    <item>
+      <title>开源一种训练和运行小型人工智能模型的方法：无需云、无需大数据集、无需废话</title>
+      <link>https://www.reddit.com/r/programming/comments/1io650l/opensourced_a_way_to_train_run_small_ai_models_no/</link>
+      <description><![CDATA[  由    /u/Pale-Show-2469  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1io650l/opensourced_a_way_to_train_run_small_ai_models_no/</guid>
+      <pubDate>Thu, 13 Feb 2025 00:17:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>USACO 培训网站</title>
+      <link>https://www.reddit.com/r/programming/comments/1io5zxc/training_website_for_the_usaco/</link>
+      <description><![CDATA[  由    /u/ruhangupta  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1io5zxc/training_website_for_the_usaco/</guid>
+      <pubDate>Thu, 13 Feb 2025 00:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员的游戏开发指南：编程、关卡设计和其他见解</title>
+      <link>https://www.reddit.com/r/programming/comments/1io4u6w/programmers_guide_to_game_development_programming/</link>
+      <description><![CDATA[  由    /u/gamedev-exe  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1io4u6w/programmers_guide_to_game_development_programming/</guid>
+      <pubDate>Wed, 12 Feb 2025 23:17:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github Actions 用于基于主干的开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1io2muy/github_actions_for_trunk_based_development/</link>
+      <description><![CDATA[  由    /u/gregwebs  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1io2muy/github_actions_for_trunk_based_development/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:42:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 2-3 年内学习代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1io2dz6/how_to_learn_code_in_23_years/</link>
+      <description><![CDATA[嗨，我 16 岁了，我不知道如何编码，只知道 html 和 css 的基本知识，我愿意学习如何编码来制作一些网站和软件，我想知道，如何学习编码（一步一步），使用哪些软件/应用程序，是否有一些方法可以记忆和更快地学习，每天多少小时，哪些语言等等 PS：请给我一个教程，告诉我开始和了解如何编码所需的所有东西，谢谢    提交人    /u/NoOffice107   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1io2dz6/how_to_learn_code_in_23_years/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:32:24 GMT</pubDate>
+    </item>
     <item>
       <title>我最近如何利用法学硕士 (LLM) 编写代码</title>
       <link>https://www.reddit.com/r/programming/comments/1io1f2o/how_i_code_with_llms_these_days/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[  由    /u/fizzner  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1inyrwi/quantum_computing_latex_coursework_notes_open/</guid>
       <pubDate>Wed, 12 Feb 2025 19:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>副驾驶下一步编辑建议（预览）</title>
-      <link>https://www.reddit.com/r/programming/comments/1inx7v3/copilot_next_edit_suggestions_preview/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1inx7v3/copilot_next_edit_suggestions_preview/</guid>
-      <pubDate>Wed, 12 Feb 2025 18:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Tach 扩展到大型代码库</title>
-      <link>https://www.reddit.com/r/programming/comments/1inx3sf/scaling_tach_to_large_codebases/</link>
-      <description><![CDATA[  由    /u/the1024  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1inx3sf/scaling_tach_to_large_codebases/</guid>
-      <pubDate>Wed, 12 Feb 2025 17:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>课程创建的未来 – 通过 VS Code 集成为您的 YouTube 视频增强功能！</title>
-      <link>https://www.reddit.com/r/programming/comments/1inw5wt/the_future_of_course_creation_supercharge_your/</link>
-      <description><![CDATA[  由    /u/signorlupo22  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1inw5wt/the_future_of_course_creation_supercharge_your/</guid>
-      <pubDate>Wed, 12 Feb 2025 17:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩展 Firecracker：使用 OverlayFS 节省磁盘空间</title>
-      <link>https://www.reddit.com/r/programming/comments/1invcul/scaling_firecracker_using_overlayfs_to_save_disk/</link>
-      <description><![CDATA[  由    /u/mlejva  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1invcul/scaling_firecracker_using_overlayfs_to_save_disk/</guid>
-      <pubDate>Wed, 12 Feb 2025 16:47:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本函数且不遵循 IEEE754 浮点标准(2020)</title>
-      <link>https://www.reddit.com/r/programming/comments/1inv5cn/elementary_functions_and_not_following_the/</link>
-      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1inv5cn/elementary_functions_and_not_following_the/</guid>
-      <pubDate>Wed, 12 Feb 2025 16:38:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
