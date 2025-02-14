@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Fri, 14 Feb 2025 03:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:14:41 GMT</lastBuildDate>
+    <item>
+      <title>文字和潜艇未在Premiere Pro上显示</title>
+      <link>https://www.reddit.com/r/editors/comments/1ip2chr/text_and_subs_not_showing_on_premiere_pro/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，所以问题是我的文字和subs突然出于某种原因没有出现。尝试卸载并重新安装所有内容，但仍然不起作用。当我尝试添加文本层时，顶部出现了一条红线。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/external_pin_2088     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ip2chr/text_and_subs_not_showing_on_premiere_pro/</guid>
+      <pubDate>Fri, 14 Feb 2025 04:19:24 GMT</pubDate>
+    </item>
     <item>
       <title>好奇你们如何反弹/找到新作品</title>
       <link>https://www.reddit.com/r/editors/comments/1ioygri/curious_how_you_all_bounced_backfound_new_work/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是魔术师的社交媒体视频人，我们正在做一个现场表演的录制该月份将在当年晚些时候播放。我们正在与一个小视频工作人员一起工作，但是由于我最了解节目，所以我负责大多数预生工作品，以使演出的录制尽可能流畅。之后，我还将负责演出的削减。艰难的事实：  我们在欧洲，所以在这里。 广播的交付文件必须是标准高清文件规格中的MXF文件（XDCAM HD 422）在50i   中，我知道您可以在MXF-container中扔任何东西，但是是否有重要的理由选择在25p上进行50p中的录制？？ 我通常以25便士的价格为所有社交媒体的东西和我的相机（索尼）记录25p或50p，如果需要缓慢的速度（通常是我所有的gimbal-fotage），始终以180度的快门。只想避免在最终产品中发生任何过于流畅/肥皂 - 播种效果。我没有看到我的50p/180度快门材料实时播放的50p/180度快门材料，并以25p的形式出口，所以应该没事。但是，在50p中的导出看起来像我想的肥皂剧？  我们有两个来自我们自己的船员的载人摄像机，这些摄像头被用于发送50p的节目中的实时屏幕供稿（快门可能是1/100，然后 - 必须检查）。我需要看看他们是否也可以记录25p，但是我想他们必须坚持50p的实时饲料。 ，如果我没有完全错，我现在看到三个选项：    - 以25p的录制录制，以25p/50i交付（但我们可能坚持使用自己的活馈录录制50p）   -  50p录制25p/50i    - 以50p的录制，以50p/50i  交付有关快门速度 - 是否罚款180度，或者您会推荐其他东西？ 希望你们可以在这里帮助我。 非常感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyy_kaleidoscope_516      [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1io4dm9/framerateshutter_for_broadcast_recording/</guid>
       <pubDate>Wed, 12 Feb 2025 22:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队项目的问题 - 媒体离线和自动保存错误</title>
-      <link>https://www.reddit.com/r/editors/comments/1io3aeq/problems_with_team_projects_media_offline_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个首映团队项目，与美国和印度的合作者一起。该项目连接到Lucid链接，这是所有文件和资产存储的地方。我是该项目的创建者/所有者，我在美国，没有任何问题。但是，印度的团队遇到了两个主要问题，这些问题使得无法在线进行。 首先，他们能够连接到Lucid Link上的镜头，但每隔一分钟就会脱机。他们将其重新链接，首先链接，然后再次离线。这正在不断发生。他们还会遇到一个自动保存错误，不断弹出，其中说： &#39;有一个错误自动保存您在最后xx秒（s）中所做的更改（S） ....当问题持续存在时，您的更改无法保存。请关闭并重新开放团队项目，以恢复最后一个自动保存版本。＆quot＆quot&#39; 我检查了Google和Reddit，并找到了其他一个或两个线程，但实际上并没有任何令人满意的答案。首先，自动助图目录和媒体cahche设置为我的本地驱动器，我认为这可能会引起问题，但是我将目录切换到共享的Lucid链接文件夹，并且问题仍在发生。如果有人有任何建议，我会真诚地感谢它。这是一个刚刚开始的庞大项目，必须脱机做整个事情，这将是一个严重的时间。 &gt; 不确定每个编辑器的计算机规格，但我相信这是团队项目/清晰链接的问题，而不是与任何单独的计算机。 编辑：我不相信它有任何东西也可以使用他们的系统，因为他们能够在不发问题的情况下访问该项目。项目开始后，这些问题浮出水面。还有一位编辑仍然可以工作，但是团队的其余部分都遇到了问题。 我尝试删除所有合作者并将其添加到项目中，并且对一个人有用，但是其他人仍然有问题。遇到问题的人正在看到已删除的项目中的旧事物，并且他们仍然遇到相同的错误。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/faceouscurtains     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1io3aeq/problems_with_team_projects_media_offline_and/</guid>
-      <pubDate>Wed, 12 Feb 2025 22:10:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
