@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 06:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 09:13:53 GMT</lastBuildDate>
+    <item>
+      <title>推荐的堆栈从初学者转变为中级开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip6fvj/recommended_stack_to_move_from_a_beginner_to/</link>
+      <description><![CDATA[在  fe /be  -  &lt; /strong&gt; svelte /sveltekit  部署和托管 -  &lt; /strong&gt; vercel   auth and database and database- &lt; /strong&gt; supbase &lt; /p&gt; 虽然它很棒并且有效，但我想改善自己的堆栈以更便宜，更富有弹性，并通过学习新事物来扩大我的知识和技能。 什么是替代品您建议改进？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jake185     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip6fvj/recommended_stack_to_move_from_a_beginner_to/</guid>
+      <pubDate>Fri, 14 Feb 2025 08:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用光标 + Claude构建了我的第一个Web应用程序作为非编码器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip6cxh/built_my_first_web_app_as_a_noncoder_using_cursor/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ip6cxh/1ip6cxh/built_my_my_my_my_first_web_ap_a as_a_a_a_a_a_noncoder_corsor/ coder using Cursor + Claude&quot; src=&quot;https://external-preview.redd.it/mHQD1H3GAvm7Z-DgdG_1mkdysUfs2C_mhaAOKbM6REI.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=26cda4a8bd4d0c99191cc4e0dcca6d1cbb7f28e3&quot; title=&quot;Built my first web使用光标 + claude“/&gt;    &lt;！&lt;！ -  sc_off-&gt;  我已经学会了一些基本的java， Python，HTML和CSS几年前，但此后从未真正编码过。最近，很好奇AI可以将像我这样的人带走多远 - 现在是一个完整的非编码器。 所以我构建了 https://ripefocus.com &lt; /a&gt;  - 最小，无广告的Pomodoro计时器，可以让您在工作时从Spotify播放Lo-Fi。还添加了一些环境声音！ 它远非完美，我仍在弄清楚会话跟踪和用户帐户之类的东西。但是，建立实际有效的东西是非常有趣的！光标和克劳德（Claude）在整个过程中都非常有帮助！ 随时检查一下，让我知道您的想法！始终向建议开放✌️  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nyster_gold2358     ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip6cxh/built_my_first_web_app_as_a_noncoder_using_cursor/</guid>
+      <pubDate>Fri, 14 Feb 2025 08:48:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>monorepo打字稿困境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip5v9x/monorepo_typescript_woes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图为我的项目设置一个既有节点服务器，react客户端和共享目录的grotorepo。 &lt; &lt; &lt; p&gt;一切都是打字稿。使用Vite。 该项目看起来像   root | - 客户/src | app.tsx tsconfig.json | - 服务器/SRC | server.ts tsconfig.json | - 共享common.ts tsconfig.json | tsconfig.json   客户端使用React 19，tailwind 4.0和Shadcn  我已经在根中设置了tsconfig.json，引用了客户端，服务器和共享tsconfig文件。 我试图定义@shared前缀，以便可以从我的客户端和服务器代码中导入（ESM样式）文件。 使用ts-节点，我无法获得以下操作的导入，例如：   typescript import {coolstuff}从&#39;@@sharone/common＆quot＆quot ;   它无法解析共享文件。 但是，如果我直接使用tsc，则可以解决该文件。尽管我必须将其导入为.js。有人有任何想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/inigid     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip5v9x/monorepo_typescript_woes/</guid>
+      <pubDate>Fri, 14 Feb 2025 08:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我最逼真的三个场景（SSGI）中，实现了带有逼真的软胸罩的灯光|实时运行浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip50hd/implemented_lights_with_realistic_softshadows_in/</link>
+      <description><![CDATA[   /u/u/abhaysreddit     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip50hd/implemented_lights_with_realistic_softshadows_in/</guid>
+      <pubDate>Fri, 14 Feb 2025 07:08:14 GMT</pubDate>
+    </item>
     <item>
       <title>托管我简单网站的最佳场所是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ip32wo/whats_the_best_place_to_host_my_simple_website/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[在我认为您每月支付访问费用，然后每月每月以每x量的结果来获得特定的API，这会变得昂贵），任何人都有任何解决方案吗？我从技术上知道这是网络报废，但即使我在该领域的研究也显示出  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cartiermartyr     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iowakd/pulling_sold_item_data_from_facebook_marketplace/</guid>
       <pubDate>Thu, 13 Feb 2025 23:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>你感觉如何</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iow4rr/how_do_you_feel_productive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道如何编码一段时间，但从未尝试用它做任何事情，因为我正在做其他事情。现在我已经19岁了，我的主要问题是我失业和破产，无论我建造，学习或阅读什么，或者我感到满意的东西，并且总是感到不满意和不安全，因为我所做的事情都没有做任何事情金钱（完成了一个新的个人项目？感到不知所措。学会了一项新技能吗？什么都不感觉。 - &gt;＆＃32;提交由＆＃32; /u/u/dmhunterer     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iow4rr/how_do_you_feel_productive/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布了我的第一个完整的NPM包 -  Nopalm🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iovucg/published_my_first_fullfledged_npm_package_nopalm/</link>
-      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/webdev/comments/1iovucg/1iovucg/publish/publish_my_my_first_first_furlfleded_npm_npm_package_nopalm/ NOPALM 🚀&quot; src=&quot;https://external-preview.redd.it/eCwl5dxthc6fl51DFvKknXDsaoWciywAt7FAqe8jMJc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=055e37c9b02343a32062971a00ffce8e0b0203ac&quot; title=&quot;Published my first full-fledged npm package – nopalm🚀“/&gt;    &lt;！ -  sc_off-&gt;  你好 我一直在懒惰然后在一个项目上持续很长时间（自3年以来），终于有时间将其包装起来以进行发布。我已经发布了它，我要求大家尝试一下。  基本上是一个Web应用程序，可以管理您的节点项目，从  脚手架脚手架（由预定义的模板驱动）    &lt;&lt; li&gt;管理现有项目元详细信息 完整的软件包管理工具，具有直观的软件包资源管理器  ，适合所有基于Gen-ai的工具，我也是计划引入许多AI驱动的动作来维护节点项目。我希望它会随着时间的推移而演变，并得到宝贵的反馈和贡献的支持   呈现  nopalm  🔥  存储库链接          请检查一下，明星，如果愿意的话，请分叉。您也可以为代码 /反馈做出贡献。欢呼！    &lt; 1918＆amp;格式= png＆amp; auto = webp＆amp＆amp＆amp; s = 7ccca6bb9c1313131c86c206889f0d2999999999999999999999999999999F0C0A37&gt;        &lt;！ -  sc_on-&gt; &lt;！ - &gt; 32;提交由＆＃32; /u/u indibsiblerule2717      [link]   ＆＃32;   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iovucg/published_my_first_fullfledged_npm_package_nopalm/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我目前在投资组合模板上的进度。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iovcgc/my_current_progress_on_a_portfolio_template/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/majestic_affect_1152     w47z2ms5fzie1.png“&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iovcgc/my_current_progress_on_a_portfolio_template/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL Noir-通过解决犯罪来学习SQL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iov4cl/sql_noir_learn_sql_by_solving_crimes/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/chrisbhappy     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iov4cl/sql_noir_learn_sql_by_solving_crimes/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:13:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
