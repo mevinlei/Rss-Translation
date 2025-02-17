@@ -4,7 +4,42 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 17 Feb 2025 12:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 18:14:11 GMT</lastBuildDate>
+    <item>
+      <title>WTG-总结程序输出的CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     wtg 是一个简单的命令行程序，允许您汇总或询问有关最后一个命令运行的输出的问题。支持Unix类似OS。 代码和安装步骤可用： https://github.com/brylee.com/brylee10/wtg   锈板条： crates.io/crates/wtg       &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为开源数据提供支持</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近正在考虑开始为OpenSource项目做出贡献，我想我希望帮助用户解决问题和建议和/或编写教程和文档而不是编写代码。  你们是否知道在数据工程领域中特别适合的OpenSource Technologies？又名具有活跃用户的项目和支持系统（邮件列表，Slack，...）可以使用一些帮助？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fractalfrieend     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:42:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ImageFan重新加载 - 轻巧，基于选项卡的图像查看器，支持多核处理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</link>
+      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbbassed_image_image/” based image viewer, supporting multi-core processing&quot; src=&quot;https://external-preview.redd.it/sQDEj6jZaQu4p3uNy2hlJdciievCEjKO8zs6-sCeQR8.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=65928de9b212283896f3c4352386b86bfe785311&quot; title=&quot; ImageFan重新加载 - 基于标签的映像查看器，支持多核处理”/&gt;   ＆＃32;提交由＆＃32; /u/u/mihnearadulescu     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</guid>
+      <pubDate>Mon, 17 Feb 2025 14:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的开源项目在Github上击中了20k Stars  - 放下一些很酷的商品以庆祝</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irjddt/my_open_source_project_hit_20k_stars_on_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我仍然记得首次发布有关我项目的信息 github.com/gyulyvgc/sniffnet&quot;&gt; sniffnet 是Rust开发的开源网络监控工具，自从这次旅程开始以来，它具有很大的爱心和赞赏（现在将近3年）。 如果完成这一款项的支持也是如此，今天我只是想与您分享我们放弃一些全新服装的所有人 - 我相信这是维持项目开发的好方法 您可以在专用的 github讨论。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gyulyvgc     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irjddt/my_open_source_project_hit_20k_stars_on_github/</guid>
+      <pubDate>Mon, 17 Feb 2025 13:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>公证和macos</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irjc9q/notarising_and_macos/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有兴趣了解多个平台开源项目可以公证其MACOS构建的过程的非技术部分。 对于那些不知道的人来说，公证需要苹果扫描构建恶意软件，并且某种数字签名与代码相关。这意味着用户首次运行他们下载的内容时不会受到可怕的警告。  afaik公证人需要付费的苹果开发人员计划（99 PA）的付费会员资格，但有豁免机制。这就是我感兴趣的：涉及多少文书工作，财务成本等。我不知道是否有任何开发人员在美国是否有所作为。 显然，开源项目没有赚钱，因此99美元是不可行的。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 无论如何，我确定各种开源项目已经跳了这个障碍，所以我对他们的经历感到好奇。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chrisridd     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irjc9q/notarising_and_macos/</guid>
+      <pubDate>Mon, 17 Feb 2025 13:03:03 GMT</pubDate>
+    </item>
     <item>
       <title>NoteMod：笔记应用程序开源|仅-JS HTML CSS</title>
       <link>https://www.reddit.com/r/opensource/comments/1irhrvx/notemod_notetaking_app_open_source_only_js_html/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所有云保护源可用许可（弹性等）禁止云提供商提供软件作为服务，这破坏了OSI的要求免费可用。是否有人开发了强副本左许可证来扩展覆盖作品以包括用于管理开源软件的任何代码？意思是，如果云提供商提供自己的软件版本作为服务，则剩下的副本将涵盖云提供商的所有云平台的整个代码库。这将有效地阻止主要提供商在保持许可与OSI兼容的同时使用它。如果AWS或Azure想托管该软件，他们将必须开源整个云平台，显然他们永远不会做。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/tylertravisty     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iqw1r9/osicompatible_license_to_protect_saas/</guid>
       <pubDate>Sun, 16 Feb 2025 16:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>“隐私”和“用户友好”；目前，当涉及本地AI时，我们在哪里？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqqodi/privacy_userfriendly_where_are_we_with_these_two/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  用于实现本地AI的开源软件（对于隐私问题），该软件具有服务器/客户端端的“图形用户界面”。 我们是否已经有很多这两个功能/结构？可用软件之间最接近的选项是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/extremepresence30303030     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqqodi/privacy_userfriendly_where_are_we_with_these_two/</guid>
-      <pubDate>Sun, 16 Feb 2025 11:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源实时GPS跟踪器套件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqqn3j/open_source_live_gps_tracker_kit/</link>
-      <description><![CDATA[在＆lt; 10秒的间隔。我已经研究了智能手表，但它们还不足以满足我的需求。这是关键要求：   便携式：在不断使用下用24h+功能供电   实时GPS更新：少于10秒的间隔   esim/nano-sim支持：，我可以使用自己的SIM卡，没有订阅服务   可自定义：必须连接到自定义API或允许设置我自己的服务器体系结构  我发现的问题是，大多数GPS跟踪器似乎基于订阅，并具有模糊的技术详细信息和可疑的可靠性。如果有人拥有适合这些需求或可以推荐开源设备的硬件经验，我将非常感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carasbridge     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqqn3j/open_source_live_gps_tracker_kit/</guid>
-      <pubDate>Sun, 16 Feb 2025 11:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果存在更好的替代方案，我应该开源我的项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqnnxr/should_i_open_source_my_project_if_a_better/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我很想听听您对我一直在辩论的事情的想法。 &lt; P&gt;在过去的三个月中，我一直在建立自己的社交媒体调度程序，最近，我开始考虑将其制作开源。我的想法是，该代码本身对于保持私密并不是那么有价值，开放源代码将允许那些不想为这样的工具付费的开发人员自我托管。 但是这是困境：我刚刚发现了Postiz  - 一个开源项目，它确实可以完成我的工具，但更好。它已经发达了，拥有广泛的文档，是由使用Nestjs和更模块化的体系结构的经验丰富的开发人员建造的。&lt; /p&gt; ，所以现在我想知道：仍然有意义我去开源？当已经有一个优越的选择时在我自己的愿景中，就像控制我使用的应用程序一样。 我的项目更友好地友好，因为我使用更简单的堆栈进行了构建。后端：pure node.js/javaScript（no nestjs）。前端：Vue。  因此，我认为它的学习曲线较低，更容易自定义。 ，您认为什么？在这种情况下，开源仍然有意义吗？还是我应该采取其他方法？ 很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/velinovae     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqnnxr/should_i_open_source_my_project_if_a_better/</guid>
-      <pubDate>Sun, 16 Feb 2025 08:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>备份2025 -NextCloud vs ownCloud vs？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqht3e/backup_2025_nextcloud_vs_owncloud_vs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  服务器将是标准Ubuntu 22.04客户端将是Android，Windows和Linux设备。我知道文档中的所有规格以及所有这些规格，并且可以比较和对比。我的问题是，他们实际上喜欢部署和使用。还有其他更好的流行吗？还认为我可以在Rust中做一些轻巧的习惯，但其他人则拥有预先建立的应用程序，集成等。每个人都在使用什么？您如何看待它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mr_happy_nice     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqht3e/backup_2025_nextcloud_vs_owncloud_vs/</guid>
-      <pubDate>Sun, 16 Feb 2025 02:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>hanabira.org开源自我主持的轻巧的日本学习门户网站</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh  p&gt; 仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</guid>
-      <pubDate>Sat, 15 Feb 2025 20:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
