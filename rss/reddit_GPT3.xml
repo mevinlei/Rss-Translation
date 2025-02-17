@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI文本生成技术的子雷迪特</description>
-    <lastBuildDate>Mon, 17 Feb 2025 18:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:09:32 GMT</lastBuildDate>
+    <item>
+      <title>您如何监视聊天机器人？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1irrabh/how_do_you_monitor_your_chatbots/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上是标题。您如何观看人们在问您的聊天机器人，阅读convos，整理下来的内容等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hardcorebadger     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1irrabh/how_do_you_monitor_your_chatbots/</guid>
+      <pubDate>Mon, 17 Feb 2025 18:44:48 GMT</pubDate>
+    </item>
     <item>
       <title>Chatgpt-4O，DeepSeek-R1和Claude 3.5十四行诗正对准：比较2025年最先进的AI型号。</title>
       <link>https://www.reddit.com/r/GPT3/comments/1irpe91/chatgpt4o_deepseekr1_and_claude_35_sonnet_go/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>如何将Chatgpt生成的代码片段应用于原始代码？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1iq460b/how_to_apply_the_code_snippet_generated_by/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，我在使用LLM时发现了一个有趣的工程问题。我的目标是要求LLM修改一个原始代码的一部分（原始代码可能很长），因此理想情况下，LLM仅生成需要修改的几行，例如：  &#39;//。 。 getImplementedInterFaces（）{functionType superctor = isConstructor（）？ getUperClassConstructor（）：null; system.out.println（＆quot; isConstructor（）：＆quot&#39; + isConstructor（））; system.out.println（superctor：&#39; +（superctor！= null？superctor.tostring（）：; quot; null＆quort; quot; if（superctor == null）{system.out.println（＆quot&#39;returning enasumedInterfaces：＆quort + enpartimendedInterfaces）;返回实施InteredInterfaces; } else {Itable＆lt; ObjectType＆gt; compinedInterFaces = iterables.concat（enasuledInterfaces，superctor.getImplementedInterfaces（））; system.out.println（“组合实现的接口：＆quot” + compined Interfaces）;返回组合Interfaces; }} // ...现有代码...&#39;  我没想到这样的“简单”对我来说，任务结果是一个大问题。由于LLM的行为不稳定，我无法精确地找到需要更换的原始代码行，它可能无法提供足够的上下文代码行，稍微修改了一些原始代码行，或直接省略了原始代码代码”。 我试图从当前基于LLM的IDE（例如光标和VSCODE）中找到一些想法，但是我未能获得任何有用的信息。 您是否曾经满足过同样的问题？还是您有任何好的建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/us forge-deengineer-6560      n&gt; [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，我在使用LLM时发现了一个有趣的工程问题。我的目标是要求LLM修改一个原始代码的一部分（原始代码可能很长），因此理想情况下，LLM仅生成需要修改的几行，例如：  &#39;//。 。 getImplementedInterFaces（）{functionType superctor = isConstructor（）？ getUperClassConstructor（）：null; system.out.println（＆quot; isConstructor（）：＆quot&#39; + isConstructor（））; system.out.println（superctor：&#39; +（superctor！= null？superctor.tostring（）：; quot; null＆quort; quot; if（superctor == null）{system.out.println（＆quot&#39;returning enasumedInterfaces：＆quort + enpartimendedInterfaces）;返回实施InteredInterfaces; } else {Itable＆lt; ObjectType＆gt; combinedInterFaces = iterables.concat（enasuledInterfaces，superctor.getimplemplededInterfaces（））; system.out.println（“组合实现的接口：＆quot” + compined Interfaces）;返回组合Interfaces; }} // ...现有代码...&#39;  我没想到这样的“简单”对我来说，任务结果是一个大问题。由于LLM的行为不稳定，我无法精确地找到需要更换的原始代码行，它可能无法提供足够的上下文代码行，稍微修改了一些原始代码行，或直接省略了原始代码代码”。 我试图从当前基于LLM的IDE（例如光标和VSCODE）中找到一些想法，但是我未能获得任何有用的信息。 您是否曾经满足过同样的问题？还是您有任何好的建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/us forge-deengineer-6560      n&gt; [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1iq460b/how_to_apply_the_code_snippet_generated_by/</guid>
       <pubDate>Sat, 15 Feb 2025 15:48:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我需要为我的学校阅读书籍，但我没有时间去做，因为这个原因，我带来了Tranform的pdf的想法在我做我的工作时，音频的版本要聆听，现在有人对此有什么帮助吗？如果它是免费的，并且支持更多语言会很棒，因为书籍不是英语。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/donguinhoxd     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ilv2ci/im_looking_for_an_ai_that_can_turn_texts_into/</guid>
       <pubDate>Mon, 10 Feb 2025 01:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>丹的4个问题关系测试</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ilqh31/dans_4question_relationship_test/</link>
-      <description><![CDATA[    /u/u/foxigirl01     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ilqh31/dans_4question_relationship_test/</guid>
-      <pubDate>Sun, 09 Feb 2025 22:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
