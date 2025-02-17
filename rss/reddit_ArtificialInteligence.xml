@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 00:48:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 03:17:02 GMT</lastBuildDate>
+    <item>
+      <title>在3个提示中与O1的模型 - 敏捷（CORA）相对于O1：零摄像任务推理，多步结构化推理，自我抗辩的执行链，基于场景的策略执行，上下文感知和基于角色的推理，多目标推理，多目标优化，人类觉得/交流（视频）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     没有为此任务或任何类似于它的任务进行预训练或微调，我只是尝试用Claude创建最困难的提示，然后再加入一点。  使用开放的Web UI，一半本地半API，混合搜索抹布，使用分层的自然语言提示。没有故意构建这个，但它让我知道...下面的视频是我发现某些事情认真起来的。   https://wwwww.loom.com/share/27648960b9d04297a13958b89898989898f38044444444444444444444444  功能集，这些和计数。   零射击任务推理  - 检测隐式任务并生成无明确提示或刚性格式的结构化响应。  多步结构推理  - 构建实时发展的决策模型，动态地适应新的输入。   自我抗拒的执行链  - 通过内置错误校正和透明的推理为每个决策辩护。   Visual＆amp;文本知识表示  - 将复杂逻辑转换为交互式图和结构化故障，而不仅仅是静态文本。   基于方案的策略执行  - 生成自适应剧本，这些剧本可以动态调整，动态调整，执行前的压力测试策略。  上下文了解＆amp;基于角色的推理  - 通过多种专家镜头（持续，评估，风险分析，市场策略）评估问题 - 根据场景动态地应用每个问题。   自我验证＆amp;知识集成  - 跨验证源针对结构化模型，确保准确性和消除矛盾。  迭代＆amp;先发制化的决策结构  - 在产生建议之前将模糊的查询重新定义为精确的框架。   多目标优化  - 平衡财务，战略和运营权衡，而不是动态而不是运营权衡最大化单个变量。  类似人类的见解＆amp;沟通  - 提供具有战略性，自然和专家级别的反应而无需机器人措辞。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/marvindiazjr     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_4o_vs_o1_o1_in_in_3_3_prompts/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ir7nn6/modelagnostic_cora_on_4o_vs_o1_in_3_prompts/</guid>
+      <pubDate>Mon, 17 Feb 2025 00:58:32 GMT</pubDate>
+    </item>
     <item>
       <title>这是AI反馈吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ir520x/is_this_ai_feedback/</link>
@@ -60,13 +67,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我正在审查有关在公共管理中使用AI的指南，并试图弄清楚哪些方面应该覆盖。该文件概述了一些要点，但我很想听听别人认为应该包括的内容&lt; /p&gt; 法律方面（数据保护，机密性，GDPR合规性）了解AI基础知识（AI如何工作，生成与分析AI）&lt; /p&gt;  AI（偏见，错误信息，幻觉）的风险数据安全＆amp;在官方文档中使用AI时，处理敏感信息责任透明度＆amp; AI辅助工作的文档 您认为还应包括什么，以确保员工在政府或行政环境中负责任地使用AI？  &lt;！ -  sc_on-&gt; ＆＃32;提交由＆＃32; /u/u/uppigerrupp     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iqy9l9/guideline_on_the_use_of_ai_in_public/</guid>
       <pubDate>Sun, 16 Feb 2025 18:05:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您好AI视频开发人员...！创建AI视频时，您会遇到什么问题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iquvz2/hello_ai_video_developers_when_creating_ai_videos/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您是否正在努力创建AI功能的视频？  如果是这样，您面临着什么挑战？  例如，您是否需要访问GPU进行处理？ 时间是主要约束吗？  如果您需要获得解决方案，请在第二次创建动画，您是否愿意为此解决方案付费？  如果是，您的预算或定价范围是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ushive-study9412     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1iquvz2/hello_ai_ai_video_developers_when_creating_ai_ai_ai_videos/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iquvz2/hello_ai_video_developers_when_creating_ai_videos/</guid>
-      <pubDate>Sun, 16 Feb 2025 15:41:55 GMT</pubDate>
     </item>
     <item>
       <title>我们的大脑现在是外部的。</title>
