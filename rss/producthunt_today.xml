@@ -4,7 +4,21 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Feb 2025 09:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 12:22:26 GMT</lastBuildDate>
+    <item>
+      <title>Snipblr</title>
+      <link>https://www.producthunt.com/posts/snipblr</link>
+      <description><![CDATA[
+            分享，明星和讨论代码段
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/snipblr</guid>
+      <pubDate>Tue, 18 Feb 2025 06:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>弹奏</title>
       <link>https://www.producthunt.com/posts/swatle-3</link>
@@ -48,20 +62,6 @@
       <pubDate>Mon, 17 Feb 2025 10:40:41 GMT</pubDate>
     </item>
     <item>
-      <title>DeepHermes 3</title>
-      <link>https://www.producthunt.com/posts/deephermes-3</link>
-      <description><![CDATA[
-            在一个模型中，直观的响应和深刻的推理
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/deephermes-3</guid>
-      <pubDate>Mon, 17 Feb 2025 03:11:18 GMT</pubDate>
-    </item>
-    <item>
       <title>标签查找器</title>
       <link>https://www.producthunt.com/posts/tab-finder</link>
       <description><![CDATA[
@@ -102,34 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/zeta-6842ce10-cbda-452e-b419-f14741e16771</guid>
       <pubDate>Fri, 14 Feb 2025 21:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>里维埃拉</title>
-      <link>https://www.producthunt.com/posts/riviera</link>
-      <description><![CDATA[
-            多语言AI手机和酒店的聊天代理商 
-          
-
-
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/riviera</guid>
-      <pubDate>Fri, 14 Feb 2025 20:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉个感</title>
-      <link>https://www.producthunt.com/posts/pull-sense</link>
-      <description><![CDATA[
-            AI驱动的PR评论以加快GitHub工作流程
-          
-
-
-            |
-             link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/pull-sense</guid>
-      <pubDate>Fri, 14 Feb 2025 16:27:33 GMT</pubDate>
     </item>
     <item>
       <title>中年工程</title>
@@ -202,6 +174,20 @@
       <pubDate>Mon, 10 Feb 2025 02:15:40 GMT</pubDate>
     </item>
     <item>
+      <title>位流</title>
+      <link>https://www.producthunt.com/posts/bit-flows</link>
+      <description><![CDATA[
+            WordPress内部的Zapier替代方案
+          
+
+
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/bit-flows</guid>
+      <pubDate>Sat, 08 Feb 2025 09:39:59 GMT</pubDate>
+    </item>
+    <item>
       <title>并登</title>
       <link>https://www.producthunt.com/posts/andsend</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/andsend</guid>
       <pubDate>Wed, 05 Feb 2025 08:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebDraw Beta</title>
+      <link>https://www.producthunt.com/posts/webdraw-beta</link>
+      <description><![CDATA[
+            探索，混音和构建使用50多个模型的AI应用程序
+          
+
+
+            |
+             link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/webdraw-beta</guid>
+      <pubDate>Tue, 19 Nov 2024 17:52:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
