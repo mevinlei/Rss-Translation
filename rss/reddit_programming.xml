@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 19 Feb 2025 18:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:10:51 GMT</lastBuildDate>
+    <item>
+      <title>最初的alpha版本：狮身人面像feviverse</title>
+      <link>https://www.reddit.com/r/programming/comments/1itghrl/initial_alpha_release_sphinxfediverse/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/livinthelookingglass   href =“ https://www.reddit.com/r/python/comments/1itgesm/initial_alpha_release_sphinxfediverse/”&gt; [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itghrl/initial_alpha_release_sphinxfediverse/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术和非技术堆栈运行收听笔记（2025）</title>
+      <link>https://www.reddit.com/r/programming/comments/1itednk/tech_nontech_stacks_to_run_listen_notes_2025/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/wenbinf   href =“ https://www.listennotes.com/blog/tech-non-tech-stacks-to-run-listen-notes-2025-113/”&gt; [link]   ＆＃ 32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itednk/tech_nontech_stacks_to_run_listen_notes_2025/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>🌍角材料国家自动完成</title>
+      <link>https://www.reddit.com/r/programming/comments/1itdx92/angular_material_country_autocomplete/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;      🅰️与Angular 16-19完全兼容该库旨在与最新的Angular版本无缝地工作（16 ，17、18和19）。它利用现代角度的功能，同时保持向后兼容。 🌍多语言魔术支持英语，法语，西班牙语，意大利语，德语，阿拉伯语，中文，印地语，孟加拉语，孟加拉语，葡萄牙语和俄罗斯 +易于扩展到任何语言 🎌标志图像🇺🇸🇺🇸🇩🇪🇫🇷🇪🇸🇪🇸🇪🇸🇪🇸浏览器独立标志图像 ⚡优化的性能RXJS驱动搜索，并带有debounce＆amp;虚拟滚动 🔍智能搜索搜索国家通过：✓本地化名称✓任何翻译✓Alpha2/3代码   🎨材料设计出色的卓越无缝集成与角度材料组件 🧩独立组件零样本集成  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wall3210     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1itdx92/angular_material_country_autocomplete/</guid>
+      <pubDate>Wed, 19 Feb 2025 19:18:07 GMT</pubDate>
+    </item>
     <item>
       <title>零通道</title>
       <link>https://www.reddit.com/r/programming/comments/1itc69p/nil_channels_in_go/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>在这里分叉最好的选择吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1itb83x/is_forking_the_best_option_here/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  强制性链接的链接大声笑 大家好，我是基于shopify &lt;的电子商务业务的开发人员/p&gt; 我在Shopify开发方面经验丰富，并与我们中一些最大的企业合作，因此开发不是一个问题 ，但它们在世界各地都有多个网站，所有网站都几乎是基于内容差异的相同区域 第一件事是第一件事，我为其所有不同网站设​​置了多个存储库，每个网站的一个存储库与已连接到实时网站的主要分支机构，以便我可以跟踪所有CMS/Admin Change 现在是我构建的任何功能，我必须将其推出到所有网站上，然后手动复制粘贴代码，然后将其推入真正重复且耗时的分支。 我是考虑编写一个python脚本，该脚本检查提交并将更改推入新分支，但我不确定这是否可以工作 我想到的下一个解决方案是有一个储备库，并派遣其余部分存储库以便我只能将更改拉到分支机构，因为Git只会在分叉分支的最新提交（对吗？） 之后跟踪更改所以请建议你解决方案  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_brownguy     [链接]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  强制性链接的链接大声笑 大家好，我是基于shopify &lt;的电子商务业务的开发人员/p&gt; 我在Shopify开发方面经验丰富，并与我们中的一些最大的企业合作，因此开发不是一个问题 ，但它们在世界各地都有多个网站，所有这些网站几乎都是基于内容差异的相同区域 第一件事是第一件事，我为其所有不同网站设​​置了多个存储库，每个网站的一个存储库与已连接到实时网站的主要分支机构，以便我可以跟踪所有CMS/Admin Change 现在是我构建的任何功能，我必须将其推出到所有网站上，然后手动复制粘贴代码，然后将其推入真正重复且耗时的分支。 我是考虑编写一个python脚本，该脚本检查提交并将更改推入新分支，但我不确定这是否可以工作 我想到的下一个解决方案是有一个储备库，并派遣其余部分存储库以便我只能将更改拉到分支机构，因为Git只会在分叉分支的最新提交（对吗？） 之后跟踪更改所以请建议你解决方案  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_brownguy     [链接]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1itb83x/is_forking_the_best_option_here/</guid>
       <pubDate>Wed, 19 Feb 2025 17:32:07 GMT</pubDate>
     </item>
@@ -39,13 +60,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/hell__mood     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1itaqal/starpath_is_55_bytes/</guid>
       <pubDate>Wed, 19 Feb 2025 17:13:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行时间的安全：Rust的内存控制系统解释了</title>
-      <link>https://www.reddit.com/r/programming/comments/1itaioq/safety_at_run_time_rusts_memory_control_system/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  生锈的编程语言与用于系统编程的其他语言共享许多概念。例如，Rust将分配的存储器与分配的内存与堆分配的内存区分。它还确保在范围之外不可用的范围内声明的变量。 ，但生锈以自己的方式实现了这些行为，对内存管理的工作方式产生了重大影响。 Rust使用各种所有权隐喻来描述计划一生中如何创建，保留和处置资源。学习如何与Rust的所有权概念一起工作是Rust程序员的重要仪式。该快速指南将帮助您入门。  2025年2月  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/choobeen     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1itaioq/safety_at_run_time_rusts_memory_control_system/</guid>
-      <pubDate>Wed, 19 Feb 2025 17:05:04 GMT</pubDate>
     </item>
     <item>
       <title>Airlink  - 基于网络的文件共享平台</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://medium.com/@linkwithjoydeep/deppentency-indoction-in-go-writing-modull-testable-code-a29071ece484”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1it8jk1/dependency_injection_in_go_writing_modular/</guid>
       <pubDate>Wed, 19 Feb 2025 15:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>教程：在10H中创建一个完整的Beat'em Up游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_beatem_up_game_in_godot_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/m_ologin     [link]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_full_bueatl_beatem_up_up_game_game_in_godot_in/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it8gck/tutorial_create_a_full_beatem_up_game_in_godot_in/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>批处理LLM呼叫便宜50％，因此我构建并开放了一个打字稿SDK，用于统一模型提供商的LLM批处理API呼叫</title>
-      <link>https://www.reddit.com/r/programming/comments/1it82gb/batching_llm_calls_is_50_cheaper_so_i_built_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/younnfox4903     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1it82gb/batching_llm_calls_is_50_cheaper_so_i_built_and/</guid>
-      <pubDate>Wed, 19 Feb 2025 15:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
