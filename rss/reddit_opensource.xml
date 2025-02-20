@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 19 Feb 2025 21:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:48:28 GMT</lastBuildDate>
+    <item>
+      <title>Laravel Sport Direct Crawler和CRM</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mbtonev     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</guid>
+      <pubDate>Thu, 20 Feb 2025 00:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sponsube不播放音乐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我最近安装了Sponsube，将其用作Spotify Premium的替代开源前端。因此，我继续输入登录数据，并正确获取了所有播放列表等。但是，如果我单击一首歌，它不会播放任何音频。有人可以帮我吗？谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thebadbossbaby     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:24:55 GMT</pubDate>
+    </item>
     <item>
       <title>提醒应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[   使用帆布！” src =“ https://external-preview.redd.it/o1kppdkdgdu0uics73-nwtiej7blv9xzc_emf6swdii.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 6D40134CDB12B70D07F379C2FEC0C136D329923C“ title =“综合omniparser v2，我们使我们的代理使用canva！” /&gt;   ＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/localllama/comments/1isr9444/integrated_omniparser_v2_we_we_made_our_our_agent_to_to_use/”&gt; [link]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iswcdz/integrated_omniparser_v2_we_made_our_agent_to_use/</guid>
       <pubDate>Wed, 19 Feb 2025 03:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>对支持流的文本模型的体面本地演讲？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_speech_to_text_models_that_support/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在一个项目的一部分中，我需要一种检测人类语音的好方法，大多数VAD工具都不相差或慢，所以我切换到测试是否对语音进行测试。文本系统将发布任何单词。我的音频通过Twilio即将到来，又名我需要语音到文本系统，以便能够聆听传入的流音频。我不在乎该系统是否非常准确地转录单词，只需要能够解释说单词即可。有人有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kayla_1177    href =“ https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_local_speech_text_text_text_models_that_that_support/”&gt; [link]   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1istzdh/decent_local_speech_to_text_models_that_support/</guid>
-      <pubDate>Wed, 19 Feb 2025 01:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPL CopyLeft实际上有用吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1istuay/is_mpl_copyleft_actually_useful/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我帖子的后续播放; /1G2SPRD/can_anyone_explain_the_difference_between_lgpl/“&gt;任何人都可以解释LGPL和MPL之间的区别非dev ？＆quot＆quot从一段时间开始。对我（一个非DEV），MPL中的每文件副本保护似乎很弱，以至于专有软件开发人员绕过而无需任何有用的代码，就可以绕过很多。几乎MPL本质上是具有额外步骤的允许许可。 我的评估不正确吗？ MPL CopyLeft的示例实际上可用于执行互惠吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/goodmaterial5517     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1istuay/is_mpl_copyleft_actually_useful/</guid>
-      <pubDate>Wed, 19 Feb 2025 01:52:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
