@@ -4,13 +4,27 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 21 Feb 2025 12:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 15:09:57 GMT</lastBuildDate>
     <item>
-      <title>AI将来会如何影响对医生的需求以及将来医生的工作可用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iupbif/how_might_ai_impact_the_demand_for_physicians_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当然，医生永远无法完全替换，但是，由于AI的需求会减少医生的需求或更少的职位？  AI可以通过处理常规管理任务，文档时间，填写表格，虚拟助手管理调度和处方来节省医生时间，AI抄写员可以减少图表时间。从技术上讲，这将使医生在工作效率更高，从理论上讲可以减少需求。较少的医生可以处理更多的患者，潜在的需求将减少，这使得药物成为更难的现场。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hans_schmidt_838_2       [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iupbif/how_might_ai_impact_the_demand_for_physicians_and/</guid>
-      <pubDate>Fri, 21 Feb 2025 12:04:18 GMT</pubDate>
+      <title>为什么Openai选择成为关闭的来源？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iur0mm/why_openai_chose_to_be_closed_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道为什么Openai决定关闭源吗？我认为公司的全部要点是制作开源模型，因此没有一家公司拥有最好的AI？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/potices     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iur0mm/why_openai_chose_to_be_closed_source/</guid>
+      <pubDate>Fri, 21 Feb 2025 13:34:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们是否在基本模型中撞到了缩放墙？ （非推理）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iupqxo/have_we_hit_a_scaling_wall_in_base_models_non/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   grok 3据说接受了100,000 H100 GPU的训练，该GPU在球场上比GPT-4系列和Claude 3.5 Sonnet的型号高约10倍。  它们的能力差不多。 Grok 3不是我们希望的。在2023年和2024年，Openai一直在说他们只能继续扩展预训练的预训练，而模型只是神奇地变得更加聪明（“缩放法律”，“图表”只是“线”上的“ line”上升了“） 现在，所有的重点都放在推理上，突然Openai和其他所有人都对扩展 变得非常安静，老实说，它看起来非常可疑。现在，他们没有像2020  -  2024年那样制作越来越大的模型，而是试图使它们保持较小，同时专注于其他事情。 Claude 3.5 Opus从人类博客中悄悄地删除了，没有任何解释。有问题，他们正在尝试将其隐藏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ch1997H     [links]       [注释]     ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iupqxo/have_we_hit_a_scaling_wall_in_base_models_non/</guid>
+      <pubDate>Fri, 21 Feb 2025 12:28:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>海明威（Hemingway）与机器 - 劳拉（Do LLM）具有写作风格？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iuppbz/hemingway_vs_the_machinedo_llms_have_a_writing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   llms有独特的写作样式吗？他们倾向于某些句子结构或单词选择吗？他们有任何口头“抽动”那使他们脱离人类语言？您会认为答案是“不”如果LLMS已经有了通过Turing测试的答案。但是显然似乎有一个ai nesthetic;在AI制作的视频和音乐中。 AI写作中是否有类似的美学或氛围？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wind_up_birdy     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iuppbz/hemingway_vs_the_machinedo_llms_have_a_writing/</guid>
+      <pubDate>Fri, 21 Feb 2025 12:26:17 GMT</pubDate>
     </item>
     <item>
       <title>为什么人们一直在轻描淡写AI？</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  作者介绍了3D REX，这是一种生成3D医学图像分类的因果解释的新方法。关键的创新是使用反事实推理来确定影响模型决策的体积脑扫描中真正相关的区域。 主要技术要点： - 使用两阶段的管道：初始区域提案：最初的区域建议，然后进行因果验证 - 采用3D具有注意机制以识别候选区域的CNN-通过选择性扰动区域和测量输出变化来生成反事实 - 通过干预来验证因果关系测试 - 对ADNI（阿尔茨海默氏症）和酵母（肿瘤）数据集进行了测试 结果： - 在解释准确性上超过了石灰，外形和GRAD -CAM  - 鉴定出已知与疾病的相关区域具有更高的精度 - 使用专家注释 - 与基线​​方法相比，假阳性区域减少 - 所需的计算时间比传统方法多〜2-3x 我认为这是使3D Medical AI更容易解释用于临床使用的重要步骤。因果方法有助于将真正相关的特征与相关特征区分开，这对于值得信赖的医学AI至关重要。虽然计算开销很重要，但改进的解释质量似乎值得在准确性和信任至关重要的医学应用中进行权衡。 该方法仍然面临着处理相互联系的大脑区域并扩展到实地的一些局限性时间使用。但是我认为，该框架可以很好地扩展到脑部扫描以外的其他3D成像方式。  tldr：新方法使用因果推理来解释3D医学图像分类，比脑扫描数据集中的现有方法显示出更好的解释质量。   完整的摘要在这里。纸在这里。  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/us sucke-western27     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iuncdg/causal_responsibility_maps_for_explaining_3d/</guid>
       <pubDate>Fri, 21 Feb 2025 09:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为AI将取代将完全彻底改变社会的什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iumu42/what_do_you_think_ai_will_replace_that_will/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我认为法院系统将在AI上完成。起诉上传案件，辩方上传他们的案件。  AI有动力的法官/陪审团系统分析所有数据并提供判决和惩罚。 在上诉时，审查了该案。通过具有不同推理的次级AI模型，以确保结果相同。  然后，在另一个上诉上，案件被提交人类委员;提交由＆＃32; /u/mrredditmoderator     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iumu42/what_do_you_think_ai_will_replace_that_will/</guid>
-      <pubDate>Fri, 21 Feb 2025 09:17:00 GMT</pubDate>
     </item>
     <item>
       <title>为ADHD学生设计AI动力学习辅助</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  关于递归自我改善AI系统的猜测很多。当我思考这个问题时，我想改进最终会遇到NP危害性质的问题。似乎这将是一个相当重大的障碍，并放慢了艰难的选择。好奇别人认为  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grapplerguy100     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iuisbe/recursive_self_improvements/</guid>
       <pubDate>Fri, 21 Feb 2025 04:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>另一种AI艺术...</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1iuiq0p/a_different_kind_of_ai_art/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果制造了一个代理商，每个人都有自己的个性和目标。他们可以与彼此交谈并互动。他们通常具有人类的能力和缺陷。他们将更新发布到您可以关注他们的网站。  查看Poll poll    &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ai-tacocat-ia     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1iuiq0p/a_different_kind_of_ai_art/</guid>
-      <pubDate>Fri, 21 Feb 2025 04:43:53 GMT</pubDate>
     </item>
     <item>
       <title>任何人以前有AI手机筛查吗？</title>
