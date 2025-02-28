@@ -4,20 +4,27 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 28 Feb 2025 15:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:15:41 GMT</lastBuildDate>
     <item>
-      <title>托马斯·杰斐逊（Thomas Jefferson）专利：“一般而言，其他国家认为这些垄断比对社会的优势更具尴尬性，并且可以观察到，拒绝发明垄断的国家与新的和有用的设备中的英格兰一样富有成果。” （1813）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/breck     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j09awr/thomas_jefferson_on_patents_generally_speaking/</guid>
-      <pubDate>Fri, 28 Feb 2025 14:46:23 GMT</pubDate>
+      <title>从您的Gmail帐户中删除所有 - 分析和删除电子邮件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j0e1un/delete_em_all_analysis_and_delete_emails_from/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/kruise90     ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j0e1un/delete_em_all_analysis_and_delete_emails_from/</guid>
+      <pubDate>Fri, 28 Feb 2025 18:04:02 GMT</pubDate>
     </item>
     <item>
-      <title>介绍ARIA：管理AI参与软件项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</link>
-      <description><![CDATA[After some years of silence (I was one of the Remmina maintainers), I&#39;m excited to share ARIA (Artificial Intelligence Regulation Interface &amp; Agreements), an open-source framework for defining boundaries between human and AI contributors in software projects. What ARIA Does As AI coding tools become more prevalent, ARIA helps teams establish clear policies for how AI should interact with their codebase:  Creates standardized YAML policies for AI participation in codebases Provides policy templates with different permission models (Guardian, Observer, Assistant) 与诸如风浪冲浪和光标（WIP，NVIM/VIM和EMACS）等IDS进行了整合， 将策略转换为特定于IDE的规则并忽略文件    项目状态  aria当前位于alpha（v0.1.1）中。 The core functionality works, but many features are still in development. Looking for Contributors I&#39;m developing ARIA in my limited spare time and welcome contributors interested in:  IDE integration Documentation Testing Feature implementation  Transparent Development  Aria的一部分是在AI协助的情况下开发的，遵循Aria旨在标准化的相同的透明度和人类监督原则。 了解更多    github： antenore.github.io/aria     sponsor： github.com/sponsors/sponsors/sponsors/lieperitions and p p p pro   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/antenore     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j0996a/introducing_aria_managing_ai_participation_in/</guid>
-      <pubDate>Fri, 28 Feb 2025 14:44:13 GMT</pubDate>
+      <title>最好的自我托管URL Shortener [帮助]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j0b4ag/the_best_selfhosted_url_shortener_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi pals！ i am looking for a good url shortener, i have used PORL but even though it has QR code, it is limited, the interface is ugly and i could never get the geo stats working with maxmind geoip and for each domain you need another instance of PORL so i was dissatisfied. then i used YOURLS and i liked their plugins, you have QR code, you can modify the shortened urls, you have more优势，但是我也无法与MaxMind Geoip合作，并且您无法与Google Analytics（分析），MATOMO或任何其他...  相关联...  因此，我希望使用您的灵活性进行缩写，但是您可以使用地理位置分析或可以使用Google Anallage n nosemant n nesothal n onlass e Anally anthertime 解决的方法将尝试shlink   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j0b4ag/the_best_selfhosted_url_shortener_help/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j0b4ag/the_best_selfhosted_url_shortener_help/</guid>
+      <pubDate>Fri, 28 Feb 2025 16:04:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>福斯部队几乎开放的技术新闻测验（2/28/25） - 福斯部队</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j0aipo/the_foss_force_almost_open_tech_news_quiz_22825/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/brideoflinux     &lt;a href =“ https://www.reddit.com/r/opensource/comments/comments/1j0aipo/the_foss_force_almost_apen_tech_news_news_quiz_22825/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j0aipo/the_foss_force_almost_open_tech_news_quiz_22825/</guid>
+      <pubDate>Fri, 28 Feb 2025 15:39:16 GMT</pubDate>
     </item>
     <item>
       <title>开源倡议（OSI）宣布了即将举行的个人和会员选举的候选人名单！</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究这个项目 eggstractor ，其中想法是有一个 figma插件您可以在哪里导出SCSS Mixins。您可以使用Mixins快速构建遵循设计的组件或布局。  最主要的是，一旦构建了组件，就可以随时在无花果上运行插件来更新样式，而无需对您的功能产生任何影响，或者需要担心需要维护的垃圾代码，因为它只是在做混合物。  它将带有PR的分支制成，因此开发人员完全控制了代码库。 And it uses GitHub Pages to preview the changes, so designers can make the changes they want, export them, test them live, and then it&#39;s good to go for a developer to review and merge. It&#39;s still in development (not every style from Figma is supported yet), but I&#39;m interested in everyone&#39;s thoughts and if you think it&#39;s something you could see yourself using.   提交由＆＃32; /u/u/levi_bitovi     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1izpmwz/figmatogithub_scss_mixin_project/</guid>
       <pubDate>Thu, 27 Feb 2025 20:29:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>clermont-开源容器跟踪Web应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iznezo/clermont_an_open_source_vessel_tracking_web_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我一直在开发一个开源的海洋船只跟踪工具，该工具在地图上显示活船数据。我刚刚启动了一个静态演示（实时演示即将到来 - 只是比较托管选项），并且会喜欢反馈甚至贡献！ 静态演示： https://sagehourihan.github.io/clermont-demo/index-demo/index.htex.html  href =“ https://github.com/sagehourihan/clermont”&gt; https://github.com/sagehourihan/clermont     Clermont的工作：            船舶移动使用来自 aisstream.io 的船舶移动（仅当在本地运行 - 再次努力获得现场演示） 静态演示使用json文件来模仿这个     出门在外，所以我下班后需要做一些事情。我喜欢使用诸如“飞行雷达24/7”之类的应用程序来跟踪我在天空中看到的飞机，所以想知道为什么不追踪船只？我想创建一个开源的商业船舶跟踪服务的替代品。简而言之，因为我可以。我喜欢仅仅建立感兴趣的个人的想法，即使存在类似的产品。 如何提供帮助：  尝试演示！  我知道它是静态的，但是前端模仿了实际的完整堆栈应用程序，如果您想要的话，请查看。 寻找错误，问题或建议的功能。 贡献！它是开源的，所以请随时做出贡献。我在GitHub存储库中有一个路线图，我打算下一步做的事情。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/m4j0r_spam      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iznezo/clermont_an_open_source_vessel_tracking_web_app/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:56:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
