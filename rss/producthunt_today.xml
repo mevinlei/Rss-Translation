@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:14:52 GMT</lastBuildDate>
     <item>
       <title>解释道</title>
       <link>https://www.producthunt.com/posts/explaingithub</link>
@@ -90,6 +90,18 @@
       <pubDate>Thu, 27 Feb 2025 10:59:02 GMT</pubDate>
     </item>
     <item>
+      <title>VoicePanel</title>
+      <link>https://www.producthunt.com/posts/voicepanel-2</link>
+      <description><![CDATA[
+            让AI为您进行用户研究
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/voicepanel-2</guid>
+      <pubDate>Thu, 27 Feb 2025 07:23:11 GMT</pubDate>
+    </item>
+    <item>
       <title>ZCAL</title>
       <link>https://www.producthunt.com/posts/zcal-36b8b3b4-fdbd-45bf-a858-2bb16de516a6</link>
       <description><![CDATA[
@@ -102,6 +114,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/zcal-36b8b3b4-fdbd-45bf-a858-2bb16de516a6</guid>
       <pubDate>Wed, 26 Feb 2025 23:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AIRTRACK•飞行价格预测器</title>
+      <link>https://www.producthunt.com/posts/airtrack-flight-price-predictor</link>
+      <description><![CDATA[
+            AI预测飞行价格是否会下跌或上涨
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/airtrack-flight-price-predictor</guid>
+      <pubDate>Wed, 26 Feb 2025 20:54:36 GMT</pubDate>
     </item>
     <item>
       <title>HOMEDOCK</title>
@@ -140,42 +164,6 @@
       <pubDate>Mon, 24 Feb 2025 19:20:38 GMT</pubDate>
     </item>
     <item>
-      <title>Scispace的深入评论</title>
-      <link>https://www.producthunt.com/posts/deep-review-by-scispace-2</link>
-      <description><![CDATA[
-            AI文学评论的共同科学家
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/deep-review-by-scispace-2</guid>
-      <pubDate>Mon, 24 Feb 2025 14:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>继续1.0</title>
-      <link>https://www.producthunt.com/posts/continue-1-0</link>
-      <description><![CDATA[
-            创建，共享和使用自定义AI代码助理
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/continue-1-0</guid>
-      <pubDate>Mon, 24 Feb 2025 05:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vagon团队</title>
-      <link>https://www.producthunt.com/posts/vagon-teams</link>
-      <description><![CDATA[
-            云工作站的未来：比Citrix，AWS和AVD更容易
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vagon-teams</guid>
-      <pubDate>Mon, 17 Feb 2025 10:50:25 GMT</pubDate>
-    </item>
-    <item>
       <title>螺旋</title>
       <link>https://www.producthunt.com/posts/helix-7</link>
       <description><![CDATA[
@@ -186,6 +174,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/helix-7</guid>
       <pubDate>Sun, 02 Feb 2025 17:08:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子</title>
+      <link>https://www.producthunt.com/posts/quanta</link>
+      <description><![CDATA[
+            软件公司最快的会计服务
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/quanta</guid>
+      <pubDate>Fri, 24 Jan 2025 02:05:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
