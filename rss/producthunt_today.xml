@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 21:11:59 GMT</lastBuildDate>
     <item>
       <title>一个任务x</title>
       <link>https://www.producthunt.com/posts/one-task-x</link>
@@ -42,28 +42,28 @@
       <pubDate>Mon, 03 Mar 2025 21:36:35 GMT</pubDate>
     </item>
     <item>
-      <title>Kive产品镜头</title>
-      <link>https://www.producthunt.com/posts/kive-product-shots</link>
+      <title>Tabtype</title>
+      <link>https://www.producthunt.com/posts/tabtype</link>
       <description><![CDATA[
-            即时，品牌产品视觉效果 - 由自定义AI提供支持。
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/kive-product-shots</guid>
-      <pubDate>Mon, 03 Mar 2025 20:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neobase</title>
-      <link>https://www.producthunt.com/posts/neobase-2</link>
-      <description><![CDATA[
-            AI驱动数据库助理
+            将浏览器选项卡变成有吸引力的内联幻灯片
           
 
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/neobase-2</guid>
-      <pubDate>Mon, 03 Mar 2025 18:41:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/tabtype</guid>
+      <pubDate>Mon, 03 Mar 2025 20:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>光标规则CLI</title>
+      <link>https://www.producthunt.com/posts/cursor-rules-cli</link>
+      <description><![CDATA[
+            使用一个简单命令自动安装相关的光标规则
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/cursor-rules-cli</guid>
+      <pubDate>Mon, 03 Mar 2025 19:31:13 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Dragon Copilot</title>
@@ -76,18 +76,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/microsoft-dragon-copilot</guid>
       <pubDate>Mon, 03 Mar 2025 18:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>歌剧操作员</title>
-      <link>https://www.producthunt.com/posts/opera-operator</link>
-      <description><![CDATA[
-            与Opera的AI浏览器操作员见面
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/opera-operator</guid>
-      <pubDate>Mon, 03 Mar 2025 15:33:23 GMT</pubDate>
     </item>
     <item>
       <title>Aria Gen 2</title>
@@ -138,6 +126,18 @@
       <pubDate>Mon, 17 Feb 2025 12:38:24 GMT</pubDate>
     </item>
     <item>
+      <title>格雷塔</title>
+      <link>https://www.producthunt.com/posts/gretabyquestera</link>
+      <description><![CDATA[
+            如果您能想到的话，可以建造它！
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/gretabyquestera</guid>
+      <pubDate>Mon, 17 Feb 2025 09:20:32 GMT</pubDate>
+    </item>
+    <item>
       <title>SSSMODEL</title>
       <link>https://www.producthunt.com/posts/sssmodel</link>
       <description><![CDATA[
@@ -174,16 +174,18 @@
       <pubDate>Wed, 05 Feb 2025 12:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>引号</title>
-      <link>https://www.producthunt.com/posts/quotes-8</link>
+      <title>棱镜</title>
+      <link>https://www.producthunt.com/posts/prism-47b4a3d3-2a8a-46c0-9fce-297391103178</link>
       <description><![CDATA[
-            本地第一，MAC-NATIANITE的报价管理和重新审视应用
+            开发人员生产力的竞争基准
           
 
-链接
+讨论
+            |
+            链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/quotes-8</guid>
-      <pubDate>Sat, 01 Feb 2025 03:35:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/prism-47b4a3d3-2a8a-46c0-9fce-297391103178</guid>
+      <pubDate>Fri, 22 Nov 2024 19:38:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
