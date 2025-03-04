@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Mar 2025 09:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:21:28 GMT</lastBuildDate>
     <item>
       <title>一个任务x</title>
       <link>https://www.producthunt.com/posts/one-task-x</link>
@@ -16,6 +16,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/one-task-x</guid>
       <pubDate>Tue, 04 Mar 2025 07:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapdeck beta</title>
+      <link>https://www.producthunt.com/posts/snapdeck-beta</link>
+      <description><![CDATA[
+            用AI以秒为单位生成呈现幻灯片。
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/snapdeck-beta</guid>
+      <pubDate>Tue, 04 Mar 2025 07:45:02 GMT</pubDate>
     </item>
     <item>
       <title>豆蔻</title>
@@ -40,18 +52,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/kive-product-shots</guid>
       <pubDate>Mon, 03 Mar 2025 20:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>光标规则CLI</title>
-      <link>https://www.producthunt.com/posts/cursor-rules-cli</link>
-      <description><![CDATA[
-            使用一个简单命令自动安装相关的光标规则
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cursor-rules-cli</guid>
-      <pubDate>Mon, 03 Mar 2025 19:31:13 GMT</pubDate>
     </item>
     <item>
       <title>Neobase</title>
@@ -100,6 +100,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/aria-gen-2</guid>
       <pubDate>Mon, 03 Mar 2025 07:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决</title>
+      <link>https://www.producthunt.com/posts/luukilu</link>
+      <description><![CDATA[
+            在您的放松/电子邮件中获取元的每日广告疲劳警报
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/luukilu</guid>
+      <pubDate>Thu, 27 Feb 2025 16:56:35 GMT</pubDate>
     </item>
     <item>
       <title>Vomyra AI-语音AI代理</title>
@@ -172,20 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/quotes-8</guid>
       <pubDate>Sat, 01 Feb 2025 03:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>棱镜</title>
-      <link>https://www.producthunt.com/posts/prism-47b4a3d3-2a8a-46c0-9fce-297391103178</link>
-      <description><![CDATA[
-            开发人员生产力的竞争基准
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/prism-47b4a3d3-2a8a-46c0-9fce-297391103178</guid>
-      <pubDate>Fri, 22 Nov 2024 19:38:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
