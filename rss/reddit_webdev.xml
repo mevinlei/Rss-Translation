@@ -4,13 +4,34 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 05 Mar 2025 00:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 03:22:14 GMT</lastBuildDate>
     <item>
-      <title>您为家庭服务公司建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3qne4/your_building_a_website_for_home_service_companies/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您去SEO的工具是什么？我对WordPress + Astro非常感兴趣。我的网站，GMB等需要很好的SEO…  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/crazy_reporter_7516      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j3qne4/your_building_a_website_website_for_home_service_companies/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3qne4/your_building_a_website_for_home_service_companies/</guid>
-      <pubDate>Wed, 05 Mar 2025 00:49:46 GMT</pubDate>
+      <title>让我们比较日常</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我看不到像这样的线程，我没有先搜索，所以请随时在必要时直接将我降至地狱。 您的工作标题是什么，您的日常工作通常是什么？懒惰的测量或市场研究，我试图获得氛围检查我的工作是否正常，如果我这样做，同时做了8个工作。 Mostly so I can get a rough idea of​​ what to expect if I do jump ship at the current place.  So, I&#39;ll answer first: I&#39;m a Senior Software Developer and a few months ago I was &#39;promoted&#39; to Lead Software Developer, I don&#39;t generally use this title because, I am the *only* software developer, it feels like cheating. I report directly to the owner of the firm I work for, admittedly我们是一个非常小的操作，实际上只有3个人，所以我敢肯定，我的位置比其他经验更加流畅。 我主要在客户端应用上工作，通常是Web Dev，在那里大部分是前端的工作，尽管我也为会议摊位做了一场比赛，但目前我无法做一个较大的时间。 到。这个项目和项目较小但类似于我的许多角色发挥作用。  我负责操作我们的VPS和随之而来的所有复杂性。 研究和做出关于VPS和building Applications的技术的研究和决定。关于客户端的网络设计。 后来部署，测试和所有有趣的东西。  我想我想念更多，但这可能是要点，我已经有一年多了，这是我的第一个适当的开发式演出，我不喜欢我的工作状况，对我的工作状况和良好的经验， [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</guid>
+      <pubDate>Wed, 05 Mar 2025 02:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xiorjs：带有插件支撑和与Axios类似的API的轻量级提取器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3r7ue/xiorjs_a_liteweight_fetch_wrapper_with_plugins/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/ok_analyst1868      link&gt; link”   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3r7ue/xiorjs_a_liteweight_fetch_wrapper_with_plugins/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web应用程序和电子邮件通知的最佳自托管通知解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_for_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究非托管服务的通知系统，并为node/express.js应用提供API并具有电子邮件功能（与SendGrid集成等）。我正处于一家早期的创业公司，想要一个慷慨的自由层，并且喜欢不收到通知来自托管云服务（即，他们想在很小的时候自助宿主节省成本）。 我一直在寻找novu开源的开源，但我不确定它是否在大规模的情况下（我不确定是在付出的范围内，我都确定要努力工作，并且能够自我努力。我确实喜欢他们有一个收件箱组件和一个电子邮件编辑器，以进行快速开发。我认为FCM可能出于成本原因可能是有益的，即使这是一项云服务，但我的主管并不是该控制台的粉丝，我认为这不是针对电子邮件的。  无论如何，如果有人有强烈的意见，我将有义务。谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kilranthine   href =“ https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_solution_for_web_app/&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_for_web_app/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我个人网站的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3qxqz/suggestions_for_my_personal_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  制作个人投资组合网站，我应该包括哪些页面？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/parassharma2306      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3qxqz/suggestions_for_my_personal_website/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:03:19 GMT</pubDate>
     </item>
     <item>
       <title>在单击HTML页面时如何隐藏侧导航，而不是单击汉堡菜单？</title>
@@ -57,7 +78,7 @@
     <item>
       <title>您认为Web开发人员需要阅读什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j3mrqt/what_do_you_consider_required_reading_for_web/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   tl/dr：对于退出职业生涯的大三部分并进入中级的人，不是很高的人，但不是一个初级的部分，我的时间最有益的资源是我的时间最有益的？ 我是一个与.net，oracle，oracle，oracle和oracle和反应。我从事专业工作已有4年了。我想专注于今年的两个主要目标，并正在寻找有关书籍，频道，资源的建议，以帮助实现这些目标。 首先，我想一般而言，我想获得更深入的知识。如何以更好的方式编写更好的代码以及如何思考代码，软件等。脑海中的书籍是清洁代码，务实的程序员等。这些书仍然是“转到”。图书？是否有新的书籍以现代的方式呈现此信息？ 第二，我想对React和前端开发获得更深入的了解。我已经成为团队中的前端家伙，因为其他两位工程师在后端开发方面拥有大部分职业生涯，我想确保我尽我所能履行该角色。 事先感谢您。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/somewut_anonymous     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   tl/dr：对于退出职业生涯的大三部分并进入中级的人，不是很高的人，但不是一个初级的部分，我的时间最有益的资源是我的时间最有益的？ 我是一个与.net，oracle，oracle，oracle和oracle和反应。我从事专业工作已有4年了。我想专注于今年的两个主要目标，并正在寻找有关书籍，渠道，资源的建议，以帮助实现这些目标。 首先，我想一般而言就软件工程获得更深入的知识。如何以更好的方式编写更好的代码以及如何思考代码，软件等。脑海中的书籍是清洁代码，务实的程序员等。这些书仍然是“转到”。图书？是否有新的书籍以现代的方式呈现此信息？ 第二，我想对React和前端开发获得更深入的了解。我已经成为团队中的前端家伙，因为其他两位工程师在后端开发方面拥有大部分职业生涯，我想确保我尽我所能履行该角色。 事先感谢您。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/somewut_anonymous     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j3mrqt/what_do_you_consider_required_reading_for_web/</guid>
       <pubDate>Tue, 04 Mar 2025 21:56:19 GMT</pubDate>
     </item>
@@ -83,32 +104,11 @@
       <pubDate>Tue, 04 Mar 2025 20:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>C＃</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3l1zj/c/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们对c＃.net，typescript＆amp; amp; postgresql在一起没有太多浮华的框架和工具？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/exect-pass-4021       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3l1zj/c/</guid>
-      <pubDate>Tue, 04 Mar 2025 20:44:43 GMT</pubDate>
-    </item>
-    <item>
       <title>我应该在注册商管理DNS记录吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j3kycg/should_i_manage_my_dns_records_at_registrar/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我在namecheap购买了一个域，并读到我不应该在同一位置依靠DNS管理和域注册。如果这是真的，我应该在哪里管理DNS记录？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j3kycg/should_i_manage_manage_my_dns_records_at_registrar/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j3kycg/should_i_manage_my_dns_records_at_registrar/</guid>
       <pubDate>Tue, 04 Mar 2025 20:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>与Docker轻松部署的最佳技术堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3kxzx/best_tech_stack_for_my_project_with_easy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！ I&#39;m working on a fullstack TypeScript app that will work as something like combination of PasteBin and CodeShare with my custom features for my engineer&#39;s thesis. I initially started with Next.js with Hono.js as Next&#39;s API路线，但我无法使WebSocket完全工作，并且因为我需要它们，所以我正在考虑不同的方法，但无法真正弄清楚。 这是我当前的技术堆栈：    next.js ，   postgresql   drizzle orm ，  auth ，   headless ui 作为组件，   daisyui 用于造型   这是我要实现的目标：  与RPC，  与Docker一起工作，我确实希望与port ers一起求职，因此，与docker sopers ny to port一样，我可以按照自己的方式进行port port，这是我的一家人，这是一件很开展的port port，这是一件port的范围。我很高兴看到替代方案 所有框架都必须是基于Typescript/JavaScript的，因为我对这种语言的经验最多  我真的很想坚持使用Hono和下一个语言，但也可以轻松地部署我的图像，而我的图像只会暴露出一个端口（显然，对于数据库而言，另一个端口也可以）。如果不是那些烦人的Websocket，一切都会好起来的哈哈。你能把我指向正确的方向吗？预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/poprostuwitold     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3kxzx/best_tech_stack_for_my_project_with_easy/</guid>
-      <pubDate>Tue, 04 Mar 2025 20:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Siteground：无法转移所有权和新的2年托管计划？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3kqhn/siteground_cant_transfer_ownership_and_new_2year/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我找不到这个，所以如果回答了这一点，请重定向。 我将一个家庭成员设置为一个家庭成员（来自Namecheap的域名，来自Siteground的Namecheap，来自Siteground的域名），并根据我的详细信息付款为期2年的托管计划。我以为我正在设置他，以便当他准备好时，我会将计划，所有权，网站等转移给他。 看来，如果没有他回购托管计划，我就无法转移所有权。我在这里有什么选择？我保留2年的所有权吗？如果他制定托管计划，我会退还吗？ Namecheap所有权交换很容易。我想念什么？我有什么选择？我的目的是让他成为此网站的主要帐户持有人。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/weeburritobeans    href =“ https://www.reddit.com/r/webdev/comments/1j3kqhqhn/siteground_cant_cant_transfer_ownhips_and_and_new_2year/&gt; [link]         [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3kqhn/siteground_cant_transfer_ownership_and_new_2year/</guid>
-      <pubDate>Tue, 04 Mar 2025 20:31:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
