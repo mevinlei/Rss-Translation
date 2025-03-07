@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Mar 2025 09:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 12:21:16 GMT</lastBuildDate>
     <item>
       <title>世界聊天</title>
       <link>https://www.producthunt.com/posts/world-chat</link>
@@ -150,16 +150,28 @@
       <pubDate>Thu, 06 Mar 2025 02:52:05 GMT</pubDate>
     </item>
     <item>
-      <title>Docwelo</title>
-      <link>https://www.producthunt.com/posts/docwelo</link>
+      <title>MacBook Air与M4</title>
+      <link>https://www.producthunt.com/posts/macbook-air-with-m4</link>
       <description><![CDATA[
-            工艺NDA，服务协议等等
+            轻度的速度
           
 
-链接
+ link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/docwelo</guid>
-      <pubDate>Mon, 03 Mar 2025 17:35:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/macbook-air-with-m4</guid>
+      <pubDate>Wed, 05 Mar 2025 17:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Colab代理</title>
+      <link>https://www.producthunt.com/posts/colab-agent</link>
+      <description><![CDATA[
+            从数据到见解
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/colab-agent</guid>
+      <pubDate>Tue, 04 Mar 2025 07:50:57 GMT</pubDate>
     </item>
     <item>
       <title>右图AI</title>
@@ -172,18 +184,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rightnow-ai</guid>
       <pubDate>Sat, 22 Feb 2025 00:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助</title>
-      <link>https://www.producthunt.com/posts/aider</link>
-      <description><![CDATA[
-            终端中的AI对编程
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/aider</guid>
-      <pubDate>Thu, 20 Feb 2025 16:13:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
