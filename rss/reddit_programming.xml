@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 08 Mar 2025 06:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 09:09:46 GMT</lastBuildDate>
+    <item>
+      <title>刚刚启动了flickscout.com！需要您的反馈🙌</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6d9df/just_launched_flickscoutcom_need_your_feedback/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nilipilo      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6d9df/just_launched_flickscoutcom_need_your_feedback/</guid>
+      <pubDate>Sat, 08 Mar 2025 09:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>跳过一对一：强大的工程团队的被低估的实践</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6d12i/skiplevel_1on1s_the_underrated_practice_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/azdaroth       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6d12i/skiplevel_1on1s_the_underrated_practice_for/</guid>
+      <pubDate>Sat, 08 Mar 2025 08:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lamport逻辑时钟实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/sushant098123      ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6buvj/lamport_logical_clock_implementation_from_scratch/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:18:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>简洁的数据结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6bs5t/succinct_data_structures/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/mttd      [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6bs5t/succinct_data_structures/</guid>
+      <pubDate>Sat, 08 Mar 2025 07:13:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您的Homelab学习到网络朋克神秘冒险中的游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6bdy3/a_game_of_learning_your_homelab_into_a_cyberpunk/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/b0red       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6bdy3/a_game_of_learning_your_homelab_into_a_cyberpunk/</guid>
+      <pubDate>Sat, 08 Mar 2025 06:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL引擎在执行命令式程序方面表现出色</title>
+      <link>https://www.reddit.com/r/programming/comments/1j6b6qg/sql_engines_excel_at_the_execution_of_imperative/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/mttd       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j6b6qg/sql_engines_excel_at_the_execution_of_imperative/</guid>
+      <pubDate>Sat, 08 Mar 2025 06:32:56 GMT</pubDate>
+    </item>
     <item>
       <title>将参数传递到弹簧REST API的6种方法</title>
       <link>https://www.reddit.com/r/programming/comments/1j69a1n/6_ways_to_pass_parameters_to_spring_rest_api/</link>
@@ -43,7 +85,7 @@
     <item>
       <title>JDK 24中最相关的新功能</title>
       <link>https://www.reddit.com/r/programming/comments/1j5wejf/the_most_relevant_new_features_in_jdk_24/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   java 24包含24个新功能 - 比2018年以来的任何Java版本都要多。这六个对Java开发人员和Java商店将在短期内最重要。  2025年3月2025年3月提交由＆＃32;态href =“ https://www.infoworld.com/article/3830643/the-most-relevant-new-features-in-jdk-24.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   java 24包含24个新功能 - 比2018年以来的任何Java发行版都要多。这六个对Java开发人员和Java商店将在短期内最重要。  2025年3月2025年3月提交由＆＃32;态href =“ https://www.infoworld.com/article/3830643/the-most-relevant-new-features-in-jdk-24.html”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j5wejf/the_most_relevant_new_features_in_jdk_24/</guid>
       <pubDate>Fri, 07 Mar 2025 18:42:47 GMT</pubDate>
     </item>
@@ -64,51 +106,9 @@
     <item>
       <title>打破有关哈希表的40年假设</title>
       <link>https://www.reddit.com/r/programming/comments/1j5rsrj/breaking_a_40year_assumption_about_hash_tables/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/himothyjohndoe     [link]    32;   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/himothyjohndoe     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j5rsrj/breaking_a_40year_assumption_about_hash_tables/</guid>
       <pubDate>Fri, 07 Mar 2025 15:59:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>可区分的逻辑蜂窝自动机</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5rfkm/differentiable_logic_cellular_automata/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mitousa       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5rfkm/differentiable_logic_cellular_automata/</guid>
-      <pubDate>Fri, 07 Mar 2025 15:46:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>冷C编程蛇游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5r2dg/chill_c_programming_snake_game/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/lewboskifeo      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5r2dg/chill_c_programming_snake_game/</guid>
-      <pubDate>Fri, 07 Mar 2025 15:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2月的Web平台新手</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5r0ec/new_to_the_web_platform_in_february/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     link&gt; link link”   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5r0ec/new_to_the_web_platform_in_february/</guid>
-      <pubDate>Fri, 07 Mar 2025 15:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>最小二乘配备功能编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5o5oj/least_squares_fitting_with_functional_programming/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/macrohard_certified     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5o5oj/least_squares_fitting_with_functional_programming/</guid>
-      <pubDate>Fri, 07 Mar 2025 13:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>几乎不可能的托管Golang Websocket在Cpanel上</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5nycg/near_impossible_hosting_golang_websockets_on/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/bookofcooks       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5nycg/near_impossible_hosting_golang_websockets_on/</guid>
-      <pubDate>Fri, 07 Mar 2025 13:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何写有用的提交消息</title>
-      <link>https://www.reddit.com/r/programming/comments/1j5nvm5/how_to_write_useful_commit_messages/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mtlynch      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j5nvm5/how_to_write_useful_commit_messages/</guid>
-      <pubDate>Fri, 07 Mar 2025 13:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
