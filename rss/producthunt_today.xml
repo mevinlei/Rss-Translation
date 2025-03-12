@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Mar 2025 12:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 15:11:51 GMT</lastBuildDate>
     <item>
       <title>布谷鸟</title>
       <link>https://www.producthunt.com/posts/cuckoo-6</link>
@@ -28,18 +28,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk</guid>
       <pubDate>Tue, 11 Mar 2025 20:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wiki Hover</title>
-      <link>https://www.producthunt.com/posts/wiki-hover</link>
-      <description><![CDATA[
-            任何网页上的即时Wikipedia工具提示
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/wiki-hover</guid>
-      <pubDate>Tue, 11 Mar 2025 19:46:37 GMT</pubDate>
     </item>
     <item>
       <title>iOS和Android的Supadex</title>
@@ -78,18 +66,6 @@
       <pubDate>Tue, 11 Mar 2025 15:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>第一种子任务</title>
-      <link>https://www.producthunt.com/posts/firstseed-tasks</link>
-      <description><![CDATA[
-            任务经理专注于任务执行和完成
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/firstseed-tasks</guid>
-      <pubDate>Tue, 11 Mar 2025 12:56:04 GMT</pubDate>
-    </item>
-    <item>
       <title>DJI码头3</title>
       <link>https://www.producthunt.com/posts/dji-dock-3</link>
       <description><![CDATA[
@@ -100,6 +76,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/dji-dock-3</guid>
       <pubDate>Tue, 11 Mar 2025 11:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>荚</title>
+      <link>https://www.producthunt.com/posts/pod-6</link>
+      <description><![CDATA[
+            播放本地音乐和广播的桌面iPod
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/pod-6</guid>
+      <pubDate>Tue, 11 Mar 2025 10:08:21 GMT</pubDate>
     </item>
     <item>
       <title>vs代码的OMLET</title>
@@ -138,16 +126,16 @@
       <pubDate>Mon, 10 Mar 2025 20:41:35 GMT</pubDate>
     </item>
     <item>
-      <title>数字</title>
-      <link>https://www.producthunt.com/posts/numeral</link>
+      <title>焦点</title>
+      <link>https://www.producthunt.com/posts/focusnudge</link>
       <description><![CDATA[
-            每月花费不到5分钟的营业税合规性
+            状态栏应用程序可以将您重新推向焦点！
           
 
-链接
+ link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/numeral</guid>
-      <pubDate>Sun, 09 Mar 2025 15:25:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/focusnudge</guid>
+      <pubDate>Mon, 10 Mar 2025 20:33:47 GMT</pubDate>
     </item>
     <item>
       <title>Sahha原型</title>
@@ -162,10 +150,22 @@
       <pubDate>Sat, 08 Mar 2025 20:12:58 GMT</pubDate>
     </item>
     <item>
+      <title>搜索副词</title>
+      <link>https://www.producthunt.com/posts/search-copilot</link>
+      <description><![CDATA[
+            跨平台工作AI
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/search-copilot</guid>
+      <pubDate>Thu, 06 Mar 2025 17:52:00 GMT</pubDate>
+    </item>
+    <item>
       <title>窗户的WISPR流动</title>
       <link>https://www.producthunt.com/posts/wispr-flow-for-windows</link>
       <description><![CDATA[
-            文本到语音现在在PC和Mac上快3倍
+            停止键入，开始说话：PC和Mac上的大写速度更快
           
 
 链接
@@ -174,16 +174,16 @@
       <pubDate>Mon, 03 Mar 2025 13:47:09 GMT</pubDate>
     </item>
     <item>
-      <title>和PM代理：Beta版本</title>
-      <link>https://www.producthunt.com/posts/og-pm-agent-beta-release</link>
+      <title>没有帽子</title>
+      <link>https://www.producthunt.com/posts/no-cap</link>
       <description><![CDATA[
-            您的AI产品经理
+            世界上第一个AI天使投资者
           
 
-链接
+ link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/og-pm-agent-beta-release</guid>
-      <pubDate>Sat, 01 Mar 2025 08:43:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/no-cap</guid>
+      <pubDate>Sun, 02 Mar 2025 10:12:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
