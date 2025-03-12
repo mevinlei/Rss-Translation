@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Mar 2025 18:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 21:10:12 GMT</lastBuildDate>
     <item>
       <title>布谷鸟</title>
       <link>https://www.producthunt.com/posts/cuckoo-6</link>
@@ -28,6 +28,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk</guid>
       <pubDate>Tue, 11 Mar 2025 20:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wiki Hover</title>
+      <link>https://www.producthunt.com/posts/wiki-hover</link>
+      <description><![CDATA[
+            任何网页上的即时Wikipedia工具提示
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/wiki-hover</guid>
+      <pubDate>Tue, 11 Mar 2025 19:46:37 GMT</pubDate>
     </item>
     <item>
       <title>iOS和Android的Supadex</title>
@@ -54,6 +66,18 @@
       <pubDate>Tue, 11 Mar 2025 16:19:50 GMT</pubDate>
     </item>
     <item>
+      <title>AI Renamer</title>
+      <link>https://www.producthunt.com/posts/ai-renamer-2</link>
+      <description><![CDATA[
+            用AI重命名您的文件
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/ai-renamer-2</guid>
+      <pubDate>Tue, 11 Mar 2025 15:50:21 GMT</pubDate>
+    </item>
+    <item>
       <title>第一种子任务</title>
       <link>https://www.producthunt.com/posts/firstseed-tasks</link>
       <description><![CDATA[
@@ -66,28 +90,16 @@
       <pubDate>Tue, 11 Mar 2025 12:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>DJI码头3</title>
-      <link>https://www.producthunt.com/posts/dji-dock-3</link>
+      <title>vs代码的OMLET</title>
+      <link>https://www.producthunt.com/posts/omlet-for-vs-code</link>
       <description><![CDATA[
-            遇到任何挑战
+            在VS代码中获取React React组件使用情况见解
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/dji-dock-3</guid>
-      <pubDate>Tue, 11 Mar 2025 11:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>W3are v1 beta</title>
-      <link>https://www.producthunt.com/posts/w3are-v1-beta</link>
-      <description><![CDATA[
-            接受任何货币或加密货币的付款
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/w3are-v1-beta</guid>
-      <pubDate>Tue, 11 Mar 2025 04:16:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/omlet-for-vs-code</guid>
+      <pubDate>Tue, 11 Mar 2025 07:36:08 GMT</pubDate>
     </item>
     <item>
       <title>超级墙</title>
@@ -100,18 +112,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/superwall</guid>
       <pubDate>Mon, 10 Mar 2025 20:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>焦点</title>
-      <link>https://www.producthunt.com/posts/focusnudge</link>
-      <description><![CDATA[
-            状态栏应用程序可以将您重新推向焦点！
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/focusnudge</guid>
-      <pubDate>Mon, 10 Mar 2025 20:33:47 GMT</pubDate>
     </item>
     <item>
       <title>数字</title>
@@ -162,18 +162,6 @@
       <pubDate>Mon, 03 Mar 2025 13:47:09 GMT</pubDate>
     </item>
     <item>
-      <title>没有帽子</title>
-      <link>https://www.producthunt.com/posts/no-cap</link>
-      <description><![CDATA[
-            世界上第一个AI天使投资者
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/no-cap</guid>
-      <pubDate>Sun, 02 Mar 2025 10:12:22 GMT</pubDate>
-    </item>
-    <item>
       <title>和PM代理：Beta版本</title>
       <link>https://www.producthunt.com/posts/og-pm-agent-beta-release</link>
       <description><![CDATA[
@@ -184,6 +172,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/og-pm-agent-beta-release</guid>
       <pubDate>Sat, 01 Mar 2025 08:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>库存伴侣</title>
+      <link>https://www.producthunt.com/posts/inventory-mate</link>
+      <description><![CDATA[
+            无痛苦的库存计划，为电子商务进行
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/inventory-mate</guid>
+      <pubDate>Sun, 05 Jan 2025 19:20:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
