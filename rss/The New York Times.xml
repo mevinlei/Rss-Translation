@@ -4,13 +4,20 @@
     <title>新>顶级故事</title>
     <link>https://www.nytimes.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 00:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 03:11:59 GMT</lastBuildDate>
+    <item>
+      <title>特朗普要求哥伦比亚纪律和录取规则发生重大变化</title>
+      <link>https://www.nytimes.com/2025/03/13/nyregion/columbia-university-students-disciplined-hamilton-hall.html</link>
+      <description><![CDATA[概述“立即下一步”的一封信在政府表示取消4亿美元的赠款和合同后不到一周。]]></description>
+      <guid>https://www.nytimes.com/2025/03/13/nyregion/columbia-university-students-disciplined-hamilton-hall.html</guid>
+      <pubDate>Fri, 14 Mar 2025 03:11:59 GMT</pubDate>
+    </item>
     <item>
       <title>法官规则法官，特朗普政府必须重新雇用成千上万的解雇工人</title>
       <link>https://www.nytimes.com/2025/03/13/us/politics/trump-federal-workers-rehire-ruling.html</link>
       <description><![CDATA[一名联邦法官称该政府对具有缓刑状况的工人解雇的理由为“假”。]]></description>
       <guid>https://www.nytimes.com/2025/03/13/us/politics/trump-federal-workers-rehire-ruling.html</guid>
-      <pubDate>Fri, 14 Mar 2025 00:24:11 GMT</pubDate>
+      <pubDate>Fri, 14 Mar 2025 00:24:12 GMT</pubDate>
     </item>
     <item>
       <title>联邦削减促使约翰·霍普金斯（Johns Hopkins）裁员2,000多名工人</title>
@@ -24,14 +31,7 @@
       <link>https://www.nytimes.com/2025/03/13/world/europe/putin-ceasefire-ukraine-trump.html</link>
       <description><![CDATA[俄罗斯领导人的讲话表明，他想提出谈判或不可能休战。乌克兰的领导人称对停火计划的回应是“操纵性的”。]]></description>
       <guid>https://www.nytimes.com/2025/03/13/world/europe/putin-ceasefire-ukraine-trump.html</guid>
-      <pubDate>Thu, 13 Mar 2025 23:12:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看埃隆·马斯克（Elon Musk）的团队如何夸大，删除和重写其储蓄索赔</title>
-      <link>https://www.nytimes.com/2025/03/13/upshot/musk-doge-changes-deletions.html</link>
-      <description><![CDATA[削减成本小组从其“收据墙”中删除了数百份合同，并增加了许多合同，并增加了储蓄价值。]]></description>
-      <guid>https://www.nytimes.com/2025/03/13/upshot/musk-doge-changes-deletions.html</guid>
-      <pubDate>Thu, 13 Mar 2025 23:05:15 GMT</pubDate>
+      <pubDate>Thu, 13 Mar 2025 23:12:19 GMT</pubDate>
     </item>
     <item>
       <title>特朗普扩大了全球鸡游戏中的贸易威胁</title>
@@ -69,6 +69,13 @@
       <pubDate>Thu, 13 Mar 2025 21:22:50 GMT</pubDate>
     </item>
     <item>
+      <title>抗议者在特朗普大厦的马哈茂德·哈利尔（Mahmoud Khalil）回到：“战斗纳粹，而不是学生”</title>
+      <link>https://www.nytimes.com/2025/03/13/us/politics/trump-tower-protests-mahmoud-khalil.html</link>
+      <description><![CDATA[由一个进步的犹太团体领导的示威者聚集在一起，以支持特朗普政府希望驱逐出境的巴勒斯坦激进主义者Mahmoud Khalil。]]></description>
+      <guid>https://www.nytimes.com/2025/03/13/us/politics/trump-tower-protests-mahmoud-khalil.html</guid>
+      <pubDate>Thu, 13 Mar 2025 21:05:06 GMT</pubDate>
+    </item>
+    <item>
       <title>什么是股票市场更正？</title>
       <link>https://www.nytimes.com/article/stock-market-correction.html</link>
       <description><![CDATA[S＆amp; P 500比最近的高点下降了10.1％，越过了一个阈值，这表明投资者对股票感到悲观。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[面临特朗普的关税威胁，政府和公司正在提议对美国液化天然气项目进行重大投资。]]></description>
       <guid>https://www.nytimes.com/2025/03/13/climate/trump-tariff-natural-gas-investment.html</guid>
       <pubDate>Thu, 13 Mar 2025 19:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doge使其最新错误更难找到</title>
-      <link>https://www.nytimes.com/2025/03/13/us/politics/doge-errors-funding-grants-claims.html</link>
-      <description><![CDATA[尽管承诺具有透明度，但埃隆·马斯克（Elon Musk）的小组掩盖了其网站上一些新主张的细节。但是《泰晤士报》仍然能够发现另一批错误。]]></description>
-      <guid>https://www.nytimes.com/2025/03/13/us/politics/doge-errors-funding-grants-claims.html</guid>
-      <pubDate>Thu, 13 Mar 2025 18:01:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
