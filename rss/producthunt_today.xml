@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 15:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 18:14:12 GMT</lastBuildDate>
     <item>
       <title>PI Digits挑战</title>
       <link>https://www.producthunt.com/posts/pi-digits-challenge</link>
@@ -66,6 +66,18 @@
       <pubDate>Thu, 13 Mar 2025 21:25:01 GMT</pubDate>
     </item>
     <item>
+      <title>HAL9回复</title>
+      <link>https://www.producthunt.com/posts/hal9-reply</link>
+      <description><![CDATA[
+            回复任何消息
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/hal9-reply</guid>
+      <pubDate>Thu, 13 Mar 2025 20:01:33 GMT</pubDate>
+    </item>
+    <item>
       <title>freepik AI视频高档器</title>
       <link>https://www.producthunt.com/posts/freepik-ai-video-upscaler</link>
       <description><![CDATA[
@@ -78,16 +90,16 @@
       <pubDate>Thu, 13 Mar 2025 20:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>Amiry  -  AI驱动的智能城市路线</title>
-      <link>https://www.producthunt.com/posts/amiry-ai-powered-smart-city-routes</link>
+      <title>LoadFast代码段扩展器</title>
+      <link>https://www.producthunt.com/posts/loadfast-snippet-expander</link>
       <description><![CDATA[
-            探索任何城市而无需计划
+            闪电快速文字扩展，无限片段，现代UI
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/amiry-ai-powered-smart-city-routes</guid>
-      <pubDate>Thu, 13 Mar 2025 17:50:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/loadfast-snippet-expander</guid>
+      <pubDate>Thu, 13 Mar 2025 16:47:30 GMT</pubDate>
     </item>
     <item>
       <title>双子座机器人技术</title>
@@ -112,30 +124,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/zuni</guid>
       <pubDate>Wed, 12 Mar 2025 20:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>JOOS©</title>
-      <link>https://www.producthunt.com/posts/joos</link>
-      <description><![CDATA[
-            投资于内容创建者，加速其增长
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/joos</guid>
-      <pubDate>Wed, 12 Mar 2025 10:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>fuego</title>
-      <link>https://www.producthunt.com/posts/fuego-2</link>
-      <description><![CDATA[
-            用于管理Firestore数据库的桌面应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/fuego-2</guid>
-      <pubDate>Mon, 10 Mar 2025 23:27:01 GMT</pubDate>
     </item>
     <item>
       <title>Agbr</title>
@@ -184,6 +172,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/touch-grass</guid>
       <pubDate>Mon, 24 Feb 2025 08:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FACTENS.FM</title>
+      <link>https://www.producthunt.com/posts/factory-fm</link>
+      <description><![CDATA[
+            音乐评论应用程序
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/factory-fm</guid>
+      <pubDate>Mon, 17 Feb 2025 14:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
