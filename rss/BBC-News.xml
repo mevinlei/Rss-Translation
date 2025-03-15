@@ -4,7 +4,7 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 15 Mar 2025 03:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 06:14:32 GMT</lastBuildDate>
     <item>
       <title>烤箱和骨碎片 - 英国广播公司访问墨西哥卡特尔“灭绝”地点</title>
       <link>https://www.bbc.com/news/articles/cly8gv7j5gyo</link>
@@ -39,6 +39,13 @@
       <description><![CDATA[废除该组织的决定可以提供一个新的机会来检查如何处理患者。]]></description>
       <guid>https://www.bbc.com/news/articles/c984qg7y4gro</guid>
       <pubDate>Sat, 15 Mar 2025 00:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>“你不能与俄罗斯达成协议”：乌克兰人相信停火吗？</title>
+      <link>https://www.bbc.com/news/videos/c4g7473l2lgo</link>
+      <description><![CDATA[英国广播公司（BBC）询问基耶夫（Kyiv）的人们停火协议是否可以迈出与俄罗斯结束战争的一步。]]></description>
+      <guid>https://www.bbc.com/news/videos/c4g7473l2lgo</guid>
+      <pubDate>Sat, 15 Mar 2025 00:08:45 GMT</pubDate>
     </item>
     <item>
       <title>SpaceX Rocket推出Butch和Suni准备回报</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[根据联合国的一份报告，伊朗官员正在鼓励人们举报拒绝服从伊斯兰共和国的着装法规的妇女。]]></description>
       <guid>https://www.bbc.com/news/articles/c0kg15jkpdeo</guid>
       <pubDate>Fri, 14 Mar 2025 16:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>总理雷切尔·里夫斯（Rachel Reeves）坚持改变所需的福利支出</title>
-      <link>https://www.bbc.com/news/articles/cwygx918vneo</link>
-      <description><![CDATA[工党国会议员在下周公告之前，一直对拟议削减福利的削减感到不安。]]></description>
-      <guid>https://www.bbc.com/news/articles/cwygx918vneo</guid>
-      <pubDate>Fri, 14 Mar 2025 16:06:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
