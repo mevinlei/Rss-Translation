@@ -4,9 +4,37 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 16 Mar 2025 00:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 03:26:33 GMT</lastBuildDate>
     <item>
-      <title>draper撞击阿尔卡拉兹（Alcaraz）到达印度井最终</title>
+      <title>美国在也门的胡西特发动了空袭</title>
+      <link>https://www.bbc.com/news/articles/c05mvr3j3yro</link>
+      <description><![CDATA[美国总统将武装团体最近在红海发动袭击为理由。]]></description>
+      <guid>https://www.bbc.com/news/articles/c05mvr3j3yro</guid>
+      <pubDate>Sun, 16 Mar 2025 03:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙卷风撕裂了我们南部，至少31人死亡</title>
+      <link>https://www.bbc.com/news/articles/cevx7lkznm1o</link>
+      <description><![CDATA[不可预测的风暴袭击了密苏里州，得克萨斯州和俄克拉荷马州，鞭打着大火并推翻了卡车。]]></description>
+      <guid>https://www.bbc.com/news/articles/cevx7lkznm1o</guid>
+      <pubDate>Sun, 16 Mar 2025 02:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>计划冻结PIP残疾益处</title>
+      <link>https://www.bbc.com/news/articles/cy9dgwe1q27o</link>
+      <description><![CDATA[许多通常忠实的劳工国会议员强烈反对这一想法，政府预计将削减数十亿美元。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy9dgwe1q27o</guid>
+      <pubDate>Sun, 16 Mar 2025 01:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>论文：受益的“回溯”和smacking“可能是犯罪”</title>
+      <link>https://www.bbc.com/news/articles/c5y0gyl7xxeo</link>
+      <description><![CDATA[构成周日论文的前面的各种故事。]]></description>
+      <guid>https://www.bbc.com/news/articles/c5y0gyl7xxeo</guid>
+      <pubDate>Sun, 16 Mar 2025 01:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>德雷珀（Draper</title>
       <link>https://www.bbc.com/sport/tennis/articles/czdn86z4v50o</link>
       <description><![CDATA[英国的杰克·德雷珀（Jack Draper）通过有争议的视频呼吁提供帮助，以赢得四届主要冠军卡洛斯·阿尔卡拉兹（Carlos Alcaraz）的胜利。]]></description>
       <guid>https://www.bbc.com/sport/tennis/articles/czdn86z4v50o</guid>
@@ -41,34 +69,6 @@
       <pubDate>Sun, 16 Mar 2025 00:03:46 GMT</pubDate>
     </item>
     <item>
-      <title>美国在也门的胡西特发动了空袭</title>
-      <link>https://www.bbc.com/news/articles/c05mvr3j3yro</link>
-      <description><![CDATA[美国总统将武装团体最近在红海发动袭击为理由。]]></description>
-      <guid>https://www.bbc.com/news/articles/c05mvr3j3yro</guid>
-      <pubDate>Sun, 16 Mar 2025 00:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>塞尔维亚有史以来最大的集会看到325,000抗议政府</title>
-      <link>https://www.bbc.com/news/articles/cx2g8v32q30o</link>
-      <description><![CDATA[杀死15人的车站顶篷的倒塌使对政府的愤怒激起了愤怒。]]></description>
-      <guid>https://www.bbc.com/news/articles/cx2g8v32q30o</guid>
-      <pubDate>Sat, 15 Mar 2025 23:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>至少有20人死亡，龙卷风撕裂了我们南部</title>
-      <link>https://www.bbc.com/news/articles/cevx7lkznm1o</link>
-      <description><![CDATA[不可预测的风暴袭击了密苏里州，得克萨斯州和俄克拉荷马州，鞭打着大火并推翻了卡车。]]></description>
-      <guid>https://www.bbc.com/news/articles/cevx7lkznm1o</guid>
-      <pubDate>Sat, 15 Mar 2025 22:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>计划冻结PIP残疾益处</title>
-      <link>https://www.bbc.com/news/articles/cy9dgwe1q27o</link>
-      <description><![CDATA[许多通常忠实的劳工国会议员强烈反对这一想法，政府预计将削减数十亿美元。]]></description>
-      <guid>https://www.bbc.com/news/articles/cy9dgwe1q27o</guid>
-      <pubDate>Sat, 15 Mar 2025 21:42:47 GMT</pubDate>
-    </item>
-    <item>
       <title>吉恩·哈克曼（Gene Hackman）的孩子没有在演员的8000万美元中命名</title>
       <link>https://www.bbc.com/news/articles/c7985ld2lrro</link>
       <description><![CDATA[法律专家说，这位传奇演员的三个孩子可能仍会根据州法律对自己的财富有所要求。]]></description>
@@ -90,13 +90,6 @@
       <pubDate>Sat, 15 Mar 2025 16:46:21 GMT</pubDate>
     </item>
     <item>
-      <title>总理在乌克兰的临时联盟仍然可能难以实现</title>
-      <link>https://www.bbc.com/news/articles/clyzgr5xgv6o</link>
-      <description><![CDATA[在乌克兰盟友的峰会之后，总理的联盟仍然是一项模糊的事业。]]></description>
-      <guid>https://www.bbc.com/news/articles/clyzgr5xgv6o</guid>
-      <pubDate>Sat, 15 Mar 2025 16:41:31 GMT</pubDate>
-    </item>
-    <item>
       <title>Netflix的3.2亿美元科幻大片是“ Soulless”，“ Dumb”和一个热门</title>
       <link>https://www.bbc.com/news/articles/cdelxr18pzlo</link>
       <description><![CDATA[由米莉·鲍比·布朗（Millie Bobby Brown）主演的电力状态遵循了Netflix制作批评家拍摄明星电影的趋势，但吸引了众多观众。]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[工党可能抛弃了其派系的战斗 - 但削减深厚的福利可能会重新点燃紧张局势。]]></description>
       <guid>https://www.bbc.com/news/articles/c99n798ye1zo</guid>
       <pubDate>Sat, 15 Mar 2025 13:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤箱和骨碎片 - 英国广播公司访问墨西哥卡特尔“灭绝”地点</title>
+      <link>https://www.bbc.com/news/articles/cly8gv7j5gyo</link>
+      <description><![CDATA[英国广播公司（BBC）的赠款将访问该地点，该地点被毒品卡特尔（Trug Cartel）用来处置受害者的遗体。]]></description>
+      <guid>https://www.bbc.com/news/articles/cly8gv7j5gyo</guid>
+      <pubDate>Sat, 15 Mar 2025 01:30:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
