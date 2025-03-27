@@ -4,7 +4,21 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 25 Mar 2025 03:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 12:20:02 GMT</lastBuildDate>
+    <item>
+      <title>带有句子变形金刚V4的培训和填充重读模型</title>
+      <link>https://huggingface.co/blog/train-reranker</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/train-reranker</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍Gradio的新数据框架！</title>
+      <link>https://huggingface.co/blog/gradio-dataframe-upgrade</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-dataframe-upgrade</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>推理端点中的新的新鲜分析</title>
       <link>https://huggingface.co/blog/endpoint-analytics</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fastrtc</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于使用HF端点解码的远程VAE🤗</title>
-      <link>https://huggingface.co/blog/remote_vae</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/remote_vae</guid>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Siglip 2：更好的多语言视觉语言编码器</title>
-      <link>https://huggingface.co/blog/siglip2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/siglip2</guid>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
