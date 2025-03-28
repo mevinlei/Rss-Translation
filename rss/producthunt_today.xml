@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Mar 2025 00:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 03:26:38 GMT</lastBuildDate>
     <item>
       <title>SOAR-新的地图集</title>
       <link>https://www.producthunt.com/posts/soar-the-new-atlas</link>
@@ -54,6 +54,18 @@
       <pubDate>Wed, 26 Mar 2025 10:35:26 GMT</pubDate>
     </item>
     <item>
+      <title>YT速度控制器</title>
+      <link>https://www.producthunt.com/posts/yt-speed-controller</link>
+      <description><![CDATA[
+            使用自定义按钮控制YouTube视频播放速度
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/yt-speed-controller</guid>
+      <pubDate>Wed, 26 Mar 2025 08:01:36 GMT</pubDate>
+    </item>
+    <item>
       <title>码头</title>
       <link>https://www.producthunt.com/posts/docko</link>
       <description><![CDATA[
@@ -64,6 +76,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/docko</guid>
       <pubDate>Wed, 26 Mar 2025 08:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Emelei</title>
+      <link>https://www.producthunt.com/posts/ememeai</link>
+      <description><![CDATA[
+            创建和导出AI字符到应用程序和游戏
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/ememeai</guid>
+      <pubDate>Sat, 22 Mar 2025 12:41:24 GMT</pubDate>
     </item>
     <item>
       <title>迷你舒适的房间：Lo-fi</title>
@@ -78,16 +102,16 @@
       <pubDate>Thu, 20 Mar 2025 15:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>ActionKit</title>
-      <link>https://www.producthunt.com/posts/actionkit</link>
+      <title>简单清单</title>
+      <link>https://www.producthunt.com/posts/easylisting</link>
       <description><![CDATA[
-            立即向您的AI代理添加1000多个集成操作
+            创建，管理和发展您的电子邮件列表
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/actionkit</guid>
-      <pubDate>Mon, 17 Mar 2025 20:43:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/easylisting</guid>
+      <pubDate>Wed, 19 Mar 2025 03:32:58 GMT</pubDate>
     </item>
     <item>
       <title>莫里奥</title>
@@ -138,40 +162,16 @@
       <pubDate>Tue, 11 Mar 2025 11:10:23 GMT</pubDate>
     </item>
     <item>
-      <title>脱衣电子邮件设计平台</title>
-      <link>https://www.producthunt.com/posts/stripo-email-design-platform</link>
+      <title>坦率</title>
+      <link>https://www.producthunt.com/posts/atono</link>
       <description><![CDATA[
-            AI，团队合作和电子邮件设计的新时代
+            在一个地方计划，构建，运行和改善您的产品
           
 
- link 
+链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/stripo-email-design-platform</guid>
-      <pubDate>Wed, 05 Mar 2025 12:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>场景2.0-模块化AI Web构建器</title>
-      <link>https://www.producthunt.com/posts/scene-2-0-modular-ai-web-builder</link>
-      <description><![CDATA[
-            建立网站的明智方法
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/scene-2-0-modular-ai-web-builder</guid>
-      <pubDate>Fri, 28 Feb 2025 13:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>可分子</title>
-      <link>https://www.producthunt.com/posts/redactable</link>
-      <description><![CDATA[
-            在共享文档之前，请在文档中保护您的敏感数据
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/redactable</guid>
-      <pubDate>Tue, 18 Feb 2025 21:10:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/atono</guid>
+      <pubDate>Fri, 31 Jan 2025 21:28:10 GMT</pubDate>
     </item>
     <item>
       <title>为Android grok</title>
