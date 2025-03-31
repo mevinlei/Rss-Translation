@@ -2,9 +2,21 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Mar 2025 06:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 12:20:18 GMT</lastBuildDate>
+    <item>
+      <title>dockflow</title>
+      <link>https://www.producthunt.com/posts/dockflow</link>
+      <description><![CDATA[
+            在MacOS上的码头预设之间切换
+          
+
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dockflow</guid>
+      <pubDate>Sun, 30 Mar 2025 19:12:18 GMT</pubDate>
+    </item>
     <item>
       <title>HCB</title>
       <link>https://www.producthunt.com/posts/hcb</link>
@@ -16,18 +28,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/hcb</guid>
       <pubDate>Sat, 29 Mar 2025 22:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>雨天2.0</title>
-      <link>https://www.producthunt.com/posts/rainy-skies-2-0</link>
-      <description><![CDATA[
-            您的天气应用程序，现在使用Radar和Apple Watch应用程序
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/rainy-skies-2-0</guid>
-      <pubDate>Sat, 29 Mar 2025 18:44:59 GMT</pubDate>
     </item>
     <item>
       <title>点</title>
@@ -42,13 +42,25 @@
       <pubDate>Sat, 29 Mar 2025 16:58:16 GMT</pubDate>
     </item>
     <item>
+      <title>formanitizer</title>
+      <link>https://www.producthunt.com/posts/formsanitizer</link>
+      <description><![CDATA[
+            停止使用自定义过滤器的垃圾邮件提交。
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/formsanitizer</guid>
+      <pubDate>Sat, 29 Mar 2025 13:32:54 GMT</pubDate>
+    </item>
+    <item>
       <title>React电子邮件4.0</title>
       <link>https://www.producthunt.com/posts/react-email-4-0</link>
       <description><![CDATA[
             全新的工具集，以帮助您构建更好的电子邮件
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/react-email-4-0</guid>
       <pubDate>Sat, 29 Mar 2025 11:04:05 GMT</pubDate>
@@ -60,10 +72,22 @@
             轻松的AI驱动推荐：收集，管理和分享
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/sindo</guid>
       <pubDate>Sat, 29 Mar 2025 08:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>窥视</title>
+      <link>https://www.producthunt.com/posts/peeknote</link>
+      <description><![CDATA[
+            轻巧的开发和多任务处理始终在上面的笔记
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/peeknote</guid>
+      <pubDate>Sat, 29 Mar 2025 07:17:45 GMT</pubDate>
     </item>
     <item>
       <title>空中洛德</title>
@@ -72,70 +96,46 @@
             将数据导入概念的更快，更聪明的方法
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/spaceloadr</guid>
       <pubDate>Sat, 29 Mar 2025 03:03:54 GMT</pubDate>
     </item>
     <item>
-      <title>artify</title>
-      <link>https://www.producthunt.com/posts/artify-3</link>
+      <title>Heroui聊天</title>
+      <link>https://www.producthunt.com/posts/heroui-chat</link>
       <description><![CDATA[
-            与我们一起学习艺术史
+            产生美丽UI的最简单方法
           
 
- link 
+链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/artify-3</guid>
-      <pubDate>Fri, 28 Mar 2025 12:39:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/heroui-chat</guid>
+      <pubDate>Fri, 28 Mar 2025 02:00:32 GMT</pubDate>
     </item>
     <item>
-      <title>txgemma</title>
-      <link>https://www.producthunt.com/posts/txgemma</link>
+      <title>公然</title>
+      <link>https://www.producthunt.com/posts/openbnb</link>
       <description><![CDATA[
-            用于更快的药物开发的AI模型
+            浏览Airbnb时直接预订房屋
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/txgemma</guid>
-      <pubDate>Fri, 28 Mar 2025 07:34:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/openbnb</guid>
+      <pubDate>Thu, 27 Mar 2025 20:18:27 GMT</pubDate>
     </item>
     <item>
-      <title>GraphFast</title>
-      <link>https://www.producthunt.com/posts/graphfast</link>
+      <title>有目的的大便</title>
+      <link>https://www.producthunt.com/posts/purposeful-poop</link>
       <description><![CDATA[
-            创建美丽的线图的最快方法
+            您要付多少钱？
           
 
  link 
 ]]></description>
-      <guid>https://www.producthunt.com/posts/graphfast</guid>
-      <pubDate>Thu, 27 Mar 2025 19:21:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目G助手</title>
-      <link>https://www.producthunt.com/posts/project-g-assist</link>
-      <description><![CDATA[
-            在GPU AI上，为游戏建造
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/project-g-assist</guid>
-      <pubDate>Thu, 27 Mar 2025 04:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>text2note</title>
-      <link>https://www.producthunt.com/posts/text2note</link>
-      <description><![CDATA[
-            将任何文本变成可操作的笔记
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/text2note</guid>
-      <pubDate>Wed, 26 Mar 2025 17:25:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/purposeful-poop</guid>
+      <pubDate>Thu, 27 Mar 2025 18:31:55 GMT</pubDate>
     </item>
     <item>
       <title>Zenkan</title>
@@ -148,18 +148,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/zenkan</guid>
       <pubDate>Wed, 26 Mar 2025 14:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>洞</title>
-      <link>https://www.producthunt.com/posts/deepcord</link>
-      <description><![CDATA[
-            指标见解和受众研究的不和谐分析
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/deepcord</guid>
-      <pubDate>Tue, 25 Mar 2025 14:36:12 GMT</pubDate>
     </item>
     <item>
       <title>gapflow.io</title>
@@ -184,6 +172,18 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/vocao-ai</guid>
       <pubDate>Sun, 09 Mar 2025 08:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>目的写</title>
+      <link>https://www.producthunt.com/posts/purposewrite</link>
+      <description><![CDATA[
+            写高质量的内容 - 与您的目标受众共鸣
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/purposewrite</guid>
+      <pubDate>Sat, 08 Feb 2025 08:18:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
