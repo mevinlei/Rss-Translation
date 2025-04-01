@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>产品狩猎 - 每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Mar 2025 21:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:57:27 GMT</lastBuildDate>
     <item>
       <title>dockflow</title>
       <link>https://www.producthunt.com/posts/dockflow</link>
@@ -30,6 +30,18 @@
       <pubDate>Sat, 29 Mar 2025 22:45:46 GMT</pubDate>
     </item>
     <item>
+      <title>雨天2.0</title>
+      <link>https://www.producthunt.com/posts/rainy-skies-2-0</link>
+      <description><![CDATA[
+            您的天气应用程序，现在使用Radar和Apple Watch应用程序
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/rainy-skies-2-0</guid>
+      <pubDate>Sat, 29 Mar 2025 18:44:59 GMT</pubDate>
+    </item>
+    <item>
       <title>点</title>
       <link>https://www.producthunt.com/posts/openspot-3</link>
       <description><![CDATA[
@@ -48,22 +60,10 @@
             停止使用自定义过滤器的垃圾邮件提交。
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/formsanitizer</guid>
       <pubDate>Sat, 29 Mar 2025 13:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>React电子邮件4.0</title>
-      <link>https://www.producthunt.com/posts/react-email-4-0</link>
-      <description><![CDATA[
-            全新的工具集，以帮助您构建更好的电子邮件
-          
-
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/react-email-4-0</guid>
-      <pubDate>Sat, 29 Mar 2025 11:04:05 GMT</pubDate>
     </item>
     <item>
       <title>Sindo</title>
@@ -72,7 +72,7 @@
             轻松的AI驱动推荐：收集，管理和分享
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/sindo</guid>
       <pubDate>Sat, 29 Mar 2025 08:40:37 GMT</pubDate>
@@ -96,7 +96,7 @@
             将数据导入概念的更快，更聪明的方法
           
 
- link 
+链接
 ]]></description>
       <guid>https://www.producthunt.com/posts/spaceloadr</guid>
       <pubDate>Sat, 29 Mar 2025 03:03:54 GMT</pubDate>
@@ -132,7 +132,7 @@
             您要付多少钱？
           
 
-链接
+ link 
 ]]></description>
       <guid>https://www.producthunt.com/posts/purposeful-poop</guid>
       <pubDate>Thu, 27 Mar 2025 18:31:55 GMT</pubDate>
