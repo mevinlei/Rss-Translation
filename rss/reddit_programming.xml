@@ -4,111 +4,111 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 13 Mar 2025 21:10:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 15:11:56 GMT</lastBuildDate>
     <item>
-      <title>迷你编辑器v0.8.0a-改进的文件加载时间并添加了查找功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1jamny2/mini_editor_v080a_improved_file_load_times_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/armard_chip_5729       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jamny2/mini_editor_v080a_improved_file_load_times_and/</guid>
-      <pubDate>Thu, 13 Mar 2025 21:02:01 GMT</pubDate>
+      <title>NASA API集成的实时小行星事件跟踪</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrdz46/live_asteroid_event_tracking_with_nasa_api/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  用哨兵间谍卫星模拟器-NASA API Edition命令您自己的虚拟间谍卫星命令！这种基于Python的互动模拟使您进入了高科技轨道天文台的飞行员席位，将实时NASA数据与沉浸式ASCII艺术体验融合在一起。该工具由NASA的开放式API（史诗和Neows）提供支持，可获取活地球图像协调和小行星接近警报，将它们无缝地合并到动态的卫星控制界面中。 。 经度和时间戳，以及近地对象事件的Neows API。 •交互式仿真：通过实时命令（扫描扇区，传输数据或修复系统）控制卫星（s，d，d，c，c，t，r，q）。 •动态事件：遇到诸如碎屑场或小行星警报（带有实际的NEO数据）之类的随机空间危害，需要快速的决策才能逃避或拦截。 •ASCII艺术展示：在复古风格的ASCII艺术中观看卫星动画，视觉状态反映了健康，扫描，传播或维修。 •持久状态：跟踪您的卫星的健康，太阳能，收集的数据以及完成的会话之间保存的任务。 功能： •nasa api集成：使用NASA API键（或随附的演示键）以强大的折叠式数据（如果是强大的shortemet theremet telemet telemet telemetrane）（如果naSa api键），则extline（如果是sim eftline）（如果n. eftline）（如果是n. eftline）（eve n n simage eftline 303）错误）。 •声音效果：可选的pygame音频用于启动，事件，扫描和传输（需要声音文件：boot.wav，event.wav，scan.wav，scan.wav，trans.wav，trans.wav）。 •跨平台在Windows，macOs，macOS，macOS，macOs，macOs comport of linux，linux prolies prolies prolies prolies prolies prolies pys and pyg •可自定义：调整框架速度，对卫星的日志任务和调整太阳能再生速率。 •教育＆amp;有趣的是：非常适合想要交互性探索NASA数据的太空爱好者，编码人员或教育者。 如何使用：  安装Python和必需的库（PIP安装请求Pygame Colorama）。  Add your NASA API key (get one free at api.nasa.gov) or use the fallback mode. Run the script, by putting satellite_animation.py on desktop then run in terminal cd ~/Desktop hit enter then run python3 satellite_animation.py  Whether you’re a developer curious about APIs, a space Geek Dreaming of Orbit，或者是寻找一个独特项目的创建者，该模拟器提供了世界外的经验。立即下载并将您的卫星启动到Cosmos！ 注意：包括完整的源代码（Python）和设置说明。声音文件单独出售或创建自己的声音文件。通过Gumroad消息包含支持 - 如果NASA的服务器很难获得！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Holy_era   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrdz46/live_asteroid_event_tracking_with_nasa_api/</guid>
+      <pubDate>Fri, 04 Apr 2025 14:59:57 GMT</pubDate>
     </item>
     <item>
-      <title>任何人都知道如何增加XAMPP控制面板的大小</title>
-      <link>https://www.reddit.com/r/programming/comments/1jalxhi/anyone_knows_how_to_increase_size_of_xampp/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/hannahlenks       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jalxhi/anyone_knows_how_to_increase_size_of_xampp/</guid>
-      <pubDate>Thu, 13 Mar 2025 20:31:01 GMT</pubDate>
+      <title>Bazel，Scons，Ninja或Make的开销最低和最快的速度吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrdb9n/does_bazel_scons_ninja_or_make_have_the_lowest/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请注意，我只是代表 *我的朋友，他尚未创建Reddit帐户。我建议：如果您有任何想法要分享，请通过Github与我的朋友交流（请参阅链接URL）。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/giang-monk-177     &lt;a href =“ https://www.reddit.com/r/programming/comments/1jrdb9n/1jrdb9n/does_bazel_scons_scons_ninja_or_make_make_make_have_have_the_lowowest/]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrdb9n/does_bazel_scons_ninja_or_make_have_the_lowest/</guid>
+      <pubDate>Fri, 04 Apr 2025 14:31:35 GMT</pubDate>
     </item>
     <item>
-      <title>Delphi中的内存腐败</title>
-      <link>https://www.reddit.com/r/programming/comments/1jalr13/memory_corruption_in_delphi/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/usperec       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jalr13/memory_corruption_in_delphi/</guid>
-      <pubDate>Thu, 13 Mar 2025 20:23:18 GMT</pubDate>
+      <title>IBM的表现要优于Openai？ 50个LLM测试显示</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrc4x4/ibm_outperforms_openai_what_50_llm_tests_revealed/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ally_piccolo5736       [link]     32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrc4x4/ibm_outperforms_openai_what_50_llm_tests_revealed/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:40:06 GMT</pubDate>
     </item>
     <item>
-      <title>Python Tkinter ListBox-了解如何使用TKINTER LISTBOX窗口小部件显示项目列表。</title>
-      <link>https://www.reddit.com/r/programming/comments/1jalqtc/python_tkinter_listbox_learn_how_to_use_the/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/analyst-rehmat      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jalqtc/python_tkinter_listbox_learn_how_to_use_the/</guid>
-      <pubDate>Thu, 13 Mar 2025 20:23:04 GMT</pubDate>
+      <title>AI 2027</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrc365/ai_2027/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/iamkeyur      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrc365/ai_2027/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>设计和实施分布式流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1jajpg7/designing_and_implementing_distributed_processes/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/Adventurous-salt8514      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jajpg7/designing_and_implementing_distributed_processes/</guid>
-      <pubDate>Thu, 13 Mar 2025 18:57:49 GMT</pubDate>
+      <title>从头开始构建8位计算机</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrc228/build_an_8bit_computer_from_scratch/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/iamkeyur      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrc228/build_an_8bit_computer_from_scratch/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:36:19 GMT</pubDate>
     </item>
     <item>
-      <title>儿童ARP |稻草黑客</title>
-      <link>https://www.reddit.com/r/programming/comments/1jajgkp/arp_for_kids_strawhat_hackers/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.strawhathackers.com/2025/03/arp%20for%20kids%20%20%20ME20ME20ME20NETWORKING.HTML”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jajgkp/arp_for_kids_strawhat_hackers/</guid>
-      <pubDate>Thu, 13 Mar 2025 18:47:21 GMT</pubDate>
+      <title>重播的下一步</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrbx23/whats_next_for_rerun/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  重播似乎对机器人工具和现代机器学习管道有希望。 我个人希望他们运气，因为有些初创公司一直在这个利基（     &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/web3writer     link link&gt; link link&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrbx23/whats_next_for_rerun/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:29:59 GMT</pubDate>
     </item>
     <item>
-      <title>为什么您的“和谐”团队实际上失败了</title>
-      <link>https://www.reddit.com/r/programming/comments/1jahlkh/why_your_harmonious_team_is_actually_failing/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://terriblesoftware.org/2025/03/12/why-your-harmonious-team-is-is-actally-failing/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jahlkh/why_your_harmonious_team_is_actually_failing/</guid>
-      <pubDate>Thu, 13 Mar 2025 17:30:53 GMT</pubDate>
+      <title>沿着记忆巷的旅行：当Pprof使我们失败时，我们如何解决内存泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrbr5r/a_trip_down_memory_lane_how_we_resolved_a_memory/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/warpstream_official     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrbr5r/a_trip_down_memory_lane_how_we_resolved_a_memory/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:22:30 GMT</pubDate>
     </item>
     <item>
-      <title>XATA代理：PostgreSQL的开源AI代理专家</title>
-      <link>https://www.reddit.com/r/programming/comments/1jahipt/xata_agent_opensource_ai_agent_expert_in/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/tgeisenberg       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jahipt/xata_agent_opensource_ai_agent_expert_in/</guid>
-      <pubDate>Thu, 13 Mar 2025 17:27:37 GMT</pubDate>
+      <title>编程我的电子商务应用程序以发送自定义指标[OPENTELEMETRY]</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrbdqn/programming_my_ecommerce_app_to_send_custom/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经成为默认/基础设备的用户了一段时间。最近，为了工作，当我试图围绕OpentElemetry缠住头脑时，我开始使用自定义指标。使用一个简单的电子商务应用程序进行实验和玩法。  几个见解，   - 获得量身定制数据的能力。例如，在某个时间点离开中学，平均购物中心大小的用户数量。    - 我与烧瓶一起工作，仪器是一个平稳的过程。使用 OPENTELEMETRY-SDK 和 opentelemetry-api 来手动仪器仪器。虽然OpentElemetry确实为烧瓶提供了自动启示，但我需要在业务逻辑中进行自定义的度量，因此选择了手动设置。    - 我使用了Signoz进行可视化，这对于自定义指标的额外费用与其他某些平台不同。  我已经在博客中指出了我的发现和一些示例（带代码），如果你们还使用自定义指标或有计划尝试！   [免责声明 - 我在signoz上工作]  也很酷，如果您可以告诉我如何为任何项目/工作实施自定义指标？提交由＆＃32;  /u/Fancy_Rooster1628   [link] ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrbdqn/programming_my_ecommerce_app_to_send_custom/</guid>
+      <pubDate>Fri, 04 Apr 2025 13:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>雷声 -  GO GRPC -GATEWAY驱动框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1jagyyt/thunder_go_grpcgateway_powered_framework/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/no_expert_5059       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jagyyt/thunder_go_grpcgateway_powered_framework/</guid>
-      <pubDate>Thu, 13 Mar 2025 17:05:57 GMT</pubDate>
+      <title>在JS中学习Promise。</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrb8tg/learn_promiseall_in_js/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我总是找到Promise。起初有点混淆。，我也写了一篇文章来简化其他文章。检查它＆amp; let me know your thoughts  https://medium.com/@homiesdixit/what-is-promise-all-46ea0f38d76f &lt;!-- SC_ON - &gt;＆＃32;提交由＆＃32; /u/u/u/bobthebuilder9991999       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrb8tg/learn_promiseall_in_js/</guid>
+      <pubDate>Fri, 04 Apr 2025 12:58:21 GMT</pubDate>
     </item>
     <item>
-      <title>使用Spring AI -Piotr的TechBlog使用工具通话</title>
-      <link>https://www.reddit.com/r/programming/comments/1jafo61/tool_calling_with_spring_ai_piotrs_techblog/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/piotr_minkowski     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jafo61/tool_calling_with_spring_ai_piotrs_techblog/</guid>
-      <pubDate>Thu, 13 Mar 2025 16:12:28 GMT</pubDate>
+      <title>刚刚发起了我的第一个聚会</title>
+      <link>https://www.reddit.com/r/programming/comments/1jrall0/just_launched_my_first_ever_party/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  怪异的饮酒，我希望您检查一下！这是一个简单而有趣的派对游戏，充满了辛辣的问题和大胆的挑战。 我知道这不是那里最复杂的游戏，但我相信它可以很有趣。如果您喜欢喝游戏，请尝试一下，让我知道您的想法！ 很想听听您的想法，建议，甚至为未来的更新提供想法！干杯! 🍻  ＆＃32;提交由＆＃32;  /u/BigNew3441   [link] ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jrall0/just_launched_my_first_ever_party/</guid>
+      <pubDate>Fri, 04 Apr 2025 12:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>案例研究：AAA游戏发布的10倍CouchDB性能提高</title>
-      <link>https://www.reddit.com/r/programming/comments/1jafguq/case_study_10x_couchdb_performance_gains_for_a/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/breweddoritos     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jafguq/case_study_10x_couchdb_performance_gains_for_a/</guid>
-      <pubDate>Thu, 13 Mar 2025 16:03:42 GMT</pubDate>
+      <title>引入KREP：现代开发人员的闪电般的图案匹配</title>
+      <link>https://www.reddit.com/r/programming/comments/1jra9y0/introducing_krep_lightningfast_pattern_matching/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴与大家分享我的最新项目： krep ，这是一种非常快速的模式匹配工具，在许多情况下，均超过了传统的替代方案。我进行了一个简单的测试，以搜索模式“ 11”。在包含1000万顺序数字的文件中：  ＃用1000万个数字seq 1 10000000＆gt生成测试文件。 /tmp/x＃用krep Time测试（SEQ 1 10000000＆gt;/tmp/x＆amp;＆amp; krep -o&#39;11&#39;/tmp/x）| wc -l 372810 ( seq 1 10000000 &gt; /tmp/x &amp;&amp; krep -o &#39;11&#39; /tmp/x; ) 0.25s user 0.01s system 18% cpu 1.416 total wc -l 0.00s user 0.00s system 0% cpu 1.415 total # Test with grep time (seq 1 10000000 &gt; /tmp/x ＆amp;＆amp; grep -o&#39;11&#39; /tmp /x）| wc -l 372810 ( seq 1 10000000 &gt; /tmp/x &amp;&amp; grep --color=auto -o &#39;11&#39; /tmp/x; ) 0.89s user 0.01s system 41% cpu 2.203 total wc -l 0.00s user 0.00s system 0% cpu 2.202 total # Test with ripgrep time (seq 1 10000000 &gt; /tmp /x＆amp;＆amp; ripgrep -o&#39;11&#39; /tmp /x）| WC -L 372810（Seq 1 10000000＆gt;/tmp/x＆amp; amp; amp; ampgrep -o&#39;11&#39;/tmp/x;）1.10S用户0.04S System 98％CPU 1.167总wc -l 0.00S USES 0.00S用户0.00S System 0％CPU 1％CPU 1.165总代码  krep ：0.25s用户时间（总计1.416s）    grep ：0.89S用户时间（总计2.203s）    ripgrep  ripgrep  ：1.10s用户时间（1.167s总数）  3.5x比GREP快3.5倍在此特定工作负载的用户CPU时间方面，比RIPGREP更快。 为什么我构建了krep  为什么在使用大型代码库和数据文件工作后，我一直在等待搜索操作来完成搜索操作。 GREP等传统工具虽然可靠，但并未针对现代计算需求和数据量进行优化。甚至像Ripgrep这样的新替代方案虽然在许多方面都很棒，但仍然有改进的余地。  krep是从头到头构建的，其性能是主要目标，使用现代算法方法和优化技术，可以比以往任何时候都更快地提供结果。  ememation。替代方案  熟悉的界面：使用类似的标志和模式来轻松采用   低资源用法：即使使用大文件     cross-platform 即使在Linux，MacOS，MacOs，Mac，unix-lik-lik/lik-like 中 在什么是下一个 这只是KREP的开始。 I&#39;m actively working on additional features including:  Extended regex support Parallel file processing for even better performance Directory recursion optimizations Configuration profiles for different use cases  Try It Yourself I&#39;d love to hear your experiences with krep and how it performs in your specific use cases.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/davidesantangelo       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jra9y0/introducing_krep_lightningfast_pattern_matching/</guid>
+      <pubDate>Fri, 04 Apr 2025 12:08:30 GMT</pubDate>
     </item>
     <item>
-      <title>AI创新者的困境</title>
-      <link>https://www.reddit.com/r/programming/comments/1jaf2cd/ai_innovators_dilemma/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/shared_ptr      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jaf2cd/ai_innovators_dilemma/</guid>
-      <pubDate>Thu, 13 Mar 2025 15:46:57 GMT</pubDate>
+      <title>Adnauseam是进一步进一步的大小叉子：它通过自动点击每个广告来积极攻击营销人员</title>
+      <link>https://www.reddit.com/r/programming/comments/1jr9cyt/adnauseam_is_a_ublock_fork_that_goes_further_it/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/i-t-t-t-i     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jr9cyt/adnauseam_is_a_ublock_fork_that_goes_further_it/</guid>
+      <pubDate>Fri, 04 Apr 2025 11:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>作为工程师，我宁愿被称为愚蠢，也不愿保持沉默</title>
-      <link>https://www.reddit.com/r/programming/comments/1jad06r/as_an_engineer_id_rather_be_called_stupid_than/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/shift_devs   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jad06r/as_an_engineer_id_rather_be_called_stupid_than/</guid>
-      <pubDate>Thu, 13 Mar 2025 14:17:43 GMT</pubDate>
+      <title>使用NVIDIA BREV在自定义数据集上进行微调Llava</title>
+      <link>https://www.reddit.com/r/programming/comments/1jr931k/finetune_llava_on_custom_datasets_using_nvidia/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  几个月前，我发现 nvidia breve ，对于我们这些人来说，这是一个超级有用的资源。 Brev allows you to connect to a variety of cloud GPUs from your own computer. They have some coding tutorials on what can be done by connecting to these GPUs, however, these tutorials are not regularly updated. I began working on their LLaVA YouTube上的微调教程不幸的是，由于依赖性问题，GPU记忆问题等。提交由＆＃32;态href =“ https://medium.com/@tesswatt/fine-tune-llava-on-custom-dataset-using-nvidia-brev-c2b720b88888888888802”&gt; [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jr931k/finetune_llava_on_custom_datasets_using_nvidia/</guid>
+      <pubDate>Fri, 04 Apr 2025 10:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>Gunnar Morling在技术博客上</title>
-      <link>https://www.reddit.com/r/programming/comments/1jacd72/gunnar_morling_on_technical_blogging/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/swdevtest      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jacd72/gunnar_morling_on_technical_blogging/</guid>
-      <pubDate>Thu, 13 Mar 2025 13:48:15 GMT</pubDate>
+      <title>让我们做游戏吧！ 248：关键字</title>
+      <link>https://www.reddit.com/r/programming/comments/1jr8q3t/lets_make_a_game_248_keywords/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jr8q3t/lets_make_a_game_248_keywords/</guid>
+      <pubDate>Fri, 04 Apr 2025 10:33:46 GMT</pubDate>
     </item>
     <item>
-      <title>优化云本地Java•Ben Evans和Holly Cummins</title>
-      <link>https://www.reddit.com/r/programming/comments/1jablil/optimizing_cloud_native_java_ben_evans_holly/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1jablil/optimizing_cloud_native_java_ben_evans_holly/</guid>
-      <pubDate>Thu, 13 Mar 2025 13:10:44 GMT</pubDate>
+      <title>AI将如何影响工程经理</title>
+      <link>https://www.reddit.com/r/programming/comments/1jr8cuu/how_will_ai_affect_engineering_managers/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kabra ___ kiiiiiiiid      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1jr8cuu/how_will_ai_affect_engineering_managers/</guid>
+      <pubDate>Fri, 04 Apr 2025 10:08:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
