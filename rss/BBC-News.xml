@@ -4,13 +4,27 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 04 Apr 2025 00:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 03:28:05 GMT</lastBuildDate>
+    <item>
+      <title>“我可以活了30年 - 但想死亡”：在加拿大死亡的协助太远了吗？</title>
+      <link>https://www.bbc.com/news/articles/c3wxq28znpqo</link>
+      <description><![CDATA[BBC新闻报道有关加拿大辅助死亡的报道，有人说现在选择死去比获得支持更容易]]></description>
+      <guid>https://www.bbc.com/news/articles/c3wxq28znpqo</guid>
+      <pubDate>Fri, 04 Apr 2025 01:24:38 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的关税触发了自2020年以来最陡峭的美国股票下降，欧盟发誓要回击</title>
       <link>https://www.bbc.com/news/articles/cly1g63x7q8o</link>
       <description><![CDATA[耐克和苹果是最糟糕的品牌之一，但特朗普认为美国经济最终将“繁荣”。]]></description>
       <guid>https://www.bbc.com/news/articles/cly1g63x7q8o</guid>
-      <pubDate>Fri, 04 Apr 2025 00:12:42 GMT</pubDate>
+      <pubDate>Fri, 04 Apr 2025 00:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>在战争削弱群体中打击后，在十字路口的真主党</title>
+      <link>https://www.bbc.com/news/articles/cy48l4wk7mko</link>
+      <description><![CDATA[英国广播公司的雨果·巴切加（Hugo Bachega）探索了以色列毁灭性袭击后真主党的未来。]]></description>
+      <guid>https://www.bbc.com/news/articles/cy48l4wk7mko</guid>
+      <pubDate>Fri, 04 Apr 2025 00:49:32 GMT</pubDate>
     </item>
     <item>
       <title>卡蒂亚·阿德勒（Katya Adler）：欧盟将如何应对唐纳德·特朗普的关税？</title>
@@ -18,6 +32,13 @@
       <description><![CDATA[欧盟拥有巨大的经济影响力，是世界上最大的单一市场，但不想冒险冒险。]]></description>
       <guid>https://www.bbc.com/news/articles/c24q5jqyle0o</guid>
       <pubDate>Thu, 03 Apr 2025 23:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lush和Kwik Fit警告税率上升将提高价格</title>
+      <link>https://www.bbc.com/news/articles/cwyn98nkgpzo</link>
+      <description><![CDATA[这些品牌警告说，雇主国家保险捐款的影响上升，这些捐款在周日开始。]]></description>
+      <guid>https://www.bbc.com/news/articles/cwyn98nkgpzo</guid>
+      <pubDate>Thu, 03 Apr 2025 23:11:02 GMT</pubDate>
     </item>
     <item>
       <title>船东在北海坠机事故中采取法律行动</title>
@@ -69,13 +90,6 @@
       <pubDate>Thu, 03 Apr 2025 17:25:24 GMT</pubDate>
     </item>
     <item>
-      <title>女人在管子上打孔“因紧急系统失败”</title>
-      <link>https://www.bbc.com/news/articles/cx2yd15xpn5o</link>
-      <description><![CDATA[莎莉·怀特特（Sally Wynter）说，她在遭到攻击后几次点击紧急按钮，但没有得到答案。]]></description>
-      <guid>https://www.bbc.com/news/articles/cx2yd15xpn5o</guid>
-      <pubDate>Thu, 03 Apr 2025 17:14:59 GMT</pubDate>
-    </item>
-    <item>
       <title>iPhone，退休金和英国退欧：您对关税的问题</title>
       <link>https://www.bbc.com/news/articles/c5y5rzvd5k7o</link>
       <description><![CDATA[唐纳德·特朗普（Donald Trump）以10％的基准关税拍打世界上的大部分地区，而其他人则面临更高的利率。我们的通讯员回答您的问题。]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[慈善委员会已在他共同创立的Sentebale慈善机构开始调查纠纷。]]></description>
       <guid>https://www.bbc.com/news/articles/c1lmggp7de8o</guid>
       <pubDate>Thu, 03 Apr 2025 13:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国的一部分将在周五比阿尔加维热</title>
-      <link>https://www.bbc.com/news/articles/c3wxq32e1yyo</link>
-      <description><![CDATA[预计温暖，明亮的条件，但会引起有关野火的警告。]]></description>
-      <guid>https://www.bbc.com/news/articles/c3wxq32e1yyo</guid>
-      <pubDate>Thu, 03 Apr 2025 10:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国夫妇在法国的死亡被视为谋杀</title>
-      <link>https://www.bbc.com/news/articles/c98gemml1y5o</link>
-      <description><![CDATA[以前住在东洛锡安（East Lothian）的安德鲁（Andrew）和黎明·塞尔（Dawn Searle）的尸体被发现在图卢兹附近的家中。]]></description>
-      <guid>https://www.bbc.com/news/articles/c98gemml1y5o</guid>
-      <pubDate>Thu, 03 Apr 2025 09:46:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
