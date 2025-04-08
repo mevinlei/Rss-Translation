@@ -4,11 +4,25 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 08 Apr 2025 03:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 09:13:18 GMT</lastBuildDate>
+    <item>
+      <title>这些是我为CS2编码的宏/配置，我想我会在这里分享它，看看你们所有人的想法或如何改进它:)</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ju8rd4/these_are_macrosconfigs_i_coded_myself_for_cs2/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  （开放量） (release) https://github.com/G-h-o-s-t-1/CS2-Configs--and--Ahk-Macros/releases/tag/V1  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dapper-reference2077     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ju8rd4/1ju8rd4/these_are_are_macrosconfigs_i_coded_myself_myself_myself_for_for_for_cs2/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ju8rd4/these_are_macrosconfigs_i_coded_myself_for_cs2/</guid>
+      <pubDate>Tue, 08 Apr 2025 08:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议：我正在建立HubSpot＆Zoho的开源替代方案，并在下面的问题上需要建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ju4hqy/seeking_advice_im_building_an_opensource/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个大型开源Web应用程序，可以替代Zoho和HubSpot。我仅在一个星期内完成了CRM功能（仅限前端），所以现在我需要您在这些问题上的建议。  您在开发过程中建议采用哪些方法来营销该方法？ - （因为这个项目确实很大，我给它至少要完成了1年的时间，所以我需要在今年的营销方面取得任何进展）  - ＆gt; The most important question. If this project is completed, do you believe it will succeed (based on your personal opinion) ? Do you have any further advice ?  NOTES: Btw, I will also offer this project as a SaaS option if the user chooses not to use it locally. Tech Stack used: T3 Stack (Next JS，TRPC等。） 项目： https://github.com/opensyte/opensyte/opensyte/opensyte 提交由＆＃32; /u/u/dagermohamed2     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ju4hqy/seeking_advice_im_building_an_opensource/</guid>
+      <pubDate>Tue, 08 Apr 2025 03:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>升级预算游戏：SparkyBudget更新 +您的愿望清单</title>
       <link>https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_budgeting_game_sparkybudget_update/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！好消息！我添加了您要求的许多图表功能！ 您会在“历史趋势”表下找到它们。以下是一个快速的分解：   薪水趋势：请参阅您的收入随着时间的变化。     收入与预算与预算与费用：可视化您每月保持预算的能力。返回。  按月按最高类别：快速查看您的钱每个月的去向。  我将在未来几天添加更多可视化。我想确保我专注于最有用的功能。 我目前正在考虑这些下一步：    电子邮件警报：在预算超出预算，获得每周的费用摘要以及更多。储蓄目标：设定财务目标并跟踪您的进度。  多货币支持：在不同货币中跟踪预算和支出。     ai驱动的聊天：与您的预算聊天＆amp＆amp＆amp; expenses to get personalized insights. Partner Collaboration: Shared and private accounts for couples to budget together.  So, I&#39;d love to hear from you: Which of these features would be most helpful for you right now, and what other key challenges do you face in budgeting that you&#39;d like to see solved with data可视化？ 您可以查看该应用程序，甚至可以在此处进行贡献： https://github.com/codewithub.com/codewithcj/sparkybudget 提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！好消息！我添加了您要求的许多图表功能！ 您会在“历史趋势”表下找到它们。以下是一个快速的分解：   薪金趋势：请参阅您的收入随着时间的变化。     收入与预算与预算与费用：可视化您每月保持预算的状态。返回。  按月按最高类别：快速查看您的钱每个月的去向。  我将在未来几天添加更多可视化。我想确保我专注于最有用的功能。 我目前正在考虑这些下一步：    电子邮件警报：在预算超出预算，获得每周的费用摘要以及更多。储蓄目标：设定财务目标并跟踪您的进度。  多货币支持：在不同货币中跟踪预算和支出。     ai驱动的聊天：与您的预算聊天＆amp＆amp＆amp; expenses to get personalized insights. Partner Collaboration: Shared and private accounts for couples to budget together.  So, I&#39;d love to hear from you: Which of these features would be most helpful for you right now, and what other key challenges do you face in budgeting that you&#39;d like to see solved with data可视化？ 您可以查看该应用程序，甚至可以在此处进行贡献： https://github.com/codewithub.com/codewithcj/sparkybudget 提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_your_budgeting_game_game_sparkybudget_update/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ju3qpc/level_up_your_budgeting_game_sparkybudget_update/</guid>
       <pubDate>Tue, 08 Apr 2025 03:02:45 GMT</pubDate>
     </item>
@@ -25,13 +39,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/throwaway16830261     [link]   ＆＃32;  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jtxyos/using_a_tar_archive_with_mkfsext4_d_to_populate/</guid>
       <pubDate>Mon, 07 Apr 2025 22:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否仍然每次Google小型开发工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_google_small_dev_tools_every_time/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我昨天正在清理快速的API响应，需要格式化JSON，解码base64字符串并进行哈希内容。没什么花哨的，但是我抓住了自己像四个不同的网站一样开放。 这让我想知道……为什么我们没有更多的地方将这些东西结合在一起？ 我找到了 对我来说使事情变得更加顺利 - 好奇别人如何处理这种事情。您只是继续谷歌搜索每个工具还是拥有一个首选网站？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/roughowll    href =“ https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_still_google_small_small_dev_tools_every_time/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jtx27u/do_you_still_google_small_dev_tools_every_time/</guid>
-      <pubDate>Mon, 07 Apr 2025 21:36:56 GMT</pubDate>
     </item>
     <item>
       <title>好的开源字幕/字幕AI？</title>
@@ -55,16 +62,9 @@
       <pubDate>Mon, 07 Apr 2025 19:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>我的Foss工具在GitHub上达到了300星</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jttlku/my_foss_tool_reached_300_stars_on_github/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我为网络安全防御者创建了一个网络安全工具（它是免费的和开源的）。由于这个项目变得严肃起来（Github上的300多颗明星），所以我想谈论它传播这个词：） 进行得很好，以至于有人问我是否可以赞助该项目，我拒绝了，因为我认为回馈社区很重要，这不是一个编码良好的项目。  我希望它对网络安全调查有帮助，或者如果您很好奇。  项目的目标：分析电子邮件地址，域，IP，URL，哈希或Chrome扩展ID具有不同的威胁智能源，并在报告中获取总体信息。  它从WHOIS记录到InfoStealers检查。  我使用多个免费的API，例如Virustotal，Urlscan，Hudson Rock，thrantfox，Ipquery ...（有20个可用来源）。  随时检查回购： https://github.com/stanfrbd/cyberbro/   href =“ https://demo.cyberbro.net/”&gt; https://demo.cyberbro.net/    如果您觉得有用，或者如果您觉得有用，或者如果您对代码有任何问题，或者对代码的建议很清晰，我就不会对任何反馈表示赞赏（我真的不是一个很好的开发者）。  祝您有美好的一天，感谢您阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stan_frbd     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jttlku/my_foss_tool_reached_300_stars_on_github/</guid>
-      <pubDate>Mon, 07 Apr 2025 19:14:34 GMT</pubDate>
-    </item>
-    <item>
       <title>Ember Link-开源SDK用于将协作添加到任何应用</title>
       <link>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去几个月中一直在构建一个名为ember链接的开源项目。这是一种用于将实时协作添加到您的Web应用程序中的工具包，例如Live-Live-Offication，例如用户之间的启示，用户之间的消息，以及与CRDTS共享。思考Google文档风格的同步，但是您可以放入自己的应用程序中。听起来很有用，请随时查看： https：//docs.emberlink.io  会喜欢任何反馈或想法！提交由＆＃32; /u/shursaz     [link]       [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去几个月中一直在构建一个名为ember链接的开源项目。这是一种用于将实时协作添加到您的Web应用程序中的工具包，例如Live-Live-Offication，例如用户之间的启示，用户之间的消息，以及与CRDTS共享。思考Google文档风格的同步，但是您可以放入自己的应用程序中。听起来很有用，请随时检查一下： https：//docs.emberlink.io  会喜欢任何反馈或想法！提交由＆＃32; /u/shursaz     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jtsbf8/ember_link_open_source_sdk_for_adding/</guid>
       <pubDate>Mon, 07 Apr 2025 18:22:48 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>DoCext：由视觉模型提供支持的开源，本地文档智能</title>
       <link>https://www.reddit.com/r/opensource/comments/1jtliho/docext_opensource_onprem_document_intelligence/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们很高兴开放源 docext ，一种零o的内部，本地工具，用于从发票，护照，没有云等文档中提取结构化数据 - 无需外部apis，不需要外部apis，不需要 by  by  verthy  docext 在视觉和语义上了解文档以提取字段数据和表格 - 直接从文档图像中。 全部运行它，以全部运行，以进行完整的数据隐私和控制。   关键功能：    custom＆amp;预构建的提取模板 表 +现场数据提取  gradio-power-power Web界面 与REST API  多页文档支持 置信度得分 用于提取字段的置信得分                 docext 帮助您在几分钟内将它们变成可用的数据。尝试一下：     pip install docext 或通过docker  用 python -m code&gt;   旋转Web UI href =“ https://github.com/nanonets/docext”&gt;  docext.app.app.app.app.app      github： https://github.com/nanonets/docext/docext  问题？功能请求？打开问题或开始讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/souvikmandal     [link]       [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们很高兴开放源 docext ，一种零o的内部，本地工具，用于从发票，护照等文档中提取结构化数据，诸如云，无云，无需外部apis，不需要外部apis， by  by   docext 在视觉和语义上了解文档以提取字段数据和表格 - 直接从文档图像中。 全部运行它，以全部运行，以进行完整的数据隐私和控制。   关键功能：    custom＆amp;预构建的提取模板 表 +现场数据提取  gradio-power-power Web界面 与REST API  多页文档支持 置信度得分 用于提取字段的置信得分                 docext 帮助您在几分钟内将它们变成可用的数据。尝试一下：     pip install docext 或通过docker  用 python -m code&gt;   旋转Web UI href =“ https://github.com/nanonets/docext”&gt;  docext.app.app.app.app.app      github： https://github.com/nanonets/docext/docext  问题？功能请求？打开问题或开始讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/souvikmandal     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jtliho/docext_opensource_onprem_document_intelligence/</guid>
       <pubDate>Mon, 07 Apr 2025 13:41:28 GMT</pubDate>
     </item>
