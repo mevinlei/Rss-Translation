@@ -4,7 +4,7 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 10 Apr 2025 00:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 03:29:33 GMT</lastBuildDate>
     <item>
       <title>JS Confuser-我制作的一种开源JavaScript混淆工具！在这里查看此现场演示</title>
       <link>https://www.reddit.com/r/opensource/comments/1jvlbui/js_confuser_an_opensource_javascript_obfuscation/</link>
@@ -46,13 +46,6 @@
       <description><![CDATA[    src =“ https://external-preview.redd.it/ffl7tsol2xlo14kku1vszi_f0av68k_m3loie2gropi.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = e0f4868f166b1e795b2274fb4509fb4509fa3346fd73e0“ title =“您的应用程序的Instant Admin面板。将其设置，连接到您的数据库，并在几分钟内部署”/&gt;   ＆＃32;提交由＆＃32; /u/qwerty927261613        [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jv8d23/instant_admin_panel_for_your_app_set_it_up/</guid>
       <pubDate>Wed, 09 Apr 2025 15:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI记事本会议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jv6jg6/ai_notepad_for_meetings/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/beerbellyman4vr       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jv6jg6/ai_notepad_for_meetings/</guid>
-      <pubDate>Wed, 09 Apr 2025 14:02:29 GMT</pubDate>
     </item>
     <item>
       <title>2025年第一季度Xwiki的新功能</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[Hey r/OpenSource! I’d like to share OpenNutrition: a fully open, ODbL-licensed nutrition database covering thousands of generic foods, popular US restaurant items,和品牌杂货产品。我之所以建立此原因是因为这么多现有的免费数据库感到不完整或付费，尤其是在详细的微量营养素或餐厅的覆盖范围时。 为什么要开放式营养不良？深度： OpenNutrition从USDA，Ausnut，Frida，CNF和其他知名的开放数据源（例如开放式食品事实）中汲取灵感，以形成一个基础，然后在典型数据源不足的情况下扩大覆盖范围。其中包括约50个美国主要餐厅连锁店的食物和饮料。空白。我的理念是，坚实的近似通常比“未知”更有帮助，尤其是当您试图记录摄入量时。目前，这适用于通用，准备和餐厅食品，并且正在进行更多的品牌产品。  真正开放的数据：在ODBL许可下发布，因此您可以下载，适应或商业化，只要您保持开放并使用适当的属性。这类似于OpenFoodFacts和OpenStreetMap处理许可。  如何尝试       search＆amp;探索：  opennutrition.app/search      下载： Methodology/About: opennutrition.app/about Feedback: The best way to report errors or suggest improvements is via the site’s Feedback links—I review everything personally.  Optional Companion App   有一个免费的iOS应用程序，可捆绑数据库，提供条形码/图像扫描以快速记录，并提供宏观跟踪和饮食建议。该应用程序在开源项目中也起着重要的作用：如果您在数据集外搜索搜索，则该应用程序的食物搜索能够自动导入新食物，并且随着时间的推移，这些食物会添加回开源数据集中。如果您很好奇，只需在App Store上搜索 OpenNutrition 即可。付费层有助于资助进一步的数据覆盖范围，但使用或付款是完全可选的；数据本身保持自由和开放。  关于我的  我是业余的举重运动员和长期体重减轻的维护者，他花了多年的时间手动记录了宏。退出之前的启动后，我有时间和资源可以做一个更好的打开数据集。我真的认为，应将其准确，可访问的营养数据视为一种公共利益，以及使其更有用和有见地的工具。  如果您有想法或反馈（无论是准确性，许可详细信息或功能想法），我很喜欢听到他们的声音！感谢您检查项目。提交由＆＃32; /u/thankwoo     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jui248/opennutrition_a_free_odbllicensed_nutrition/</guid>
       <pubDate>Tue, 08 Apr 2025 16:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经开了一个E2EE TODO应用程序。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jugt70/i_have_open_sourced_an_e2ee_todo_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     快速燃烧：以50ms的交互和实时同步为速度构建。体验一个永远不会让您放慢的任务管理器。  本地首选：您的数据停留在设备上。没有服务中断，帐户问题或连接问题。您的任务始终是您的。  安全性：端到端加密可确保您的数据保持私密。甚至开发人员也无法访问您的解密数据。  隐私：没有遥测或用法分析。我们认为，出色的软件不需要监视用户。  该软件是免费的，除非官方同步， 当前它支持iOS，移动Web，Android。将来，它将支持MACOS，Windows，台式网络。 几乎所有功能都在客户端实现，除了与登录和注册有关的代码，所有其他开源的代码，当前同步仅支持我的私人服务器（数据都将被加密和上传，接受PRENINIP，BECTRON precriation cand cant in IC Sybrriation cand cand cand。 源代码： https://github.com/hamsterbase/tasks      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jugt70/i_have_open_sourcen_sourced_an_e2ee_todo_app/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jugt70/i_have_open_sourced_an_e2ee_todo_app/</guid>
+      <pubDate>Tue, 08 Apr 2025 15:47:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
