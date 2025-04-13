@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 15:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 18:14:33 GMT</lastBuildDate>
+    <item>
+      <title>新秀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jybnmy/the_rookie/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我已经构建了几个网站（主要是用Django专注于后端，但我也可以用React处理前端）。我正在寻找有关哪种网站的建议，我应该在哪种网站上构建挑战自己并了解更多信息。 对项目有助于我在Web开发中升级的项目的任何想法？我对任何会促使我学习新技能的东西开放 - 无论是后端，全栈还是涉及API，安全性或其他内容的项目。 期待您的建议！ 谢谢！    &lt;！提交由＆＃32; /u/u/lose_rip_9970     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jybnmy/the_rookie/</guid>
+      <pubDate>Sun, 13 Apr 2025 16:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测到恶意软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jybfgq/malware_detected/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人可以帮助我，当访问该网站时，抗病毒病毒发现有病毒。当我检查时说下面。有人可以让我知道可以做什么。          &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/MaintainSpec   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jybfgq/malware_detected/</guid>
+      <pubDate>Sun, 13 Apr 2025 16:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管视频还是CDN？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy9xix/self_hosted_videos_or_cdn/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  以下托管帐户统计数据足以在300 1080p mp4视频左右进行自我托管，还是我们应该考虑某种类型的CDN？每月允许的数字为： 空间100 g，流量5 TB，Inodes 500000  平均MP4大小约为30mb。 使用的框架可能是Laravel/Symfony。另外，您会推荐哪个CDN？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dev_ski     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy9xix/self_hosted_videos_or_cdn/</guid>
+      <pubDate>Sun, 13 Apr 2025 15:14:53 GMT</pubDate>
+    </item>
     <item>
       <title>我是后端开发人员，聘请前端开发人员来帮助我使用个人 /投资组合网站会感到厌烦吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jy9eyx/i_am_a_backend_developer_would_it_be_frown_upon/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/u/kerricklong      [注释]    ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jy6xd4/ship_software_that_does_nothing/</guid>
       <pubDate>Sun, 13 Apr 2025 12:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在打字稿中重写的微小叉子：770字节中的直接日期和时间格式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy6rgh/tinytime_fork_rewritten_in_typescript_a/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/atulin      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy6rgh/tinytime_fork_rewritten_in_typescript_a/</guid>
-      <pubDate>Sun, 13 Apr 2025 12:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个LLM令牌/成本计算器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy6qgl/i_created_an_llm_tokencost_calculator/</link>
-      <description><![CDATA[     I needed to compute the cost of the api calls, for a website I&#39;m working on and I ended up building an LLM Token Calculator which estimates the number of tokens each call will have for input and output and estimate the 成本。它还可以考虑批处理的呼叫，您可以根据您的估计设置特定数量的呼叫。  现在，它将其使用定价用于打开AI，但很快我将添加更多提供商。  您还可以在计算中添加自定义条目。 我很高兴收到您的反馈，尤其是如果您对某些特定的LLM提供商感兴趣或其他功能。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/webilvercraft      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy6qgl/i_created_an_llm_tokencost_calculator/</guid>
-      <pubDate>Sun, 13 Apr 2025 12:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>建造了一个小商店，结合了Next.js和Figma模板 - 寻找UX或定价的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy60vb/built_a_little_store_combining_nextjs_and_figma/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！ 👋 我一直在做一个名为 astrae 的小型项目 - 它是一家模板商店，旨在弥合设计师和开发人员之间的差距。 作为一个与开发人员紧密合作的UI设计师，我总是觉得大多数模板商店都不是在设计上，或者不适合使用设计的 blite    ） UI/UX。所以我想……为什么不将两者都结合在一起？ 现在，现在已经很早了，所以我真的很喜欢任何反馈 -  UX，定价，内容，氛围等。不想硬透明，只想改进它，看看它是否与其他任何人产生共鸣。 如果您很好奇，我在个人资料中删除了一个链接。很高兴回答问题，进行烘烤或与同行制造商😄 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/denzelobeng     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy60vb/built_a_little_store_combining_nextjs_and_figma/</guid>
-      <pubDate>Sun, 13 Apr 2025 11:59:37 GMT</pubDate>
     </item>
     <item>
       <title>SVG的一些好处</title>
